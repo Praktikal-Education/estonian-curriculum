@@ -1,0 +1,630 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Informaatika",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikaine Informaatika eesmärk on arendada õpilaste digitaalset kirjaoskust, loovat mõtlemist ja probleemilahendusoskust. Valikaine käsitleb erinevaid informaatika valdkondi, nagu algoritmid, programmeerimine, andmetöötlus, veebidisain, robootika ja tehisintellekt. Valikaine õppesisu on paindlik ja võimaldab õpetajal kohandada seda vastavalt õpilaste huvidele, eelteadmistele ja võimetele. Valikaine toetab õpilaste ettevalmistust digitaalseks kodanikuks olemiseks ja annab neile vajalikud oskused edasiseks õppimiseks ja töötamiseks informaatika valdkonnas.</p><p>Informaatika õpetamise põhimõtted põhikoolis on:</p><ul><li>elulähedus;</li><li>aktiivõpe ja loovus;</li><li>uuenduslikkus;</li><li>koostöö;</li><li>teadmusloome;</li><li>vaba tarkvara ja avatud sisu, sõltumatus tarkvaratootjast;</li><li>turvalisus;</li><li>lõimitus ja sidusus.</li></ul>"
+        },
+        {
+          "kind": "section",
+          "title": "Raalmõtlemine ja disainmõtlemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Põhikooli informaatikaõppe sisu koosneb üldistatult kahest komponendist, mille omavahelist tasakaalustamist ainekavaga taotletakse:</p><p><strong>raalmõtlemine</strong> - eluliste ülesannete lahendamise viis, mille puhul kasutatakse algoritmide tundmist ja rakendamist, mustrite tuvastamist, probleemi osadeks jaotamist ja üldistamist;</p><p><strong>disainmõtlemine</strong> – kasutajakeskne, loov ja koostöine eluliste ülesannete lahendamise viis, sh probleemi määratlemine, vajaduste võrdlemine, mõtlemine, ehitamine ja katsetamine.</p><p>II kooliastmes õpetab informaatikat eelistatavalt kvalifitseeritud informaatikaõpetaja eraldi õppeainena, käsitletakse 1–4 õppeteemat: „Digiseade töövahendina“, „Programmeerimine“, „Digimeedia“, „Digihügieen“.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe kavandamine ja korraldamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>II kooliastmes informaatika õpet kavandades ja korraldades:</strong></p><ol><li>lähtutakse õppekava alusväärtustest, üldpädevustest, õppeaine eesmärkidest, õppesisust ja oodatavatest õpitulemustest ning toetatakse lõimingut teiste õppeainete ja läbivate teemadega;</li><li>jälgitakse, et õpilase õpikoormus (sh kodutööde maht) on mõõdukas;</li><li>võimaldatakse õppida üksi ning üheskoos teistega, et toetada õpilaste kujunemist aktiivseteks ning iseseisvateks õppijateks;</li><li>kasutatakse diferentseeritud õppeülesandeid, mille sisu ja raskusaste toetavad individualiseeritud käsitlust ning suurendavad õpimotivatsiooni;</li><li>rakendatakse nüüdisaegseid õpikeskkondi ning õppematerjale ja -vahendeid;</li><li>laiendatakse õpikeskkonda: veebipõhine personaalne õpikeskkond, arvutiklass, kooliõu, muuseumid, näitused, ettevõtted jne;</li><li>tagatakse, et õppe vältel õpitakse headest tavadest lähtuvat veebikäitumist, sealhulgas virtuaalsetes võrgustikes ning ametlikke infosüsteeme (e-kool, e-õppekeskkond, kooli ja omavalitsuse koduleht) kasutades.</li></ol><p>Informaatika õppetegevust kavandades on võimalik kasutada erinevaid lähenemisi:</p><ul><li><strong>õpetada informaatika teemasid eraldi õppeainetena.</strong> Kool valib ühe õppeteema ja õpetab seda ühes klassis täies mahus eraldiseisva 35-tunnise õppeainena (nt üks tund nädalas terve õppeaasta jooksul). Terviklik lähenemine võimaldab põhjalikumat käsitlust ja kõigi taotletavate õpitulemuste saavutamist.</li><li><strong>kombineerida mitme õppeteema osadest oma informaatika õppeaine.</strong> Kool valib õppeteemade hulgast endale sobilikud elemendid, millest kombineeritakse oma loodud õppeaine/kursus.</li><li><strong>informaatika õppeteemade lõimimine eri õppeainete tundidesse.</strong> Kool lõimib õppeteemade elemente eri ainete õpetusse (nt kunst, tööõpetus, matemaatika).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamise põhimõtted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>II kooliastme informaatika tundides õpilasi hinnates lähtutakse vastavatest põhikooli riikliku õppekava üldosa sätetest. Informaatika õpitulemuste saavutatuse kohta antakse õpilasele tagasisidet õppeprotsessi käigus lähtudes õpilase õpiülesannetest. Kokkuvõtvalt hinnatakse kursuse lõpus. Õpiülesanded võivad olla tehtud kas üksi või rühmatööna. Hindamiskriteeriumid kirjeldatakse ära kooli õppekavas.</p><p>Soovitavalt hinnatakse informaatikaõppes:</p><ol><li>õppe plaanipärasust, loomingulisust ja ratsionaalsust;</li><li>õppekavas ettenähtud õpitulemuste saavutamist ning seonduvate pädevuste olemasolu veenvat tõendamist;</li><li>loodud materjalide tehnilist teostust, esteetilisust ja originaalsust;</li><li>õpilasepoolset praktilise tegevuse mõtestamist;</li><li>õpilase isiklikku arengut kursuse jooksul.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "järgib veebilehele kommentaare lisades, veebifoorumi ja postiloendi vahendusel toimuvas arutelus osaledes nii tunnustatud suhtlusnorme kui ka selle keskkonna nõudeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ebaeetilise digisuhtluse võimalikke tagajärgi ning hindab kriitiliselt veebisuhtluse sisu ja turvalisust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "haldab ja kaitseb oma digitaalset identiteeti, sh kasutades mitmeastmelist või -faktorilist isikutuvastust ja parooli taaste meetodeid, selgitab oma sotsiaalmeedia vms konto privaatsusseadete häälestamise vajadust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab kü berkiusamise olemust, kuidas seda märgata ja vastavas olukorras käituda;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab turvameetmeid oma arvuti ja nutiseadme kaitseks (nt viiruse- ja pahavaratõrje, jälitusrakendused jne);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja väldib digivahendi kasutamisest tekkida võivaid ohte tervisele (sõltuvus, liigese- ja rü hivead, nägemise halvenemine), teeb vastavaid võimlemisharjutusi (silmadele, randmetele jne);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tuvastab ja lahendab iseseisvalt lihtsamaid probleeme tõrkuvate digiseadmete või rakendustega.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Digihügieen",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppeteema „Digihügieen“ eesmärk on tagada õpilastele igapäevaseks õppetööks vajalikul baastasemel pädevused digiohutuseks ning veebikeskkonnas suhtlemise ja koostööga toimetulemiseks.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming teiste ainetega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vihjed, kuidas seda teemat võiks kooliprogrammis käsitleda:</p><p><strong>Terviseõpetus:</strong> arutelud digiseadmete kasutamise ja ergonoomika üle, et vältida kehahoiaku ja nägemisega seotud probleeme. Teadvustamine pikaaegse ekraaniaja mõjust une kvaliteedile ja üldisele heaolule. Oma nutiseadme kasutuse kaardistamine ja tegevuste analüüs</p><p><strong>Sotsiaalained:</strong> küberkiusamise ennetamise strateegiad ja empaatia arendamine digitaalses suhtluses. Digitaalse jalajälje mõistmine ja selle juhtimine, sh privaatsuse säilitamine internetis. Sotsiaalsed rollimängud nagu kaardimäng Suurim julgus.</p><p><strong>Kunstiained:</strong> autoriõiguste ja litsentside tundmaõppimine digitaalse sisu loomisel ja jagamisel. Loovuse ja originaalsuse edendamine digitaalsete vahendite abil. Tehnoloogia kasutamine koostöös ja loomingus</p><p><strong>Tehnoloogia:</strong> tarkvara ja rakenduste turvalise kasutamise põhimõtete õpetamine, sealhulgas paroolide haldamine ja andmekaitse. Arvutiviiruste ja pahavara tundmaõppimine ning nende vastu kaitsmise meetodid.</p><p>Lõimimine aitab õpilastel arendada vastutustundlikku suhtumist digitehnoloogiate kasutamisse ja mõista digihügieeni tähtsust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste kujundamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Siin on mõned võtmevaldkonnad:</p><p><strong>Digitaalne kirjaoskus:</strong> õpilased õpivad mõistma ja kriitiliselt hindama digitaalseid sisusid ning arendavad oskusi nende turvaliseks kasutamiseks.</p><p><strong>Eneseregulatsioon:</strong> õpetatakse õpilastele digiseadmete tervislikku ja mõõdukas kasutamist, et vältida sõltuvust ja ülekoormust.</p><p><strong>Kriitiline mõtlemine:</strong> julgustatakse õpilasi mõistma digitaalse info usaldusväärsust ja õppima eristama fakti arvamusest.</p><p><strong>Sotsiaalsed oskused:</strong> Arendatakse oskusi digitaalses suhtluses, sh empaatia ja eetiliste põhimõtete rakendamine.</p><p><strong>Turvalisus:</strong> Õpetatakse õpilastele, kuidas kaitsta end küberkiusamise ja internetipettuste eest.</p><p>Üldpädevuste kujundamine digihügieeni raames loob aluse turvaliseks ja teadlikuks käitumiseks digitaalses keskkonnas.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivate teemade käsitlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Tehnoloogia ja innovatsioon:</strong> kuidas tehnoloogia mõjutab meie igapäevaelu ja ühiskonda laiemalt, ning kuidas innovatsioon võib lahendada probleeme.</p><p><strong>Sotsiaalne vastutus:</strong> oma tegevuse tagajärgede mõistmine digikeskkonnas, sealhulgas privaatsuse kaitsmine ja eetiline käitumine internetis.</p><p><strong>Jätkusuutlik areng:</strong> digitehnoloogiate kasutamise mõju keskkonnale ja ressursside säästlik kasutamine.</p><p>Läbivate teemade käsitlus aitab õpilastel arendada terviklikku arusaama digitehnoloogiate rollist ja nende vastutustundlikust kasutamisest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppemeetodid ja -võtted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Rühmatöö:</strong> õpilased töötavad koos, et arutada digihügieeni teemasid ja lahendada probleeme, mis arendab nende koostööoskust ja suhtlemispädevust.</p><p><strong>Rollimängud:</strong> õpilased mängivad läbi erinevaid internetiga seotud stsenaariume, et paremini mõista digitaalse maailma ohte ja õppida turvalist käitumist.</p><p><strong>Arutelud ja debatid:</strong> klassis korraldatakse arutelusid ja debate, mis aitavad õpilastel arendada kriitilist mõtlemist ja argumenteerimisoskust.</p><p><strong>Projektipõhine õpe:</strong> õpilased viivad läbi projekte, mis on seotud digihügieeniga, nagu näiteks uurimistööd või kampaaniad turvalise internetikasutuse teemal.</p><p><strong>Praktilised harjutused:</strong> õpilased teevad praktilisi harjutusi, nagu paroolide loomine ja turvaliste veebilehtede tuvastamine, et õppida turvalise internetikasutuse põhimõtteid.</p><p><strong>Enesehindamine ja refleksioon:</strong> õpilasi julgustatakse mõtisklema oma internetikasutuse harjumuste üle ja hindama nende turvalisust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamiskriteeriumid võivad hõlmata järgmist:</p><p><strong>Suhtlusnormide järgimine:</strong> kuidas õpilane järgib tunnustatud suhtlusnorme ja keskkonna nõudeid veebikommentaarides ja foorumites.</p><p><strong>Kriitiline mõtlemine:</strong> õpilase võime selgitada ebaeetilise digisuhtluse tagajärgi ja hinnata veebisuhtluse sisu ja turvalisust.</p><p><strong>Digitaalse identiteedi haldamine:</strong> õpilase oskus kaitsta oma digitaalset identiteeti, kasutades mitmeastmelist autentimist ja parooli taastamise meetodeid.</p><p><strong>Küberkiusamise mõistmine:</strong> õpilase teadlikkus küberkiusamisest ja oskus selles olukorras käituda.</p><p><strong>Turvameetmete rakendamine:</strong> õpilase oskus kaitsta oma seadmeid viiruste ja pahavara eest ning rakendada turvameetmeid.</p><p><strong>Terviseriskide teadvustamine:</strong> õpilase teadlikkus digivahendite kasutamisega seotud terviseriskidest ja oskus teha vastavaid võimlemisharjutusi.</p><p><strong>Probleemide lahendamine:</strong> õpilase võime tuvastada ja lahendada probleeme tõrkuvate digiseadmete või rakendustega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/",
+              "title": "II kooliastme informaatika digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Digih%C3%BCgieen/",
+              "title": "Teema digihügieen"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Main/Digihygieenop",
+              "title": "Õpetajamaterjal"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kaardimäng “Suurim julgus” on loodud MTÜ Lastekaitse Liit ja Telia Eesti AS koostöös, et aidata noortel mõista internetis ette tulevate olukordade varjatud olemust ning arendada kriitilise mõtlemise ja koostöö oskusi. Mängu eesmärk on luua arutelusid, kus mängijad leiavad juhtumikaartidel kirjeldatud olukordadele võimalikke lahendusi.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Programmeerimine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppeteema „Programmeerimine“ eesmärk on sü steemselt tutvustada õpilastele lihtsate praktiliste ülesannete kaudu programmeerimise põhimõisteid, algoritmide rakendamist ja programmi loomise etappe ühe haridusliku programmeerimiskeele/arenduskeskkonna näitel.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab ja kasutab teadlikult järgmisi mõisteid: programm, protsess, algoritm, roll (looja, täitja, kasutaja), muutuja, avaldis, valik, tsükkel , alamprogramm, programmeerimiskeel, sisend ja väljund;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib etteantud programmi ja ennustab selle töö tulemust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb selles otstarbekaid (oma eesmärgile vastavaid) muudatusi ja täiendusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab programmi etteantud tegevusskeemi, pseudokoodi või sõnalise kirjelduse alusel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab algoritmide ning programmide kasutamise lisandväärtust erinevates eluvaldkondades;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab lihtsamaid avaldisi ja algoritme (valik, kordus), mida on võimalik kasutada reaalses juhtprogrammis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab rakenduse töö testimise vajadust ja olemust ning parandab tekkinud vead;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab lihtsama ü lesande (nt sõida mööda joont) täitmiseks valmisdetailidest mehaanilise seadme ja selle juhtprogrammi (robootika).",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming teiste ainetega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Algoritmilise mõtlemise rakendamine matemaatika ja loogika kontekstis. Siin on mõned soovitused, kuidas seda teha II kooliastmes:</p><ol><li>Lõimitud õppeained: Koostöös teiste õpetajatega leidke viise, kuidas integreerida informaatika teemasid teiste ainetega. Näiteks võib matemaatika tundides uurida algoritme ja andmestruktuure.</li><li>Projektõpe: Korraldage projekte, kus õpilased saavad rakendada informaatika oskusi teiste ainetega seotud probleemide lahendamisel. Näiteks võib uurida ajaloolisi sündmusi, luua interaktiivseid veebilehti või analüüsida andmeid.</li><li>Teemakohased ülesanded: Koostage ülesandeid, mis ühendavad informaatika teemasid teiste ainetega.</li><li>Õppekäigud ja külalisesinejad: Korraldage õppekäike ettevõtetesse, kus kasutatakse informaatikat igapäevatöös.</li><li>Õppematerjalide lõimimine: Kasutage õppematerjale, mis ühendavad informaatika teemasid teiste ainetega.</li></ol><p>Siin on mõned näited, kuidas programmeerimist saab teiste ainetega lõimida:</p><p><strong>Matemaatika:</strong> programmeerimine aitab õpilastel mõista matemaatilisi kontseptsioone, nagu algoritmid ja loogika, ning rakendada neid probleemide lahendamisel.</p><p><strong>Loodusteadused:</strong> õpilased saavad kasutada programmeerimist, et koguda ja analüüsida andmeid, luua simulatsioone või modelleerida teaduslikke protsesse.</p><p><strong>Kunstiained:</strong> digitaalse kunsti loomine, nagu animatsioonid ja graafiline disain, võimaldab õpilastel ühendada programmeerimisoskused loovusega.</p><p><strong>Sotsiaalained:</strong> programmeerimist saab kasutada andmete visualiseerimiseks ja sotsiaalsete nähtuste analüüsimiseks.</p><p><strong>Kehaline kasvatus:</strong> programmeerimine võib olla seotud spordianalüütika ja tulemuslikkuse jälgimise tehnoloogiatega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste kujundamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Siin on mõned soovitused, kuidas toetada üldpädevuste arengut II kooliastmes, keskendudes algoritmidele ja programmeerimisele:</p><p><strong>Koostööoskus:</strong> õpetage õpilastele, kuidas koos teistega töötada. Programmeerimisel saavad nad koostööd teha, jagades ideid, lahendades ülesandeid ja analüüsides algoritme koos.</p><p><strong>Enesekompetents:</strong> julgustage õpilasi iseseisvalt uurima ja õppima. Andke neile võimalus lahendada programmeerimisülesandeid iseseisvalt ning otsida ise vastuseid.</p><p><strong>Kriitiline mõtlemine:</strong> õpetage õpilastele, kuidas analüüsida probleeme, leida erinevaid lahendusi ja valida parim algoritm.</p><p><strong>Suhtlemisoskus:</strong> programmeerimine hõlmab sageli meeskonnatööd. Õpetage õpilastele, kuidas selgelt suhelda, jagada oma mõtteid ja kuulata teisi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivate teemade käsitlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Läbivate teemade käsitlemine õppekavas on oluline, et aidata õpilastel mõista erinevate valdkondade omavahelisi seoseid ja arendada terviklikku maailmavaadet. II kooliastme “Programmeerimise” teema puhul võib läbivate teemade käsitlemine hõlmata järgmist:</p><p><strong>Tehnoloogiline ja digitaalne kirjaoskus:</strong> õpilased õpivad, kuidas tehnoloogia toimib ja kuidas seda turvaliselt ja eetiliselt kasutada.</p><p><strong>Innovatsioon ja loovus:</strong> programmeerimine julgustab õpilasi looma uusi lahendusi ja tooteid, arendades nende loovust ja innovaatilist mõtlemist.</p><p><strong>Kriitiline mõtlemine ja probleemide lahendamine:</strong> õpilased õpivad analüüsima probleeme ja leidma neile loogilisi lahendusi programmeerimise kaudu.</p><p><strong>Sotsiaalne vastutus ja kodanikupädevus:</strong> programmeerimise õppimine aitab õpilastel mõista tehnoloogia mõju ühiskonnale ja nende rolli digitaalses maailmas.</p><p><strong>Jätkusuutlikkus:</strong> õpilased saavad aru, kuidas tehnoloogia ja programmeerimine võivad aidata lahendada keskkonnaalaseid probleeme ja edendada jätkusuutlikku arengut.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppemeetodid ja -võtted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Programmeerimise õpetamisel saab kasutada praktilisi harjutusi, projektitööd ja koostööd. Eelistatakse aktiivset õpet ja loomingulisust. Õpilased saavad kasutada vaba tarkvara ja avatud sisu. Turvalisus on oluline: õpilased õpivad turvalist veebikäitumist.</p><p>Algoritmide ja programmeerimise õpetamisel II kooliastmes on mitmeid tõhusaid meetodeid, mis aitavad õpilastel mõista algoritme ja programmeerimist:</p><p><strong>Aktiivne õpe:</strong> kaasake õpilasi aktiivselt õppimisprotsessi.</p><p><strong>Koostöö ja rühmatöö:</strong> Laske õpilastel töötada koos, et jagada teadmisi ja kogemusi.</p><p><strong>Probleemipõhine õpe:</strong> Andke õpilastele reaalseid probleeme, mida nad peavad lahendama.</p><p><strong>Visualiseerimine:</strong> Kasutage graafikuid, skeeme ja visuaalseid abivahendeid, et selgitada algoritme ja programmeerimiskontseptsioone.</p><p><strong>Tagasiside:</strong> Andke õpilastele regulaarselt tagasisidet nende töö kohta.</p><p><strong>Projektid:</strong> Korraldage projekte, kus õpilased saavad rakendada oma teadmisi reaalsetes olukordades.</p><p><strong>Mänguline õpe:</strong> Loo mänge, mis aitavad õpetada algoritme ja programmeerimist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Programmeerimise õpitulemuste hindamine võib toimuda mitmel viisil, võttes arvesse nende praktilist rakendust ja tõhusust. Siin on mõned võimalused:</p><p><strong>Õige lahenduse leidmine:</strong> kontrollige, kas õpilased suudavad koostada algoritmi, mis lahendab konkreetse ülesande õigesti. Näiteks võib paluda neil koostada algoritm, mis leidb Fibonacci arvu.</p><p><strong>Efektiivsus ja kiirus:</strong> hinnake, kui kiiresti algoritm töötab.</p><p><strong>Algoritmi selgus ja loogika:</strong> kontrollige, kas algoritm on selgelt kirjeldatud ja loogiline.</p><p><strong>Praktiline rakendus:</strong> Paluge õpilastel rakendada oma loodud algoritmi reaalsetes olukordades.</p><p><strong>Alternatiivsete lahenduste kaalumine:</strong> Arutlege erinevate algoritmide võimaluste üle.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/",
+              "title": "II kooliastme informaatika digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Programmeerimine/",
+              "title": "Teema programmeerimine"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Main/Programmeerimineop",
+              "title": "Õpetajamaterjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.codecademy.com/",
+              "title": "Codecademy"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.khanacademy.org/",
+              "title": "Khan Academy"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@TraversyMedia",
+              "title": "Traversy Media"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@NetNinja",
+              "title": "The Net Ninja"
+            },
+            {
+              "kind": "link",
+              "href": "https://leetcode.com/",
+              "title": "LeetCode"
+            },
+            {
+              "kind": "link",
+              "href": "https://stackoverflow.com/",
+              "title": "Stack Overflow"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Raamat “Python Crash Course” Eric Matthesilt sobib algajatele, kes soovivad õppida Pythoni programmeerimiskeelt.</p><p>“Introduction to Algorithms” Thomas H. Cormenilt on sügavam sukeldumine algoritmidesse.</p><p>Need ressursid on suurepärased vahendid nii algajatele kui ka edasijõudnud programmeerijatele, et arendada oma oskusi ja teadmisi programmeerimises.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Digimeedia",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppeteema „Digimeedia“ eesmärk on õpetada eri liiki digimeedia (foto, arvutijoonis, video, 3D-joonis) loomist, selle arvutisse salvestamist, töötlemist ja veebis jagamist, järgides autoriõigusi.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab fotokaamera tööpõhimõtteid ja korrektset hooldust, valib kaamera seaded vastavalt pildistamisoludele, pildistab (fotokaamera, nutiseade);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib vastavalt olukorrale sobiva graafikaliigi, tarkvara ja failitüü bi, arvestades raster- ja vektorgraafika erinevusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tuvastab digifoto puudused (kontrast, värvid, teravus, valge tasakaal) ja töötleb fotot vastavate tööriistadega puuduste vähendamiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab portreefoto töötlemisel erinevaid võtteid (nt retušeerimine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab 3D-jooniseid ja printerit eesmärgipäraselt – jooniste arvutisse laadimiseks, nende muutmiseks ja printimiseks ettevalmistamiseks, pidades silmas 3D-printeri tööpõhimõtteid ja autoriõigusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "salvestab ja töötleb heli ja videot nutiseadme ja arvuti abil;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kombineerib teksti, heli, pilti ja videot, kasutades erinevaid ü leminekuid ja efekte;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab digimeedia arengus olulisi sü ndmusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab tehis- ja liitreaalsust ja nendevahelisi erinevusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming teiste ainetega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalne meedia ja kunst on mitmekülgne valdkond, mis võimaldab õpilastel väljendada oma loovust ja ideid. Selle teema lõimimine teiste ainetega on oluline, et rikastada õpilaste õppimiskogemust ja näidata, kuidas digitaalne kunst on seotud teiste valdkondadega.</p><p><strong>Keel ja kirjandus:</strong> õpilased saavad luua digitaalseid lugusid, luuletusi või kirjandusteoseid, kasutades erinevaid meediaelemente (pilte, heli, animatsiooni).</p><p><strong>Muusika ja helilooming:</strong> Õpilased saavad luua heliefekte, heliribasid või muusikapalu, et rikastada oma digitaalseid meediaprojekte.</p><p><strong>Matemaatika ja geomeetria:</strong> Digitaalne kunst võib olla suurepärane viis matemaatika ja geomeetria kontseptsioonide õpetamiseks.</p><p><strong>Ajaloouuringud ja ühiskonnaõpetus:</strong> Õpilased saavad uurida digitaalse kunsti ajaloolist tausta ja selle mõju ühiskonnale.</p><p><strong>Tehnoloogia ja infotehnoloogia:</strong> Digitaalne kunst on tihedalt seotud tehnoloogiaga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste kujundamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalne meedia ja kunst on inspireeriv teema, mis aitab õpilastel arendada mitmeid üldpädevusi.</p><p><strong>Loovus ja innovatsioon:</strong> digitaalse meedia ja kunsti loomine nõuab loovust ja uute ideede genereerimist.</p><p><strong>Kriitiline mõtlemine ja probleemilahendusoskus:</strong> digitaalse meedia loomisel peavad õpilased analüüsima, kuidas erinevad elemendid omavahel suhestuvad.</p><p><strong>Kommunikatsioonioskus:</strong> digitaalne meedia ja kunst on suurepärane viis oma ideede ja sõnumite edastamiseks.</p><p><strong>Enesemotivatsioon ja õpioskused:</strong> digitaalne meedia loomine nõuab pühendumist ja enesedistsipliini.</p><p><strong>Sotsiaalsed ja kultuurilised pädevused:</strong> digitaalne meedia ja kunst on seotud kultuuriga ning võimaldab õpilastel uurida erinevaid väljendusvorme ja kunstistiile.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivate teemade käsitlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalne meedia ja kunst on põnev teema, mis hõlmab mitmeid läbivaid teemasid.</p><p><strong>Loominguline eneseväljendus:</strong> digitaalne meedia ja kunst võimaldavad õpilastel väljendada oma mõtteid, tundeid ja ideid läbi erinevate meediaelementide.</p><p><strong>Kriitiline meediatarbimine:</strong> digitaalse meedia ajastul on oluline õpetada õpilastele kriitilist mõtlemist meediasisu suhtes.</p><p><strong>Eetika ja autoriõigus:</strong> digitaalse meedia loomisel tuleb arvestada eetilisi küsimusi ja autoriõiguse reegleid.</p><p><strong>Tehnoloogiaoskus:</strong> digitaalne meedia ja kunst nõuavad tehnoloogiaoskusi.</p><p><strong>Kultuuridevaheline suhtlus:</strong> digitaalne meedia võimaldab õpilastel suhelda inimestega üle kogu maailma.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppemeetodid ja -võtted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalse meedia ja kunsti õpetamine II kooliastmes võib olla põnev ja interaktiivne.</p><p><strong>Praktiline loovtöö:</strong> õpilased saavad luua oma digitaalseid meediaobjekte, nagu pildid, helid, videod või animatsioonid.</p><p><strong>Koostööprojektid:</strong> õpilased saavad töötada koos, et luua suuremaid projekte.</p><p><strong>Õppekäigud ja külastused:</strong> Korraldage külastusi kunstigaleriidesse, muuseumidesse või digitaalse meedia ettevõtetesse.</p><p><strong>Õppematerjalide uurimine:</strong> õpilased saavad uurida erinevaid digitaalse meedia ja kunsti tehnikaid, tarkvarasid ja platvorme.</p><p><strong>Esitlused ja arutelud:</strong> Õpilased saavad esitleda oma loodud meediaobjekte ja selgitada, kuidas nad neid loonud on.</p><p><strong>Väljasõidud loodusse või linnaruumi:</strong> Õpilased saavad jäädvustada loodust või linnakeskkonda digitaalse meedia abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalse meedia ja kunsti hindamine on oluline osa õppetööst, mis võimaldab õpetajatel mõista õpilaste arengut ja õpitulemusi.</p><p><strong>Portfoolio hindamine:</strong> paluge õpilastel luua portfoolio, kuhu nad saavad koguda oma digitaalse meedia loomise tulemusi.</p><p><strong>Projektide hindamine:</strong> korraldage õpilastele digitaalse meedia projekte, näiteks videomontaaži, animatsiooni või illustratsiooni loomist.</p><p><strong>Esitlused ja tagasiside:</strong> paluge õpilastel esitleda oma loodud meediaobjekte klassikaaslastele või õpetajale.</p><p><strong>Enesehindamine:</strong> õpetage õpilastele enesehindamise oskust.</p><p><strong>Koostööprojektid ja rühmatöö hindamine:</strong> kui õpilased töötavad koos, hindage nende koostööd ja panust projekti.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/",
+              "title": "II kooliastme informaatika digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Digimeedia/",
+              "title": "Teema digimeedia"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Main/Digimeediaop",
+              "title": "Õpetajamaterjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.autodraw.com/",
+              "title": "AutoDraw"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.fotor.com/",
+              "title": "Fotor"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.fotor.com/blog/best-ai-design-tools/",
+              "title": "Fotori AI-pildigeneraator"
+            },
+            {
+              "kind": "link",
+              "href": "https://designs.ai/",
+              "title": "Design AI"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.khroma.co/",
+              "title": "Khroma"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.canva.com/",
+              "title": "Canva"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.adobe.com/creativecloud.html",
+              "title": "Adobe Creative Cloud"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/digioppevara",
+              "title": "Digiõppevara"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.gimp.org/",
+              "title": "GIMP"
+            },
+            {
+              "kind": "link",
+              "href": "https://inkscape.org/",
+              "title": "Inkscape"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.audacityteam.org/",
+              "title": "Audacity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Digiseade töövahendina",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppeteema „Digiseade töövahendina“ eesmärk on anda õpilastele vajalikud baasoskused arvuti kasutamiseks, sh tekstitöötluseks, info otsimiseks, hindamiseks ja esitamiseks, tööks andmetega, lähtudes etteantud vormistusnõuetest ja formaatidest. Teema on tihedalt lõimitud teiste õppeainetega.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "sisestab, vormindab ja kopeerib eri tüü pi tekste (sh nt plakatit, kuulutust);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab digiseadet ohutult ja säästlikult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vormindab referaati vastavalt etteantud juhendile, viitab korrektselt kasutatud allikatele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "salvestab, kopeerib, kustutab ja pakib kokku faile, töötab mitme aknaga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "otsib infot, kasutab ja hindab seda allikakriitiliselt, väldib plagiaati;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab etteantud andmestiku põhjal andmetabeli, sagedustabelid ja sobivat tüüpi diagrammid (tulp-, sektor- või joondiagrammi), sorteerib ja filtreerib andmeid, kasutab lihtsamaid tabelarvutuse funktsioone (summa, aritmeetiline keskmine, max, min), haldab ja kaitseb oma andmeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab ja disainib teksti, diagramme, pilte, audiot, videot ja tabeleid sisaldava esitluse etteantud teemal.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming teiste ainetega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mõned näited, kuidas seda teemat võiks teiste ainetega lõimida:</p><p><strong>Keeleõpe:</strong> õpilased kasutavad digiseadmeid, et otsida sõnavara, koostada ja toimetada tekste, mis aitab arendada nende keeleoskust.</p><p><strong>Matemaatika:</strong> digiseadmete abil saavad õpilased luua ja analüüsida andmetabeleid ja diagramme, mis aitab neil paremini mõista matemaatilisi kontseptsioone.</p><p><strong>Loodusained:</strong> õpilased kasutavad digiseadmeid uurimistööde tegemisel, andmete kogumisel ja esitamisel, mis toetab teadusliku meetodi mõistmist.</p><p><strong>Ajalugu ja ühiskonnaõpetus:</strong> digiseadmete abil saavad õpilased uurida ajaloolisi allikaid ja esitada oma uurimistöid, mis aitab neil arendada kriitilist mõtlemist ja allikakriitilisust.</p><p><strong>Kunstiained:</strong> õpilased saavad kasutada digiseadmeid loovate projektide, nagu digitaalse kunsti või muusika loomisel, mis soodustab nende loovuse arengut.</p><p><strong>Muusika:</strong> õpilased võivad kasutada digiseadmeid muusika loomiseks ja muusikateooria õppimiseks, kasutades erinevaid rakendusi ja tarkvarasid.</p><p><strong>Geograafia:</strong> digiseadmete abil saavad õpilased uurida kaarte, analüüsida kliimaandmeid ja luua interaktiivseid esitlusi geograafiliste teemade kohta.</p><p><strong>Tehnoloogia ja käsitöö:</strong> õpilased saavad kasutada digiseadmeid disainiprotsessi dokumenteerimiseks, ideede kavandamiseks ja projektide esitlemiseks.</p><p><strong>Võõrkeeled:</strong> digiseadmeid kasutades saavad õpilased praktiseerida keeleõpet läbi erinevate rakenduste, kuulata hääldust ja suhelda teistes keeltes.</p><p><strong>Bioloogia:</strong> Õpilased võivad kasutada digiseadmeid bioloogiliste protsesside modelleerimiseks, andmete kogumiseks ja elusorganismide uurimiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste kujundamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Soovitav on hõlmata järgmisi aspekte:</p><p><strong>Digitaalne kirjaoskus:</strong> õpilased arendavad oskusi digiseadmete kasutamisel, infootsingul ja digitaalse sisu loomisel.</p><p><strong>Eneseregulatsioon:</strong> õpilased õpivad juhtima oma õppimist ja aja planeerimist, kasutades digiseadmeid tõhusalt.</p><p><strong>Kriitiline mõtlemine:</strong> õpilased harjutavad allikate usaldusväärsuse hindamist ja info kriitilist analüüsi.</p><p><strong>Probleemilahendus:</strong> õpilased kasutavad digiseadmeid probleemide tuvastamiseks ja lahendamiseks, rakendades loovat ja analüütilist mõtlemist.</p><p><strong>Suhtlemisoskus:</strong> õpilased arendavad suhtlemisoskust digikeskkonnas, õppides efektiivselt ja eetiliselt suhtlema.</p><p><strong>Meeskonnatöö:</strong> õpilased töötavad koos projektides, kasutades digiseadmeid koostöö ja ühiste eesmärkide saavutamise vahendina.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivate teemade käsitlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mõned näited, kuidas seda teemat võiks käsitleda:</p><p><strong>Tehnoloogiline kirjaoskus:</strong> õpilased õpivad, kuidas digiseadmeid efektiivselt kasutada, sealhulgas tekstide töötlemist, info otsimist ja esitamist ning andmetöötlust.</p><p><strong>Infoühiskond:</strong> arutelud selle üle, kuidas tehnoloogia mõjutab kommunikatsiooni, haridust ja tööturgu, ning kuidas digiseadmed on muutunud igapäevaelu lahutamatuks osaks.</p><p><strong>Tervis ja heaolu:</strong> teadvustamine, kuidas pidev digiseadmete kasutamine mõjutab füüsilist ja vaimset tervist, ning ergonoomika ja digipauside tähtsuse rõhutamine.</p><p><strong>Turvalisus:</strong> õpetamine, kuidas kaitsta end veebipettuste ja küberkiusamise eest ning kuidas hoida oma isikuandmeid turvaliselt.</p><p><strong>Jätkusuutlik areng:</strong> Arutelud digiseadmete keskkonnamõju üle, nagu elektroonikajäätmed ja energiatarbimine, ning ressursside säästliku kasutamise olulisus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppemeetodid ja -võtted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mõned soovitatavad meetodid ja võtted:</p><p><strong>Praktilised harjutused:</strong> õpilased saavad käed külge panna, kasutades digiseadmeid erinevate ülesannete täitmiseks, nagu õppetekstide vormindamine või kogutud andmete analüüsimine.</p><p><strong>Rühmatöö:</strong> õpilased töötavad koos digiprojektide kallal, mis soodustab koostööd ja suhtlemisoskuste arendamist.</p><p><strong>Projektipõhine õpe:</strong> õpilased rakendavad digiseadmeid, et luua projekte, mis ühendavad erinevaid ainevaldkondi ja päriselu probleeme.</p><p><strong>Mängupõhine õpe:</strong> kasutatakse hariduslikke mänge ja simulatsioone, et õpetada digipädevusi lõbusal ja kaasahaaraval viisil.</p><p><strong>Uurimuslik õpe:</strong> õpilased viivad läbi uurimusi, kasutades digiseadmeid info kogumiseks ja analüüsimiseks.</p><p><strong>Enesehindamine ja kaaslaste hindamine:</strong> õpilased hindavad oma tööd (vastavalt hindamisjuhendile) ja kaaslaste esitlusi, mis aitab neil mõista kvaliteedi tähtsust ja arendada kriitilist mõtlemist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamise juhendi või maatriksi loomine teema “Digiseade töövahendina” jaoks võib hõlmata mitmeid kriteeriume, mis peegeldavad kogu aine õpitulemusi ja õpilaste oskuste arengut. Siin on näide, kuidas selline hindamisjuhend võiks välja näha:</p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Oskus / kriteerium</th><th>Suurepärane</th><th>Hea</th><th>Rahuldav</th><th>Arenguvajadus</th></tr></thead><tbody><tr><td>Tekstide sisestamine ja vormindamine</td><td>Õpilane sisestab ja vormindab tekste veatult, järgides kõiki etteantud juhiseid.</td><td>Õpilane sisestab ja vormindab tekste korrektselt, väikeste vigadega.</td><td>Õpilane sisestab ja vormindab tekste, kuid teeb mitmeid vigu.</td><td>Õpilane vajab abi tekstide sisestamisel ja vormindamisel.</td></tr><tr><td>Digiseadme ohutu kasutamine</td><td>Õpilane kasutab digiseadet alati ohutult ja säästlikult.</td><td>Õpilane kasutab digiseadet enamasti ohutult.</td><td>Õpilane teeb mõningaid vigu digiseadme ohutus kasutamises.</td><td>Õpilane ei kasuta digiseadet ohutult.</td></tr><tr><td>Viitamine ja allikakriitilisus</td><td>Õpilane viitab allikatele korrektselt ja hindab allikaid kriitiliselt.</td><td>Õpilane viitab allikatele enamasti korrektselt.</td><td>Õpilane teeb viitamisel vigu, kuid püüab järgida juhiseid.</td><td>Õpilane vajab viitamisel ja allikakriitilisuses olulist arengut.</td></tr><tr><td>Failihaldus</td><td>Õpilane hallatab faile veatult, demonstreerides head arusaama failisüsteemidest.</td><td>Õpilane hallatab faile korrektselt, kuid teeb mõningaid vigu.</td><td>Õpilane suudab faile hallata, kuid vajab juhendamist.</td><td>Õpilane vajab põhilistes failihalduse toimingutes abi.</td></tr><tr><td>Infootsing ja analüüs</td><td>Õpilane otsib ja analüüsib infot iseseisvalt ja kriitiliselt.</td><td>Õpilane otsib infot ja teeb mõningaid analüütilisi järeldusi.</td><td>Õpilane otsib infot, kuid vajab analüüsimisel abi.</td><td>Õpilane vajab infootsingul ja analüüsil olulist tuge.</td></tr><tr><td>Andmetöötlus</td><td>Õpilane kasutab andmetöötluse funktsioone veatult ja loovalt.</td><td>Õpilane kasutab andmetöötluse funktsioone korrektselt.</td><td>Õpilane kasutab lihtsamaid andmetöötluse funktsioone.</td><td>Õpilane vajab andmetöötluse põhitõdede mõistmisel abi.</td></tr><tr><td>Esitluse koostamine</td><td>Õpilane koostab esitlusi, mis on loovad, kaasahaaravad ja tehniliselt veatud.</td><td>Õpilane koostab korralikke esitlusi, kuid need võivad olla tehniliselt ebatäiuslikud.</td><td>Õpilane koostab lihtsaid esitlusi, kuid vajab kujundusoskustes arengut.</td><td>Õpilane vajab esitluste koostamisel olulist juhendamist.</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://progetiiger.ee/",
+              "title": "Progetiiger"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.targaltinternetis.ee/",
+              "title": "Targalt internetis"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Microsoft Education Center pakub õpetajatele juhendeid ja kursusi digitehnoloogiate kasutamiseks õppetöös.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://edu.google.com/",
+              "title": "Google for Education"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

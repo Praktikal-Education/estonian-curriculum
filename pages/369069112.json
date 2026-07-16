@@ -1,0 +1,254 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kujundada õpilaste teadmisi ja oskusi kriisirollide täitmiseks kriisolukorras õppeasutuse kriisiplaani rakendamise näitel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Vastavalt põhikooli- ja gümnaasiumi seadusele peab igal õppeasutusel olema hädaolukorra lahendamise plaan (kriisiplaan). Kriisiplaanis nähakse ette selle lahendamise üldpõhimõtted, kriisiolukorra lahendamisega seotud isikute ülesanded, kaasatavad isikud ning juhtimise ja teabevahetuse korraldus. Plaanis käsitletakse tegevusi kriisiolukorra ajal ja pärast seda. Lisaks planeerimisele on oluline kriisiplaani regulaarne harjutamine koos õppijate ja personaliga ning teatud regulaarsusega ka väliste partnerite kaasamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursusel tutvutakse õppeasutuse riskidega, kriisiplaani koostamise nõuete ja juhendiga, kriisiolukorra lahendamise põhimõtetega, kriisirollidega ning lauaõppuse ettevalmistamise ja läbiviimise korraldusega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse läbiviimisel on kaasatud kooli kriisimeeskond.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab õppeasutuse tegevusega seotud riske ja kriisiolukorra lahendamise üldpõhimõtteid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab kriisiplaani koostamise vajalikkust, eesmärki ning selle koostamise põhimõtteid ja nõudeid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab ja viib läbi lauaõppuse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab käituda elutähtsate teenuste pikemaajalise katkestuse, varjumise ja evakuatsiooni korral;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab kriisikommunikatsiooni põhimõtteid, sõnastab kriisijuhina ülevaate toimuvast ning käitumisjuhised valides sobiva teavituskanali;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab erinevaid kriisirolle;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib lauaõppuse tulemusi ja teeb ettepanekud kriisiplaani muutmiseks ning täiendamiseks.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Tutvumine õppeasutuse kriisiolukorra riskidega, olukorrapõhiste tegevuskaartidega ja õppeasutuse kriisiplaani koostamise juhendiga.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajaline maht: 3 ak tundi</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://hm.ee/sites/default/files/documents/2025-06/HTM_Oppeasutuse-kriisiplaani_koostamise_juhend_2025.pdf",
+              "title": "Õppeasutuse kriisiplaani koostamise juhend. Haridus- ja teadusministeerium, 2025."
+            },
+            {
+              "kind": "file",
+              "src": "https://hm.ee/sites/default/files/documents/2025-06/LISA%201.%20%C3%95ppeasutuse%20kriisiolukorra%20riskide%20hindamine.doc",
+              "title": "Õppeastuste kriisiolukorra riskide hindamine. Kriisiplaani juhend, lisa 1."
+            },
+            {
+              "kind": "file",
+              "src": "https://hm.ee/sites/default/files/documents/2025-06/HTM_Oppeasutuse-kriisiplaan_2025.docx",
+              "title": "Õppeasutuse näidis kriisiplaan."
+            },
+            {
+              "kind": "link",
+              "href": "https://riigikantselei.ee/riskid",
+              "title": "Riigi riskipilt"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tutvumine õppeasutuse kriisiplaaniga, ühine arutelu ning õppuse eesmärgi püstitamine.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajaline maht: 4 ak tundi</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tutvumine kriisikommunikatsiooni põhimõtetega.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajaline maht: 3 ak tundi</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppuse üldstsenaariumi ehk narratiivi kirjutamine, mis annab ülevaate suuremast pildist. Õppuse legendi koostamine.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajaline maht: 4 ak tundi</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Soovitav on koostada vähemalt kaks või kolm legendi (näiteks):</p><ul><li>kooli evakuatsioon õppetegevuse ajal pommiähvarduse korral;</li><li>äkkrünnak;</li><li>elutähtsate teenuste katkestus näit riigieksamite sooritamise ajal.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kriisireguleerimisõppuste korraldamine.",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.riigikantselei.ee/media/1246/download",
+              "title": "Riigikanstelei, 2021"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mängujuhise (mänguplaani) koostamine.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajaline maht: 4 ak tundi</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Sündmuse nimetus, sündmuse kirjeldus koos olulisemate muutujatega (aeg ja koht, õpilaste arv koolis, hukkunud, vigastatud, meediataust), vajadusel episoodide loomine (aeg algsündmusest, erinevad tegevused, ajahüpped).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mänguplaani (episoodi) kirjeldus on seotud õppuse eesmärgi ja õpitulemustega ning peab vastama järgmistele küsimustele:</p><ul><li>Mis on otsustamist vajav probleem/küsimus?</li><li>Miks see on probleem?</li><li>Millist lahenduskäiku selles episoodis mängitakse?</li><li>Millised on otsustuskohad?</li><li>Millist otsust oodatakse mängijatelt?</li><li>Kuidas seda olukorda täna lahendatakse? Milliseid tegevusi tehakse? Milliseid meetmeid kasutatakse?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppuse visuaalide loomine.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajaline maht: 2 ak tundi</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Vajadusel meediamängu sisendite koostamine (nt meediakanalite uudistevoog reaalajas, valeuudised, kogukonna säutsud sotsiaalmeedias jne)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kriisirollid.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajaline maht: 2 ak tundi</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Kriisirollid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>kriisijuht/kriisijuhi asendaja</li><li>evakuatsioonijuht (-juhid)</li><li>logipidaja</li><li>kommunikatsioonijuht jt.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Muud rollid õppusel",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>õppijad</li><li>õpetajad</li><li>kannatanud</li><li>kadunud/peidus olevad õppijad</li><li>lapsevanemad</li><li>ajakirjanikud</li><li>partnerasutused jt</li><li>jaotus vastavalt õppusele ja rollideks valmistumine</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lauaõppuse läbimängimine.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajaline maht: 2 x 3 ak tundi</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppuse vahetu tagasiside.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajaline maht: 2 x 1 ak tundi</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Arutelu kriisiolukorrale järgnevatest tegevustest, mis on kriisijuhtimise lahutamatu osa ja aitab õppeasutusel jätkata õppetegevust pärast kriisiolukorda. Oluline on mõelda koolipere vaimsele ja füüsilisele heaolule.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppuse kirjalik kokkuvõte, analüüs ja ettepanekud.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajaline maht: 5 ak tundi</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Üldiselt õppusega seotud andmed ja eesmärkide saavutamine ning põhjalikumalt märkused ja ettepanekuid kriisiplaani muutmiseks või täiendamiseks.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

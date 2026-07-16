@@ -1,0 +1,166 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Mooduli eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Mooduli eesmärk on kujundada õpilaste teadmisi ja oskusi kriisirollide täitmiseks, arendades füüsilist võimekust ja toimetulekuoskusi, mis võimaldavad tegutseda vastutustundlikult ja koostöiselt nii üksikisiku kui ka meeskonna liikmena.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Mooduli kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Moodul annab õpilastele teadmised ja praktilised oskused, mis võimaldavad neil täita konkreetseid rolle riigi- ja elanikkonnakaitse süsteemis kriisi- või ohuolukorras.</p><p>Õppe käigus arendatakse füüsilist vastupidavust, omandatakse vabatahtliku päästetöö alused ning harjutatakse kriisiolukordade lahendamist koostöös teistega. Õpilased õpivad hindama olukordi, tegema teadlikke otsuseid ja rakendama õpitut realistlikes olukordades.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Moodul ühendab tehnilised oskused, praktilise ohutusteadlikkuse ja koostööoskuse, aidates õpilastel mõista, kuidas iga inimene saab panustada kogukonna ja riigi turvalisusse.</p><p>Õppe käigus omandavad õpilased teadmisi oma füüsilise võimekuse parandamiseks, teadmisi päästevaldkonna tegevusest ning kriisiolukordade lahendamisest. Samuti arendatakse oskust tegutseda süsteemselt ja vastutustundlikult nii iseseisvalt kui ka meeskonna liikmena.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Moodul koosneb kolmest kursusest",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Mooduli esimene kursus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>keskendub kehalise võimekuse arendamisele ning sõjalise kehalise ettevalmistuse põhimõtete mõistmisele. Õpilased õpivad planeerima treeningut, hindama oma füüsilist võimekust ning arendama vastupidavust, jõudu ja liikuvust.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Teise kursuse",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>kaudu omandab õppija vabatahtliku päästja tööks vajalikud baasteadmised ja oskused ning õiguse iseseisvalt osaleda ennetustööl ning annab võimaluse sooritada vabatahtliku päästja I astme eksami.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kolmas kursus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>keskendub kriisiolukordade lahendamise harjutamisele. Õpilased osalevad lauaõppusel, mille käigus analüüsitakse ja lahendatakse võimalikke kriisiolukordi, lähtudes kooli kriisiplaanist ning koostööst erinevate osapooltega.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Võimalused lõiminguks, üldpädevuste arengu toetamiseks ja läbivate teemade käsitlemiseks",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Üldpädevused",
+          "children": [
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Pädevus</th><th>Kirjeldus</th></tr></thead><tbody><tr><td>Sotsiaalne ja kodanikupädevus</td><td>Teadlik tegutsemine kogukonna turvalisuse nimel.</td></tr><tr><td>Enesemääratluspädevus</td><td>Vastutuse võtmine ja oma rolli mõistmine ühiskonnas.</td></tr><tr><td>Ettevõtlikkuspädevus</td><td>Algatusvõime, probleemide lahendamine ja praktiline tegutsemine.</td></tr></tbody></table>"
+            },
+            {
+              "kind": "section",
+              "title": "Läbivad teemad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>teabekeskkond, tervis ja ohutus, väärtused ja kõlblus</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ainevaldkonnad",
+          "children": [
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Ainevaldkond</th><th>Kirjeldus</th></tr></thead><tbody><tr><td>Eesti keel ja kirjandus</td><td>Arutlemine, juhiste mõistmine ja koostöö suhtlemisel</td></tr><tr><td>Võõrkeeled</td><td>Vastutuse võtmine ja oma rolli mõistmine ühiskonnas.</td></tr><tr><td>Loodusained</td><td>Keskkonnatingimused, ilmastiku mõju ja inimese füsioloogia.</td></tr><tr><td>Sotsiaalained</td><td>Koostöö ja vastutus ühiskonnas, kriitiline mõtlemine,riigi toimimine, päästevaldkond ja kriisijuhtimine.</td></tr><tr><td>Matemaatika</td><td>Vahemaade mõõtmine, ruumiline mõtlemine, probleemide lahendamine.</td></tr><tr><td>Kehaline kasvatus</td><td>Füüsilise võimekuse arendamine, liikumisoskused, vastupidavus.</td></tr></tbody></table>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppekeskkonna kujundamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpe on praktiline, koostööpõhine ja probleemilahendusele suunatud. Õpilased õpivad läbi tegevuse, simulatsioonide ja realistlike olukordade analüüsi. Õpe aitab kujundada oskust analüüsida olukordi, tegutseda süsteemselt ja teha vastutustundlikke otsuseid.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamine on mitteeristav hindamine. Hindamisel pööratakse tähelepanu: praktiliste oskuste rakendamisele, koostöö- ja suhtlemisoskusele, probleemide analüüsimise ja lahendamise oskusele, ohutusnõuete järgimisele, vastutustundlikule tegutsemisele</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab ja seostab füüsilise valmisoleku, välitingimustes tegutsemise, relvaohutuse ning esmaabi põhimõtteid turvalise ja tõhusa tegutsemisega sõjalises või kriisiolukorras",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab kehalise ettevalmistuse eesmärki ning hindab treeningu, koormuse ja keskkonnategurite mõju füüsilisele sooritusele ja vigastusriskile",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib oma füüsilist võimekust ning planeerib selle arendamist, lähtudes kehaliste võimete hindamisest ja isiklikest eesmärkidest",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab Päästeameti ülesandeid ja vastutusala ning teab võimalusi osalemiseks päästetöödel ja teistel õnnetustel abijõuna.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "viib iseseisvalt läbi päästealast ennetustööd ja käsitseb esmaseid tulekustutusvahendeid.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab päästeametniku juhendamisel valdusesse sisenemise ja vahetu sunni meetmeid ning järgib päästeametniku korraldusi päästetööl osalemisel.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tegutseb päästetöödel ohutult, järgides päästeametniku juhiseid ning kehtivaid tegutsemispõhimõtteid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab kriisiolukorra lahendamise oskusi lauaõppusel, analüüsides olukordi ja tehes koostöös põhjendatud otsuseid.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

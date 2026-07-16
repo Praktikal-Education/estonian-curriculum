@@ -1,0 +1,39 @@
+estonian-curriculum
+Copyright (c) 2026 Praktikal
+
+DATA (pages/, curricula/, manifest.json, outcomes.csv, outcomes.ndjson, tree.json)
+  Licensed under the Creative Commons Attribution 4.0 International License
+  (CC BY 4.0). See LICENSE.
+
+  Sources. This dataset is built on two official sources, in this order: the
+  legal act first, and the ministry's implementation materials combined on top.
+  Every outcome is tagged with which source it came from.
+
+  (1) Riigi Teataja — the foundation. The binding national curriculum (riiklik
+  õppekava, a Vabariigi Valitsuse määrus) and its appendices (lisad) define the
+  subject structure and the learning outcomes. As a public legal act, its text
+  is excluded from copyright protection under §5 of the Estonian Copyright Act
+  (Autoriõiguse seadus). The dataset is verified complete against this act:
+  every õpitulemus in the act is present in the data.
+
+  (2) OKMV (Õppekava materjalide veeb,
+  https://projektid.edu.ee/spaces/OKMV/overview), maintained by the Estonian
+  Ministry of Education and Research (Haridus- ja Teadusministeerium) — the
+  implementation layer combined onto the legal-act base: the grade-by-grade
+  distribution of the learning outcomes, recommended teaching content
+  (soovituslik õppesisu), and methodological guidance (soovituslikud juhised),
+  for the curricula in effect since March 2023. These are the ministry's
+  official implementation materials, reused here with attribution.
+
+  This repository's contribution is combining the two into one machine-readable
+  dataset: stable identifiers, the structuring, the coverage verification
+  against the act, and the derived exports.
+
+  When attributing this dataset, please credit Praktikal and the sources
+  (Haridus- ja Teadusministeerium; Riigi Teataja / projektid.edu.ee).
+
+  If you are a rights holder with a concern about any material here, please open
+  an issue and we will address it promptly.
+
+CODE (src/, schema/)
+  Licensed under the MIT License. See LICENSE-MIT.

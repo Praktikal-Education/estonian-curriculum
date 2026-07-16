@@ -1,0 +1,245 @@
+{
+  "content": [
+    {
+      "kind": "outcome",
+      "text": "kasutab ülesandeid lahendades täisarvu sobivat esitust kümnendsüsteemis (järk)arvude summana;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "defineerib täisarvude jaguvuse mõistet ja tõestab jaguvusseose põhiomadusi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab jaguvuse põhiomadusi jaguvustunnuseid tuletades ja klassikalisi (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "defineerib jäägiga jagamise mõistet ja tõestab jääkide aritmeetika põhilauseid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab jääkide aritmeetikat klassikalisi (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sõnastab (võimaluse korral tõestab) aritmeetika põhiteoreemi ning kasutab seda (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab algoritme täisarvude suurima ühisteguri ja vähima ühiskordse leidmiseks ning kasutab neid (tõestus)ülesandeid lahendades;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "esitab ülevaate mõne nn huvitavate arvude klassi kuuluva arvude liigi (nt kolmnurkarvude, sõbralike arvude jm) päritolust ning omadustest.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab matemaatilise induktsiooni printsiibi olemust ja rakendusvõimalusi ning kasutab matemaatilise induktsiooni printsiipi erineva raskusastmega (tõestus)ülesandeid lahendades;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "defineerib täisarvude jäägivõrdsuse ehk kongruentsuse mooduli järgi ning tõestab kongruentside põhiomadusi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "rakendab kongruentse (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab arvusüsteemide ülesehituse erinevaid printsiipe ja toob ajaloolisi näiteid erinevate süsteemide kohta;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teisendab kümnendsüsteemi arve mõne teise alusega süsteemi arvudeks ja vastupidi, teeb tehteid kümnest erineva alusega süsteemi arvudega;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "esitab naturaalarvu kanoonilisel kujul ning leiab selle arvu kõigi positiivsete jagajate arvu ja jagajate summa;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab Eukleidese algoritmi täisarvude suurima ühisteguri leidmisel ja ratsionaalarvu esitamisel ahelmurruna;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "lahendab õppesisus loetletud lihtsamaid loogika tüüpülesandeid, kasutades vajaduse korral sobivalt valitud tabeleid, skeeme ja jooniseid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sõnastab Dirichlet’ printsiibi ja tõestab seda vastuväiteliselt;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "rakendab Dirichlet’ printsiipi ja selle üldistust sõnalisi ning arvudega seotud lihtsamaid (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sõnastab Dirichlet’ printsiibi analoogi geomeetrias ja kasutab seda lihtsamaid planimeetriaülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab Dirichlet’ printsiipi tasandi osade värvimisega seotud lihtsamaid (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab invariantide meetodi olemust ja oskab nimetada mõningaid täisarvudega seotud invariante (nt paarsus, arvude summad, korrutised, jäägid);",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "lahendab lihtsamaid ülesandeid mängudest ja arvude tabelitest, valides sobiva invariandi.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sõnastab matemaatilise induktsiooni printsiibi klassikalise variandi (sammuga 1) ning selgitab induktsiooni aluse (baasi) ja sammu tähtsust;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab matemaatilise induktsiooni printsiipi erineva raskusastmega (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab kordumistega ühendite (permutatsioonide, variatsioonide ja kombinatsioonide) mõisteid ning kasutab nende arvutamise valemeid lihtsamaid ülesandeid lahendades;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb graafi mõistet ning sellega seotud põhimõisteid ja võtteid (serv, tipp, tipu aste, servade loendamine) ning lahendab sellekohaseid ülesandeid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "sõnastab ja tõestab teoreemi graafi paarituarvuliste tippude arvust ning kasutab seda lihtsamaid ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb graafide liike (Euleri graaf, sidus graaf, puu, orienteeritud graaf) ning lahendab lihtsamaid ülesandeid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "sõnastab tarviliku ja piisava tingimuse selleks, et graaf oleks Euleri graaf, ning lahendab selle tingimuse abil lihtsamaid ülesandeid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kirjeldab mõnda valikkursuse temaatikaga seotud ajaloolist probleemi või tutvustab mõistete lisamise ja tulemuste tõestamisega seotud persoone.",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "määrab mõiste sisu ja mahtu ning liigitab mõisteid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab matemaatilist teksti kirjutades kvantoreid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "teeb tehteid lausetega ning määrab lause tõeväärtust;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab paradokside teket.",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "defineerib kolmnurkade võrdsuse (kongruentsuse) ja sarnasuse mõisted, sõnastab võrdsuse (kongruentsuse) ja sarnasuse tunnused ning tõestab neid tunnuseid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab kasutada kongruentsuse ja sarnasuse meetodeid (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab kolmnurkade võrdsuse ja kolmnurkade pindvõrdsuse mõiste erinevust ning lahendab sellekohaseid ülesandeid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab kolmnurga võrratusi ja kasutab neid (tõestus)ülesandeid lahendades;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab põhitulemusi piirdenurga ning ringjoone kõõlu ja puutuja vahelise nurga suuruse kohta ning kasutab neid (tõestus)ülesandeid lahendades;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "sõnastab ja tõestab teoreemid ringjoone kahest kõõlust, lõikajast, puutujast ning lõikajast ja puutujast ning kasutab tulemusi (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "defineerib hulknurkade võrdsuse (kongruentsuse) ja sarnasuse mõiste ning kasutab kongruentsuse ja sarnasuse meetodeid (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sõnastab ning tõestab tarvilikke ja piisavaid tingimusi selleks, et nelinurk oleks kõõlnelinurk, kasutab kõõlnelinurkade meetodit (tõestus)ülesandeid lahendades ning nelja punkti ühel ringjoonel asumist põhjendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "defineerib kolmnurgaga seotud lõikude (kesklõik, mediaan, nurgapoolitaja, kõrgus, keskristsirge) mõisted ja tõestab nende põhiomadusi ning kasutab saadud tulemusi (tõestus)ülesandeid lahendades;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab erinevaid meetodeid tõestamaks, et iga kolmnurga kolm mediaani (nurgapoolitaja, keskristsirge, kõrgus) lõikuvad ühes punktis;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab, milliste lõikude lõikepunktis asuvad kolmnurga sise- ja välisringjoone keskpunktid, ning kasutab seda teadmist (tõestus)ülesandeid lahendades;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "saavutab teatud vilumuse põhiliste konstruktsioonülesannete lahendamisel sirkli ja joonlauaga.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa8.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 8"
+        }
+      ]
+    }
+  ]
+}

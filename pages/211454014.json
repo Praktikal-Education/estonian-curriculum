@@ -1,0 +1,209 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Autor: Helen Arov</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kunsti valdkonnapädevus hõlmab muusika ja kujutava kunsti, rakenduskunstide ning disaini (koondnimetusega kunst) valdkonda. Esmase kunstiainete valdkonnapädevuse toetamise eeldusena tuuakse valdkonnapädevuse sõnastuses esile huvi tekitamise ja hoidmise vajalikkust (PRÕK, Ainevaldkond “Kunstiained”, 2023). Üldpädevuste raamistikuga võrdlusest tuleb enim esile valdkonnapädevuse seos kultuuri- ja väärtuspädevusega, mis on ootuspärane, tulenedes, et kaasaegne käsitus avab kunstide õpet kui loome- ja tõlgendustegevust end ümbritsevas kultuurikontekstis tuginedes ka oma isiklikele väärtustele ja hoiakutele (Arov <em>et al</em>, 2024).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teisalt toob kunstiainete valdkonna pädevuse kirjeldus esile õppijale seatud ootusi osaleda laiemas suhtluses aktiivselt nii sõnumi edastajana kui ka vastuvõtjana ning oskust kasutada selleks kunstide väljendusvahendeid. Seega seostub valdkonnapädevus ka suhtluspädevuse ning sotsiaalse ja kodanikupädevusega. Kolmandaks läbivaks jooneks võib pidada tähelepanu juhtimist õppija enesekohastele oskustele - võimekust ennast tegevuses jälgida ja reflekteerida, enda isiklikku sidet kultuurinähtustega tajuda ja loovat eluhoiakut omada. See omakorda toob esile seosed enesemääratluspädevusest enda jälgimise, analüüsimise ja hindamisega, õpipädevusest metakognitiivsete õpioskustega seonduvaid oskusi ja ettevõtlikkuspädevusest loova hoiaku aspekti. (Arov <em>et al</em>, 2024)</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ilmestamaks valdkonna võimalusi üldpädevusi kujundada ja pädevuste kujunemist läbi õppeastmete, võrdlesime esmalt valdkonnapädevuse kirjeldus üldpädevuste sõnastustega (Arov <em>et al</em>, 2024). Valdkonnapädevuse sõnastuses saame leida seoseid pea kõigi üldpädevusega, mida esitleb järgnev tabel 1.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Tabel 1. Ainevaldkonna „Kunstiained“ valdkonnapädevuse võrdlus üldpädevustega (Arov et al, 2024)",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Valdkonnapädevus</strong></p><p><strong>Üldpädevus ja selle komponendid</strong></p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kunstiainete valdkonnapädevus on universaalne ning väljendub selles, et põhikooli lõpuks õpilane eakohaselt:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "teadvustab oma sidet muusika, kunsti ja visuaalkultuuriga ning Eesti ja maailma kultuuripärandiga;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "kultuuri- ja väärtuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>tajuda ja väärtustada oma seotust teiste inimestega, ühiskonnaga, loodusega, oma ja teiste maade ja rahvaste kultuuripärandiga […];</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "loob, uurib ja tõlgendab, kasutades muusika, kunsti ja visuaalkultuuri väljendusvahendeid, teadmisi ning meetodeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "suhtluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus ennast selgelt, asjakohaselt ja viisakalt väljendada […]; lugeda ning eristada ja mõista […] tekste; kirjutada eri liiki tekste, […] kasutades kohaseid keelevahendeid ja sobivat stiili; väärtustada […] väljendusrikast keelt;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "õpipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>[…] kasutada õpitut erinevates olukordades ja probleeme lahendades; seostada omandatud teadmisi varemõpituga […];</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "digipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>[…] osaleda digitaalses sisuloomes, sh tekstide, piltide, multimeediumide loomisel ja kasutamisel […];</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "mõtestab ja reflekteerib eri kultuurinähtusi, enda ja kaasõppijate loometegevust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "kultuuri ja väärtuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>väärtustada kunsti ja loomingut ning kujundada ilumeelt; väärtustada inimlikku, kultuurilist […] mitmekesisust […];</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "enesemääratluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus mõista ja hinnata iseennast, oma nõrku ja tugevaid külgi; analüüsida oma käitumist erinevates olukordades […];</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "õpipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>[…] suutlikkus seostada omandatud teadmisi varem õpituga; analüüsida oma teadmisi ja oskusi […];</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab muusika ja kunsti osatähtsust nüüdisaegses ühiskonnas;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "kultuuri ja väärtuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>[…] tajuda ja väärtustada oma seotust teiste inimestega, ühiskonnaga, loodusega, oma ja teiste maade ja rahvaste kultuuripärandiga ning nüüdiskultuuri sündmustega […];</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb kunstide suhtluses tõlgendamist vajava sõnumi edastaja ning vastuvõtjana informeeritult ja kriitiliselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "kultuuri ja väärtuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus hinnata inimsuhteid ja tegevusi üldkehtivate moraalinormide seisukohast; […] väärtustada loomingut ja kujundada ilumeelt; väärtustada inimlikku, kultuurilist […] mitmekesisust;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "sotsiaalne ja kodanikupädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus […] aktsepteerida inimeste ja nende väärtushinnangute erinevusi ja arvestada neid suhtlemisel;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "on loova eluhoiakuga ja lahendab probleeme loovalt."
+        },
+        {
+          "kind": "section",
+          "title": "matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>[…] kasutada uusi tehnoloogiaid loovalt ja uuendusmeelselt;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ettevõtlikkuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>[…] näha probleeme ja neis peituvaid võimalusi, aidata kaasa probleemide lahendamisele; seada eesmärke, koostada plaane, neid tutvustada ja ellu viia; […] näidata algatusvõimet ja vastutada tulemuste eest; reageerida loovalt, uuendusmeelselt ja paindlikult muutustele; võtta arukaid riske;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "digipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>[…] kasutada probleemilahenduseks sobivaid digivahendeid ja võtteid, suhelda ja teha koostööd erinevates digikeskkondades […].</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Arov, Helen; Porri, Anneli; Vahter, Edna; Löfström, Erika (2024). Aine- ja üldpädevuste arengut toetava kunstiõppe metoodilise juhendmaterjali edasiarendus. Eesti Haridusteaduste Ajakiri = Estonian Journal of Education, 12 (1), 230−259. DOI: <a href=\"https://doi.org/10.12697/eha.2024.12.1.10\">10.12697/eha.2024.12.1.10</a>.</p>"
+        }
+      ]
+    }
+  ]
+}

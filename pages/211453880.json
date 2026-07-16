@@ -1,0 +1,897 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Inimeseõpetus 6. klass",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>II kooliastmes käsitletakse tervise ja suhtlemise teemasid, sealhulgas murdeiga ja kehalised muutused, turvalisus ja riskikäitumine, haigused ja esmaabi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "MINA JA SUHTLEMINE",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suhtumine endasse, enda positiivsete külgede nägemine ja mõistmine on nii eneseregulatsiooni kui tõhusate suhete loomise aluseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "on loov ja ettevõtlik",
+              "outcomeType": "competence"
+            },
+            {
+              "kind": "outcome",
+              "text": "väärtustab inimeste positiivseid omadusi ning positiivset mõtlemist, mõistab inimeste individuaalseid erinevusi ja on erinevuste suhtes salliv.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab, kuidas enesehinnang kujuneb.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab enesehinnangu olemust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Saab aru, et enesehinnang on osa tema minapildist.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab enda erinevate omaduste arendamise võimalusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada enda erinevaid omadusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, et ennast saab pidevalt arendada",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab oma võimalusi algatada ettevõtmisi ja toob näiteid ettevõtlikust tegutsemisest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, et tema ise saab suunata oma tegevusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Seostab ettevõtlikkust tulevase tööeluga.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "õpib tundma oma huvisid ning seostama neid tulevikuga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Enesetundmine. Mina-pilt (kirjeldav ja hinnanguline osa). Enesehinnang. Enesehinnangu kujunemine.</p><p>Eneseanalüüs. Oma omaduste ja väärtuste selgitamine ja arendamine. Väärtused. Huvid. Võimed.</p><p>Ettevõtlikkus, selle väljendumine tegutsemisel. Ettevõtlikkuse tähtsus igapäevaelus ja ühiskonnas. Ettevõtlikkus ja tööelu.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "SUHTLEMINE TEISTEGA",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tõhusate enesekohaste ja sotsiaalsete oskuste õpetamine seoses tõenduspõhise riskikäitumise ennetamise ja sekkumisega tagab turvalisuse ja heaolu..</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab, millest suhtlemine koosneb, mõistab avatud suhtlemise eelisedi ja ohtusid ning järgib turvalise suhtlemise reegleid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "on iseseisev otsustaja, seostab otsuseid tagajärgedega. teab, et “ei” ütlemine on võimalus seista oma õiguste eest.",
+              "outcomeType": "competence"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjeldab, millest suhtlemine koosneb.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab suhtlemise olemust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid suhtlemise komponentide kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab mitteverbaalseid ja verbaalseid suhtlemisvahendeid ning analüüsib nende vastastikuseid seoseid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab suhtlemise komplekssust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab kehtestavat, agressiivset ja alistuvat käitumist ning mõistab nende käitumisviiside mõju suhetele.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab erinevaid käitumisviise",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, mis on eelarvamused ja stereotüüpsed hoiakud, ja tunneb need ära.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid eelarvamuste mõjust igapäevaelus.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid, kuidas eelarvamused mõjutavad igapäevasuhtlust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, et tal on õigus öelda „ei“, ja demonstreerib õpisituatsioonis „ei“ ütlemist oma tervise kaitsel ja õiguste eest seismisel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Demonstreerib õpisituatsioonis, kuidas keelduda ennast ja teisi kahjustavast tegevusest, kasutades tõhusaid enesekohaseid ja sotsiaalseid oskus i.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab kahjustavaid käitumisviise",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, kuidas enese eest seista ilma teisi kahjustamata.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid turvalisest suhtlemisest igapäevaelus, sh internetis ning lahendab õpisituatsioonis teemakohaseid probleeme.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab enda vastutust erinevates suhtluskeskkondades",
+          "outcomeType": "knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "SUHTED TEISTEGA",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sotsiaal-emotsionaalsete oskuste arendamine ja prosotsiaalne käitumine kui enesemääratluspädevuse/eneseregulatsiooni alus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab, et ühiskond mõjutab inimest tervikuna, sealhulgas ka tervisekäitumist ja suhtlemist",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "väärtustab inimeste positiivseid omadusi ning positiivset mõtlemist, mõistab inimeste individuaalseid erinevusi ja on erinevuste suhtes salliv",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab tõhusaid sotsiaalseid oskusi igapäevaelus, väärtustab hoolivust, ausust, õiglust, vastutustunnet ja armastust vastastikuse toetuse ning usalduse allikatena",
+              "outcomeType": "competence"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab meediast tulenevaid ohtusid oma käitumisele ja suhetele ning vastustus oma sõnade ja tegude eest.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob esile arengulisi individuaalseid erinevusi, mõistab inimeste erivajadusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab inimeste erivajadusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid hoolivast, ausast, õiglasest ja vastutustundlikust käitumisest.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab miks sõbralik käitumine on kasulikum",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Demonstreerib õpisituatsioonis sotsiaalsete oskuste tõhusat kasutamist.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab sotsiaalseid oskusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid sotsiaalsete oskuste kohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Demonstreerib õpisituatsioonis, kuidas oma tundeid empaatiliselt ja suhteid tugevdavalt väljendada.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, et kõik tunded on normaalsed",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab oma tundeid väljendada ennast ja teisi kahjustamata",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KONFLIKTID JA PROBLEEMILAHENDUS",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Konfliktide ja suhteprobleemide ennetamise ja lahendamise oskused on olulisemaid sotsiaalseid oskusi, mis tagavad turvalisuse ja heaolu.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "mõistab, et konfliktid on osa elust, teab konfliktide võimalikke põhjusi ja tõhusaid lahendusviise, mõistab erinevate käitumisviiside tagajärgi",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab probleemide erinevaid lahendusviise ning mõistab koostegutsemise väärtust",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "on iseseisev otsustaja, seostab otsuseid tagajärgedega. teab, et “ei” ütlemine on võimalus seista oma õiguste eest",
+              "outcomeType": "competence"
+            },
+            {
+              "kind": "outcome",
+              "text": "on loov ja ettevõtlik.",
+              "outcomeType": "competence"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab konflikti häid ja halbu külgi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjeldab tõhusaid ja mittetõhusaid konfliktide lahendusviise.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Valib õpisituatsioonis konflikti lahendamiseks sobiva käitumisviisi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Näeb ühe probleemi lahendamise erinevaid võimalusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab erinevaid probleeme",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid erinevate tõhusate probleemilahenduste kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Lahendab loovalt ja koostöiselt probleeme ja toob esile erinevate lahenduste eelised ning puudused.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjeldab, kuidas kaaslased võivad mõjutada otsustamist.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab mõjutamise viise",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid, milliste tagajärgedeni võivad erinevad otsused viia.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab enda vastutust oma otsuste ja tegude eest",
+          "outcomeType": "knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "POSITIIVNE MÕTLEMINE",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimeses positiivse nägemine on sallivuse ning toetavate inimsuhete ja heaolu aluseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "väärtustab inimese positiivsedi omadusi ning positiivset mõtlemist, mõistab inimeste individuaalseid erinevusi ja on erinevuste suhtes salliv.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid enda positiivsete omaduste kohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Märkab ja toob esile enda ning teiste positiivseid omadusi.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppematerjali viited õpetajale; õppekeskkonna laiendamise soovitused",
+      "children": [
+        { "kind": "link", "href": "http://Peaasi.ee", "title": "Peaasi.ee" },
+        {
+          "kind": "file",
+          "src": "https://peaasi.ee/wp-content/plugins/questions_sheets/pdf/emotsioon3.pdf",
+          "title": "Kuidas ma ennast tunnen?"
+        },
+        {
+          "kind": "file",
+          "src": "https://parnu.ee/failid/hoolekande_konveretns/Inimese_positiivne_minapilt_Toivo_Niiberg.pdf",
+          "title": "Inimese positiivne minapilt"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/enesehinnang/",
+          "title": "Enesehinnang"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/silt/positiivne-motlemine/",
+          "title": "Positiivne mõtlemine"
+        },
+        {
+          "kind": "link",
+          "href": "https://dspace.ut.ee/bitstream/handle/10062/15386/index.html",
+          "title": "Läbi eneseanalüüsi õnnelikkuse poole"
+        },
+        { "kind": "link", "href": "http://digar.ee", "title": "Digar" },
+        {
+          "kind": "file",
+          "src": "https://intra.tai.ee/images/prints/documents/131531583763_Ole_toeks_lapse_enesehinnangukujundamisel_est.pdf",
+          "title": "Ole toeks lapse enesehinnangu kujunemisel"
+        },
+        {
+          "kind": "link",
+          "href": "https://haridusportaal.edu.ee/erialad",
+          "title": "Ameteid tutvustav keskkond"
+        },
+        {
+          "kind": "link",
+          "href": "https://ettevotlusope.edu.ee/",
+          "title": "Edu- ja Tegu Ettevõtlusõppe programm"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.koda.ee/et/uudised/ettevotlikkuse-projektijuht-milleks-meile-ettevotlikkus",
+          "title": "Eesti Kaubandus-Tööstuskoda"
+        },
+        {
+          "kind": "link",
+          "href": "https://enl.ee/noorte-osalus/",
+          "title": "Noorte osalus"
+        },
+        {
+          "kind": "file",
+          "src": "https://media.voog.com/0000/0037/5345/files/Tuleviku%20tegijate%20teekond%20l%C3%BChiraport_26042023.pdf",
+          "title": "Tuleviku tegija teekond"
+        },
+        {
+          "kind": "link",
+          "href": "http://raamatusobrake.blogspot.com/2016/09/kui-kurgil-jai-kurk-haigeks.html",
+          "title": "Kui kurgil jäi kurk haigeks"
+        },
+        {
+          "kind": "link",
+          "href": "http://Learningapps.com",
+          "title": "LearningApps"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/watch.php?v=pz3hpsx9n17&allowFullscreen=1"
+        },
+        { "kind": "link", "href": "http://Varaveb.ee", "title": "Varaveeb" },
+        {
+          "kind": "link",
+          "href": "https://www.vara.ee/sonatu-keel-suhtlemises-peaasendid-pilgukone/",
+          "title": "Sõnatu keel suhtlemises"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=h8BgeMkXQQI&ab_channel=Audentes"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/video/vaata/heureka-mida-raagib-kehakeel",
+          "title": "Mida räägib kehakeel"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.pohiseadus100.ee/et/luhivideod",
+          "title": "Põhiseadus 100 lühivideod"
+        },
+        {
+          "kind": "link",
+          "href": "https://eek-kehtestavsonum.weebly.com/kaumlitumise-kolm-stiili.html",
+          "title": "Käitumise kolm stiili"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.terviseinfo.ee/images/prints/Uimastiennetuse_%C3%B5petajaraamat/V_peatykk_Aktiivtood_II_kooliaste_H_Marguse_lugu.pdf",
+          "title": "Marguse lugu"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=-lXtEuKiikI&ab_channel=HelenAdamsonVEVO"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=luf120iFGME&pp=ygURZW5lc2VrZWh0ZXN0YW1pbmU%3D"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/1608203731/roovlirahnu-martin",
+          "title": "Röövlirahnu Martin"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.ulitundlikinimene.ee/lugemist/mis-on-enesekehtestamine-ja-kuidas-seda-rakendada",
+          "title": "Mis on enesekehtestamine?"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=T31jLpHe1oY&t=18s&pp=ygUMc3RlcmVvdMO8w7xw"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.haridusjasugu.ee/moisted/soostereotuubid/",
+          "title": "Soostereotüübid"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.haridusjasugu.ee",
+          "title": "Haridus ja sugu"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/gender/book/export/html/34019",
+          "title": "Stereotüüpide kujunemine"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.err.ee/1159556/agnes-einman-sallivus-suurendab-meie-koigi-heaolu",
+          "title": "Sallivus suurendab meie kõigi heaolu"
+        },
+        { "kind": "link", "href": "http://err.ee", "title": "ERR" },
+        {
+          "kind": "file",
+          "src": "https://intra.tai.ee/images/prints/documents/138676835439_raagime_tervisest%20PDF.pdf",
+          "title": "Räägime tervisest!"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.teeviit.ee/enesekehtestamisest-kuidas-oelda-ei/",
+          "title": "Enesekehtestamisest – kuidas öelda ei?"
+        },
+        { "kind": "link", "href": "http://Teeviit.ee", "title": "Teeviit" },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/playlist?list=PLYjFFi5dwG1oet4BKRg61TFBLOK4jA09M",
+          "title": "Suurim Julgus"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/kiusamine/",
+          "title": "Kiusamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://kiusamisvaba.ee/kiusamine-ja-abi/kiusamisest/",
+          "title": "Kiusamisest"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=A4cOfAnHANI&t=207s&pp=ygURZW5lc2VrZWh0ZXN0YW1pbmU%3D"
+        },
+        { "kind": "link", "href": "http://youtube.com", "title": "YouTube" },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/results?search_query=Kristiina+Treial",
+          "title": "Kristiina Treial"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Cji_ccO3Dzk"
+        },
+        {
+          "kind": "link",
+          "href": "https://naine.postimees.ee/4475923/psuhholoog-katlin-konstabel-aga-miks-ta-ometi-mu-ees-ei-vabanda",
+          "title": "Aga miks ta ometi mu ees ei vabanda"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/1608994244/noored-maailmamuutjad",
+          "title": "Kiusamise test"
+        },
+        { "kind": "link", "href": "http://prezi.com", "title": "Prezi" },
+        {
+          "kind": "link",
+          "href": "https://prezi.com/p/g1vdjbi1p4km/ei-utlemise-kunst/",
+          "title": "Ei ütlemise kunst"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=tJsGGsPNakw"
+        },
+        {
+          "kind": "link",
+          "href": "https://noor.targaltinternetis.ee/",
+          "title": "Targalt internetis"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=d2fPfzM5Wfs"
+        },
+        {
+          "kind": "link",
+          "href": "https://digiopilane.jimdofree.com/suhtlemine/",
+          "title": "Suhtlemine digikeskkondades"
+        },
+        {
+          "kind": "link",
+          "href": "https://etunnid.tagasikooli.ee/e-tund/mida-enesekaitse-internetis-mulle-uldse-annab/",
+          "title": "Mida enesekaitse internetis mulle üldse annab?"
+        },
+        {
+          "kind": "link",
+          "href": "https://etunnid.tagasikooli.ee/e-tund/mis-on-kuberkiusamine/",
+          "title": "Mis toimub veebis kiusajaga ja mida tunneb kiusatav?"
+        },
+        {
+          "kind": "link",
+          "href": "https://elule.ee/vagivallatu-suhtlemine/vagivallatu-suhtlemise-mudel/",
+          "title": "Vägivallatu suhtlemise mudel"
+        },
+        {
+          "kind": "link",
+          "href": "https://elule.ee/vagivallatu-suhtlemine/mis-vark-selle-kaelkirjakuga-on/",
+          "title": "Mis värk selle kaelkirjakuga on?"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/audio/vaata/traditsiooni-tarkus-traditsiooni-tarkus-vagivallatu-suhtlemine",
+          "title": "Vägivallatu suhtlemine"
+        },
+        {
+          "kind": "link",
+          "href": "https://web.htk.tlu.ee/informaatika/infoyhiskond/front-matter/introduction/",
+          "title": "Turvaline käitumine internetis ja küberkuritegevus"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=B9RJ6UECJOg"
+        },
+        {
+          "kind": "link",
+          "href": "https://etunnid.tagasikooli.ee/e-tund/kas-puudega-inimesel-on-samad-oigused-mis-puudeta-inimesel/",
+          "title": "Kas puudega inimesel on samad õigused, mis puudeta inimesel?"
+        },
+        {
+          "kind": "link",
+          "href": "https://etunnid.tagasikooli.ee/e-tund/mis-on-elu-mote/",
+          "title": "Mis on elu mõte"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=wc1RWfYingQ&ab_channel=LiisLeilop"
+        },
+        {
+          "kind": "link",
+          "href": "https://eduakadeemia.ee/elutahtsad-emotsionaalsed-vajadused/",
+          "title": "Elutähtsad emotsionaalsed vajadused"
+        },
+        {
+          "kind": "link",
+          "href": "https://prezi.com/rzmn9xgrzybp/vajadused-ja-suhtlemine/",
+          "title": "Vajadused ja suhtlemine"
+        },
+        {
+          "kind": "link",
+          "href": "https://opleht.ee/2018/03/segi-nagu-puder-ja-kapsad-erivajadus-erilisus-ning-vaimne-ja-fuusiline-puue/",
+          "title": "Segi nagu puder ja kapsad"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.sm.ee/sama-palju-inimene",
+          "title": "Kõik on erinevad, kuid sama palju inimesed"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/oppemeetodid2/1-kuidas-%C3%B5piobjekti-kasutada",
+          "title": "Lastega filosofeerimisest"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/24016",
+          "title": "Lapse õiguste konventsioon"
+        },
+        {
+          "kind": "link",
+          "href": "https://etunnid.tagasikooli.ee/e-tund/kuidas-aidata-mures-sopra/",
+          "title": "Kuidas aidata mures sõpra"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/100056/molenbeeki-jumalad/",
+          "title": "Molenbeeki jumalad"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/100038/paradiis/",
+          "title": "Paradiis"
+        },
+        {
+          "kind": "link",
+          "href": "http://Maailmakool.ee",
+          "title": "Maailmakool"
+        },
+        {
+          "kind": "file",
+          "src": "https://maailmakool.ee/wp-content/uploads/2019/04/Oigus_olla_laps_eesti.pdf",
+          "title": "Õigus olla laps"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.sinamina.ee/ee/noustamine/kkk/",
+          "title": "Suhtlemisoskuste KKK"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.vkkeskus.ee/opetame-lapsele-empaatiat/",
+          "title": "Empaatia"
+        },
+        {
+          "kind": "link",
+          "href": "https://opleht.ee/2016/10/mis-on-sotsiaalsed-padevused-ja-kuidas-neid-opetada/",
+          "title": "Mis on sotsiaalsed pädevused"
+        },
+        {
+          "kind": "link",
+          "href": "https://opleht.ee/2016/03/oppematerjalid-panevad-arutlema-ja-aratavad-empaatiat/",
+          "title": "Õppematerjalid panevad arutlema ja äratavad empaatiat"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/sotsiaal-emotsionaalsete-oskuste-arendamise-tuumiktegevused-ehk-ivad/",
+          "title": "Sotsiaal-emotsionaalsete oskuste arendamise tuumiktegevused"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=NO3uZHUFSX0"
+        },
+        {
+          "kind": "file",
+          "src": "https://intra.tai.ee/images/prints/documents/144248000590_Uimastiennetuse_opetajaraamat.pdf",
+          "title": "Uimastiennetuse õpetajaraamat põhikoolile"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/pohiemotsioonid/",
+          "title": "Põhiemotsioonid"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.teeviit.ee/vaimne-tervis-emotsioonid-ja-nende-valjendumine/",
+          "title": "Emotsioonid ja nende väljendumine"
+        },
+        { "kind": "video", "src": "https://www.youtube.com/embed/H2FaRfeayIo" },
+        { "kind": "link", "href": "http://peaasi.ee", "title": "Peaasi" },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/konflikti-lahendamine/",
+          "title": "Konflikti lahendamine"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.terviseinfo.ee/images/prints/Uimastiennetuse_%C3%B5petajaraamat/V_peatykk_Aktiivtood_II_kooliaste_I_Voitjad.pdf",
+          "title": "Võitjad"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.insait.ee/votildeitlusest-abielus.html",
+          "title": "Võitlusest abielus"
+        },
+        {
+          "kind": "link",
+          "href": "https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fliiasuup.weebly.com%2Fuploads%2F1%2F3%2F9%2F9%2F13991187%2Fkonflikt.pptx&wdOrigin=BROWSELINK",
+          "title": "Konflikt"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.minulaps.ee/pedagoogilised-lahenemised/konflikti-lahendamine-ilma-kaotajateta-voitja-voitja-meetod",
+          "title": "Konflikti lahendamine ilma kaotajateta"
+        },
+        {
+          "kind": "link",
+          "href": "https://et.sainte-anastasie.org/articles/psicologa-social-y-relaciones-personales/5-formas-de-resolver-un-conflicto-con-eficacia.html",
+          "title": "5 viisi konflikti tõhusaks lahendamiseks"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/testid/5163",
+          "title": "EIS test Konflikt"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/probleemide-lahendamine/",
+          "title": "Probleemide lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.nutikasvanem.ee/blog/inspiratsioon-1/probleemi-lahendus-saab-alguse-probleemi-moistmisest-16",
+          "title": "Probleemi lahendus saab alguse probleemi mõistmisest"
+        },
+        {
+          "kind": "link",
+          "href": "https://prezi.com/br_gkhrr9qnw/otsustamine-ja-vastutus/",
+          "title": "Otsustamine ja vastutus"
+        },
+        {
+          "kind": "link",
+          "href": "https://et.economy-pedia.com/11036966-social-pressure",
+          "title": "Sotsiaalne surve"
+        },
+        {
+          "kind": "link",
+          "href": "https://opleht.ee/2022/10/mojutamine-1-kuidas-hea-inimene-kurjaks-muutub/",
+          "title": "Mõjutamine (1)"
+        },
+        {
+          "kind": "link",
+          "href": "https://opleht.ee/2022/10/mojutamine-2-karismaatilised-noorteliidrid/",
+          "title": "Mõjutamine (2)"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/12651/lihtsalt-lapsed/",
+          "title": "Lihtsalt lapsed"
+        },
+        {
+          "kind": "link",
+          "href": "https://vikerraadio.err.ee/1608343991/peresaade-positiivse-ja-negatiivse-motlemise-moju-meie-elule",
+          "title": "Positiivse ja negatiivse mõtlemise mõju meie elule"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/enesesisendus/",
+          "title": "Enesesisendus"
+        }
+      ]
+    }
+  ]
+}

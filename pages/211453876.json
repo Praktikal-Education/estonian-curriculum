@@ -1,0 +1,859 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>I kooliastmes käsitletakse järgmisi teemasid: mina, mina ja teised, mina ja tervis, mina ja minu pere, mina ja Eesti, mina: aeg ja asjad ning mina: teave ja asjad.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Mina",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisuse põhjendus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Positiivne hinnang ja suhtumine endasse ja teistesse kui enesekohase kompetentsi ja heaolu arendamise alus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Väärtustab enda ja kaaslaste huvisid ning positiivset suhtumist iseendasse.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab enda huvisid ja tegevusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab, miks on vaja endasse positiivselt suhtuda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et inimesed on erinevad nii bioloogiliselt kui ka sotsiaalselt ning märkab inimeste sarnasusi ja erinevusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mina. Oma tugevuste (sh tunnused, omadused ja tegevused) välja toomine. Positiivne suhtumine endasse ja teisesse. Kehalised muutused ja austus erinevate kehade ja sugude suhtes. Minu erinevused ja sarnasused teistega. Sallivus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Diskussioon ja vastavasisuline laste- ja/või noorsookirjanduse lisalugemine. Paaristöö, diskussioon väikestes rühmades; enesehindamine. Mõttekaart. Loovtöö: visuaalne pilt. Õppemängud (n liikumismängud).</p><p>Õppemäng: <em>Astu ringi sisse</em>. Iga õpilane nimetab ühe asja enda juures, nt hobi, omadus, välimuse kirjeldus ning astub ringi sisse. Individuaalne töö: Õpilane paneb kirja 15 asja, mis talle enda juures meeldib. Rühmatöö: Meie huvid ja lemmiktegevused.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=h3nhM9UlJjc"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=o6KovGxp8Lo&t=6s"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.sotsiaalkindlustusamet.ee/abivajav-laps-ja-taiskasvanu/laste-ja-perede-abistamine/lastemaja",
+              "title": "Lastemaja veebileht"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited õpetajale; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vastav õppevara tööraamatutena: 2. klass inimeseõpetus. Pokk, J. (2014). Avasta minu maailm. Eesti Puuetega Inimeste Koda.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.digar.ee/arhiiv/nlib-digar:194323",
+              "title": "Avasta minu maailm"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/100078/amanda-ja-uus-poiss/",
+              "title": "Amanda ja uus poiss"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/26592/juhendmaterjal-amanda-ja-maailm/",
+              "title": "Amanda ja maailm"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/17555",
+              "title": "Erinevad huvid"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/19412",
+              "title": "Inimeste erinevused Pipi Pikksuka näitel"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/19413",
+              "title": "Positiivne minapilt"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.kriminaalpoliitika.ee/sites/krimipoliitika/files/elfinder/dokumendid/minu_keha_ja_turvalisus._teadmised_oskused_ja_hoiakud.pdf",
+              "title": "Minu keha ja turvalisuse plakat"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/19573",
+              "title": "Inimeste valikud ja kaasasündinud omadused"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.lastekaitseliit.ee/raamat/mina-olen-enda-oma/",
+              "title": "Mina olen enda oma"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Kujundav hindamine:</strong> hindamisviisid õppeprotsessi kestel. Suuline ja kirjalik sõnaline hindamine, tagasiside.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Mina ja tervis",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisuse põhjendus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Terviseteadlikkus ja tervislik eluviis kui heaolu allikas</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Oskab oma tervist hoida.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näited tervist hoidvast käitumisest (hügieen, karastamine, mitmekesine toit, uni ja puhkus ning kehaline aktiivsus) ja selgitab tervist hoidva käitumise vajalikkust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab mõningaid haiguste tunnuseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab hädaabinumbrit ja oskab vajaduse korral kutsuda abi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tervis. Tervise eest hoolitsemine. Tervislik eluviis: mitmekesine toit, piisav uni ja puhkus, kehaline aktiivsus. Keha eest hoolitsemine. Terve ja haige inimene. Abi saamise võimalused. Vajadusel abi kutsumine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Diskussioon teemakohase lasteluule ja -kirjanduse katkendite või multifilmide üle. Dramatiseering, juhtumianalüüs. Jutu kirjutamine: <em>Mida teen oma tervise hoidmiseks?</em> Õppemäng, arutelu, paaristöö ja plakat tervislikust eluviisist.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=NddUbvjQ4yg"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=POGyh9BBoqc"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/juss-saab-kaheksa-aastaseks,episode-2724700",
+              "title": "Juss saab kaheksa aastaseks"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/juss-unistab-lahedamast-linnast,episode-2724418",
+              "title": "Jussi künnipäev ja taldriku reegel"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/juss-teab-et-sport-hoiab-tervena,episode-2724529",
+              "title": "Juss teab, et sport hoiab tervena"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.virtuaalkliinik.ee/uudised/2021/07/28/kui-palju-pean-magama-see-soltub-teie-vanusest",
+              "title": "Kui palju pean magama?"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/jussil-on-tuulerouged,episode-2724533",
+              "title": "Jussil on tuulerõuged"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ICHo29Cle2o"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=EaP0NuHf_wI"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/20482",
+              "title": "Hädaabinumbrile helistamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/20483",
+              "title": "Töö tekstiga: Kuidas toimida õnnetusjuhtumi korral?"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited õpetajale; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vastav õppevara tööraamatutena: 2. klass inimeseõpetus. Mei, K., Pihu, M., ja Tullus, I. (2014). Toitumine ja liikumine. I-III kooliaste. Õpetajaraamat. Atlex AS.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://toitumine.ee/",
+              "title": "toitumine.ee"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=_ce6SK_15j4&embeds_referring_euri=https%3A%2F%2Fetunnid.tagasikooli.ee%2F&source_ve_path=OTY3MTQ&feature=emb_imp_woyt"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=I4ELL21FHIA"
+            },
+            {
+              "kind": "link",
+              "href": "https://lasteekraan.err.ee/1077705/nova-seletab-kui-palju-me-magame",
+              "title": "NOVA seletab: Kui palju me magame?"
+            },
+            {
+              "kind": "link",
+              "href": "http://jupiter.err.ee",
+              "title": "jupiter.err.ee"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=cAjxqciWa0c&embeds_referring_euri=https%3A%2F%2Fetunnid.tagasikooli.ee%2F&source_ve_path=OTY3MTQ&feature=emb_imp_woyt"
+            },
+            {
+              "kind": "link",
+              "href": "https://etunnid.tagasikooli.ee/e-tund/miks-on-oluline-teada-ohtudest-multifilmi-naitel/",
+              "title": "Miks on oluline teada ohtudest? Multifilmi näitel"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=OLlnIoFXM40"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1038700/magus-molekul",
+              "title": "Magus molekul"
+            },
+            {
+              "kind": "link",
+              "href": "http://Virtuaalkliinik.ee",
+              "title": "Virtuaalkliinik.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/20689",
+              "title": "Tervislik ja ebatervislik eluviis"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/20688",
+              "title": "Tervislik eluviis"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/20312",
+              "title": "Siimu ja Saskia tervis"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/20308",
+              "title": "Lapsele kahjulikud, mitte soovitatavad ja kasulikud tegevused"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Kujundav hindamine:</strong> hindamisviisid õppeprotsessi kestel. Suuline ja kirjalik sõnaline hindamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Mina ja minu pere",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisuse põhjendus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Prosotsiaalse käitumise kui tõhusa sotsiaalse oskuse väärtustamine ja sotsiaalne sidususe arendamine lähikeskonnas</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Mõistab sõpruse ja koostöö väärtust ning üksteise eest hoolitsemise ja abistamise vajadust.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab enda ja pereliikmete ülesandeid kodus, toob näiteid üksteise abistamisest ja pereliikmetega arvestamisest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid oma õigustest ja kohustustest peres, koolis ja ühiskonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kodu. Erinevad pered. Pereliikmete tegevus ja rollid. Hoolitsemine, abistamine, kaasamine ja pereliikmetega arvestamine. Vastutus, õigused ja kohustused peres, koolis ja lähiümbruses.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Diskussioon ja rühmatöö vastavasisulise lasteluule ja/või lastekirjanduse alusel. Õppemängud. Rollimäng. Õpetaja juhitud arutelu, miks on oluline iga pereliikme panus kodus? Mõttekaart: Minu õigused kohustused kodus, koolis ja lähiümbruses. Lastega filosofeerimine: õigus, kohustus, vastutus.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/janku-jussi-vaike-heategu,episode-2724207",
+              "title": "Jänku-Jussi väike heategu"
+            },
+            {
+              "kind": "link",
+              "href": "https://lasteekraan.err.ee/1080315/nova-seletab-millised-on-lapse-oigused",
+              "title": "NOVA seletab: Millised on lapse õigused?"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/oppemeetodid2/1-kuidas-%C3%B5piobjekti-kasutada",
+              "title": "Lastega filosofeerimisest"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/opistsenaariumid/hoolivus",
+              "title": "Hoolivus"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited õpetajale; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vastav õppevara tööraamatutena: 2. klass inimeseõpetus.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/100065/metoodiline-juhend-oigus-olla-laps/",
+              "title": "Metoodiline juhend Õigus olla laps"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Kujundav hindamine:</strong> hindamisviisid õppeprotsessi kestel. Edasiside ning suuline sõnaline hindamine ja tagasiside.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Mina ja Eesti",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisuse põhjendus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kodanikupädevuste arendamine kujundamaks aktiivset ja vastutustundlikku kogukonna- ja ühiskonna liiget</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Näitab Eesti Vabariigi ja oma kodukoha asukohta kaardil, tunneb Eesti ja kodukoha sümboolikat, olulisi inimesi ja paiku.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Teab eesti rahvakombeid ja mõistab enda rolli kommete ja tavade hoidja ja kandjana.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Suhtub sallivalt Eestis elavate inimeste keelelistesse ja kultuurilistesse erinevustesse",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab kaardilt Eesti ja kodukoha",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab Eesti Vabariigi pealinna ja sünnipäeva",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kes on Eesti Vabariigi president",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära, kirjeldab ja kujutab kodukoha ja Eesti Vabariigi sümboolikat",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja tutvustab oma kodukoha olulisi inimesi ja paiku",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb rahvakombeid minevikus ja tänapäeval, nt mardipäev, kadripäev, jõulud, vastlapäev, jaanipäev jt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid oma klassis või kodukohas elavate inimeste tavadest ja kommetest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, kuidas õpilane saab ise olla kommete ja tavade hoidja",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eestimaa ja kodukoht. Eesti pealinn. Eesti Vabariigi sünnipäev. Eesti president. Eesti Vabariigi riiklikud, rahvuslikud ja kodukoha sümbolid. Oma kodukoha olulised paigad ja inimesed. Eesti rahvakombed ja tavad minevikus ja tänapäeval. Kodukoha inimeste tavad ja kombed. Oma klassi tavad. Sallivus erinevustesse. Enda roll tavade ja kommete hoidja ja kandjana.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Multifilmid, luuletuse kirjutamine Eestile kasutades riigi sümboleid ja sõnu, joonistus, viktoriin, õppekäik, õpiprojekt, lühijutu kirjutamine ja joonistamine ning miniuurimused rahvakommete kohta.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/janku-juss-vabariigi-aastapaeva-paraadil,episode-2724305",
+              "title": "Jänku-Juss Vabariigi aastapäeva paraadil"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Dcczf7DKNb8&list=PL4AD4E9A7B787EA17&index=2"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/janku-juss-ja-kangelased,episode-2724218",
+              "title": "Jänku-Juss ja kangelased"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/23-juuni-on-voidupuha,episode-2724593",
+              "title": "23. Juuni on võidupüha"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/14-juuni-on-leinapaev,episode-2724598",
+              "title": "14. Juuni on leinapäev"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/449",
+              "title": "Me elame Eestis"
+            },
+            {
+              "kind": "link",
+              "href": "https://lasteekraan.err.ee/1144296/mina-ka-eesti",
+              "title": "Mina ka: Eesti"
+            },
+            {
+              "kind": "link",
+              "href": "https://lasteekraan.err.ee/1144313/mina-ka-eestimaa",
+              "title": "Mina ka: Eestimaa"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/jussi-jaanipaev,episode-2724799",
+              "title": "Jussi jaanipäev"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/jussi-mardipaev,episode-2724461",
+              "title": "Jussi mardipäev"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/1-september-on-teadmistepaev,episode-2724484",
+              "title": "1. September on teadmistepäev"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=LlagIdC2m6U&list=PL4AD4E9A7B787EA17&index=6"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/juss-saab-seitsme-aastaseks,episode-2724756",
+              "title": "Juss saab seitsme-aastaseks"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/jussi-opetaja-sunnipaev,episode-2724601",
+              "title": "Jussi õpetaja sünnipäev"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited õpetajale; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vastav õppevara tööraamatutena: 2. klass inimeseõpetus.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.folklore.ee/Berta/",
+              "title": "Eesti rahvakalendri tähtpäevade andmebaas BERTA"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/kohtumised/luterlus",
+              "title": "Kohtumised eri uskudega Eestis"
+            },
+            {
+              "kind": "link",
+              "href": "https://lasteekraan.err.ee/1144299/mina-ka-joulud",
+              "title": "Mina ka: Jõulud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@hakkamesantima5952",
+              "title": "Hakkame Santima veebipesa"
+            },
+            {
+              "kind": "link",
+              "href": "http://youtube.com",
+              "title": "youtube.com"
+            },
+            {
+              "kind": "link",
+              "href": "https://lasteekraan.err.ee/1121229/piip-ja-tuut-hoiavad-eesti-lippu-korgel",
+              "title": "Taasiseseisvumispäev"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/opistsenaariumid/rahvusk%C3%B6%C3%B6k-ja-lauakombed",
+              "title": "Rahvusköök ja lauakombed"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Kujundav hindamine:</strong> hindamisviisid õppeprotsessi kestel. Suuline ja kirjalik sõnaline hindamine, tagasiside.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Mina: aeg ja asjad",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisuse põhjendus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Enesejuhtimis- ja õpioskuste arendamine</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Oskab planeerida oma tegevusi ja väärtustab aktiivset vaba aja veetmist",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Mõistab õppimise tähtsust igapäevaelus hakkama saamisel ja tuleviku kavandamisel",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "planeerib oma päeva ja nädalat terviseteadlikult",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid, kuidas õppimine aitab igapäevaelus hakkama saada",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab enda õppimise eesmärke ja seostab neid enda huvidega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab igapäevavalikuid tuleviku eesmärkidega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mina: aeg ja aja planeerimine. Mina ja asjade väärtus teiste väärtuste seas. Erinevad meeled oma õpitegevuse ja vaba aja tegevuse kavandamisel. Oma õpitegevuse eesmärkide seos oma huvide ja võimetega. Oma igapäevavalikute seos oma tuleviku eesmärkidega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Individuaaltöö: päeva- ja nädalakava. Arutelu, loovtöö, paaristöö, teemapäev ja filmiõppe projekt. Individuaalne õpimapp ning loovülesanne <em>Mina suurena</em>.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=pHwfMpSn9UM"
+            },
+            {
+              "kind": "link",
+              "href": "https://haridusekraanil.ee/jussike/",
+              "title": "Jussikese seitse sõpra"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-2614306/janku-jussi-viis-meelt,episode-2724289",
+              "title": "Jänku-Jussi viis meelt"
+            },
+            {
+              "kind": "file",
+              "src": "https://e-koolikott.ee/rest/uploadedFile/2590/Viis_meelt.pdf",
+              "title": "Viis meelt"
+            },
+            {
+              "kind": "link",
+              "href": "https://laps.targaltinternetis.ee/bibi-tahab-mangida",
+              "title": "Bibi tahab mängida. Aga kus on ta sõbrad?"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited õpetajale; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vastav õppevara tööraamatutena: 2. klass inimeseõpetus.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://etunnid.tagasikooli.ee/e-tund/kuidas-mu-aju-opib-ehk-kuidas-paremini-oppida/",
+              "title": "Kuidas mu aju õpib ehk kuidas paremini õppida?"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/26483/amanda-ja-koige-tahtsam-sona/",
+              "title": "Amanda ja kõige tähtsam sõna"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Kujundav hindamine:</strong> hindamisviisid õppeprotsessi kestel. Suuline sõnaline hindamine, eneseanalüüs ja -hindamine ning tagasiside.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppevara: I kooliaste",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Meidla, R. ja Säälik, Ü. (2017/2019/2021). Inimeseõpetuse tööraamat 3. klassile. Maurus.</p><p>Sulaoja, E. Stamm, T., Vainola, K., &amp; Sildre, E. (2016/2018). Inimeseõpetuse tööraamat. 2. klass. Maurus.</p><p>Haring, L., Kõivupuu, M., Arnek, P., Ever, K., &amp; Reest, N. (2023). Inimeseõpetuse õpik algklassidele, I. Avita.</p><p>Haring, L., Arnek, P., Ever, K., &amp; Reest, N. (2023). Inimeseõpetuse töövihik algklassidele, I. Avita.</p><p>Kippak, R., Kulderknup, E., Kloren, A., &amp; Peetris, K. (2022). 3. klassi inimeseõpetuse töövihik. Koolibri.</p><p>Kippak, R., Kloren, A., Kulderknup, E., &amp; Peetris, K. (2022). 2. klassi inimeseõpetuse tööraamat. Koolibri.</p><p>Kõiv, K., ja Edovald, T. (2004). Inimeseõpetus: õpik 3. klassile. Avita.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Diferentseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pastarus, K., ja Öövel, H. (2010). Inimeseõpetus 2. klass. Põhikooli lihtsustatud õppekava. SA Innove, HARNO.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/286",
+              "title": "Inimeseõpetus 2. klass"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lanno, G., &amp; Musting, K. (2010). Inimeseõpetus 3. klassile. Põhikooli lihtsustatud õppekava. SA Innove, HARNO.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/281",
+              "title": "Inimeseõpetus 3. klassile"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Muu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kull, M., Saat, S., Kiive, K., Kuusk, K., ja Kõiv, K. (2002). Sotsiaalsete toimetulekuoskuste õpetus: õpetajaraamat: 1.-3. klass. Avita.</p><p>Kull, M., Saat, H., Kiive, E., Põiklik, E. (2015). Uimastiennetuse õpetajaraamat põhikoolile. Tervise Arengu Instituut.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.terviseinfo.ee/et/tervise-edendamine/koolis/olulised-abimaterjalid/uimastiennetus/uimastiennetuse-opetajaraamat",
+              "title": "Uimastiennetuse õpetajaraamat"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.terviseinfo.ee/et/tervise-edendamine/koolis/olulised-abimaterjalid/uimastiennetus/uimastiennetuse-opetajaraamat/i-kooliastme-aktiivtoeoed",
+              "title": "I kooliastme aktiivtööd"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mei, K., Pihu, M., ja Tullus, I. (2014). Toitumine ja liikumine. I-III kooliaste. Õpetajaraamat. Atlex AS.</p><p>Põiklik, E., ja Saat, H. (2007). Sotsiaalsete toimetulekuoskuste õpetus. Õpetajaraamat I kooliastmele. Tervise Arengu instituut.</p><p>Varava, L., Pitsi, T., Magerramov, M., Arund, A. (2020). Laste toiduteadlikkuse ja söömisharjumuste kujundamine. Õpetajaraamat lasteaedadele. Tervise Arengu Instituut.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursusel „Teksti keel ja stiil“ arendatakse põhjalikult žanriteadlikkust, käsitletakse erinevate tekstiliikide keele- ja stiilierinevusi nii grammatikas kui ka sõnavaras, selgitatakse kirjutamise võtteid ja tavasid eri tekstiliikide näitel. Antakse süstemaatiline ülevaade suhtlusolukorra teguritest ning suunatakse kirjutama erinevatel eesmärkidel, varieerima ja analüüsima enda tekstides tehtud keelevalikuid ning võrdlema erinevaid tekste.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib ja võrdleb keele erinevaid kasutusvaldkondi ja tekstide stiilierinevusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib keelelisi ja vormilisi väljendusvahendeid suhtlusolukorra ning kõneaine põhjal, järgib stiili- ja etiketinorme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendub selgelt ja korrektselt nii suulises kui ka kirjalikus suhtluses;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib tekstide sisu, eesmärke, konteksti, ülesehitust, grammatikat, sõnavara ja stiili;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb tekstis ära keelelise mõjutamise viise ja vahendeid, hindab tekstidest leitud teavet kriitiliselt ja kasutab seda sihipäraselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab eri liiki suulisi ja kirjalikke tekste, sh kõne, kokkuvõtte ja lühiuurimuse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob alustekstide põhjal uusi tekste, refereerib ja tsiteerib, kasutab viitamissüsteeme, väldib plagiaati;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja analüüsib ainevaldkonna teadustekste, eristab teaduskeele tunnuseid ja põhjendab teadustekstide keelelisi valikuid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "korrigeerib ja redigeerib oma teksti, kasutab otstarbekalt keeleallikaid ja teabekeskkondi, teeb teadlikke keelevalikuid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Kursus „Teksti keel ja stiil”",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keele erinevad kasutusvaldkonnad: argi-, ilukirjandus-, teadus- ja tarbekeel.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eesti sõnavara, sõnade tähendus ja stiilijooned. Oma sõnavara rikastamise võimalused. Keele kujundlikkus ja loov keelekasutus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Stiil ja stilistika. Asjalikkus ja isikupära. Viisakus ja sõbralik toon. Suhtlus ja võim. Vulgaarsed keelendid. Suhtlusvead. Ametlik stiil, publitsistlik stiil, teadusstiil ja ilukirjandusstiil. Stiilivärving ja -viga. Keele eri kasutusvaldkondade tüüpilised stiilivead.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keel suhtlus- ja tunnetusvahendina. Tekst ja kontekst. Suulise ja kirjaliku suhtluse ning teksti erinevused. Veebisuhtluse keelevalikud.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tekstide võrdlev ja kriitiline analüüs: eesmärgid, kontekst, ülesehitus, grammatilised erijooned, sõnavara, stiil.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teadlik kirjutamine. Kirjutamise eesmärk, adressaat, pealkiri, probleem, põhiidee. Teksti ainestik, materjali kogumine ja süstematiseerimine. Teema, selle varasemad käsitlused ja eri tahud. Teksti ülesehitus ja sidusus. Lõigu ülesanne (allteema, väide, selgitus, tõestus, järeldus, üldistus). Arutlev ja kriitiline kirjutamine. Oma teksti toimetamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teadustekst. Uurimiseesmärgi sõnastamine. Materjali kirjeldamine ja usaldusväärsus. Uurimuse struktuur. Allikate refereerimine ja tsiteerimine. Lause- ja lõiguviited; viitekirje. Uurimisandmete võrdlemine, analüüsimine, üldistamine, järeldamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Vormistamine. Arvustamine. Loomevargus ehk plagiaat.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

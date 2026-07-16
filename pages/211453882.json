@@ -1,0 +1,936 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Inimese areng ja murdeiga",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>TEEMA OLULISUS: </strong>Inimese areng erinevates arenguvaldkondades ja erinevatel arenguperioodidel toetab teadlike (k a terviseteadlike) otsuste tegemist eaperioodi arenguülesannete täitmisel.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Teab, kuidas ühiskond mõjutab inimeste tervisekäitumist, suhtlemist ja õppimist.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Väärtustab enese arendamise vajadust ja elukestvat õpet, mõistab oma võimalusi ja vastutust enda elutee kujundamisel.",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "Mõistab inimese arengut murde- ja noorukieas.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Kirjeldab pärilike ja keskkonnategurite, nt elukeskkonna, ümbritsevate inimeste ja hariduse mõju inimese arengule ja otsustele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Seostab inimese kasvamist ja arengut pärilike ning keskkonnateguritega;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Selgitab inimese arengut murde- ja noorukieas ning eristab seda täiskasvanueast;",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Areng, küpsemine, kasvamine, õppimine, pärilikkus, keskkonna mõju, inimese valikud.</p><p>Ühiskonna mõju inimese kasvamisele ja arengule.</p><p>Inimese elukaar. Murde- ja noorukiea koht elukaares.</p><p>Murde- ja noorukiea iseloomulikud tunnused. Suguküpsus, sootunnused, keha muutumine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Peamiste mõistete avamine, elukaare ja murdeeaga seotud ülesanded.</p><p><strong>Sissejuhatus.</strong> Peamiste mõistete avamine: mõiste, selgitus ja näide.</p><p><strong>Ülesanne.</strong> “See olen mina” – kirjeldada iseennast võimalikult detailselt ning anda hinnang, kas tegemist on pärilikkuse, keskkonna tegurite või inimese enda valikutega.</p><p><strong>Paaristöö.</strong> Kaaslase kirjeldamine.</p><p><strong>Ülesanne.</strong> Elukaare etapid: rühmades mõelda välja igale etapile moto.</p><p><strong>Töö helifailidega.</strong> Ööülikooli elukaare loengute põhjal esitluste koostamine.</p><p>Keskendumine murdeea muutustega seotud teemadele. Peamiste mõistete avamine.</p><p><strong>Ülesanne.</strong> Minu senine arengukäik (elukaar).</p><p><strong>Võrdlus</strong> murdeeast. Vihikusse tabel kolme lahtriga: murdeea muutused üldiselt/tüdrukutel/poistel – uus teadmine – tekkis küsimus.</p><p><strong>Joonis.</strong> Õpilased märgivad joonisele murdeeaga seotud muutused.</p><p><strong>Ülesanne.</strong> Primaarsed ja sekundaarsed sugutunnused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Üldpädevused:</strong> kultuuri- ja väärtuspädevus, enesemääratluspädevus, õpipädevus, sotsiaalne ja kodanikupädevus, suhtluspädevus, matemaatika-, loodusteadusete ja tehnoloogiaalane pädevus, ettevõtlikkuspädevus ja digipädevus.</p><p><strong>Läbivad teemad:</strong> elukestev õpe ja karjääri kujundamine; keskkond ja jätkusuutlik areng; kodanikualgatus ja ettevõtlikkus; kultuuriline identiteet; tervis ja ohutus; tehnoloogia ja innovatsioon; väärtused ja kõlblus.</p><p><strong>Teised õppeained:</strong> eesti keel, bioloogia, matemaatika, kunst ja liikumisõpetus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited õpetajale; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/12w9w4LzjD3_4_eMiraynPj5o4Q9aYGy_/edit",
+              "title": "Viia kokku"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.slideshare.net/loodusained/elukaar",
+              "title": "Gurova, A. 2012. esitlus elukaarest"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hariduskeskus.ee/opiobjektid/elukulg/?INIMESE_ARENG___ELUKAAR",
+              "title": "Elukaar"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hariduskeskus.ee/opiobjektid/elukulg/?INIMESE_ARENG___ELUKAAR___Elukaare_etapid",
+              "title": "Elukaare etapid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hariduskeskus.ee/opiobjektid/elukulg/?P%C3%84RILIKKUS",
+              "title": "Pärilikkus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hariduskeskus.ee/opiobjektid/elukulg/?NOORUKIIGA",
+              "title": "Noorukiiga"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hariduskeskus.ee/opiobjektid/elukulg/?NOORUKIIGA___MURDEIGA",
+              "title": "Murdeiga"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/inimese-elukulg-ja-areng/avaleht",
+              "title": "Inimese elukulg ja areng"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608588964/ooulikool-aaro-toomela-laps",
+              "title": "Aaro Toomela „Laps”"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608593290/ooulikool-grete-arro-ja-kati-aus-teismelisus",
+              "title": "Grete Arro ja Kati Aus „Teismelisus”"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608593296/ooulikool-ular-ploom-taiskasvanu",
+              "title": "Ülar Ploom „Täiskasvanu”"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608598843/ooulikool-tiia-toomet-vanaduse-volud",
+              "title": "Tiia Toomet „Vanaduse võlud”"
+            },
+            {
+              "kind": "link",
+              "href": "https://inimareng.ee/et/eluviisi-ja-vaimse-tervise-seosed-inimese-elukaarel/",
+              "title": "Eluviisi ja vaimse tervise seosed inimese elukaarel"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/21737-Tervise-mojutegurid-Jaga-oigesse-ruhma",
+              "title": "Tervise mõjutegurid. Jaga õigesse rühma!"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/exhibition/terve-tervis-soo-liigu-suhtle-puhka/",
+              "title": "Tervisemuuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://seksuaaltervis.ee/info/keha/murdeiga-2",
+              "title": "Murdeiga"
+            },
+            {
+              "kind": "link",
+              "href": "http://seksuaaltervis.ee",
+              "title": "seksuaaltervis.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://Seksuaaltervis.ee",
+              "title": "Seksuaaltervis.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://viljakusest.ee",
+              "title": "viljakusest.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.viljakusest.ee/1-2-naise-ja-mehe-sugutunnused-ja-suguhormoonid/",
+              "title": "Murdeiga ehk puberteet. Sootunnused"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/413/chapter/22314",
+              "title": "Kontrolltöö „Murdeiga ehk puberteet. Sootunnused”"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=np8b2RtokVU"
+            },
+            {
+              "kind": "link",
+              "href": "http://Amaze.org",
+              "title": "Amaze.org"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=uFekBQ18CXU"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=00BYyDr8Xdg"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=onggxBVl4qw&t=48s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=r6oka_hqMJk"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=mAPLTaRM48Y"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/ylesanded/13479/lahendamine",
+              "title": "Välised suguküpsuse tunnused"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/ylesanded/13598/lahendamine",
+              "title": "Murdeea kehalised muutused"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/testid/3974",
+              "title": "EIS test „Murdeiga”"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimeseõpetuses hinnatakse õpilaste teadmisi ja oskusi ning hoiakute ja väärtushinnangute kohta antakse tagasisidet.</p><p>Hindamisviisid õppeprotsessi kestel: suuline ja/või kirjalik hindamine, tagasiside, edasiside, numbriline hindamine, enesehindamine, eneseanalüüs, enesekontroll, kaasõpilaste hindamine.</p>"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane selgitab mõisted kasvamine, areng ja küpsemine ning toob näiteid inimese arengut mõjutavate arengutegurite (bioloogilised ja sotsiaalsed; normatiivsed ja mittenormatiivsed) kohta inimese elukaare jooksul erinevatel arenguperioodidel.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane selgitab ja seostab murde- ja noorukiea tunnused ja piire üleminekul lapseeast täiskasvanuikka.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane teab suguküpsuse olemust ning murdeeas toimuvaid keha ja välimusega (esmased ja teisesed sugutunnused) seotud muutusi ning nende erinevat individuaalselt arengutempot.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Inimene, valikud, õnn",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>TEEMA OLULULISUS: </strong>Eneseregulatsiooni oskuste ja õpioskuste arendamine turvalisuse ja heaolu allikana.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Teab, kuidas ühiskond mõjutab inimeste tervisekäitumist, suhtlemist ja õppimist.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Teab, kuidas kujundada ja hoida positiivset suhtumist iseendasse.",
+              "outcomeType": "knowledge"
+            },
+            { "kind": "outcome", "text": "On loov ja ettevõtlik" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Selgitab, mis on minapilt ja enesehinnang;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Toob näiteid teguritest, mis kujundavad minapilti ja enesehinnangut;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Analüüsib ennast oma väärtuste, isikuomaduste, võimete ja huvide põhjal ning seostab seda valikutega elus;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Analüüsib inimese võimalusi ja vastutust oma elutee kujundamisel;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Minapilt – kirjeldav ja hinnanguline aspekt minapildist. Positiivse minapildi kujundamine.</p><p>Eneseanalüüs, väärtused, teadlikud valikud ja vastutus elus. Enesekasvatuse võtted. Enesearendamine oma elutee kujundamisel. Positiivne suhtumine endasse ja teistesse kui ) heaolu alus..</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Enesehinnangu kujunemine ja muutumine. Peamiste mõistete avamine.</p><p><strong>Ülesanne.</strong> “See olen mina” ülesande edasiarendus.</p><p><strong>Komplimendi ülesanne.</strong> A4 paberile kirjutada keskele oma nimi; iga rühma liige paneb kirja ühe lause, mis teeb sellest inimesest imelise inimese.</p><p><strong>Rühmatöö.</strong> Enesehinnang.</p><p><strong>Eneseanalüüs.</strong> Johari akna mudelit kasutades.</p><p><strong>Loovülesanne.</strong> Minu mina.</p><p><strong>Mõistekaart:</strong> enese tundmaõppimine seoses oma väärtuste, isikuomaduste, võimete ja huvidega.</p><p><strong>Probleemi lahendamise ülesanne</strong> seoses enesekasvatuse võtetega.</p><p><strong>Individuaalne kirjutamine.</strong> Õpilased panevad kirja olukorrad, kus nad on pidanud tegema ühe kindla valiku.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited õpetajale; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "link",
+              "href": "http://Peaasi.ee",
+              "title": "Peaasi.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://peaasi.ee/enesehinnang/",
+              "title": "Enesehinnang"
+            },
+            {
+              "kind": "file",
+              "src": "https://peaasi.ee/wp-content/plugins/questions_sheets/pdf/emotsioon3.pdf",
+              "title": "Kuidas ma ennast tunnen?"
+            },
+            {
+              "kind": "file",
+              "src": "https://intra.tai.ee/images/prints/documents/131531583763_Ole_toeks_lapse_enesehinnangukujundamisel_est.pdf",
+              "title": "Ole toeks lapse enesehinnangu kujunemisel"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.holist.ee/pages/johariaken.html",
+              "title": "Johari aken | Holist"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/ylesanded/16077/lahendamine",
+              "title": "Minapilt"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1Hy_Piu1BqunFYDMXKnaONpFqf9AX04V3/edit",
+              "title": "Tegevusplaani koostamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1hYgq8mncaXOim0NlAT4Qho_LMwkO1QCl/edit",
+              "title": "Kontroll tabel"
+            },
+            {
+              "kind": "file",
+              "src": "https://maailmakool.ee/wp-content/uploads/2019/11/Enese-elutee-kujundamine-Malala-Yousafzai.pdf",
+              "title": "Enese elutee kujundamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.teeviit.ee/kuidas-oppida-ennast-tundma/",
+              "title": "Kuidas õppida ennast tundma?"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Lo7lt94Z0N8"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.teeviit.ee/juunior/kuidas-teha-komplimente/",
+              "title": "Kuidas teha komplimente?"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/bitstream/handle/10062/15386/index.html",
+              "title": "Läbi eneseanalüüsi õnnelikkuse poole"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/bitstream/handle/10062/15978/index.html",
+              "title": "Millised tööd mulle sobivad?"
+            },
+            {
+              "kind": "file",
+              "src": "https://steps.ee/wp-content/uploads/2022/11/opetaja_kasiraamat_2022.pdf",
+              "title": "Suhtlemis- ja koostööoskuste õpetamine noortele"
+            },
+            {
+              "kind": "file",
+              "src": "https://maailmakool.ee/wp-content/uploads/2019/11/NAISED-OIGUSTE-EEST.pdf",
+              "title": "Naised õiguste eest: lood üle maailma"
+            },
+            {
+              "kind": "link",
+              "href": "http://Maailmakool.ee",
+              "title": "Maailmakool.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/26878/greta-polvkond/",
+              "title": "Greta põlvkond"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisviisid õppeprotsessi kestel: suuline ja/või kirjalik hindamine, tagasiside, edasiside, numbriline hindamine, enesehindamine, eneseanalüüs, enesekontroll, kaasõpilaste hindamine.</p>"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane analüüsib mina-pildi kirjeldavat ja hinnagulist (enesehinnang) aspekti tuues näiteid teguritest, mis mõjutavad positiivse mina-pildi (k a avatud ala Johari akna näitel) kujunemist.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane analüüsib ennast seoses oma väärtuste, isikuomaduste, võimete ja huvidega seades (lühi- ja pikaajalisi) eesmärke.oma elutee kujundamisel.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane kirjeldab ja seostab põhilisi enesekasvatusvõtteid (sh enesesisestus, eneseveenmine, eneseergutus) oma valikute ja vastutusega elutee (k a haridustee) kujundamisel.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Inimene ja rühm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>TEEMA OLULULISUS: </strong>Inimene on sotsiaalne olend ning teeb koostööd erinevate inimestega erinevates rühmades, säilitades samal ajal sõltumatuse.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Mõistab, et inimene on sotsiaalne olend, mõistab normide vajalikkust ühiselus. Väärtustab hoolivust, ausust, õiglust ja vastutustunnet aktiivse ühiskonnaliikmena.",
+              "outcomeType": "knowledge"
+            },
+            { "kind": "outcome", "text": "On loov ja ettevõtlik" },
+            {
+              "kind": "outcome",
+              "text": "Teab, et inimesed erinevad rahvuse, soo, vaimse ja füüsilise suutlikkuse ning vaadete ja usutunnistuste poolest; on erinevuste suhtes salliv.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Mõistab, et inimene on sotsiaalne olend, toob näiteid rühma kuulumise ja rühmas suhtlemise olulisusest;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Toob näiteid erinevate rühmade normidest ja reeglitest, mis toetavad ühiselu toimimist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Analüüsib enda rolli, õigusi ja kohustusi erinevates rühmades;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab rühma mõju käitumisele, sh sõltumatuse ja autoriteedi olemust inimsuhetes, demonstreerib õpisituatsioonis toimetulekut rühma survega;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rühm. Erinevad rühmade liigid. Erinevad rollid, reeglid ja normid rühmas. Inimeste õigused ja kohustused erinevates rühmades. Rühma kuulumine, selle positiivsed ja negatiivsed küljed. Koostöised ja võistluslikud rühma tegevused.</p><p>Konformsus. Sõltumatus. Autoriteet. Toimetulek rühma survega ennast ja teisi kahjustavates olukordades.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Arutelu.</strong> Miks kodus on suulised kokkulepped ja koolis kirjalikud?</p><p><strong>Ülesanne.</strong> Minu rühmad.</p><p><strong>Ülesanne.</strong> Minu õigused ja kohustused.</p><p><strong>Klassiarutelu.</strong> Mis põhjustel inimesed nõustuvad enamuse arvamusega?</p><p><strong>Rühmatöö.</strong> Erinevad olukordade kirjeldused erinevat tüüpi rühmades, mis võivad tekitada rühmaliikmetel soovi nõustuda.</p><p><strong>Dramatiseering.</strong> Minietendused rühma survega tõhusaks toimetulekuks ennast ja/või teisi kahjustavas olukorras.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited õpetajale; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/u/1/d/1KN9pO_STQgN35x4AQ3wFaoHgV9ecD6t8/edit?usp=drive_web&ouid=112856145559804619982&rtpof=true",
+              "title": "Rühmatöö tööleht"
+            },
+            {
+              "kind": "link",
+              "href": "https://andragoogid.yolasite.com/kokkulepped-ja-normid-grupis.php",
+              "title": "Kokkulepped ja normid grupis"
+            },
+            {
+              "kind": "link",
+              "href": "https://andragoogid.yolasite.com/",
+              "title": "Käsiraamat gruppidest"
+            },
+            {
+              "kind": "link",
+              "href": "https://blogi.harno.ee/mida-teha-et-laps-reeglitest-ja-kokkulepetest-kinni-peaks/",
+              "title": "Mida teha, et laps reeglitest ja kokkulepetest kinni peaks?"
+            },
+            {
+              "kind": "link",
+              "href": "https://grupidynaamika.weebly.com/meeskonna-arenguetapid.html",
+              "title": "Meeskonna arenguetapid"
+            },
+            {
+              "kind": "link",
+              "href": "https://jagamiseroom.wordpress.com/2016/05/01/grupi-sotsiaalne-moju-ning-suhted-ja-suhtlemine-grupis/",
+              "title": "Grupi sotsiaalne mõju ning suhted ja suhtlemine grupis"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisviisid õppeprotsessi kestel: suuline ja/või kirjalik hindamine, tagasiside, edasiside, numbriline hindamine, enesehindamine, eneseanalüüs, enesekontroll, kaasõpilaste hindamine.</p>"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane analüüsib rühmi liigituste (k a suurus, sotsiaalne distants liikmete vahel, rühma ülesanne) alusel tuues näiteid inimeste erinevatesse rühmadesse kuulumise kohta, mis toetavad koostööd rühmas ja ühiselu toimimist kogukonnas.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane võrdleb ja toob näiteid enda rolli kohta erinevates rühmades (rühmade liigitus: erinev suurus, sotsiaalne distants liikmete vahel, erinev ülesanne), kus on väljakujunenud normid (k a õigused ja kohustused).",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane analüüsib (eakaaslaste) rühma kuulumise positiivseid ja negatiivseid külgi rühma sotsiaalse mõju seisukohast ja eristab mõisteid konformsus, autoriteet (kuulekus) ja sõltumatus.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane demonstreerib õpisituatsioonis toimetulekut (eakaaslaste) rühma survega ennast ja teisi kahjustavates olukordades.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Turvalisus, tervise- ja riskikäitumine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>TEEMA OLULISUS: </strong>Inimese teaduspõhised teadmised oskused ja hoiakud toetavad tema heaolu ja tervisekäitumist isiklikul ja ühiskonna tasandil.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Teab, kuidas ühiskond mõjutab inimeste tervisekäitumist, suhtlemist ja õppimist.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Teab, et ühiskond kaitseb laste tervist ja heaolu seadustega.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Analüüsib tegureid, mis aitavad säilitada inimese vaimset heaolu, märkab ohte, oskab kaaslast toetada ja vajaduse korral abi otsida;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Analüüsib laste heaolu mõjutavaid tegureid oma kogukonnas, teeb ettepanekuid, kuidas kogukonnas paremini seista laste heaolu eest;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Analüüsib uimastitega seotud riskikäitumise tagajärgi inimese toimetulekule ning sekkumise võimalusi indiviidi ja ühiskonna tasandil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Toob näiteid seadustest, mis kaitsevad laste õigusi, tervist ja heaolu, ning analüüsib õiguste ja kohustuste seoseid;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimese heaolu komponendid (sh vaimne heaolu). Laste heaolu mõjutavad tegurid (materiaalne, füüsiline, vaimne, sotsiaalne) kogukonna tasandil. Lapse ja noore vaimse heaolu tõstmise võimalused koolis ja kogukonnas.</p><p>Uimastitega seotud riskikäitumise ennetamine indiviidi tasand: tõhusad sotsiaalsed oskused ja keeldumisoskused. Uimastitega seotud riskikäitumise ennetamine: kogukonna ja ühiskonna tasand.</p><p>Lapse õigused ja kohustused peres, koolis ja ühiskonnas. Laste ja noorte õigusi, tervist ja heaolu kaitsvad seadused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Ülesanne.</strong> Tutvuda peaasi.ee lehel vaimse tervise vitamiinidega.</p><p><strong>Rühmatöö.</strong> Kiusamine vaimse tervise häirijana.</p><p><strong>Vaikuseminutite harjutused.</strong></p><p><strong>Ideekaart ja analüüsi kirjutamine.</strong> “Millal mul on raske olla?”</p><p><strong>Rühmatöö.</strong> Kuidas meie saame suurendada enda ja kaaslaste heaolu koolis ja kodukohas.</p><p><strong>Õpiprojekt:</strong> noorte uimastitarvitamisega seotud negatiivsete tagajärgede ennetusvõimalusi kogukonnas/lähiümbruses.</p><p><strong>Infootsing.</strong> Tutvumine seadustega: tubakaseadus, alkoholoseadus, narkootiliste ja psühhotooprsete ainete ning nende lähteainete seadusega.</p><p><strong>Filosofeerimine lastega:</strong> õigus, õiglus, kohustus, nende seosed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited õpetajale; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "link",
+              "href": "http://peaasi.ee",
+              "title": "peaasi.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://vaikuseminutid.ee/vaikuseminutite-harjutused/",
+              "title": "Vaikuseminutite harjutused"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.oiguskantsler.ee/et/laste-noorte-oigused",
+              "title": "Lasteombudsmani seisukohad"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.xn--theaolu-90aa.ee/lugemist/heaolu-mudel-mis-see-on",
+              "title": "PERMA-mudel"
+            },
+            {
+              "kind": "file",
+              "src": "https://maailmakool.ee/wp-content/uploads/2019/11/Lapse-Sigused2.pdf",
+              "title": "Lapse õigused – Malala Yousafzai lugu"
+            },
+            {
+              "kind": "link",
+              "href": "https://esmaabi.peaasi.ee/toovihik/",
+              "title": "Vaimse tervise töövihik"
+            },
+            {
+              "kind": "file",
+              "src": "https://peaasi.ee/wp-content/uploads/2014/11/Laste-vaimne-tervis-koolis.pdf",
+              "title": "Koolilaste ja noorte vaimne tervis"
+            },
+            {
+              "kind": "link",
+              "href": "https://heaolu.ess.ut.ee/",
+              "title": "Heaolumeeter"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.prudens.ee/vaimne-heaolu/",
+              "title": "Vaimne heaolu – kuidas selleni jõuda?"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=IIJTU-gx-5g"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.sotsiaalkindlustusamet.ee/sites/default/files/content-editors/Lastekaitse/Noustamisteenused/lapse_heaolu_hindamise_kasiraamat.pdf",
+              "title": "Lapse heaolu hindamise käsiraamat"
+            },
+            {
+              "kind": "file",
+              "src": "https://intra.tai.ee/images/prints/documents/139816871942_Vaimne_tervis_kui_vaimne_heaolu_2011.pdf",
+              "title": "Vaimne tervis kui vaimne heaolu"
+            },
+            {
+              "kind": "file",
+              "src": "https://blogi.harno.ee/wp-content/uploads/2021/03/Kutsar-Soo.-Eesti-noorte-subjektiivne-heaolu-ja-toimevoimekus.pdf",
+              "title": "Eesti noorte subjektiivne heaolu ja toimevõimekus"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.stat.ee/sites/default/files/2020-07/Laste_subjektiivne_heaolu_kohalikus_ja_rahvusvahelises_vaates.pdf",
+              "title": "Laste subjektiivne heaolu kohalikus ja rahvusvahelises vaates"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32553-Sonavaega-perevagivalla-vastu",
+              "title": "Sõnaväega perevägivalla vastu"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=HOe8kxRSPus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.oiguskantsler.ee/et/laste-ja-noorte-%C3%B5igused",
+              "title": "Lasteombudsmani veebileht"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.sotsiaalkindlustusamet.ee/sites/default/files/content-editors/Lapsed_ja_pered/lapse_heaolu_mootmise_kasitlus.pdf",
+              "title": "Lapse heaolu mõõtmise käsitlus"
+            },
+            {
+              "kind": "link",
+              "href": "https://peaasi.ee/vaimse-tervise-vitamiinid/",
+              "title": "Vaimse tervise vitamiinid"
+            },
+            {
+              "kind": "file",
+              "src": "https://intra.tai.ee/images/prints/documents/144248000590_Uimastiennetuse_opetajaraamat.pdf",
+              "title": "Uimastiennetuse õpetajaraamat põhikoolile"
+            },
+            {
+              "kind": "link",
+              "href": "http://noored.alkoinfo.ee",
+              "title": "noored.alkoinfo.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://noored.alkoinfo.ee/jaa-iseendaks/kuidas-survele-vastu-hakata/kuidas-oelda-ei/",
+              "title": "Kuidas öelda ei"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1609000727/veipimissoltlased",
+              "title": "Veipimissõltlased"
+            },
+            { "kind": "video", "src": "https://vimeo.com/29771562" },
+            {
+              "kind": "file",
+              "src": "https://www.tai.ee/sites/default/files/2021-03/13341449787_Juhendmaterjal_filmi_Motteaine_juurde_Est.pdf",
+              "title": "Juhendmaterjal õppefilmi „Mõtteaine” juurde"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.teeviit.ee/ara-usu-neid-terviskahjustavaid-muute/?fbclid=IwAR3sJ49370Og1vMs6nMaohZ9PBg927rowF6DBkVf6fFXYfqgvLyHkMu1Z5I",
+              "title": "Ära usu neid terviskahjustavaid müüte!"
+            },
+            {
+              "kind": "file",
+              "src": "https://tai.ee/sites/default/files/2023-05/nikotiinipadi_0.pdf",
+              "title": "Nikotiinipadi"
+            },
+            {
+              "kind": "file",
+              "src": "https://tai.ee/sites/default/files/2023-03/Noorte%20vanuse%20kontrollimine%20tubaka-%20ja%20nikotiinitoodete%20m%C3%BC%C3%BCmisel.%20Testostlemise%20uuringu%20tulemused%202022.pdf",
+              "title": "Noorte vanuse kontrollimine tubaka- ja nikotiinitoodete müümisel"
+            },
+            {
+              "kind": "link",
+              "href": "https://tai.ee/et/valjaanded/mida-sisaldab-e-sigareti-sissehingatav-aerosool",
+              "title": "Mida sisaldab e-sigareti sissehingatav aerosool?"
+            },
+            {
+              "kind": "link",
+              "href": "https://tai.ee/et/valjaanded/e-sigarettide-tarvitamise-pidurdamine-ja-ennetamine-koolis",
+              "title": "E-sigarettide tarvitamise pidurdamine ja ennetamine koolis"
+            },
+            {
+              "kind": "file",
+              "src": "https://tai.ee/sites/default/files/2023-05/alko_tubaka_testostlemine_2022.pdf",
+              "title": "Alkohoolsete jookide ning tubaka- ja nikotiinitoodete testostlemine"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.riigiteataja.ee/akt/107032023019",
+              "title": "Tubakaseadus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.riigiteataja.ee/akt/NPALS",
+              "title": "Narkootiliste ja psühhotooprsete ainete ning nende lähteainete seadus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.riigiteataja.ee/akt/128092023001",
+              "title": "Alkoholiseadus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.oiguskantsler.ee/et/laste-ja-noorte-%c3%b5igused/",
+              "title": "Laste ja noorte õigused"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/100065/metoodiline-juhend-oigus-olla-laps/",
+              "title": "Õigus olla laps"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/26985/videoeloeng-miks-me-ikka-veel-raagime-lapse-oigustest/",
+              "title": "Miks me ikka veel räägime lapse õigustest?"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.inimoigusteraamat.ee/raamat/inimoiguste-raamat/16-laste-oigused",
+              "title": "Laste õigused"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.riigiteataja.ee/akt/106122014001",
+              "title": "RT I, 06.12.2014, 1"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.lasteabi.ee/",
+              "title": "Lasteabi veebileht"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.lastekaitseliit.ee/et/",
+              "title": "Lastekaitse Liit veebileht"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/oppemeetodid2/1-kuidas-%C3%B5piobjekti-kasutada",
+              "title": "Lastega filosofeerimisest"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/437/inimoigusi-kasitlev-oppematerjal/",
+              "title": "Igaüks, igal pool"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/",
+              "title": "Maailmakool.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/100002/vn-dokfoto-vincent-tremeau/",
+              "title": "Virtuaalnäitus „Kui ma ükskord suureks saan”"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisviisid õppeprotsessi kestel: suuline ja/või kirjalik hindamine, tagasiside, edasiside, numbriline hindamine, enesehindamine, eneseanalüüs, enesekontroll, kaasõpilaste hindamine.</p>"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane eristab vaimset heaolu ühe heaolu aspektina ning kirjeldab näidete varal võimalusi lähiümbruses (n PERMA mudel alusel: positiivsed emotsioonid, kaasahaaratus, positiivsed suhted, tähenduslikkus ja saavutus), kuidas laste ja noorte vaimset heaolu tõsta.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane teab keeldumisvõimalusi uimastitega seotud situatsioonides ning demonstreerib õpisituatsioonis “ei” ütlemise oskusi sellistes situatsioonides.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane analüüsib uimastitarvitamisega seotud negatiivsete tagajärgede ennetusvõimalusi lähiümbruses (kogukonnas ja ühiskonnas.)",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane seostab laste ja noorte õigused kohustustega tuues näiteid seadustest, mis kaitsevad laste ja noorte tervist ja heaolu.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppematerjali viited",
+      "children": [
+        {
+          "kind": "link",
+          "href": "http://jupiter.err.ee",
+          "title": "jupiter.err.ee"
+        }
+      ]
+    }
+  ]
+}

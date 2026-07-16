@@ -1,0 +1,918 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>II ja III kooliastmes</strong> kujundatakse õpilaste teadmisi ja oskusi neljas õppevaldkonnas: suuline ja kirjalik suhtlus, teksti vastuvõtt, tekstiloome ning keeleteadlikkus. Siingi on eesti keele õpetamise keskmes (tervik)tekstid ja katkendid või tekstikorpused ning nendega seotud tekstitoimingud. Keelepädevuse tagab võimalikult eripalgeline, kuid autentne ja adekvaatne tekstivalik, mis võimaldab omandada keeleteadmisi ja kujundada hoiakuid.</p><p>Suhtlemisõpetusega kujundatakse oskust kasutada multimodaalses suhtluses eri kanaleid ja keskkondi (sh netikeskkonda), oskust arvestada suhtlemisel eesmärki, partnerit ja olukorda, oskust vahendada teavet, väljendada oma arvamusi ja hinnanguid. Tähelepanu pööratakse ka netiturvalisusele. Suhtlusoskuse arendamisel tehakse informatiivseid esitlusi (nt raamatututvustusi) nii individuaalselt kui ka koostöös.</p><p>Teksti vastuvõtu õpetusega kujundatakse oskust tekste leida ja valida, eesmärgipäraselt lugeda ja kuulata, samuti rakendatakse erinevaid lugemis- ja kuulamisvõtteid ning süvendatakse oskust teksti mõista ja sellele reageerida. Arendatakse kriitilise lugemise oskust ning analüüsitakse erinevaid tarbetekste. Elulähedaste ja tähenduslike aine- ja muude tekstide käsitlus lõimitakse tekstide ülesehitusliku eripära, sõnavara, grammatika ja õigekeelsuse õpetamisega, et kujundada õpilases loomulik keeleteadlikkus.</p><p>Tekstiloome õpetusega kujundatakse mitmekülgset ja eesmärgistatud eneseväljendusoskust, mille puhul õpilane tajub situatsiooni ja adressaati ning suudab oma mõtteid selgelt ja täpselt, tekstiliigile omasel viisil väljendada. Jutustavate, kirjeldavate ja arutluselementidega tekstide kõrval hõlmab kirjutamine avarat tekstivälja alates tarbetekstidest kuni ilukirjanduseni. Tekstiloomes on põhirõhk kirjutamise protsessil, õpilane järgib kirjutamise etappe alates eeltööst kuni lõpptulemuse vormistamise ja viimistlemiseni.</p><p>Keeleteadlikkuse õpetusega avardatakse keeleteadmisi, omandatakse õigekeelsuspõhimõtted, kujundatakse eesti keelt väärtustavat hoiakut. Arendatakse oskust tänapäeva eesti kirjakeelt teadlikult kasutada, kujundatakse arusaamist keele arengust ja muutumisest ning murrete eripärast. Keeleteadlikkust, mis peab tagama korrektse ja mitmekülgse kirjakeele omandamise, õpetatakse muude tekstitoimingute osana.</p><p>Et õpilane osaleks aktiivselt ja vahetult õppeprotsessis, peavad keeleõppe tegevused olema mitmekülgsed ja funktsionaalsed. Keeletundides omandatakse konkreetseid keeleteadmisi ja praktilisi oskusi, analüüsitakse loetut ja kuuldut, kujundatakse keelega seotud hoiakuid ja antakse hinnanguid ning kirjutatakse eri liiki tekste. Arendatakse oskust sobivatest allikatest ja keskkondadest infot hankida, seda lugeda ja kriitiliselt hinnata. Keeleallikate kasutamine lõimitakse tekstiloomesse, st, et õpilane oskab teabe põhjal langetada teadlikke keelevalikuid, mis arvestavad suhtlusolukorra sobivust. Tekstitöös on oluline ka digitaalse sisu loomine, muutmine ja taasesitamine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väärtustab oma rahvapärimust ja kultuuri mitmekesisust;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab eesti keelt kui kultuuri kandjat ja avaliku suhtluse vahendit.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "on keeleteadlik, väljendab end eesmärgipäraselt, selgelt, asjakohaselt ja keeleliselt korrektselt suuliselt ning kirjalikult;",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb tekste vilunult, eesmärgistatult ja kriitiliselt eri keskkondades ja allikatest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab eesmärgistatult ja keeleliselt korrektselt eri liiki tekste eri keskkondades ja allikate toel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib ja hindab kriitiliselt eri liiki suulisi ja kirjalikke tekste, arvestab intellektuaalomandiga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab eri tüüpi ja liiki tekstide ülesehitust, sisu, keelelist eripära ning funktsiooni;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujundab lugemise kaudu väärtushoiakuid ja tõekspidamisi;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab end sobivat ja rikkalikku sõnavara kasutades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "omandab lugemisharjumuse ja väärtustab lugemist.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Suuline ja kirjalik suhtlus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "nimetab suulise ja kirjaliku kõne erijooni ning eristab kirjakeelt argikeelest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitab kuuldu ja loetu põhjal küsimusi, teeb järeldusi ning annab hinnanguid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb kuuldu ja loetu kohta nii suulise kui ka kirjaliku kokkuvõtte;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb eakohastel teemadel, lahendab keelealaseid probleemülesandeid ja osaleb diskussioonides;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab ning avaldab viisakalt ja asjakohaselt arvamust ja seisukohta sündmuse, nähtuse või teksti kohta nii suuliselt kui ka kirjalikult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab tekstides ja suhtluses tehtavaid keelevalikuid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab asjakohaseid suulise ja kirjaliku suhtlemise tavasid ja võimalusi.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teksti vastuvõtt",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "iseloomustab peamisi tekstiliike, nende põhijooni ning kasutamise võimalusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja kuulab sihipäraselt, kriitiliselt ning arusaamisega nii oma huvivaldkondade kui ka õpi- ja elutarbelisi tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et teksti väljenduslaad oleneb teksti kasutusvaldkonnast, liigist, eesmärgist, autorist ja suhtlusolukorrast;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb järeldusi kasutatud keelevahendite kohta ning märkab kujundlikkust mõjutusvahendina;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab kriitiliselt sõnumi suhtlusmooduseid, sh visuaalset, kuuldelist, žestilist ja tekstilist osa;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võtab kokku ja konspekteerib tekste, teeb teksti põhjal märkmeid, võrdleb tekste omavahel, osutab arusaamatule;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab teksti kohta küsimusi ja esitab vastuväiteid, avaldab arvamust, kommenteerib, tõlgendab ning seostab oma kogemuste ja mõtetega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab omandatud keele- ja tekstimõisteid teksti vastuvõtmisel, analüüsimisel ja tõlgendamisel ning seoste loomisel.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tekstiloome",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "leiab tekstiloomeks vajalikku teavet eri allikatest ja keskkondadest, valib kriitiliselt teabeallikaid ning osundab neid sobivas vormis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab ja valmistub esinemiseks etappide kaupa;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ehitab teksti üles vastuvõtjat arvestades, järjestab ja seostab info loogiliselt ning valdab peamisi tekstisidususvõtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esineb suuliselt (tervitab, võtab sõna, koostab ning peab lühikese ettekande ja kõne);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab eesmärgipäraselt ja olukohaselt, vormistab korrektselt eri liike tekste (teabetekstid, sh kindla eesmärgiga ülevaated, kokkuvõtted ja lühiuurimused; meediatekstid, sh uudis, intervjuu; arvamustekstid, sh kirjand, kommentaar, arvamuslugu; avaliku suhtluse tekstid, sh avaldus, seletuskiri);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab oma kirjutise ja esinemise sündmuse või toimingu eesmärgiga, vahendab kuuldud ja loetud tekste sobiva pikkuse ja täpsusega, viidates allikale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab suhtlussituatsiooni sobivaid tekste, arvestab teksti vastuvõtjat, järgib õigekirjanorme, kasutab mitmekesiseid grammatilisi tarindeid ja sõnavara;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab kirjutamisel mitmeid keeleallikaid ja teeb saadud teabe põhjal teadlikke keelevalikuid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Keeleteadlikkus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väärtustab eesti keelt ühena Euroopa ja maailma keeltest, kirjeldab ja mõistab eesti keele eripära, kujunemist ja rolli teiste keelte taustal, suhestab keeli teadlikult;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub mõistvalt eesti keelt teise keelena kõnelejatesse, on toetav vestluspartner;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib eesti õigekirja aluseid ja põhimõtteid, kasutab õigekirjakorrektorit;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab eesti kirjakeelt avalikult esinedes ning õppides;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab eesti keele häälikusüsteemi, eristab sõnaliike ja -vorme, lauseehituse peajooni;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb peamisi lausetarindeid ja varieerib neid kirjutades korrektsel ja sobival viisil, sh kasutab liit- ja lihtlauseid, lauselühendiga lauseid, otsekõnet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab ja mõistab tekstis erineva stiiliväärtusega sõnu ja väljendeid, tunneb eesti keele sõnamoodustuse põhimõtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab õpitud metakeele piires tekstide ülesehituslikku ja grammatilist ning sõnavaralist eripära;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab teadlikult mitmesuguseid keeleallikaid, tunneb sõnaartikli ülesehitust, märke ja märgendeid, leiab teavet õigekirja, vormimoodustuse ja tähenduse kohta.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Suuline ja kirjalik suhtlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kirjaliku ja suulise keelekasutuse eripära. Suhtluseesmärkide kaudu sobivate keelendite valimine kõnelemisel ja kirjutamisel.</p><p>Suhtlusolukord, selle komponendid, suhtluspartnerid. Erinevates suhtlusolukordades osalemine. Suhtlusolukorra ja -partneri arvestamine. Suulise suhtlemise tavad eesti keeles: pöördumine, tervitamine, suhtlemise lõpetamine. Telefonivestlus.</p><p>Suhtlemine rühmas, sõna saamine, kõnejärje hoidmine. Arvamuse avaldamine ja põhjendamine.</p><p>Diskussioon. Kompromissi leidmine ning kaaslase täiendamine ja parandamine. Kaaslase tööle põhjendatud hinnangu andmine. Märkmete tegemine suulise arutelu ajal.</p><p>Väitlus, väitluse reeglid. Argumenteerimine, veenmine.</p><p>Veebisuhtluse eesmärgid, võimalused ja ohud. Veebisuhtluskanalid: jututoad, blogid, vlogid. Veebis kommenteerimine. Keeleviisakus ja -väärikus. Anonüümsuse mõju keelekasutusele.</p><p>Meilivahetus, meili kirjutamine ja keelevahendite valik.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teksti vastuvõtt",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Peamised tekstiliigid (tarbe-, teabe- ja meediažanrid), nende eesmärgid ning keelekasutus. Eri liiki tekstide lugemine ja võrdlemine.</p><p>Tarbetekstidest olulise info leidmine ning selle põhjal järelduste tegemine.</p><p>Teabetekstide (õpikutekst, populaarteaduslik tekst) eesmärk, tunnused ning ülesehitus.</p><p>Uurimuse eesmärk ning ülesehitus. Sõnalise teksti seostamine pildilise teabega (foto, joonis, skeem). Pilttekstide ja teabegraafika lugemine ning tõlgendamine.</p><p>Kuuldust ja loetust kokkuvõtte tegemine ning asjakohaste küsimuste esitamine. Konspekteerimine märksõnade ja fraasidega.</p><p>Eri allikatest ja keskkondadest teabe otsimine ning teabeallikate ja info kriitiline hindamine. Liitotsingud. Teabe talletamine ning süstematiseerimine. Intellektuaalomand. Plagiaat.</p><p>Meediatekstide põhiliigid ja tunnused: uudislugu, arvamuslugu, intervjuu, reportaaž, kuulutus. Uudise ülesehitus ja pealkiri. Arvamusloo ülesehitus ja pealkiri.</p><p>Meedia olemus ja eesmärgid tänapäeval. Põhilised meediakanalid. Meediaeetika kesksed põhimõtted.</p><p>Sõnavabaduse põhimõte ning selle piirangud. Kvaliteetajakirjandus ja meelelahutuslik meedia.</p><p>Reklaamtekst, reklaamtekstide eesmärk ja tunnused. Avalik ja varjatud mõjutamine.</p><p>Peamised keelelised mõjutamisvõtted. Kriitiline lugemine.</p><p>Peamised keelelised mõjutamisvõtted. Kriitiline lugemine. Fakti ja arvamuse esitamise keelelised vahendid, faktiloome.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tekstiloome",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tekstiloomeks vajaliku teabe leidmine eri allikatest ja keskkondadest.</p><p>Alustekstide (meedia- ja teabetekstid) põhjal kirjutamine: refereerimine, arutlemine. Teabeallikatele ja alustekstidele viitamise võimalused.</p><p>Ettekande ja kõne koostamine, näitlikustamine ja esitamine.</p><p>Uudise kirjutamine: materjali kogumine, infoallikad, vastutus avaldatud ees. Uudise pealkirjastamine.</p><p>Intervjuu tegemine: valmistumine, küsitlemine, kirjutamine, toimetamine ja vormistamine.</p><p>Kirjandi kirjutamine protsesskirjutamisena: mõtete kogumine, kava koostamine, mustandi kirjutamine. Kirjandi teema ja peamõte. Kirjandi ülesehitus. Teksti liigendamine.</p><p>Jutustava, kirjeldava ja arutleva kirjandi kirjutamine. Arutlusteema leidmine ja sõnastamine isikliku kogemuse või alustekstide põhjal. Teksti pealkirjastamine.</p><p>Tekstilõik ja selle ülesehitus: väide, põhjendus, järeldus. Lõikude järjestamise põhimõtted ja võimalused. Teksti sidusus. Jutustava, kirjeldava ja arutleva tekstiosa tervikuks sidumine.</p><p>Arvamuse kirjutamine: seisukoha kujundamine käsitletava probleemi kohta, selle põhjendamine.</p><p>Teabetekstide koostamine ja vormistamine: elulookirjeldus, seletuskiri, avaldus, taotlus.</p><p>Keeleteadmiste rakendamine töös tekstidega. Keelekujundite kasutamine tekstiloomes: konteksti sobivad ja sobimatud kujundid. Teksti keeleline toimetamine: sõnastus- ja lausestusvigade parandamine.</p><p>Kirjalike tööde vormistamise ja teksti arvutitöötluse põhimõtted.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Keeleteadlikkus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keelesugulus, soome-ugri ja indoeuroopa keeled. Eesti keele eripära ning võrdlus teiste keeltega.</p><p>Eesti keele olulisemad sõna- ja käsiraamatud, keelealased veebiallikad, sh digisõnastikud. Eesti Keele Instituudi veebikeskkond.</p><p>Häälikuõpetus ja õigekiri. Häälikute liigitamine. Kaashäälikuühendi põhireegli rakendamine liitega sõnades, kaashäälikuühendi õigekirja erandid. Veaohtliku häälikuõigekirjaga sõnad. Silbitamine, pikk ja lühike silp. Poolitamine, sealhulgas võõrsõnad ja nimed.</p><p>Õigehääldus: rõhk ja välde. Välte ja õigekirja seosed. Omasõnad ja võõrsõnad. Veaohtlike võõrsõnade õigekiri.</p><p>Sõnavaraõpetus. Sõna ja tähendus. Sõnastuse rikastamine: sünonüümide tähendusvarjundid, homonüümid ja veaohtlikud paronüümid. Keelendite stiilivärving, seda mõjutavad tegurid. Fraseologismid, nende stiilivärving. Oskussõnavara. Eesti kirjakeele kujunemine. Keeleuuendus ja keele areng: võimalused ja ohud.</p><p>Sõnavara täiendamise võimalused: sõnade tuletamine ja liitmine ning tehissõnad. Sagedamini esinevad tuletusliited.</p><p>Vormiõpetus ja õigekiri. Sõnaliigid: tegusõnad, käändsõnad (nimi-, omadus-, arv- ja asesõnad) ning muutumatud sõnad (määr-, kaas-, side- ja hüüdsõnad). Sõnaliikide funktsioon lauses.</p><p>Tegusõna pöördelised vormid: pööre, arv, aeg, kõneviis, tegumood. Tegusõna vormide kasutamine lauses. Tegusõna käändelised vormid. Tegusõna astmevaheldus: veaohtlikud tegusõnad ja sõnavormid. Vormimoodustus tüüpsõna eeskujul. Liit-, ühend- ja väljendtegusõna. Tegusõnade kokku-ja lahkukirjutamine.</p><p>Käändsõnad. Käänetevahelised seosed. Veaohtlikud käändevormid. Käändsõna astmevaheldus: veaohtlikud käändsõnad ja sõnavormid. Vormimoodustus tüüpsõna eeskujul. Omadussõna võrdlusastmed: veaohtlikud sõnad. Käändsõnade kokku- ja lahkukirjutamine.</p><p>Numbrite kirjutamine: põhi- ja järgarvud, kuupäevad, aastad, kellaajad.</p><p>Muutumatud sõnad. Määr- ja kaassõnade eristamine. Muutumatute sõnade kokku- ja lahkukirjutamise reeglid.</p><p>Lauseõpetus ja õigekiri. Lause. Lause suhtluseesmärgid.</p><p>Lauseliikmed: öeldis, alus, sihitis, määrus, öeldistäide. Täiend. Korduvate eri- ja samaliigiliste lauseliikmete ning täiendite kirjavahemärgistamine, koondlause. Lisandi ja ütte kirjavahemärgistamine ning kasutamine lauses.</p><p>Liht- ja liitlause. Lihtlause õigekiri. Rindlause. Rindaluse osalausete ühendamise võimalused, rindlause kirjavahemärgistamine. Põimlause. Pea- ja kõrvallause. Põimlause õigekiri. Segaliitlause. Lauselühend. Lauselühendi õigekiri. Lauselühendi asendamine kõrvallausega. Liht- ja liitlause sõnajärg. Otsekõne, kaudkõne ning tsitaat. Otsekõnega lause muutmine kaudkõneks.</p><p>Muud õigekirjateemad. Algustäheõigekiri: nimi, nimetus ja pealkiri. Isikud ja olendid, Kohad ja ehitised. Asutused, ettevõtted ja organisatsioonid, riigid. Perioodikaväljaanded. Teosed, dokumendid ja sarjad. Ajaloosündmused. Üritused. Kaubad.</p><p>Tsitaatsõnade märkimine kirjas. Võõrnimede õigekiri ja vormimoodustus. Lühendamise põhimõtted ja õigekiri, lühendite käänamine.</p><p>Trüki- ja digisõnastike kasutamine õigekeelsuse kontrollimiseks ja tähenduste leidmiseks. Arvuti keelekorrektori kasutamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Alusteksti põhjal kirjutamine",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "võtab kokku ja konspekteerib tekste, teeb teksti põhjal märkmeid, võrdleb tekste omavahel, osutab arusaamatule (teksti vastuvõtt)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "sõnastab teksti kohta küsimusi ja esitab vastuväiteid, avaldab arvamust, kommenteerib, tõlgendab ning seostab oma kogemuste ja mõtetega (teksti vastuvõtt)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "leiab tekstiloomeks vajalikku teavet eri allikatest ja keskkondadest, valib kriitiliselt teabeallikaid ning osundab neid sobivas vormis (tekstiloome);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kirjutab eesmärgipäraselt ja olukohaselt, vormistab korrektselt eri liiki tekste (teabetekstid, sh kindla eesmärgiga ülevaated, kokkuvõtted ja lühiuurimused) (tekstiloome);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "seostab oma kirjutise ja esinemise sündmuse või toimingu eesmärgiga, vahendab kuuldud ja loetud tekste sobiva pikkuse ja täpsusega, viidates allikale (tekstiloome);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kirjutab suhtlussituatsiooni sobivaid tekste, arvestab teksti vastuvõtjat, järgib õigekirjanorme, kasutab mitmekesiseid grammatilisi tarindeid ja sõnavara (tekstiloome);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab kirjutamisel mitmeid keeleallikaid ja teeb saadud teabe põhjal teadlikke keelevalikuid (tekstiloome).",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Alustekst, tsiteerimine, refereerimine, plagiaat, viitamine</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Põhikooli lõpuks peab õpilane suutma töötada eri ainete tekstidega, tundma ainealaseid andmebaase ja oskama neist infot otsida ning selleks vajalikke lihtsamaid päringuid koostada. Töö selle nimel käib kõigis ainetes, kuid eesti keele aines õpitakse lähemalt alustekstil kirjutamise võtteid ning selleks vajalikke keelelisi väljendusviise. Alustekst võib olla mitmesugune:</p><ol><li>teabeallikas, näiteks mõni ajalooallikas, entsüklopeediaartikkel või ajakirjaartikkel;</li><li>eeskujutekst, mis näitlikustab, kuidas kirjutada, näiteks mõne õpilase loovtöö, kui on tarvis loovtööd kirjutada, retsept, kui on tarvis retsepti kirjutada;</li><li>inspiratsiooniallikaks, näiteks mõni muusikapala, luuletus, videoklipp, mis ärgitab õpilase mõttelendu;</li><li>seisukohavõtt, millele vastatakse, näiteks vastulause alustekst;</li><li>tõlgendatav tekst, nt film või muusikapala, mida arvustatakse, analüüsitakse või hinnatakse.</li></ol><p>Alustekstidel on mitmeid funktsioone ning iga kirjutamisülesanne eeldab, et õpilased mõistaks fookuses olevat funktsiooni, sest alustekst mõjutab õpilaste kirjutamist palju. Kui alusteksti kasutatakse teabeallikana, on oluline välja noppida vaid ülesandeks tarvilik teave, muu tuleb jätta kõrvale. Selline toiming on valiklugemine ehk olulise selekteerimine ebaolulisest.</p><p>Järgnevalt vaatleme lähemalt alusteksti kui teabeallika kasutamist. Eesti keele aines küll loetakse erinevatest ainevaldkondadest ja eri teemadel kirjutatud tekste, kuid peamine rõhuasetus võiks olla keele ja kirjanduse valdkonna tekstidel. Põhikooli lõpuks on õpilane võimeline lugema populaarteaduslikke keele ja kirjanduse artikleid, sobivateks allikateks on näiteks ajakiri Oma Keel, Akadeemiake, Horisont, Värske Rõhk, ERR Novaator või mõne päevalehe kultuurilisa.</p>"
+                },
+                {
+                  "kind": "section",
+                  "title": "Alusteksti kirjutamise harjutamine",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Alusteksti kirjutamise harjutamine võiks alata ühe allikaga töötamisest. Tüüpilised ülesanded võiks suunata alustekstis öeldut ümber sõnastama, peasõnumit välja tooma, näiteid esitama. Ülesannete esitamisel tuleks püstitada eesmärk, mida alustekstist otsitakse, tähtis on sõnastada täpne ülesanne või anda sammsammuline tegevusjuhis, juhul kui õpilased pole allikatööga veel harjunud.</p><p><strong>Esimene samm</strong> on vajalikule kirjakohale või otsingutulemusele osutada. Siin saab õpilastele selgitada, et juhul, kui vastuseks on alusteksti katkend, on tegemist tsitaadiga. <strong>Teine samm</strong> allikatöös on leitu oma sõnadega ümber kirjutada, st refereerimist. Siin on oluline õpilasele õpetada, et alusteksti sõnastuse liiga sarnane esitus liigitub plagiaadiks. <strong>Kolmas samm</strong> on alusteksti kasutamine enda tekstis. Isegi, kui õpilane on refereerinud sobivalt, võivad tekkida raskused vahenduse ja enda lausete sidumisel. Siin tuleks õpilasele tutvustada erinevaid sidusvõtteid, kuidas teha sujuvad üleminekud. Abiks võib olla mõne õnnestunud loovtöö või lihstama artikli eeskuju, aga ka akadeemilise väljenduse varamu (<a href=\"https://www.teadustekst.ut.ee/\">https://www.teadustekst.ut.ee/</a>).</p><p>Alustekstil kirjutamist saab harjutada erinevate tekstiliikide põhjal. Vältida tuleks kirjutamisülesandeid, mis on liiga üldised, nt kirjuta referaat, kokkuvõte. Referaat ja kokkuvõte on pigem kirjutamise võtted, toimingud, kui omaette tekstiliigid. Kokkuvõte ja refereering sisalduvad eri laadi tekstiliikides.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Lõimida võib läbiva teemaga - teabekeskkond ja meediakasutus, samuti saab valdkondlikult lõimida, kasutades kirjanduse aine tekste. Töö infoallikate päringute koostamise nimel võiks olla koostöine: teiste ainete õpetajatega võiks kavandada ühiseid kirjatöid, mis toetavad ainesisu õppimist ja teabeallikate kasutamist ning enda teksti põimimist.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.teadustekst.ut.ee/",
+                  "title": "Akadeemilise väljenduse varamu"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://eki.ee/teatmik/",
+                  "title": "EKI teatmik"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.emakeeleselts.ee/valjaanded/oma-keel/",
+                  "title": "Oma Keel"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Esialgu võiks hinnata harjutusi, mis piirduvad ühe alusteksti põhjal kirjutatud lõiguga töötamisega, järgmiseks võiks hinnata terviktekste, nt esitlusi või kirjatöid. Kui kirjutamine on lõiminguline ja koostöine, võiks õpetajad koos kriteeriumid paika panna ja üheskoos hinnata, nii et emakeeleõpetaja jälgib alusteksti kasutamise võtteid ja enda tekstile üleminekut, refereerimisoskust või žanrile vastavust.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Arutlev-jutustava teksti kirjutamine",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "põhjendab ja avaldab viisakalt ning asjakohaselt oma arvamust ja seisukohta sündmuse, nähtuse või teksti kohta nii suuliselt kui ka kirjalikult (suuline ja kirjalik suhtlus);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab asjakohaseid suulise ja kirjaliku suhtlemise tavasid ja võimalusi (suuline ja kirjalik suhtlus);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "oskab oma seisukohti väljendada ning sõnastab vajadusel eriarvamuse (suuline ja kirjalik suhtlus);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "sõnastab teksti kohta küsimusi ja esitab vastuväiteid, avaldab arvamust, kommenteerib, tõlgendab ning seostab oma kogemuste ja mõtetega (teksti vastuvõtt);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "leiab tekstiloomeks vajalikku teavet raamatukogust ja internetist; valib kriitiliselt teabeallikaid ning osundab neid sobivas vormis (tekstiloome);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "ehitab teksti üles vastuvõtjat arvestades, järjestab ja seostab info loogiliselt ning valdab peamisi tekstisidususvõtteid (tekstiloome);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kirjutab eesmärgipäraselt ja olukohaselt, vormistab korrektselt eri liiki tekste (sh kirjand) (tekstiloome);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "seostab oma kirjutise toimingu eesmärgiga, vahendab kuuldud ja loetud tekste sobiva pikkuse ja täpsusega, viidates allikale (tekstiloome);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kirjutab suhtlussituatsiooni sobivaid tekste, arvestab teksti vastuvõtjat, järgib õigekirjanorme, kasutab mitmekesiseid grammatilisi tarindeid ja sõnavara (tekstiloome);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab kirjutamisel mitmeid keeleallikaid ja teeb saadud teabe põhjal teadlikke keelevalikuid (tekstiloome);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "tunneb peamisi lausetarindeid ja varieerib neid kirjutades korrektsel ja sobival viisil, sh kasutab liit- ja lihtlauseid, lauselühendiga lauseid, otsekõnet (keeleteadlikkus);",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab ja mõistab tekstis erineva stiiliväärtusega sõnu ja väljendeid, tunneb eesti keele sõnamoodustuse põhimõtteid (keeleteadlikkus).",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>arutlev-jutustav kirjand, argumentatsioon, tekstisidusus</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused ja diferentseerimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Põhikooli lõpuks peab õpilane jõudma arutleva teksti loomise oskuseni. Põhikooli lõpueksami kirjand eeldab alustekstil põhinevat arutlemist, kuid võimaldab õpilasel jutustada ka oma kogemustest. Enda ümbrusest ja oma elust toodud kogemustest kirjutamine toetab õpilase isiksuse kujunemist ja enda kirjutajahääle leidmist. Õpetamisel on oluline juhtida tähelepanu sellele, et jutustamine ja arutlemine oleksid heas tasakaalus.</p><p>Kirjutamise õpetamine võiks alata näidistekstidega tutvumisest. Õpilased võivad lugeda ja analüüsida varasemaid õpilaskirjandeid, näiteks on Haridus- ja Noorteameti hindamisjuhendis (<a href=\"https://shorturl.at/fzDF5\">https://shorturl.at/fzDF5</a>) toodud kolm näidet. Samuti võib kasutada arvamustekste, kust võib valida üksikuid lõike, mida saab kasutada sissejuhatuse, ülesehituse või lõigu ehituse näitlikustamiseks.</p><p>Tekstiloome õpetusel tuleks arvesse võtta keelekihtide mudelit: iga tekst paikneb teatud kultuuris, teatud suhtlusolukorras, sellel on oma eesmärk ja ülesehitus, eriomane lausestus ja sõnastus ning sellest lähtuvad õigekirjavalikud. Õigekirja ja grammatikat tuleks seega õpetada teksti vastuvõtu ja loome osana.</p><p>Tekstiloome puhul on argumentatsiooni ehk argumendi ülesehitamise oskus äärmiselt oluline, seetõttu on tähtis uurida näidistekstide argumentatsiooni ülesehitust. Õpilased võiksid enne argumentatsiooni kirjutamist tunda ära argumendi osad näidistekstis ja jälgida, milliseid lauseid kasutatakse väite sõnastamisel, kuidas erineb selgituse sõnastamine, ning kuidas kasutatakse viitamist ja refereerimist näidete toomisel.</p><p>Näidistekstidega saab teha mitmesuguseid harjutusi, enne kui siirduda õpilase enda teksti loomiseni. Õpilastel võib paluda kirjutada sama seisukoht ümber eitavalt või pooldavalt ehk vastupidi autori hoiakule. Tekstidega mängimisse võib kaasata ka tehisintellekti.</p><p>Koos lõigu struktuuriga võiks õpetada ka lausestust, sest lausetevaheline sidendus teeb lõigust sidusa terviku. Arutlemine eeldab võrdlemist ja vastandamist, selleks vastavaid sidendeid, kasutusel võivad olla nii rind- kui ka põimlaused.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Argumentatsiooni kui mõtteühiku kasutust saab lõimida mitmeski teises õppeaines, näiteks ühiskonnaõpetuses ja ajaloos, kus on vajalik arutleda ja/või tõestada oma mõttekäiku.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://oppematerjalid.argument.ee/harjutuste-pank/argumenteerimine/",
+                  "title": "Argumenteerimine. Eesti Väitlusselts"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Argumenteerimine: kuidas koostada korralikke argumente? Janek Tuttar;</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=LhKoLZ3Uxwg"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.taskutark.ee/argumentatsioon/",
+                  "title": "Argumentatsioon. Taskutark"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://avalikesinemine.net/veenmiskone/",
+                  "title": "11 asja, mida veenmiskõnet tehes silmas peaksid pidama. Janek Tuttar"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.ajakiri.ut.ee/artikkel/3611",
+                  "title": "Lühike mõttekäik õigekirjakorrektori kasutamisest"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Reet Kasik 2007. Sissejuhatus tekstiõpetusse. Tartu Ülikooli Kirjastus.</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://etera.ee",
+                  "title": "Berit Puidet 2022. Toimetamismudeli rakendamine protsessikeskse kirjandiõpetuse kontekstis 10. klassi näitel. Magistritöö. Tallinna ülikool."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://shorturl.at/fzDF5",
+                  "title": "Merilin Aruvee, Katarin Leppik 2023. Põhikooli lõpueksami kirjandi hindamismudel."
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Arutleva-jutustava kirjandi õppimise toeks sobib põhikooli lõpueksami kirjandi hindamismudel, mis sisaldab kolme hindamisaspekti ja üheksat tunnust. Esimene aspekt on sisu ja ülesehitus, teine lausestus ja sõnastus ning kolmas vormistus, mis hõlmab õigekeelsust ja korrektsust.</p><p>Eksami hindamismudel on kokkuvõtlik ja üldistav, kuid õppeprotsessi ajal võiks sealseid kriteeriume täpsemaks kirjutada või lisada teistsuguseid kriteeriume. Igal juhul on oluline, et õpilane mõistaks, milline on kirjutamise fookus ja eesmärk, milliseid kriteeriume õpetaja hindamisel kasutab.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Metoodilised soovitused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Multimodaalse teksti analüüs",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "märkab tekstides ja suhtluses tehtavaid keelevalikuid (suuline ja kirjalik suhtlus)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "põhjendab ning avaldab viisakalt ja asjakohaselt arvamust ja seisukohta sündmuse, nähtuse või teksti kohta nii suuliselt kui ka kirjalikult (suuline ja kirjalik suhtlus)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "hindab kriitiliselt sõnumi suhtlusmooduseid, sh visuaalset, kuuldelist, žestilist ja tekstilist osa (teksti vastuvõtt)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "loeb ja kuulab sihipäraselt, kriitiliselt ning arusaamisega nii oma huvivaldkondade kui ka õpi- ja elutarbelisi tekste (teksti vastuvõtt)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kirjeldab õpitud metakeele piires tekstide ülesehituslikku ja grammatilist ning sõnavaralist eripära (keeleteadlikkus)",
+                  "outcomeType": "knowledge"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>multimodaalne tekst, suhtlusmoodus, vorm, funktsioon</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tänapäevased tekstid on <strong>multimodaalsed</strong>, need koosnevad mitmest <strong>suhtlusmoodusest</strong>: kirjalik, suuline, heliline, pildiline, ruumiline ja tajuline. Multimodaalsed tekstid on näiteks filmid, lavastused, reklaamid, koomiksid, pildid ning sotsiaalmeedia tekstid laiemalt. Puutume sedasorti tekstidega küll iga päev kokku, ent multimodaalse teksti mõistmiseks tuleb tunda. Seetõttu on tänepäav loomulik ja vajalik suhtlusmooduste vormi ja funktsiooni lugeda ning lisaks osata erinevad suhtlusmoodused kokku panna ja märgata, kuidas sõnum nende koosmõjul toimib. Seega ei piisa üksnes kirjaliku teksti lugemisest, filmi sündmustiku jälgimisest, vaid lugeda tuleb osata pilti, ruumi, objekte, heli ja verbaalset teksti. Pildite, sh liikuvate piltide lugemine ei tohi jääda passiivseks oskuseks, vaid visuaalset moodust tuleb õpetada jälgima mõttega. Tänapäevane keeleõpetus tähendab <strong>mitmikkirjaoskuse kujundamist</strong>, mida saab toetada multimodaalse teksti analüüsivõtetega (Kalantzis, Cope 2020).</p><p><strong>Multimodaalsete tekstide valikul</strong> ja käsitlusel tuleks arvestada, et ühe seesuguse teksti käsitlemiseks võib kuluda rohkem aega kui kirjaliku teksti analüüsiks, sest lugeda tuleb mitut moodust. Õppematerjalideks võib valida filmitreilereid ja -katkendeid, reklaamvideoid ja -plakateid, lühifilme, telesaateid, meeme, nalja- ja juhendvideoid, maale, pilte jne. Hõlpsam on valida terviklik paariminutine videoklipp, filmikatkendi valik eeldab õpetajalt sobiva katkendi leidmist õpilasele eakohasest filmist. Film võib, aga ei pea olema õpilasele tähenduslik. Tähenduslikuks võib katkend muutuda ka protsessi käigus, kui õpilased on kõik multimodaalse teksti kihid avanud. Õpilaste huvi ja motivatsioon on sageli sügava õppimise tulemus. Tervikteose asemel võib analüüsida kas või paari kaadrit - analüüsitav materjal ei peaks olema väga pikk, vastasel juhul võib analüüs jääda pinnapealseks. Esialgu võib valida näiteks staatilise pildi, edaspidi liikuva pildi, sest liikuva pildi puhul on mooduseid rohkem.</p><p>Õpetajal ei tasuks peljata kasutamast õpilastele tuttavaid või õpilaste endi valitud tekste, nagu meemid, Youtube’i lühivideod (<em>shorts</em>) vms. Pigem tasukski videosoovitusi õpilastelt küsida, näiteks luua analüüsitava materjali jaoks lingipank, kuhu õpilased soovitusi lisada saavad. Õpetaja saab nende hulgast oma valiku teha. Nii muutub õpitav tähenduslikumaks, õpilased pääsevad sügavamale neisse tekstidesse, millega nad igapäevaselt kokku puutuvad. Autonoomiavajadus saab just tähendusliku materjali kaudu tuge ja mõjutab positiivselt õpilaste motivatsiooni.</p><p>Eesti keele tundides on videoanalüüsi <strong>metakeele</strong> arendamise eesmärk mitmikkirjaoskuse kujunemine. Metakeel on vahend, mille abil sedasorti tekstid avada, st et analüüsil pole rõhk üksnes sisul, vaid sellel, mil moel ja mis vahenditega on sõnum loodud. Metakeel tähendab multimodaalse teksti analüüsimiseks vajalike mõisteid ja väljendeid, mille abil seesugusest sõnumist kõnelda, seda iseloomustada ja selle iseärasused nähtavaks teha.</p><p>Multimodaalsed tekstid võivad olla nii esteetilise kui ka pragmaatilise üldeesmärgiga. Esteetilised on näiteks visuaalsed luuletused, koomiksid, graafilised romaanid. Pragmaatilised üldeesmärgiga on erinevad tarbetekstid. Suhtlusmoodused avalduvad kahel tasandil: vorm ja funktsioon. Teada tuleb, et esteetilise eesmärgiga tekstides pole need kategooriad selgelt ja lihtsalt eristatavad. <strong>Vormikategooria</strong> vastab küsimusele, <em>milline sõnum on</em>, selle kategooria alusel on võimalik kirjeldada, milline on multimodaalse teksti pilt, heli, kirjalik tekst, suuline tekst, ruum või tajuline moodus. <strong>Funktsioonikategooria</strong> vastab küsimusele, <em>kuidas sõnum toimib</em>, see avab sõnumi teema, tegija, eesmärgi, konteksti ja ülesehituse. Funktsioonikategooriad on universaalsed: nende alusel võib eritleda mis tahes tekste, ka kirjalikke. Analüüsivõtteid ja küsimusi tuleks kasutada pidevalt tekste analüüsides, oluline on konteksti järk-järgult laiendada.</p><p><strong>Analüüsi käiku</strong> kavandades võis lähtuda enne-ajal-pärast meetodist (vt Nootre 1999). Enne materjali vaatamist võiks õpilased häälestuda nii, et sõnastatakse eelteadmised ja -hoiakud. Õpilased võiks kirjeldada, mis <strong>seosed</strong> neil vaadatavaga tekivad, <strong>ennustada</strong>, millest võiks sõnum rääkida. Vaatamise aegseid tegevusi tuleks kavandada mitu. Esimesel vaatamisel võiks jälgida üldmuljet või keskenduda kindlale detailile, pärast vaatamist võib pidada klassiarutelu ja jutustada, mida nähti. Üldine vaatamine on sarnane üldlugemise strateegiaga, mille eesmärk on saada materjalist üldpilt. Oluline on, et õpilane ei läheneks materjalile otsekohe valik- või süvalugemise strateegiaga, vastasel juhul ei pruugita vaadatavat üldiselt mõista. Üldmulje saamiseks võiks materjali vajadusel ka teist korda vaadata. Järgmine tasand on analüüsimine, mida võiks toetada vormi- ja/või funktsioonikategooriatest koosnev jälgimisleht koos küsimustega.</p><p>Et õpilased jõuaks sügavama mõistmiseni, võiks esialgu jälgida 1-3 kategooriat. Kui õpilased on vilunud multimodaalsete tekstide analüüsijad, võib kategooriaid lisada, lõpuks võib kätte anda terve tabeli. Oluline on toestatult ja järk-järgult sügavamale liikuda ning laiendada konteksti samm haaval. Kategooriad võib klassi peale ära jagada, nii et lõpuks pannakse need kokku. Enne tööleasumist tasuks ühe aspekti analüüs <strong>frontaalselt näitlikustada</strong>. Õpetaja võiks kuvada ühe pildi või kaadri ja selgitada, kuidas tema läheneks, kui peaks jälgima nt ruumi või objekti.</p><p><strong>Analüüsi järel</strong> võiks vastused arutada läbi paarides või rühmades ning klassile tutvustada, õppimise lõpuks võiks õpilased sõnastada üldistuse. Analüüsida võib ka võrdlevalt, näiteks jälgida ühe filmi kaht treilerit või võrrelda treilerit ja filmiklippi. Mõnikord luuakse kampaania korras mitu reklaami, neidki annab kõrvutada.</p><p><strong>Õppevormi</strong> valikul võiks anaalüüsikategooriaid eritleda <strong>paaris- või rühmatööna</strong>, sest dialoog toetab analüüsiprotsessi. Järgmisena võiks kasutada üksi-paaris-ühiselt võtet, kus esmalt analüüsib igaüks ise, seejärel jagab analüüsitut paarilisega, mille vastus koondatakse ja kantakse ette rühmas või üle klassi. Kui multimodaalsete tekstide analüüs on juba tuttav, võiks töötada individuaalselt.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Vormikategooria</th><th>Küsimused</th></tr></thead><tbody><tr><td>TEKST</td><td><ul><li>Millised on kasutatud tekstid/laused? Kirjutage laused üles.</li><li>Miks on valitud just need laused?</li><li>Kuidas pealkiri seostub sõnumi sisuga/argieluga?</li><li>Mida pealkiri tähendab?</li></ul></td></tr><tr><td>PILT</td><td><ul><li>Iseloomustage pildikeelt: mida ja kui pikalt näidatakse, kuidas kaadrid vahelduvad, millise nurga alt on filmitud?</li></ul></td></tr><tr><td>RUUM</td><td><ul><li>Missugune on nähtav ruum?</li><li>Mida võib nähtud ruumi põhjal öelda tegevusaja kohta?</li><li>Kuidas keel on seotud ruumi ja laiemalt keskkonnaga?</li></ul></td></tr><tr><td>OBJEKT</td><td><ul><li>Missugused objektid esile tulevad? Kirjutage märksõnad üles.</li><li>Mida need objektid võiksid tähendada või sümboliseerida?</li></ul></td></tr><tr><td>TAJU</td><td><ul><li>Missugused on tegelase žestid, kehakeel, miimika? Kirjeldage tema kehakeelt.</li></ul></td></tr><tr><td>HELI</td><td><ul><li>Milline on filmi helikujundus? Kuidas muusika annab edasi meeleolu? Millised helid/hääled kostavad?</li></ul></td></tr><tr><td>KÕNE</td><td><ul><li>Millised on lühifilmis kasutatud dialoogid? Kes kõnelevad ja millest? Kuidas kõneldakse?</li><li>Kuidas erineb tegelaste hääldus, kõnemaneer?</li></ul></td></tr></tbody></table>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Funktsioonikategooria</th><th>Küsimused</th></tr></thead><tbody><tr><td>TEEMA</td><td><ul><li>Mis on filmi/pildi/katkendi teema?</li><li>Mis võiks pealkirja järgi olla filmi/pildi/katkendi teema?</li></ul></td></tr><tr><td>TEGIJA</td><td><ul><li>Kes on tegelased?Mida tegelased teevad?</li><li>Kuidas mõjub tegevus vaatajale?</li><li>Kas eristub peategelane? Põhjenda.</li><li>Kirjelda peategelast (välimus, iseloom, rahvus).</li></ul></td></tr><tr><td>ÜLESEHITUS</td><td><ul><li>Millistest osadest film/pilt/katkend koosneb?</li><li>Kuidas on film/pilt/katkend üles ehitatud? Millega algab, millega lõpeb?</li></ul></td></tr><tr><td>KONTEKST</td><td><ul><li>Millised teemad nähtuga seostuvad?</li><li>Kellele on film/pilt/katkend suunatud? Nimeta võimalikud sihtgrupid ja põhjenda, miks nii arvad.</li><li>Leia seoseid oma isikliku eluga. Too näiteid.</li><li>Kuidas seostub nähtu meie ühiskonna/kultuuri/elu-oluga?</li></ul></td></tr><tr><td>EESMÄRK</td><td><ul><li>Mida öelda tahetakse? Miks on vaja teha filme sel teemal?</li><li>Mida me võiksime õppida sellest filmist?</li></ul></td></tr></tbody></table>"
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Ainelõiminguks</strong> annab võimalusi filmivalik, näiteks võib temaatiliselt haakida ajalugu, loodusaineid, muusikat või kunsti, miks mitte luua seoseid tehnoloogia- või ka liikumisõpetusega. Valida võib nii esteetilise funktsiooniga materjali, kuid miks mitte ka pragmaatilise eesmärgiga multimodaalse teksti, näiteks mõne saate, intervjuu, juhendvideo, meediateksti. Ainele omaseid tekste analüüsides saab õppida ainele omaseid suhtlusviise.</p><p>Kui õpilased oskavad analüüsikategooriate abil teksti n-ö koost lahti võtta, oskavad nad multimodaalset teksti ka paremini luua. Multimodaalse teksti analüüs võib olla eeltööks multimodaalse teksti loomisele. Tugineda saab protsessikeskse kirjutamise etappidele, teha koostööd kunsti- või arvutiõpetajaga. Eesti keele tundides saaks aga koostada videole kavand, mõelda läbi iga suhtlusmoodus ja funktsioon, seejärel koostada loojoonis (<em>storyboard</em>), analüüsida suhtlusmooduste koostoimet ja mõelda läbi, kas vorm on funktsiooni teenistuses.</p><p>Üldpädevustest pakub lõiminguvõimalusi õpipädevus ja digipädevus. <strong>Õpipädevust</strong> arendab ainele omaste tekstide mitmekihiline ja sügav analüüs. Multimodaalsete tekstide analüüs eeldab digipädevust nii õpetajalt kui ka õpetajalt.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Esilagu võiks analüüsimist harjutada, hinnata võiks kujundavalt ja anda sõnalist tagasisidet, mis oleks orienteeritud põhjalikkusele. Õpilasel tuleks tagasiside põhjal aru saada, kui sügavat analüüsi talt eeldatakse. Hindama võiks suunata iseennast: õpilased võiks reflekteerida, kui hästi nad jälgitavaid kategooriaid märkasid, ja kuivõrd arenes nende analüüsioskus. Hinnata saab ka rühmas töötamise oskust.</p><p>Kui paaris- või rühmatööna on sellist analüüsi juba küllalt harjutatud, võib analüüsitud materjali põhjal koostada ka kirjaliku analüüsi, mida kindlate kriteeriumite alusel hinnata. Sellise ülesande eesmärk võiks olla vastuste formuleerimine seotud teksti kujule, mis toetab tekstiloome oskust.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mõned võimalikud filmid või katkendid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Narratiivsed reklaamfilmid, nt Postimehe reklaam</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=gdJSkvTHEPg"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Sotsiaalreklaamid, nt „Descent“, režissöör Helen Takkin)</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=f4WFId2j84c"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Filmitreilerid, nt „Kevade“ või „Kevade“ <em>action treiler</em>. Lühifilmid, nt “Vigade parandus”, režissöör Kristin Kalamees või “Elu on lill”, režissöör Aleksandr Heifets.</p><p>Muusikavideod, nt Ewert &amp; Two Dragons “Good man down” ja Liis Lemsalu “Sel ööl on tunne”.</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=O3wmNsvnYB0"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=x0gX5Y9Pa-8"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Allikad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Umb, Hille 2022. Mitmikkirjaoskuse arendamine põhikooli kolmandas kooliastmes transpositsioonigrammatika mudeli toel. Tallinna ülikool. Magistritöö.</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://newlearningonline.com/transpositional-grammar",
+                  "title": "Kalantzis, Mary, Cope, Bill 2020. Transpositional Grammar. - New Learning Online."
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Diana Joasoone, Ene Peterson 2011. Video ja televisioon lõimitud keele- ja aineõppe toetajana.</p><p>Nootre, Sirje 1999. Oskuslikuks lugejaks – aga kuidas? Haridus, 2, 46–50.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Meediatekstide käsitlemine ja kriitiline teksti vastuvõtt",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "esitab kuuldu ja loetu kohta küsimusi, teeb kuuldu ja loetu põhjal järeldusi ning annab hinnanguid (suuline ja kirjalik suhtlus)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "märkab tekstides ja suhtluses tehtavaid keelevalikuid (suuline ja kirjalik suhtlus)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "järgib eesti õigekirja aluseid ja põhireegleid (keeleteadlikkus)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "põhjendab ja avaldab viisakalt ning asjakohaselt oma arvamust ja seisukohta sündmuse, nähtuse või teksti kohta nii suuliselt kui ka kirjalikult (suuline ja kirjalik suhtlus)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "loeb ja kuulab sihipäraselt, kriitiliselt ning arusaamisega nii oma huvivaldkondade kui ka õpi- ja elutarbelisi tekste (teksti vastuvõtt)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab omandatud keele- ja tekstimõisteid teksti vastuvõtmisel, analüüsimisel ja tõlgendamisel ning seoste loomisel (teksti vastuvõtt)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab tekstide koostamisel tavakohast vormistust ja ülesehitust (tekstiloome)",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>fakti ja arvamuse eristamine, meedia olemus ja eesmärgid tänapäeval, meediaeetika kesksed põhimõtted, uudis, reportaaž, meediatekstide põhiliigid ja tunnused: uudislugu, arvamuslugu, mõjutamisvõtted, kriitiline lugemine</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Meediatekstide ploki sissejuhatuseks võiks tutvustada kõiki võimalikke meediateksti vorme ning ka <strong>eetika põhimõtteid</strong> (vt ajakirjanduseetika koodeksit). Õpetaja võiks eetikakoodeksit ülevaatlikult tutvustada ja märkida, et kõik ajakirjanikud peavad nendest põhimõtetest lähtuma.</p><p>Teiseks võiks lähemalt uurida, milline on tänapäevane ajakirjanduslik tekst ja mis on selle eesmärgid? Millistes <strong>kanalites</strong> ajakirjandust avaldatakse (raadio, televisioon, sotsiaalmeediaplatvormid). Millised on <strong>ajakirjanduses kasutusel olevad meediumid</strong> (tekst, video, pilt)? Milliste <strong>žanrite</strong> kaudu ajakirjanduslikku teavet vahendatakse? Kuidas sõltub see kanalist, meediumist? Millistel <strong>platvormidel</strong> käib usaldusväärne infovahetus? Mis on <strong>allikakriitilisus</strong> ja kuidas eristada libateavet usaldusväärsest teabest?</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Eesti meediamaastik ning meediaeetika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kriitilist meelt saab kujundada siis, kui loetakse mitmesuguseid meediatekste. Tänapäeval on aga võimalik n-ö meediamullis elada ehk ümbritseda end ainult endale sobivate kanalite, teabeallikate ja meediumitega. Keelemaastike uurimise eeskujul võiks õpilased <strong>uurida Eesti meediamaastikku</strong>. Selle toeks võiks nädala jooksul pidada meediapäevikut ehk lasta õpilasel kõik kokkupuuted meediaga üles märkida.</p><p>Meediateemat õppides võiks süveneda teadmine, et meedial on maailmas oluline mõju ja roll, millega peab kaasnema ka vastutus, just selle tõttu on oluline keskenduda ka täiesti eraldi <strong>meediaeetikale</strong> ning tekitada klassiruumis diskussioone ajakirjandusliku vastutuse küsimuste üle.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Valik eetilisi dilemmasid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Kas ajakirjanik võib teabe hankimiseks kasutada ebaausaid võtteid?</li><li>Kas ajakirjanik võib tõe huvides levitada eksitavat infot?</li><li>Kas ajakirjanik võib esineda isiklike seisukohtadega sotsiaalmeedias?</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kriitiline tekstianalüüs, teabe usaldusväärsuse hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Meediaga külgnev teema on kriitiline mõtlemine, millel on mitmesuguseid tahke. Eesti keele tundides võiks vaadelda allikaid tekstiväliste ja tekstisiseste aspektide kaudu. Tekstivälised analüüsiaspektid suunavad õpilast mõtlema, mis eesmärki suhtlus teenib, kes võivad olla suhtlejad ja kuidas püütakse sihtgruppi kõnetada.</p><p>Kommunikatsiooniruumis, kus igaüks võib luua veebilehe, teha sotsiaalmeedia konto ja leida endale suurel arvul jälgijaid, tuleks kriitiliselt osata analüüsida igasugust teavet. Selle oskuse kujundamiseks tuleks kasutada analüüsikriteeriumeid, mille alusel teavet hinnata.</p><p>Eesti keele tundides tuleks kriitilist mõtlemist kujundada eelkõige keelelise fookuse kaudu. Meediaeetikat õpetatakse ka ühiskonnaõpetuses, kuid eesti keele õppes peaks keskmes olema see, kuidas saab keelevahendeid analüüsides hinnata teabe tõepärasust.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Valik allika hindamise küsimusi",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li><strong>Omanik</strong>. Kas on võimalik tuvastada, kes on lehekülje omanik? Millist infot leidub veebilehel selle omaniku kohta?</li><li><strong>Autorlus</strong>. Kas on võimalik tuvastada, kes on leheküljel asuvate postituste autor? Mida saab lehelt tema kohta teada?</li><li><strong>Kehtivus.</strong> Kas veebilehel olev teave on vananenud või uuendatakse? Millal on tehtud viimane postitus?</li><li><strong>Sisu kvaliteet.</strong> Kas lehekülje sisu toetub usaldusväärsetele allikatele? Milline on keele ja grammatika kasutuse tase?</li><li><strong>Sihtgrupp</strong>. Kas tekst on lihtsustatud, hinnanguline või akadeemiline? Kas leheküljel on äriline eesmärk?</li></ul><p>(Rumsey 2008: 110–111 põhjal)</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Peamised ajakirjandusžanrid, nende vastuvõtt ja loomine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Oluline on, et õpilane mõistaks, millised on ajakirjanduslikud tekstid, mis on nende eripära ja kasutusvõimalused ning tal tekiks pärast õppeühiku läbimist sellest süsteemne arusaam. Ajakirjanduslikud žanrid on dünaamilised, nende ülesehitustavad muutuvad, kui tekivad uued võimalused, nagu näiteks sotsiaalmeedia.</p><p><strong>Uudis</strong> on oluline ajakirjanduslik tekst, mille eesmärk on vahendada sündmusi. Põhikooli õpilane peaks oskama uudiseid lugeda, analüüsida ja ka ise luua. Selleks on vajalik erinevate uudiste ülesehituse analüüsimine ja uudise tunnuste märkamine.</p><p><strong>Reportaaži</strong> eesmärk on vahetult anda toimunud või toimuvast sündmustest ülevaade. Uudisega võrreldes on eripära see, et ajakirjanik püüab edasi anda ka vahetut emotsiooni sündmuspaigast ja viib vastuvõtja justkui sündmuste keskele.</p><p><strong>Intervjuu</strong> on dialoogi vormis ajakirjandusžanr, kus ajakirjanik on küsitleja rollis ja inimene vastaja rollis.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Valik küsimusi",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Kas ajakirjanik on vahendaja, hindaja või teadja rollis?</li><li>Kas intervjueeritav saab ise kaasa rääkida, kes ja milline ta on?</li><li>Kui palju teksti kuulub küsijale, palju vastajale?</li><li>Kas küsijal on eesmärk saada ülevaade vastaja elust?</li><li>Milliseid rolle küsija vastajale pakub?</li><li>Kui palju on avatud küsimusi, kus vastaja saab oma sõnadega olukorda kirjeldada?</li><li>Kas esineb peitväited? (<em>Te olete siis omamoodi maailmaparandaja?</em>)</li></ul><p>(Aava 2012: 106)</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Ainelõimingut saab teha <strong>ühiskonnaõpetuse</strong> ja <strong>inimeseõpetusega</strong>, kus saab arutleda ja arendada vestlust vastutuse ja eetika osas. Kokkupuutekohti on mitmeid, nt saab ka reportaaži edukalt kasutada <strong>ajalootunnis</strong>, kus mõne äsja õpitud ajalooperioodi või sündmuse kohta saab õpilastel paluda kirjutada kujuteldav uudis, reportaaž või intervjueerida ajaloolist isikut.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://meedialiit.ee/eetikakoodeks/",
+                  "title": "Ajakirjanduseetika koodeks"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/1071013/nova-mis-vahe-on-faktil-ja-arvamusel",
+                  "title": "NOVA: Mis vahe on faktil ja arvamusel?"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://novaator.err.ee/1068244/mis-on-meedia-ja-mis-ajakirjandus",
+                  "title": "Mis on meedia ja mis ajakirjandus?"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://jupiter.err.ee/1608364053/meediakirjaoskus-ehk-meediataip",
+                  "title": "Meediakirjaoskus ehk meediataip"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://etv.err.ee/1608978158/juri-muttika-opib-ujuma",
+                  "title": "reportaaž Jüri Muttika õpib ujuma"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Rumsey, Sally 2008. How to Find Information: A Guide for Researchers. McGraw-Hill Education UK.</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://keeleressursid.korp.ee",
+                  "title": "keeleressursid.korp.ee"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://korp.keeleressursid.ee",
+                  "title": "korp.keeleressursid.ee"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Aava, Katrin 2012. Kriitiline kirjaoskus ning meediatekstide diskursuseanalüüs. - Oma Keel 1, lk 101-107.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Uudise ja reportaaži ning intervjuu loomise oskust saab hinnata hindamiskriteeriumite najal. Tekstis peaks jälgima žanrile omast ülesehitust, konteksti, stiili ja asjakohasust. Kriteeriumid peaksid olema mõõdetavad ja jälgitavad ning ka õpilasele arusaadavad.</p><p>Jätkuülesandena võib valitud uudised, reportaažid ja intervjuud kokku panna koolileheks või lihtsalt stendile riputada. Tagasisidestamisel võiksid õpilased teiste ajakirjanduslikke tekste ka ise lugeda.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

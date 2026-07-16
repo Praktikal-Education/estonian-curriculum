@@ -1,0 +1,131 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valdkonnapädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetuse eesmärk põhikoolis on kujundada õpilastes eakohane matemaatikapädevus, mis tähendab matemaatika mõistete, seoste ja protseduuride tundmist, nende sisemise loogika mõistmist ning rakendamise oskust nii eluliste kui ka ainealaste probleemide lahendamisel, hõlmates ka matemaatika sotsiaalse, kultuurilise ja isikliku rolli mõistmist. Matemaatikaõpetusega taotletakse, et põhikooli lõpuks õppija:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "suudab kasutada matemaatikale omast keelt, sümboleid, meetodeid ja vahendeid erinevates olukordades nii matemaatikas kui ka teistes õppeainetes ja eluvaldkondades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab näha ja sõnastada matemaatiliselt lahenduvaid probleeme",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida sobivaid probleemide lahendamise strateegiaid, neid analüüsida, rakendada ja kontrollida tulemuse tõesust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab loogiliselt arutleda, põhjendada ja tõestada ning selleks erinevaid esitusviise kasutada ja neist aru saada",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suudab mõista matemaatika sotsiaalset, kultuurilist ja personaalset tähendust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Vaata meeldetuletuseks üle ka õppekava üldpädevused SIIT.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe kavandamine ja korraldamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valdkondlikku õppetegevust kavandades ja korraldades:</p><ol><li>lähtutakse õppekava alusväärtustest, üld- ja valdkonnapädevustest, kooliastme lõpuks taotletavatest teadmistest, oskustest ja hoiakutest ning õpitulemustest ja kooli õppekavas sätestatud õppesisust, kooliastmete õppe ja kasvatuse rõhuasetustest ning lõimingust teiste õppeainete ja läbivate teemadega;</li><li>arvestatakse didaktika nüüdisaegsete käsituste ja ainevaldkonnas toimunud arenguga, võetakse arvesse kohalikku eripära ning muutusi ühiskonnas;</li><li>toetatakse lõimingut valdkonna sees, õppeainete vahel ja õppekava läbivate teemadega, arendatakse õpilaste teadmisi, oskusi ja hoiakuid;</li><li>rakendatakse mitmekesiseid ja kombineeritud õppemeetodeid ning aktiivsust, loovust, koostööd ja tagasisidet soodustavaid õppetegevusi, kujundatakse õpiharjumusi ja -oskusi;</li><li>arvestatakse õpilaste eelteadmisi, huvisid, individuaalseid eripärasid ja -võimeid, kasutatakse diferentseeritud sisu ja sobivat pingutust nõudvaid ülesandeid, mille sisu ja raskusaste toetavad individualiseeritud ja õpilasele tähenduslikku käsitlust, reageeritakse õpiraskustele ning pakutakse õpiabi;</li><li>taotletakse mõõdukat ja ühtlaselt jaotuvat õpikoormust, mis soodustab motivatsiooni ning jätab aega puhkuseks ja huvitegevuseks;</li><li>tegeldakse probleemikeskselt ja kogemuspõhiselt eluliste nähtuste ja olukordadega, seostatakse oskusi igapäevaelu ja jätkuõpingutega;</li></ol>"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453823/matemaatika_PK_vordlus.pdf?version=1&modificationDate=1707296141159&api=v2",
+          "title": "matemaatika_PK_vordlus.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ainevaldkonna õppeaine arvestuslik maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Ainevaldkonna õppeaine on matemaatika, mille nädalatundide jaotumine kooliastmeti on järgmine:</p>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Õppeaine</th><th>I kooliaste</th><th>II kooliaste</th><th>III kooliaste</th></tr></thead><tbody><tr><td>Matemaatika</td><td>10</td><td>13</td><td>13</td></tr></tbody></table>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppeaine nädalatundide jagunemine kooliastmete sees klasside kaupa määratakse kindlaks kooli õppekavas sellise arvestusega, et kooliastmete lõpuks taotletavad õpitulemused, teadmised, oskused ja hoiakud oleksid saavutatavad.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa5.pdf",
+          "title": "Allikas: Riigi Teataja – Põhikooli riikliku õppekava lisa 5"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on õppeprotsessi osa, mille kaudu toetatakse õpilase õppimist ja arengut.</p><p>Hindamisel saadakse ülevaade õpitulemuste saavutatusest ja õpilase individuaalsest arengust ning toetatakse selle kaudu õpilase kujunemist positiivse minapildi ja adekvaatse enesehinnanguga ennastjuhtivaks õppijaks. Hindamise tulemusena/abil saab õppija tagasisidet oma edenemise kohta õppimisel, tundma õppida oma nõrku ja tugevaid külgi, et teha hiljem tarku otsuseid, kuhu oma jõupingutused suunata ja milliseid õpistrateegiaid valida. Õpetaja saab teavet oma õpetamise tulemuslikkuse kohta ning sisendit nii õppetegevuse kui ka iseenda pädevuste arendamiseks.</p><p>Hindamise alus on valdkonna ainekavades kirjeldatud õpitulemused kooliastmete kaupa.</p><p>Hindamisega toetatakse kooliastme lõpuks taotletavate teadmiste ja oskuste omandamist, hoiakute kujunemist ning valdkonnapädevuse saavutamist. Ainealaste teadmiste ja oskuste kõrval antakse tagasisidet ka üldpädevuste arengu ning väärtushoiakute ja -hinnangute kujunemise kohta. Hoiakute kujunemisele antakse tagasisidet suunavate ja toetavate sõnaliste hinnangute abil.</p><p>Selleks rakendatakse nii diagnostilist, kujundavat kui ka kokkuvõtvat hindamist, mida esitatakse nii sõnaliste ja kirjalike hinnangute kui ka numbriliste hinnetena.</p><p>Diagnostilise hindamise käigus selgitatakse välja õpilaste eelteadmiste ja oskuste tase, ainealased väärarusaamad ja spetsiifilised õpiraskused, et kavandada järgnevat õppimist ja õpetamist.</p><p>Õppeprotsessi käigus rakendatakse kujundavat hindamist, kus õpilane saab suulist ja kirjalikku tagasisidet oma õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta.</p><p>Kokkuvõttev hindamine toimub üldjuhul õppeperioodi või mahuka õppeteema lõpul, et kontrollida nii õppetöös püstitatud eesmärkide saavutamist kui ka riikliku õppekavaga sätestatud õpitulemuste saavutatust. Teema kokkuvõttev hinne võib kujuneda õppeperioodi jooksul toimunud hindamise tulemusena, seejuures arvestatakse, et hinnetel võib sõltuvalt töö mahust olla erinev kaal.</p><p>Alates esimesest kooliastmest kaasatakse õpilane hindamisprotsessi nii oma töö hindamisel kui ka kaasõpilaste tagasisidestamisel. Õpilasele on õppeprotsessi alguses teada, mida ja millal hinnatakse, milliseid hindamisvahendeid kasutatakse ning millised on hindamise kriteeriumid. Õpilast suunatakse õppeprotsessi käigus oma õppimist ja püstitatud eesmärkide saavutamist analüüsima ja reflekteerima.</p><p>Kirjalikke ülesandeid hinnates arvestatakse eelkõige töö sisu, kuid pööratakse tähelepanu ka õpilase keelekasutusele, sh erialaste terminite õigele kasutusele ja õigekirjale, mis üldjuhul ei mõjuta tööle antavat hinnangut.</p><p>Erineva keerukusastmega teadmiste, oskuste ja hoiakute hindamise võimaldamiseks kasutatakse mitmekesiseid hindamisviise ja -vorme, et veenduda õpitulemuste saavutamises.</p><p>Selleks et paremini aru saada õpilastel tekkinud raskustest, õpilünkadest või lahendusideedest, saab hindamismeetodina kasutada näiteks tagasiside testi nii paberil kui ka virtuaalses keskkonnas, kontrolltööd, intervjuud, diagnostilist testi, päevikupidamist, õpilaste kirjutist, valjusti mõtlemist (läbirääkimine), ülesannete lahenduste esitlust jmt.</p><p>Hindamisvahendi ja -viisi valik sõltub püstitatud õppe-eesmärkidest ja eeldatavast õpitulemusest.</p><p>Õpet kavandades ning sellest tulenevalt ka hinnates võetakse aluseks tunnetuslikud protsessid:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ol><li>faktide, protseduuride ja mõistete teadmist (meenutamine, äratundmine, info leidmine, arvutamine, mõõtmine, klassifitseerimine/järjestamine jmt);</li><li>teadmiste rakendamise oskust (meetodite valimine, matemaatilise info eri viisidel esitamine, modelleerimine, rutiinsete ülesannete lahendamine jmt);</li><li>arutlemisoskust (põhjendamine, analüüs, süntees, üldistamine, tulemuste hindamine jmt).</li></ol>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamisel lähtutakse vastavatest põhikooli riikliku õppekava üldosa sätetest, hindamise nõuded ja korraldus, sh mittenumbrilise hindamise kasutamine ja mujal õpitu arvestamine täpsustatakse kooli õppekavas.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa5.pdf",
+          "title": "Allikas: Riigi Teataja – Põhikooli riikliku õppekava lisa 5"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppekeskkond",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilast toetava õppekeskkonna kujundamise aluseks on õppekava üldosas sätestatud sotsiaalse, vaimse ja füüsilise õppekeskkonna kujundamise põhimõtted.</p><p>Matemaatika õpetamisel luuakse õpilastele õppimist väärtustav keskkond, et tekiks positiivne suhtumine õppimisse. Õpilastele tagatakse jõukohased ülesanded ja eduvõimalus.</p><p>Õppekeskkond luuakse selline, kus iga õpilane saaks maksimaalselt areneda, arvestades tema individuaalsust ja potentsiaali, oskusi ja huve. Vaimselt ja emotsionaalselt toetavale õppekeskkonnale on omane:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ol><li>vastastikune lugupidamine, üksteise aktsepteerimine ja abivalmidus;</li><li>ühised selged eesmärgid, kus nii õpetaja kui ka õpilased teavad, miks ning millisel eesmärgil midagi tehakse, ja on huvitatud nende eesmärkide saavutamisest;</li><li>toetav õhkkond, kus nii õpetajal kui ka õpilastel on lubatud katsetada, eksida ja oma vigu tunnistada; tunnustatakse ideede ja arvamuste paljususe eest;</li><li>jagatud vastutus, st õpetaja vastutab keskkonna ja õpitingimuste loomise eest ja õpilased õppimise eest.</li></ol>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilastes arendatakse uskumust, et oma võimekuse arendamiseks tuleb pingutada ning ebaõnnestumise korral peab rohkem harjutama või kasutama teistsuguseid strateegiaid.</p><p>Oluline on suunata õpilasi mõtlema teadmiste suhtelisuse üle, et õpilased teadvustaksid õppimist kui teadmiste konstrueerimist, mitte kui faktide päheõppimist.</p><p>Matemaatikaõpet võib lisaks kooliruumidele korraldada ka mujal (nt kooliõues, looduses, muuseumides, teaduskeskustes, keskkonnahariduskeskustes, ettevõtetes, asutustes ja virtuaalses õppekeskkonnas).</p><p>Matemaatikaõppeks tagab kool järgmised vahendid:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ol type=\"a\"><li>tahvlile joonestamise vahendid;</li><li>taskuarvutite komplekt;</li><li>ruumiliste kujundite komplekt;</li><li>esitlustehnika;</li><li>internetiühendusega arvutid, kus on võimalik kasutada tabelarvutus- ja geomeetriaprogramme ning erinevaid tagasiside ja testi keskkondi.</li></ol>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa5.pdf",
+          "title": "Allikas: Riigi Teataja – Põhikooli riikliku õppekava lisa 5"
+        }
+      ]
+    }
+  ]
+}

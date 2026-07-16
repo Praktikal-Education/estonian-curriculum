@@ -1,0 +1,409 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kehalise kasvatuse õpetamisel järgitakse üldist eesmärki – kujundada õpilastel motivatsiooni, teadmisi, oskusi ja harjumusi iga päev aktiivselt liikuda, tegeleda liikumisharrastusega ja toetada õpilaste positiivset hoiakut liikumise suhtes. Lõimitult erinevate spordialade ja liikumisviisidega õpetatakse ka tantsulist liikumist, kujundades seeläbi nii teadmisi Eesti tantsukultuurist ja -traditsioonidest kui ka väärtushoiakuid nende suhtes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lihtsustatud õppes lisandub spetsiifiline eesmärk – arendada õpilaste psühhomotoorikat ja sensoorseid protsesse, tegelda rehabiliteerimise ja tervendamisega. Füüsilise tegevusega kaasnevalt aktiveeritakse õpilaste vaimset tegevust (harjutuste eesmärkide mõistmine, korraldustest arusaamine, oma toimingute analüüsimine jne). Rõhuasetus on sotsiaalsete oskuste omandamisel ja kinnistamisel, et õpilased suudaksid pärast põhikooli lõpetamist igapäevaelus iseseisvalt toime tulla.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valdaval osal intellektipuuetega õpilastest ilmneb ühe sümptomina motoorika moonutatud või hilistunud areng, mis omakorda lõimub tihedalt kogu tunnetustegevuse ja kõne seisundiga ning praktilise tegevuse puudulike oskustega. Eakohase füüsilise arenguga võrreldes ilmneb intellektipuuetega lastel mahajäämus lihasliigutuste jõus, liigutuste kiiruses, vastupidavuses, paindlikkuses jne. Seega on kehalise kasvatuse ülesanneteks nii üldkehaline treenimine kui ka psühhofüüsilise arengu korrektsioon. Kehaliste harjutuste sooritamine parandab organismi üldist seisundit ning kompenseerib tervisehäiretest tingitud puudusi. Kehaline kasvatus saab edukalt täita õppeainele püstitatud eesmärke ainult sel juhul, kui arvestatakse maksimaalselt õpilaste individuaalseid füüsilise arengu ja soolisi iseärasusi ning vanust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lihtsustatud õppel õpilased on väga erineva võimekuse ja potentsiaaliga. Õppekava peab pakkuma erineva võimekusega õpilastele võrdseid võimalusi ja väljundeid. Õppekava on positiivse vaatega õpilase tuleviku suhtes, pakub teadmisi ja oskusi, mis võimaldavad iseseisvas elus hakkama saada. Õpetaja roll on kehalises kasvatuses väga oluline, kuna õpilased õpivad väga palju eeskuju järgi, vajavad julgustust, innustust, abi ja positiivset toetust. Kindlasti tuleb rõhuda sellele, millega õpilane hakkama saab ja mis tal hästi välja tuleb, mitte sellele, milles ta ebaõnnestub.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilasi innustatakse oma kehalisi võimeid arendama. Kooli ja pedagoogi(de) ülesandeks on luua tundideks ja tunnivälisteks spordiüritusteks ohutud ning õpilassõbralikud harjutuspaigad, valida sobilik õppeinventar ja tagada õpilaste turvalisus. Oluline on isikliku hügieeni harjumuste ja selle kaudu enda tervisest lugupidava käitumise kujundamine, mis aitab ennetada terviseriske. Talispordialade õpe rakendatakse vastavalt kooli võimalusele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ujumisõpetus viiakse läbi I või II kooliastmes. Ujumisõpetuse praktika näitab, et vaatamata isegi kogenud ujumistreeneri, eripedagoogi ja kehalise kasvatuse õpetaja koostööle suudavad mõned lihtsustatud õppel õpilased ujumise algõpetuse raames vaid veega kohaneda.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilased, kelle tervislik seisund ei võimalda sooritada kõiki kehalise kasvatuse tunni tegevusi või intensiivselt liikuda, kaasatakse tegevustesse vastavalt nende tervislikule seisundile. Nad sooritavad taastumist toetavaid liikumistegevusi, abistavad õpetajat ja kaasõpilasi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>mõistab kehalise aktiivsuse tähtsust oma tervisele ja töövõimele ning regulaarse liikumisharrastuse vajalikkust</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>soovib olla terve ja rühikas</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>tunneb rõõmu liikumisest/sportimisest ning on valmis liikumist iseseisvalt harrastama, valdab selleks vajalikke põhiteadmisi ja -oskusi</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>liigub/spordib, järgides ohutus- ja hügieeninõudeid, austades kaaslasi ja tehes nendega koostööd, järgides kokkulepitud reegleid, hoides keskkonda</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>tunneb huvi kodukohas ning Eestis toimuvate spordi-, liikumis- ja tantsuürituste vastu</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>teab ja väärtustab nendega seotud traditsioone</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "sooritab õpetaja juhendamisel harjutusi kehaliste võimete vaatluseks ja mõõtmiseks, annab õpetaja abiga hinnangu kogetud kehalisele koormusele (kerge/raske);",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb ja nimetab abiga õpitud spordialasid pildi ja tegevuse vaatluse järgi.",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "osaleb ujumise algõpetuse tundides, oskab täita basseinis käitumise nõudeid ja on algõpetuse esimese kursuse lõpuks vähemalt kohanenud veega;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "on teisel aastal läbinud ujumise algõpetuse kursuse, julgeb vees tegutseda, sukeldub, hõljub vees, on olemas alusõpetus 200 m distantsi läbimiseks ujudes.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sooritab lihtsamaid jooksu-, hüppe-, hüplemis- ja kõnniharjutusi, oskab ronida, roomata, ületada takistusi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "mängib õpitud liikumismänge;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab laskuda kelgul nõlvakust ja vedada kelku ohutult;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kannab, veeretab ja viskab palli;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab liikuda ruumis, jälgida piire ja leiab teadaolevad sihtmärgid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "liigub muusikasse matkimisel ja õpetaja suunamisel.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "ronib üle, alt ja läbi takistuse;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab sooritada veereid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab visata ja püüda palli;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "mängib õpitud liikumismänge ja järgib õpetaja suunamisel mängureegleid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab kelgul vedada kaaslast, pidurdada ja pöörata laskumisel;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sooritab eeskuju järgi õpitud hüplemisharjutusi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "korrigeerib meeldetuletamisel oma kehahoidu.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "korrigeerib õpetaja suunamisel keha asendit, hoiab tasakaalu eri asendites ja vahenditel;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab paarilisega koostöös visata ja püüda palli;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sooritab hoolaualt toenghüppeid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "osaleb aktiivselt erinevates mängudes, teab õpitud mängude reegleid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "liigub lauskmaal suuskadel astuva ja/või libiseva sammuga, kasutab keppe tasakaalu hoidmisel;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "viskab viskepalli, hüppab paigalt kaugust ja jookseb püstilähtest erinevaid distantse;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "tajub muusika meeleolusid ja oskab selle järgi liikuda.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb huvi koolis toimuvate spordi- ja tantsuürituste vastu, võtab neist osa osaleja või pealtvaatajana;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "püstitab õpetaja abil lühiajalisi eesmärke oma kehaliste võimete arendamiseks ja analüüsib koos õpetajaga nende täitmist;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sooritab õpetaja juhendamisel harjutusi kehaliste võimete vaatluseks ja mõõtmiseks, annab suunavate küsimuste abil hinnangu oma sooritusele ja kogetud kehalisele koormusele.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "osaleb ujumise algõpetuse tundides, oskab täita basseinis käitumise nõudeid ja on algõpetuse esimese kursuse lõpuks vähemalt kohanenud veega;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "on teisel aastal läbinud ujumise algõpetuse kursuse, saavutanud julguse tegutseda vees,",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab rivis kaheks loendada;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sooritab õpitud akrobaatikaharjutusi ja harjutuste kombinatsioone;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "mängib rahvastepalli määruste päraselt;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab libiseda suuskadel, sooritada suuskadel pöördeid paigal, kukkumisel iseseisvalt püsti tõusta;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sooritab tulemusele hooga kaugushüppe, palliviske ja 60 m jooksu püstilähtest;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "jookseb vahelduvalt kõnniga 1 km;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab õpitud oskussõnu.",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "jookseb 1,5 km vahelduvalt kõnniga;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "on läbinud vähemalt kahe sportmängu algõpetuse;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab suusatamisel erinevaid laskumis- ja tõusuviise;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab erinevaid rippeid, toenguid, tunnetab tasakaalu võimlemisvahenditel;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab sooritada õpitud lõdvestusharjutusi ja taastuda pingutusest.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "esitab õpetaja koostatud võimlemis- või tantsukava;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sooritab talispordialasid vastavalt kooli ja ilmastiku võimalustele: suusatab ja/või uisutab, kasutades õpitud tehnikaid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "mängib kahte sportmängu lihtsustatud reeglitega ja on läbinud vastavalt kooli võimalusele kolmanda sportmängu algõpetuse;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kirjeldab suunamisel erinevate spordialade võistlusi ja/või tantsuüritusi ning muljeid nendest, kirjeldab lemmikspordiala;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab Eesti tuntumaid sportlasi, nende spordialasid ja olulisemaid fakte nende saavutustest olümpiamängudel;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab Eesti tähtsamaid spordi- ja kultuurisündmusi, mõistab ning väärtustab liikumisürituste ja -traditsioonide olulisust kultuuris.",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab õpitud terminoloogiat;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab hüpata kõrgushüppes käärhüpet;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab joosta madallähtest 100 m;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab tehniliselt sooritada paigalt kuulitõuget;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sooritab kombinatsiooni mitmest võimlemisharjutusest, vahendiga või ilma, kas muusikaga ja/või ilma;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "suusatab vahelduval maastikul ja/või uisutab, kasutades erinevaid õpitud tehnikaid ja liikumisviise;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "suudab vahenditel võimetekohaselt kestvalt liikuda;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "mängib kolme erinevat sportmängu lihtsustatud reeglitega;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab pendelteatejooksu tehniliselt korrektselt sooritada, järgides võistlusreegleid.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab sooritada kombinatsioone rütmika, akrobaatika ja riistvõimlemise põhiharjutustest;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab iseseisvalt läbi viia võistluseelset soojendust ja võistlusjärgset venitust;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "sooritab vastavalt oma võimetele kõrgushüpet õpitud tehnikas ja hooga kuulitõuget tehniliselt õigesti;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab reeglitepäraselt mängida vähemalt kahte õpitud sportmängu;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab tehniliselt õigesti sooritada ringteatejooksu, teab selle võistlusreegleid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab õpitud talispordialal määrustepäraselt võistelda;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab valida jõusaalis endale õigeid raskusi ja koormusi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab õpitud spordialade oskussõnu, teab ja täidab võistlusreegleid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab Eesti tähtsamaid spordi- ja kultuurisündmusi ning tuntumaid sportlasi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab iseseisvalt arendada oma kehalisi võimeid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1231/2202/5004/VV_m182_lisa1_2025.pdf",
+          "title": "Riigi Teataja – Põhikooli lihtsustatud riikliku õppekava lisa 1 (Lihtsustatud õpe)"
+        }
+      ]
+    }
+  ]
+}

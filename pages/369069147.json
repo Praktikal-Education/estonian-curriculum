@@ -1,0 +1,334 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus käsitleb <strong>treeninglaagrit professionaalse arenguetapina</strong>, kus arendatakse füüsilist valmisolekut, psühholoogilist vastupidavust, taktikalist mõtlemist ning meeskondlikku toimimist. Õpilane analüüsib laagri mõju oma sportlikule sooritusvõimele, koormustaluvusele, taastumisvõimele, psühholoogilisele valmisolekule ning rollile meeskonnas. Kursus toetab tippsportlasest õpilase enesejuhtimisoskust, vastutustunnet, professionaalset hoiakut ning võimet hinnata ja suunata oma arenguprotsessi. Kursuse jooksul viib õpilane läbi <strong>miniprojekti</strong> ehk lühiajalise tegevuse treeninglaagris (nt mõne lühiajalise ülesande, ühistegevuse laagri osavõtjatele vmt).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse sihtrühm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus on suunatud gümnaasiumis õppivale tippsportlastele ning keskendub treeninglaagri kui kõrge sooritusvõime kujundamise keskkonna teadlikule analüüsimisele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on toetada tippsportlase võimet mõtestada oma kogemust süstemaatiliselt ning kujundada teadlikku tasakaalu tippspordi ja gümnaasiumiõpingute vahel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse maht on 35 akadeemilist tundi, millest vähemalt 25 tundi hõlmab õpilase mitteformaalõpet (treeninglaagris osalemint ja selle struktureeritud analüüsi, sh kuni 3 tundi miniprojektiga seotud tegevusi) ning kuni 10 tundi formaalõpet (arutelusid, planeerimist, juhendatud eneseanalüüsi).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse täpsem töökorraldus lepitakse kokku õpilase ja õpetaja vahel, arvestades treeningkoormust, spordiala eripära ja kooli õppekorraldust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Treeninglaagri olemus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib treeninglaagri rolli oma sportliku sooritusvõime ja hooaja ettevalmistuse kontekstis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab oma spordiala hooaja treeningtsükli perioode ning määratleb nende eesmärgid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab treeninglaagri eesmärki ettevalmistus-, võistlus- või üleminekuperioodis;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab treeninglaagri sisu (füüsiline, tehniline, taktikaline ja psühholoogiline ettevalmistus) oma isiklike eesmärkidega;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb planeeritud ja tegelikku treeningmahtu ning -intensiivsust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab laagritingimuste mõju oma sooritusvõimele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb järeldused treeninglaagri rolli kohta oma hooaja ettevalmistuses.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Treeningkoormuse, taastumise ja elukorralduse mõjud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "hindab treeninglaagris kogetud treeningkoormuse, taastumise ja elukorralduse mõju oma füüsilisele ja psühholoogilisele seisundile",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab treeningkoormuse ja taastumise põhimõtteid (uni, toitumine, aktiivne taastumine);",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuvastab ülekoormuse ja väsimuse tunnuseid oma kehas ja meeleolus;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "planeerib ja jälgib treeningmahtu ning -intensiivsust laagri jooksul;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "dokumenteerib oma füüsilist ja psühholoogilist seisundit, sh une- ja toitumisharjumusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib seoseid treeningkoormuse, taastumise ja soorituse vahel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab elukorralduse ja päevarütmi mõju oma enesetundele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab kokkuvõtte ja teeb järeldused laagri koormuse ja taastumise tasakaalu kohta.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tegevuse kavandamine treeninglaagris",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kavandab teadlikult oma tegevust treeninglaagris, lähtudes enda isiklikest eesmärkidest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab individuaalse arenguplaani eesmärke ja põhimõtteid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuvastab oma arengut mõjutavad füüsilised, tehnilised, taktikalised ja psühholoogilised tegurid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sõnastab mõõdetavad isiklikud eesmärgid laagri alguses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab isikliku tegevusplaani eesmärkide saavutamiseks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "jälgib ja dokumenteerib oma tegevust laagri jooksul;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab laagri lõpus eesmärkide täitmist ja teeb järeldused edasiste arengusammude kohta.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tiimi ja enda rolli mõtestamine treeninglaagris",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib oma käitumist, suhtlemist ja rolli treeninggrupis või tiimis treeninglaagri perioodil",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab tiimi rolle ja dünaamikat tippspordis;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuvastab oma rolli ja vastutust laagris;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib konkreetseid koostöö- ja suhtlussituatsioone tiimis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab oma panust tiimis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sõnastab arenguvõimalused oma suhtlemis- ja koostööoskuste parandamiseks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab õpitut edasistes tiimitegevustes ja jälgib arengut.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Treeninglaagri mõju ja selle analüüs",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "seostab treeninglaagris saadud kogemused oma pikaajalise sportliku arenguplaani ning haridustee jätkamisega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab sportlase pikaajalisi arengumudeleid ja karjäärietappe;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuvastab laagri mõju oma pikaajalistele sportlikele ja hariduslikele eesmärkidele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib laagri kogemust, sealhulgas ajaplaneerimist ja prioriteetide seadmist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab laagri mõju õppetöö edenemisele ja oma arengule;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kavandab järgmise treeningperioodi tegevused;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sõnastab konkreetsed sammud, mis toetavad sportlikku arengut ja haridustee jätkamist.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Miniprojekti läbiviimine treeninglaagris ja selle analüüs (nt treeninglaagri kajastamine sotsiaalmeedias, vaba aja tegevuse läbiviimine)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "rakendab treeninglaagris projektijuhtimis- ja enesejuhtimisoskusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kavandab ja viib läbi miniprojekti, järgides projektijuhtimise põhimõtteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab suhtlemis- ja tiimitööoskusi toetamaks treeninglaagri õhkkonda;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib miniprojekti elluviimist, tuues välja peamised edusammud ning õpikohad edasiseks.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine, sh mitteformaalõppes läbitud kursuste hindamise alused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursust hinnatakse mitteeristavalt (arvestatud/mitte arvestatud). Hindamine põhineb tippsportlasest õpilase võimel analüüsida treeninglaagri kogemust kui terviklikku õpi- ja arenguprotsessi. Tähelepanu pööratakse eneseanalüüsile, koostööoskusele ja vastutustundele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Arvestuse saamise eeldused on:</p><ul><li>aktiivne osalemine õppetegevustes;</li><li>kirjaliku eneseanalüüsi esitamine;</li><li>miniprojekti analüüs;</li><li>kursuse lõpus toimuval suulisel arutelul või esitlusel osalemine ning oma seisukohtade põhjendamine.</li></ul>"
+        }
+      ]
+    }
+  ]
+}

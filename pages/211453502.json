@@ -1,0 +1,563 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Soovituslik õpitulemuste jaotus ja soovituslik õppesisu 1. klassis",
+      "children": [
+        {
+          "kind": "section",
+          "title": "1. klassi lõpetaja",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "saab aru lihtsatest igapäevastest väljenditest ja lühikestest lausetest",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab 1. klassi eesti keele õppekavas esitatud temaatika piires sõnu, peamiselt nimetavas käändes",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb teksti sõna haaval, kõne tekstist aeglasemalt",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "reageerib adekvaatselt lihtsatele küsimustele ja korraldustele",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "on omandanud õppekava raames esmased teadmised Eestist",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "suhtub positiivselt eesti keele õppimisse",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab vastata küsimuste toel loetust",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "moodustab pildi põhjal lihtlauseid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tutvub tähestikuga",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb häälikuanalüüsi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab määrata suuliselt häälikute olemasolu ja järjekorda sõnas(kahe kuni nelja häälikulistes sõnades.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab ja märgib kirjas lühikest ja pikka täishäälikut",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab suurt algustähte lause alguses, tuttavate nimedes",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb ärakirja tahvlilt, tahvlinäidise järgi täidab õpilaspäevikut",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab etteütlemise järgi kirjutada lihtsamaid sõnu (2-3 tähte)",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hoiab kirjutusvahendit ja istub kirjutamisel, joonistamisel õigesti",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab õpetaja juhendamisel töötada paaris.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Edasijõudnutele",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "on lugenud vähemalt üht lasteraamatut",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab k, p, t sõna algusesse",
+              "outcomeType": "skill"
+            },
+            { "kind": "text", "html": "<p>lauselõpumärgid</p>" },
+            {
+              "kind": "outcome",
+              "text": "õigesti kirjutab mitmuse tunnust -d",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "õigesti kirjutab tegusõna lõppu -b ja -vad",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab etteütlemise järgi lihtlauseid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb ärakirja tahvlilt ja õpikust, tahvlinäidise järgi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab talle vajalikku teavet trüki- ja veebisõnastikest ning teatmeteostest",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mina ja teised",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tervitamine, vabandamine, enese-, pereliikmete- ja kaaslaste tutvustamine ja kirjeldamine.</p><p>Perekonnaliikmed.</p><p>Minu klass, minu õpetaja,</p>"
+            },
+            { "kind": "text", "html": "<p>Värvide nimetused. Värvid</p>" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=_8ezpDc9pMY"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kool ja klassiruum, seal leiduvad esemed. Käitumine koolis. Õppeainete nimetused. Tegevused tunnis. Tunniplaan</p><p>Trüki- ja kirjatähtede tundmine pildis ja kirjas.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kodu ja lähiümbrus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kodu: asukoht (nt linn, küla, tänav, telefoninumber) mööbel, kodus olevad asjad. <em>Koduümbrus kodukoha loodus (nt lilled, puud, põõsad, linnud, loomad). Koduloomad.</em></p><p>Kodused tegevused (nt koristamine, söömine, pesemine, riietumine); perekondlikud sündmused (nt sünnipäevad, isadepäev).</p><p>Liiklusvahendid ja koolitee.</p><p>Aastaajad ja kuud, nädalapäevad, ilm</p>"
+            },
+            { "kind": "text", "html": "<p>Kuud</p>" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=kB1Oxjc6QaQ"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Silvi Väljal “Jussikese seitse sõpra”</p><p>Margit Sarapik “Kalendrilinna lood”</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Igapäevaelu: õppimine ja töö",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koolitee, koolipäev (kool ja klass, õppeained ja tunniplaan, koolitarbed, õppetegevused, kell ja kellaaeg). Kellaaeg, täis-ja pooltund.</p><p>Kehaosad</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Riietusesemed. Müts, sall ja kindad</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=NfwAmJmbAhw"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Emotsioonid</p><p>Tervis (nt enesetunne, arsti juures käimine);</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eesti ja teised riigid ning nende kultuur",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti sümboolika.</p><p>Suuremad linnad (nt pealinn Tallinn, Tartu, Pärnu, Kuressaare, Narva, Viljandi); Eesti Noorsooteatri külastus, koos nuku muuseumiga</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Rahvakalendri tähtpäevad (nt mardipäev, kadripäev, jõulud, vastlapäev), sõbrapäev, emadepäev, laulupidu - Kui sul tuju hea</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=_mlfeu4ID1s"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Söögikorrad, söögid, joogid, toiduainete nimetused.</p><p>Lemmik multifilm</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://lasteekraan.err.ee/otsing?phrase=Lotte",
+              "title": "Lotte"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.loodusmuuseum.ee/et/classes",
+              "title": "Metsloomad"
+            },
+            { "kind": "text", "html": "<p>Tegevused õues.</p>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Vaba aeg",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Minu huvid. Huviringid. Muusika instrumendid</p><p>Mängud, mänguasjade nimetused, mängujuhendid.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://100-rahvamangu-lastele.blogspot.com/p/mangud-tahestikulises-jarjekorras.html",
+              "title": "Laulu- ja ringmängud"
+            },
+            {
+              "kind": "text",
+              "html": "<p>mängude käsklused ja juhendid (tuntumate mängude, sh laulumängude käsklused ja läbiviimine.</p><p>Tegevused õues.</p><p>Vaba aeg koos perega. Puhkepäevade ja koolivaheaja tegevused; lemmiktegevused (nt lugemine, tantsimine, sport, mängud, ühistegevused sõpradega);</p><p>Kauplused: kaupade nimetused, suhtlemine müüjaga, ostmine, maksmine.</p><p>Rahaühikud.</p><p>Suvised tegevused</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Grammatika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Tähestik, täis,-kaas-, sulghäälik, kes?, mis?, mida teeb? mida teevad? mitmus. Suur algustäht-lause algus, nimed. Lauselõpumärgid.</em></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mina ja teised",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Viisakusväljendid (N: tere, head aega, palun, tänan, aitäh, tule siia, palun anna, palun võta,...)</p><p>Vabandamine (palun vabandust, anna andeks..)</p><p>Enda tutvustamine (Minu nimi on…, Ma olen 7-aastane. Ma käin 1. klassis. Ma elan ….)</p><p>Pereliikmed(ema, isa, vanaema, vanaisa, õde, vend, tädi, onu)</p><p>Klassikaaslased (poiss, tüdruk, õpilane, sõber..)</p><p>Minu klassiruum( tool, laud, tahvel, uks, aken, kapp, riiul, sein, põrand, lagi, lamp, arvuti, kell..)</p><p>Õpetaja (Minu õpetaja on (nimi).)</p><p>Värvid (punane, sinine, kollane jne)</p><p>Kooliruumid (klass, garderoob, söökla, raamatukogu, saal, võimla, wc, ..)</p><p>Õppeained( matemaatika, eesti keel jne)</p><p>Õppevahendid (liim, käärid, pinal, õpik, jne)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kodu ja lähiümbrus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kodu asukoht (linn, alev, küla, tänav )</p><p>Mööbel (diivan, laud, tool, kapp, riiul, voodi, jne)</p><p>Kodused tegevused (söömine, pesemine, riietumine, mängimine, õppimine)</p><p>Koduloomad (koer, kass, lammas, lehm, hobune, kukk, kana, küülik, kits, part, hani)</p><p>Liiklusvahendid (auto, buss, jalgratas jne)</p><p>Aastaajad ja kuud, nädalapäevad, ilm (soe , külm, vihmane, tuuline, pilvine, päikseline, lumine, jne)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Igapäevaelu. Õppimine ja töö",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kell ja kellaaeg ( täis ja pooltund)</p><p>Kehaosad (pea, silmad, nina kõrvad, suu, käed, jalad, kõht, selg,..)</p><p>Riietusesemed (müts, sall, kindad, jope, kleit, seelik, püksid, t-särk, kampsun, saapad, kingad, jne)</p><p>Emotsioonid (rõõmus, kurb, vihane, üllatunud)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eesti ja teised riigid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sümboolika (lipp, vapp, kaart, suitsupääsuke, rukkilill, paekivi, räim, hunt)</p><p>Söögikorrad (hommikusöök, lõunasöök, õhtusöök, oode)</p><p>söögiriistad(kahvel, nuga, lusikas, taldrik,)</p><p>Toiduainete nimetused (piim, juust, leib, sai, vorst, või, jne)</p><p>Metsloomad( hunt, jänes, ilves, rebane, metssiga, põder, metskits)</p><p>Talvised tegevused( suusatamine, kelgutamine, uisutamine, lumesõda, lumememm, jne)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Vaba aeg",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hobi (jalgpall, kergejõustik, rahvatants, joonistamine, võimlemine, robootika jne)</p><p>Pillid (trumm, klaver, viiul, kitarr, akordion, flööt jne)</p><p>Kaupluses (euro, sent, kaupade nimetused)</p><p>Suvised tegevused (kalapüük, grillimine, ujumine, päevitamine jne)</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Iga teema kohta pildid seinetele (Rääkivad seinad)</p><p>mõistekaart,</p><p>dramatiseeringud (kahekõned, käpiknukud, pildiseeria)</p><p>Hommikuring (kuupäev, nädalapäev, aastaaeg, ilm, tuju, poiss, tüdruk)</p><p>Videod, multifilmid, laulud</p><p>Lasteraamatud- “Jussikese seitse sõpra”, “Kalendrilinna lood”</p><p>Paaristöö/ rühmatöö/individuaalne töö</p><p>Esitlused</p><p>Töölehed</p><p>Kooliruumide külastus</p><p>Google maps</p><p>Õpilaste küsitlemine erinevate metoodiliste võtetega( nimepulgad, nime online ratas, loosimine, jne)</p><p>Suur ja väike algustäht- nimed ja nimetused</p><p>Ladumisaabits</p><p>Õppemängud/interaktiivselt</p><p>Rääkimine/jutustamine</p><p>Kuulamine</p><p>Lugemine</p><p>Kirjutamine</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained.",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Loodusõpetus- ilm, mets-ja koduloomad, omadussõnad, aastaajad, kodukoht, kodu, koduümbrus, pereliikmed, Eesti sümboolika.</p><p>Matemaatika- kell, arvud, võrdlemine.</p><p>Kunst ja tööõpetus- saab joonistada ja meisterdada õpitud teemadel.</p><p>Muusika- teemakohased laulud.</p><p>Liikumine- ringmängud, õppekäigud.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>enesemääratluspädevus</p><p>õpipädevus</p><p>sotsiaalne- ja kodanikupädevus</p><p>suhtluspädevus</p><p>matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus</p><p>digipädevus</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://sonaveeb.ee/",
+          "title": "https://sonaveeb.ee/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eki.ee/dict/qs/",
+          "title": "https://www.eki.ee/dict/qs/"
+        },
+        {
+          "kind": "link",
+          "href": "https://kuulamineonkuld.ee/koolidele/mina-koolidele/kui-vana-sa-oled/",
+          "title": "https://kuulamineonkuld.ee/koolidele/mina-koolidele/kui-vana-sa-oled/"
+        },
+        { "kind": "text", "html": "<p>Värvilaul</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=_8ezpDc9pMY"
+        },
+        { "kind": "text", "html": "<p>Värvimäng</p>" },
+        {
+          "kind": "link",
+          "href": "https://wordwall.net/et/resource/56117971/v%C3%A4rvid",
+          "title": "Värvimäng"
+        },
+        { "kind": "text", "html": "<p>Kooliruumid</p>" },
+        {
+          "kind": "link",
+          "href": "https://wordwall.net/resource/27762361/eesti-keel-v%c3%b5%c3%b5rkeelena/minu-kool",
+          "title": "Kooliruumid"
+        },
+        { "kind": "text", "html": "<p>Kodu ja lähiümbrus</p>" },
+        {
+          "kind": "link",
+          "href": "https://wordwall.net/resource/28435371/eesti-keel/kodu-ja-l%c3%a4hi%c3%bcmbrus",
+          "title": "Kodu ja lähiümbrus"
+        },
+        { "kind": "text", "html": "<p>Hommikuring</p>" },
+        {
+          "kind": "link",
+          "href": "https://kellukemetoodikakeskus.weebly.com/hommikuringi-huvitavad-motildetted-ja-votildetted.html",
+          "title": "Hommikuring"
+        },
+        { "kind": "text", "html": "<p>Ilmakaru</p>" },
+        {
+          "kind": "link",
+          "href": "https://view.genial.ly/60f031595992cc0d4608c77d/presentation-ilmakaru",
+          "title": "Ilmakaru"
+        },
+        { "kind": "text", "html": "<p>Riietusesemes</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=NfwAmJmbAhw"
+        },
+        { "kind": "text", "html": "<p>Kehaosad</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=soinX4nIx4g"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=HwXez-cBUOE"
+        },
+        { "kind": "text", "html": "<p>Emotsioonid</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=_mlfeu4ID1s"
+        },
+        { "kind": "text", "html": "<p>Tegevused</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Vq11zlzFPSo"
+        },
+        { "kind": "text", "html": "<p>Talv</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=bDr64N8KZ5Y"
+        },
+        { "kind": "text", "html": "<p>sõnad-</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=iIJUfpsHgIY"
+        },
+        { "kind": "text", "html": "<p>Kodu- ja metsloomad</p>" },
+        {
+          "kind": "link",
+          "href": "https://wordwall.net/et-ee/community/koduloomad-ja-metsloomad",
+          "title": "Kodu- ja metsloomad"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=uwck_E_m8Wg"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=qMUyRTxYkYs"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.loodusmuuseum.ee/et/classes",
+          "title": "Kodu- ja metsloomad"
+        },
+        { "kind": "text", "html": "<p>Laulu- ja ringmängud</p>" },
+        {
+          "kind": "link",
+          "href": "https://100-rahvamangu-lastele.blogspot.com/p/mangud-tahestikulises-jarjekorras.html",
+          "title": "Laulu- ja ringmängud"
+        },
+        { "kind": "text", "html": "<p>Töölehed</p>" },
+        {
+          "kind": "link",
+          "href": "https://opetaja.edu.ee/toolehed/sisukord2.html",
+          "title": "Töölehed"
+        },
+        {
+          "kind": "link",
+          "href": "http://opiabi.weebly.com/1klass.html",
+          "title": "Töölehed"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/grade-1/topics/measurements/time/",
+          "title": "Töölehed"
+        },
+        { "kind": "text", "html": "<p>Häälikuanalüüs</p>" },
+        {
+          "kind": "link",
+          "href": "https://mukimuri.net/games/panesonakokku/index.html",
+          "title": "Häälikuanalüüs"
+        },
+        {
+          "kind": "link",
+          "href": "https://mukimuri.net/games/leiasobivsona/index.html",
+          "title": "Häälikuanalüüs"
+        },
+        { "kind": "text", "html": "<p>Tähestik</p>" },
+        {
+          "kind": "link",
+          "href": "https://www.jigsawplanet.com/?rc=play&amp;pid=2b5e5df3c1e7",
+          "title": "Tähestik"
+        },
+        { "kind": "text", "html": "<p>laul-</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=yKiIZopY1yo"
+        },
+        { "kind": "text", "html": "<p>Eesti</p>" },
+        {
+          "kind": "link",
+          "href": "https://esimeneklass.weebly.com/eesti-vabariik.html",
+          "title": "Eesti"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/watch?v=pskojwqcn16"
+        },
+        { "kind": "text", "html": "<p>Toit</p>" },
+        {
+          "kind": "link",
+          "href": "https://wordwall.net/et-ee/community/toit",
+          "title": "Toit"
+        },
+        { "kind": "text", "html": "<p>Aastaajad</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=nhQNbreZ1Ng"
+        },
+        { "kind": "text", "html": "<p>Lastekraan</p>" },
+        {
+          "kind": "link",
+          "href": "https://lasteekraan.err.ee/mangi-ja-avasta",
+          "title": "Lastekraan"
+        },
+        { "kind": "text", "html": "<p>Kool</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=x0qkqe5GlHI"
+        },
+        { "kind": "text", "html": "<p>Riided</p>" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Dm7BWrWUuzk"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=OA9zsC-7HdM"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamise põhieesmärgid on:",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Anda õpilasele motiveerivat tagasisidet</li><li>Anda teavet õppimise käigust õpilasele, õpetajale, kooli juhtkonnale, lapsevanemale</li><li>Arendada õpilase eneseanalüüsi oskust</li><li>Tunnustada lahenduste erinevusi ja väärtustada õpilaste isikupära</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on sõnaline (analüüs/ hinnang):</p><ul><li>Tööprotsessi hindamine</li><li>Kujundav hindamine</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>1. klassi õpilaste teadmistele ja oskustele antakse sõnaline ja /või kirjalik hinnang lähtuvalt õpilase arengust, õpioskuste kujunemisest, õpiprotsessis osalemisest ning õpitulemustest.</p><p>Esikohal on kujundav hindamine, millest võtavad aktiivselt osa õpilased ise. Suulisi hinnanguid saavad õpilased jooksvalt õppeprotsessis, kokkuvõtvaid kirjalikke hinnanguid antakse poolaasta lõpul.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kokkuvõtlikud kirjalikud hinnangud antakse kolmele oskusele: teksti sisu mõistmine (kuulamine ja lugemine), eneseväljendusoskus (rääkimine), kirjutamine.</p><p>Kokkuvõtvad kirjalikud hinnangud: oskab väga hästi, oskab hästi, vajab harjutamist, vajab palju harjutamist.</p><p>Suulised hinnangud:</p><p>„Suurepärane!“ (oskab väga hästi) – hinnang antakse õpilase suulise vastuse/esituse, kirjaliku või praktilise töö/tegevuse eest, kui õpilane on omandanud nõutavad teadmised ja oskused.</p><p>„Tubli!“ (oskab hästi) – hinnang antakse õpilasele, kui tema teadmistes ja oskustes esineb väiksemaid eksimusi.</p><p>„Harjuta veel!“ (vajab harjutamist) – hinnang antakse õpilasele, kui tema teadmistes ja oskustes esineb puudusi ja vigu.</p><p>„Oi-oi-oi!“ (vajab palju harjutamist) – hinnang antakse õpilasele, kui tema teadmistes ja oskustes esineb olulisi puudusi ja vigu.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>1. ja 4. õpitulemust seda saab hinnata- kuidas õpilane reageerib õpetaja poolt esitatud küsimustele ja igapäevastele väljenditele.</p><p>2. õpitulemust saab hinnata- kui õpetaja näitab pilti ja laps vastab sellele suuliselt.</p><p>3. õpitulemust saab hinnata- kui õpilane loeb vähemalt veerides.</p><p>5. õpitulemust saab hinnata- kui oskab nimetada eesti sümboolikat.</p><p>6. õpitulemust saab hinnata- kui õpilane on avatud keele õppimisel.</p><p>7. õpitulemust saab hinnata- kui oskab teksti põhjal vastata õpetaja poolt esitatud küsimustele.</p><p>8. õpitulemust saab hinnata- kui õpilane oskab kasutada lausemalle pildi jutustamisel.</p><p>9. õpitulemust saab hinnata- kui õpilane oskab lugeda tähestikku õigete tähenimedega.</p><p>10. - 11. õpitulemust saab hinnata- kui õpilane oskab sõnu häälida.</p><p>12 ja 15. õpitulemuste saab hinnata- kui õpilane oskab kirjalikus töös eristada lühikest ja pikka täishäälikut, näiteks tehes ring ümber õigele häälikule ja oskab etteütlemise järgi kirjutada lihtsamaid sõnu.</p><p>13. õpitulemust saab hinnata- kui õpilane oskab kirjalikes töödes kasutada suurt algustähte, näiteks lause alguses ja nimes.</p><p>14. õpitulemust saab hinnata- kui õpilane ei eksi ärakirja tehes.</p><p>16. õpitulemust saab hinnata- õpilast vaadeldes.</p><p>17. õpitulemust saab hinnata- kokkulepitud reeglite järgi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Edasijõudnutele:</p><p>1. Õpitulemust saab hinnata- kui õpilane oskab lihtlausetega tutvustada loetud raamatut.</p><p>2.- 8. õpitulemust saab hinnata- kui õpilane oskab kasutada kirjalikes töödes õpitud õigekirja reegleid.</p>"
+        }
+      ]
+    }
+  ]
+}

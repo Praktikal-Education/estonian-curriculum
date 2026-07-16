@@ -1,0 +1,126 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Füüsika kuulub loodusainete valdkonda ning sellel on tähtis koht õpilaste loodusteadusliku ja tehnoloogiaalase kirjaoskuse kujunemises. Füüsika seletab loodusnähtusi ja loob vastavaid mudeleid ning on tihedalt seotud matemaatikaga. Füüsika paneb aluse tehnika ja tehnoloogia mõistmisele ning aitab väärtustada tehnilisi elukutseid. Põhikooli füüsikakursus käsitleb väikest osa füüsikalistest nähtustest ja loob aluse, millel tekib hiljem tervikpilt füüsikast kui loodusteadusest. Füüsikat õppides saab õpilane esialgse ettekujutuse füüsika keelest ja õpib seda kasutama.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Füüsikaõppes seostatakse õpitavat igapäevaeluga, matemaatiliste oskustega, tehnika ja tehnoloogiaga ning teiste loodusainetega. Füüsikaõpetuses lähtutakse loodusainete (füüsika, keemia, bioloogia, geograafia) lõimimisel kahest suunast. Vertikaalselt lõimuvad need õppeained ühiste teemade kaudu, nagu areng (evolutsioon), vastastikmõju, liikumine (muutumine ja muundumine), süsteem ja struktuur; energia, tehnoloogia ning keskkond (ühiskond). Vertikaalset lõimimist toetab valdkonna spetsiifikat arvestades õppeainete horisontaalne lõimumine. Õpilaste väärtushinnangud kujunevad, kui nad seostavad probleemide lahendusi teaduse üldise kultuuriloolise kontekstiga. Seejuures käsitletakse füüsikute osa teadusloos ning füüsika ja selle rakenduste tähendust inimkonna arengus.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lahendades arvutus-, graafilisi ning probleemülesandeid ja hinnates saadud tulemuste reaalsust, luuakse alus kriitilisele mõtlemisele. Nähtustega tutvumisel eelistatakse katset, probleemide lahendamisel aga loodusteaduslikku meetodit. Õpitav materjal esitatakse võimalikult probleemipõhiselt ning õpilase igapäevaeluga seostatult. Õppes lähtutakse õpilaste individuaalsetest iseärasustest ja võimete mitmekülgsest arendamisest, suurt tähelepanu pööratakse õpilaste õpimotivatsiooni kujundamisele. Selle saavutamiseks rakendatakse erinevaid aktiivõppevorme: probleem- ja uurimuslikku õpet, projektõpet, arutelu, ajurünnakuid, rollimänge, õuesõpet, õppekäike jne.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpet plaanides võib õpetaja muuta käsitletavate teemade järjekorda, pidades meeles, et muudetud teemade järjestus jälgiks õpilaste arengu iseärasusi ning õpetamine toimuks abstraktsuse kasvamise printsiibi kohaselt. Kõigis õppeetappides kasutatakse tehnoloogilisi vahendeid ja IKT võimalusi. Uurimusliku õppega omandavad õpilased probleemide seadmise, hüpoteeside sõnastamise, töö plaanimise, vaatluste tegemise, mõõtmise, tulemuste töötlemise, tõlgendamise ja esitamise oskused. Tähtsal kohal on uurimistulemuste suuline ja kirjalik esitamine, kaasates verbaalseid ning visuaalseid esitusvorme. Olulisel kohal on erinevate teabeallikate, sh interneti kasutamise ja neis leiduva teabe kriitilise hindamise ning kasutatud allikatele viitamise oskus.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa4.pdf",
+          "title": "Lisa 7 - PRÕK Lisa 4 Ainevaldkond Loodusained (riigiteataja.ee)"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Füüsika õpetamisega põhikoolis taotletakse, et õpilane lisaks valdkonnapädevuses kirjeldatud üldistatud õpitulemustele:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab olulisi füüsika mudeleid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab valemeid füüsikaliste nähtuste ja kehade omaduste kvantitatiivseks kirjeldamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab graafikuid, jooniseid ja skeeme füüsikaliste nähtuste kirjeldamiseks ning analüüsib graafiliselt esitatud infot",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seletab ja põhjendab füüsika mudelite põhjal füüsikalisi nähtusi ja kehade omadusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab füüsikaalase teabe leidmiseks erinevaid allikaid ning hindab allikate usaldusväärsust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab ja korraldab ohutult katseid füüsikaliste nähtuste ja kehade omaduste uurimiseks, analüüsib katsetulemusi ning teeb põhjendatud järeldusi.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on õppe osa, mille kaudu toetatakse õpilase õppimist ja arengut. Hindamine peaks muutma õppimise nähtavaks ehk see peaks andma ülevaate õpitulemuste saavutamise ja õpilase isikupärase arengu kohta ning toetatama tema kujunemist positiivse ja adekvaatse minapildiga õppijaks. Hindamise tulemusena saab õppija tagasisidet enda õppimise edenemise kohta ja õpistrateegiate valikuteks. Õpetaja saab teavet oma õpetamise tulemuslikkuse kohta ning sisendit nii õppe kui ka iseenda pädevuste arendamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilast hinnatakse õppimise eel diagnostiliselt ja kestel kujundavalt. Õppimise protsessi käigus kogutakse tõendeid õpilase õpitulemuste saavutamise kohta. Õpilast hinnatakse kokkuvõtvalt veerandi/trimestri/poolaasta, aasta ja kooliastme lõpus. Hindamine peaks olema kooskõlas taotletavate õpitulemustega, mida aitavad tagada mitmekesised hindamismeetodid, et toetada õpilase loodusteadusliku pädevuse (teadmised, oskused, hoiakud), arengut.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Diagnostiliselt hinnates selgitab õpetaja kursuse või teema alguses välja õpilase teemakohased eelteadmised, sh loodusteaduslikud väärarusaamad ning spetsiifilised õpiraskused, et kavandada edasist õpetamist. Diagnostiliseks hindamiseks sobib nii õpilaste suuline kui kirjalik küsitlemine, õpilaste enesehindamise küsimustikud, mis aitavad neil välja selgitada oma eelteadmisi ja ootusi õppeaine suhtes ning viktoriinid ja testid kasutades näiteks vastavaid veebikeskkondi, et saada kiiret tagasisidet. Kiiret tagasisidet õpetajale pakub ka õpilase koostatud mõistekaart, mis toob visuaalselt kergesti hoomatavalt välja õpilase arusaamise taseme teema põhimõistete ja nendevaheliste seoste kohta. Selleks sobivad hästi ka mõned veebikeskkonnad (nt <a href=\"https://coggle.it/\">https://coggle.it/</a>, <a href=\"https://www.mindmaster.io/\">https://www.mindmaster.io/</a> jt.). Diagnostilisi aineteste pakub Eksamite Infosüsteem (<a href=\"https://eis.ekk.edu.ee/eis/lahendamine\">https://eis.ekk.edu.ee/eis/lahendamine</a>).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppimise ajal saab õpilane suulist või kirjalikku sõnalist tagasisidet oma õppimise edenemise kohta. Kirjaliku tagasiside annab õpetaja jooksvalt suuremahulise töö, näiteks õpimapi, essee, uurimistöö jne edasiarendamiseks. Tagasiside peaks kirjeldama ära nii saavutatud taseme kui ka mis jääb saavutatust puudu ning mida peaks õpilane tegema, et see saavutada. Nii tagasiside andmist kui ka kokkuvõtva hindamise muudavad läbipaistvamaks hindamiskriteeriumid ning hindamismudelid. Need on eriti vajalikud avatud ja/või loovat mõtlemist nõudvate õppeülesannete edukaks sooritamiseks (uurimistööd, ettekanded, esseed, vaatmikud, õpilaste koostatud loodusteaduslikud mudelid, videod, postrid jms). <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">Vt näiteid siit</a>. Hindamismudeli kriteeriumid võivad hõlmata nii protsessi, õppimise saadust (nt uurimistöö aruanne) kui ka otseselt õpilase teadmisi, oskusi ja hoiakuid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamismudelid muudavad õpilasele arusaadavamaks õpetaja ootused, võimaldavad tal enda õppimist juhtida ning anda edasiviivat tagasisidet kaaslastele, mida tuleks vaadelda samuti õppimise osana, kuna selle käigus õpivad õpilased oma vigu märkama ja neid analüüsima. Lisaks aitavad need õpetajal panna kokkuvõtvat hinnet, kui töö on valmis, ning õpilane saab paremini aru, kuidas hinne kujunes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamise osana võib käsitleda ka õpilaste enese- ning rühmarefleksiooni. Näiteks arutlevad õpilased iseseisvalt, rühmas või koos õpetajaga oma õppimise üle – mis läks töös hästi ja mida saaks järgmisel korral paremini teha. E-keskkondade, klassiarutelu vms kaudu annab õpilane tagasisidet õpetajale selle kohta, kuidas tal läheb ning pakub välja võimalusi, kuidas muuta õppimist tõhusamaks. Refleksiooni soodustavad küsimused nagu:</p><ul><li>Missune osa meie tänasest materjalist jäi Sulle kõige segasemakas?</li><li>Mis oli täna õpitud materjalis Sulle kõige raskem? Kõige kergem?</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Rühmaprotsesside ning koostöö suunamiseks:</p><ul><li>Milline oli minu panus rühmatöösse?</li><li>Kas ma olin hea kuulaja? Kas ma arvestasin teisi või tahtsin oma arvamuse läbi suruda?</li><li>Kas mul/kõigil oli võimalik anda oma panus rühmatöösse?</li><li>Mida saaks järgmisel korral teha teisiti, et koostöö oleks tõhusam?</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Nii kujundava kui ka kokkuvõtva hindamise korral keskendutakse eelkõige õpitust arusaamisele, selle mõtestamisele ja selle üle arutlemisele ning teadmiste rakendamisele, mitte ainult õpitu meenutamisele. Hindamisviise/-vorme valides arvestatakse seda, et õpilase vanuse kasvades suureneb keerukamate ja suuremat pingutust nõudvate teadmiste ja oskuste kaal. Testide ja kontrolltööde kõrval hinnatakse esitlust, vaatmikku, uurimistöö aruannet, esseed, koostatud loodusteaduslikku mudelit, sh mõistekaarti, kollektsiooni, videot, õpimappi, projektitöö käigus väljatöötatud disaini või lahendust vm.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Uurimisoskusi hinnatakse ka osaoskustena, milleks on hüpoteeside/uurimisküsimuse esitamine või katse kavandamine etteantud situatsiooni või katsevahendite põhjal, järelduste tegemine etteantud andmete alusel, korraldatud katse kvaliteedi kriitiline hindamine, ettepanekute tegemine katsetulemuste usaldusväärsuse suurendamiseks ning kehtivate järelduste saamiseks. Hoiakute ning väärtushinnangute kujundamisel on tähtsal kohal õpilase enesehindamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilase hoiakud ja väärtushinnangud ei ole otseselt kokkuvõtva hindamise objektiks. Hoiakute ning väärtushinnangute kujundamisel on esikohal eelkõige õpilase enesehindamine. Küll aga saab kokkuvõtvalt hinnata õpilase oskust väärtusi mõtestada, st nende üle arutleda, neid põhjendada ning õigustada isiklikust või teiste vaatenurgast lähtudes. Samuti, kas ja kuidas suudab õpilane põhjendada õpitud teadmiste eneste väärtust (igapäevaelus, globaalselt, edasisteks õpinguteks).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Probleemülesannete (vt <a href=\"https://docs.google.com/document/d/1zHRw0igiM9VHgrduYt7ayALNxzxsi8Fp85wbxB7LEeg/edit?usp=sharing\">probleemülesannete tüüpe ja näiteid siit</a>) korral on hindamiskriteeriumideks pakutud lahenduse otstarbekohasus ning põhjenduste arv ja sotsiaalsete, eetiliste, majanduslike jm aspektide esiletoomine, originaalsus, loogilisus ning korrektse loodusteadusliku sõnavara kasutamise määr ja sügavus. Loodusteadusessee puhul on hindamise kriteeriumid probleemiseade selgus, näidete ja põhjenduste arv ning loogilisus, korrektsete loodusteaduslike mõistete kasutamise määr, järelduste kehtivus, tekstiosade üldine sidusus ning autori mõtete originaalsus (Vt <a href=\"https://drive.google.com/file/d/1rRtGDNB3VB3ONMTYRlDgbvYRB3z-LUne/view?usp=sharing\">hindamismudeli näidet</a>). Kognitiivselt erineval tasemel koostatud ülesannete, sh probleemilahenduse, uurimuslike ning kommunikatsioonioskusi hindavate ülesannete näiteid võib leida Haridus- ja Noorteameti kodulehelt (loodusteaduste e-tasemetöö: <a href=\"https://projektid.edu.ee/download/attachments/132157188/Loodus%C3%B5petuse%20I%20kooliastme%20tasemet%C3%B6%C3%B6%20eristuskiri.pdf?version=2&amp;modificationDate=1662109271118&amp;api=v2\">I kooliaste</a>, <a href=\"https://projektid.edu.ee/download/attachments/132157188/Loodus%C3%B5petuse%20II%20kooliastme%20tasemet%C3%B6%C3%B6%20eristuskiri_2022_uus.pdf?version=1&amp;modificationDate=1662131381803&amp;api=v2\">II kooliaste</a>, <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=94441997\">III kooliaste</a>).</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453775/fyysika_PK_G_vordlus.docx?version=2&modificationDate=1711535258454&api=v2",
+          "title": "fyysika_PK_G_vordlus.docx"
+        }
+      ]
+    }
+  ]
+}

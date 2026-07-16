@@ -1,0 +1,384 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "6. kursus. TÕENÄOSUS. STATISTIKA",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>tutvustada õppijale hästi valitud temaatikaga matemaatikaülesannete kaudu reaalsuse valdkonda, mis on seotud juhuslike nähtuste ja suurustega. Jõuda tüüpülesandeid lahendades õppekava omandatuseni;</li><li>kujundada õpilases hästi valitud probleemi avamise kaudu suutlikkus organiseerida andmeid ja interpreteerida neid, kasutades tarkvaralahendusi. Jõuda info tõlgendamise oskust arendades arvutusvõtete otstarbeka valimise ning rakendamise kaudu õppekava omandatuseni;</li><li>arendada õpitegevuses üld- ja ainealaseid pädevusi nii, et väga heal tasemel õpilane suudaks oma lahenduskäiku põhjendada, tulemust kriitiliselt hinnata ning mõtteid selgelt, lühidalt ja täpselt edasi anda.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>suutlikkus uurida ise seoseid, tuua oma näiteid, selgitada ja põhjendada oma mõttekäike ning reflekteerida oma tegevust. Vale lahenduskäigu analüüsimise kaudu jõuda oma eksimuste sisulise mõistmiseni. Selleks lõimida selle kursuse õppesisu uurimistööga;</li><li>suutlikkus mõista tekste ning tõlgendada infot, otsida vastavaid andmeid ning seeläbi kokku puutuda tegeliku elu ilmingutega. Selleks kasutada meedias avaldatud materjali ja siduda seda õpilase minapildiga;</li><li>suutlikkus õpipädevuse kujunemise korral arendada analüüsimise ja tulemuste kriitilise hindamise oskust. Selleks vaagida sama valdkonna kohta antud erinevaid hinnanguid ning meetodeid, millele hinnangud tuginevad;</li><li>suutlikkus suhtluspädevuse kujunemise korral oma mõtteid selgelt, lühidalt ja täpselt edasi anda. Võib teha teatud mööndusi suurema selguse huvides, peaasi, et esitus oleks sisult õige ja arusaadav.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Põhikooli õppekavas kirjeldatud teadmised planimeetriast, kirjeldavast statistikast ning tõenäosusest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjale",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mis on oluline gümnaasiumi statistikakursuse õppimisel ja õpetamisel, Ene-Margit Tiit. Statistika kui matemaatika valdkonna eripära.docx</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teema. TÕENÄOSUS",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab juhuslikku, kindlat ja võimatut sündmust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab sündmuse tõenäosuse mõistet ja omadusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab permutatsioonide, kombinatsioonide ja variatsioonide tähendust ning leiab nende arvu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab sõltuvate ja sõltumatute sündmuste korrutise ning välistavate ja mittevälistavate sündmuste summa tähendust, arvutab reaalse eluga seotud sündmuste tõenäosusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Faktoriaal. Permutatsioonid, kombinatsioonid ja variatsioonid. Juhuslik sündmus, kindel ja võimatu sündmus.</p><p>Suhteline sagedus, statistiline tõenäosus.</p><p>Klassikaline tõenäosus. Geomeetriline tõenäosus. Sõltuvad ja sõltumatud sündmused. Välistavad ja mittevälistavad sündmused. Liitmis- ja korrutamislause.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tõenäosuse kursuses tuleb kasutusele uus mõiste juhuslikkus. Juhuslikku sündmust iseloomustab selle toimumise tõenäosus, mis muutub nullist (võimatu sündmuse puhul) üheni (kindla sündmuse tõenäosus).</p><p>Keerukam osa kursusest on ülesande teksti mõistmine. Enne ülesande lahendamist arutada teksti, kirjeldada sündmust eesti keeles, vältides seejuures matemaatilist sümboolikat.</p><p>Selgitada õpilastele eestikeelses lauses sisalduvate sõnade <em>ja</em> ning <em>või</em> tõlkimist matemaatikakeelde. Eraldi selgitada mõisteid <em>vähemalt</em> ja <em>ülimalt</em>. Tuua nende kohta elulisi näiteid.</p><p>Kombinatoorika kasutamisel tuleb selgitada, milliste sündmuste korral on järjekord oluline.</p><p>Kui tekstis on küsitud vähemalt ühte võimalust, siis on seda tavaliselt lihtsam leida vastandsündmuse tõenäosuse kaudu.</p><p>Tuleb arvestada sellega, et kui kasutada tõenäosuste korrutamise reeglit, siis sõltuvate sündmuste korral arvestab reegel sündmuste järjekorda. Näiteks.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Karbis on 10 punast ja 5 sinist pliiatsit. Milline on tõenäosus, et võttes karbist 4 pliiatsit saame 2 punast ja 2 sinist pliiatsit. $P(A_1)=\\dfrac{10}{15}\\cdot\\dfrac{9}{14}\\cdot\\dfrac{5}{13}\\cdot\\dfrac{4}{12}$ on tõenäosus, et esimesed 2 võetud pliiatsit on punased ja 2 järgmist on sinised. See ei ole ülesande õige lahendus, sest ülesande teksti põhjal ei ole võetud pliiatsite järjekord oluline. Lihtsam oleks lahendada kombinatsioonidega ($P=\\dfrac{C_{10}^2\\cdot C_{5}^2}{C_{15}^{4}}$) või arvutada kõigi erinevate järjekordade korral.</p><p>Geomeetrilist tõenäosust käsitledes vaadelda kaht tüüpi ülesandeid: pindalade suhete leidmisel ja lõikude pikkuste suhete leidmisel põhinevaid.</p><p>Õppekavast on välja jäänud Bernoulli valem. Lisamaterjalina võiks seda siiski tutvustada.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120&sort=publisher_az",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.taskutark.ee/study/matemaatika-tooraamat-11-klassile/184403/",
+              "title": "Tõenäosusteooria põhimõisted"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.taskutark.ee/test/matemaatika-sundmuse-toenaosus-test-nr-2-9-ulesannet/",
+              "title": "Sündmuse tõenäosus. Test"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.taskutark.ee/toenaosuse-moiste-toenaosuse-arvutamine/",
+              "title": "Tõenäosuse mõiste. Tõenäosuste arvutamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19157-K4-Toenaosus-ja-statistika/223399#223400-1-Toenaosus",
+              "title": "Digiõppevaramu"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/kitsa-matemaatika-kursused/iv-kursus-t%C3%B5en%C3%A4osus-ja-statistika",
+              "title": "Digiõppevaramu õpetajaraamat"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19616-Sundmus-ja-klassikaline-toenaosus",
+              "title": "Sündmus ja klassikaline tõenäosus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19611-Kombinatoorika",
+              "title": "Kombinatoorika"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19618-Statistiline-ja-geomeetriline-toenaosus-juhuslik-suurus",
+              "title": "Statistiline ja geomeetriline tõenäosus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeprotsessi diferentseerimine, hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://6ppimisttoetavhindamine.wordpress.com/category/aineopetajale/matemaatika/",
+          "title": "Õppimist toetavast hindamisest täpsemalt"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em>.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üldpädevuste toetamine, lõiming",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpetaja saab kursusesse lõimida peaaegu kõiki ainevaldkondi ning reaalseid situatsioone vastavasisuliste andmestike kasutamisega ja võimalike sündmuste (statistilise) tõenäosuste arvutamisega, nt keskkond ja jätkusuutlik areng, tervis ja ohutus, väärtused ja kõlblus.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+          "title": "Üldpädevuste toetamine"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teema. MATEMAATILINE STATISTIKA",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab juhusliku suuruse jaotuse olemust ning juhusliku suuruse arvkarakteristikute (keskväärtus, mood, mediaan, standardhälve) tähendust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab binoom- ja normaaljaotust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab valimi ja üldkogumi mõisteid ning andmete süstematiseerimise ja statistilise otsustuse usaldatavuse tähendust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab valimi koostamise põhimõtteid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab valimi jaotuse arvkarakteristikuid ning teeb nende alusel järeldusi üldkogumi jaotuse või uuritava probleemi kohta;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab valimist hinnatud ülgkogumi arvkarakteristiku usalduspiirkonna mõistet, leiab üldkogumi keskväärtuse usalduspiirkonna;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab digivahendite abil tabeleid ja graafikuid andmete ja jaotuse visualiseerimiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "visualiseerib digivahendite abil kahe tunnuse hajuvusdiagrammi, kirjeldab sõltuvuse tugevust korrelatsioonikordaja abil;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "püstitab uurimisküsimuse, kogub vajaliku andmestiku, analüüsib seda statistiliste vahenditega digivahendite abil ja hindab võimalikke statistiliste otsustustega seotud vigu.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Diskreetne juhuslik suurus, selle jaotuse esitamine tabelina ja jaotushulknurgana.</p><p>Pidev juhuslik suurus ja selle jaotuse esitamine graafikuna. Juhusliku suuruse arvkarakteristikud: keskväärtus, mood, mediaan, dispersioon, standardhälve.</p><p>Binoomjaotus. Normaaljaotus.</p><p>Üldkogum ja valim. Andmete kogumine ja süstematiseerimine.</p><p>Variatsioonrida. Sagedustabel. Jaotustabel. Sektordiagramm, histogramm, tulpdiagramm.</p><p>Statistilise andmestiku analüüsimine ühe tunnuse järgi: valimi peamised arvkarakteristikud (keskväärtuse mediaan, standardhälve) ja nende tõlgendamine. Statistilised otsustused keskväärtuse usaldusvahemiku näitel, usaldusnivoo, usaldusvahemik.</p><p>Korrelatsiooniväli (hajuvusdiagramm). Lineaarne korrelatsioonikordaja ja andmete lähendamine sirge abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Alustada üldkogumi määratlemisega. Üldkogumisse kuuluvate kõikide objektide uurimine pole alati reaalselt võimalik ega ka otstarbekas.</p><p>Valim ja üldkogum. Juhuvalimi mõiste. Juhuvalim vs käepärane valim.</p><p>Valimite moodustamisel peab olema üldkogumi igal elemendil võimalus valimisse sattuda ja valim peab olema küllalt suur. Kasutada võib mõnda valimimahu kalkulaatorit (<a href=\"https://www.surveysystem.com/sscalc.htm\">https://www.surveysystem.com/sscalc.htm</a>).</p><p>Millistel tingimustel saab valimi põhjal teha üldistusi üldkogumi kohta?</p><p>(Näiteks. Kas meie klass on juhuvalim 11. klassi noortest Eestis? Kas mõne tunnuse suhtes võiks eeldada, et on tegu juhuvalimiga?)</p><p>Selgitada, et mitteusaldusväärse valimi valik annab väära tulemuse.</p><p>Uurida saab erinevaid objekte ja tunnuseid, erinevaid tunnuste tüüpe.</p><p>(mittearvulised/ arvulised; pidevad/diskreetsed)</p><p>Keskmine (aritmeetiline keskmine), mediaan, mood – millal kasutada ühte ja millal teist, mis on eelised ja puudused?</p><p>Selgitada, mida tähendab, et mediaan ja aritmeetiline keskmine erinevad üksteisest palju. Millest see sõltub?</p><p>Korrelatsioonivälja, lineaarse korrelatsioonikordaja mõiste ja sellega seonduva käsitlemine peab tuginema tabelarvutussüsteemile (Excel, OpenOffice Calc, Google Sheet). Näiteks kasutada Excel tarkvara</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><a href=\"https://online.klb.ee/Matemaatika/11/statistika/index.html\">https://online.klb.ee/Matemaatika/11/statistika/index.html</a> Statistika õpetamise võiks siduda andmetöötlusprojektiga või uurimistööga. (Kui võimalik ka arvutiõpetusega)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19624-Andmete-tootlemine",
+              "title": "Digivaramu"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/kitsa-matemaatika-kursused/iv-kursus-t%C3%B5en%C3%A4osus-ja-statistika",
+              "title": "Digivaramu õpetajaraamat"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19622-Andmete-kogumine",
+              "title": "Andmete kogumine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19624-Andmete-tootlemine",
+              "title": "Andmete töötlemine"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Matemaatika ja statistika abil personaalse meditsiinini. Loeng Krista Fischer</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/730p3pY_0Wk"
+            },
+            {
+              "kind": "link",
+              "href": "https://stat24.ee/2015/02/kuidas-statistika-abil-valetada-valimiste-eri/",
+              "title": "Kuidas statistika vale visualiseerimine meie silma petab?"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19180-2-6-Andmetootluse-projekt",
+              "title": "Andmetöötlusprojekti näide."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeprotsessi diferentseerimine, hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on. Õppimist toetavast hindamisest täpsemalt:</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://6ppimisttoetavhindamine.wordpress.com/category/aineopetajale/matemaatika/",
+          "title": "Õppimist toetavast hindamisest täpsemalt"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em>.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üldpädevuste toetamine, lõiming",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpetaja saab kursusesse lõimida peagu kõiki ainevaldkondi ning reaalseid situatsioone vastavasisuliste andmestike kasutamisega ja võimalike sündmuste (statistilise) tõenäosuste arvutamisega, nt keskkond ja jätkusuutlik areng, tervis ja ohutus, väärtused ja kõlblus.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+          "title": "Õppekava üldosa pädevuste realiseerimine gümnaasiumi matemaatikakursuses"
+        },
+        {
+          "kind": "file",
+          "src": "https://oppekava.ee//wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+          "title": "Õppekava üldosa pädevuste realiseerimine gümnaasiumi matemaatikakursuses"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454772/LAI_MATEMAATIKA_6.%20kursus%20N%C3%A4ite%C3%BClesanded.docx?version=1&modificationDate=1706621742207&api=v2",
+          "title": "LAI_MATEMAATIKA_6. kursus Näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454772/LAI_MATEMAATIKA_6.%20kursus%20N%C3%A4ite%C3%BClesanded.pdf?version=1&modificationDate=1706621742198&api=v2",
+          "title": "LAI_MATEMAATIKA_6. kursus Näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

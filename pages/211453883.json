@@ -1,0 +1,1389 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Tervise käitumine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Turvaline tervisekäitumine ning keskendumine füüsilisele, vaimsele ja sotsiaalsele tervisele tagab inimese heaolu lähiümbruses ja ühiskonnas. Valdkonna allikakriitilisus ja allikate usaldusväärsus iseloomustab nüüdisaegset õpikeskkonda.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Kasutab terviseinfo saamiseks teaduspõhiseid allikaid ja spetsialistide abi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Mõistab eluviisi, keskkonna ja pärilikkuse mõju tervisele ning tervisliku eluviisi ja turvalise käitumise tähtsust igapäevaelus.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Mõistab füüsilise, vaimse ja sotsiaalse tervise vastastikust seost ja neid mõjutavaid tegureid.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tervise aspektid ja tervisekäitumine",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Toob näiteid füüsilise, vaimse ja sotsiaalse tervise vastastikustest seostest;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Analüüsib tervisekäitumise mõju füüsilisele, vaimsele ja sotsiaalsele tervisele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tervis kui heaoluseisund ja tervise aspektid - füüsiline tervis, vaimne tervis ja sotsiaalne tervis. Tervise aspektide vastastikused seosed.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited õpetajale",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://inimareng.ee/et/eluviisi-ja-vaimse-tervise-seosed-inimese-elukaarel/",
+                  "title": "Eluviisi ja vaimse tervise seosed inimese elukaarel"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=jY7OU0WiBvo"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=EUi9gW6YmJI"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://peaasi.ee/tunnikavad/",
+                  "title": "Vaimse tervise tunnikavad"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://tervis8.weebly.com/tervis.html",
+                  "title": "Näide füüsilise, vaimse ja sotsiaalse tervise vastastikustest seostes"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=WR4Xcqhe4oY"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=KfQJZYvKiKA"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=WtqgCy_Dn7o"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://peaasi.ee/uni/",
+                  "title": "Uni"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=y6hJa5LoQOs"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://valvekliinik.ee/kasulikku/nutikael-kui-moodsa-inimese-kaelavalude-pohjustaja/",
+                  "title": "Nutikael kui moodsa inimese kaelavalude põhjustaja"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=I4ELL21FHIA"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=y3aJYDkqmkU"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://virtuaal.tervisemuuseum.ee/pandeemiad",
+                  "title": "Pandeemiad"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://synaps.simplecast.com/episodes/sunaps-70-unenaod-ja-unelood",
+                  "title": "Unenäod ja Unelood"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://eis.ekk.edu.ee/eis/ylesanded/13625/lahendamine",
+                  "title": "Tervise valdkonnad"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://tervisemuuseum.ee/exhibition/terve-tervis-soo-liigu-suhtle-puhka/",
+                  "title": "Terve tervis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kehaline aktiivsus ja toitumine",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Analüüsib kehalise aktiivsuse ja toitumise mõju tervisele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tervisliku eluviisi (toitumine, kehaline aktiivsus, piisav puhkus ja uni) mõju tervise erinevatele aspektidele.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited õpetajale",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.sm.ee/tervise-edendamine-ravi-ja-ravimid/tervise-edendamine-ja-haiguste-ennetamine/toitumine-ja-liikumine",
+                  "title": "Toitumine ja liikumine"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://toitumine.ee/kuidas-tervislikult-toituda",
+                  "title": "Kuidas tervislikult toituda"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.terviseinfo.ee/et/tervise-edendamine/koolis/olulised-abimaterjalid/toitumine-ja-liikumine/opetajaraamat",
+                  "title": "Toitumine ja liikumine. I-III kooliaste. õpetajaraamat"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.tai.ee/et/uudised/laste-soomisharjumuste-kujundamine",
+                  "title": "Laste söömisharjumuste kujundamine"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.tai.ee/et/valjaanded/eesti-taiskasvanud-rahvastiku-tervisekaitumise-uuring-2022-metoodika-ja-standardtabelite",
+                  "title": "Eesti täiskasvanud rahvastiku tervisekäitumise uuring"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://intra.tai.ee/images/prints/documents/14274488161_T2iskasvanud_rahvastiku_tervisek2itumise_uuring_2014.pdf",
+                  "title": "Tervisekäitumise uuring, 2020"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.tai.ee/et/valjaanded/eesti-kooliopilaste-tervisekaitumise-uuring-20212022-oppeaasta-tabelid",
+                  "title": "Eesti kooliõpilaste tervisekäitumise uuring"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://www.tai.ee/sites/default/files/2022-11/Kehaaktiivsuse_voldik_web.pdf",
+                  "title": "WHO soovitused kehalise aktiivsuse kohta"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://synaps.simplecast.com/episodes/sunaps-61-hakkame-liikuma",
+                  "title": "Hakkame liikuma!"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://synaps.simplecast.com/episodes/sunaps-54-kuidas-lapsed-toituvad-ja-liiguvad",
+                  "title": "Kuidas lapsed toituvad ja liiguvad?"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://liikumisaasta.ee/",
+                  "title": "Liikumisaasta 2023 veebileht"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://menu.err.ee/292586/kiropraktik-jagas-napunaiteid-kuidas-tervislikult-istuda",
+                  "title": "Kuidas tervislikult istuda?"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://arhiiv.err.ee/video/vaata/heureka-mida-peaks-sooma",
+                  "title": "Mida peaks sööma?"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://arhiiv.err.ee/video/vaata/heureka-kuidas-teha-trenni",
+                  "title": "Kuidas teha trenni?"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://maailmakool.ee/materjalid/17749/fotonaitus-sa-oled-mida-sood/",
+                  "title": "Sa oled, mida sööd"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://maailmakool.ee/materjalid/8526/toidupaevad-koolis/",
+                  "title": "Toidupäevad koolis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tervisealased infoallikad",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Teab, mille põhjal ära tunda teaduslikku tervisealast infot;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Analüüsib ja hindab erinevate tervisealaste infoallikate, tervisetoodete ja ravivõtete usaldusväärsust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tervisealased infoallikad. Tervisealaste infoallikate usaldusväärsus.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited õpetajale",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://novaator.err.ee/k/meediataip",
+                  "title": "Meediataip"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://novaator.err.ee/1149853/kuidas-ara-tunda-teaduslikult-toestatud-ja-teaduslikuna-naivat-infot",
+                  "title": "Kuidas ära tunda teaduslikult tõestatud ja teaduslikuna näivat infot?"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://novaator.err.ee/1068156/mis-on-valeuudis",
+                  "title": "Mis on valeuudis?"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sisu.ut.ee/teadustoo_alused/teaduslik-ja-tavam%C3%B5tlemine",
+                  "title": "Teaduslik ja tavamõtlemine"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://terviseinfo.ee",
+                  "title": "terviseinfo.ee"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://tai.ee",
+                  "title": "tai.ee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Vaimne heaolu",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Analüüsib tegureid, mis aitavad säilitada inimese vaimset heaolu, märkab ohte, oskab kaaslast toetada ja vajaduse korral abi otsida;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Vaimset heaolu säilitada aitavad tegevused ja mõttelaad. Stress. Stressiga toimetulek. Kriis, selle olemus. Käitumine kriisiolukorras. Abistamine, abi otsimine ja leidmine.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited õpetajale",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://peaasi.ee/vitamiinitest/",
+                  "title": "Vaimse tervise vitamiinide test"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://peaasi.ee/testi-oma-vaimset-tervist/",
+                  "title": "Testi oma vaimset tervist"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://peaasi.ee/kriisiplaan/",
+                  "title": "Vaimse tervise kriisiplaan"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://peaasi.ee/koolistress/",
+                  "title": "Koolistressi test"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://peaasi.ee/aeg-paev-igapaevased-kohustused/",
+                  "title": "Ajaplaneermise abivahendid"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=yN2zH8VRGHE"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=vpHBoEee4Cs"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=gbS_xsC7FG0"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=ybPh4HyyfRo"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=t69Y5urLCcI"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=IIJTU-gx-5g"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://synaps.simplecast.com/episodes/sunaps-69-sajanditagune-eneseabi",
+                  "title": "Sajanditagune eneseabi"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://peaasi.ee/wp-content/uploads/2014/11/Laste-vaimne-tervis-koolis.pdf",
+                  "title": "Koolilaste ja noorte vaimne tervis"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://heaolu.ess.ut.ee/",
+                  "title": "Heaolumeeter"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/31600-Peaasi-ee-materjalid-klassijuhataja-tunniks-Vaimse-tervise-hoidmine-8-12-klass",
+                  "title": "Vaimse tervise hoidmine"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/31601-Peaasi-ee-materjalid-klassijuhataja-tunniks-Arevus-8-12-klass",
+                  "title": "Ärevus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/31602-Peaasi-ee-materjalid-klassijuhataja-tunniks-Depressioon-8-12-klass",
+                  "title": "Depressioon"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://peaasi.ee/psuhholoogiline-kriis/",
+                  "title": "Psühholoogiline kriis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tervisenäitajad",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Toob näiteid olulisematest tervisenäitajatest;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Analüüsib enda terviseseisundit tervisenäitajate põhjal ning kavandab vajaduse korral muudatusi eluviisis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Objektiivsed ja subjektiivsed tervisenäitajad. Tegurid, mis mõjutavad enda terviseseisundit.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited õpetajale",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://tai.ee/sites/default/files/2023-08/Riski%20ja%20kaitsetegurid%20infograafika.pdf",
+                  "title": "Laste ja noorte riski- ja kaitsetegurid"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://tai.ee/sites/default/files/2023-03/HBSC_Tabeliraamat_2022.pdf",
+                  "title": "Eesti kooliõpilaste tervisekäitumise uuring"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://tai.ee/sites/default/files/2023-03/Eesti_kooli%C3%B5pilaste_tervisekaitumuine_veeb.pdf",
+                  "title": "Eesti kooliõpilaste tervisekäitumine"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://tervisemuuseum.ee/haridus/muuseumitunnid/iii-kooliaste/",
+                  "title": "Kuidas töötab minu süda"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://synaps.simplecast.com/episodes/sunaps-56-positiivne-prognoos-sudamele",
+                  "title": "Positiivne prognoos südamele"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Finimeseopetuse.weebly.com%2Fuploads%2F1%2F3%2F8%2F2%2F13824119%2Ftleht._mis_on_tervis._tervisenitajad..docx&amp;wdOrigin=BROWSELINK",
+                  "title": "Tervisenäitajad"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://eis.ekk.edu.ee/eis/ylesanded/13644/lahendamine",
+                  "title": "Tervisenäitajad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eluviis, keskkond ja pärilikkus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Analüüsib ja toob näiteid eluviisi, keskkonna ja pärilikkuse mõjust tervisele ning eristab tervislikke ja ebatervislikke otsuseid igapäevaelus;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eluviisi, keskkonna ja pärilikkuse ning tervisteenuste mõju inimese tervisele. Tervisliku eluviisi tähtsus igapäevaelus. Tegurid, mis mõjutavad Eesti rahvastiku (sh noorte) tervisenäitajaid.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited õpetajale",
+              "children": [
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=H02-_RXk3HA"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://inimareng.ee/et/noorte-vaimne-tervis-ja-heaolu-ning-selle-seos-eluviisiga/",
+                  "title": "Noorte vaimne tervis ja heaolu ning selle seos eluviisiga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Keskkonnateadlik tegevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Toob näiteid keskkonnateadlikest tegevustest ning rakendab mõnda nendest enda kodukohas või koolis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keskkonnatedalik tegevus lähiümbruses ja kogukonnas kui terviseedendus.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited õpetajale",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://jupiter.err.ee/1229758/homme-saabub-paradiis",
+                  "title": "Homme saabub paradiis"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sisu.ut.ee/kommunikatsioon/423-sotsiaalreklaam",
+                  "title": "Sotsiaalreklaam"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://jalajalg.positium.ee/",
+                  "title": "Ökojalajälje kalkulaator"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://maailmakool.ee/materjalid/95/okoloogiline-jalajalg/",
+                  "title": "Ökoloogiline jalajälg"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://kliimaministeerium.ee/elukeskkond-ringmajandus/jaatmed",
+                  "title": "Jäätmed"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=ZvbdfaUD4Vs"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://jupiter.err.ee/1608978203/kallis-kolmeteistaastane",
+                  "title": "Kallis kolmeteistaastane"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://maailmakool.ee/kliimakool/",
+                  "title": "Kliimakooli kaardimäng"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://maailmakool.ee/materjalid/178/maailma-noored/",
+                  "title": "Tarbimiseteemalised töötoad"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://maailmakool.ee/materjalid/13260/kliima-tootuba/",
+                  "title": "Kliimamuutused! Ja sinu panus ..?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Suhted ja seksuaalsus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tervete ja turvaliste suhete (sh seksuaalsuhete) hoidmine ja väärtustamine. Seksuaalsus ja seksuaalkäitumise mitmekesisus. Keha ja välimuse muutmine, sh võimalikud terviseriskid, müüdid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Väärtustab positiivseid suhteid, nende loomist ja hoidmist. Mõistab ja aktsepteerib inimliku läheduse erinevaid avaldumisviise.",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "Teab, et inimesed erinevad rahvuse, soo, vaimse ja füüsilise suutlikkuse ning vaadete ja usutunnistuste poolest;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "on erinevuste suhtes salliv.",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "Mõistab ja aktsepteerib seksuaalse arengu individuaalsust, seksuaalse identiteedi erinevaid avaldumisvorme ja seksuaalõigusi.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Väärtustab partnerite vastutustundlikku käitumist seksuaalsuhetes. Oskab leida infot seksuaaltervist puudutavate küsimuste kohta",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Suhted",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Selgitab suhete loomise, säilitamise ja lõpetamise võimalusi ennast ja teisi kahjustamata;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Kirjeldab ja toob näiteid erinevatest tunnete ja läheduse avaldumisviisidest, nt meeldimine, sõprus, armumine, armastus;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Suhe. Suhte liigid (peresuhe, sõprussuhe, paarisuhe). Lähisuhe ja tunded lähisuhtes. Paarisuhte loomine, säilitamine, katkemine. Inimlik lähedus ja soojus suhetes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lähisuhtevägivald",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Analüüsib suhtevägivalla avaldumisvorme ja põhjusi, teab, kuidas käituda lähisuhtevägivalla korral ning toob näiteid abi saamise võimalustest;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Seksuaalsus ja identiteet",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Selgitab seksuaalsuse olemust, inimese seksuaalset arengut ning selle individuaalsust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Mõistab erineva seksuaalse orientatsiooni ja soolise identiteediga inimeste õigust võrdsele ja lugupidavale kohtlemisele.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Turvaline seksuaalkäitumine",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Toob näiteid turvalisest seksuaalkäitumisest ja seksuaalõigustest.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Analüüsib turvalise seksuaalkäitumise ja abi saamise võimalusi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Müüdid ja soostereotüübid",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Toob esile seksuaalkäitumisega seotud müütide ja soostereotüüpsete hoiakute mõju inimese tervisekäitumisele;",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Turvalisus, tervise- ja riskikäitumine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tõhusad sotsiaalsed oskused aitavad riskikäitumist vähendada nii isiklikul ja ühiskonna tasandil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Kasutab terviseinfo saamiseks teaduspõhiseid allikaid ja spetsialistide abi.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Mõistab füüsilise, vaimse ja sotsiaalse tervise vastastikust seost ja neid mõjutavaid tegureid.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Koolikiusamine ja vägivald",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Demonstreerib õpisituatsioonis inimväärikust alandavale käitumisele reageerimise viise ja abi saamise võimalusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Koolikiusamine, koolivägivald ja teised sotsiaalsete suhetega seotud vägivalla vormid. Tõhus toimetulek ja abi saamise võimalused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Uimastitega seotud riskikäitumine",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Analüüsib uimastitega seotud riskikäitumise tagajärgi inimese toimetulekule ning sekkumise võimalusi indiviidi ja ühiskonna tasandil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tõhusad enesekohased ja sotsiaalsed oskused riskikäitumisega toimetulekul. Uimastid ja nende toime kesknärvisüsteemile. Uimastitega seonduvad väärarvamused. Uimastite tarvitamise isiklikud, sotsiaalsed, majanduslikud ja juriidilised riskid. Sõltuvus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Esmaabi ja ohuolukorrad",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Demonstreerib õpisituatsioonis esmaabi osutamist ja oskab vajaduse korral otsida abi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Esmaabi põhimõtted ja käitumine ohuolukordades</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikad ja lisamaterjalid",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://peaasi.ee/wp-content/uploads/2023/06/MINU_UNEVIHK_NOORTELE_A4_veeb.pdf",
+          "title": "Minu unevihik noortele"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/wp-content/uploads/2016/02/Unep%C3%A4evik-1024x676.jpg",
+          "title": "unepäevik"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.postermywall.com/index.php/m/posters"
+        },
+        {
+          "kind": "link",
+          "href": "http://Peaasi.ee",
+          "title": "Peaasi.ee"
+        },
+        {
+          "kind": "link",
+          "href": "http://Valvekliinik.ee",
+          "title": "Valvekliinik.ee"
+        },
+        {
+          "kind": "link",
+          "href": "http://tervis8.weebly.com/liikumine.html",
+          "title": "Liikumine"
+        },
+        {
+          "kind": "link",
+          "href": "https://docs.google.com/document/d/1OSElAAOU75q0mhr7m2HqmETBOINWC74gO4dwdnAOjnw/edit",
+          "title": "Miniuuring. Kehaline aktiivsus - Google'i dokumendid"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.terviseinfo.ee/images/prints/toitumine-ja-liikumine-koolidele/KIII_T9_Aktiivtoo_SITUATSIOONIANALYYS.pdf",
+          "title": "Situatsioonianalüüs."
+        },
+        {
+          "kind": "link",
+          "href": "http://toitmine.ee",
+          "title": "toitmine.ee"
+        },
+        {
+          "kind": "link",
+          "href": "http://Toitumine.ee",
+          "title": "Toitumine.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://tai.ee/et/valjaanded/eesti-kooliopilaste-tervisekaitumise-uuring-20212022-oppeaasta-tabelid",
+          "title": "Eesti kooliõpilaste tervisekäitumise uuring."
+        },
+        {
+          "kind": "link",
+          "href": "http://Virtuaalkliinik.ee",
+          "title": "Virtuaalkliinik.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.virtuaalkliinik.ee/uudised/2023/03/03/eesti-kooliopilaste-tervisemured-narvilisus-ja-uinumisraskused-masendus-ja-kurbus-selja-ja-peavalud",
+          "title": "Eesti kooliõpilaste tervisemured: närvilisus ja uinumisraskused, masendus ja kurbus, selja- ja peavalud"
+        },
+        {
+          "kind": "link",
+          "href": "https://tervise.geenius.ee/rubriik/uudis/uuring-eesti-noorte-hinnangud-oma-elule-tervisele-ja-peresuhetele-on-halvenenud/",
+          "title": "Uuring: Eesti noorte hinnangud oma elule, tervisele ja peresuhetele on halvenenud"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/heaolu/tervis",
+          "title": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/heaolu/tervis"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.sm.ee/rahvastiku-tervise-arengukava-2020-2030",
+          "title": "https://www.sm.ee/rahvastiku-tervise-arengukava-2020-2030"
+        },
+        {
+          "kind": "link",
+          "href": "https://docs.google.com/document/d/1e1Cl6kH9QrwAWRFkqoUfQ0tI-Sgrp-NZdaip46gkFOw/edit",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "http://maailmakool.ee",
+          "title": "maailmakool.ee"
+        },
+        {
+          "kind": "link",
+          "href": "http://jupiter.err.ee",
+          "title": "jupiter.err.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://docs.google.com/document/d/1TRTuGhsiaqegb08sf-rFJQYdfsLSpxAg/edit",
+          "title": "Mis on sõprus?"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/video/vaata/heureka-miks-inimesed-armuvad",
+          "title": "Miks inimesed armuvad”"
+        },
+        {
+          "kind": "link",
+          "href": "http://Seksuaaltervis.ee",
+          "title": "Seksuaaltervis.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/suhted/lahisuhted",
+          "title": "Lähisuhted"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/13934/sudameasi/",
+          "title": "“Südameasi”/ “In a Heartbeat”."
+        },
+        {
+          "kind": "file",
+          "src": "https://www.tai.ee/sites/default/files/2022-04/seksuaalkasvatuse_opetajaraamat_2022_veeb.pdf",
+          "title": "Seksuaalkasvatus. II ja III kooliaste. Õpetaja raamat"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/394",
+          "title": "Terved ja turvalised suhted."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/395",
+          "title": "Terved ja turvalised suhted."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/kit/395/chapter/21338",
+          "title": "Terved ja turvalised suhted"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/kit/395/chapter/21337",
+          "title": "Soostereotüübid"
+        },
+        {
+          "kind": "file",
+          "src": "https://astrablobs.blob.core.windows.net/kitcontent/032616a9-8278-4bd2-9493-3a7174906007/4d4d7b23-2dae-473b-836e-e6bcede1faa2/f14bf904-9fff-4b63-813c-802e87d1ceb3.pdf",
+          "title": "kohtinguvägivalla vormid"
+        },
+        {
+          "kind": "file",
+          "src": "https://astrablobs.blob.core.windows.net/kitcontent/032616a9-8278-4bd2-9493-3a7174906007/f4f83ce4-79af-48c7-aa45-740849c66fcb/c7987d1a-6030-4eca-b7a9-50d479730da5.pdf",
+          "title": "vägivaldsed käitumisviisid"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/kit/394/chapter/22603",
+          "title": "Nõu ja abi"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.kriminaalpoliitika.ee/noortele/mida-teha-kui#oled-kogenud-kohtinguvagivalda",
+          "title": "“Mida teha, kui oled kogenud kohtinguvägivalda”"
+        },
+        {
+          "kind": "link",
+          "href": "http://Kriminaalpoliitika.ee",
+          "title": "Kriminaalpoliitika.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://eluliin.ee/sonavagi",
+          "title": "https://eluliin.ee/sonavagi"
+        },
+        {
+          "kind": "link",
+          "href": "https://panopto.ut.ee/Panopto/Pages/Viewer.aspx?id=e6ca6c7e-ed54-4200-a698-ac1800d28e06",
+          "title": "„Seksuaalsuse mõiste“"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.itspronouncedmetrosexual.com/2018/10/the-genderbread-person-v4/",
+          "title": "Genderbread person"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/633949",
+          "title": "Eesti Vabariigi põhiseaduse"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.lgbt.ee/sonastik",
+          "title": "Sõnastikuga"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/100063/tootuba-kula-ehitamine/",
+          "title": "Töötuba “Küla ehitamine”"
+        },
+        {
+          "kind": "link",
+          "href": "https://tervisemuuseum.ee/sunaps-59-sugu-ja-sooline-enesemaaratlus/",
+          "title": "Sugu ja sooline enesemääratlus"
+        },
+        {
+          "kind": "link",
+          "href": "https://synaps.simplecast.com/episodes/sunaps-62-sugu-ja-sooline-uleminek",
+          "title": "Sugu ja sooline üleminek"
+        },
+        {
+          "kind": "link",
+          "href": "https://opleht.ee/2022/11/koolinoortega-tervetest-seksuaalsuhetest-raakimine-aitab-noori-kaitsta/",
+          "title": "Koolinoortega tervetest seksuaalsuhetest rääkimine aitab noori kaitsta"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.just.ee/eapiir",
+          "title": "Seksuaalse enesemääramise eapiir."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.tiktok.com/@seksuaaltervis.ee",
+          "title": "lühivideod"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/noorte-noustamiskeskused",
+          "title": "noorte nõustamiskeskusesse"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/seksuaaltervise-abc-podcast#sektsioon-1",
+          "title": "Miks me peame üldse rääkima seksuaaltervisest ja seksist ning kuidas sellest rääkima peaks?"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.inimoigusteraamat.ee/sites/default/files/2022-03/Inim%C3%B5igused_%C3%95iguskantsleri%20Kantselei%202022.pdf",
+          "title": "nimõigused"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.inimoigusteraamat.ee/raamat/inimoiguste-raamat/11-naiste-oigused-ja-lgbtqi-inimeste-oigused-soolisus-ja-seksuaalsus",
+          "title": "Naiste õigused ja LGBTQI-inimeste õigused – soolisus ja seksuaalsus inimõigustes"
+        },
+        {
+          "kind": "link",
+          "href": "https://humanrights.ee/materjalid/vordse-kohtlemise-kasiraamat/",
+          "title": "Võrdse kohtlemise käsiraamat"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/100051/pogenemine/",
+          "title": "\"Põgenemine\"."
+        },
+        {
+          "kind": "file",
+          "src": "https://intra.tai.ee/images/prints/documents/138676835439_raagime_tervisest%20PDF.pdf",
+          "title": "„Turvaseksi BINGO“"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/seksuaalsus/seksuaaloigused",
+          "title": "Seksuaalõigused"
+        },
+        {
+          "kind": "link",
+          "href": "https://synaps.simplecast.com/episodes/sunaps-37-kondoomidest-kuidas-kumm-kaitsma-hakkas",
+          "title": "#37 - Kondoomidest. Kuidas kumm kaitsma hakkas?"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.tiktok.com/@seksuaaltervis.ee/video/7034611188323372293",
+          "title": "meetodite tõhusus"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.tiktok.com/@seksuaaltervis.ee/video/7026358428163493126",
+          "title": "pikatoimelised meetodid"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19065-Kodu-ja-argielu-Vagivald-suhetes/222383#222387-Seksuaaloigused",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.uttv.ee/naita?id=16558",
+          "title": "https://www.uttv.ee/naita?id=16558"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/@julgeraakidakummonseks7914/videos",
+          "title": "Julge rääkida: Kum"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/14poleokei#sektsioon-1",
+          "title": "#14poleokei"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/5669-Rasestumisvastased-vahendid",
+          "title": "Rasestumisvastased vahendid"
+        },
+        {
+          "kind": "link",
+          "href": "http://viljakusest.ee",
+          "title": "viljakusest.ee"
+        },
+        {
+          "kind": "link",
+          "href": "http://youtube.com",
+          "title": "youtube.com"
+        },
+        {
+          "kind": "link",
+          "href": "https://etunnid.tagasikooli.ee/e-tund/suhtes-voi-mitte-ei-on-ei-mida-see-tahendab/",
+          "title": "Suhtes või mitte, ei on ei. Mida see tähendab?"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/vagivald/muudid-kohtingu-ja-seksuaalvagivalla-kohta",
+          "title": "Müüdid kohtingu- ja seksuaalvägivalla kohta"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/seksuaalsus/seksuaalsus-ja-meedia",
+          "title": "Seksuaalsus ja meedia"
+        },
+        {
+          "kind": "link",
+          "href": "https://synaps.simplecast.com/episodes/sunaps-50-seksuaalharidus-igauheni",
+          "title": "Seksuaalharidus igaüheni!"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.researchgate.net/publication/349426507_NOORTE_ARUSAAM_JA_OOTUSED_SEKSUAALHARIDUSEST",
+          "title": "“Noorte arusaam ja ootused seksuaalharidusele”"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/kuidas-soorollid-on-seotud-perevagivallaga/",
+          "title": "Kuidas soorollid on seotud perevägivallaga?"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/1608706933/bangla-surfitudrukud",
+          "title": "Bangla surfitüdrukud."
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14297-Pornograafia",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/17579-Pornograafia-muudid",
+          "title": "SIIN"
+        },
+        {
+          "kind": "file",
+          "src": "https://maailmakool.ee/wp-content/uploads/2021/03/kes-ma-olen.pdf",
+          "title": "Töötuba: Kes ma olen?"
+        },
+        {
+          "kind": "link",
+          "href": "http://Kiusamisvabakool.ee",
+          "title": "Kiusamisvabakool.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://kiusamisvaba.ee/kiusamine-ja-abi/abiks-opilasele/",
+          "title": "abiks õpilasele"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.oiguskantsler.ee/kool-kiusamisest-vabaks/",
+          "title": "kool kiusamisest vabaks"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.kiusamisvaba.ee/app/uploads/2022/10/Tunnikava-naidis-turvatunne-ja-kiusamise-ara-hoidmine.-Koolidele-toeks-kiusuennetuses-marts-2022-.pdf",
+          "title": "turvatunne ja kiusamise ära hoidmine."
+        },
+        {
+          "kind": "link",
+          "href": "https://kiusamisvaba.ee/",
+          "title": "Kiusamisvaba Kool"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.kiusamisvaba.ee/app/uploads/2022/09/Kuberkiusu-flaier-2021.pdf",
+          "title": "Küberkiusu Flaier 2021"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/rikutud-elud-ja-katkine-minapilt-koolimajast-armid-kogu-eluks/",
+          "title": "RIKUTUD ELUD JA KATKINE MINAPILT – KOOLIMAJAST ARMID KOGU ELUKS"
+        },
+        {
+          "kind": "link",
+          "href": "http://Muurileht.ee",
+          "title": "Muurileht.ee"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.sm.ee/sites/default/files/content-editors/Lapsed_ja_pered/kreete_raamat_est.pdf",
+          "title": "https://www.sm.ee/sites/default/files/content-editors/Lapsed_ja_pered/kreete_raamat_est.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/100002/vn-dokfoto-vincent-tremeau/",
+          "title": "\"Kui ma ükskord suureks saan\""
+        },
+        {
+          "kind": "link",
+          "href": "https://noored.alkoinfo.ee/mang-mida-sina-siis-arvasid/",
+          "title": "Kas joomine teeb ägedaks?"
+        },
+        {
+          "kind": "link",
+          "href": "https://noored.alkoinfo.ee/mang-kuidas-oelda-ei/",
+          "title": "Kuidas öelda ei"
+        },
+        {
+          "kind": "link",
+          "href": "https://noored.alkoinfo.ee/mang-surve/",
+          "title": "Kuidas mind survestatakse?"
+        },
+        {
+          "kind": "link",
+          "href": "https://noored.alkoinfo.ee/mang-kuidas-sina-kaituksid/",
+          "title": "Kuidas mina käituksin?"
+        },
+        {
+          "kind": "link",
+          "href": "https://noored.alkoinfo.ee/",
+          "title": "Testi oma teadmisi! Kui palju tead alkoholist ja selle tarbimisest noorte hulgas?"
+        },
+        {
+          "kind": "file",
+          "src": "https://intra.tai.ee/images/prints/documents/144248000590_Uimastiennetuse_opetajaraamat.pdf",
+          "title": "Uimasti ennetuse õpetajaraamat põhikoolile"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.narko.ee/",
+          "title": "narko.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://tai.ee/et/sotsiaaltoo/uimastite-tarvitamise-pohjused-ja-levimus",
+          "title": "Uimastite tarvitamise põhjused ja levimus"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.tai.ee/sites/default/files/2023-05/E-sigarettide_tarvitamise_pidurdamine_ja_ennetamine_koolis.pdf",
+          "title": "E-sigarettide tarvitamise pidurdamine ja ennetamine koolis"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.tai.ee/sites/default/files/2021-05/Mis-Ennetuses-EST-veeb.pdf",
+          "title": "Mis toimib ennetuses ja mis mitte?"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.tai.ee/et/valjaanded/elanikkonna-hoiakud-ja-arvamused-alkoholi-tarvitamisest-ehaat",
+          "title": "Elanikkonna hoiakud ja arvamused alkoholi tarvitamisest"
+        },
+        {
+          "kind": "link",
+          "href": "http://Alkoinfo.ee",
+          "title": "Alkoinfo.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://alkoinfo.ee/et/moju/",
+          "title": "Alkoholi mõju."
+        },
+        {
+          "kind": "link",
+          "href": "http://Peaaasi.ee",
+          "title": "Peaaasi.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/soltuvuste-ja-soltuvushairete-abi/",
+          "title": "Sõltuvuste ja sõltuvushäirete abi"
+        },
+        {
+          "kind": "link",
+          "href": "https://synaps.simplecast.com/episodes/sunaps-63-alkoholipoliitika-ja-karskusliikumine-eestis",
+          "title": "Alkoholipoliitika ja karskusliikumine Eestis"
+        },
+        {
+          "kind": "link",
+          "href": "https://synaps.simplecast.com/episodes/sunaps-52-tupsu-on",
+          "title": "Tupsu on?"
+        },
+        {
+          "kind": "link",
+          "href": "https://milos.ee/veipimine-suutu-maitsega-pulk-voi-soltuvust-tekitav-loks/?fbclid=IwAR357xhNYmbWc-fY6jTGy9rI0hbA8JbNyNxMulkqFM7Kv0mYWelQRtFILkw",
+          "title": "eipimine - süütu maitsega pulk või sõltuvust tekitav lõks?"
+        },
+        {
+          "kind": "link",
+          "href": "https://korgijook.ee/?fbclid=IwAR3nlG2smBF_jy9QCDYandhRoRA1l3cAKIrzGkQ0O2QeMWglahW8QMG4L2I",
+          "title": "Kõik mida peaksid teadma korgijoogist"
+        },
+        {
+          "kind": "link",
+          "href": "http://korgijook.ee",
+          "title": "korgijook.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/playlist?list=PLToC81bFUFndZbPeO0MnWZdmZS4Pu1khI",
+          "title": "Alkoholist ja müütidest."
+        },
+        {
+          "kind": "video",
+          "src": "https://vimeo.com/29771562"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.tai.ee/sites/default/files/2021-03/13341449787_Juhendmaterjal_filmi_Motteaine_juurde_Est.pdf",
+          "title": "Juhendmaterjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/1609000727/veipimissoltlased",
+          "title": "“Veipimissõltlased”"
+        },
+        {
+          "kind": "file",
+          "src": "https://tai.ee/sites/default/files/2023-05/nikotiinipadi_0.pdf",
+          "title": "Nikotiinipadi."
+        },
+        {
+          "kind": "file",
+          "src": "https://tai.ee/sites/default/files/2023-05/alko_tubaka_testostlemine_2022.pdf",
+          "title": "Alkohoolsete jookide ning tubaka- ja nikotiinitoodete testostlemine"
+        },
+        {
+          "kind": "file",
+          "src": "https://tai.ee/sites/default/files/2023-03/Noorte%20vanuse%20kontrollimine%20tubaka-%20ja%20nikotiinitoodete%20m%C3%BC%C3%BCmisel.%20Testostlemise%20uuringu%20tulemused%202022.pdf",
+          "title": "Noorte vanuse kontrollimine tubaka- ja nikotiinitoodete müümisel."
+        },
+        {
+          "kind": "link",
+          "href": "https://tai.ee/et/valjaanded/mida-sisaldab-e-sigareti-sissehingatav-aerosool",
+          "title": "Mida sisaldab e-sigareti sissehingatav aerosool?"
+        },
+        {
+          "kind": "link",
+          "href": "https://tai.ee/et/valjaanded/e-sigarettide-tarvitamise-pidurdamine-ja-ennetamine-koolis",
+          "title": "E-sigarettide tarvitamise pidurdamine ja ennetamine koolis"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.tai.ee/sites/default/files/2021-03/148231298737_esmase_abi_opetamine.pdf",
+          "title": "Esmase abi õpetamine I-III kooliastmes. Juhendmaterjal kooliõdedele"
+        },
+        {
+          "kind": "link",
+          "href": "https://synaps.simplecast.com/episodes/sunaps-67-murgistusteta-kevad",
+          "title": "Mürgistusteta kevad"
+        },
+        {
+          "kind": "link",
+          "href": "https://synaps.simplecast.com/episodes/sunaps-60-murgistuseta-talv",
+          "title": "Mürgistuseta talv"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.16662.ee/et",
+          "title": "Terviseameti mürgistusteabekeskuse koduleht"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.tlu.ee/opmat/tp/terviseopetus/esmaabi/index.html",
+          "title": "Esmaabi"
+        },
+        {
+          "kind": "link",
+          "href": "https://redcross.ee/koolitusmaterjalid",
+          "title": "Koolitusmaterjalid"
+        },
+        {
+          "kind": "link",
+          "href": "http://Veeohutus.ee",
+          "title": "Veeohutus.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://veeohutus.ee/suvi",
+          "title": "Avaleht - Veeohutus - Suvi - tule uuri, kuidas ennetada ja aidata - Päästeamet"
+        },
+        {
+          "kind": "link",
+          "href": "http://tthkkesmaabi.weebly.com/index.html",
+          "title": "Esmaabi"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/13880/lahendamine/edit",
+          "title": "Uppumise ennetamine ja käitumine uppumise korral"
+        },
+        {
+          "kind": "link",
+          "href": "http://Lastekas.ee",
+          "title": "Lastekas.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://kriis.ee/",
+          "title": "Kriis.ee"
+        }
+      ]
+    }
+  ]
+}

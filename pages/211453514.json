@@ -1,0 +1,979 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Keeleoskus võimaldab mõista ja väärtustada rahvuskultuuri. Õpilane väärtustab vene keelt kui oma emakeelt ja kogukondliku suhtluse vahendit, mis toetab teda oma identiteedi loomisel ning teadlikuks õppijaks kujunemisel.</p><p>Vene keele hea valdamine on vene õppekeelega klassis eduka õppimise eeldus kõigis õppeainetes. Ainevaldkonna õppeained toetavad eeskätt põhikooliõpilaste emakeele- ja kirjanduspädevuse ning kommunikatiivsete oskuste arengut. Põhikoolis pannakse alus õpilaste teadmistele ja oskustele, mis hõlmavad keele variante ning lubavad tulevikus toime tulla eriliigiliste tekstide vastuvõtu ja loomisega. Neis õppeainetes omandatakse keele- ja kirjandusteadmisi ning saadakse erinevaid lugemise, kirjutamise ja suhtlemise kogemusi.</p><p>1.–4. klassis on vene keel kirjandusega lõimitud õppeaine, milles taotletakse nii keele- kui ka kirjandusõpetuse eesmärke. Alates 5. klassist on vene keel ja kirjandus eraldi, kuid tugevasti lõimitud õppeained, mille kaudu arendatakse sihipärase lugemise, suulise keelekasutuse ja kirjutamise oskust.</p><p>I kooliastmes ja 4. klassis keskendutakse õpilaste teadmiste ja oskuste kujundamisel nii suulisele kui ka kirjalikule keelele. Kuulamine, kuuldust arusaamine ja kõnelemine on tihedalt seotud lugemis- ja kirjutamisoskuse arendamisega. Suuline keelekasutus hõlmab siin eneseväljendust tavaolukorras ning eakohase suulise teksti mõistmist ja edastamist. Tähtis on jutustamine kuuldu, nähtu, läbielatu, loetu, pildi, pildiseeria ja ettenähtud teema põhjal. Lugemise õpetamisel arendatakse lugemistehnilist vilumust ja kujundatakse oskust loetud tekstiga jõukohaste juhiste järgi eesmärgistatult töötada. Kirjutamise õpetamisel viimistletakse kirjatehnikat, kujundatakse õigekirjaoskust õpitud keelendite piires ning arendatakse suutlikkust väljendada end loovalt ja eesmärgipäraselt. Ilukirjanduse terviktekste valib õpilane õpetaja soovitusel lugemiseks nii vene, eesti kui ka välisautoritelt, arendades oskust loetud teost tutvustada, selle põhjal jutustada ja arutleda. Tähtis on kujundada lugemisharjumust, soodustada positiivset lugemiskogemust ja pakkuda lugemisrõõmu.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "I kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab rahvapärimust ja kultuuri mitmekesisust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab vene keelt kui kogukondliku kultuuri kandjat ja suhtluse vahendit;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "omandab vene keele lugemistehnika;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb eesmärgistatult eri allikatest ja keskkondadest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab eesmärgistatult eri liiki tekste käsikirjaliselt ja arvutil eri keskkondades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab end selgelt ja asjakohaselt suuliselt ning kirjalikult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib individuaalsete võimete piires eri liiki suulisi ja kirjalikke tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb eri tüüpi ja liiki tekstide ülesehitust ning mõistab nende sisu;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujundab lugemise kaudu esmaseid hoiakuid ja tõekspidamisi, väärtustab lugemist.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "I kooliastme õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "osaleb aktiivselt ja mõtestatult õppeprotsessis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kuulab eesmärgistatult, väljendab oma mõtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab suhtlemisel eakohast ja sobivat kõne- ja kirjakeelt, arvestab suhtlemisel partneriga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab helisid, hääli ja häälikuid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "omandab lugemistehnilise vilumuse ja teadliku lugemisoskuse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb joonis- ja kirjatähti, kasutab õigeid tähekujusid, kirjutab loetava käekirjaga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sooritab kirja eelharjutusi, arvestab etteantud juhendi ja juhendamisega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab mõtestatud lauseid, jutustavaid ja kirjeldavaid tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab õpitud keelendite ja keelereeglite piires õigesti ning loetava käekirjaga, vormistab kirjaliku töö korrektselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vormistab lihtsama kirjaliku töö arvutis, järgib õpitud keelereegleid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jutustab kuuldust, nähtust ja loetust, vajaduse korral kasutab juhendi abi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja eristab eri liiki tekste, analüüsib teksti ülesehitust, keelekasutust ja sisu, avaldab selle kohta arvamust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab teksti kohta küsimusi ja esitab vastuväiteid, teeb teksti põhjal märkmeid, võrdleb tekste omavahel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib ja loeb sobivaid tervikteoseid nii eesti kui ka maailma lastekirjandusest, kasutab raamatukogude infosüsteemi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujundab lugemise kaudu oma mõtte- ja tundemaailma, jagab lugemiskogemusi;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "rikastab lugemise kaudu oma sõnavara, kasutab sõnaraamatuid ja leiab sõnaartiklist vajalikku teavet.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "I kooliastme soovituslik õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Keele roll inimese elus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eri tüüpi sõnastikud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kuulamisoskus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpetaja, kaaslase ja tehnilise vahendiga esitatud teksti kuulamine, suulise juhendi järgi toimimine. Kuuldu ja nähtu kommenteerimine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Suhtlemisoskus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sobivate kõnetuste (palumine, küsimine, keeldumine, vabandust palumine, tänamine) ja viisakusväljendite valik suhtlemisel. Eri teemadel vestlemine, arutamine paaris ja rühmas. Oma suhtumise väljendamine, kaaslaste arvamuse küsimine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Graafika. Foneetika. Ortoeepia",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tähestik. Vene keele täis- ja kaashäälikute süsteem, hääliku ja tähe suhe. Tähtede <em>Е, Ё, Ю, Я</em> funktsioonid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kirja eelharjutuste sooritamine, joonis- ja kirjatähtede kirjutamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Väikeste ja suurte kirjatähtede õppimine, õiged tähekujud ning seosed, ühtlane kirjarida.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lugemisoskus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lugemistehnika arendamine õpetaja juhendamisel. Käsikirjalise teksti lugemine tahvlilt ja vihikust. Sõna, lause ja teksti lugemine ning sisu mõistmine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Leksikoloogia ja fraseoloogia",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõna kui keeleühik. Vanasõnad, kõnekäänud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Morfeemika (sõna koostis) ja morfoloogia",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Juur, eesliide, sufiks, muutelõpp. Sõnatüvi. Nimisõna üldiseloomustus. Nimisõnade sugu. Nimisõnade ainsus ja mitmus. Nimisõnade käänamine. Omadussõna üldiseloomustus. Omadussõna sugu, arv ning kääne. Isikulised asesõnad kui sidususvahendid lauses ja tekstis. Tegusõna üldiseloomustus. Eessõna üldiseloomustus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ortograafia ja interpunktsioon",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Väike- ja suurtähe kasutamine. Täis- ja kaashäälikute õigekiri sõna juurmorfeemis. Tähtede <em>Ъ</em> ja <em>Ь</em> kasutamine. Täishäälikute õigekiri tähtede <em>Ж, Ч, Ш, Щ</em> ja <em>Ц</em> järel. <em>НЕ</em> õigekiri tegusõnadega. Eessõnade õigekiri. Interpunktsioon: kirjavahemärgid lause lõpus. Poolitamisreeglid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Süntaks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõnaühendi põhisõna ja laiend. Lause põhitunnused. Lauseliigid suhtluseesmärgi järgi: väit-, käsk- ja küsilaused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kirjalik väljendusoskus. Töö vormistamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Töö vormistamine paberil loetavas käekirjas ja arvutis. Teksti ärakiri tahvlilt ja õpikust. Oma kirjavea parandamine. Tarbetekste (kutse, õnnitlus) kirjutamine näidise järgi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Jutustamis- ja kirjeldamisoskus, suuline väljendusoskus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Jutustava ja kirjeldava teksti ning teabeteksti lugemine. Sümbolite, skeemide, kaartide ja tabelite lugemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tekst",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teksti sidusus. Pealkiri, lõigud, jutu ülesehitus: alustus, sisu, lõpetus. loetava kohta küsimuste, kava, skeemi, kaardi koostamine. Suuliste ja kirjalike tekstide mitmekesisus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tekstiloome",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõna ja lause ladumine ning kirjutamine. Lausete moodustamine, laiendamine ja sidumine tekstiks. Jutule alguse ja lõpu kirjutamine. Ümberjutustuse kirjutamine. Jutu kirjutamine pildi täiendusena.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lugemiskogemus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vabalugemiseks sobivate teoste leidmine eesti, vene ja maailmakirjandusest. Autorite, nende elulugude ning loominguga tutvumine trüki- ja veebitekstide kaudu.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara arendamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõna tähendus(t)e selgitamine ja täpsustamine, aktiivse sõnavara laiendamine, lähedase ja vastandtähendusega sõna leidmine. Riimuvate sõnade leidmine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Teema käsitlemise fookus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><em>Teema käsitlemise fookus ja olulisuse põhjendus avatakse iga suure teemaploki juures.</em></p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kuulamisoskus ja suhtlemisoskus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppeprotsess, õppeaktiivsus, kõnekeel, kirjakeel, eesmärk, arvamus, suhtlemine, rühmatöö, paaristöö, arutlemine, juhend, juhendi järgimine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Темы для изучения:</strong> Прослушивание текста, представленного учителем, собеседником и техническим устройством, выполнение устных инструкций. Умение воспринимать информацию на слух. Комментирование услышанного и увиденного. Умение общаться. Подбор соответствующего стиля речи и вежливых выражений в общении. Общение на разные темы, обсуждение в парах и группах. Выражение своего мнения, интерес к мнению одноклассников.</p><p><strong>Формы и методы работы:</strong> Указанные результаты обучения носят комплексный характер и достигаются за счет изучения всех тем в I ступени. Мы развиваем соответствующие возрасту коммуникативные навыки и навыки активного участия в процессе обучения.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Помним, что для достижения указанных результатов обучения, мы можем организовать процесс обучения за пределами классной комнаты: проектное обучение, обучение на свежем воздухе и в путешествиях, экскурсии в театр, музей, библиотеку, встречи с писателями и переводчиками, участие в олимпиадах и конкурсах, тематические дни и недели.</p><p><em>Сквозные темы:</em> обучение в течение всей жизни и планирование карьеры, окружающая среда и устойчивое развитие, ценности и нравственность.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://oppekava.ee/valdkonnaraamat_vene/%20P%C3%B5hikooli-%20ja%20g%C3%BCmnaasiumiseadus",
+              "title": "Põhikooli valdkonnaraamat VENE KEEL JA KIRJANDUS"
+            },
+            {
+              "kind": "link",
+              "href": "http://riigiteataja.ee/",
+              "title": "riigiteataja.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/groups/671814313475183",
+              "title": "Группа ÕUESÕPE LASTEAIAS"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/groups/811398820537736",
+              "title": "Группа ÕPETAJALT ÕPETAJALE ÕPPEMATERJALID"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/groups/pedmas",
+              "title": "Группа ПЕДАГОГИЧЕСКАЯ МАСТЕРСКАЯ"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/groups/blended.learning.russia",
+              "title": "Группа Смешанное обучение"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/groups/651728875753653",
+              "title": "Группа Nina Zavrik - minu kakskeelne laps/мой двуязычный ребенок: Эстония/ Eesti"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/groups/208977229456446",
+              "title": "Группа КЛАД ПЕДАГОГИЧЕСКИХ ИДЕЙ"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/groups/184430342151485",
+              "title": "Группа УЧИТЕЛЬСКИЕ ФИШЕЧКИ"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/groups/2291752704209658/?hoisted_section_header_type=recently_seen&multi_permalinks=6958494644202084",
+              "title": "Группа LASTE TÖÖLEHTEDE KAUSTIK"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Формирующее оценивание, самооценивание. С первого класса учащийся активно участвует в процессе оценивания. Он оценивает как собственную работу, так и даёт обратную связь одноклассникам.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Graafika. Foneetika. Ortoeepia",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Foneetika. Ortoeepia. Häälik. Graafika. Tähestik. Vene keele täis- ja kaashäälikute süsteem. Hääliku ja tähe suhe. Tähed Е, Ё, Ю, Я.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Темы:</strong> Графика. Фонетика. Орфоэпия. Алфавит. Система гласных и согласных русского языка, соотношение гласных и букв. Буквы Е, Ё, Ю, Я.</p><p><strong>Формы и методы работы:</strong> Артикуляционная гимнастика. Упражнения для запоминания скороговорок. Игра «Доскажи словечко». Выполнение упражнений на распознавание устной и письменной речи. Беседа о звуках и буквах с опорой на «Ленту букв». Упражнения для запоминания алфавита. Работа с орфографическим словарём. Выполнение интерактивных упражнений.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Практические знания по теме, приобретенные на уроках русского языка, переносятся на другие предметы. <em>Сквозные темы:</em> обучение в течение всей жизни, окружающая среда и устойчивое развитие, информационная среда.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/88730"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2017/09/20/bukvy-eyoyuya-i-ih-funktsii-v-slovah-1-klass",
+              "title": "Буквы Е,Ё,Ю,Я и их функции в словах"
+            },
+            {
+              "kind": "link",
+              "href": "https://urok.1sept.ru/articles/587767",
+              "title": "Двойная роль букв Е, Ё, Ю, Я"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2013/02/06/sistema-uprazhneniy-po-razvitiyu-fonematicheskogo-slukha",
+              "title": "Система упражнений по развитию фонематического слуха"
+            },
+            {
+              "kind": "link",
+              "href": "https://infourok.ru/foneticheskie-uprazhneniya-na-urokah-russkogo-yazyka-v-nachalnoj-shkole-4421686.html",
+              "title": "Фонетические упражнения на уроках русского языка в начальной школе"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/materialy-dlya-roditelei/2013/05/12/uprazhneniya-na-znanie-alfavita",
+              "title": "Упражнения на знание алфавита"
+            },
+            {
+              "kind": "link",
+              "href": "https://eng.1sept.ru/view_article.php?ID=201001114",
+              "title": "Игровые задания в начальных классах: повторение алфавита"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/search?minAdded=2009&maxAdded=2023&sort=popularity&taxon=1002&minGrade=1&maxGrade=3",
+              "title": "Ekoolikott_Algklassid"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Оценивается умение распределять слова по алфавиту, выделять изучаемые звуки в словах, определять место нового звука в слове, объяснять отличие буквы от звука и воспринимать на слух аудиозапись.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Lugemisoskus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lugemisoskus. Lugemistehnika. Teksti liiged. Käsikirjaline tekst. Trüki- ja veebitekst. Tervikteosed. Teksti katkend. Sõna, lause ja teksti lugemine. Teksti sisu mõistmine. Teksti ülesehitus. Oma arvamus. Autori arvamus. Lastekirjandus. Ilukirjandus. Teabekirjandus. Raamatukogude infosüsteem. Autori elulugu, looming. Sõnavara. Sõnastik. Sõnaartikkel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Темы:</strong> Развитие техники чтения под руководством преподавателя. Чтение рукописного текста на доске и в тетради / учебнике. Чтение слов, предложений и текста и понимание содержания. Лексикология. Слово как языковая единица. Пословицы, поговорки.</p><p><strong>Формы и методы работы:</strong> Обучение видам чтения и отработки техники чтения. Работа с пословицами и скороговорками. Аналитическое чтение, комментированное чтение, самостоятельное чтение текста с предварительным заданием, составление плана / схемы / карты прочитанного, краткий пересказ прочитанного и практическая работа со словарём и словарной статьёй.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Речевая практика объединяет все учебные предметы. Практические знания по теме и навыки функционального чтения, приобретенные на уроках русского языка, переносятся на другие предметы. <strong>Сквозные темы:</strong> обучение в течение всей жизни, окружающая среда и устойчивое развитие, культурное самосознание, ценности и нравственность, информационная среда.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/search?minAdded=2009&maxAdded=2023&sort=popularity&taxon=1001&minGrade=1&maxGrade=3",
+              "title": "Интернет-ресурсы для сопровождения урока. Ekoolikott_Algklassid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.prodlenka.org/metodicheskie-razrabotki/97535-vidy-chtenija-na-urokah-v-nachalnoj-shkole",
+              "title": "ВИДЫ ЧТЕНИЯ НА УРОКАХ В НАЧАЛЬНОЙ ШКОЛЕ"
+            },
+            {
+              "kind": "link",
+              "href": "https://infourok.ru/rabota_s_razlichnymi_vidami_chteniya__v_nachalnyh_klassah__kak_odin_iz_sposobov_realizacii-184122.htm",
+              "title": "РАБОТА С РАЗЛИЧНЫМИ ВИДАМИ ЧТЕНИЯ В НАЧАЛЬНЫХ КЛАССАХ"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/raznoe/2018/03/27/effektivnye-vidy-chteniya-v-nachalnoy-shkole",
+              "title": "Эффективные виды чтения в начальной школе"
+            },
+            {
+              "kind": "file",
+              "src": "https://shbol.edu.yar.ru/metodicheskaya_kopilka/razvitie_navika_chteniya_v_nachalnih_klassah.pdf",
+              "title": "Развитие навыка чтения в начальных классах"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/chtenie/2019/07/30/50-vidov-chteniya",
+              "title": "50 видов чтения. Методическая разработка"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Оценивается умение воспринимать информацию на слух, читать предложения с разной интонацией, читать текст бегло и выразительно, отвечать на вопросы учителя по содержанию текста, кратко пересказывать прочитанное, находить слово и информацию о слове в словаре и понимать прочитанное.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Jutustamis- ja kirjeldamisoskus, suuline väljendusoskus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Jutustamis- ja kirjeldamisoskus, suuline väljendusoskus. Jutustava ja kirjeldava teksti ning teabeteksti lugemine. Lihtsamate sümbolite, skeemide, kaartide ja tabelite lugemine. Tekst. Teksti sidusus. Pealkiri, lõigud, jutu ülesehitus: alustus, sisu, lõpetus, loetava kohta küsimuste koostamine. Suuliste ja kirjalike tekstide mitmekesisus. Tekstide võrdlemine. Tekstiloome. Lugemiskogemus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Темы:</strong> Прослушивание текста, представленного учителем, собеседником или техническим устройством. Выполнение устных инструкций. Комментирование услышанного, прочитанного и увиденного. Работа с текстом: составление вопросов по прочитанному тексту, формулирование ответов на вопросы, поиск ключевых слов и предложений, составление плана, кластера, сравнительной таблицы.</p><p><strong>Формы и методы работы:</strong> Заполнение рабочих листов или выполнение тестовых заданий на основе прослушанного текста. Устное комментирование услышанного, ответы на вопросы по аудио-/ видеотексту. Работа в паре, в группе, составление рассказов разного типа на основе услышанной информации.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Интеграция с другими предметами: перекликается со всеми учебными предметами, на которых ученики работают с книгой. Речевая практика объединяет все учебные предметы. <em>Сквозные темы:</em> обучение в течение всей жизни и планирование карьеры; информационная среда.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "http://bookz.ru/",
+              "title": "Электронная библиотека"
+            },
+            {
+              "kind": "link",
+              "href": "https://infourok.ru/kartoteka-uprazhneniy-po-tehnike-chteniya-dlya-nachalnih-klassov-735530.html",
+              "title": "Картотека упражнений по технике чтения для начальных классов"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/dlya-kompleksov-detskii-sad-nachalnaya-shkola/2020/03/03/metody-raboty-s-tekstom-v",
+              "title": "Методы работы с текстом в начальной школе"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/chtenie/2020/07/09/rabota-s-tekstom-v-nachalnoy-shkole-iz-opyta-raboty",
+              "title": "Работа с текстом в начальной школе"
+            },
+            {
+              "kind": "link",
+              "href": "https://infourok.ru/vidi-raboti-s-tekstom-v-nachalnoy-shkole-932831.html",
+              "title": "Виды работы с текстом в начальной школе"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2019/01/03/pamyatka-kak-sostavit-plan-teksta",
+              "title": "Памятка «Как составить план текста»"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2020/04/07/plan-teksta-uchimsya-sostavlyat-plan-teksta",
+              "title": "План текста. Учимся составлять план текста"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2017/03/23/sistema-raboty-s-tekstom-v-nachalnoy-shkole",
+              "title": "Система работы с текстом в начальной школе"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Оценивается умение отвечать на вопросы по форме и содержанию текста, сравнивать явления, группировать по признакам, делиться своим впечатлением о прочитанном, обосновывать мнение, составлять вопросы по прочитанному, выделять ключевые тезисы и слова, составлять план и строить устное высказывание.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kirja eelharjutuste sooritamine, joonis- ja kirjatähtede kirjutamine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kirja eelharjutus. Joonis- ja kirjatäht. Väikeste ja suurte kirjatäht. Juhend. Loetav käekiri. Õiged tähekujud ning seosed. Ühtlane kirjarida. Kirjaliku töö vormistamine. Kirjavea parandamine. Politamisreegel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Темы:</strong> Выполнение предварительных упражнений по написанию букв, рисование и написание букв. Изучение строчных и прописных букв, правильная форма и соединение букв, равномерная линия письма. Техника письма. Оформление работы разборчивым почерком на бумаге. Исправление собственных ошибок.</p><p><strong>Формы и методы работы:</strong> При обучении технике письма обращаем внимание на скорость письма и читаемый почерк. Учим правильной позе при письме, правильному обращению с пишущими инструментами, правильной форме букв и соединению букв в слово, методам увеличения скорости письма и оформлению письменных работ.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Разнообразные занятия на уроках разных предметов помогают подготовить руку к письму, развивают общую координацию и мелкую моторику, ритм и направление движения руки при написании буквы, двигательную память. Интеграция с уроками искусства, трудового обучения, движения и музыки.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://goo.su/MngQ",
+              "title": "Интернет-ресурсы для сопровождения урока: Приемы работы над усвоением и различением букв"
+            },
+            {
+              "kind": "link",
+              "href": "https://goo.su/5EOwl",
+              "title": "Играем с буквами"
+            },
+            {
+              "kind": "link",
+              "href": "https://infourok.ru/sistema-uprazhneniy-po-formirovaniyu-umeniy-pisat-2341894.html",
+              "title": "Система упражнений по формированию умения писать"
+            },
+            {
+              "kind": "link",
+              "href": "https://videotutor-rusyaz.ru/uchenikam/testy-i-upragneniya/118-pravilaperenosaslovupragneniyaitest.html",
+              "title": "Упражнения по теме «Правила переноса слов»"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2012/10/10/sbornik-uprazhneniy-po-russkomu-yazykudelenie-slova-na",
+              "title": "Деление слова на слоги.Правила переноса"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/ru/search?minAdded=2009&maxAdded=2023&sort=popularity&taxon=1002&minGrade=1&maxGrade=3",
+              "title": "Ekoolikott_Algklassid"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Самое главное — направить ребенка на анализ собственной работы и сравнение ее с примерами учителя. При коррекции работы обращаем внимание на неправильные формы и соединения букв, орфографические ошибки и ошибки оформления текста.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ortograafia ja interpunktsioon",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Jutustav tekst. Kirjeldav tekst. Lause põhitunnused. Keelereegel. Ortograafia ja interpunktsioon. Lauseliigid suhtluseesmärgi järgi: väit-, käsk- ja küsilaused. Kirjavea parandamine. Interpunktsioon: kirjavahemärgid lause lõpus. Poolitamisreeglid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Темы:</strong> Орфография и пунктуация. Использование строчных и прописных букв. Правила переноса слова. Пунктуация: знаки препинания в конце предложения. Виды предложений по цели высказывания: повестовательное, вопросительное, побудительное. Правописание гласных и согласных в корневой морфеме слова. Использование букв Ъ и Ь. Написание гласных после Ж, Ч, Ш, Щ и Ц. Правописание предлогов. НЕ с глаголами.</p><p><strong>Формы и методы работы:</strong> Приём «Рюкзак». Приём «Лови ошибку». Приём «Телеграмма». Самостоятельная работа по выполнению упражнений из учебника. Диктант с заданиями в рабочем листе, подготовленном учителем.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Интеграция с другими предметами: речевая практика объединяет все учебные предметы. Практические знания по теме, приобретенные на уроках русского языка, переносятся на другие предметы. <em>Сквозные темы:</em> обучение в течение всей жизни и планирование карьеры; информационная среда.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://licey.net/free/4-russkii_yazyk/42-kurs_russkogo_yazyka_uprazhneniya/stages/836-112_pravopisanie_glasnyh_posle_shipyaschih.html",
+              "title": "Правописание гласных после шипящих"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2020/04/04/napisanie-glasnyh-posle-shipyashchih",
+              "title": "«Шипящие звуки.Написание гласных после шипящих». Презентация к уроку по русскому языку"
+            },
+            {
+              "kind": "link",
+              "href": "https://licey.net/free/4-russkii_yazyk/42-kurs_russkogo_yazyka_uprazhneniya/stages/835-111_upotreblenie_bukv__i_.html",
+              "title": "Употребление букв Ь и Ъ"
+            },
+            {
+              "kind": "link",
+              "href": "https://naymenok.ru/razdelitelnyj-i-znak-uprazhneniya/",
+              "title": "Разделительный Ъ и Ь знак: упражнения"
+            },
+            {
+              "kind": "link",
+              "href": "https://infourok.ru/kartochki-po-russkomu-yazyku-po-teme-ne-s-glagolami-4983522.html",
+              "title": "Карточки по русскому языку по теме «НЕ с глаголами»"
+            },
+            {
+              "kind": "link",
+              "href": "https://urok.1sept.ru/articles/606872",
+              "title": "Правописание НЕ с глаголами"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2019/01/21/sbornik-uprazhneniy-po-teme-pravopisanie-predlogov-i",
+              "title": "Сборник упражнений по теме: «Правописание предлогов и приставок»"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2022/01/26/primenenie-pravil-pravopisaniya-uprazhnenie-v-napisanii",
+              "title": "Применение правил правописания. Упражнение в написании предлогов с именами существительным"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2017/01/22/glasnye-posle-shipyashchih",
+              "title": "Гласные после шипящих"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2012/04/06/formirovanie-punktuatsionnoy-kultury-mladshikh-shkolnikov",
+              "title": "Формирование пунктуационной культуры младших школьников"
+            },
+            {
+              "kind": "link",
+              "href": "https://infourok.ru/uprazhneniya-v-pravilnoy-postanovke-znakov-prepinaniya-v-konce-predlozheniya-3106422.html",
+              "title": "Упражнения в правильной постановке знаков препинания в конце предложения"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/nachalnaya-shkola/russkii-yazyk/2021/01/24/test-po-russkomu-yazyku-na-temu-znaki-prepinaniya-v",
+              "title": "Тест по русскому языку на тему «Знаки препинания в конце предложений»"
+            },
+            {
+              "kind": "link",
+              "href": "https://infourok.ru/uprazhneniya-dlya-obobscheniya-temi-pravila-perenosa-slov-klass-3938854.html",
+              "title": "Упражнения для обобщения темы «Правила переноса слов»"
+            },
+            {
+              "kind": "link",
+              "href": "https://spishu.ru/perenos-slov",
+              "title": "Карточки с упражнениями по переносу слов"
+            },
+            {
+              "kind": "link",
+              "href": "https://multiurok.ru/files/uprazhnieniia-na-tiemu-vidy-priedlozhienii-po-tsie.html",
+              "title": "Упражнения на тему: «Виды предложений по цели высказывания и интонации»"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Оценивается умение применить на практике правила правописания сомнительных звонких/глухих согласных, безударных гласных, непроизносимых согласных в корне, использования букв Ъ и Ь, написания гласных после Ж, Ч, Ш, Щ и Ц, написания предлогов и правописания НЕ с глаголами.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Töö vormistamine arvutis",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digivahendid. Töö arvutis. Töö vormistamine arvutis. Keelereeglite järgimine arvutis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Темы:</strong> Умение выразить свои мысли в электронном тексте. Исправление ошибок в тексте. Создание текста из слов и предложений, оформление его в электронном виде. Структурирование, расширение и объединение предложений в текст.</p><p><strong>Формы и методы работы:</strong> Необходимо организовать тренировочные упражнения в компьютерном классе так, чтобы у каждого ученика была возможность работать в электронной среде. Также обязательно следует провести беседы / уроки на тему безопасного общения в сети.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Сквозные темы:</strong> окружающая среда и устойчивое развитие, информационная среда, технологии и инновации, безопасность, обучение в течение всей жизни.</p><p>Развитие общих навыков: способность использовать как в обучении, так и в социальном общении цифровые технологии; при помощи цифровых средств находить и сохранять информацию и оценивать её актуальность и достоверность; участвовать в создании и использовании дигитального контента; быть в курсе опасностей дигитальных сред и быть в состоянии защитить свою приватность.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://infourok.ru/trening-s-elementom-zanyatiya-bezopasnost-v-seti-internet-6547995.html",
+              "title": "Интернет-ресурсы для сопровождения урока: Тренинг с элементом занятия «Безопасность в сети Интернет»"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=FKHMu9Ckqds"
+            },
+            {
+              "kind": "link",
+              "href": "https://infourok.ru/sbornik-prakticheskih-rabot-v-programme-ms-ord-dlya-uchaschihsya-nachalnoy-shkoli-2705948.html",
+              "title": "Сборник практических работ в программе MS Word для учащихся начальной школы"
+            },
+            {
+              "kind": "link",
+              "href": "https://onlinetestpad.com/ru/testview/457245-interaktivnyj-diktant-3-klass",
+              "title": "Интерактивный диктант, 3 класс"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/",
+              "title": "Система тренировочных упражнений, диагностических тестов, пробных уровневых работ в системе EIS"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Критерии оценивания работы младших школьников в электронной среде могут быть адаптированы в зависимости от конкретной задачи и / или требований учителя. Оценка работы младших школьников в электронной среде должна способствовать развитию и совершенствованию навыков создания текста, оформления созданного текста.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

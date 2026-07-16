@@ -1,0 +1,1014 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Informaatika ja digipädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Informaatika sisu hõlmab erinevaid teemasid, nagu programmeerimine, andmetöötlus ja arvutivõrgud. Digipädevus on laiem mõiste, mis hõlmab digitaalsete seadmete ja tööriistade kasutamist, digitaalse info leidmist ja hindamist, disainiprojektide loomist ja probleemide lahendamist. Seega on informaatika sisu ja digipädevus omavahel seotud, kuid mitte samad asjad. Informaatika õppekava võib olla üks viis digipädevuste toetamiseks, kuid see ei hõlma kõiki digipädevuse aspekte.</p><p>Digipädevuse kujundamine I kooliastmes on oluline, kuna see aitab õpilastel omandada oskusi, mis on vajalikud digitaalses maailmas toimetulekuks. Digipädevuse kujundamiseks on mitmeid lähenemisviise, kuidas seda teha parimal moel, sõltub koolist ja õpetajatest. Üks võimalus on lõimida digipädevus kooli õppekavasse, et tagada selle järjepidev arendamine igas kooliastmes ja aines. Digipädevuse lõimimine ainekavadesse võimaldab õpilastel omandada digioskusi erinevates kontekstides ja seostada neid teiste õppeainetega.</p><p>Digitaalne kirjaoskus on võime kasutada digitaalseid tehnoloogiaid, vahendeid ja platvorme, et luua, hinnata, jagada ja osaleda digitaalses sisus. Digitaalne kirjaoskus hõlmab ka digitaalse kodanikuks olemise eetilisi, seaduslikke ja sotsiaalseid aspekte. Informaatiline kirjaoskus on aga võime leida, hinnata, kasutada ja esitada informatsiooni erinevates vormides ja allikates. Informaatiline kirjaoskus on seotud kriitilise mõtlemise, analüüsi ja probleemide lahendamisega. Digitaalne kirjaoskus ja informaatiline kirjaoskus on omavahel seotud, kuid mitte identsed. Digitaalne kirjaoskus keskendub rohkem tehnilistele oskustele ja digitaalse meedia loomisele, samas kui informaatiline kirjaoskus keskendub rohkem infootsingu ja hindamise protsessidele.</p><p>Informaatika tunnis õpitakse ka kuidas luua ja kasutada erinevaid digitaalseid vahendeid, nagu tekstidokumendid, esitlused, tabelarvutus, graafika, heli ja video. Informaatika aitab ka mõista, kuidas arvutid töötavad ja kuidas nad suhtlevad omavahel ja inimestega. Informaatika on lõbus ja põnev õppeaine, mis pakub palju võimalusi loovuseks ja avastamiseks.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Informaatika õpetamise põhimõtted põhikoolis",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>elulähedus;</li><li>aktiivõpe ja loovus;</li><li>uuenduslikkus;</li><li>koostöö;</li><li>teadmusloome;</li><li>vaba tarkvara ja avatud sisu, sõltumatus tarkvaratootjast;</li><li>turvalisus;</li><li>lõimitus ja sidusus.</li></ul><p>Põhikooli informaatikaõppe sisu koosneb üldistatult kahest komponendist, mille omavahelist tasakaalustamist ainekavaga taotletakse:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "raalmõtlemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>eluliste ülesannete lahendamise viis, mille puhul kasutatakse algoritmide tundmist ja rakendamist, mustrite tuvastamist, probleemi osadeks jaotamist ja üldistamist;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "disainmõtlemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kasutajakeskne, loov ja koostöine eluliste ülesannete lahendamise viis, sh probleemi määratlemine, vajaduste võrdlemine, mõtlemine, ehitamine ja katsetamine.</p><p>I kooliastmes õpetab informaatikat ü ldjuhul klassiõpetaja teistesse õppeainetesse lõimituna või eraldi õppeainena, käsitletakse 1–4 õppeteemat: „Digiseade töövahendina“, „Kood“, „Digikunst“, „Digitaalne ohutus“.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "I kooliastmes informaatika õpet kavandades ja korraldades",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>lähtutakse õppekava alusväärtustest, üldpädevustest, õppeaine eesmärkidest, õppesisust ja oodatavatest õpitulemustest ning toetatakse lõimingut teiste õppeainete ja läbivate teemadega;</li><li>jälgitakse, et õpilase õpikoormus (sh kodutööde maht) on mõõdukas;</li><li>võimaldatakse õppida üksi ning üheskoos teistega, et toetada õpilaste kujunemist aktiivseteks ning iseseisvateks õppijateks;</li><li>kasutatakse diferentseeritud õppeülesandeid, mille sisu ja raskusaste toetavad individualiseeritud käsitlust ning suurendavad õpimotivatsiooni;</li><li>rakendatakse nüüdisaegseid õpikeskkondi ning õppematerjale ja -vahendeid;</li><li>laiendatakse õpikeskkonda: veebipõhine personaalne õpikeskkond, arvutiklass, kooliõu, muuseumid, näitused, ettevõtted jne;</li><li>tagatakse, et õppe vältel õpitakse headest tavadest lähtuvat veebikäitumist, sealhulgas virtuaalsetes võrgustikes ning ametlikke infosüsteeme (e-kool, e-õppekeskkond, kooli ja omavalitsuse koduleht) kasutades.</li></ol><p>Informaatika õppetegevust kavandades on võimalik kasutada erinevaid lähenemisi:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "õpetada informaatika teemasid eraldi õppeainetena",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kool valib ühe õppeteema ja õpetab seda ühes klassis täies mahus eraldiseisva 35-tunnise õppeainena (nt üks tund nädalas terve õppeaasta jooksul). Terviklik lähenemine võimaldab põhjalikumat käsitlust ja kõigi taotletavate õpitulemuste saavutamist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "kombineerida mitme õppeteema osadest oma informaatika õppeaine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kool valib õppeteemade hulgast endale sobilikud elemendid, millest kombineeritakse oma loodud õppeaine/kursus. Näiteks I kooliastmes rakendatakse 35-tunnine informaatika valikõppeaine, milles on elemente nii digitaalsest ohutusest, digimeediast kui ka programmeerimisest ja robootikast. Õpilased saavad igast õppeteemast põgusa ülevaate ja saavutavad valitud õpitulemused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "informaatika õppeteemade lõimimine eri õppeainete tundidesse",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kool lõimib õppeteemade elemente eri ainete õpetusse (nt kunst, tööõpetus, matemaatika). Selline lahendus suunab aineõpetajaid ja IT-spetsialiste tegema enam koostööd, et saavutada taotletavad õpitulemused.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>I kooliastme informaatika tundides õpilasi hinnates lähtutakse vastavatest põhikooli riikliku õppekava üldosa sätetest. Informaatika õpitulemuste saavutatuse kohta antakse õpilasele tagasisidet õppeprotsessi käigus lähtudes õpilase õpiülesannetest. Kokkuvõtvalt hinnatakse kursuse lõpus. Õpiülesanded võivad olla tehtud kas üksi või rühmatööna. Hindamiskriteeriumid kirjeldatakse ära kooli õppekavas.</p><p>Soovitavalt hinnatakse informaatikaõppes:</p><ol><li>õppe plaanipärasust, loomingulisust ja ratsionaalsust;</li><li>õppekavas ettenähtud õpitulemuste saavutamist ning seonduvate pädevuste olemasolu veenvat tõendamist;</li><li>loodud materjalide tehnilist teostust, esteetilisust ja originaalsust;</li><li>õpilasepoolset praktilise tegevuse mõtestamist;</li><li>õpilase isiklikku arengut kursuse jooksul.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kirjeldab, kuidas toimib internet, mis on arvuti riistvara ja tarkvara, toob näiteid digitehnoloogia turvalisest ja oskuslikust kasutusest infoü hiskonnas;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab internetist sobiva teksti, pildi, video, animatsiooni ja viitab selle allikale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob, vormistab, salvestab, taasesitab nii individuaalselt kui ka koostöös eri liiki digitaalse sisu (tekst, pilt, esitlus, video, animatsioon jne) ja jagab seda, järgides hea tava ja digiohutuse nõudeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja väldib digivahendite kasutamisega seotud riske;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab elulisi näiteid programmide kasutamisest ja lahendab eakohaseid programmeerimisülesandeid mängulistes keskkondades ja/või haridusrobotitega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab veebikeskkondi ja e-teenuseid hea tava ja digiohutuse nõuetele vastavalt, pöördub probleemi ilmnemisel või selle kahtlusel abi saamiseks vanema, õpetaja või mõne abi andva institutsiooni poole.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Oluline on, et õpilased omandasid digipädevused järk-järgult, alustades lihtsamatest oskustest ja liikudes keerukamate oskuste poole. Näiteks võib algklassides keskenduda digiseadmete kasutamisele ja lihtsamate projektide loomisele, samas kui vanemates klassides võib keskenduda programmeerimisele ja andmetöötlusele.</p><p>Informaatika õppekava võib olla üks viis digipädevuste toetamiseks. Informaatika õppekava peaks hõlmama erinevaid teemasid, nagu programmeerimine, andmetöötlus, arvutivõrgud ja tehisintellekt. Samuti on oluline, et informaatika õppekava oleks kohandatud vastavalt õpilaste vanusele ja oskustasemele. Kuid nagu mainitud, on digipädevuse kujundamine kooliastmes mitmekülgne protsess, mis hõlmab ka teisi aineid ja õppeviise.</p><p>Valikaine tutvustab õpilastele informaatika põhialuseid ja aitab neil omandada digipädevusi. Rakenduskava toetab õpilaste individuaalset arengut ja huvi järgmiste meetmetega:</p><ul><li>Valikteemad ja -ülesanded, mis võimaldavad õpilastel valida endale sobiva raskusastme ja huvipakkuva valdkonna. Näiteks saavad õpilased uurida robootika, programmeerimise, multimeedia või andmetöötluse põhiküsimusi ja rakendusi. Näiteks saavad nad programmeerida oma robotit, luua oma mängu Scratchis, teha oma heli- või videoklipi või analüüsida andmeid Excelis.</li><li>Praktilised tegevused ja projektipõhine õpe, mis ergutavad õpilaste loovust ja koostööd. Näiteks saavad õpilased teha oma digitaalseid projekte, nagu mängud, animatsioonid, veebilehed või rakendused, ning jagada neid teistega. Näiteks saavad nad teha oma veebilehe oma lemmikteemal, luua oma animatsiooni oma lemmiktegelastega, teha oma rakenduse oma lemmikmängu jaoks või teha oma mängu oma lemmikžanris.</li><li>Digivahendid ja -keskkonnad, mida õpilased kasutavad oma teadmiste ja oskuste rakendamiseks ning arendamiseks. Näiteks saavad õpilased kasutada erinevaid programmeerimiskeeli, nagu Scratch või Python, ning jälgida digitaalse kodaniku reegleid. Näiteks saavad nad õppida, kuidas kirjutada koodi, mis on selge, korrektne ja loogiline, kuidas kasutada kommentaare ja muutujaid, kuidas lahendada vigu ja probleeme, kuidas austada autoriõigusi ja privaatsust ning kuidas olla turvaline ja vastutustundlik internetis.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Digiseade töövahendina",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Digiseade on elektrooniline seade, mis võimaldab töödelda, salvestada ja edastada digitaalset informatsiooni. Digitaalne informatsioon on selline, mis on esitatud numbritega, näiteks 0 ja 1. Digiseadmeid on erinevaid, näiteks arvuti, nutitelefon, tahvelarvuti, nutikell, printer jne. Digiseadmed aitavad meil teha erinevaid töid, näiteks kirjutada tekste, joonistada pilte, mängida mänge, otsida infot internetist, suhelda teiste inimestega jne. Digiseadmed on töövahendid, sest nad muudavad meie töö lihtsamaks, kiiremaks ja mugavamaks. Digiseadmete kasutamisel peame järgima teatud reegleid ja põhimõtteid, et hoida enda ja teiste turvalisust ning austada autoriõigusi.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab kooli infosü steemi ja e-õppekeskkondi vastavalt kokkulepitud reeglitele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sisestab, kopeerib, vormindab ja salvestab erinevat tüü pi tekste (nt kuulutusi, plakateid, referaate);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "salvestab, kopeerib, kustutab ja jagab faile;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "otsib infot erinevatest allikatest, kasutab seda, viidates algallikale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "otsib ja haldab vajalikke andmeid, sisestab need tabelisse, esitleb diagrammina;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab ja vormindab esitlust: kujundab slaide, lisab teksti ja pilte.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming teiste ainetega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpetajad võivad kaaluda digiseadmete kasutamist teiste ainetega lõimimiseks, näiteks matemaatika, loodusõpetus või kehaline kasvatus.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Matemaatikas",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased võivad kasutada digiseadmeid arvutamiseks, andmete kogumiseks ja analüüsimiseks, graafikute ja diagrammide loomiseks jne.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Loodusõpetuses",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>võivad õpilased kasutada digiseadmeid uurimistöö tegemiseks, loodusnähtuste jälgimiseks ja salvestamiseks, virtuaalsete eksperimentide läbiviimiseks jne.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kehalises kasvatuses",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>võivad õpilased kasutada digiseadmeid oma füüsilise aktiivsuse mõõtmiseks ja jälgimiseks, tervisliku eluviisi edendamiseks, spordimängude ja -rakenduste kasutamiseks jne.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste kujundamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aine õpetamise üks eesmärke on kujundada õpilaste digipädevust, mis hõlmab digitaalse tehnoloogia kasutamise, loomise ja mõistmise oskusi.</p><p>Informaatika õpetamine toetab ka teiste üldpädevuste arendamist, nagu <strong>õpi-, suhtlus-, enesejuhtimis-, sotsiaal- ja kodanikupädevus</strong>.</p><p>Informaatika õpetamisel lähtutakse probleemipõhisest ja projektipõhisest õppest, mis võimaldab õpilastel rakendada oma teadmisi ja oskusi praktilistes olukordades.</p><p>Informaatika õpetamisel kasutatakse erinevaid digitaalseid vahendeid ja keskkondi, mis soodustavad õpilaste loovust, koostööd ja kriitilist mõtlemist.</p><p>Informaatika õpetamisel arvestatakse õpilaste individuaalseid huve, eelteadmisi ja võimeid ning pakutakse neile väljakutseid ja toetust vastavalt nende vajadustele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivate teemade käsitlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Informaatika on teadus, mis uurib andmete ja info töötlemist, salvestamist, edastamist ja esitamist arvutite ja muude tehniliste vahendite abil.</p><p>Informaatika õpetus arendab oskusi ja teadmisi, mis on vajalikud digitaalse ühiskonna liikmeks olemiseks ja selle kujundamiseks.</p><p>Informaatika õpetab loogilist ja algoritmilist mõtlemist, probleemide lahendamist, loovust ja koostööd.</p><p>Informaatika aitab mõista teiste õppeainete sisu ja seoseid ning rakendada neid praktilistes projektides.</p><p>Informaatika toetab õpilaste digipädevuse arengut, mis hõlmab nii tehnilisi oskusi kui ka eetilisi, sotsiaalseid ja eneseregulatsiooni aspekte.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppemeetodid ja -võtted",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Praktilised ülesanded ja projektid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>mis võimaldavad õpilastel rakendada oma teadmisi ja oskusi reaalsetes olukordades.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mängulised ja mängustatud tegevused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>mis suurendavad õpilaste motivatsiooni ja huvi informaatika vastu.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Koostöine õppimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>mis soodustab õpilaste suhtlemist, arutlemist ja üksteiselt õppimist.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Diferentseeritud õppimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>mis arvestab õpilaste individuaalseid vajadusi, eeldusi ja huvisid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tagasiside andmine ja saamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>mis aitab õpilastel hinnata oma edusamme ja parandada oma õpitulemusi.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilased oskavad nimetada ja kirjeldada erinevaid digiseadmeid ja nende kasutusvõimalusi.</p><ul><li>kasutada digiseadmeid ohutult, eetiliselt ja vastutustundlikult.</li><li>valida sobiva digiseadme ülesande lahendamiseks ja põhjendada oma valikut.</li><li>kasutada digiseadmeid loovalt ja kriitiliselt, luues ja analüüsides digitaalset sisu.</li><li>anda ja saada tagasisidet digiseadmete kasutamise kohta.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Digitaalne ohutus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Digitaalne ohutus on teema, mis puudutab kõiki, kes kasutavad internetti, arvuteid, nutiseadmeid või muid digitaalseid vahendeid. Digitaalse ohutuse all mõistame seda, kuidas kaitsta ennast ja teisi digimaailmas ohtude eest, nagu näiteks viirused, pahavara, küberrünnakud, identiteedivargus, küberkiusamine või ebaseaduslik sisu. Digitaalselt ohutu olemiseks on oluline teada, kuidas valida turvalisi paroole, kuidas hoida oma seadmed ja andmed kaitstud, kuidas tuvastada ja vältida pettusi ja lõkse, kuidas käituda sotsiaalmeedias ja veebikeskkondades ning kuidas olla digimaailmas vastutustundlik ja eetiline. Digitaalse ohutuse õpetamine aitab õpilastel arendada digipädevust ja kriitilist mõtlemist ning tõstab nende teadlikkust digimaailma võimalustest ja riskidest.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab tehnoloogilise ja pärismaailma erinevusi ning sarnasusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab, kuidas töötab internet;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid digitehnoloogia ja interneti turvalisest kasutusest (viirusetõrje kasutamine, kahtlaste linkide tuvastamine, vajaduse korral suhtluspartneri blokeerimine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab salasõna turvalisuse nõudeid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "salvestab, taasesitab ja jagab digitaalset sisu, järgides privaatsusnõudeid ning vältides küberkiusamist;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab tasulise ja tasuta teenuse erinevusi (nt arvutimängudes, äppides);",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "pöördub probleemi ilmnemisel või selle kahtlusel abi saamiseks lapsevanema, õpetaja või mõne abi andva institutsiooni/teenuse poole;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja väldib digiseadmete kasutamisega seotud riske tervisele;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab arusaadavalt, korrektset sõnavara kasutades tõrkuva digiseadme või -rakendusega tekkinud probleemi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab iseseisvalt või juhendi abil lihtsama t",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming teiste ainetega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalse ohutuse teema lõimib informaatikat eesti keele, matemaatika, loodusõpetuse, inimeseõpetuse ja kunstiõpetusega. Näiteks:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Eesti keel",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased õpivad eristama fakti ja arvamust, analüüsima ja hindama digitaalset infot, looma ja jagama oma digitaalseid tekste.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Matemaatika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased õpivad kasutama digitaalseid vahendeid matemaatiliste probleemide lahendamiseks ja esitamiseks, näiteks tabelarvutusprogramme, graafikuid ja diagramme.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Loodusõpetus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased õpivad mõistma digitaalsete seadmete toimimist ja mõju keskkonnale, näiteks energia tarbimist, elektromagnetkiirgust ja jäätmeteket.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Inimeseõpetus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased õpivad tundma oma digitaalset identiteeti ja mainet, austama teiste privaatsust ja autoriõigusi, vältima küberkiusamist ja -sõltuvust.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kunstiõpetus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased õpivad looma ja hindama digitaalseid kunstiteoseid, näiteks fotosid, videoid ja animatsioone.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste kujundamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalse ohutuse teema aitab kujundada näiteks järgmisi üldpädevusi:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Digipädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased omandavad teadmised ja oskused digitaalse maailma mõistmiseks ja kasutamiseks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Enesemääratluspädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased arendavad oma isiksust, huve ja väärtusi digitaalses keskkonnas.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Sotsiaalne pädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased õpivad suhtlema ja koostööd tegema digitaalses keskkonnas erinevate inimestega.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õpipädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased õpivad kasutama digitaalseid vahendeid oma õppimise toetamiseks ja edendamiseks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ettevõtlikkuspädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased õpivad looma ja jagama oma digitaalseid ideid ja lahendusi.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivate teemade käsitlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalse ohutuse teema toetab näiteks järgmiste läbivate teemade käsitlemist:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Keskkond ja jätkusuutlik areng",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased saavad teadlikuks digitaalsete seadmete mõjust keskkonnale ja oma vastutusest selle eest hoolitsemisel.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Väärtused ja kõlblus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased saavad teadlikuks oma väärtustest ja kõlbluspõhimõtetest digitaalses keskkonnas ning nende mõjust endale ja teistele.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kultuuriline identiteet",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased saavad teadlikuks oma kultuurilisest identiteedist digitaalses keskkonnas ning selle rikkusest ja mitmekesisusest.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kodanikualgatus ja ettevõtlikkus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased saavad teadlikuks oma kodanikurollist ja võimalustest digitaalses keskkonnas ning selle mõjust ühiskonnale ja majandusele.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tervis ja ohutus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased saavad teadlikuks oma tervisest ja ohutusest digitaalses keskkonnas ning selle mõjust heaolule ja elukvaliteedile.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppemeetodid ja -võtted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalse ohutuse teema õpetamisel sobivad näiteks:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Probleemõpe",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased lahendavad digitaalse ohutusega seotud probleeme, näiteks kuidas kaitsta oma andmeid, kuidas ära tunda usaldusväärset infot, kuidas käituda küberkiusamise korral jne.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Projektõpe",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased teevad digitaalse ohutusega seotud projekte, näiteks loovad oma digitaalse portfoolio, teevad digitaalse plakati või esitluse, teevad digitaalse kunstiprojekti jne.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Koostööõpe",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased teevad digitaalse ohutusega seotud ülesandeid koos teiste õpilaste või õpetajatega, näiteks arutlevad digitaalse ohutuse teemadel, jagavad oma kogemusi ja nõuandeid, annavad ja saavad tagasisidet jne.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mängupõhine õpe",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased kasutavad digitaalse ohutusega seotud mänge, näiteks simulatsioonimänge, rollimänge, seiklusmänge jne.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "E-õpe",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased kasutavad digitaalse ohutusega seotud e-õppe materjale, näiteks veebipõhiseid kursusi, teste, videoid, animatsioone jne.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalse ohutuse teema hindamisel kasutatakse järgmisi hindamisviise:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Enesehindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased hindavad oma digitaalse ohutuse teadmisi ja oskusi, näiteks täites enesehindamise küsimustikke, ankeete või skaalasid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kaaslaste hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpilased hindavad üksteise digitaalse ohutuse teadmisi ja oskusi, näiteks andes ja saades tagasisidet, osaledes hindamisvestlustes või -mängudes.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õpetaja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õpetaja hindab õpilaste digitaalse ohutuse teadmisi ja oskusi, näiteks kasutades hindamiskriteeriume, rubriike või õpimappe.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/",
+              "title": "I kooliastme informaatika digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Digitaalneohutus/",
+              "title": "Teema digitaalne ohutus"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Main/Digitaalneohutusop",
+              "title": "Õpetajamaterjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.targaltinternetis.ee/",
+              "title": "Targalt internetis on programm, mis pakub erinevaid materjale ja tegevusi digitaalse ohutuse edendamiseks lastele, noortele, vanematele ja õpetajatele"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.digipass.ee/",
+              "title": "Digipass on veebipõhine kursus, mis aitab arendada digipädevust ja digitaalsest kodanikust läbi praktiliste ülesannete ja mängude"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.koolielu.ee/",
+              "title": "Koolielu on haridusportaal, mis pakub erinevaid vanu materjale ja tööriistu informaatika ja teiste ainetega lõimimiseks ning e-õppe toetamiseks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kood",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tarkvaraarendus: Õpilased õpivad, kuidas luua tarkvara, sealhulgas tarkvaraarenduse protsessi, testimist ja dokumenteerimist. Mõned võimalikud ülesanded, mis on seotud koodimise õpetamisega I kooliastmes, on järgmised:</p><ul><li>Koodi lugemine: Õpilased saavad uurida lihtsaid programmeerimisjuhendeid ja proovida mõista, kuidas kood töötab.</li><li>Koodi kirjutamine: Õpilased saavad kasutada lihtsaid programmeerimiskeeli, nagu näiteks Scratch, et luua lihtsaid projekte.</li><li>Probleemide lahendamine: Õpilased saavad kasutada loogikat ja algoritme, et lahendada lihtsaid probleeme, nagu näiteks mõistatused ja mõistatused.</li><li>Koodi jagamine: Õpilased saavad jagada oma loodud projekte teiste õpilastega ja saada tagasisidet.</li></ul><p>Need ülesanded võimaldavad õpilastel tutvuda erinevate koodimise võimalustega ja omandada lihtsamad programmeerimise põhialused.</p><p>Informaatika tunnis võib ka õppida robotite juhtimist, Tutvustada erinevaid robootika platvorme ja nende võimalusi, näiteks Lego WeDo, Makeblock, Micro:bit jne.</p><ul><li>Kuidas robootikat saab kasutada erinevates valdkondades, näiteks kunst, muusika, sport, meditsiin jne.</li><li>Anda õpilastele ülesandeid, kus nad peavad programmeerima robotit lahendama mingit probleemi või täitma mingit ülesannet, näiteks liikuma labürindis, järgima joont, tantsima muusika järgi jne.</li><li>Julgustada õpilasi looma oma roboteid ja programme, kasutades erinevaid materjale ja andureid, ning jagama oma töid teistega.</li><li>Korraldada robootika võistlusi või näitusi, kus õpilased saavad näidata oma roboteid ja programme ning saada tagasisidet ja tunnustust.</li></ul>"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab mängulises keskkonnas programmeerides lähtuvalt algoritmilisest probleemilahendusest mõisteid programm, muutuja, valik, tsü kkel, sisend ja väljund;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab elulisi näiteid programmide kasutamisest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab etteantud lihtsa programmi/rakenduse sisu ning ennustab selle töö tulemit;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab ja loob juhiseid järgides lihtsamaid rakendusi, kasutades digitaalseid või füüsilisi vahendeid (nt lastele mõeldud hariduslikud programmeerimiskeskkonnad või robootikakomplektid);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab programmi testimise vajadust, leiab koodist lihtsamad vead;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "laadib internetist alla teiste loodud programme ja kohandab neid, arvestades autoriõigustega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming teiste ainetega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koodi teema lõimib informaatikat <strong>matemaatika</strong>, <strong>loodusõpetuse</strong>, <strong>kunsti</strong> ja <strong>muusikaga</strong>. Näiteks saavad õpilased kasutada koodi, et luua geomeetrilisi kujundeid, uurida andmeid ja graafikuid, teha heli- ja pilditöötlust jne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste kujundamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koodi teema aitab arendada õpilaste <strong>digipädevust</strong>, loovust, probleemilahendusoskust, koostööd ja suhtlust. Näiteks saavad õpilased õppida, kuidas kasutada erinevaid veebipõhiseid tööriistu ja rakendusi, kuidas luua oma projekte ja jagada neid teistega, kuidas analüüsida ja lahendada ülesandeid jne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivate teemade käsitlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koodi teema toetab läbivate teemade nagu keskkond ja jätkusuutlik areng, väärtused ja kõlblus, kultuuriline identiteet ja mitmekesisus jne. Näiteks saavad õpilased kasutada koodi, et uurida keskkonnaprobleeme ja leida nende lahendusi, arutada eetilisi küsimusi seoses tehnoloogia kasutamisega, tutvuda erinevate kultuuride ja keelte eripäradega jne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppemeetodid ja -võtted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koodi teema kasutab õppemeetodeid ja -võtteid nagu <strong>uurimusõpe</strong>, <strong>projektõpe</strong>, <strong>mängupõhine õpe</strong>, <strong>kooperatiivne õpe</strong> jne. Näiteks saavad õpilased läbi viia erinevaid katseid ja uuringuid seoses koodiga, teha rühmatöid ja esitlusi oma projektidest, mängida erinevaid mänge ja võistlusi seoses koodiga jne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilase oskuste hindamiseks võib kasutada erinevaid meetodeid, sõltuvalt õpetaja eelistustest ja kooli õppekavast. Mõned võimalikud meetodid on järgmised:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Praktiline hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilased saavad ülesande kasutada programmeerimiskeelt Scratch, et luua lihtsaid projekte. Õpetaja saab hinnata õpilase oskusi, vaadates nende loodud projekti.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Enesehindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilased saavad hinnata oma oskusi, täites hindamisvormi või -küsimustiku. See võib aidata õpilastel mõista oma tugevaid ja nõrku külgi ning seada eesmärke edasiseks arenguks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Portfoolio hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilased saavad koguda oma loodud projektid portfooliosse, mis võib sisaldada näiteks Scratchis loodud projekte. Õpetaja saab hinnata õpilase oskusi, vaadates nende portfooliot.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/",
+              "title": "I kooliastme informaatika digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Kood/",
+              "title": "Teema kood"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Main/Koodop",
+              "title": "Õpetajamaterjal"
+            },
+            { "kind": "link", "href": "http://Code.org", "title": "Code.org" },
+            {
+              "kind": "link",
+              "href": "https://code.org/",
+              "title": "Code.org on veebileht, mis pakub tasuta kursusi ja tunde programmeerimise õppimiseks erinevatel tasemetel ja teemadel"
+            },
+            {
+              "kind": "link",
+              "href": "https://scratch.mit.edu/",
+              "title": "Scratch on veebipõhine programmeerimiskeskkond, mis võimaldab luua interaktiivseid lugusid, mänge ja animatsioone"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.tynker.com/",
+              "title": "Tynker on veebipõhine programmeerimisplatvorm, mis võimaldab luua erinevaid rakendusi ja projekte kasutades graafilisi plokke või tekstipõhist koodi"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.codemonkey.com/",
+              "title": "CodeMonkey on veebipõhine mänguplatvorm, mis õpetab programmeerimist läbi lõbusate ja harivate mängude"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Digikunst",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Arvutigraafika: Õpilased õpivad, kuidas luua ja töödelda graafikat, sealhulgas 2D- ja 3D-graafikat.</p><ul><li>Joonistamine: Õpilased saavad kasutada joonistusprogramme, nagu näiteks TUX Paint, et luua lihtsaid joonistusi. Näiteks võib õpetaja paluda õpilastel joonistada oma lemmiklooma või kodu.</li><li>Pilditöötlus: Õpilased saavad kasutada pilditöötlusprogramme, nagu näiteks Paint, et muuta olemasolevaid pilte. Näiteks võib õpetaja paluda õpilastel muuta pilti nii, et see näeks välja nagu maal.</li><li>Animatsioon: Õpilased saavad kasutada animatsiooni programme, nagu näiteks Pivot Animator, et luua lihtsaid animatsioone. Näiteks võib õpetaja paluda õpilastel luua animatsiooni, mis näitab, kuidas taimed kasvavad.</li><li>Helitöötlus: Õpilased saavad kasutada helitöötlusprogramme, nagu näiteks Audacity, et salvestada ja töödelda heli. Näiteks võib õpetaja paluda õpilastel salvestada oma hääle ja lisada selle oma joonistusele.</li></ul><p>Need ülesanded võimaldavad õpilastel tutvuda erinevate digimeediumide loomise võimalustega ja omandada lihtsamad töötlemise võtted</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "otsib internetist eritüü bilist (nt pilt, video, animatsioon jt) digikunsti ja viitab selle allikale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob digitaalselt joonistuse ja prindib selle vastavalt eesmärgile sobivate seadetega (värviline/mustvalge, ü he/kahepoolne jne);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "digikunsti loomisel lähtub korrektse käitumise põhimõtetest;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib kaamera seaded vastavalt pildistamise oludele ning pildistab ja kopeerib foto seadmest arvutisse, avab selle sobiva rakendusega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib ja kasutab teadlikult lihtsamaid pildipinna organiseerimise võtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "salvestab heli ja kopeerib selle seadmest arvutisse ning avab selle sobiva rakendusega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "salvestab video ja kopeerib selle seadmest arvutisse ning avab selle sobiva rakendusega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kombineerib lihtsate võtetega pildi, heli ja video.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming teiste ainetega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema „Digikunst“ on seotud teiste ainetega, nagu kunstiõpetus, matemaatika, loodusõpetus ja eesti keel. Õpilased saavad kasutada digikunsti vahendeid, et luua ja jagada oma loomingut, uurida erinevaid kunstistiile ja -tehnikaid, arendada ruumilist mõtlemist ja loovust, ning õppida digitaalse meedia eetilist kasutamist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste kujundamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Läbi digikunsti teema kujundatakse õpilaste üldpädevusi, nagu <strong>enesemääratluspädevus</strong>, <strong>sotsiaalne pädevus</strong>, <strong>õpipädevus</strong>, <strong>suhtluspädevus</strong> ja <strong>ettevõtlikkuspädevus</strong>. Õpilased õpivad tundma oma huve ja võimeid, suhtlema ja koostööd tegema erinevates olukordades, otsima ja kriitiliselt hindama informatsiooni, väljendama oma arvamust ja tundeid, ning rakendama oma teadmisi ja oskusi praktilistes projektides.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivate teemade käsitlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digikunsti teema käsitlus toetab läbivate teemade, nagu <strong>keskkond ja jätkusuutlik areng</strong>, <strong>kultuuriline identiteet ja väärtused</strong>, <strong>elukestev õpe</strong> ja <strong>karjääri planeerimine</strong>, ning <strong>tehnoloogia ja innovatsioon</strong>, lõimimist informaatika õppeprotsessi. Õpilased saavad mõista digikunsti seoseid nende teemadega ning kujundada oma hoiakuid ja väärtushinnanguid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppemeetodid ja -võtted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pädevuse õpetamisel kasutatakse erinevaid õppemeetodeid ja -võtteid, nagu <strong>probleemõpe</strong>, <strong>projektõpe</strong>, <strong>uurimusõpe</strong>, <strong>rühmatöö</strong>, <strong>arutelu</strong>, <strong>esitlus</strong>, <strong>refleksioon</strong> jne. Need meetodid ja võtted aitavad kaasata õpilasi aktiivselt õppeprotsessi ning toetada nende individuaalset ja koostöölist õppimist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilase oskuste hindamiseks võib kasutada erinevaid meetodeid, sõltuvalt õpetaja eelistustest ja kooli õppekavast. Mõned võimalikud meetodid on järgmised:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Praktiline hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilased saavad ülesande kasutada joonistusprogrammi, pilditöötlusprogrammi, animatsiooniprogrammi või helitöötlusprogrammi, et luua lihtne projekt. Õpetaja saab hinnata õpilase oskusi, vaadates nende loodud projekti.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Enesehindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilased saavad hinnata oma oskusi, täites hindamisvormi või -küsimustiku. See võib aidata õpilastel mõista oma tugevaid ja nõrku külgi ning seada eesmärke edasiseks arenguks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Portfoolio hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilased saavad koguda oma loodud projektid portfooliosse, mis võib sisaldada näiteks joonistusi, animatsioone või helitöötlusprojekte. Õpetaja saab hinnata õpilase oskusi, vaadates nende portfooliot.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/",
+              "title": "I kooliastme informaatika digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Digikunst/",
+              "title": "Teema digikunst"
+            },
+            {
+              "kind": "link",
+              "href": "https://courses.cs.ut.ee/t/digiopik/Main/Digikunstop",
+              "title": "Õpetajamaterjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://digikunst.ee/",
+              "title": "Eesti digikunsti keskus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.canva.com/",
+              "title": "Veebipõhine graafilise disaini platvorm"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.piskelapp.com/",
+              "title": "Veebipõhine piksligraafika loomise tööriist"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.tinkercad.com/",
+              "title": "Veebipõhine 3D-modelleerimise tööriist"
+            },
+            {
+              "kind": "link",
+              "href": "https://scratch.mit.edu/",
+              "title": "Veebipõhine programmeerimise keskkond"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

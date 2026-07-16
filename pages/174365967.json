@@ -1,0 +1,560 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Oodatavad õpitulemused 1. klassi lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "orienteerub täiskasvanu abiga kodus, koolis ja kooliteel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ja nimetab õpitud taimi, loomi ja loodusnähtusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab neid õpetaja küsimustele toetudes 2–4-sõnalise lausega ja rühmitab neid erinevate tunnuste alusel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ja nimetab aastaaegu ja aastaaegadele iseloomulikke loodusnähtusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab aastaaegade järjestust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "käitub looduses hoolivalt, hindab enda ja teiste käitumist looduses õige/vale põhimõttel.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Kohustuslik aine maht 1 tund nädalas.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik teemade järjestus õppeaasta jooksul",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kool, suvi, sügis, loomad ja linnud, talv, aeg, kodu, kevad, suvi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/Rek_loodusopetus_1_kl_1_osa_web_2023.pdf",
+          "title": "Loodusõpetuse tööraamat I klassile 1. osa"
+        },
+        {
+          "kind": "file",
+          "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/Rek_loodusopetus_1_kl_2_osa_web_2023.pdf",
+          "title": "Loodusõpetuse tööraamat I klassile 2. osa"
+        },
+        {
+          "kind": "file",
+          "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/lisaleht_1_2023.pdf",
+          "title": "Loodusõpetuse tööraamatu lisalehed"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/505",
+          "title": "Loodusõpetus 1. klassile (Lihtsustatud õppekava Opiq keskkonnas)"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesti keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kuulamis-, lugemis- ja kirjutamis-, eneseväljendusoskused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Matemaatika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>aastaajad, aeg. Ruumisuhted, erinevad esemed, materjalid/hulgad, võrdlemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Inimeseõpetus",
+          "children": [{ "kind": "text", "html": "<p>kodu, kool.</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Kunsti- ja tööõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>erinevatest materjalidest meisterdamine, aastaaegadest joonistamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "1. klassi õppesisu, õpitulemused ja soovitused õppetöö läbiviimiseks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Loodusõpetuse sisu on valdavalt suunatud praktiliste oskuste ja teadmiste omandamisele, mistõttu on soovitatav alustada praktiliste tegevustega, mida viiakse alguses läbi õpetajaga koostegevuses, seejärel eeskuju järgi ning lõpuks tegutseb õpilane õpetaja suulise korralduse alusel.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Vaatlusoskuste kujundamiseks suunata küsimuste ja korralduste toel õpilast märkama ning nähtut sõnastama.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Koos suuliste korraldustega kasutada piltsümboleid, sõnakaarte ja võimalikult naturaalseid näitlikustavaid vahendeid/materjale.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilase jaoks võib olla pildi tajumine, st kujutatu äratundmine pildil raskendatud, mistõttu valida nägemistaju arendamiseks mitmekesist piltmaterjali (ühe ja sama objekti näitamine nii foto kui joonistusena, nii värviliselt kui must-valgelt). Samuti sobitada omavahel pilti ja objekti/nähtust: näiteks objekt klassiruumis ja pildil, loodusnähtus õues ja sarnase nähtuse leidmine pildil (valik erinevate piltide hulgast).</p>"
+        },
+        {
+          "kind": "section",
+          "title": "1. Õpilane orienteerub täiskasvanu abiga kodus, koolis ja kooliteel.",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppesisu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kool: tutvumine kooliruumide ja kooli ümbrusega (kohad kooli ümbruses).</p><p>Liiklusohutus: liiklus kooli ümbruses, märgid, teeületuskohad; kooliõuel liikumine.</p><p>Maa ja linn. Liiklemine linnas ja maal.</p><p>Kodu: kodumaja, koduümbrus. Erinevad ruumid kodus. Esemed kodus (mööbel, toidunõud, jms).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Hindamise aluseks olevad õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "liigub täiskasvanute abil oma koolimajas ja kooliümbruses;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "orienteerub täiskasvanu abiga kooliteel;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "orienteerub täiskasvanu abiga kodus ja koduteel;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "teab oma kodu asukohta (linnas/maal);",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "rühmitab esemeid/pilte etteantud kuuluvusrühma järgi;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "nimetab õpetaja eeskujul ja/või abivahendite toel kuuluvusrühma;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "rühmitab esemeid ühise tunnuse alusel;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "õpetaja küsimustele toetudes kirjeldab esemete rühma 2-4-sõnalise lausega.",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovitused õppetöö läbiviimiseks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Õppekäigud kooliümbruses (kooli ruumide ja kooliümbrusega tutvumiseks). Lõimides õpet teiste õppeainetega, saab kinnistada näiteks matemaatika tunnis omandatud teadmisi ruumisuhete kohta: <em>suur-väike, suurem-väiksem, ülal-all, ees-taga, vasakul-paremal, alguses-lõpus-keskel, esimene-viimane; alla, peale, ette taha, kõrvale.</em></li><li>Kooli ruumide ja töötajatega tutvumine.</li><li>Vestlus ohutust liiklemisest kooliümbruses ja sõiduteed ületades.</li></ul>"
+                },
+                {
+                  "kind": "section",
+                  "title": "Lisamaterjalid/ideed õpetajale",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Valikuliselt saab liiklusteemade õpetamisel kasutada Liikluskasvatus.ee materjale - nt liiklusaabits</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "http://Liikluskasvatus.ee",
+                      "title": "Liikluskasvatus.ee materjalid"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.liikluskasvatus.ee/et/tellimiskeskus/opperaamat-liiklusaabits",
+                      "title": "liiklusaabits"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2. Õpilane tunneb ära ja nimetab aastaaegu ja aastaaegadele iseloomulikke loodusnähtusi; nimetab aastaaegade järjestust. Õpilane käitub looduses hoolivalt, hindab enda ja teiste käitumist looduses õige/vale põhimõttel.",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppesisu",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Aeg",
+                  "children": [{ "kind": "text", "html": "<p>Päev ja öö.</p>" }]
+                },
+                {
+                  "kind": "section",
+                  "title": "Aastaajad",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Valgus- ja soojusallikad õues.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Suvi",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Suvi kui aastaaeg. Looduse ilme/muutumine suvel. Inimeste riietus. Suvised tegevused.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Sügis",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Sügis kui aastaaeg. Sügisilmad. Sügisvärvid. Riietus sügisel.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Talv",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Talv kui aastaaeg. Talveilmad, riietus. Laste tegevused talvel. Turvalisus (liikluses, veekogudel)</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Kevad",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Kevad kui aastaaeg. Kevadilmad, riietus. Kevadtööd aias ja põllul. Tööriistad ja masinad.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Hindamise aluseks olevad õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "nimetab õpitud aastaaegu nende õiges järjestuses (vajadusel abivahendite toel);",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "nimetab aastaaegadele iseloomulikke loodusnähtusi abimaterjali toel;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "toob näiteid õpitud aastaajale iseloomulikest loodusnähtustest;",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovitused õppetöö läbiviimiseks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Päeva ja öö joonistamine (näiteks päeval päike, sinine taevas, linnud jne; öösel kuu, tähed ja öine loodus).</li><li>Liikumismäng: liikumine päeva ja öö kaartide vahel, samal ajal rääkides/näidates, mis toimub sel ajal. Näiteks päeval mängimine õues ja öösel magamine.</li><li>Piltkaartide abil erinevate päevaosade õppimine (hommik, päev, õhtu, öö).</li><li>Õppekäigud parki või metsa, et õpilased saaksid otseselt kogeda erinevate aastaaegade muutusi (suunata tähelepanu erinevatele nähtustele), mis viitavad aastaaja vaheldumisele.</li><li>Aastaaegade pildisõnaraamat (õpilased joonistavad või kleebivad piltidele aastaajale iseloomulikke esemeid või tegevusi).</li><li>Aastaaegade võrdlemine abimaterjalide toel.</li><li>Ilmavaatluste tegemine ühistegevuses: vaadata koos ja märkida nähtud arusaadavate piltide abil.</li></ul>"
+                },
+                {
+                  "kind": "section",
+                  "title": "Lisamaterjalid/ideed õpetajale",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "https://keskkonnaharidus.ee/et/oppematerjalid/opimapp-eestimaa-puud",
+                      "title": "Õpimapp &quot;Eestimaa puud&quot;"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Huvitava Bioloogia Kooli multifilm &quot;Miks puud talvel raagus on?&quot;</p>"
+                    },
+                    { "kind": "video", "src": "https://youtu.be/7ZvcmBWFv34" },
+                    {
+                      "kind": "text",
+                      "html": "<p>Katse gloobuse ja laualambiga (algab 0:58)</p>"
+                    },
+                    { "kind": "video", "src": "https://youtu.be/Wr-CRKsTYGs" },
+                    {
+                      "kind": "link",
+                      "href": "https://www.huvitavbioloogia.ee/projektid/loodusteaduslikud-katsed-lasteaias/katse-10-kohev-lumi",
+                      "title": "Katse „Kohev lumi“"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.huvitavbioloogia.ee/projektid/looduse-bingo",
+                      "title": "Lisamaterjal: Looduse bingo"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://hev.edu.ee/184-2/",
+                      "title": "Lisamaterjal: Aastaring looduses"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Videomaterjal talvisest turvalisusest (Jänku-Juss)</p>"
+                    },
+                    {
+                      "kind": "video",
+                      "src": "https://www.youtube.com/watch?v=WsYeNiMHZf4&amp;t=42s&amp;pp=ygULasOkbmt1IGp1c3M%3D"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Videomaterjal suvisest turvalisusest (Jänku-Juss)</p>"
+                    },
+                    { "kind": "video", "src": "https://youtu.be/FGPLrLEBXJA" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "3. Õpilane tunneb ära ja nimetab õpitud loomi; kirjeldab neid õpetaja küsimustele toetudes 2–4-sõnalise lausega ja rühmitab neid erinevate tunnuste alusel. Õpilane käitub looduses hoolivalt, hindab enda ja teiste käitumist looduses õige/vale põhimõttel.",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppesisu",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Loomad ja linnud",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Looma ja linnu välisehitus (kehaosad; kehakate: karvad/suled; värvus).</p><p>Kodulinnud ja -loomad: nimetused, välisehitus (kehaosad, kehakate, värvus) häälitsused, liikumine.</p><p>Koduloomade pojad ja nende nimetused.</p><p>Metsloomad: nimetused, välisehitus, liikumine, elupaigad</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Hindamise aluseks olevad õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "tunneb ära (sh pildil) ja nimetab õpitud loomi;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kirjeldab õpitud loomi õpetaja küsimustele toetudes 2–4-sõnalise lausega",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "rühmitab õpitud tunnuse alusel pilte etteantud kuuluvusrühma järgi;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "nimetab õpetaja eeskujul ja/või abivahendite toel kuuluvusrühma (loomad, linnud, metsloomad, koduloomad);",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovitused õppetöö läbiviimiseks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õppeprotsessis kasutada pildimaterjali ja illustratsioone, et teha loomade/lindude õppimine visuaalselt mõistetavaks.</p><ul><li>Sõnakaartide ja/või loomapiltide reastamine vastavalt loomade elupaikadele (mets, laut jms).</li><li>Vaatlus (koostegevuses) aastaaegade mõjust loomadele. Ühise pildi või lihtsate kaartide loomine, kus on kujutatud loomi erinevate aastaaegade taustal.</li><li>Loomade ja lindude meisterdamine erinevatest materjalidest.</li><li>Linnuvaatlus kooli ümbruses (koos õpetajaga).</li><li>Loomaaia või loomapargi külastamine, lemmikloomapäeval osalemine (erinevate loomade välisehituse vaatlemine, loomade käitumise jälgimine).</li><li>Õppekäigul või pargis loomade talviste jälgede uurimine.</li></ul>"
+                },
+                {
+                  "kind": "section",
+                  "title": "Lisamaterjalid/ideed õpetajale",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "https://www.huvitavbioloogia.ee/projektid/loodusteaduslikud-katsed-lasteaias/katse-2-kulmetav-huljes",
+                      "title": "Katse „Külmetav hüljes“ (kuidas loomad talvel sooja hoiavad)."
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.huvitavbioloogia.ee/projektid/loodusteaduslikud-katsed-lasteaias/talvised-linnud",
+                      "title": "Katse &quot;Talvised linnud&quot; (millest erinevad linnud talvel toituvad)."
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Huvitava Bioloogia Kooli multifilm &quot;Miks karud talvel magavad?&quot;</p>"
+                    },
+                    { "kind": "video", "src": "https://youtu.be/igx-y2xJ1T4" },
+                    {
+                      "kind": "link",
+                      "href": "https://keskkonnaharidus.ee/ru/node/5616",
+                      "title": "Jäljeaabits"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "4. Õpilane tunneb ära ja nimetab õpitud taimi; kirjeldab neid õpetaja küsimustele toetudes 2–4-sõnalise lausega ja rühmitab neid erinevate tunnuste alusel. Õpilane käitub looduses hoolivalt, hindab enda ja teiste käitumist looduses õige/vale põhimõttel.",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppesisu",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Aed ja põld sügisel",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Puu- ja köögiviljad, marjad: nimetused, kirjeldamine ja rühmitamine (värvus, suurus, kuju, maitse). Kasutamine.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Mets ja park sügisel",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Puud sügisel, sügisvärvid. Puude nimetused. Puulehed ja okkad. Seened: söögi- ja mürgised seened.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Taimed kevadel",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Kevadlilled aias, metsas ja niidul.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Hindamise aluseks olevad õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "tunneb ära ja nimetab õpitud taimi ja seeni;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kirjeldab neid õpetaja küsimustele toetudes 2–4-sõnalise lausega",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "rühmitab õpitud tunnuse alusel objekte/pilte etteantud kuuluvusrühma järgi;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "nimetab õpetaja eeskujul ja/või abivahendite toel kuuluvusrühma (puud, seened, puuviljad, marjad, köögiviljad)",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovitused õppetöö läbiviimiseks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Aiasaaduste uurimine ja vaatlemine meelte abil: nägemise, kuulmise, puudutuse, maitse ja lõhna abil teabe kogumine.</li><li>Puulehtede, okste, tõrude ja käbide korjamine ja uurimine klassis.</li><li>Taimede istutamine ja ühine hooldamine klassis (näiteks osalemine Räpina Aianduskooli taimeprojektis).</li><li>Ühised loodusvaatlused (näiteks osalemine projektis &quot;Tere, Kevad!&quot;).</li></ul>"
+                },
+                {
+                  "kind": "section",
+                  "title": "Lisamaterjalid/ideed õpetajale",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "https://keskkonnaharidus.ee/et/oppematerjalid/opimapp-eestimaa-puud",
+                      "title": "Õpimapp &quot;Eestimaa puud&quot;"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.huvitavbioloogia.ee/projektid/loodusteaduslikud-katsed-lasteaias/puhkav-pung",
+                      "title": "Katse &quot;Puhkav pung&quot;"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

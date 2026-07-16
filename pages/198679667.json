@@ -1,0 +1,240 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Töö- ja tehnoloogiaõpetus on õppeaine, kus õpilased saavad ennast väljendada eelkõige erinevaid kõvasid materjale töödeldes nii käsitsi kui ka masinatega, sh digitaalsetega.</p><p>II kooliastmes omandavad õpilased tehnoloogiaõpetuse baasoskused materjalide töötlemisel ja töövahendite käsitsemiseks, samuti tehnilisi mõisteid ja termineid.</p><p>Õpilased tutvuvad erinevate materjalide omaduste ning kasutusvõimalustega. Õpetaja juhendamisel õpitakse valima asjakohaste tööviiside, töövahendite, masinate ja seadmete vahel ning nendega töötama.</p><p>Seejuures arvestatakse õpilaste erinevaid võimeid ja huve ning toetatakse nende omaalgatust ja õpimotivatsiooni.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused II koolastme lõpetamisel tehnoloogiaõpetuses",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpitulemused II kooliastmes 6. klassi lõpetaja:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab ja valmistab juhendamisel lihtsamaid esemeid, kasutades õpitud töövõtteid ja töövahendeid ning järgides ohutusnõudeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ja oskab kasutada õpitud materjale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel puhastada, hooldada ja viimistleda erinevast materjalist tooteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel kasutada lihtsamaid seadmeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja järgib hügieeni, korra ja puhtuse nõudeid;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab eesmärgipäraselt kasutada lihtsamaid digivahendeid õpetaja juhendamisel",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Materjalid ja nende töötlemine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Materjalid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>materjalide liigid ja nende omadused - puit ja vineer, saematerjal.</li><li>Looduslikud ja tehiskivid, kips, tsement ja betoon. Klaas ja savi. Traat, plekk, raud, vask, alumiinium</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Töövahendid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Joonlauad, sirkel, nurgik, käärid, lihvklotsid, nuga, saed ja peitlid, kruvikeerajad, ümar- ja lamemokktangid, lõiketangid, vasar, tisleripink, kruustangid, plekikäärid,</li><li>peitlite ja viilide liigid ja kasutusvõimalused, puidupõleti, kuumaliimipüstol, puurpink, lintsaag, akutrell.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Töötlemisviisid",
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kavandamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Valib lähtuvalt materjalist ja valmistatavast esemest töövahendid ja seadmed.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Tööplaneerimisel etapis järgib nii suulisi õpijuhiseid kui ka kasutab kirjalikke tööjuhendeid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kavandab eset näidise eeskujul- valmistab joonestusvahendite abil teostusjoonise või eskiisi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane kirjeldab suunavate küsimuste abil kavandatava töö tulemust.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Töötamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Saagimine, vestmine, lõikamine, lihvimine, peiteldamine.</li><li>Traadi painutamine ja lõikamine.</li><li>Pleki lõikamine, painutamine ja palistamine. Kärni abil plekile märksüvendite (täpidekoor) kandmine.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eneseanalüüs ja hindamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane hindab loodud toodet analüüsides seda nii esteetilisest kui rakenduslikust küljest.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob esile ülesande täitmisel tekkinud kitsaskohad, ülesande täitmisest lähtuvalt enda tugevad ja nõrgad küljed.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Põhjendab oma arvamust, annab hinnangu lisaks oma tööle ka kaasõpilasete töödele.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tehnoloogia igapäevaelus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Teadvustab tehnoloogilise kirjaoskuse vajadust igapäevaelus ja mõistab tehnoloogia olemust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Tunneb enamkasutatavaid materjalide omadusi ja kasutab neid töös.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kavandab ja valmistab sobivaid töövahendeid valides lihtsaid esemeid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Järgib ohutu töötamise põhimõtteid ja hoiab korras töökoha.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik tööprotsess ja hindamine:",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Töömeetodid",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Demonstratsioon",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpetaja demonstreerib tööprotsessi ja annab juhiseid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Praktiline töö",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilased saavad omandada praktilisi oskusi ja kogemusi ise töötades.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Töörühmades töötamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilased saavad arendada oma meeskonnatöö oskusi ja kogemusi.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Esitlus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilased saavad oma töid esitleda ja selgitada oma tööprotsessi.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilaste töid hinnatakse õpitulemuste saavutamise alusel.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Hindamisel arvestatakse järgmiste aspektidega:",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>töö korrektne ja esteetiline viimistlus;</li><li>tööprotsessi planeerimine ja organiseerimine;</li><li>tööohutusnõuete järgimine;</li><li>töövahendite ja materjalide säästlik kasutamine;</li><li>mõõtevahendite ja tööriistade korrektne kasutamine;</li><li>detailide töötlemine ja detailide ühendamine.</li></ul>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Matemaatika 8. klassi õppe kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tehnilistel põhjustel on materjalid hetkel esitatud failidena.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453851/VIII_klass.pdf?version=1&modificationDate=1711377610031&api=v2",
+          "title": "VIII klass (PDF)"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453851/VIII_klass.docx?version=1&modificationDate=1711377596410&api=v2",
+          "title": "VIII klass (DOCX)"
+        }
+      ]
+    }
+  ]
+}

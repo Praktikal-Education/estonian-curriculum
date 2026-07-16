@@ -1,0 +1,785 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikõppeainega „Uurimistöö alused“ taotletakse, et õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab uurimist väärivaid probleeme, sõnastab uurimistöö eesmärgi(d), uurimisküsimuse(d) ja/või hüpoteesi(d)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eesmärgistab oma tegevuse, oskab kavandada ja ellu viia uurimistöö erinevaid etappe",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab iseseisvalt juhendi järgi töötada",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab erinevaid teabeallikaid ning hindab kriitiliselt neis sisalduvat infot",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "omab ülevaadet andmete kogumise, töötlemise ning analüüsimise meetoditest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob seoseid, argumenteerib ja teeb järeldusi ning kujundab oma seisukoha allikatele ja oma analüüsi tulemustele tuginedes",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitab, analüüsib ja põhjendab oma töö tulemusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab koostada uurimistöö retsensiooni ja anda ning võtta vastu konstruktiivset tagasisidet",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib oma kogemust uurijana ning teadvustab oma tugevaid külgi ja arenguvajadusi.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Valikõppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikõppeaine läbimisel kujuneb õpilasel esmane uurimispädevus, mis on vajalik iseseisva uurimistöö kavandamiseks ja elluviimiseks. Selleks omandab õpilane õppeainet läbides algteadmised uurimistöö olemusest, meetoditest, etappidest, struktuurist, vormistamisest ja kaitsmisest ning harjutab uurimistöö erinevate etappide elluviimist. Uurimine on eelkõige protsess ja töömeetod, mille käigus õpilane analüüsib uuritavat probleemi või valdkonda süsteemselt ja asjakohaselt struktureeritud viisil ning järgib tööd koostades teaduslikkuse põhimõtteid. Valikõppeaine läbimisel õpib õpilane seega allikaid kriitiliselt käsitlema, oma tööd eesmärgistama ning eesmärgi saavutamiseks asjakohaseid uurimisviise kasutama. Allikatega töötades kujundab õpilane oma seisukohad usaldusväärsetele allikatele tuginedes ning hindab uue informatsiooni valguses kriitiliselt nii teiste autorite kui ka omaenda seniseid arvamusi. Õpilane õpib eristama teaduslikku allikat mitteteaduslikust allikast ning väljendama ennast argumenteeritult ja faktidele tuginedes. Allikatega töötades õpib õpilane märkama uurimist vajavaid probleeme ning leiab fookuse iseseisva uurimistöö läbiviimiseks gümnaasiumiõpingute jooksul. Uurimistöö olemuse, protseduuri ja meetoditega tutvumise tulemusel õpib õpilane mõistma seoseid uurimisprobleemi, uurimisküsimuse ja uurimismeetodi vahel, sõnastama uurimisprobleemi ja uurimisküsimuse ning valima uurimisküsimuse käsitlemiseks sobiva(d) meetodi(d).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Uurimispädevuse osaks on ka oskus oma töö tulemusi tutvustada, mistõttu areneb õppeaine läbimisel ka õpilase avaliku esinemise oskus. Õpilane õpib oma tööd etteantud ajaraami sees informatiivselt esitlema ja selle üle arutlema ning konstruktiivset tagasisidet vastu võtma ja tagasisidestama ka õpingukaaslaste iseseisvaid töid. Uurimispädevuse kujunemiseks ning omandatud oskuste ja teadmiste iseseisvaks rakendamiseks on võtmetähtsusega oma kogemuse, isikliku arengu ja tehtud töö järjepidev analüüsimine ning oma tugevate külgede ja arenguvajaduste määratlemine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Võimalusi lõiminguks, üldpädevuste arengu toetamiseks ja õppekava läbivate teemade käsitlemiseks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikõppeaine on tihedalt seotud eesti keele, infotehnoloogia, loodusainete, matemaatika ja sotsiaalainete valdkonnaga. Esmase uurimispädevuse kujunemist toetavad muu hulgas kirjalik eneseväljendusoskus ja korrektne keelekasutus, uurimistöö läbiviimiseks vajaliku riist- ja tarkvara kasutamise oskus, matemaatika sümbolite ja esitusvahendite kasutamise oskus, infootsingu oskus ning oskus eri liiki tekste lugeda ja analüüsida. Lisaks toimub uurimispädevuse areng erinevate õpitulemuste saavutamise kaudu ka kõigis nimetatud valdkondades, mistõttu eeldab valikõppeaine eesmärgipärane õpetamine mõtestatud lõimingut kõigi asjakohaste ainevaldkondadega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikõppeaine raames on võimalik käsitleda kõiki läbivaid teemasid ning toetada kõigi üldpädevuste arengut, sõltuvalt õpilastele huvipakkuvatest teemadest. Eelkõige toetatakse õppeaine raames aga ettevõtlikkuspädevuse, suhtluspädevuse, enesemääratluspädevuse ja õpipädevuse arengut, sest õppeaine fookuses on teabekeskkonna kriitiline analüüsimine, oma töö eesmärgistamine ja kavandamine ning oma seisukohtade selge ja asjakohane väljendamine. Kuna valikõppeaine toetab õpilasuurimuse läbiviimist ja valmimist, eeldab kursus selget ja läbimõeldud kohta kooli uurimistööde läbiviimise, juhendamise ja kaitsmise protsessis.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppetegevuse kavandamise ja korraldamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikõppeaine kursuse maht on 35 tundi ning selle õpitulemused ja õppesisu on esitatud ühe kursuse mahus. Õppeaine jagunemine auditoorseteks tundideks, iseseisvaks tööks ja/või e-õppevormideks määratakse kooli õppekavas. Valikõppeaine toetamiseks koostab kool uurimistööde läbiviimise üksikasjaliku juhendi, mida kursuse raames õpilastele tutvustatakse. Juhendis fikseeritakse uurimistöö struktuur, viitamise, vormistamise ja kaitsmise nõuded, määratakse juhendaja ja retsensendi roll ning hindamise põhimõtted. Õpilane ei pea valikõppeaine läbimise käigus viima iseseisvalt läbi terviklikku uurimistööd, kuid õppetöös luuakse õpilasele võimalused uurimistöö iseseisvaks läbiviimiseks vajalike oskuste kujunemiseks. Õppetööd korraldades luuakse võimalusi:</p><ol><li>iseseisvaks ja grupitööks;</li><li>erinevat tüüpi allikate otsimiseks ja analüüsimiseks;</li><li>uurimisprobleemi, uurimiseesmärgi, uurimisküsimuste ja hüpoteeside omavaheliste seoste mõistmiseks;</li><li>akadeemilise kirjutamise harjutamiseks;</li><li>ühiskondlikult aktuaalsete teemade üle arutlemiseks;</li><li>erinevate andmekogumismeetodite katsetamiseks;</li><li>konstruktiivse tagasiside andmiseks ja vastuvõtmiseks ning vastastikuseks retsenseerimiseks;</li><li>kooli uurimistööde juhendiga tutvumiseks;</li><li>oma tugevuste ja arenguvajaduste analüüsimiseks ning oma kogemuse reflekteerimiseks;</li><li>avalikuks esinemiseks ja aruteluks.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilasele tutvustatakse kursuse algul, mida, millal ja mille alusel hinnatakse. Hindamisel lähtutakse vastavatest gümnaasiumi riikliku õppekava üldosa sätetest. Hinnatakse õpilase teadmisi ja nende rakendamise oskust kirjalike, suuliste ja/või praktiliste tööde alusel (vt korraldatavad õppetegevused), arvestades õpilase teadmiste ja oskuste vastavust ainekavas taotletavatele õpitulemustele. Õpilane on hindamisel aktiivne partner, kes analüüsib ja tagasisidestab nii iseenda kui ka kaasõppijate tööd.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamisel võiks kasutada mitteeristavat (arvestatud-mittearvestatud) hindamissüsteemi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppekeskkonna kujundamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppekeskkond korraldatakse moel, et see pakuks õpilastele vajalikku tuge iseseisvaks ja/või grupis töötamiseks. Esmatähtis on luua vaimne õpiruum, mis toetab õpilase õppimist ja arengut ning arusaamist teadusliku uurimistöö protsessist. Selleks luuakse õpilasele võimalusi aruteluringide, akadeemiliste diskussioonide, õppekäikude, varasemate uurimistöödega tutvumise ning pideva eneserefleksiooni ja analüüsimise kaudu. Aine õppimisel kujundatakse ja kasutatakse ka virtuaalset õppekeskkonda, sh tehakse kursuse materjalid kättesaadavaks sobivas veebikeskkonnas, juhendatakse õpilasi internetis leiduvate infoallikate, juhendite ja materjalide leidmisel ning nendega töötamisel. Kool toetab võimaluste piires eksperimentide või katsete läbiviimist ning võimaldab õpilasele ligipääsu valikaine õppimiseks vajalikele vahenditele (sh veebikeskkonnad, tarkvara, riistvara, katsevahendid).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse õpitulemused ja õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            { "kind": "text", "html": "<p>Kursuse lõpul õpilane:</p>" },
+            {
+              "kind": "outcome",
+              "text": "tunneb teadusliku uurimistöö koostamise põhimõtteid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "sõnastab uurimisprobleemi, uuringu eesmärgi, uurimisküsimuse(d) ja vajaduse korral hüpoteesi(d) ning kavandab iseseisvalt uurimistöö",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab peamisi andmete kogumise meetodeid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "katsetab erinevate uurimisküsimuste käsitlemiseks sobilikke andmete kogumise meetodeid ja tunneb põhjalikumalt vähemalt ühte meetodit",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab, kasutab ja tõlgendab kriitiliselt uurimistööks vajalikke allikaid ning analüüsib allikate asjakohasust",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab eri tüüpi andmete töötlemiseks ja analüüsimiseks sobilikke kvalitatiivseid ja kvantitatiivseid meetodeid ning esitab andmeid sobival kujul",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb uurimistöö läbiviimiseks vajalikke ohutusnõudeid ja eetikanorme",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb kooli uurimistööde koostamise juhendis määratletud uurimistöö vormistamise ja viitamise nõudeid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb akadeemilise kirjutamise eripära ning väljendab oma seisukohti argumenteeritult ja allikatele viidates",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutleb oma töö teemal ning kaitseb oma töö tulemusi nii suuliselt kui kirjalikult",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "annab konstruktiivset tagasisidet ning võtab teistelt saadud tagasisidet arvesse",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "retsenseerib uurimistööd",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab oma tugevusi ja parenduskohti uurijana.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Uurimistöö olemus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kvalitatiivne ja kvantitatiivne uurimus. Uurimistöö eesmärgid ja tunnused. Mõistete defineerimine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Uurimistöös kasutatavad meetodid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Meetodite liigid ja valik. Valmisandmestikud ja allikad (ametlik statistika, statistilised andmebaasid, arhiivimaterjalid, varasemad uurimused, muud dokumendikogud). Andmekogumismeetodid (vaatlus, eksperiment, mõõtmine, intervjuu, ankeetküsitlus, uurijapäevik, hinnanguskaala jne). Valimi koostamine ja suurus, tulemuste usaldusväärsus. Andmekogumismeetodi rakendamine valimile. Isikuandmete kaitse ja uurimiseetika. Andmetöötlusmeetodid (kirjeldav statistika, korrelatsioon jne). Analüüsimeetodid (võrdlemine, reastamine, analüüs, süntees, üldistamine, argumenteerimine). Seoste loomine, tulemuste analüüs ja arutelu. Andmete esitlemise viisid (loendid, tabelid, graafikud, diagrammid jt).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Uurimistöö etapid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Koostöö juhendajaga. Teema valik ja piiritlemine. Töö allikatega (elektrooniline teabeotsing, allikakriitilisus ja plagieerimise vältimine). Uurimistöö kava koostamine. Uurimisküsimuse ja vajaduse korral hüpoteesi sõnastamine. Andmete ja informatsiooni (faktide) kogumine ja analüüs. Uurimistöö tulemuste tõlgendamine ja üldistamine. Uurimistöö kirjalik vormistamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Uurimistöö struktuur",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tiitelleht. Sisukord. Sissejuhatus. Põhiosa (peatükid ja alapeatükid). Kokkuvõte. Kasutatud materjalid. Lisad. Retsensioon. Resümee (emakeeles ja A-võõrkeeles). Tabelid ja joonised. Asjakohasus, paigutus. Vormistamisnõuded. Stiil ja keel. Akadeemiline kirjastiil. Loetavus ja mõistetavus. Terviklikkus ja sidusus. Lauseehitus ja sõnavalik. Objektiivsus. Ajavormid. Loetelud. Lühendite ja numbrite kasutamine tekstis. Õigekeel.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Viitamine ja vormistamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tsitaat ja refereering. Plagiaadi tähendus. Tekstisisene viitamine. Joonealune viitamine. Allikaloend (artikkel, raamat, õigusaktid, arhiivimaterjalid, elektroonilised allikad, dokumendid ilma isikuandmeteta jne). Allikakriitika.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kaitsmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kaitsmise protseduur. Töö tulemuste esitlemine. Avalik esinemine ja arutlemine. Retsenseerimine ja tagasiside. Retsensioon ja selle koostamine. Konstruktiivse tagasiside andmine ja vastuvõtmine. Eneseanalüüs ja refleksioon.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kuna valikõppeaine toetab õpilasuurimuse läbiviimist ja valmimist, eeldab kursus selget ja läbimõeldud kohta kooli uurimistööde läbiviimise, juhendamise ja kaitsmise protsessis.</p><ol><li>Uurimistööde valikkursust on võimalik õpetada eraldi nii kontaktõppes kui e-õppes (nt e-kursus Moodle´i keskkonnas). On võimalikud ka kombineeritud variandid: e-kursus + kontaktseminarid jm. Kursus võib eelneda uurimistööde koostamise protsessile, ent võib paralleelselt ka protsessi toetada. Mida suurem on õppijate struktureeritud juhendamine kursuse läbiviija/õpetaja poolt, seda enam on toetatud õppijate töö.</li><li>Kooliti võib erineda, kas keskendutakse vaid uurimistöödele või võimaldatakse sooritada ka loovuurimusi ning praktilisi töid.</li><li>Kooli õppekavas võib piiritleda teemavaldkonnad, milles õpilasuurimusi ja praktilisi töid ette valmistada saab, ning piiritleda, mis liiki praktilisi töid on võimalik selles koolis koostada.</li><li>Koolil on juhendajate/õpetajate poolt tunnustatud uurimis- ja praktiliste tööde juhend. Mida selgem ja põhjalikum, seda enam on õppijad toetatud.</li><li>Mida enam on kool välja töötanud erinevaid õppe- ja tugimaterjale, näidiseid jne, seda enam on õpiprotsess ning õpitulemuste saavutamine toetatud. Lisaks UPT koostamise juhendile võiks koolil olla nt esitluste tegemise juhend, UPT vormindamise juhend.</li><li>Koolil on võimalik luua õpilastele tingimused koolis varem kaitstud töödega tutvumiseks (nt UPT näidistööde elektrooniline kogu).</li><li>Olulisel kohal on õpilaste digipädevuse toetamine nt informaatika kursuse kaudu.</li><li>Kursuse tõhusale toimimisele aitab kaasa õpetajate koostöö ning ühtsed arusaamad. Näiteks eesti keele õpetaja käsitleb lisaks õigekeele küsimustele ka akadeemilise keele ja stiili küsimusi, resümee kirjutamist, võõrkeele õpetaja <em>abstract´i</em> kirjutamist, matemaatikaõpetaja statistika kasutamist ja andmeanalüüsi jne.</li><li>Kursuse sisuline ambitsioonikus ja õppe diferentseerimine kavandatakse õpilaste vajadustest ning võimetest lähtuvalt: kui süvitsi erinevate teemadega minnakse, millele enim tähelepanu pööratakse, käsitluse keerukus, õpitegevuste ülesehitus ja korraldus, toetavate materjalide/vahendite hulk, õpilastele antavad valikud, milliste allikatega õppijad töötavad (sh võõrkeelsed), õpitegevuste maht, hinnatavate ülesannete hulk ja hindamiskriteeriumid.</li><li>Õpilasi ei peaks vormima teadlaste sarnaseks. Tuleb leida meetodeid/võimalusi, kuidas erineva võimekusega õpilased leiaksid oma tee uurimiseks. Nt võimalus töötada rühmas konkreetse teema puhul, aga töö kirjutada üksi vm.</li><li>Kursusel luuakse võimalused nii iseseisvaks kui rühmas töötamiseks, aruteludeks grupis, kollokviumideks, seminarideks. Võib mõelda ka näiteks visuaalse lihtsustamise meetodi kasutamisele ideede genereerimisel, eesmärgistamisel, struktuuri loomisel jm.</li><li>Avaliku esinemise harjutamine võiks toimuda etapiviisiliselt: oma tööst ja tööprotsessist kõnelemine (etteantud ajaraami sees) algul väiksemas rühmas, siis suurema rühma ees kuni avaliku kaitsmiseni välja.</li><li>Eneseanalüüsi- ja refleksioonioskuste arendamiseks võib kasutada nt Graham Gibbsi refleksioonimudelit ja toetavaid küsimusi.</li></ol>"
+        },
+        {
+          "kind": "link",
+          "href": "https://loojauuri.artun.ee/#/lessons/Lp2XU7N9qyZoq-8x5bPgstxgSTLBbefp",
+          "title": "Graham Gibbsi refleksioonimudel"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikõppeainet õpetades korraldatakse (ja võidakse valikuliselt ka hinnata) kooli UPT juhendile toetudes järgmisi õppetegevusi:</p><ul><li>eelneva lennu uurimis- ja praktiliste tööde kaitsmisel osalemine ning selle analüüs;</li><li>uurimistöö teema valik ja piiritlemine;</li><li>uurimisprobleemi kirjeldamine;</li><li>uurimistöö eesmärgi ja hüpoteesi (võimaluse korral), uurimisküsimuste sõnastamine;</li><li>uurimismeetodite valik;</li><li>uurimistöö laiendatud kava koostamine ja esitlemine;</li><li>iseseisev töö erinevate materjalide ja allikatega, sh elektrooniline teabeotsing ning tutvumine erialase kirjandusega;</li><li>infootsingu ülesanded, infoallikate kriitiline analüüs ja hindamine;</li><li>andmekogumis-, andmetöötlus- ja analüüsimeetodite rakendamine;</li><li>tabelite, skeemide, diagrammide, jooniste koostamine, analüüs, vormistamine;</li><li>refereerimine ja tsiteerimine;</li><li>viitamine;</li><li>plagiaadi tuvastamine</li><li>retsensiooni koostamine;</li><li>uurimistöö vormistamise põhimõtted;</li><li>ettevalmistus uurimistöö avalikuks tutvustamiseks ning kaitsmiseks;</li><li>eneseanalüüsi- ja refleksioonioskuste teadlik arendamine.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Mõned abistavad juhendite viited",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://voru.edu.ee/images/Lisa_4_Vru_Gmnaasiumi_pilasuurimuse_ja_praktilise_t_juhend.pdf",
+          "title": "Võru Gümnaasiumi uurimistöö ja praktilise töö juhend"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.viljandigymnaasium.edu.ee/sites/viljandigymnaasium.edu.ee/files/dokumendid/opilasuurimuse_ja_praktilise_too_hindamisjuhend_marts_2023_2.pdf",
+          "title": "Õpilasuurimuse ja praktilise töö hindamisjuhend"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/voru.edu.ee/uptvormistamine",
+          "title": "Abiks UPT vormistajale"
+        },
+        {
+          "kind": "link",
+          "href": "https://docs.google.com/document/d/1wdnmOzS0-qFiU1W-5GdPB5KWpkVNNVHn/edit",
+          "title": "Informaatika kursus"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/19jFX9MSNzQHimBVivkqOmGNZiHDoiRi8/view",
+          "title": "Esitluse koostamise põhitõed"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Tehisintellekti kasutamine õppetöös",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hariduses kasutatakse tehisintellekti juba päris hoogsalt. Põhjalikku arutelu ka selle kursuse raames vajab küsimus, millist tuge saab tehisintellekt pakkuda õpetajale ning õppijale nii õppetöö ettevalmistamisel, selle läbiviimisel kui iseseisval õppimisel ja uurimistöö läbiviimisel. Kuidas kasutada tehisintellekti erinevaid rakendusi õppijate õppimise tõhusamal toetamisel (nt eelteadmiste aktiveerimine, ideede genereerimine, mõistete selgitamine, infootsing, info hindamise pädevuse kujundamine jpm)? Kuidas tehisintellekti käest targalt küsida? Kuidas tehisintellekti kasutada vastutustundlikult ja eetiliselt? Kas AI saab üldse olla autor ja kui saab, siis kas viitama peaks AI-le kui meetodile või kui autorile?</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Reeglid selle kohta, kuidas peaks AI kasutamisele korrektselt viitama, on pidevas muutumises, seega kindlaid vastuseid ses osas anda pole võimalik. Mõned juhendite-soovituste viited tehisaru kasutamiseks õppetöös:</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://ut.ee/et/sisu/tartu-ulikooli-suunis-tekstiroboti-kasutamiseks-oppetoos",
+          "title": "Tartu Ülikooli suunis tekstiroboti kasutamiseks õppetöös"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.tlu.ee/tehisintellekt",
+          "title": "Tallinna Ülikooli soovitused tehisintellekti kasutamiseks õppetöös"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.hm.ee/uldharidus-ja-noored/meediapadevus/tekstirobotid-koolis",
+          "title": "Tekstirobotid ja kool"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.sisekaitse.ee/et/tehisaru-kasutamine-oppe-ja-teadustoos?language_content_entity=et",
+          "title": "Tehisaru kasutamine õppe- ja teadustöös"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Teaduseetika ja andmekaitse õpilasuurimustes",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Andmekaitse ja eetikaga seotud küsimustele on hea pöörata tähelepanu juba uurimistöö protsessi algusfaasis, mil pannakse paika uurimisküsimus ning meetodid. Nii saab vajalike nõuete ja tingimustega arvestada juba aegsasti enne andmete kogumise alustamist. Läbi tuleks mõelda, milliseid andmeid, mis eesmärgil ja viisil kogutakse. Koolis on andmekaitsega seotud tegevuste ning küsimuste osas mõistlik sõlmida vastavad üldised kokkulepped ning vajadusel kaasata töösse ka andmekaitsespetsialist. Kokkuvõtvad üldised soovitused koolidele ja õpetajatele leiab siit:</p>"
+        },
+        { "kind": "link", "href": "http://Miks.ee", "title": "Miks.ee" },
+        {
+          "kind": "link",
+          "href": "https://miks.ee/uudised/teaduseetika-ja-andmekaitse-opilasuurimustes",
+          "title": "Teaduseetika ja andmekaitse õpilasuurimustes"
+        },
+        {
+          "kind": "file",
+          "src": "https://miks.ee/sites/default/files/Teaduseetika%20ja%20andmekaitse%20uurimist%C3%B6%C3%B6des_Juurik_Marten.pdf",
+          "title": "Teaduseetika ja andmekaitse õpilasuurimustes. Esitluse slaidid"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Soovitame lisada uurimistööle õpilase poolt allkirjastatud deklaratsiooni, millega ta kinnitab, et on teinud oma uurimistöö iseseisvalt ja järginud teaduseetika ja andmekaitse head tava ning võtab autorina uurimistöö eest täieliku vastutuse. Juhendajad saavad õpilastele deklaratsiooni tähtsust ja tähendust selgitada.</p><p>Deklaratsiooni sõnastus võiks olla järgmine:</p><p>Mina (nimi) kooli õpilane kinnitan, et olen oma uurimistöö (teema) koostanud ja teksti kirjutanud iseseisvalt, lähtudes hea uurimistava nõuetest ja kokkulepetest, sh Haridus- ja Teadusministeeriumi (2024) „Tehisaru juhendist“. Kõik selle kirjutamisel kasutatud teiste autorite tööd, põhimõttelised seisukohad, kirjandusallikatest ja mujalt pärinevad andmed on viidatud.<br>Nimi ja perenimi<br>Allkiri</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppekeskkonna laiendamise soovitused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Võimaluste piires toetab kool eksperimentide või katsete läbiviimist, võimaldab õpilastele ligipääsu valikaine õppimiseks vajalikele vahenditele (sh erinevad veebikeskkonnad, tarkvara, riistvara, katsevahendid jm).</li><li>Kursuse “Uurimistööde alused” materjalid on õpilastele kättesaadavad koolile sobivas veebikeskkonnas;</li></ul>"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/infootsitugi/avaleht",
+          "title": "Infopädevus. E-kursus"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/teadustoo_alused/avaleht",
+          "title": "Teadustöö alused. E-kursus"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/zoterojuhend/vabavaralised-viidete-haldurid-zotero-ja-mendeley",
+          "title": "Vabavaralised viidete haldurid Zotero ja Mendeley"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/autorioigus2022/avaleht",
+          "title": "Autoriõiguste alused gümnaasiumile"
+        },
+        {
+          "kind": "link",
+          "href": "https://teaduskool.ut.ee/et/uurimislabor",
+          "title": "TÜ teaduskooli uurimislabor"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppematerjalide viited",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Raudsepp, A. (2023). Uurimistöö ajaloos. Maurus.</li><li>Vija,M., Sõrmus, K., Artma, I. (2012). Uurimistöö kirjutajale. Atlex.</li><li>Hirsjärvi, S., Remes, K. (2010). Uuri ja kirjuta. Tallinn: Medicina.</li><li>Orav, K. (2023). Visuaalne lihtsustamine. Kuidas kasutada joonistamist ja kujutlusvõimet, et elada julget, mängulist ja tähendusrikast elu. Porrulans OÜ. 304 lk.</li><li>Kushner, M. (2000). Avalik esinemine. Käsiraamat. Kirjastus Koge.</li></ul>"
+        },
+        {
+          "kind": "link",
+          "href": "https://akadeemiake.ee/",
+          "title": "Akadeemiake. Õpilaste teadusajakiri"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/playlist?list=PLW5mkO0-9G019u9Y93SU1Lhw3dKiY3NSW",
+          "title": "SA Akadeemiake. Kuidas teha uurimistööd. Õppefilm"
+        },
+        { "kind": "link", "href": "http://miks.ee", "title": "miks.ee" },
+        {
+          "kind": "link",
+          "href": "https://www.miks.ee/abiks-uurimistoo",
+          "title": "Abiks uurimistöö tegemisel"
+        },
+        {
+          "kind": "link",
+          "href": "https://loojauuri.artun.ee/#/",
+          "title": "Loo ja uuri!"
+        },
+        {
+          "kind": "file",
+          "src": "https://etag.ee/wp-content/uploads/2023/07/Kairi-Kasearu.pdf",
+          "title": "Kuidas valida uurimistööle metoodikat?"
+        },
+        {
+          "kind": "file",
+          "src": "https://etag.ee/wp-content/uploads/2023/04/Terje-Tuisk-esitlus-11.4.2023-jagamiseks.pdf",
+          "title": "Loovtööde tegemine: mida saame õpilastelt oodata?"
+        },
+        {
+          "kind": "link",
+          "href": "https://miks.ee/uudised/teaduseetika-ja-andmekaitse-opilasuurimustes",
+          "title": "Teaduseetika ja andmekaitse õpilasuurimustes"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.miks.ee/poster",
+          "title": "Posterettekanne - milleks ja kuidas?"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.miks.ee/index.php/hea-poster",
+          "title": "Kuidas teha head postrit?"
+        },
+        {
+          "kind": "link",
+          "href": "https://samm.ut.ee/",
+          "title": "Sotsiaalse analüüsi meetodi ja metodoloogia õpibaas"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.kirmus.ee/sites/default/files/2019-11/HUNTS%20uurimismeetodite%20juhend.pdf",
+          "title": "Uurimismeetodite lühijuhend"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.teadustekst.ut.ee/",
+          "title": "Akadeemiliste tekstide kirjutamine"
+        },
+        {
+          "kind": "file",
+          "src": "https://dspace.ut.ee/bitstream/handle/10062/48450/avok_humaniora_final.pdf?sequence=1&isAllowed=y",
+          "title": "Akadeemiliste tekstide kirjutamine: humaniora"
+        },
+        {
+          "kind": "link",
+          "href": "https://taltech.ee/uudised/soovitused-avalikuks-esinemiseks?fbclid=IwAR0I422dhIxpV0Wt-QEvn_5E8rI_nguG9W0aFAKY_bfHwCztrrlTV34g2ss",
+          "title": "Soovitused avalikuks esinemiseks"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Veebiküsitluste keskkonnad",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.ankeet.ee/",
+          "title": "ankeet.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eformular.com/et/avaleht/eformular",
+          "title": "eFormular"
+        },
+        {
+          "kind": "link",
+          "href": "https://docs.google.com/forms/create",
+          "title": "Google Docs Form"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.limesurvey.org",
+          "title": "Limesurvey"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.surveymonkey.com/",
+          "title": "SurveyMonkey"
+        },
+        {
+          "kind": "link",
+          "href": "https://eoppija.ut.ee/book/k%C3%BCsitluste-loomine-ja-l%C3%A4biviimine-limesurveys",
+          "title": "Küsitluste läbiviimine LimeSurvey´s"
+        },
+        {
+          "kind": "link",
+          "href": "https://survey.ut.ee/index.php/58422",
+          "title": "Näidisküsitlus LimeSurvey´s"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Pildimaterjalid (NB! kasutustingimuste arvestamine)",
+      "children": [
+        { "kind": "link", "href": "https://pixabay.com/", "title": "Pixabay" },
+        {
+          "kind": "link",
+          "href": "https://www.flickr.com/creativecommons",
+          "title": "Flickr"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.flickr.com/photos/britishlibrary/albums",
+          "title": "The British Library"
+        },
+        {
+          "kind": "link",
+          "href": "https://commons.wikimedia.org/wiki/Main_Page",
+          "title": "Wikimedia Commons"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.stockvault.net/",
+          "title": "Stockvault"
+        },
+        {
+          "kind": "link",
+          "href": "http://morguefile.com/",
+          "title": "Morguefile"
+        },
+        {
+          "kind": "link",
+          "href": "http://scienceimage.csiro.au/",
+          "title": "CSIRO images"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ülikoolide digikogud",
+      "children": [
+        {
+          "kind": "link",
+          "href": "http://digi.lib.ttu.ee/",
+          "title": "Tallinna Tehnikaülikooli digikogu"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.etera.ee/",
+          "title": "Tallinna Ülikooli digiarhiiv ETERA"
+        },
+        {
+          "kind": "link",
+          "href": "http://dspace.ut.ee/",
+          "title": "Tartu Ülikooli digitaalarhiiv Dspace"
+        },
+        {
+          "kind": "link",
+          "href": "https://teaduskool.ut.ee/et/oppematerjalid",
+          "title": "TÜ teaduskooli õppematerjalid"
+        },
+        {
+          "kind": "link",
+          "href": "https://dspace.ut.ee/handle/10062/8541",
+          "title": "E-õppe materjalid. Tartu Ülikool"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Andmebaasid ja arhiivid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "REAAL- JA LOODUSTEADUSTE VALDKOND",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kodukoha arhiiv ja raamatukogu.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://etag.ee/wp-content/uploads/2022/08/Keskkonnaagentuur-andmed-looduse-kohta.pdf",
+              "title": "Andmed Eesti looduse kohta – kust ja kuidas neid saab?"
+            },
+            {
+              "kind": "link",
+              "href": "https://infoleht.keskkonnainfo.ee/",
+              "title": "EELIS – Eesti Looduse Infosüsteem"
+            },
+            {
+              "kind": "link",
+              "href": "https://elurikkus.ee/",
+              "title": "eElurikkus"
+            },
+            {
+              "kind": "link",
+              "href": "https://lva.eelis.ee/",
+              "title": "Loodusvaatluste andmebaasi veebileht"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ilmateenistus.ee/",
+              "title": "Keskkonnaagentuuri veebileht"
+            },
+            {
+              "kind": "link",
+              "href": "http://geoportaal.maaamet.ee/",
+              "title": "Maa-ameti geoportaal"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.stat.ee/",
+              "title": "Statistikaamet"
+            },
+            {
+              "kind": "link",
+              "href": "http://meteo.physic.ut.ee",
+              "title": "TÜ füüsikainstituudi ilmajaam"
+            },
+            {
+              "kind": "link",
+              "href": "https://eestikaardid.ee/",
+              "title": "Eesti kaardid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.geonames.de/",
+              "title": "Maailma riigid ja keeled"
+            },
+            {
+              "kind": "link",
+              "href": "http://tap.nutridata.ee",
+              "title": "Toitumise analüüsimise programm"
+            },
+            {
+              "kind": "link",
+              "href": "https://bio.edu.ee/",
+              "title": "TÜ Loodusteadusliku hariduse keskus"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "SOTSIAAL- JA HUMANITAARTEADUSTE VALDKOND",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kodukoha arhiiv ja raamatukogu.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-varamu.ee",
+              "title": "Eesti e-varamu portaal"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ester.ee/search~S1*est",
+              "title": "e-kataloog ESTER"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.digar.ee/arhiiv/et",
+              "title": "DIGAR. Digitaalarhiiv"
+            },
+            {
+              "kind": "link",
+              "href": "http://ise.elnet.ee/",
+              "title": "Eesti artiklite andmebaas"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.efis.ee/",
+              "title": "Eesti Filmi Andmebaas"
+            },
+            {
+              "kind": "link",
+              "href": "https://eki.ee/teatmik/",
+              "title": "Eesti õigekeelsuskäsiraamat"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eki.ee/knab/knab.htm",
+              "title": "Eesti Keele Instituudi kohanimeandmebaas (KNAB)"
+            },
+            {
+              "kind": "link",
+              "href": "https://ems.elnet.ee/index.php",
+              "title": "Eesti märksõnastik"
+            },
+            {
+              "kind": "link",
+              "href": "https://scholar.google.com/",
+              "title": "Google Scholar"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.lugeja.ee/index",
+              "title": "URRAM"
+            },
+            {
+              "kind": "link",
+              "href": "https://keeleabi.eki.ee/",
+              "title": "Eesti Keele Instituudi keelenõu ja andmebaasid"
+            },
+            {
+              "kind": "link",
+              "href": "https://datadoi.ee/handle/33/27",
+              "title": "Eesti Sotsiaalteaduslik Andmearhiiv"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ra.ee/",
+              "title": "Eesti Rahvusarhiiv"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ra.ee/film-foto-heli/foto/",
+              "title": "Eesti Rahvusarhiivi fotoinfosüsteem"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ra.ee/vau/index.php/et/page/article/index?menuId=3",
+              "title": "VAU Eesti kohaajalugu"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.folklore.ee/era/ava.htm",
+              "title": "Eesti Rahvaluule Arhiiv"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.riigiteataja.ee/",
+              "title": "Riigi Teataja"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.muis.ee/",
+              "title": "Eesti Muuseumide veebivärav"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ajaloomuuseum.ee/",
+              "title": "Eesti Ajaloomuuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/",
+              "title": "ERR arhiiv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

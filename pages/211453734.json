@@ -1,0 +1,451 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>II kooliastmes arendatakse loodusõpetuses edasi õpilaste loodusteaduslikku mõtlemisviisi ning uurimisoskusi. Kujundatakse oskust sõnastada katsega kontrollitavaid väiksema mahuga loodusteaduslikke küsimusi ning hüpoteese, katset kavandada, ellu viia ning järeldusi teha. Küsimustele vastuste otsimiseks innustatakse õpilasi kasutama ka teiseseid allikaid: populaarteadusajakirju, uudisteportaale ning raamatuid, eesti- või muukeelset Wikipediat jms. Kujundatakse esmane arusaam, kuidas leida usaldusväärset infot. Oluline on kavandada õpilaste huvidest ja kogemustest lähtuvaid uurimuslikke õppeülesandeid. Õppekeskkond peab võimaldama õpilasel olla loov ning julgustama teda arutlema seatud probleemide üle, et areneksid õpilase eneseväljendusoskused, sh loodusteaduslike mõistete kasutamise oskus. Süvendatakse õpilaste keskkonnahoiakuid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Nii II kui ka III kooliastmes on tähtis hoida õpilaste õpimotivatsiooni, kujundada huvi loodusteaduste õppimise ja loodusteadustega seotud elukutsete vastu, arusaama loodusteaduste ja tehnoloogia olulisusest igapäevaelus ning teadusuuringute vajalikkusest ühiskonnas.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kooliastme teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi looduse, selle uurimise ja loodusainete õppimise vastu",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "vaatleb ja kirjeldab loodus- ja tehisobjekte ning selgitab loodusnähtusi, kasutades õpitud loodusteaduslikke mõisteid, sümboleid ning ühikuid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru lihtsamast loodusteadustekstist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab või koostab mudelit, et näidata protsesside ja süsteemide mõistmist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab õpetaja juhendamisel lihtsamaid praktilisi töid, sõnastab uurimisküsimusi ja kontrollib hüpoteese, järgides ohutusnõudeid ning valides sobilikke mõõtevahendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib andmeid, teeb järeldusi ja esitab uurimistulemusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab ja sõnastab igapäevaeluga seotud probleeme ning pakub neile lahendusi, langetab põhjendatud otsuseid, kasutades loovat ja kriitilist mõtlemist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab infot loodusteaduste ja tehnoloogia kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab kasutatud allikate usaldusväärsust õpetaja abiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab õppimiseks, koostööks, andmekogumiseks ning -analüüsiks meedia- ja tehnoloogiavahendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, et teaduslikud teadmised on tõenduspõhised ning saadakse süsteemse uurimistöö tulemusena",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "t\u2060eadvustab teaduse ja tehnoloogia olulisust ning nende arenguga seotud riske",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab loodusteaduslike teadmiste vajalikkust igapäevaelus ja seotust tulevaste karjäärivalikutega, tunneb oma ümbruskonna loodusteaduste ning tehnoloogia valdkonnaga seotud elukutseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab inimtegevuse ja keskkonna seoseid kodukohas ja Eestis ning väljendab hoolivust ja lugupidamist kõigi elusolendite vastu",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab elurikkust ja jätkusuutlikku arengut",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "tegeleb keskkonnaprobleemidega kodanikualgatuse korras",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "käitub turvaliselt ning järgib tervislikke eluviise.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kooliastme õpitulemused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>6. klassi lõpetaja:</strong></p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab loodusteaduslikke mudeleid, selgitab mudelite toel objekte ja nähtusi: mandrite ja ookeanide paiknemist, päikesesüsteemi ehitust ning planeetide liikumist, öö ja päeva ning aastaaegade vaheldumist, veeringet",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab infot objektide ja nähtuste kohta, hindab info usaldusväärsust õpetaja abiga, koostab ja esitab valitud teemal ülevaateid (maailmaruum, looduskatastroofid, kodukoha järv/jõgi, looduskaitsealune liik/objekt, erinevad piirkonnad maailmas jms)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab koos kaaslastega loodusteadusliku uurimisküsimuse või hüpoteesi, kavandab ja teeb uurimuse kodukoha veekogu, asula, metsa, niidu vms põhjal, kogub ja vormistab andmeid ning esitleb uurimistulemusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab uurimiseks ja andmete kogumiseks tehnilisi abivahendeid (nt mikroskoop, digitaalsed andurid, luup, mõõdulint)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab katseid tehes turvalisi töövõtteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "pakub võimalusi, kuidas suurendada katsetulemuste usaldusväärsust, leiab katses mõjuteguri",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb looduse ja maailmaruumi uurimise vajalikkuse üle",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid, kuidas teadlased koguvad tõendusmaterjali",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab liikide tundmaõppimiseks määrajaid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab ja teeb koos kaaslastega vee puhastamise katseid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõõdab aine massi ja vedeliku ruumala ning valmistab lahust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõõdab õhutemperatuuri, hindab pilvisust ja tuule kiirust ning määrab pilvetüüpe ja tuule suunda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb ilmakaardi põhjal ilma Eesti eri osades ning iseloomustab jooniste põhjal õhutemperatuuri, sademete hulka ja tuule suunda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab kaardilt mandrid ja ookeanid, Euroopa suuremad riigid, Eesti maakonnakeskused, suuremad linnad, jõed, järved, sood, looduskaitsealad, lahed, väinad, poolsaared ja saared ning kirjeldab nende asendit",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb taimede, loomade, seente ja bakterite eluavaldusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab nende tähtsust looduses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid nende mõju kohta inimese organismile",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab inimese elundkondade tähtsamaid elundeid, nende ülesandeid ja talitlust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab keskkonnatingimuste mõju elusorganismidele (sh inimesele)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab taimede ja loomade kohastumusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja võrdleb koosluste (veekogu, soo, metsa, niidu, põllu/aia, asula) elutingimusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab nende tüüpilisemaid liike",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab koosluste kohta toiduahelaid ja toiduvõrke",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab toitumissuhteid ökosüsteemides (tootjad, tarbijad ja lagundajad)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab katsete põhjal vee, õhu ja mulla koostist ning omadusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab need looduses toimuvate protsessidega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, kuidas kujuneb põhjavesi, ning põhjendab selle kaitsmise vajadust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab joogivee saamise võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab koduasula elutingimusi ja keskkonnaseisundit (vesi, õhk, valgus, müra, jäätmed, inimkaaslejad loomad)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb ettepanekuid kodukoha keskkonnaseisundi parandamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb sellesuunalistes tegevustes",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab vee-, kanalisatsiooni- või energiasüsteemide toimimist koduasulas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab koduasula rohe- või puhkeala, koostab ammendunud karjääri kasutuskõlblikuks keskkonnaks muutmise kavandi, plaanib tulevikuasula vms",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb igapäevaelus kasutatavate materjalide omadusi ning seostab need kasutusaladega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab katsete põhjal jõu, liikumise ja energia seoseid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab energia liike ning -allikaid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab taastuvenergia tootmise ja kasutamise võimalusi oma kodukohas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb katsete põhjal heli levimist erinevates materjalides",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab heli kõrguse võnkumise sagedusega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib oma pere vee- või energiatarbimist ning olmejäätmete teket ja hindab nende mõju keskkonnale",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb ettepanekuid vee, energia ning materjalide säästmiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab olmejäätmete sortimise ja töötlemise vajadust ning sordib olmeprügi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab soode kujunemist ja arengut ning põhjendab soode rohkust Eestis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja võrdleb erinevaid mullaproove ning nimetab mulla koostisosi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab mulla kujunemist ja selle tähtsust looduses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid põllukultuuride saagikust mõjutavate tegurite, muldade kahjustumise põhjuste ning tagajärgede kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab mullaelustikku ning mullaorganismide seoseid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab hapniku ja süsihappegaasi põlemise, kõdunemise ning hingamise fotosünteesiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid ainete ringkäigu kohta looduses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab Läänemere vähese soolsuse põhjuseid ning Läänemere mõju Eesti ilmastikule",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb taastuvate ja taastumatute loodusvarade kasutamise ning Eesti keskkonnaprobleemide üle ja pakub nende lahendamise võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab inimtegevuse mõju kooslustele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb nende tähtsuse ning kaitsmise vajaduse üle",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab looduse uurimise, koosluste kaitse ja majandamise nendes valdkondades tegelevate elukutsetega.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on õppe osa, mille kaudu toetatakse õpilase õppimist ja arengut. Hindamine peaks muutma õppimise nähtavaks ehk see peaks andma ülevaate õpitulemuste saavutamise ja õpilase isikupärase arengu kohta ning toetatama tema kujunemist positiivse ja adekvaatse minapildiga õppijaks. Hindamise tulemusena saab õppija tagasisidet enda õppimise edenemise kohta ja õpistrateegiate valikuteks. Õpetaja saab teavet oma õpetamise tulemuslikkuse kohta ning sisendit nii õppe kui ka iseenda pädevuste arendamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilast hinnatakse õppimise eel diagnostiliselt, kestel kujundavalt ning teemade, kursuste ja kooliastme lõpus kokkuvõtvalt ning see peaks olema kooskõlas taotletavate õpitulemustega. Seda aitavad tagada mitmekesised hindamismeetodid, et toetada õpilase loodusteaduliku pädevuse (teadmised, oskused, hoiakud), arengut.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Diagnostiliselt hinnates selgitab õpetaja kursuse või teema alguses välja õpilase teemakohased eelteadmised, sh loodusteaduslikud väärarusaamad ning spetsiifilised õpiraskused, et kavandada edasist õpetamist. Diagnostiliseks hindamiseks sobib nii õpilaste suuline kui kirjalik küsitlemine, õpilaste enesehindamise küsimustikud, mis aitavad neil välja selgitada oma eelteadmisi ja ootusi õppeaine suhtes ning viktoriinid ja testid kasutades näiteks vastavaid veebikeskkondi, et saada kiiret tagasisidet. Kiiret tagasisidet õpetajale pakub ka õpilase koostatud mõistekaart, mis toob visuaalselt kergesti hoomatavalt välja õpilase arusaamise taseme teema põhimõistete ja nendevaheliste seoste kohta. Selleks sobivad hästi ka mõned veebikeskkonnad (nt <a href=\"https://coggle.it/\">https://coggle.it/</a>, <a href=\"https://www.mindmaster.io/\">https://www.mindmaster.io/</a> jt.). Diagnostilisi aineteste pakub Eksamite Infosüsteem (<a href=\"https://eis.ekk.edu.ee/eis/lahendamine\">https://eis.ekk.edu.ee/eis/lahendamine</a>).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppimise ajal saab õpilane suulist või kirjalikku sõnalist tagasisidet oma õppimise edenemise kohta. Kirjaliku tagasiside annab õpetaja jooksvalt suuremahulise töö, näiteks õpimapi, essee, uurimistöö jne edasiarendamiseks. Tagasiside peaks kirjeldama ära nii saavutatud taseme kui ka mis jääb saavutatust puudu ning mida peaks õpilane tegema, et see saavutada. Nii tagasiside andmist kui ka kokkuvõtva hindamise muudavad läbipaistvamaks hindamiskriteeriumid ning hindamismudelid. Need on eriti vajalikud avatud ja/või loovat mõtlemist nõudvate õppeülesannete edukaks sooritamiseks (uurimistööd, ettekanded, esseed, vaatmikud, õpilaste koostatud loodusteaduslikud mudelid, videod, postrid jms). <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">Vt näiteid siit</a>. Hindamismudeli kriteeriumid võivad hõlmata nii protsessi, õppimise saadust (nt uurimistöö aruanne) kui ka otseselt õpilase teadmisi, oskusi ja hoiakuid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamismudelid muudavad õpilasele arusaadavamaks õpetaja ootused, võimaldavad tal enda õppimist juhtida ning anda edasiviivat tagasisidet kaaslastele, mida tuleks vaadelda samuti õppimise osana, kuna selle käigus õpivad õpilased oma vigu märkama ja neid analüüsima. Lisaks aitavad need õpetajal panna kokkuvõtvat hinnet, kui töö on valmis, ning õpilane saab paremini aru, kuidas hinne kujunes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamise osana võib käsitleda ka õpilaste enese- ning rühmarefleksiooni. Näiteks arutlevad õpilased iseseisvalt, rühmas või koos õpetajaga oma õppimise üle – mis läks töös hästi ja mida saaks järgmisel korral paremini teha. E-keskkondade, klassiarutelu vms kaudu annab õpilane tagasisidet õpetajale selle kohta, kuidas tal läheb ning pakub välja võimalusi, kuidas muuta õppimist tõhusamaks. Refleksiooni soodustavad küsimused nagu:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li>Missune osa meie tänasest materjalist jäi Sulle kõige segasemakas?</li><li>Mis oli täna õpitud materjalis Sulle kõige raskem? Kõige kergem?</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Rühmaprotsesside ning koostöö suunamiseks:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li>Milline oli minu panus rühmatöösse?</li><li>Kas ma olin hea kuulaja? Kas ma arvestasin teisi või tahtsin oma arvamuse läbi suruda?</li><li>Kas mul/kõigil oli võimalik anda oma panus rühmatöösse?</li><li>Mida saaks järgmisel korral teha teisiti, et koostöö oleks tõhusam?</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Nii kujundava kui ka kokkuvõtva hindamise korral keskendutakse eelkõige õpitust arusaamisele, selle mõtestamisele ja selle üle arutlemisele ning teadmiste rakendamisele, mitte ainult õpitu meenutamisele. Hindamisviise/-vorme valides arvestatakse seda, et õpilase vanuse kasvades suureneb keerukamate ja suuremat pingutust nõudvate teadmiste ja oskuste kaal. Testide ja kontrolltööde kõrval hinnatakse esitlust, vaatmikku, uurimistöö aruannet, esseed, koostatud loodusteaduslikku mudelit, sh mõistekaarti, kollektsiooni, videot, õpimappi, projektitöö käigus väljatöötatud disaini või lahendust vm.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Uurimisoskusi hinnatakse ka osaoskustena, milleks on hüpoteeside/uurimisküsimuse esitamine või katse kavandamine etteantud situatsiooni või katsevahendite põhjal, järelduste tegemine etteantud andmete alusel, korraldatud katse kvaliteedi kriitiline hindamine, ettepanekute tegemine katsetulemuste usaldusväärsuse suurendamiseks ning kehtivate järelduste saamiseks. Hoiakute ning väärtushinnangute kujundamisel on tähtsal kohal õpilase enesehindamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilase hoiakud ja väärtushinnangud ei ole otseselt kokkuvõtva hindamise objektiks. Hoiakute ning väärtushinnangute kujundamisel on esikohal eelkõige õpilase enesehindamine. Küll aga saab kokkuvõtvalt hinnata õpilase oskust väärtusi mõtestada, st nende üle arutleda, neid põhjendada ning õigustada isiklikust või teiste vaatenurgast lähtudes. Samuti, kas ja kuidas suudab õpilane põhjendada õpitud teadmiste eneste väärtust (igapäevaelus, globaalselt, edasisteks õpinguteks).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Probleemülesannete (vt <a href=\"https://docs.google.com/document/d/1zHRw0igiM9VHgrduYt7ayALNxzxsi8Fp85wbxB7LEeg/edit?usp=sharing\">probleemülesannete tüüpe ja näiteid siit</a>) korral on hindamiskriteeriumideks pakutud lahenduse otstarbekohasus ning põhjenduste arv ja sotsiaalsete, eetiliste, majanduslike jm aspektide esiletoomine, originaalsus, loogilisus ning korrektse loodusteadusliku sõnavara kasutamise määr ja sügavus. Loodusteadusessee puhul on hindamise kriteeriumid probleemiseade selgus, näidete ja põhjenduste arv ning loogilisus, korrektsete loodusteaduslike mõistete kasutamise määr, järelduste kehtivus, tekstiosade üldine sidusus ning autori mõtete originaalsus (Vt <a href=\"https://drive.google.com/file/d/1rRtGDNB3VB3ONMTYRlDgbvYRB3z-LUne/view?usp=sharing\">hindamismudeli näidet</a>).Kognitiivselt erineval tasemel koostatud ülesannete, sh probleemilahenduse, uurimuslike ning kommunikatsioonioskusi hindavate ülesannete näiteid võib leida Haridus- ja Noorteameti kodulehelt (loodusteaduste e-tasemetöö: <a href=\"https://projektid.edu.ee/download/attachments/132157188/Loodus%C3%B5petuse%20I%20kooliastme%20tasemet%C3%B6%C3%B6%20eristuskiri.pdf?version=2&amp;modificationDate=1662109271118&amp;api=v2\">I kooliaste</a>, <a href=\"https://projektid.edu.ee/download/attachments/132157188/Loodus%C3%B5petuse%20II%20kooliastme%20tasemet%C3%B6%C3%B6%20eristuskiri_2022_uus.pdf?version=1&amp;modificationDate=1662131381803&amp;api=v2\">II kooliaste</a>, <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=94441997\">III kooliaste</a>).</p>"
+        }
+      ]
+    }
+  ]
+}

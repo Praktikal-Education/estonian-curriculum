@@ -1,0 +1,576 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Valikkursuse maht on 35 tundi, sellest 5 tundi tagasisidestamiseks ja praktilisteks töödeks, kordamiseks. Kooli eripärast lähtuvalt ja teemade süvendatud käsitlemiseks saab valikkursust laiendada 70 tunnini.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Ettevõtlusõpetuse kursusega taotletakse, et õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "omandab teadmisi, oskusi ning kujundab hoiakut, mis võimaldab tal olla ettevõtlik kodanik ja ettevõtja",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõtestab ettevõtlusvõimalusi, lähtudes enda huvidest, eesmärkidest, arengupotentsiaalist, oskustest ja eeldustest (loovus, uuendusmeelsus, riskijulgus) ning keskkonnast.",
+          "outcomeType": "competence"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Ettevõtlusõpetuse õppimise eesmärk on omandada arusaamine ühiskonnas toimuvatest nähtustest ja protsessidest ning vastastikustest seostest nii üksikisiku, ettevõtte, riigi kui ka rahvusvahelisel tasandil. Seejuures arendatakse õpilastes ettevõtlikku ja keskkonda väärtustavat ning säästvat eluhoiakut, probleemide lahendamise ja uurimise oskusi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kõik majandussüsteemid kasutavad oma tegevuseks mitmesuguseid ressursse. Maailmas valitsev ressursinappus sunnib riike, ettevõtteid ja inimesi tegema väga erinevaid valikuid ning otsuseid. Ettevõtlusõpetus aitab paremini mõista inimese ja keskkonna vastastikuseid seoseid ning langetada õiglasemaid otsuseid. Õppides näevad õpilased keskkonna, inimese ja majanduselu vastastikuseid suhteid ning säästva eluviisi vajadust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilased saavad teavet ettevõtja ameti ja erinevate elukutsete, elukutsetele esitatavate nõuete ja õppimisvõimaluste kohta, õpivad koostama elulookirjeldust ning käituma töövestlustel. Õpitakse analüüsima tööturu nõudmisi ja pakkumisi, nägema ja hindama oma soove ning võimalusi. Õpilased mõistavad töötaja kui ühe põhilise ressursi väärtust tööandja jaoks ja kõigi töötajate võrdse kohtlemise tagamise ja soolise võrdõiguslikkuse edendamise vajalikkust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpitav materjal esitatakse võimalikult probleemipõhiselt ja õpilase igapäevaeluga ning majanduses toimuvaga seostatult. Ettevõtlusõpetusel on tihe integratsioon matemaatika, geograafia, ajaloo ning ühiskonna- ja inimeseõpetusega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ettevõtlusõpetuse kursus on jagatud neljaks suuremaks teemaks:</p><ul><li>ettevõtluskeskkond,</li><li>ettevõtte alustamine,</li><li>turg ja turundus ning</li><li>finantsid.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpetaja lähtub tegevuste kavandamisel ettevõtlusõpetuse valikainekavast (ja sellega kaasnevast õppeprotsessi kirjeldusest), enda pädevustest (nt on õpetajal hea projektijuhtimise, ettevõtlusalane kogemus) ning arvestades kooli ja piirkonna võimalusi ning õpilaste ettepanekuid. Valikaine tugineb ettevõtlusõppe programmi raames välja töötatud ettevõtluspädevuse maatriksile. Ettevõtlusõppe valikkursus võib anda sisendi praktilise või uurimusliku töö läbiviimiseks gümnaasiumi lõpetamise tingimusena.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Ettevõtlusõpetuse kursuse läbimiseks saab kasutada järgmisi võimalusi",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Junior Achievement Eesti (JA Eesti) õpilasfirma programmi, mille raames viiakse läbi praktiline tegevus ettevõtte loomisest kuni lõpetamiseni. Selle variandi valimise korral peab õpetaja läbima vastava koolituse JA Eesti juures.</li><li>Äriplaani või ärimudelit, mille koostamise käigus tehakse teoreetiliselt läbi ettevõtte loomiseks vajalikud etapid äriideest finantsarvutusteni.</li><li>Õpetaja võib omal valikul kombineerida eelnevaid meetodeid – osa õpilasi osaleb õpilasfirmas, teised teevad projekte jne.</li><li>Õpetaja valib ise meetodid ja oma õpetamise teekonna, kuidas ainekavas nimetatud õpitulemusteni jõuda.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ettevõtlusõpet toetavad lisaks järgmised õppemeetodid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>Juhtumianalüüs – kogukonnas asuva ettevõtte teekond ettevõtlusesse. Õppeprotsess ehitada üles koostöös ettevõtjaga, kelle õppijad ise valivad analüüsimiseks ja õppe-eesmärkide saavutamiseks.</li><li>Ettevõtlusprojekti idee elluviimine praktilise tööna – ürituse, laada, teema- või projektipäeva või projektinädala korraldamine, raha taotlemine fondidest jne. Oluline, et kogu tegevuse käigus tehakse teoreetiliselt läbi kõik etapid ideest finantsarvestuseni.</li><li>Ettevõtlusteater, ettevõtliku kooli programm.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab, analüüsib ja hindab erisuguseid võimalusi ettevõtluseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on ettevõtlik ja tunneb ettevõtluse põhimõisteid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mida teha oma ettevõtte asutamiseks ja juhtimiseks",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub positiivselt ettevõtlusesse ning oskab hinnata endas ettevõtjale vajalikke omadusi ja neid arendada",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru turgude toimimisest ja kavandab turundusstrateegia",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab lihtsa ärimudeli, hindab vajalikke ressursse ja kavandab nende kasutamist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab ja selgitab majandusringlust ja maksusüsteemi, teeb eesmärgipäraseid valikuid finantsteenuste kasutamisel.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "1. TEEMA: Ettevõtluskeskkond (5 tundi)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "hindab endas ettevõtjale vajalikke omadusi",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab enda võimalusi tegutsemiseks ettevõtliku töötajana või ettevõtjana, lähtudes piirkonna või kodukoha ettevõtluskeskkonnast",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab näite alusel ettevõtte toimimist kohalikus ettevõtluskeskkonnas",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "on loov ja töötab välja äri- või projektiidee, arutleb meeskonnas kavandatud äriidee teostatavuse üle",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, analüüsib ja hindab ettevõtluse erisuguseid võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub positiivselt ettevõtlusesse ning oskab hinnata endas ettevõtjale vajalikke omadusi ja neid arendada.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ettevõtlikkus ja ettevõtlus; ettevõte, ettevõtja rollid ja vastutus; ettevõtluskeskkond, ettevõtluse võimalused ja riskid; äriidee ja selle kavandamine, rühmatöö tähtsus (ülesanded, vastutus, tööjaotus, aja planeerimine), ettevõtluse rolli ja olulisuse mõtestamine ühiskonna toimimisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ettevõtlikkus, ettevõtlus, äriidee, tööandja, ettevõtluskeskkond, SWOT.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd ja IKT rakendamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>CV koostamine ja vormistamine koostöös eesti keele või võõrkeele õpetajaga, kandideerimine meeskonda ametiülesannete täitmiseks ja motivatsioonikõne rühmale.</li><li>Äriidee väljatöötamine ja vormistamine rühmas.</li><li>Kodukoha ettevõtete kaardistamine (Valik: juhtumianalüüs, kohtumine ettevõtjaga, õppekäik ettevõttesse, töövarjuna ettevõttes, intervjuu ettevõtjaga, videolugu, video- või fotoreportaaž ettevõttest) individuaalselt või rühmatööna ja esitlus klassis.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Antakse ülevaade ettevõtluse põhimõistetest. Tuuakse näiteid, kuidas nappus sunnib ettevõtteid ressursside kasutamisel tegema arukaid valikuid.</li><li>Majandusringluse simulatsioon ressursside ja kaupade ringluse kohta, majapidamiste ja ettevõtete seos ressursi- ja kaubaturul. Mõistekaardi või majandusringluse skeemi koostamine.</li><li>Kohaliku ettevõtluskeskkonna analüüs: õpilased tutvuvad piirkonna ressursside, taristu, tööjõu olukorraga ja kaardistavad kohalikud ettevõtted, nende tegevusalad ja selgitavad nende toimimist.</li><li>Õpilased hindavad oma ettevõtlikkust ja hoiakuid ettevõtjaks saamise suhtes, kasutades erisuguseid küsimustikke ja materjale.</li><li>SWOT analüüsi võib koostada enda ettevõtlikkuse ja tulevase karjääri kohta või rühmatööna kohaliku ettevõtluskeskkonna analüüsimiseks.</li><li>Meeskondade moodustamine õpilasfirma tegevuseks, projekti- või äriidee väljatöötamiseks.</li><li>Ajurünnak äriidee leidmiseks.</li><li>Soovitav on kaasata kohalik ettevõtja tundi mõnda teemat käsitlema ja korraldada kohaliku ettevõtte külastus ettevõtluskeskkonna mõistmise eesmärgil.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Matemaatika:</strong> tabeli, diagrammi lugemine ja koostamine; <strong>eesti keel:</strong> funktsionaalne lugemine; ajalehe info analüüs, arutlus- ja esinemisoskuse kujundamine, CV koostamine; <strong>võõrkeel:</strong> sõnavara täienemine erinevate infoallikatega töötamisel; <strong>psühholoogia:</strong> enda ettevõtlikkuse hindamine ja ettevõtjale vajalike isikuomaduste analüüs; <strong>füüsika:</strong> füüsikateadmiste olulisus tehnoloogiaerialadel ja tootearenduses; <strong>geograafia:</strong> loodusolude ja ressursside tähtsus ettevõtluskeskkonnas, ettevõtete geograafiline paiknemine; <strong>muusikaõpetus:</strong> ettevõtluse võimalused muusikamaailmas ja ürituste korraldamisel; <strong>ühiskonnaõpetus:</strong> majandusringlus ja valitsuse võimalused ettevõtluse reguleerimisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Elukestev õpe ja karjääri planeerimine – ettevõtliku töötaja ja ettevõtja karjäär.<br />Tehnoloogia ja innovatsioon – uudsete ideede leidmine ja tehnoloogia võimalused nende elluviimiseks, IKT vahendite kasutamine.<br />Keskkond ja jätkusuutlik areng – ressursside nappus ja jätkusuutlik kasutus.<br />Kodanikualgatus ja ettevõtlikkus – aktiivne osalemine rühmatöös, äriidee või projekti teostamisel<br />Väärtused ja kõlblus –tarbija vajaduste mõistmine, ettevõtja eetika.<br />Teabekeskkond ja kultuuriline identiteet – info leidmine kohaliku ettevõtluse kohta, kultuurilisi eripärasid arvestav ettevõtluskeskkond.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "2. TEEMA Ettevõtte alustamine ( 9 tundi)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kavandab ettevõtte tegevuse, lähtudes äriideest ja ettevõtluskeskkonnast",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab rühmatööna ärimudeli, milles kajastuvad ressursid, sihtrühmad, väärtuspakkumine, investeerimine ja tasuvus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ettevõtte asutamisprotsessi vastavalt valitud ettevõtlusvormile",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "vormistab rühmatööna ettevõtte asutamiseks vajalikud dokumendid vastavalt valitud ettevõtlusvormile",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab rühmatööna ettevõtte tegevuskava",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab rühmatööna ettevõtte tasuvust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ettevõtlusvormid, ärimudeli koostamine ja analüüsimine, ettevõtte asutamise tingimused ettevõtte põhikirja jt asutamiseks vajalike dokumentide koostamine, ettevõtte tegevuse planeerimine, ressursid (tööjõud, tooraine, kapital), kasum, ettevõtte tasuvus ja selle hindamine enda ärimudelis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ettevõtluse põhivormid: FIE, osaühing, aktsiaselts; MTÜ ja sihtasutus ettevõtluses; sotsiaalne ettevõtlus; algkapital, ressursid, investeerimine, ärimudel, strateegiline juhtimine, missioon, visioon; väärtuspakkumine, ettevõtte tasuvus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd ja IKT rakendamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Ärimudeli koostamine praktilise rühmatööna näite alusel.</li><li>Ettevõtte asutamise protsess õpilasfirma tegevusena või asutamisprotsessi kirjeldus praktilise rühmatööna näite alusel ja vastavalt seadusandlusele.</li><li>Ärimudeli tasuvuse hindamine näite alusel rühmatöös, õpilasfirmas või juhtumianalüüsina.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvumine ettevõtte organisatsiooniliste vormidega ja nende eeliste ja puuduste võrdlemine rühmatöö käigus.</li><li>Äriidee hindamine rühmas, kasutades erinevaid meetodeid (näiteks SWOT jms).</li><li>Tutvumine ärimudeli ja äriplaani struktuuriga.</li><li>Ärimudeli koostamine ühelehelise ärimudeli lõuendi vm meetodil või lihtsa äriplaani koostamine.</li><li>Ettevõtlusprobleeme käsitlevate päevakajaliste ajakirjandusartiklite analüüsimine.</li><li>Ettevõtjate kutsumine tundi ettevõtte alustamise ja juhtimise kogemusi tutvustama.</li><li>Võimaluse korral õppekäigud ettevõtetesse.</li><li>Õpilaste osalemine töövarjupäeval, ettevõtja töö analüüs ja järeldused ameti või ettevõtte kohta.</li><li>Õpilasfirma arendamine (toote, teenuse väljatöötamine, omahinna ja algkapitali vajaduse arvutamine, sihtrühma määratlemine).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Eesti keel:</strong> asutamisdokumentide vormistamise reeglid ja õiguskeel, ajakirjandusartiklite analüüs, esitluste keeleline korrektsus; <strong>kirjandus:</strong> turu- ja ettevõtlusalased seosed teostes; <strong>matemaatika:</strong> ärimudeli tasuvuse hindamine; <strong>võõrkeel:</strong> sõnavara täienemine erinevate infoallikatega töötamisel; <strong>ühiskonnaõpetus:</strong> ettevõtlusvormid ja õigusaktid; <strong>geograafia:</strong> majandusharud ja ressursid; <strong>füüsika:</strong> ressursid ja omahind, keskkonnasõbralik tehnoloogia; <strong>perekonnaõpetus:</strong> iseenda ettevõtlikkuse hindamine ja ettevõtlus kui pere toimetuleku võimalus; <strong>muusika:</strong> ettevõtluse võimalused muusikamaailmas (helistuudiod, tehnika rent, kontserdikorralduse ettevõtted jm), andekad ja ettevõtlikud muusikud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Elukestev õpe ja karjääri planeerimine – ettevõtlus kui karjäärivalik.<br />Tehnoloogia ja innovatsioon – innovaatilised tooted ja teenused, nende tasuvusanalüüs.<br />Keskkond ja jätkusuutlik areng – ressursside säästlik ja jätkusuutlik kasutus; keskkonnasõbralik tehnoloogia ja ökoloogilised tooted.<br />Kodanikualgatus ja ettevõtlikkus – äriideed ja mittetulunduslik tegevus ühiskonnaprobleemide lahendamiseks, rühmatöö ja tegevus õpilasfirmas, projekti teostamine ja juhtimine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "3. TEEMA: Turg ja turundus (10 tundi)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "määratleb sihtrühmi lähtuvalt tootest või teenusest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab turundustegevused äriidees kirjeldatud tootele või teenusele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib ja esitleb rühmatööna valitud turundustegevusi lähtuvalt turust, sihtrühmast ja tootest.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Nõudlus, pakkumine ja turu tasakaal, konkurents, turunduseesmärgid ja -tegevused.<br />Toote ja teenuse, tarbija ja turu analüüs, sihtrühma määratlemine ja turundustegevuste valimine.<br />Konkurentsi analüüs ja turueeliste selgitamine. Turundusmeetmed ja reklaam. Ärieetika.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>turundus, müügistrateegia, reklaam, turu segmenteerimine, sihtrühm. Nõudlus, pakkumine ja turu tasakaal, konkurents, bränd ja kaubamärk.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd ja IKT rakendamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Sihtrühma analüüsimine näidete alusel rühmatööna.</li><li>Turundustegevuste plaani koostamine õpilasfirmale rühmatööna või näidete alusel.</li><li>Kaupluste müügitoetuse ja -tegevuste, kampaaniate võrdlemine või reklaamianalüüs.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpilased viivad läbi turu-uuringu ja analüüsivad oma äriidee toote või teenuse sihtrühma.</li><li>Soovitav on koostada turundustegevuste plaan lähtudes tootest, hinnast, turundussuhtlusest, müügikohast ja valitud müügistrateegiast.</li><li>Praktilise tegevusena analüüsitakse tuntud reklaame ja koostatakse oma tootele/teenusele reklaam.</li><li>Selgitatakse reklaami, brändi ja kaubamärgi tähtsust konkurentsieelisena.</li><li>Rollimängudes harjutatakse müügitegevust, turumäng nõudluse, pakkumise ja turuhinna kujunemise mõistmiseks. Turundustegevuse praktilised näited kohtumisel ettevõtjaga või õppekäigul ettevõttesse.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Matemaatika:</strong> turu-uuringu tulemuste statistiline analüüs, nõudluse-pakkumise graafikute lugemine; <strong>eesti keel:</strong> funktsionaalne lugemine; ajaleheteabe analüüs, arutlusoskuse kujundamine; <strong>geograafia:</strong> maailma brändid; <strong>kunstiõpetus:</strong> reklaami koostamine, kujundamine; <strong>informaatika:</strong> reklaami kujundamine arvutigraafika abil, info otsimine, turu-uuringu küsimustiku koostamine, levitamine ja andmetöötlus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Elukestev õpe ja karjääri planeerimine – turundus- ja müügitöö, turundusspetsialisti ja müüja roll.<br />Tehnoloogia ja innovatsioon – IKT kasutamine reklaami koostamiseks, turu-uuringuks.<br />Väärtused ja kõlblus – aus konkurents, tarbijateadlikkus reklaamide mõju hindamisel, sihtrühma vajaduste lahendamine ettevõtluses.<br />Tervis ja ohutus – toodete kvaliteet ja ohutus tarbijale.<br />Teabekeskkond ja kultuuriline identiteet – kultuurilisi eripärasid arvestav reklaam.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "4. TEEMA Finantsid (7 tundi)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "koostab rühmatööna õpilasfirma või ettevõtte investeeringute ja tegevuskulude eelarve ning müügiprognoosi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ettevõtte finantseerimisvõimalusi rühmatööna või õpilasfirmas",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab toote või teenuse omahinna ja müügihinna kujunemist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab majandusarvestuse lihtsamaid põhimõtteid, rahavoogude, bilansi ja kasumiaruande koostamist.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ärimudeli või õpilasfirma tulude ja kulude arvestus, ressursside säästlik kasutus, püsi- ja muutuvkulud, omahind ja müügihind, töö tootlikkuse ja kvaliteedi tähtsus hinna kujunemisel; majandusarvestuse põhimõtted ja reguleerivad õigusaktid, eelarve, bilansi ja kasumiaruande koostamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>finantseerimine ja investeerimine, eelarve, püsi- ja muutuvkulud, omahind, tootlikkus, bilanss, aktiva, passiva, käive, maksud ja maksed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd ja IKT rakendamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Õpilasfirma või ärimudeli investeeringute ja tegevuskulude eelarve koostamine.</li><li>Praktiline raamatupidamisdokumentide täitmine (bilansi, müügiprognoosi, kasumiplaani koostamine) rühmatööna.</li><li>Mõistekaardi koostamine ettevõtte rahastusvõimaluste ja kulude kohta.</li><li>Tööjõukulude ja palga arvutused.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ettevõtte raamatupidamist õpitakse praktiliste ülesannete lahendamise kaudu.</li><li>Õpilasfirma raamatupidamise arvestus JA Eesti näite ja raamatupidamistabelite abil.</li><li>Soovitav on lahendada töötasude ja maksudega seotud ülesandeid (palga ja ettevõtte palgafondi arvutamine, käibemaksu arvutamine).</li><li>Kutsuda tundi ettevõtja, raamatupidaja või maksuametnik finantsteemade käsitlemiseks.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Matemaatika:</strong> bruto- ja netopalga ning tööandja tööjõukulude arvutamine, ettevõtte raamatupidamise arvestus, eelarve ja bilansi koostamine; <strong>eesti keel:</strong> raamatupidamisterminite selgitused ja õigekiri; <strong>informaatika:</strong> Exceli arvutustabelite kasutamine; <strong>füüsika:</strong> enda ja pere eelarve koostamine, küttekulude, elektrienergia kasutamise analüüs ja ressursside säästlik kasutus; <strong>geograafia:</strong> omahinna ja müügihinna kujunemine, arvestades ressursside kättesaadavust ja loodusolude võimalusi, konkurentsi ja turu suurust, energia säästmise võimalused ja säästlik tarbimine perekonnas, koduasulas, kauba päritolu ja hinna kujunemise seosed; <strong>muusika:</strong> muusikatööstuses toodetud toote või kontserdipileti hinna kujunemine ning kuidas jagunevad plaadi müügist saadavad tulud; <strong>ühiskonnaõpetus:</strong> töö ja palk, selle kujunemine ja maksud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Elukestev õpe ja karjääri planeerimine – raamatupidaja, ökonomisti amet ja karjäär, töö ja töötasu seosed.<br />Tehnoloogia ja innovatsioon – raamatupidamisprogrammiga tutvumine, Exceli programmi kasutamine;digitaalsed maksed.<br />Väärtused ja kõlblus – täpsus ja ausus rahaasjades, maksude tähtsus ühiskonnas.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikaine õpitulemuste hindamine lähtub õppekava üldosas ja teistes hindamist reguleerivates dokumentides toodud hindamisalustest. Kontrollitakse ja hinnatakse õpilase teoreetilisi teadmisi, majandusalaste tekstide ja statistiliste andmetega töötamise oskust, informatsiooni leidmist ja situatsioonide lahendamist. Hinnatakse praktiliste tööde täitmise oskusi, loovust ülesannete lahendamisel, arutluse, argumenteerimise ning seoste loomise oskust, õpilase osalemist rühmatöödes ja aruteludes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpitulemusi hinnatakse sõnaliste hinnangute ja numbriliste hinnetega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse hinne kujuneb kontrolltööde, praktiliste tööde ning iseseisvate tööde ja ettekannete hinnetest.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamise aluseks on töö iseseisev sooritus, loovus ja vormistamise korrektsus. Ettevõtluskursus lõpeb sõltuvalt valitud õpetamismeetodist lõputöö, õpilasfirma tegevusaruande, äriplaani esitamise ja kaitsmisega või hindamisülesannete tulemuste esitamisega iga teema kohta.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppekeskkond",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kool korraldab õpet vastavalt püstitatud eesmärkidele ning selleks valitud meetoditele. Õpet aitab mitmekesistada hea Internetiühendus ja toimivad audiovisuaalsed vahendid. Õppe sidumiseks igapäevaeluga võimaldab kool õpetajatel rakendada ettevõtlusprogramme (nt JA Eesti, Ettevõtliku Kooli programm), õpet ja õppekäike väljaspool kooli (nt ettevõtetes, Ettevõtluskülas).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lisaks füüsilisele õppekeskkonnale tuleb ettevõtlikkuspädevuse kujundamiseks õppekeskkonnas lähtuda õpilaste heaolust, pöörates tähelepanu õpilaste seotus-, autonoomia- ja kompetentsusvajadustele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppekirjandus",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://ettevotlusope.edu.ee/materjalid/",
+          "title": "Materjalid – Ettevõtlus- ja karjääriõppe programm Edu ja Tegu (ettevotlusope.edu.ee)"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li>Majandusõpik gümnaasiumile. (2018). Junior Achievement Eesti SA.</li><li>Saal, T., Teder, J., Ohlau, A., Kull, A., jt.(2012). Ettevõtlikkusest ettevõtluseni: gümnaasiumiõpik. Sihtasutus Teadlik Valik.</li><li>Suppi, K. (2013). Ettevõtlus. Õpik-käsiraamat. Atlex.</li><li>Randma, T., Raiend, E., Rohelaan, R., Kupp, A., Mägi, J. (2007) Ettevõtluse alused. SA Innove</li></ul>"
+        },
+        {
+          "kind": "file",
+          "src": "http://www.tthk.ee/bw_client_files/tthk/public/img/File/Oppematerjal/Ettev_alused.pdf",
+          "title": "Ettevõtluse alused"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li>Sirkel, R., Uiboleht, K., Teder, J., Nikitina-Kalamäe, M. Ideest eduka ettevõtteni : õppematerjal,</li></ul>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.digar.ee/arhiiv/nlib-digar:43426",
+          "title": "Ideest eduka ettevõtteni : õppematerjal"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li>Töö ja oskused 20125. Tööjõuvajaduse seire- ja prognoosisüsteem OSKA, SA Kutsekoda.</li></ul>"
+        },
+        {
+          "kind": "file",
+          "src": "http://oska.kutsekoda.ee/wp-content/uploads/2016/04/Tulevikutrendid-1.pdf",
+          "title": "Tulevikutrendid-1"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li>Jaansoo, A. (2012). Turunduse alused. I: baasteooria, juhtumikirjelduste ja ülesannete kogu. SA Innove.</li></ul>"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.digar.ee/id/nlib-digar:120451",
+          "title": "Turunduse alused. I: baasteooria, juhtumikirjelduste ja ülesannete kogu"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li>Mägi, J. (2011). Ettevõtluse ja äriplaani koostamise alused. Kuressaare.</li></ul>"
+        },
+        {
+          "kind": "file",
+          "src": "http://www.eope.ee/_download/euni_repository/file/2168/Ettev6tlus_2011%20-tekst.pdf",
+          "title": "Ettevõtluse ja äriplaani koostamise alused"
+        }
+      ]
+    }
+  ]
+}

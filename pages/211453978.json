@@ -1,0 +1,202 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpilastes kujundatavad üldpädevused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "kultuuri- ja väärtuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus hinnata inimsuhteid ja tegevusi üldkehtivate moraalinormide ja eetika seisukohast; tajuda, analüüsida ja väärtustada oma seotust teiste inimestega, ühiskonnaga, loodusega, oma ja teiste maade ja rahvaste kultuuripärandiga ning nüüdiskultuuri sündmustega; väärtustada kunsti ja loomingut ning kujundada ilumeelt; hinnata üldinimlikke ja ühiskondlikke väärtusi, väärtustada inimlikku, kultuurilist ja looduslikku mitmekesisust; teadvustada oma väärtushinnanguid ja arvestada nendega otsuste langetamisel; olla salliv ja koostööaldis ning panustada ühiste eesmärkide saavutamisse;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "sotsiaalne ja kodanikupädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus ennast teostada; toimida aktiivse, teadliku, abivalmi ja vastutustundliku kodanikuna ning toetada ühiskonna demokraatlikku arengut ja Eesti riiklikku iseseisvust; teada ja järgida ühiskondlikke väärtusi ja kõlbluspõhimõtteid; austada erinevate keskkondade, sh suhtluskeskkondade reegleid ja ühiskondlikku mitmekesisust, inimõigusi, religioonide ja rahvuste omapära; teha koostööd teiste inimestega erinevates situatsioonides; aktsepteerida inimeste ja nende väärtushinnangute erinevusi ning arvestada neid suhtlemisel; suutlikkus mõista globaalprobleeme, võtta kaasvastutus nende lahendamise eest; väärtustada ja järgida jätkusuutliku arengu põhimõtteid; tunnetada end dialoogivõimelise ühiskonnaliikmena Eesti, Euroopa ja kogu maailma kontekstis;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "enesemääratluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus mõista ja hinnata adekvaatselt oma nõrku ja tugevaid külgi, arvestada oma võimeid ja võimalusi; analüüsida oma käitumist erinevates olukordades; käituda ohutult ja järgida tervislikke eluviise; lahendada oma vaimse ja füüsilise tervisega seonduvaid probleeme; käituda inimsuhetes sõltumatult; hankida teavet edasiõppimise ja tööleidmise võimaluste kohta, kavandada oma karjääri;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "õpipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus organiseerida õppekeskkonda individuaalselt ja rühmas ning hankida õppimiseks, hobideks, tervisekäitumiseks ja karjäärivalikuteks vajaminevat teavet; leida sobivad teabeallikad ja juhendajad ning kasutada õppimisel nende abi; planeerida õppimist ja seda plaani järgida; kasutada erinevaid õpistrateegiaid ja õpitut erinevates olukordades ja probleeme lahendades; seostada omandatud teadmisi varemõpituga; analüüsida oma teadmisi ja oskusi, motiveeritust ja enesekindlust ning selle põhjal edasiõppimise võimalusi;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "suhtluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus ennast selgelt, asjakohaselt ja viisakalt väljendada emakeeles ja iseseisva keelekasutaja tasemel vähemalt kahes võõrkeeles, arvestades olukordi ja mõistes suhtluspartnereid ning suhtlemise turvalisust; ennast esitleda, oma seisukohti esitada ja põhjendada; lugeda ning eristada ja mõista teabe- ja tarbetekste ning ilukirjandust; koostada eri liiki tekste, kasutades korrektset viitamist, kohaseid keelevahendeid ja sobivat stiili; väärtustada õigekeelsust, kasutada korrektset ja väljendusrikast keelt ning kokkuleppel põhinevat suhtlemisviisi;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus kasutada matemaatikale ja loodusteadustele omast keelt, sümboleid, meetodeid ja mudeleid, lahendades erinevaid ülesandeid kõigis elu- ja tegevusvaldkondades; mõista loodusteaduste ja tehnoloogia tähtsust ning mõju igapäevaelule, loodusele ja ühiskonnale; mõista teaduse ja tehnoloogiaga seotud piiranguid ja riske; teha tõenduspõhiseid otsuseid erinevates eluvaldkondades; kasutada uusi tehnoloogiaid loovalt ja uuendusmeelselt;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ettevõtlikkuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus ideid luua ja ellu viia, kasutades omandatud teadmisi ja oskusi erinevates elu- ja tegevusvaldkondades; näha probleeme ja neis peituvaid võimalusi, aidata kaasa probleemide lahendamisele; seada eesmärke, koostada lühi- ja pikaajalisi plaane, neid tutvustada ja ellu viia; korraldada ühistegevusi ja neist osa võtta, näidata algatusvõimet ja vastutada tulemuste eest; reageerida loovalt, uuendusmeelselt ja paindlikult muutustele ning võtta arukaid riske; mõelda kriitiliselt ja loovalt, arendada ja hinnata oma ja teiste ideid; rakendada finantskirjaoskust</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "digipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus kasutada uuenevat digitehnoloogiat toimetulekuks kiiresti muutuvas ühiskonnas nii õppimisel, kodanikuna tegutsedes kui kogukondades suheldes; leida ja säilitada digivahendite abil infot ning hinnata selle asjakohasust ja usaldusväärsust; osaleda digitaalses sisuloomes, sh tekstide, piltide, multimeediumide loomisel ja kasutamisel; kasutada probleemilahenduseks sobivaid digivahendeid ja võtteid, suhelda ja teha koostööd erinevates digikeskkondades; olla teadlik digikeskkonna ohtudest ning osata kaitsta oma privaatsust, isikuandmeid ja digitaalset identiteeti; järgida digikeskkonnas samu moraali- ja väärtuspõhimõtteid nagu igapäevaelus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppekava läbivad teemad",
+      "children": [
+        {
+          "kind": "section",
+          "title": "elukestev õpe ja karjääri planeerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>taotletakse õpilase kujunemist isiksuseks, kes on valmis õppima kogu elu, täitma erinevaid rolle muutuvas õpi-, elu- ja töökeskkonnas ning kujundama oma elu teadlike otsuste kaudu, sealhulgas tegema sobivaid haridus- ja tööalaseid valikuid;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "keskkond ja jätkusuutlik areng",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>taotletakse õpilase kujunemist sotsiaalselt aktiivseks, vastutustundlikuks ja keskkonnateadlikuks inimeseks, kes hoiab ja kaitseb keskkonda ning väärtustades jätkusuutlikkust, on valmis leidma lahendusi keskkonna- ja inimarengu küsimustele;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "kodanikualgatus ja ettevõtlikkus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>taotletakse õpilase kujunemist aktiivseks ning vastutustundlikuks kogukonna- ja ühiskonnaliikmeks, kes mõistab ühiskonna toimimise põhimõtteid ja mehhanisme ning kodanikualgatuse tähtsust, tunneb end ühiskonnaliikmena ning toetub oma tegevuses riigi kultuurilistele traditsioonidele ja arengusuundadele;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "kultuuriline identiteet",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>taotletakse õpilase kujunemist kultuuriteadlikuks inimeseks, kes mõistab kultuuri osa inimeste mõtte- ja käitumislaadi kujundajana ning kultuuride muutumist ajaloo vältel, kellel on ettekujutus kultuuride mitmekesisusest ja kultuuriga määratud elupraktikate eripärast ning kes väärtustab omakultuuri ja kultuurilist mitmekesisust ning on kultuuriliselt salliv ja koostööaldis;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "teabekeskkond ja meediakasutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>taotletakse õpilase kujunemist teadlikuks ja analüüsivaks inimeseks, kes tajub ja teadvustab adekvaatselt ümbritsevat teabekeskkonda, suudab meediamaailma sisu ja allikaid kriitiliselt analüüsida ja kasutada, austab intellektuaalset omandit, oskab luua kvaliteetset meediasisu, arvestades oma eesmärke ja ühiskonnas omaksvõetud suhtlemise norme, ning toimib turvaliselt ja vastutab oma käitumise eest end ümbritsevas teabekeskkonnas;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "tehnoloogia ja innovatsioon",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>taotletakse õpilase kujunemist uuendusaltiks ja nüüdisaegseid tehnoloogiaid eesmärgipäraselt kasutada oskavaks inimeseks, kes tuleb toime kiiresti muutuvas tehnoloogilises elu-, õpi- ja töökeskkonnas;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "tervis ja ohutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>taotletakse õpilase kujunemist vaimselt, emotsionaalselt, sotsiaalselt ja füüsiliselt terveks ühiskonnaliikmeks, kes on võimeline järgima tervislikku eluviisi, käituma turvaliselt ning osalema tervist edendava keskkonna kujundamises;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "väärtused ja kõlblus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>taotletakse õpilase kujunemist kõlbeliselt arenenud inimeseks, kes tunneb ühiskonnas üldtunnustatud väärtusi ja kõlbluspõhimõtteid, järgib neid koolis ja väljaspool kooli, ei jää ükskõikseks, kui neid eiratakse, ning sekkub vajaduse korral oma võimaluste piires.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lisad",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453978/gu%CC%88mn_ainekava%20po%CC%83hi_SOOVITUS.pdf?version=1&modificationDate=1707209212362&api=v2",
+          "title": "gümn_ainekava põhi_SOOVITUS.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453978/gu%CC%88mn_ainekava%20po%CC%83hi_SOOVITUS.docx?version=1&modificationDate=1707210304197&api=v2",
+          "title": "gümn_ainekava põhi_SOOVITUS.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453978/valdkonnakava%20u%CC%88ldosa_SOOVITUS.docx?version=1&modificationDate=1707212437048&api=v2",
+          "title": "valdkonnakava üldosa_SOOVITUS.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453978/X_GROK-vordlus.pdf?version=1&modificationDate=1707296422134&api=v2",
+          "title": "X_GROK-vordlus.pdf"
+        }
+      ]
+    }
+  ]
+}

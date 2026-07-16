@@ -1,0 +1,325 @@
+{
+  "content": [
+    {
+      "kind": "outcome",
+      "text": "määrab lavastuse stiili, arvestades nii lavastaja, muusikakujundaja, kunstniku, valgus- ja kostüümikunstniku tööd kui ka näitlejate mängu;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab olulisemaid tähiseid eesti teatri ajaloost;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "on vaadanud õppeperioodi vältel vähemalt kaht teatrietendust või nende salvestusi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab eesti romaani arengulugu;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "kirjeldab üldjoontes filmi valmimise käiku;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb filmi peamisi poeetikavõtteid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "mõistab filmikujutise tinglikkust, filmikujundit kui tähenduse kandjat, režissööri autorihoiakut ja sõnumit;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb peamisi filmiliike ja iseloomustab filmikunsti arengusuundi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab eesti kirjanduse ainetel valminud väärtfilme.",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab ja analüüsib tänapäeva vene kirjanduse üksikuid teoseid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "topic",
+      "title": "Draama ja teater",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppe vältel loetakse ning analüüsitakse draamateoseid, vaadatakse ja mõtestatakse ühiselt teatrietendusi ning täidetakse lihtsamaid dramatiseerimisülesandeid. Valikkursuse jooksul omandatakse nii teoreetilisi teadmisi kui ka praktilisi oskusi. Teatriajalugu hõlmab pelgalt väikese osa kogu valikkursuse mahust, kuid on nüüdisteatri mõistmise seisukohalt siiski vajalik.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Põhitähelepanu pööratakse draama olemuse ja teatritegemise spetsiifika selgitamisele ning etenduse analüüsile. Võimaluse korral on soovitatav käia professionaalses teatris, kuid analüüsiks sobib ka kooliteatri etendus. Et tutvuda eesti teatriklassikaga, võib kasutada arhiivisalvestusi.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teater on olemuselt erinevate kunstiliikide sulam, ühendades muusika, tantsu, kirjanduse, (video)filmi ja kujutava kunsti, mis võimaldab lõimida valikkursust kunsti- või muusikaõpetusega. Eraldi pööratakse valikkursuses tähelepanu eesti teatri kujunemisele ja praegusele arengule.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikkursusega taotletakse, et õpilane mõistab draamakunsti põhialuseid ja teatri tähendust meie kultuuris.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Draama olemus. Näidend. Draama mõiste. Tegelaskõne: dialoog ja monoloog, repliik ja remark. Tegelase analüüs: muutumatu ja muutuv tegelane, avatud ja suletud tegelane. Näitleja rolliloome. Draama keskendatus inimestevahelisele suhtlemisele ning elu teatraalsusele. Draamateose aeg ja ruum. Konflikt, intriig ning probleem. Draamateose kompositsioon. Vaatus, stseen.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Dramaatika žanrid. Dramaatika põhižanrid: tragöödia, komöödia, draama, tragikomöödia. Ajaloolised žanrid: liturgiline draama, müsteerium, moralitee, miraakel. Commedia dell’ arte ja tänapäeva improvisatsiooniline teater. Performance ja happening. Farss, jant ning sketš. Püstijalakomöödia. Koomika liigid: situatsiooni-, karakteri- ja sõnakoomika. Kuuldemäng ja lugemisdraama. Sõnadeta lavastus. Tantsulavastus. Muusikalavastus. Füüsiline teater. Postdramaatiline teater. Vormiotsingud. Dokumentaaldraama, rühmatöö meetod.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teatri tähendus ja funktsioonid. Teatri ühiskondlik ja poliitiline tähendus. Teatri ja tegeliku elu piiride hägustumine. Lavastajatöö. Teater kui kollektiivne kunst: dramaturg, lavastaja, näitleja, helikujundaja, muusikakujundaja, kunstniku, valguskunstniku ja kostüümikunstniku roll lavastuse valmimisel. Kirjanduse ja teatri suhted: dramatiseering, stsenaarium, libreto, lavastus, etendus. Lavastuse stiil ja atmosfäär. Etenduse vastuvõtt ja teatrikriitika. Teatriarvustus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eesti teatri ajalugu. Lydia Koidula ja August Wiera teater. Kutselise teatri sünd. Karl Menning. Estonia teatri ja Draamateatri asutamine. Hommikteater. Lavastajad: Andres Särev, Kaarel Ird, Voldemar Panso, Jaan Tooming, Mati Unt, Merle Karusoo, Elmo Nüganen, Tiit Ojasoo, Ene-Liis Semper. Nüüdisteater. Repertuaariteater ja projektiteater.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mõisted: commedia dell’ arte, dialoog, draama, dramatiseering, dramaturg, etendus, farss, happening, intriig, jant, karakter, karakterikoomika, komöödia, konflikt, kuuldemäng, lavastus, liturgiline draama, lugemisdraama, miraakel, monoloog, moralitee, müsteerium, performance, postdramaatiline teater, projektiteater, remark, repertuaariteater, repliik, situatsioonikoomika, sketš, stseen, stsenaarium, sõnakoomika, tragikomöödia, tragöödia, vaatus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti romaan",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikkursus keskendub eesti kirjandusele ja selle süvakäsitlusele, seades esiplaanile ilukirjandusliku stilistika. Kursus väärtustab eesti kirjandust, eelkõige romaani, sest pärast gümnaasiumi lõpetamist puutub enamik õpilastest ilukirjanduse lugejana enim kokku just selle žanriga.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Romaanide süvakäsitlus aitab õpilasel eesti kirjandust ja kogu kultuuri sügavamalt mõista ja väärtustada ning tekitab suuremat huvi eesti kirjanduse lugemise vastu. Kursus lõimub valikkursusega „Kirjandusteose analüüs ja tõlgendamine“ ning eesti keele kursusega „Teksti keel ja stiil“, mis ei keskendu ilukirjanduslikule stiilile. Kursus võimaldab arendada nii keele-, kirjandus kui ka üldpädevusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikkursusega taotletakse, et õpilane mõistab eesti romaanikirjanduse ühiskondlikku, ajaloolist ja rahvuskultuurilist tähtsust ning kujundab kirjanduse kaudu oma esteetilisi ja eetilisi hoiakuid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti romaani arengu ülevaade esimestest eesti romaanidest tänapäevani. Tänapäeva eesti romaani arenguid ja suundumusi. Eesti romaanivõistlused ja kirjandusauhinnad. Romaanide vastuvõtt kriitikas.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teose sotsiaalne taust, kultuuriline ja ajalooline kontekst. Kirjaniku ja lugeja suhtlus tähenduse loojana. Eesti romaani sisuline ja vormiline mitmekesisus. Eri ajastute, voolude, žanrite ja stiilide näiteid eri autorite romaaniloomingu (võrdluse) põhjal. Eri kirjanike loomingu kokkupuutepunkte.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kirjanikule omased teemad, kujutamislaad ja kujundiloome narratiivi ja tähenduse loomisel. Kirjaniku individuaalsus. Kirjaniku koht ajastus, traditsioonis ja rahvuskirjanduses. Autoripositsioon teoses. Sarnase teema, situatsiooni, tegelase, miljöö, aja ja ruumi kujutamise võrdlus eri kirjanike teostes. Keel kui ilukirjandusliku stiili loomise vahend. Teksti keelekasutuse ja sisu seosed. Ilukirjandusteksti tähenduste paljusus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mõisteid: ajalooline romaan, arenguromaan, autoripositsioon, epopöa, krimiromaan, modernistlik romaan, narratiiv, omaelulooline kirjandus, postmodernistlik romaan, psühholoogiline romaan, realistlik romaan, sotsiaalolustikuline romaan, ulmeromaan.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Käsitletavad tekstid. Käsitletavad tekstikatkendid ja tervikteosed valitakse nii, et need võimaldavad käsitleda kursuse õppesisu ja õppekava läbivaid teemasid ning toetavad üld- ja valdkonnapädevuste kujundamist.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kirjandus ja film",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikkursus keskendub kirjanduse ja filmi kokkupuutepunktidele. Kuna süsteemne filmiõpetus üldjuhul nii põhikoolis kui ka gümnaasiumis puudub, antakse valikkursuse jooksul õpilastele esmane ülevaade sellest, kuidas film tänapäeval valmib. Valikkursuse põhirõhk on filmikeele (poeetika) õpetamisel, mis on omakorda valikkursuse alateema „Film kui kirjandusteose tõlgendus“ vältimatu alus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Et anda ülevaade filmikunsti olemusest, õpetada filmi- ja kirjandusteose ühe- ja erilaadse poeetika mõistmist, vajab õpetaja tunni organiseerimiseks piisavalt visuaalset õppematerjali (filmilõike linateose valmimise etappidest, lähivaatluseks filmide ja kirjandusteoste katkendeid jms), ent ka tänapäevaseid tehnovahendeid (videoprojektorit, arvutit vm multimeediavahendeid). Soovitatav on mõne lihtsama filmimonteerimisprogrammi abil monteerida ka kaadreid, et paremini mõista filmikujundi olemust. Valikkursuse jooksul käsitletavad tervikteosed (nii filmid kui ka kirjandusteosed) valib õpetaja, õpilastel on soovitatav enne filmi vaatamist läbi lugeda vastav kirjandusteos.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1) omab põhiteadmisi filmi olemusest ja vastuvõtust ning mõjust vaatajale;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>2) tajub filmikeele poeetikat kirjandusteoste tõlgendamisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Filmi loominguline meeskond ja valmimine. Stsenaariumi periood: osalevad stsenarist, režissöör, produtsent; tulem – valmis stsenaarium. Stsenaariumi etapid: ideekavand (sünopsis), arendus, stsenaariumi variandid. Süžeeliinid ja areng: proloog, ekspositsioon, sõlmitus, intriig, kulminatsioon, lahendus, epiloog.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Filmimise ettevalmistus: osalevad režissöör, operaator, kunstnik, produtsent; tulem – filmi lavastusprojekt. Režiistsenaarium ja kadreering, lavastusprojekt kui filmi mudel. Näitlejate valik ja näitlejaproovide filmimine. Võttekohtade otsimine ja dekoratsioonide planeerimine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Võtteperiood: osaleb kogu filmirühm; tulem – filmitud materjal. Meeskonnatöö filmi võtteperioodil. Režissööri osa filmirollide kujundamisel. Liikuv kaamera: panoraamid, peale- ja ärasõit. Rakurss (võttepunkt). Stoppkaader ja aegluup. Varjatud kaamera. Kombineeritud võtted. Valgus, värv ja heli. Duublid ja variandid. Produtsendi roll filmi loomisel. Autorifilm ja produtsendifilm.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Järeltootmine: osalevad režissöör, monteerija, helirežissöör, operaator, produtsent; tulem – valmis film. Filmi lõplik sünd montaažis. Monteeritud filmi värvikorrektsioon. Helilooja töö. Audiovisuaalse terviku tekkimine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Filmipoeetika ja -esteetika. Tinglikkus filmis. Kinematograafiline nägemine ja mõtlemine. Filmikujund kui kunstiline üldistus. Filmi poeetikavõtted: metafoor, sümbol, allegooria, hüperbool, personifikatsioon. Assotsiatiivne mõtlemine kui filmipoeetika mõistmise eeldus. Illustratiivsus – nähtuste poeetilise avamise vastand.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kaader ja plaan. Kaader kui katkestamata filmivõte. Kaadri kompositsioon. Montaaž kui uute ajaliste-ruumiliste ja emotsionaalsete suhete loomise viis. Filmi süžee ja faabula. Kaadrisisene ja kaadritevaheline montaaž. Montaaži rütm. Detailid. Montaaži fraas, stseen, episood.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tänapäeva filmikunsti jooni ja suundi. Uue filmikeele otsingud. Filmiliikide ja žanride segunemine ning uute kujunemine. Dokumentaalsus mängufilmis. Tõsielufilmi poeetikavõtted. Kommertsfilmi olemus ja ideoloogiline funktsioon. Kultusfilm. Väärtfilm. Nüüdisaegne poliitiline film ja propagandafilmid. Rahvusvahelised filmifestivalid.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Film kui kirjandusteose tõlgendus. Filmi ja kirjanduse suhted. Eesti ja maailmakirjanduse klassika ainetel valminud filme. Kirjandusteost illustreeriv ekraniseering ning kirjandusteose loominguline töötlus. Üht ja sama kirjandusteost erinevalt tõlgendavad filmid. Kirjandusteoste põhjal valminud väärtfilme. Kirjandusteose ja filmi võrdlev analüüs. Filmikriitika. Filmiretsensiooni kirjutamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mõisted: autorifilm, detail, dramaturgia, duubel, filmikriitika, filmipoeetika, filmiretsensioon, kaader, kommertsfilm, kultusfilm, montaaž, motiiv, plaan, produtsendifilm, rakurss, režissöörifilm, stsenaarium, süžee, väärtfilm.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tänapäeva vene kirjandus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikkursus avardab õpilase võimalusi mõista kirjaniku kunstilist maailma ajalooliskirjanduslikus kontekstis. Valikkursus hõlmab perioodi 20. sajandi 80. aastate lõpust kuni tänapäevani. Nende aastate kirjandus (eriti viimased kümme aastat) on õpilasele iseseisvaks mõistmiseks keeruline, sest tänapäeva kultuuriloolise arengu etapp asub evolutsioonilise kriisi perioodis. Kirjandusteaduses ei ole ühist seisukohta, kuidas kvalifitseerida uue kirjanduse mõistet. Seepärast on õpilastel uusi teoreetilisi teadmisi omandades vaja õpetaja abi.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kirjandusteost käsitledes tugineb õpilane omandatud teoreetilistele ja praktilistele teadmistele ning oma isiklikule elukogemusele. Valikkursusesse on valitud nüüdisaja kirjanduse teoseid, mille probleemiasetus on gümnaasiumiõpilasele lähedane. Valikkursuse õppimine aitab õpilastel orienteeruda probleemides, mida on vahelduva eduga tõstatatud tänapäeva vene kirjanduses, ning kujundada oma suhtumist nendesse. Kirjandusklassika eelneva õppimise ja oma isikliku kogemuse toel kujuneb õpilasel püsivam huvi lugemise vastu ning laieneb silmaring.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilased tutvuvad tänapäeva vene kirjanduse huvitavamate teostega, analüüsivad nende kunstilisi iseärasusi ja kõlbelist problemaatikat. On tähtis, et õpilased mõistaksid kirjanduse erinevate suundade teoste esteetilist eripära, kuid mõtestaksid neis teostes käsitletavaid probleeme ka oma elukogemuse prisma läbi. Kirjandusteoste loend on soovituslik: õpetaja otsustab ise, mis teoseid käsitletakse põhjalikumalt, mida ülevaate korras.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1) tutvub tänapäeva vene kirjanduse põhitendentsidega ning tänapäeva vene kirjanike loomingu ja huvitavamate teostega; õpib nüüdiskirjanduses nägema traditsioone ning uuenduslikkust;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>2) arendab kirjandusteoste probleemse ja kirjandusteadusliku analüüsi vilumusi ning kujundab isiklikku suhtumist loetusse;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>3) arendab oma kunstimaitset, õpib süvenenult ja teadlikult lugema;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>4) tunneb vajadust ilukirjanduse lugemise järele ning mõistab, et kirjandus on inimese vaimse kultuuri lahutamatu osa.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Temaatika. 20. sajandi lõpu ja 21. sajandi alguse kirjandus. Uus vaade sõja kujutamisele. Tänapäeva vene kirjanduse kangelane piirsituatsioonis ning tema katsed mõista elu mõtet uue realismi teostes. Kõlbelise degradeerumise probleemid. Inimese kõlbelise valiku probleem. Massikirjandus ja selle orientatsioon massilisele nõudlusele. Peresuhted tänapäeva vene kirjanduses. Maailma mõistmine kaosena. Kirjandus kui intellektuaalne mäng.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mõisted: tänapäevane kirjandusprotsess; intertekstuaalsus (teksti suhe teiste kirjandusallikatega); kirjandustraditsioonide järgimine ning uuenduslikkus; tänapäeva vene kirjanduse žanrid (traditsioonilised ja uued); fantasy ehk fantastiline romaan; avantüüriromaan, nn uus detektiivromaan; kontseptualism tänapäeva luules, massikirjandus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Arutlusteemasid: Uus vaade sõja kujutamisele. Loogiliste ja ajaliste seoste rikkumine kunstiteose kangelase teadvuses. Ajaloolise mälu kadumine inimestel. Inimese piiritu püüd materiaalsele heaolule ning selle tagajärjed meie ajal. Tänapäeva kirjandustegelase iseärasused vene kirjanduses. Põhiteemasid ja probleeme tänapäeva vene kirjanduses.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õppe kavandamine ja korraldamine. Õppes kombineeruvad õppe eri liigid, kuid loengumeetodit rakendatakse minimaalselt. Rakendatakse erinevaid iseseisva töö vorme: teoste lugemine, diskussioon, dispuut, seminar. Õpilased koostavad ülevaateid, retsensioone, referaate, esitlusi; kirjutavad kirjandeid, teevad uurimistöid.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa8.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 8"
+        }
+      ]
+    }
+  ]
+}

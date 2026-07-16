@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Keemial on oluline roll õpilaste loodusteadusliku maailmapildi kujunemisel. Gümnaasiumi keemiaõpe tugineb põhikoolis omandatud teadmistele, oskustele ja hoiakutele ning seostub gümnaasiumi füüsikas, bioloogias, matemaatikas jt õppeainetes õpitavaga, toetades samaaegu teiste õppeainete õpet. Keemiat õppides areneb õpilastel loodusteaduslik pädevus ning omandatakse positiivne hoiak keemia ja teiste loodusteaduste suhtes ning mõistetakse loodusteaduste tähtsust inimühiskonna majanduse, tehnoloogia ja kultuuri arengus. Õpilastel kujuneb vastutustundlik suhtumine elukeskkonnasse ning õpitakse väärtustama tervislikku ja kestlikku eluviisi. Keemias ning teistes loodusainetes omandatud teadmised, oskused ja hoiakud on aluseks sisemiselt motiveeritud elukestvale õppimisele. Õpilastel kujuneb gümnaasiumitasemele vastav loodusteaduslik pädevus ning terviklik loodusteaduslik maailmapilt. Nad õpivad tundma aine ehituse põhialuseid ning keemiliste protsesside peamisi seaduspärasusi. Õpilastel kujuneb ülevaade anorgaanilistest ja orgaanilistest ainetest, nende peamistest omadustest ja ainetevahelistest seostest, keemia tulevikusuundumustest ning keemiaga seotud elukutsetest, mis toetab õpilasi edasises karjäärivalikus.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Probleemülesannete lahendamine aitab õpilastel mõista ainete koostise ja ehituse mõju ainete omadustele ning selle kaudu ainete rakendamise võimalustele. Keemiaõpingutes on olulisel kohal uurimisülesanded, mille lahendamisega kujunevad õpilastel probleemide esitamise, hüpoteeside sõnastamise ja katsete või vaatluste plaanimise ning nende tegemise, mõõtevahendite kasutamise, tulemuste analüüsimise ja tõlgendamise oskused. Keemia arvutusülesandeid lahendades pööratakse tähelepanu eelkõige käsitletavate probleemide sisulisele mõistmisele, tulemuste analüüsile ning järelduste tegemisele. Tähtsal kohal on teabeallikate kasutamise ja neis leiduva teabe analüüsimise ning kriitilise hindamise oskuse kujundamine, samuti uurimistulemuste suuline ja kirjalik esitamine. Kõigis õppeetappides rakendatakse tehnoloogilisi vahendeid ja IKT võimalusi. Keemiat õppides pööratakse tähelepanu seostele teiste loodusteadustega ning keskendutakse looduses (sh inimeses endas) toimuvatele protsessidele ning inimese suhetele ümbritsevate loodus- ja tehismaterjalidega. Õpitakse omandatud teadmisi ja oskusi rakendama igapäevaelu probleeme lahendades, kompetentseid ja eetilisi otsuseid langetades ning oma tegevuse võimalikke tagajärgi hinnates. Probleemipõhine, õpilaskeskne ja igapäevaeluga seostatud käsitlus ning õpilaste individuaalsete iseärasuste arvestamine toetavad õpilaste sisemise õpimotivatsiooni kujunemist ja püsimist ning võimete mitmekülgset arengut. Selleks kasutatakse erinevaid aktiivõppevorme: probleem- ja uurimuslikku õpet, projektõpet, arutelu, ajurünnakuid, õppekäike jms. Aktiivõppe põhimõtteid järgiv õpe toetab õpilaste kõrgemate mõtlemistasandite arengut.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Gümnaasiumi keemiaõpe süvendab põhikoolis omandatud teadmisi, oskusi ja vilumusi. Võrreldes põhikooliga käsitletakse keemilisi objekte ja nähtusi sügavamalt, täpsemalt ning süsteemsemalt, pöörates suuremat tähelepanu seoste loomisele eri nähtuste ja seaduspärasuste vahel. Õppes lisandub induktiivsele käsitlusele deduktiivne käsitlus. Õpitakse tegema järeldusi õpitu põhjal, seostama erinevaid nähtusi, eristama olulist ebaolulisest ja rakendama õpitud seaduspärasusi uudsetes olukordades. Keemiat nagu teisigi loodusteadusi õppides on tähtis õpilase isiksuse kujunemine: iseseisvuse, mõtlemisvõime ja koostööoskuse areng ning vastutustunde ja tööharjumuste kujunemine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi keemia vastu, mõistab keemia tähtsust ühiskonna arengus, tänapäeva tehnoloogias ja igapäevaelus;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab keemiainfo leidmiseks keemiliste elementide perioodilisustabelit, lahustuvustabelit, metallide pingerida ja teisi teabeallikaid, analüüsib saadud teavet ning hindab seda kriitiliselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on omandanud süsteemse ülevaate keemia põhimõistetest ja keemiliste protsesside seaduspärasustest, kasutab korrektselt keemiasõnavara looduses toimuva selgitamiseks;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab omandatud katsetamisoskusi ainete omaduste ja looduse seaduspärasuste tundmaõppimiseks, kasutab säästlikult ja ohutult aineid nii keemialaboris kui ka igapäevaelus;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sooritab keemiasisuga arvutusi, hindab arvutustulemuste vastavust reaalsusele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab keemias omandatud teadmisi ja oskusi karjääri plaanides.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on õppe osa, mille kaudu toetatakse õpilase õppimist ja arengut. Hindamine peaks muutma õppimise nähtavaks ehk see peaks andma ülevaate õpitulemuste saavutatusest ja õpilase isikupärasest arengust ning toetatama tema kujunemist positiivse minapildi ja adekvaatse õppijaks. Hindamise tulemusega saab õppija tagasisidet oma edenemise kohta õppimisel ja õpistrateegiate valikuteks. Õpetaja saab teavet oma õpetamise tulemuslikkuse kohta ning sisendit nii õppe kui ka iseenda pädevuste arendamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilast hinnatakse õppimise eel diagnostiliselt ja kestel kujundavalt. Õppimise protsessi käigus kogutakse tõendeid õpilase õpitulemuste saavutamise kohta. Õpilast hinnatakse kokkuvõtvalt kursuse ning kooliastme lõpus. Hindamine peaks olema kooskõlas taotletavate õpitulemustega, mida aitavad tagada mitmekesised hindamismeetodid, et toetada õpilase loodusteadusliku pädevuse (teadmised, oskused, hoiakud), arengut.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Diagnostiliselt hinnates selgitab õpetaja kursuse või teema alguses välja õpilase teemakohased eelteadmised, sh loodusteaduslikud väärarusaamad ning spetsiifilised õpiraskused, et kavandada edasist õpetamist. Diagnostiliseks hindamiseks sobib nii õpilaste suuline kui kirjalik küsitlemine, õpilaste enesehindamise küsimustikud, mis aitavad neil välja selgitada oma eelteadmisi ja ootusi õppeaine suhtes ning viktoriinid ja testid kasutades näiteks vastavaid veebikeskkondi, et saada kiiret tagasisidet. Kiiret tagasisidet õpetajale pakub ka õpilase koostatud mõistekaart, mis toob visuaalselt kergesti haaratavalt välja õpilase arusaamise taseme teema põhimõistete ja nendevaheliste seoste kohta. Selleks sobivad hästi ka mõned veebikeskkonnad (nt <a href=\"https://coggle.it/\">https://coggle.it/</a>, <a href=\"https://www.mindmaster.io/\">https://www.mindmaster.io/</a> jt.). Diagnostilisi aineteste pakub Eksamite Infosüsteem (<a href=\"https://eis.ekk.edu.ee/eis/lahendamine\">https://eis.ekk.edu.ee/eis/lahendamine</a>).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppe ajal saab õpilane suulist või kirjalikku sõnalist tagasisidet oma õppimise edenemise kohta. Kirjaliku tagasiside annab õpetaja jooksvalt suuremahulise töö, näiteks õpimapi, essee, uurimistöö jne edasiarendamiseks. Tagasiside peaks kirjeldama ära nii saavutatud taseme kui ka mis jääb saavutatust puudu ning mida peaks õpilane tegema, et seda saavutada. Nii tagasiside andmise kui ka kokkuvõtva hindamise muudavad läbipaistvamaks hindamiskriteeriumid ning hindamismudelid. Need on eriti vajalikud avatud ja/või loovat mõtlemist nõudvate õppeülesannete edukaks sooritamiseks (uurimistööd, ettekanded, esseed, vaatmikud, õpilaste koostatud loodusteaduslikud mudelid, videod, postrid jms). <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">Vt näiteid siit</a>. Hindamismudeli kriteeriumid võivad hõlmata nii protsessi, õppimise saadust (nt uurimistöö aruanne) kui ka otseselt õpilase teadmisi, oskusi ja hoiakuid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamismudelid muudavad õpilasele arusaadavamaks õpetaja ootused, võimaldavad tal enda õppimist juhtida ning anda edasiviivat tagasisidet kaaslastele, mida tuleks vaadelda samuti õppimise osana, kuna selle käigus õpivad õpilased oma vigu märkama ja neid analüüsima. Lisaks aitavad need õpetajal panna kokkuvõtvat hinnet, kui töö on valmis, ning õpilane saab paremini aru, kuidas hinne kujunes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamise osana võib käsitleda ka õpilaste enese- ning rühmarefleksiooni. Näiteks arutlevad õpilased iseseisvalt, rühmas või koos õpetajaga oma õppimise üle – mis läks töös hästi ja mida saaks järgmisel korral paremini teha. E-keskkondade, klassiarutelu vms kaudu annab õpilane tagasisidet õpetajale selle kohta, kuidas tal läheb ning pakub välja võimalusi, kuidas muuta õppimist tõhusamaks. Refleksiooni soodustavad küsimused nagu:</p><ul><li>Missune osa meie tänasest materjalist jäi Sulle kõige segasemakas?</li><li>Mis oli täna õpitud materjalis Sulle kõige raskem? Kõige kergem?</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Rühmaprotsesside ning koostöö suunamiseks:</p><ul><li>Kas ma olin hea kuulaja? Kas ma arvestasin teisi või tahtsin oma arvamuse läbi suruda?</li><li>Milline oli minu panus rühmatöös?</li><li>Kas kõigil oli võimalik anda oma panus rühmatöösse?</li><li>Mida saaks järgmisel korral teha teisiti, et koostöö oleks tõhusam?</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamisviiside ja -vormide valikul arvestatakse seda, et gümnaasiumis suureneb keerukamate ning suuremat pingutust nõudvate ning kõrgemat järku kognitiivset mõtlemist nõudvate teadmiste ja oskuste osakaal. Nii kujundavalt kui kokkuvõtvalt hinnatakse probleemide lahendamise, analüüsimise, järelduste, üldistuste ja otsuste tegemise ning põhjendamise oskust jms. Lisaks testidele ja kontrolltöödele hinnatakse kokkuvõtvalt esitlust, vaatmikku, uurimistöö aruannet, esseed, koostatud loodusteaduslikku mudelit, sh mõistekaarti, kollektsiooni, videot, õpimappi, projektitöö käigus väljatöötatud disaini või lahendust vm. Ka hinnatakse uurimisoskusi, milleks on uurimisküsimuse esitamine või katse kavandamine etteantud situatsiooni või katsevahendite põhjal, järelduste tegemine etteantud andmete alusel, korraldatud katse kvaliteedi ja tulemuste kriitiline hindamine, ettepanekute tegemine katsetulemuste usaldusväärsuse tõhustamiseks ning kehtivate järelduste saamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hoiakute ning väärtushinnangute kujundamisel on tähtsal kohal õpilase enesehindamine. Õpilase hoiakud ja väärtushinnangud ei ole otseselt kokkuvõtva hindamise objektiks. Küll aga saab kokkuvõtvalt hinnata õpilase oskust väärtusi mõtestada, st nende üle arutleda, neid põhjendada ning õigustada isiklikust või teiste vaatenurgast lähtudes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Probleemülesannete (vt <a href=\"https://docs.google.com/document/d/1zHRw0igiM9VHgrduYt7ayALNxzxsi8Fp85wbxB7LEeg/edit?usp=sharing\">probleemülesannete tüüpe ja näiteid siit</a>) korral on hindamise kriteeriumiteks näiteks lahenduse otstarbekohasus ja põhjenduste arv ning sotsiaalsete, eetiliste, majanduslike jm aspektide esiletoomine, originaalsus, loogilisus ja korrektse loodusteadusliku sõnavara kasutamise määr ning sügavus. Loodusteadusliku essee puhul on hindamise kriteeriumiteks näiteks probleemiseade selgus, näidete ja põhjenduste arv ning loogilisus, korrektsete loodusteaduslike mõistete kasutamise määr, järelduste kehtivus, teksti osade üldine sidusus ning autori mõtete originaalsus (<a href=\"https://drive.google.com/file/d/1rRtGDNB3VB3ONMTYRlDgbvYRB3z-LUne/view?usp=sharing\">Vt hindamismudeli näidet</a>). Kognitiivselt erineval tasemel koostatud ülesannete, sh probleemilahenduse, uurimuslike ning kommunikatsioonioskusi hindavate ülesannete näiteid võib leida Haridus- ja Noorteameti kodulehelt (loodusteaduste IV kooliastme e-tasemetöö kirjelduse alt: IV kooliastme testi materjalid: loodusteadusliku kirjaoskuse komponendid ja tasemed koos näidisülesannetega).</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454129/keemia_PK_G_vordlus.pdf?version=1&modificationDate=1707297832678&api=v2",
+          "title": "keemia_PK_G_vordlus.pdf"
+        }
+      ]
+    }
+  ]
+}

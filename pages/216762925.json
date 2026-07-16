@@ -1,0 +1,192 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Keeleüksused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Eesti keeles kirjutatakse keeleüksuste kaupa.</strong></p><p>Foneem, morfeem, sõnavorm, sõnaühend, lause, tekst.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Foneem",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>väikseim tähendust eristav keeleüksus.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Segmentaalfoneem",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>foneem, mis sõnavormis haakub teise foneemiga kindlas järjekorras.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Morfeem",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>keele väikseim tähendust kandev üksus (näit. sõna tüvi, mitmuse tunnus, liide, käändelõpp).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavorm",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>sõna muutevorm (käände- või pöördevorm), mis koosneb ühest või mitmest morfeemist.</p><p>Näiteks: <em>metsast</em>, <em>räägitakse</em></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnaühend",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>grammatiliselt seotud täistähenduslike sõnade ühendus.</p><p>Näiteks: <em>jooksis metsani</em></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lause",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>on keelelise suhtluse põhiüksus. Suhtluse eesmärgi järgi liigitatakse <em>laused</em> <strong>väit-, küsi-, hüüdlaused</strong>. Lause koosneb ühest või mitmest üksteisele järgnevast grammatiliselt seotud sõnast.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Lauseõpetus ehk süntaks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>on grammatika osa, mis kirjeldab lausete ehitust - missugustest osadest lause koosneb ja missugused on nende osade seosed ja funktsioonid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lauseliigid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>lihtlause, koondlause, liitlause.</p>"
+                },
+                {
+                  "kind": "section",
+                  "title": "Lihtlause",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>lause, mis väljendab ühte tegevust või seisundit ja milles on üks öeldis. Näiteks: <em>Ma lugesin ajalehte</em>.</p><p>Lihtlause võib olla laiendamata või laiendatud.</p>"
+                    },
+                    {
+                      "kind": "section",
+                      "title": "Laiendamata lihtlause ehk baaslause, tuumlause, elementaarlause",
+                      "children": [
+                        {
+                          "kind": "text",
+                          "html": "<p>minimaalne lause, mis koosneb ainult kohustuslikest lauseliikmetest (lause pealiikmetest – kas <em>alus+öeldis, öeldis</em> või <em>öeldis+sihitis</em>).</p><p>Näiteks: <em>Mari istub. Sajab. Too vett!</em></p>"
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "section",
+                      "title": "Laiendatud lihtlause",
+                      "children": [
+                        {
+                          "kind": "text",
+                          "html": "<p>lause, mis sisaldab lause pealiikmeid ja nende laiendeid (sihitis, öeldistäide, määrus, täiend).</p><p>Näiteks: <em>Mari istub toolil. Sajab lund. Too köögist vett</em>!</p>"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Koondlause",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>lihtlause, milles on mitu samale küsimusele vastavat lauseliiget: alust, sihitist, määrust, öeldistäidet või täiendit.</p><p>Näiteks: <em>Ma ostsin poest piima, leiba ja pasteeti.</em></p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Liitlause",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>lause, mis väljendab kaht või enamat tegevust või mõtet ning milles on kaks või enam öeldist.</p>"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Liitlausete õpetamisel võetakse aluseks <strong>struktuur-semantiline rühmitus</strong>, st esmalt jälgitakse lausega väljendatud tähendust (aeg, põhjus, eesmärk jne), seejärel käsitletakse ühe tähendusrühma sees võimalikke sidendeid ja lausestruktuure.</p>"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Näiteks: <strong>lausestruktuurid aja väljendamiseks</strong>:</p><p>Siis, kui __________, __________ .</p><p>Seni kuni ____________, ______ .</p><p>___________ sel ajal kui ________.</p><p>Enne seda, kui ________, _____ .</p><p>Pärast seda, kui _______, _____ .</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontekstisidus lause ehk tekstisidus lause",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>lause, mis sobitub sõnade valiku ja järjekorra poolest veatult teksti, kuid iseseisvana võib tunduda ebaõigesti koostatud, sest ei vasta keelereeglitele.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lausete pöördkonstruktsioonid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>= pööratavad konstruktsioonid.</p><p>Näiteks: <em>Õde on vanem kui vend – vend on noorem kui õde</em>.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Agrammatiline lause",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>keelereeglitele mittevastav lause.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tekst ehk sidus lauserühm",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>keelelise suhtluse suurim üksus, kindla alguse ja lõpuga keeleliselt kodeeritud sõnum, mis koosneb kindlate reeglite järgi ühendatud ja sidusat tervikut moodustavatest lõikudest, lausetest ning fraasidest.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

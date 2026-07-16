@@ -1,0 +1,329 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "II kursus: Trigonomeetria",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>tunda ära matemaatikas õpitud mudelite abil lahenduvad reaalelulised probleemid ning esitab tuttava reaalelulise situatsiooni matemaatilise mudeli (1–2 sammu);</li><li>tõlgendada ja hinnata saadud matemaatilist tulemust vastavas kontekstis.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid;</li><li>suutlikkus arutleda loovalt ja loogiliselt;</li><li>suutlikkus põhjendada ja tõestada oma mõttekäike ning luua üksikteadmistes süsteemi;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks suunata õpilast esitama iseendale küsimusi: mida ma teen; miks ma nii teen; milleni ma olen jõudnud ning kas tulemus on õige ja kontrollitav;</li><li>suutlikkus lugeda ja kriitiliselt hinnata graafikuid;</li><li>suutlikkus matemaatilist mudelit seostada tegeliku eluga.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Hindamisel saadakse ülevaade õpitulemuste saavutatusest ja õpilase individuaalsest arengust ning toetatakse selle kaudu õpilase kujunemist positiivse minapildi ja adekvaatse enesehinnanguga ennastjuhtivaks õppijaks.</li><li>Hindamise tulemusena/abil saab õpilane tagasisidet oma edenemise kohta õppimisel ja õpistrateegiate valikuteks.</li><li>Õpetaja saab teavet õpilase teema omandamise tulemuslikkuse kohta ning sisendit õppetegevuse arendamiseks.</li><li>Hindamisel rakendatakse nii diagnostilist, kujundavat kui ka kokkuvõtvat hindamist, mida esitatakse nii sõnaliste ja kirjalike hinnangute kui ka numbriliste hinnetena.</li><li>Diagnostilise hindamise käigus selgitatakse välja õpilaste eelteadmiste ja oskuste tase, ainealased väärarusaamad ja spetsiifilised õpiraskused, et kavandada järgnevat õppimist ja õpetamist.</li><li>Õppeprotsessi käigus rakendatakse kujundavat hindamist, kus õpilane saab suulist ja kirjalikku tagasisidet oma õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta.</li><li>Kokkuvõttev hindamine toimub üldjuhul õppeperioodi või mahuka õppeteema lõpul, et kontrollida nii õppetöös püstitatud eesmärkide kui ka riikliku õppekavaga sätestatud õpitulemuste saavutatust.</li><li>Õpilasele on õppeprotsessi alguses teada, mida ja millal hinnatakse, milliseid hindamisvahendeid kasutatakse ning millised on hindamise kriteeriumid.</li><li>Kirjalikke ülesandeid hinnates arvestatakse eelkõige töö sisu, kuid pööratakse tähelepanu ka õpilase keelekasutusele, sh erialaste terminite õigele kasutusele ja õigekirjale, mis üldjuhul ei mõjuta tööle antavat hinnangut ja hinnet.</li><li>Õpet kavandades ning sellest tulenevalt ka hinnates võetakse aluseks tunnetuslikud protsessid:</li></ol>"
+            },
+            {
+              "kind": "text",
+              "html": "<ol><li>faktide, protseduuride ja mõistete teadmine (meenutamine, äratundmine, info leidmine, arvutamine, mõõtmine, klassifitseerimine/järjestamine jmt);</li><li>teadmiste rakendamise oskus (meetodite valimine, matemaatilise info eri viisidel esitamine, modelleerimine, rutiinsete ülesannete lahendamine jmt);</li><li>arutlemisoskus (põhjendamine, analüüs, süntees, üldistamine, tulemuste hindamine jmt).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>põhikooli õppekavas kirjeldatud teadmised trigonomeetriast ja geomeetriast.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>A – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li>B – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li>C – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "NURGA MÕISTE ÜLDISTAMINE. TRIGONOMEETRILISED FUNKTSIOONID JA AVALDISED",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teisendab kraadimõõdus antud nurga radiaanmõõtu ja vastupidi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "defineerib mis tahes nurga siinuse, koosinuse ja tangensi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb trigonomeetriliste funktsioonide graafikuid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teisendab lihtsamaid trigonomeetrilisi avaldisi valemitekogu abil (rakenduvad maksimaalselt 3 erinevat trigonomeetrilist seost)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru mõistetest alghaar, lõpphaar, positiivne nurk ja negatiivne nurk ning oskab koordinaatteljestikus joonestada mis tahes suurusega nurka",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab määrata, mis veerandi nurgaga on tegemist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teisendab kraade radiaanideks ja vastupidi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru, et mis tahes nurga siinuse, koosinuse ja tangensi väärtusi leitakse lõpphaaral asuva punkti järgi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab taskuarvutiga leida nurga trigonomeetriliste funktsioonide väärtusi ja vastupidi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru õppesisus esitatud valemite tähendusest, vaadeldes trigonomeetriliste funktsioonide graafikuid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb vahet funktsioonide y=\\sin x, \\quad y=\\cos x ja y=\\tan x graafikutel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab trigonomeetriliste funktsioonide graafikutelt leida etteantud vahemikus määramispiirkonna ja muutumispiirkonna, etteantud argumendile vastavaid funktsiooni väärtusi, etteantud funktsiooni väärtustele vastavaid nurki, nullkohti, positiivsus- ja negatiivsuspiirkondi ning perioodilisust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab lihtsustada lihtsamaid trigonomeetrilisi avaldisi, kasutades ainult kahte (vt õppesisu) trigonomeetria põhiseost",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Nurga mõiste üldistamine, radiaanmõõt.<br>Täiendusnurga valemid</p><p>$\\sin \\alpha=\\cos (90^\\circ-\\alpha);$</p><p>$\\cos \\alpha=\\sin (90^\\circ-\\alpha);$</p><p>$\\tan \\alpha=\\dfrac{1}{\\tan (90^\\circ-\\alpha)}.$</p><p>Mis tahes nurga trigonomeetrilised funktsioonid ($\\sin \\alpha, \\cos\\alpha, \\tan\\alpha$) ja nende väärtused nurkade 0°, 30°, 45°, 60°, 90°, 180°, 270°, 360° korral.<br>Taandamisvalemid</p><p>$\\sin(\\alpha+k\\cdot 360^\\circ)=\\sin \\alpha$</p><p>$\\cos(\\alpha+k\\cdot 360^\\circ)=\\cos \\alpha$</p><p>$\\tan(\\alpha+k\\cdot 180^\\circ)=\\tan \\alpha$<br>Negatiivse nurga trigonomeetrilised funktsioonid</p><p>$\\sin (-\\alpha)=-\\sin \\alpha;$</p><p>$\\cos (-\\alpha)=\\cos \\alpha;$</p><p>$\\tan (-\\alpha)=-\\tan \\alpha.$</p><p>Funktsioonide $y=\\sin x, \\quad y=\\cos x$ ja <em>$y=\\tan x$</em> graafikute tundmine.<br>Trigonomeetria põhiseoste $\\sin^2\\alpha+\\cos^2\\alpha =1$ ja $\\tan \\alpha=\\dfrac{\\sin \\alpha}{\\cos \\alpha}$ teadmine ja rakendamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks (eelteadmised, kõige olulisem, mis on vajalik õpilasele edasi liikumiseks, metoodilised soovitused)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Positiivse ja negatiivse nurga ning suvalise suurusega nurga mõistet käsitledes võiks aluseks olla alghaara pöörlemine. Üleminekuid radiaan- ja kraadimõõdu vahel võib korraldada võrdega. Trigonomeetriakursuse järgmistes osades ning kursustes ei nõuta õpilastelt ühe või teise nurgamõõdusüsteemi kasutamist. Õigeks peetakse nii kraadi- kui ka radiaanmõõdu kasutamist.</p><p>Korratakse täisnurkse kolmnurga teravnurga trigonomeetriat ja täisnurkse kolmnurga lahendamist. Kuna põhikoolis ei nõuta enam nurga leidmise oskust, teades nurga trigonomeetrilise funktsiooni väärtust, tuleb seda õpetada gümnaasiumis.</p><p>Nurk leitakse enamasti digivahendit kasutades ligikaudse väärtusena. Kraadi murdosi sisaldavat nurka esitades ei pea seda väljendama minutites ja sekundites. Näiteks leides võrdusest sin α = 0,6 nurga, piisab selle esitusest kujul α=36,869°≈36,9°.</p><p>Trigonomeetriliste funktsioonide graafikute käsitlemise aluseks on nende konstrueerimine arvutiprogrammiga või etteantud graafiku vaatlemine. Valdavalt võiks piirduda vahemikuga –2π; 2π.</p><p>Õpilastele esitatakse teisendamiseks ainult ainekavas toodud seostele tuginevaid avaldisi.</p><p>Õpilane võiks teada teravnurkade 30<sup>∘</sup>, 45<sup>∘</sup> ja 60<sup>∘</sup> trigonomeetriliste funktsioonide täpseid väärtusi. Rakendusülesannetes leitakse trigonomeetriliste funktsioonide väärtusi ja argumente (nurki) siiski enamasti ligikaudsena või digivahendi abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19216-Nurga-moiste-uldistamine",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19216-Nurga-moiste-uldistamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18943-Mis-tahes-nurga-trigonomeetrilised-funktsioonid",
+              "title": "https://e-koolikott.ee/et/oppematerjal/18943-Mis-tahes-nurga-trigonomeetrilised-funktsioonid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19302-Siinusfunktsioon-ja-selle-graafik",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19302-Siinusfunktsioon-ja-selle-graafik"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19302-Siinusfunktsioon-ja-selle-graafik",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19302-Siinusfunktsioon-ja-selle-graafik"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19314-Tangensfunktsioon-ja-selle-graafik",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19314-Tangensfunktsioon-ja-selle-graafik"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine (k.a näidisülesanded või kirjeldused õpitulemuste erineval tasemel saavutamisest), A, B, C tasemed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Vt lisaks näiteülesandeid lehekülje allosas</em></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Korratakse põhikoolis õpitut, mis võimaldab luua seoseid eelnevalt õpitu ja uue materjali vahel. Õpilane konstrueerib trigonomeetriliste funktsioonide graafikuid IKT vahendite abil, sellega oma õppimist ja tööd tõhustades (Õppekava läbiv teema „Tehnoloogia ja innovatsioon\").</p><p>Lõiminguvõimalused:</p><ul><li>füüsika (võnkumine, graafikute lugemine);</li><li>geograafia (nurk, mõõtmine, võrdlemine);</li><li>joonestamine (tasapinnalised kujundid).</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "SIINUS- JA KOOSINUSTEREEM. RINGJOON",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "rakendab trigonomeetriat, siinus- ja koosinusteoreemi ning kolmnurga pindala valemeid kolmnurga lahendamisel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab rööpküliku ja hulknurga pindala, tükeldades need sobivalt kolmnurkadeks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab ringjoone kaare kui ringjoone osa pikkuse ja ringi sektori kui ringi osa pindala",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab lihtsamaid reaalelulise kontekstiga planimeetria probleeme",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab arvutada kolmnurga puuduvaid külgi ja nurki",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab arvutada kolmnurga, rööpküliku ja rombi pindala",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab tükeldada hulknurga sobivateks kujunditeks, et arvutada hulknurga pindala",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Siinus- ja koosinusteoreemi kasutamine. Kolmnurga pindala valemid, nende kasutamine hulknurga pindala arvutamisel. Kolmnurga lahendamine.<br>Ringjoone kaare kui ringjoone osa pikkuse ning ringi sektori kui ringi osa pindala arvutamine. Rakendusliku sisuga ülesannete lahendamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks (eelteadmised, kõige olulisem, mis on vajalik õpilasele edasi liikumiseks, metoodilised soovitused)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Siinusteoreem on soovitatav tuletada, koosinusteoreem võetakse teadmiseks tõestuseta. Kolmnurka lahendades leitakse suurim nurk viimasena ning kontrollitakse vastust, kas kõige pikema külje vastasnurk on ikka kõige suurem jne.</p><p>Kolmnurga pindala valemitest tuletatakse meelde valem $S=\\dfrac{a\\cdot h}{2}$ ning leitakse kolmnurga pindala kahe külje ja nende vahelise nurga siinuse kaudu. Hulknurga pindala leitakse selle tükeldamisega neli- või kolmnurkadeks (vajaduse korral kasutades Heroni valemit).</p><p>Ringjoone kaare pikkuse ja sektori pindala valemid võidakse küll tuletada, kuid ülesandeid lahendades on otstarbekas leida need suurused võrdega kui osa ringjoone pikkusest või ringi pindalast. Kasulik on vaadelda ka segmendi pindala kui sektori ja kolmnurga pindala vahet. See kursuse osa võimaldab lahendada reaalsetest olukordadest tulenevaid ülesandeid.</p><p>Samuti tuleks õpilastel lasta lugeda erinevaid pikema kirjeldusega ülesandeid, et harjutada teksti mõistmist ja soodustada lahendusplaani väljamõtlemist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18945-Kolmnurga-pindala-valemid",
+              "title": "https://e-koolikott.ee/et/oppematerjal/18945-Kolmnurga-pindala-valemid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19228-Siinuslause-ja-koosinuslause",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19228-Siinuslause-ja-koosinuslause"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19226-Ringjoone-kaare-pikkus-ja-ringi-sektori-pindala",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19226-Ringjoone-kaare-pikkus-ja-ringi-sektori-pindala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18947-Trigonomeetria-projektid-kitsas/221357",
+              "title": "Lisa"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine (k.a näidisülesanded või kirjeldused õpitulemuste erineval tasemel saavutamisest), A, B, C tasemed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Vt lisaks näiteülesandeid lehekülje allosas</em></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Korratakse põhikoolis õpitut, mis võimaldab luua seoseid eelnevalt õpitu ja uue materjali vahel.</p><p>Teema võimaldab õpilasel endal leida ümbritsevast keskkonnast õpitud valemitele ja seostele rakendusi (joonestamine, programmeerimine, ajalugu, geograafia).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454349/kitsas_mat_II_kursus_n2iteyl.docx?version=1&modificationDate=1706621732776&api=v2",
+          "title": "kitsas_mat_II_kursus_n2iteyl.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454349/kitsas_mat_II_kursus_n2iteyl.pdf?version=1&modificationDate=1706621732783&api=v2",
+          "title": "kitsas_mat_II_kursus_n2iteyl.pdf"
+        }
+      ]
+    }
+  ]
+}

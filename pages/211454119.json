@@ -1,0 +1,553 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Aine omadused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "võrdleb reaalgaasi ja ideaalgaasi mudeleid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab küllastunud auru, absoluutse niiskuse, suhtelise niiskuse ja kastepunkti mõistet ning seostab neid ilmastikunähtustega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab pindpinevust, märgamist ja kapillaarsust ning toob näiteid nende nähtuste esinemise kohta looduses ja tehnikas",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab aine olekuid, kasutades faasi ja faasisiirde mõistet, ning analüüsib faasidiagrammi toel faasisiirdeid erinevatel rõhkudel ja temperatuuridel",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb aatomeid ja molekule nanoosakestega ning teab nanotehnoloogia rakendusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mikro-, makro- ja megamaailm. Nanoosakesed ja nanotehnoloogia. Molekulaarjõud ja reaalgaas. Õhuniiskus. Küllastunud ja küllastumata aur. Absoluutne ja suhteline niiskus, kastepunkt. Ilmastikunähtused. Pindpinevus. Märgamine ja kapillaarsus, nende ilmnemine looduses ja tehnikas. Faasisiirded ning siirdesoojused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>aine olek, gaas, vedelik, kondensaine, voolis, tahkis, reaalgaas, küllastunud aur, absoluutne ja suhteline niiskus, kastepunkt, faas ja faasisiire.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Sulamistemperatuuri määramine.</li><li>Jahutussegude võrdlemine.</li><li>Pindpinevuse uurimine.</li><li>Erinevate vedelike pindpinevuse võrdlemine.</li><li>Kapillaartõusu uurimine.</li><li>Ilmavaatlus.</li><li>Õhuniiskuse muutus ööpäeva jooksul.</li><li>Pilvevaatlus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>„Aine omadused“</strong> on oluline teema loomaks seoseid teaduse ja elu vahel. Võib-olla on täpsem öelda füüsika ja looduse vahel? Klassikaline mehaanika, elektromagnetism, energia kontseptsioon, termodünaamika, kõik vanad tuttavad eelmistest kursustest, saavad siin kokku tavaliste, aga harva tähtsustatud loodusnähtustega. Näiteks peatükid: faasisiirded, reaalgaasid, pindpinevus. Loodusest ja tehnikast leiame siia hulgaliselt näiteid: jää ja vesi, kaste ja härmatis, kristallid ja klaasid, õhuniiskus ja pilved, ilmaennustus ja kliima, piisad, tilgad, mullid, vaht jpm. See aitab õpilastel arendada sügavamat arusaamist loodusest ja selle kirjeldamise ning seletamise aluspõhimõtetest.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong>Käsitlus on osalt klassikaline, võib isegi öelda ajalooline ja praktiline, aga samas kaasaegne.</strong> Siit jõuame nii mõnegi seni nimetamata teadusharu piirimaile. Näiteks füüsikaline keemia, nanotehnoloogia, atmosfäärifüüsika. Ei olegi enam kuigi pikk samm aatomi ja tuumafüüsikani.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mikro-mega kursuse Aine omaduste teema alustamiseks võiks luua käsitletavate objektide skaala osakeste suuruse järgi: tuum - elektronkate - aatom -molekul - nanoosake- piisk - tilk. Antud telg seob õpilase jaoks erinevad osad tervikumaks ja aitab mõista, kuidas aine omadused on seotud osakeste mõõtmete või olemusega. Näiteks tilk ja nanoosake on mõlemad osakeste kooslused, aga suuremad-väiksemad tilgad on ikka oma põhiomadustelt sarnased, aga nanoosakeste omadused on otsese sõltuvuses nende mõõtmetest.</li><li>Molekulaarjõudude uurimine pinnanähtuste katsetes. Näiteks a) tilgutada üks tilk kahe klaasi/peegli vahele ja püüda klaasid lahti tõmmata, lisada veel mõni tilk ja korrata sama; b) tilga ruumala mõõtmine; c) tilkade mahutamine mündile, kus tekib kuhi, sama katset korrata näiteks seebiveega; d) uurida, kuidas tilk voolab pinda mööda alla ja võrrelda nii erinevaid pindasid; e) filmida mulli teket ja selle lõhkemist, vaadata filmitut aegluubis ning kirjeldada ja analüüsida nähtut; f) filmida tilga kukkumist ja järgida aegluubis tilga kuju ja tilga. maandumist vette.</li><li>Kui põhikoolis on samuti kogutud ja analüüsitud erinevaid ilma mõjutavaid või kirjeldavaid suurusi, siis gümnaasiumis tuleb suurendada taset - seostada erinevaid parameetreid, koostada vastavaid graafikuid.<br />Projekti eesmärkide saavutamiseks on võimalik<ol><li>kasutada mobiilset ilmajaama, mis antakse rühma peale ja paigutatakse mõne õpilase kodu lähedale;</li><li>kooli statsionaarse ilmajaama andmeid või</li><li>kasutada Keskkonnaagentuuri Ilmateenistuse andmeid.</li></ol></li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sulamise ja aurustumise, aga ka tahkumise ja kondensatsiooni uurimine. Tehakse lihtsaid katseid ja vaatlusi, näiteks sulamistemperatuuri määramine, lume veevaru määramine, teekannu keemamineku heli analüüsimine jms. (LT3, LT4.)</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tutvumine molekulaarselt korrastamata struktuuriga ainete omadustega. Klaas, pigi, termoplastid. Kui võimalik katsed, aga saab ka teha õppevideote vaatamise ja analüüsiga. (Õpipädevus, LT2, LT3, LT4.)</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Molekulaarjõudude uurimine pinnanähtuste katsetes. Näiteks katsed tilkadega, lahuste omadused, vedelike (mitte)segunemine, kapillaartõus ja märgamine jms (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT1, LT2 LT3, LT5.)</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Miniuurimused nimetatud vaatluste ja praktiliste tööde alusel. Tulemuste esitlemine, sh slaidise ja videote valmistamine ja kommenteerimine. (Õpipädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT1, LT2, LT3, LT5.)</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ilmajaama andmete kogumine ja analüüs. Õpilased teostavad rühmades pikemaajalise projekti ilma kirjeldavate füüsikaliste suuruste mõõtmise (sademete ruumala, temperatuur, õhuniiskus, valgusenergia, UV indeks, tuule kiirus ja suund, õhurõhk), andmete analüüsi ja kirjutavad saadud tulemuste põhjal järeldused. (Õpipädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT1, LT2, LT3, LT4, LT5, LT6.)</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Soovitatav oleks enne mõõtmiste tegemist külastada mõnda Ilmateenistuse mõõtmisjaama (<a href=\"https://www.ilmateenistus.ee\">www.ilmateenistus.ee</a>) või kutsuda külalisloengut pidama ilma prognoosmudelite ja meteoroloogia spetsialist (näiteks: Keskkonnaagentuuri andmehalduse ja seire osakonnast). (Sotsiaalne ja kodanikupädevus, suhtluspädevus, ettevõtlikkuspädevus, LT5, LT8.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Horisontaalne - tervise ja keskkonnaga on seotud õhu suhteline niiskus, millele on kehtestatud piirnormid, keemias õpitud vesinikside on aluseks adhesiooni- ja kohesioonijõudude mõistmiseks, geograafiaga seonduvad pilvede teke, õhuniiskus, kaste ja härmatise teke. Tehnikas ja materjaliteaduses on teada väga palju nanoosakeste rakendusi, arenevad biomeditsiinis nanotehnoloogilised rakendused ja samas on aktuaalseks muutunud nanoosakeste biotoime uurimine.</p><p>Ilm ja kliima. Geograafias on kliimamuutused räägitud ja arutatud, peavad ju olema.</p><p>Kuidas purskavad geisrid? Mis temperatuuril keeb vesi vesi mägedes? Kuidas voolavad liustikud ja miks nad sulavad? Geograafia</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Vertikaalne - varasemealt on õpitud ideaalgaasi mudelit ja selle rakendamise piiranguid; põhikoolis on uuritud erinevates kooliastmetes kliima ja ilmastiku mõjutegureid ning tehtud ilmavaatlusi.</p><p>Kas, kuidas ja miks muutub kliima? Energia kursus – kütused, energeetika. Elektromagnetism – soojuskiirgus ja selle neeldumine atmosfääris.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Eelnevalt on vaja diferentseerimise vajaduse huvides välja selgitada, millised on õpilaste huvid ja kuivõrd võib neid tuleviku õpingutes füüsikat vaja minna. Soovitav on koostada praktiliste tööde hindamismudel, mis näiteks koosneb kolmest osast: 1) idee ja meetodi arendus (uurimisküsimus, teooria, töökäik muutujate valik jms), 2) mõõtmistulemuste kogumine ja presenteerimine (tabelid, graafikud) ning 3) tulemuste analüüs, järeldused ja kokkuvõte. Hindamismudelit saab vastavalt praktilise töö iseloomule kohandada. Hinnata võib arvestuslikult erinevate ettekannete ja esitluste tegemist, ajatelgede loomist; koostatud plakateid, tunnitegevuse käigus täidetud töölehti; rühmades probleemide lahendamist jmt. Kõige olulisem on, et õpilastele oleksid selged hindamiskriteeriumid ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Hea hindamismudel sisaldab ka viiteid edasistele õpingutele (kus ja miks neid oskusi ja teadmisi edaspidi õppimise käigus vaja on?). Õpilast abistavad enesehindamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning).</em> Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p><p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks.</p><p>Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas. Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Aatomi- ja tuumafüüsika",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "rakendab Einsteini võrrandit välisfotoefekti kohta ning võrdleb välis- ja sisefotoefekti",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab elektronide difraktsiooni, kasutades leiulaine mõistet",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib eriseoseenergia ja massiarvu sõltuvuse graafikut ning selgitab tuumaenergia vabanemist tuumade lõhustumis- ja sünteesireaktsioonide käigus",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seletab radioaktiivse dateerimise meetodi olemust ning toob näiteid selle meetodi rakendamise kohta",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "seletab tuumareaktorite üldist tööpõhimõtet ning analüüsib tuumaenergeetika eeliseid ja sellega seonduvaid ohte",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb ioniseeriva kiirguse liike, analüüsib ioniseeriva kiirguse mõju elusorganismidele ning võimalusi kiirguskaitseks",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Välis- ja sisefotoefekt. Fotoefekti rakendused teaduses ja tehnikas. Elektronide difraktsioon. Määramatusseos. Osakeste leiulained. Seoseenergia. Eriseoseenergia. Massidefekt. Massi ja energia samaväärsus. Tuumareaktsioonid. Tuumasüntees ja lagunemine. Tuumaenergeetika ja tuumarelv. Radioaktiivsus. Poolestusaeg. Radioisotoopide rakendused. Ioniseerivad kiirgused ja nende toimed. Kiirguskaitse.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>välis- ja sisefotoefekt, kvantmehaanika, määramatusseos, eriseoseenergia, tuumaenergeetika, tuumarelv, radioaktiivsus, poolestusaeg, radioaktiivne dateerimine, ioniseeriv kiirgus, kiirguskaitse.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Sinasõprus fotoefektiga.</li><li>Plancki konstandi määramine leedide abil.</li><li>Tuumaplahvatuse tagajärjed (arvutimudel).</li><li>Kiirgusfooni mõõtmine.</li><li>Udukambri valmistamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema <strong>„Aatomi- ja tuumafüüsika“</strong> annab õpilastele põhiteadmised mateeria struktuurist, aatomite ja subatomaarsete osakeste käitumisest ning vastavatest vastastikmõjudest.</p><p>Mitmed mõisted, põhimõtted ja teooriad, näiteks Einsteini fotoelektrilise efekti teooria, radioaktiivne lagunemine ja elektronide difraktsioon, on olulised kaasaegse füüsika arengu mõistmiseks. Siit paistab, kuidas klassikalised ideed vajasid muudatusi, et selgitada nähtusi, mis 19. sajandi lõpul füüsikas ja keemias avastati. <strong>Millest ja kuidas kaasaegne aatomi- ja tuumafüüsika välja kasvas.</strong></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong>Energia kontseptsioon, veelkord!</strong> Seoseenergia ja tuumareaktsioonides vabanev energia, see seos viib meid sammu lähemale tuumaenergeetika, aga ka tuumarelvade rolli mõistmisele tänapäevases maailmas. Fusioonireaktsioonide kaudu ulatub siit seos megamaailma teemasse.</p><p>Uurides radioaktiivse lagunemise seadust, vastavat dateerimismeetodit ja tuumafüüsika rakendusi meditsiinis ning tehnikas saame aimu, kuidas kaasaegne füüsika on seotud paljude teiste teaduste ja praktiliste rakendustega. <strong>Paraku paistavad siit ka ohud,</strong> kiirguse mõju organismidele, kiirguskaitse ja ohutusnõuete olulisus. Lõimingu võimalusi on palju: matemaatika, keemia, bioloogia, ühiskonnateadused, keskkonnauuringud, ajalugu, eetika... Siiski on oluline sedagi meeles pidada, et kõigist ei saa tuumafüüsikuid, ei peagi saama ega tohigi saada.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Fotosünteesi, aga veel enam fotoefekti käsitlemiseks tuleks läbi vaadata simulatsioone (näiteks Colorado Phet), see aitab protsessi paremini ette kujutada ja mõista.</li><li>Tuumafüüsika sisaldab laia spektrit õpilastele väga huvitavaid teemasid, seepärast võiks teha kas ettekandeid või postreid või väitlusturniiri, et tuumafüüsika teemadega süvitsi minna. Näiteks “Katastroofid tuumaelektrijaamades”, “Hirošima ja Nagasaki”, “Vesinik- ja neutronpommid”, “Tuumarelvastus tänapäeval”, “Tuumareaktorite olevik ja tulevik”, “Radioaktiivsed isotoobid meditsiinis”, “Radioaktiivsete isotoopide rakendused tehnikas, geoloogias, põllumajanduses”.</li><li>Aatomimudelite, kvantmehaanika, tuumafüüsika radioaktiivsuse ja kiirguse osas tuleks eelnevalt põhilised teemad tunnis üksipulgi läbi arutada ja alles seejärel teha ettekandeid või postreid. Eelteadmisteta võivad ettekanded jääda põhikooli tasemele ja on tõenäosem, et õpilased komistavad kehvadele allikatele. Oht on väiksem, kui eelnevate füüsika kursustega on õnnestunud õpilastesse piisavalt kriitilist mõtlemist süstida.</li><li>Kuna ühiskonnas on palju eriarvamusi tuumaelektrijaamade osas, tuleks õpetajal jääda teema käsitlemisel füüsikakeskseks ja kui õpilased küsivad õpetaja arvamust, tuleks oma arvamus väga selgelt ära põhjendada. Tuumarelvade, tuumasõja ja kiirgusohu teemal sama lugu, väga oluline jääda objektiivseks ja tasakaalukaks.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kiirgusanduri kasutamine loodusliku kiirgusfooni määramiseks. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT1, LT3, LT5.)</p><p>Tuumafüüsika, tuumafüüsikute, tuumaenergeetika, tuumarelvade teemat käsitleva filmi (Oppenheimer, Copenhagen, Chernobyl vms) vaatamine. Arutelu teaduseetika, teadlaste, inseneride ja poliitikute valikute teemal. (Kultuuri- ja väärtuspädevus, sotsiaalne ja kodanikupädevus, enesemääratluspädevus, LT1, LT5, LT6, LT7.)</p><p>Külalisloeng (teadus)eetikast. (Kultuuri- ja väärtuspädevus, enesemääratluspädevus, ettevõtlikkuspädevus, LT5, LT8.)</p><p>Ühiselt lugeda või kuulata meedias avaldatud artikleid, intervjuusid, saateid, tuumaenergeetika, tuumarelvade, tuumasõja kohta et arutada erinevate seisukohtade üle. Väitlus näiteks teemadel, kas õpilase kodukoha vahetusse lähedusse saab ehitada tuumaelektrijaama või Eesti tuumajäätmete hoidla. (Kultuuri- ja väärtuspädevus, sotsiaalne ja kodanikupädevus, enesemääratluspädevus, suhtluspädevus, ettevõtlikkuspädevus, LT5, LT6, LT7, LT8.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Horisontaalne - keemias õpitud metallide aktiivsuse rida on osaliselt sarnane metallide väljumistöö väärtustega - I A rühma metallidel, mis loovutavad kergesti elektrone, on ka väljumistöö väiksem ja mida passiivsem metall, seda suurem väljumistöö. Tehnikas on fotoefektile mitmeid rakendusi, nagu CCD-plaat, fotokordisti, päikesepaneelid. Teaduses rakendatakse elektroni kvantomadusi elektronmikroskoopide töös ja elektronide difraktsioon DNA molekulilt oli kinnituseks selle kaksikspiraalsest ehituseks. Meditsiinis ja tehnikas kasutatakse radioaktiivseid isotoope väga efektiivselt. Arheoloogias ja geoloogias kasutatakse radioaktiivseid isotoope leidude vanuse kindlakstegemiseks. Astrofüüsikas täheevolutsiooni mõistmiseks on oluline eriseoseenergia sõltuvus isotoobi massiarvust ja vastavate tuumareaktsioonide toimumine. Bioloogias on olulisel kohal aga just kiirguse mõju meie organismile ja ohutuse teema.</p><p>Vertikaalne - õpilased on õppinud 9. klassis isotoope, radioaktiivseid kiirgusi ja tuumareaktsioone, millega kaasneb energia vabanemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Eelnevalt on vaja diferentseerimise vajaduse huvides välja selgitada, millised on õpilaste huvid ja kuivõrd võib neid tuleviku õpingutes füüsikat vaja minna. Vastavalt tuleb ka hindamine korraldada, kas rõhuasetusena kvantitatiivsetele teadmistele ja oskustele (arvutused valemite põhjal, tuumareaktsioonide võrrandid) või kvalitatiivsele (rakendused, silmaring jne).</p><p>Hinnata võib arvestuslikult erinevate ettekannete ja esitluste tegemist, ajatelgede loomist; koostatud plakateid, tunnitegevuse käigus täidetud töölehti; rühmades probleemide lahendamist jmt. Kõige olulisem on, et õpilastele oleksid selged hindamise mudel ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Hea hindamismudel sisaldab ka viiteid edasistele õpingutele (kus ja miks neid oskusi ja teadmisi edaspidi õppimise käigus vaja on?). Õpilast abistavad enesehindamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning).</em> Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud. Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://evidence-erasmus.github.io/evidence/et/radiation/student",
+              "title": "Kiirgused"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tuumaenergia kasude ja riskide käsitlemiseks, aga ka sellekohaste müütide kummutamiseks sobib õppematerjal „Kiirgused“. Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Astronoomia ja kosmoloogia",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "võrdleb Päikesesüsteemi põhiliste koostisosade mõõtmeid ja liikumist",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab tähtede evolutsiooni ja planeedisüsteemide tekkimist",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab galaktikate ehitust ja evolutsiooni.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab universumi tekkimist ja arengut Suure Paugu teooria põhjal.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Megamaailma uurimise vahendid ja meetodid. Päikesesüsteemi koostis, ehitus ning tekkimise hüpoteesid. Päike ja teised tähed. Tähtede evolutsioon. Mustad augud Eksoplaneedid. Galaktikad. Linnutee galaktika. Universumi struktuur. Universumi evolutsioon. Suure Paugu teooria.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Päikesesüsteem, planeet, Kuu, planeedi kaaslane; väikeplaneet, asteroid, komeet, meteoorkeha, meteoriit, tehiskaaslane, täht, must auk, galaktika, kosmoloogia, Suur Pauk.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Päikesekella uurimine.</li><li>Taevavaatluse korraldamine, vaatlustingimuste ennustamine.</li><li>Õppekäik observatooriumi.</li><li>Sekstandi valmistamine ja taevakehade kõrguse määramine.</li><li>Valgusreostuse hindamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>„Astronoomia ja kosmoloogia“</strong> väga väike aga väga oluline teema. Selles teemas saavad kokku kõik koolifüüsika teemad. Võib julgelt öelda, et tegu on tagasivaatamise ja kokkuvõtmisega. Ükskõik mis järjekorras ja kui põhjalikult teemat käsitleda, igal juhul tulevad välja eelmiste kursuste märksõnad: liikumine, koordinaadid, mudelid ja teooriad, mõõtemääramatus, gravitatsioon, orbitaalliikumine, impulsi jäävus, Newtoni seadused, keha kaal ja kaalutus, optika ja optilised riistad, elektromagnetlained, spekrtomeetria, energia ja energeetika, temperatuur, soojusülekanne, pindpinevus, termotuumareaktsioonid, fundamentaal- ja rakendusteadus, teadus ja pseudoteadus, füüsika ja ühiskond.</p><p><strong>Oluline on seegi, et teema meeldib õpilastele.</strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Sarnaselt mikromaailma teemade alustamisel koostatud osakeste suuruse teljega tuleks alustada kosmiliste kehade järjestusega näiteks mõõtmete kasvu järgi: gaas - kosmiline tolm - meteoor - meteoriit - komeet - asteroid - kuu - planetoid - planeet - täht - täheparv - galaktika - galaktikaparv - superparv. Õpilased on kuulnud igast objektist midagi, aga need ei moodusta sageli tervikut.</li><li>Ühe tutvuse tähistaevaga peaks ikka igaüks saama. Eelteadmiseks kuluvad ära teadmised taevakoordinaatidest ja nähtavatest liikumistest taevaskeral. Abiks täheatlased ja taevaäpid.</li><li>Youtube’i arvukad videod on head illustreerivad materjalid, näiteks tähe tekke või Universumi evolutsiooni kohta, aga enne tasuks ingliskeelsed videod üle vaadata ja selgitada vastavaid mõisteid või teemasid õpilastele ja seejärel vaadata videoid.</li><li>Korrektse ja selge eestikeelse terminoloogia arendamise projekt. Astronoomia ja kosmoloogia teemadel on palju ingliskeelseid õppe- ja teadusvideoid. Sealhulgas ka neid millel on subtiitrid inglise keeles või vahest ka eesti keeles, sh osalt automaatselt tõlgitud. Terminoloogiline seletus ja korrigeerimine on gümnaasiumi lõpuklassi õpilastele jõukohane ja kasulik.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>STEM projekt: lihtsaima pikksilma või teleskoobi konstrueerimine PVC-st või papist torudest ja selle abil lihtsamate vaatluste (näiteks Kuu vaatlemine) sooritamine. Vaatluste sooritamiseks võib külla kutsuda mõne amatöörastronoomi või astronoomia klubi liikme. (Õpipädevus, suhtluspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT1.)</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Valgusreostuse uurimise projekt suunab uurijad kokkulepitud aegadel õue tähistaevast uurima ja vaatlustulemust kohalike oludega (valgustus, ilm) kokku viima. <a href=\"https://globeatnight.org/\">globeatnight.org</a> (Sotsiaalne ja kodanikupädevus, õpipädevus, digipädevus, LT1, LT2, LT3, LT5.)</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Astronoomia internetis. Õpilased otsivad vastuseid astronoomiaalastele küsimustele. <a href=\"http://www.obs.ee\">www.obs.ee</a> kuni <a href=\"https://ut.ee/et/tartu-observatoorium\">ut.ee/et/tartu-observatoorium</a>, <a href=\"https://www.esa.int/\">www.esa.int</a> kuni <a href=\"https://www.nasa.gov/\">www.nasa.gov</a>, <a href=\"https://www.google.com/\">www.google.com</a> kuni <a href=\"https://chat.openai.com/\">chat.openai.com</a> jne. Esitlevad otsingutulemusi, hindavad enda ja teiste leitud vastuseid (Enesemääratluspädevus, õpipädevus, ettevõtlikkuspädevus, digipädevus, LT3, LT4, LT5, LT8.)</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Taevavaatluse eel ennustatakse vaatlustingimusi. Kontrollitakse Kuu faase, nähtavaid tähtkujusid ja planeete. Kontrollitakse ilmaprognoose, valitakse vaatluskoht ja -vahendid. (Õpipädevus, digipädevus, LT1, LT2, LT3, LT5.)</p><p>Õppekäik Tõraverre, Tartu tähetorni, planetaariumi. Tutvumine Eesti astronoomide ja astronoomia ajaloo, tänapäeva ja perspektiiviga. (Kultuuri- ja väärtuspädevus, sotsiaalne ja kodanikupädevus, ettevõtlikkuspädevus.)</p><p>Väitlus: „Lähikosmose vallutamine ja kosmiline prügi.“ (Sotsiaalne ja kodanikupädevus, suhtluspädevus, LT1, LT5, LT7.)</p><p>Rühmatöö: „Kuidas me teame, et Suure Paugu mudeli erinevad etapid on just sellised nagu mudelist paistab?“ (Suhtluspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT5.)</p><p>Astronoomia ja kosmoloogia teemadel valminud ingliskeelsete õppe- ja teadusvideote terminoloogiline selgitus ja korrigeerimine (Kultuuri- ja väärtuspädevus, sotsiaalne ja kodanikupädevus, digipädevus, LT2, LT5, LT7.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Horisontaalne - kõik keemiliste elementide isotoobid on tekkinud tähe evolutsiooni käigus, peamiselt supernoova plahvatuses, tähespektrid annavad aimu tähtede keemilisest koostisest, ühiskonnaõpetus - kosmoseuuringute mastaapsed projektid on rahvuste-ülesed ja eeldavad tõhusat koostööd; kosmosetehnoloogia kompab inimvõimete piire ja annab teadusele ja inimkonnale tagasi uusi rakendusi.</p><p>Vertikaalne - siin ristuvad ja põimuvad kõik varem õpitud teadmised füüsikast, alates 8. klassis õpitud optikast kuni tuumafüüsikani.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Antud teema hindamiseks sobivad kõikvõimalikud esitlused, ettekanded, plakatid, mis aitavad luua süsteemi saadud teadmiste ning faktide kinnistamiseks. Võib koostada ka mälumängu mis tahes keskkonnas või ka klassikalisel kujul - viis küsimust plokis, alateemadeks näiteks Päikesesüsteem, galaktika, eksoplaneedid jne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud. Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas. Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursus „Arhitektuur kui elukeskkond“ on sissejuhatav kursus arhitektuuri ehk meie igapäevasesse ruumilisse keskkonda. Valdkondade ülene kursus seob kolm suurt ja läbivat teemat: inimene, kultuur, keskkond.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ruum on kõikjal meie ümber, oleme alati ruumis ja ei saa sellest kunagi väljuda, kui ka tahaksime. Igaühel on ruumiga oma suhe ja iga ruum räägib selle loonud ühiskonna lugu. Maailmas või ka koduümbruses rännates näeme uusi keskkondi, märkame neis midagi tuttavat ja midagi eksootilist, midagi paeluvat, midagi arusaamatut, midagi elevusttekitavat ja midagi tüütavat. Mida just, sõltub inimesest.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppe käigus õpitakse märkama enda ümber olevat ruumi ja uuritakse selle eripära, otsitakse võimalusi ümbritseva muutmiseks ja selle arengus osalemiseks. Valikkursus kujundab visuaalset kirjaoskust, ruumilist analüüsioskust, süstemaatilist mõtlemist, loomingulisust, ettevõtlikkust, kodanikuna tegutsemist ja teistega arvestamist – oskuseid, mis on vajalikud väga paljudel erialadel. Valikkursuse iga tund pakub aktiivse osalemise võimalust (erinevaid õppetegevusi ja loovülesandeid).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursus „Arhitektuur kui elukeskkond“ arendab divergentset mõtlemist, analüüsivõimet, visuaalset kirjaoskust, loomingulisust, ettevõtlikkust, empaatiavõimet – oskuseid, mis on vajalikud väga paljudel erialadel. Valikkursusel läbimine toetab oluliste pädevuste arengut, mille tulemusena õpilasel kujuneb divergentne mõtlemine, st ta leiab ühele küsimusele või probleemile erinevaid vastuseid või lahendusi; oskus ühendada teaduslikku mõtteviisi loomingulise lähenemisega ning analüüsida mitmeid valdkondi siduvaid olukordi eri vaatenurkadest; tahe olla empaatiline, eetiline ja salliv.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ehitatud keskkond on suurepärane platvorm, mis toob kokku erinevate valdkondade teadmised, kombineerib need elulisel viisil ning õpetab mõistma üht meie igapäeva olulist osa. Selle juures on oluline oskus küsimustele ja probleemidele teistmoodi läheneda. Üheainsa sobiva vastuse asemel keskendutakse küsimuse tundmaõppimisele, lahenduste paljususe märkamisele ning kontekstist ja eesmärgist sõltuvate valikute läbimõtlemisele. See annab edaspidises elus ette tulevate otsuste tegemiseks vajaliku osavuse ja leidlikkuse.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>mõistab inimese ja ehitatud keskkonna vahelisi vastastikuseid seoseid ning inimest ja elu ruumi loomisel kesksena;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>märkab ruumi tervikuna ja selle nüansse, oskab seda kirjeldada ning seostada vorme ja funktsioone, ruumi kujundust ja meeleolu;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>mõistab arhitektuuri kui inimese elu kujundavat valdkonda, tunneb selle mõju ja oskab tuua näiteid soodustavast ja pärssivast mõjust;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>tunneb huvi ehitatud keskkonna kui elukeskkonna vastu, saab aru selle tähtsusest igapäevaelus ja ühiskonna arengus ning selle planeerimise põhimõtetest;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>mõistab teaduslike meetodite ja loova mõtlemise suhet arhitektuuris, oskab mõlemaid ruumist visiooni luues kasutada.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "analüüsib ruumi inimesest lähtuvalt;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "oskab kirjeldada ruumi soosivat või pärssivat mõju eri tegevustele ning väärtustab mitmekesiseid tegevusi pakkuvat ruumi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "mõistab arhitektuuri elukeskkonnana, ühiskondliku protsessina, kultuurivaldkonnana ja süsteemide loomisena;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "abstraheerib keskkonda, ruumikasutust ja oma ideid ning esitab neid skeemidena;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "lahendab ruumilisi küsimusi, kasutades nii teaduslikku kui loovat mõtlemist;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb huvi arhitektuuri kui elukeskkonna ja kultuurivaldkonna vastu ning teab ruumiga seotud erialade arvukust.",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Sissejuhatus. Arhitektuur kui inimese loomulik elukeskkond.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Inimene ja ruum. Mõõdud ja meeled.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ruumikunst.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Maja. Elamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Väliruum, siseruum. Maastikuarhitektuur, sisearhitektuur.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Paberil ja ekraanil. Arhitektuur kahes mõõtmes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Konstruktsioonid ja materjalid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Makett – arhitekti tööriist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Säästev arhitektuur.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ruum ja teised liigid. Loomad, linnud, taimed ehitatud keskkonnas.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ruumiteadus, ruumikultuur.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tulevikuarhitektuur.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ruumipoliitika.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Linn, suurlinn.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Planeerimine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse hindamisel on soovitatav kasutada üksnes kujundavat hindamist. Kujundava hindamise põhimõtted on toodud õppeprotsessi kirjelduses õppesisu peatükis iga teema juures eraldi. Kursuse lõpus on võimalik kasutada ühte paaristundi (2 x 45 min) kokkuvõtva tagasiside kogumiseks ja andmiseks. Kujundavat hindamist kasutatakse jooksvalt. Valikkursuse hindamine toimub mitteeristavalt (arvestatud / mittearvestatud).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

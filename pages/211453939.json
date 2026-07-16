@@ -1,0 +1,641 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "1.1 Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tehnoloogiaõpetus on õppeaine, kus õpilased saavad ennast väljendada eelkõige erinevaid kõvasid materjale töödeldes nii käsitsi kui ka masinatega, sh digitaalsetega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>II kooliastmes</strong> omandavad õpilased tehnoloogiaõpetuse baasoskused materjalide töötlemisel ja töövahendite käsitsemiseks, samuti tehnilisi mõisteid ja termineid. Õpilased tutvuvad erinevate materjalide omaduste ning kasutusvõimalustega. Õpetaja juhendamisel õpitakse valima asjakohaste tööviiside, töövahendite, masinate ja seadmete vahel ning nendega töötama. Seejuures arvestatakse õpilaste erinevaid võimeid ja huve ning toetatakse nende omaalgatust ja õpimotivatsiooni.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "1.2 Tehnoloogiaõpetuse teemaplokid ja soovituslik õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Materjalid, nende töötlemisviisid ning töövahendid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Materjalide liigid, omadused ja nende kasutamine. Tööriistad (käsi- ja elektrilised tööriistad), seadmed ja masinad, nende nimetused ning ohutu kasutamine. Materjalide lihtsamad töötlemise viisid. Materjalide ühendamise viisid ja liited. Materjalide hoiustamine. Materjali päritolu, tootmine ja keskkonnamõju (näiteks vask, tiigipuu ja nahk). Erinevatest materjalidest esemete valmistamine, kasutades eakohaseid töötlusviise. Eseme kaunistamine ja viimistlemine. Ressursside säästmine materjalide taaskasutamise kaudu.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tööprotsess",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tervikliku tööprotsessi planeerimine. Kuidas värv, kuju ja materjal aitavad kaasa tööesemete erinevatele väljendusviisidele. Visandid, mustrid ja tööjuhendid, kuidas neid mõista ja järgida. Märgid ja sümbolid Eesti rahvakunstis. Töötamine üksi ja rühmas. Erinevate materjalide omaduste ja tööks sobivuse uurimine oma töö kaudu. Loovus ja leiutamine. Tööhuvi ja motivatsioon.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eneseanalüüs ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eneseanalüüs oma tööle koostöös õpetajaga. Oma töö esitlemine suuliselt või kirjalikult, kasutades sealhulgas digivahendeid. Oma töö adekvaatne hindamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Igapäevaelu oskused ja tehnoloogia",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teadlik ja säästlik tarbimine. Töövahendite hooldamine. Tarbijainfo (pakendiinfo, kasutusjuhend jm). Kodukoha kombed ja esemeline kultuur. Hügieeni-, korra- ja puhtuse nõuded. Oma töökoha korrastamine. Teistes ainetes õpitu rakendamine. Õppeaine seosed erinevate eluvaldkondadega. Erinevad tehnilised konstruktsioonid. Tehnoloogia ajalooline tähtsus. Tehnoloogiate rakendamise võimalused ja ohud.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "1.3 Tehnoloogiaõpetuse õppeprotsessi kirjeldused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "II kooliaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppe kirjeldused võimaldavad õpetajal anda tehnoloogiaõpetuse tunde erinevalt ning suunavad õpetajat erinevaid ideid genereerima, et leida õppe kujundamiseks uusi võimalusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "I näidistöö: Veesõiduk",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused, mis saavutatakse tööd tehes ja mille põhjal antakse õpilastele tagasisidet",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "tunneb erinevaid tööks sobilikke materjale ja nende omadusi;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "valib ja kasutab eesmärgipäraselt töövahendeid, töötlusviise ning materjale;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab ohutult õigeid töövõtteid ning tehnikaid materjalidel;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "planeerib õpetaja juhendamisel oma ja/või rühma terviklikku tööprotsessi;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kavandab omandatud töövõtete baasil jõukohaseid esemeid üksi ja/või rühmas, oskab kasutada videojuhendit;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "töötab sihikindlalt ja viib kavandatu lõpule;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "rakendab teistes ainetes õpitut ja loob seoseid erinevate eluvaldkondadega;",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppesisu mille järgi on võimalik saavutada õpitulemused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Materjalid, nende töötlemisviisid ning töövahendid.</strong> Materjalide liigid, omadused ja nende kasutamine. Tööriistad, seadmed ja masinad ning ohutu ja tõhus kasutamine. Materjalide lihtsamad töötlemise viisid. Eseme kaunistamine ja viimistlemine.</p><p><strong>Tööprotsess.</strong> Tervikliku tööprotsessi planeerimine. Kuidas värv, kuju ja materjal aitavad kaasa tööesemete erinevatele väljendusviisidele. Erinevate materjalide omaduste ja tööks sobivuse uurimine oma töö kaudu. Tööhuvi ja motivatsioon.</p><p><strong>Igapäevaelu oskused.</strong> Teistes ainetes õpitu rakendamine. Õppeaine seosed erinevate eluvaldkondadega.</p><p><strong>Eneseanalüüs ja hindamine.</strong> Eneseanalüüs oma tööle koostöös õpetajaga.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused õpilaste oskuste kujunemise juhtimiseks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpetaja selgitab töö eesmärki, pakub võimalikke alternatiive kriitilise mõtlemise kujundamiseks ja probleemi püstitamiseks, suunab toote kavandamist ning algatab arutelusid töö erinevatel etappidel ja valmis toodete esitlemisel. Töö tegemise ajal sekkub õpetaja õpilase tegevustesse ainult nii palju, kui see on hädavajalik, luues võimalused õpilasel endal või koostöös kaaslastega selgitada välja tekkinud probleemide põhjused ja leida neile lahendused.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõiminguvõimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Võõrkeeled.</strong> Teemakohase teabe hankimine erialasest kirjandusest ja internetist.</p><p><strong>Matemaatika.</strong> Põhiühikutega opereerimine (mõõtmine, erinevate kujundite märkimine).</p><p><strong>Loodusained.</strong> Lihtsamate füüsikaliste nähtuste- ujuvus, tihedus kasutamine tehnilise lahenduse loomisel.</p><p><strong>Kunstiained.</strong> Toote esteetiline kujundamine ja disainimine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tagasisideviisid ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilastele antakse järjepidevat tagasisidet nende arengu kohta kogu töö vältel. Hindamiskriteeriumid tehakse õpilastele teatavaks, arutatakse läbi ja põhjendatakse nende vajalikkust enne töö alustamist. Õpilane saab tagasisidet töö ja valmistoote esitlemise ning kasutamise võimaluste kohta kaasõpilastelt. Õpilase adekvaatse enesehinnangu kujunemist toetavad kaasõpilastelt saadud hinnangud. Õpilane annab omapoolse hinnangu oma tööle ning analüüsib enda arengut ja töö vältel omandatud uusi teadmisi ning oskusi.</p><p>Kokkuvõtvalt hinnatakse pärast tööeseme valmimist ning kõigi sellega seonduvate tööetappide läbimist.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II näidistöö: Taaskasutumaterjalidest linnu söögimaja",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused, mis saavutatakse tööd tehes ja mille põhjal antakse õpilastele tagasisidet",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "valib ja kasutab eesmärgipäraselt erinevaid töötlusviise, töövahendeid ja materjale;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "planeerib õpetaja juhendamisel oma ja/või rühma terviklikku tööprotsessi;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab materjale säästlikult ning leiab võimalusi materjalide taaskasutuseks;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab ohutult õigeid töövõtteid ning tehnikaid materjalidel;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "planeerib õpetaja juhendamisel oma ja/või rühma terviklikku tööprotsessi;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "esitleb oma ja/või rühma töö lõpptulemust, analüüsib ja põhjendab tööprotsessi valikuid kas suuliselt või kirjalikult, kasutades sealhulgas digivahendeid;",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppesisu, mille järgi on võimalik saavutada õpitulemused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Materjalid, nende töötlemisviisid ning töövahendid.</strong> Materjalide liigid, omadused ja nende kasutamine. Materjali päritolu, tootmine ja keskkonnamõju. Ressursside säästmine materjalide taaskasutamise kaudu.</p><p><strong>Tööprotsess.</strong> Tervikliku tööprotsessi planeerimine. Töötamine üksi ja rühmas. Erinevate materjalide omaduste ja tööks sobivuse uurimine oma töö kaudu.</p><p><strong>Igapäevaelu oskused.</strong> Teadlik ja säästlik tarbimine. Töövahendite hooldamine. Oma töökoha korrastamine. Teistes ainetes õpitu rakendamine. Õppeaine seosed erinevate eluvaldkondadega.</p><p><strong>Eneseanalüüs ja hindamine.</strong> Eneseanalüüs oma tööle koostöös õpetajaga. Oma töö esitlemine suuliselt või kirjalikult, kasutades sealhulgas digivahendeid. Oma töö adekvaatne hindamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpetaja algatab ühise arutelu, täpsustab teemat ja tutvustab võimalikke lisatingimusi töö tegemiseks ning tutvustab tööks vajalikke uusi tööriistu ja seadmeid ning selgitab nende kasutamise põhimõtteid ja tööohutust.</p><p>Tööd kavandab ja teeb õpilane iseseisvalt. Õpetaja sekkumine peaks olema minimaalne ja põhjendatud õpilase arengu toetamise aspektist. Õpilasele jäetakse õigus eksida. Õpetaja juhib tähelepanu näiteks võimalike suuremate eksimuste ärahoidmisele, lastes õpilasel leida tekkida võivate probleemide põhjusi ning nende kõrvaldamise lahendusi.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõiminguvõimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Kunstiained.</strong> Taaskasutusmaterjalidele uue elu andmine.</p><p><strong>Matemaatika.</strong> Konkreetsed probleemilahendused nõuavad arvutamis- ja mõõtmisoskust, oskust kasutada loogikat ja matemaatilisi sümboleid.</p><p><strong>Loodusained.</strong> Erinevad materjalid (looduslikud ja tehismaterjalid), erinevad ühendused, liigendid.</p><p><strong>Keel ja kirjandus.</strong> Eneseväljendusoskuse arendamine töö esitlemisel.</p><p><strong>Sotsiaalained.</strong> Ühistöös teiste arvestamine, käitumis- ja suhtlemisreeglite järgimine ning oma arvamuse kaitsmine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tagasisideviisid ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tagasiside töö käigus kujundab õpilastes arendatavaid oskusi ja pakub eduelamust. Kokkuvõtlikult hinnatakse töö kavandit ja tehnilist lahendust, töö tulemust, töökultuuri ning töösse suhtumist. Hindamiskriteeriumid tehakse õpilastele teatavaks, arutatakse läbi ja põhjendatakse nende vajalikkust enne töö alustamist.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III näidistöö: Rahvusliku elementidega ehe",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused, mis saavutatakse tööd tehes ja mille põhjal antakse õpilastele tagasisidet",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "kavandab omandatud töövõtete baasil jõukohaseid esemeid üksi ja/või rühmas, oskab kasutada videojuhendit;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "töötab sihikindlalt ja viib kavandatu lõpule;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "tunneb erinevaid tööks sobilikke materjale, sh toiduaineid ja nende omadusi;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "valib ja kasutab eesmärgipäraselt töövahendeid, töötlusviise ning materjale;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab materjale ja toiduaineid säästlikult ning leiab võimalusi materjalide taaskasutuseks;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "teab ja kasutab kavandades rahvuslikke kujunduselemente ning tunneb Eesti rahvuslikku käsitööd;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "esitleb oma ja/või rühma töö lõpptulemust, analüüsib ja põhjendab tööprotsessi valikuid kas suuliselt või kirjalikult, kasutades sealhulgas digivahendeid;",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppesisu, mille järgi on võimalik saavutada õpitulemused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Materjalid, nende töötlemisviisid ning töövahendid.</strong> Materjalide liigid, omadused ja nende kasutamine. Tööriistad (käsi- ja elektrilised tööriistad), seadmed ja masinad, nende nimetused ning ohutu ja tõhus kasutamine. Materjali päritolu, tootmine ja keskkonnamõju (näiteks vask, tiigipuu ja nahk). Eseme kaunistamine ja viimistlemine.</p><p><strong>Tööprotsess.</strong> Kuidas värv, kuju ja materjal aitavad kaasa tööesemete erinevatele väljendusviisidele. Visandid, mustrid ja tööjuhendid, kuidas neid mõista ja järgida. Märgid ja sümbolid Eesti rahvakunstis. Erinevate materjalide omaduste ja tööks sobivuse uurimine oma töö kaudu. Tööhuvi ja motivatsioon.</p><p><strong>Igapäevaelu oskused.</strong> Töövahendite hooldamine. Kodukoha kombed ja esemeline kultuur. Teistes ainetes õpitu rakendamine. Õppeaine seosed erinevate eluvaldkondadega.</p><p><strong>Eneseanalüüs ja hindamine.</strong> Oma töö esitlemine suuliselt või kirjalikult, kasutades sealhulgas digivahendeid. Oma töö adekvaatne hindamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpet kavandades ja korraldades lähtutakse ideest-tooteni-printsiibist. Tööd aktualiseerides ning õpilasi motiveerides on vaja silmas pidada töö ajakohasust ja vajalikkust õpilase seisukohast. Õpilaste loovust võib ergutada asjakohaste näitematerjalidega või enne töö disainimise alustamist käia kohalikus koduloomuuseumis inspiratsiooni saamas.</p><p>Lähtuvalt õpilaste varasematest teadmistest ning oskustest demonstreeritakse uusi töö- ja tehnikavõtteid kas frontaalselt või individuaalselt. Tähtsal kohal on õppimine õpilaselt õpilasele ehk õpipoisimeetodi rakendamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõiminguvõimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Selle teema käsitlemine võimaldab laialdast ainesisest, kuid ka valdkondlikku ja valdkonnaülest lõimingut.</p><p><strong>Ajalugu.</strong> Rahvuslike ehete kujunemine ja nende valmistamise tehnoloogia areng.</p><p><strong>Matemaatika.</strong> Mõõtmine, materjalikulu arvutused.</p><p><strong>Geomeetria.</strong> Ringjoone jagamine osadeks.</p><p><strong>Füüsika.</strong> Erinevate tööoperatsioonide korral ettetulevate nähtuste selgitamine ja põhjendamine.</p><p><strong>Eesti keel.</strong> Tööõpetuse terminoloogia kasutamine ja eneseväljendusoskuse arendamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tagasisideviisid ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilastele antakse tagasisidet kogu töö jooksul ja lõpphindamisel. Soovitatav on anda õpilasele tagasisidet järgmistel etappidel: töö disainikavandi valmimisel, materjalivalikul ja töö käigu plaanimise valmimisel, vajaduse korral jooksvalt töö kulgu sekkudes, lõpptoote hindamisel. Hindamise keskmes on õpilase eneserefleksioon.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "IV näidistöö: Köögitarvikud",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused, mis saavutatakse tööd tehes ja mille põhjal antakse õpilastele tagasisidet",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "nimetab töös kasutatavaid etteantud materjale ja nende omadusi;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "teab ja kasutab sihipäraselt tööks etteantud töövahendeid, töötlusviise ja materjale;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab õpetaja abiga ohutult õigeid töövõtteid ning tehnikaid materjalide töötlemisel;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kirjeldab omandatud töövõtete baasil jõukohaste esemete loomist üksi ja/või rühmas;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "töötab ja viib kavandatu lõpule;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab etteantud materjale säästlikult;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kirjeldab oma ja/või rühma tegevusi ja esitleb töö lõpptulemust suuliselt",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "järgib töötades hügieeni-, korra- ja puhtuse nõudeid, korrastab oma töökoha ning töövahendid",
+                  "outcomeType": "attitude"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppesisu, mille järgi on võimalik saavutada õpitulemused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Materjalid, nende töötlemisviisid ning töövahendid.</strong> Tööriistad (käsi- ja elektrilised tööriistad), seadmed ja masinad, nende nimetused ning ohutu ja tõhus kasutamine. Materjalide lihtsamad töötlemise viisid. Eseme kaunistamine ja viimistlemine. Ressursside säästmine materjalide taaskasutamise kaudu.</p><p><strong>Tööprotsess.</strong> Visandid, mustrid ja tööjuhendid, kuidas neid mõista ja järgida. Erinevate materjalide omaduste ja tööks sobivuse uurimine oma töö kaudu. Tööhuvi ja motivatsioon.</p><p><strong>Igapäevaelu oskused.</strong> Töövahendite hooldamine. Kodukoha kombed ja esemeline kultuur. Hügieeni-, korra- ja puhtuse nõuded. Oma töökoha korrastamine.</p><p><strong>Eneseanalüüs ja hindamine.</strong> Eneseanalüüs oma tööle koostöös õpetajaga. Oma töö esitlemine suuliselt.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilane valib lähtuvalt kodusest vajadusest tööeseme, mida valmistada. Valmistab tööeseme vastavalt oma oskustele ja võimekusele.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõiminguvõimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Arvutiõpetus.</strong> Info otsimine, jäädvustamine ning tutvustamine (esitlused, blogid, näitused, konkursid).</p><p><strong>Kodundus.</strong> Õppevahendite valmistamine.</p><p><strong>Matemaatika.</strong> Märkimine šablooni kasutades.</p><p><strong>Kunstiained.</strong> Tööeseme kaunistamine erinevate kujunditega.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tagasisideviisid ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Diskussiooni käigus antakse tagasisidet kavandamise, tehniliste lahenduste, ergonoomilisuse ja esteetilise välimuse, samuti materjalide ja töövahendite kasutamise ning käsitlemise kohta. Kaaslased hindavad valminud tööd ja õpilane annab ise tagasisidet selle kohta.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "V näidistöö: Muusikainstrumendid",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused, mis saavutatakse tööd tehes ja mille põhjal antakse õpilastele tagasisidet",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "tunneb erinevaid töös kasutatavaid materjale ja nende omadusi;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "tunneb, valib ja kasutab eesmärgipäraselt töövahendeid, töötlusviise ning materjale;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "mõistab ja kasutab iseseisvalt ohutult õigeid töövõtteid ning tehnikaid materjalide sh toiduainete töötlemisel",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "saab aru etteantud tööprotsessi kirjelduse järgimise olulisusest oma ja/või rühma töös;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "töötab sihikindlalt ja vajadusel kasutab õpetaja abi kavandatu lõpuleviimiseks;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "esitleb oma töö lõpptulemust, analüüsib ja põhjendab tööprotsessi valikuid kas suuliselt või kirjalikult;",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppesisu, mille järgi on võimalik saavutada õpitulemused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Materjalid, nende töötlemisviisid ning töövahendid.</strong> Materjalide liigid, omadused ja nende kasutamine. Tööriistad (käsi- ja elektrilised tööriistad), seadmed ja masinad, nende nimetused ning ohutu ja tõhus kasutamine. Materjalide lihtsamad töötlemise viisid. Materjalide hoiustamine. Eseme kaunistamine ja viimistlemine.</p><p><strong>Tööprotsess.</strong> Tervikliku tööprotsessi planeerimine. Töötamine üksi ja rühmas. Erinevate materjalide omaduste ja tööks sobivuse uurimine oma töö kaudu. Tööhuvi ja motivatsioon.</p><p><strong>Igapäevaelu oskused.</strong> Oma töökoha korrastamine. Teistes ainetes õpitu rakendamine. Õppeaine seosed erinevate eluvaldkondadega.</p><p><strong>Eneseanalüüs ja hindamine.</strong> Eneseanalüüs oma tööle koostöös õpetajaga. Oma töö esitlemine suuliselt või kirjalikult, kasutades sealhulgas digivahendeid. Oma töö adekvaatne hindamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilane valib isikliku huvi põhjal sobiliku muusikainstrumendi, mida valmistada (kõlapulk, istetrumm, kastanjett, triangel, vihmapill, väikekannel, jne). Rühmaarutelus leitakse õpilase jaoks parim tehnoloogiline lahendus, kuidas valitud pilli teha.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõiminguvõimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Selle teema käsitlemine võimaldab laialdast ainesisest, kuid ka valdkondlikku ja valdkonnaülest lõimingut.</p><p><strong>Muusika.</strong> Töö kavandamine koostöös muusikaõpetajaga. Muusikainstrumendi valmistamine ja kasutamine muusikatunnis.</p><p><strong>Arvutiõpetus.</strong> IKT ja multimeedia vahendite kasutamine ja oma töö näitlikustamine.</p><p><strong>Eesti keel.</strong> Tööõpetuse terminoloogia kasutamine ja eneseväljendusoskuse arendamine.</p><p><strong>Ajalugu.</strong> Muusikainstrumentide kujunemine ja nende valmistamise tehnoloogia areng.</p><p><strong>Kunstiained.</strong> Toote esteetiline kujundamine ja disainimine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tagasisideviisid ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Diskussiooni vältel antakse tagasisidet eseme kavandamise, tehniliste lahenduste, ergonoomilisuse ja esteetilise välimuse, samuti materjalide ning töövahendite kasutamise ja käsitlemise kohta. Kaaslased hindavad valminud tööd ning õpilane annab ise tagasisidet selle kohta.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "VI näidistöö: Mänguasi lasteaiale",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused, mis saavutatakse tööd tehes ja mille põhjal antakse õpilastele tagasisidet",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "valib ja kasutab eesmärgipäraselt töövahendeid, töötlusviise ning materjale;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "leiab vajalikku infot teabeallikatest ja väärtustab intellektuaalset omandit, lähtudes autoriõigusest;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab ohutult õigeid töövõtteid ning tehnikaid materjalide töötlemisel;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "planeerib õpetaja juhendamisel oma ja/või rühma terviklikku tööprotsessi;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "töötab sihikindlalt ja viib kavandatu lõpule;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab materjale ja toiduaineid säästlikult ning leiab võimalusi materjalide taaskasutuseks;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "mõistab rühmas töötamise või töö jaotamise olulisust ühise eesmärgi saavutamisel;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "esitleb oma ja/või rühma töö lõpptulemust, analüüsib ja põhjendab tööprotsessi valikuid kas suuliselt või kirjalikult, kasutades sealhulgas digivahendeid;",
+                  "outcomeType": "skill"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppesisu, mille järgi on võimalik saavutada õpitulemused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Materjalid, nende töötlemisviisid ning töövahendid.</strong> Materjalide liigid, omadused ja nende kasutamine. Tööriistad (käsi- ja elektrilised tööriistad), seadmed ja masinad, nende nimetused ning ohutu ja tõhus kasutamine. Eseme kaunistamine ja viimistlemine. Ressursside säästmine materjalide taaskasutamise kaudu.</p><p><strong>Tööprotsess.</strong> Tervikliku tööprotsessi planeerimine. Kuidas värv, kuju ja materjal aitavad kaasa tööesemete erinevatele väljendusviisidele. Töötamine üksi ja rühmas. Tööhuvi ja motivatsioon.</p><p><strong>Igapäevaelu oskused.</strong> Teadlik ja säästlik tarbimine. Töövahendite hooldamine. Kodukoha kombed ja esemeline kultuur. Oma töökoha korrastamine. Teistes ainetes õpitu rakendamine. Õppeaine seosed erinevate eluvaldkondadega.</p><p><strong>Eneseanalüüs ja hindamine.</strong> Eneseanalüüs oma tööle koostöös õpetajaga. Oma töö esitlemine suuliselt või kirjalikult, kasutades sealhulgas digivahendeid. Oma töö adekvaatne hindamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Õpetaja roll</strong> Motiveerimiseks ja teadmiste aktiveerimiseks võib projekti alustada õppekäiguga lasteaeda, kus õpilastel tekib isiklik side keskkonnaga ja ettekujutus lasteaialaste eakohastest mänguasjadest. Vajaduse korral kaasatakse aruteludesse lapsevanemad ning lasteaiaealisi õdesid-vendi.</p><p>Oluline on selgitada, mis on projekt, kasutades näiteks asjakohast filmi või slaidikava. Kui tegemist on jätkuprojektiga, võib õpilastele tutvustada eelmistel aastatel tehtud esemeid, tuues esile mänguasjade head omadused ja vead, mida vältida.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõiminguvõimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Lõiminguvõimalused sõltuvad sellest, mis valikuid õpilased mänguasju valmistades teevad. Õpilastes võib mänguasjade tegemise kaudu kasvatada empaatiavõimet ja arendada eri vanuses laste sotsiaalseid oskusi. Õpilased saavad arendada oma rühmatööoskusi. Samas õpivad nad valima oma oskustele sobiva eseme või mängu, mida suudavad ühiselt rühmas valmistada.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tagasisideviisid ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hindamismudel koostatakse õpilasi kaasates ühistes aruteludes. Kirjeldatakse kriteeriume, mis on projekti õnnestumiseks tähtsad (nt idee, disain, kvaliteet, eakohasus, esitlus, käitumine rühmas, ajakavast kinnipidamine jne). Hinne kujuneb kriteeriumide täitmise põhjal, hinnatakse nii rühma sees üksteist kui ka rühmade tööd üldiselt.</p><p>Vahehindamist on soovitatav teha kokkulepitud kriteeriumitest lähtuvalt, määrates erinevad pidepunktid, mis peavad olema mingi aja jooksul tehtud.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "1.4. Viited vabavaralisele õppevarale",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesti Tehnoloogiakasvatuse Liit",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://tehnoloogia.ee/konkurss-nutikad-opilastood/",
+              "title": "„Nutikad õpilastööd” (ideid õpilastöödeks)"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eesti Tööõpetajate Selts",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://etselts.ee/galerii/virtuaalnaitused/",
+              "title": "Õpilastööde virtuaalnäitused (ideid õpilasttöödeks)"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "E-koolikott",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et",
+              "title": "Näiteid tehnoloogia valdkonna teemade õpetamiseks"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

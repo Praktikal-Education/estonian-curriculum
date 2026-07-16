@@ -1,0 +1,1623 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Matemaatika 5. klassi õppe kirjeldus",
+      "children": [
+        { "kind": "text", "html": "<p>140 tundi (4 tundi nädalas)</p>" }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppimist toetav hindamine II kooliastmes",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatika ainekava üldosa alapeatükist 1.6 leiab üldised soovitused hindamise planeerimiseks. Õpet kavandades ning hinnates tuleks võtta aluseks tunnetuslikud protsessid: faktide, protseduuride ja mõistete teadmine; teadmiste rakendamise oskus; arutlemisoskus.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Ülesande keerukusastmed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Ülesanne on detailselt struktureeritud, selles on vähe samme ning ei sisaldu uusi elemente.</li><li>Ülesande raames vajab õpilane eelteadmisi eelnevast keerukusastme õpitegevusest ning selles sisaldub kuni kaks uut elementi.</li><li>Ülesanne on lahendamise struktuuri mõttes avatud; lisaks eelmistel tasemetel aktiveeritud teadmistele vajab õpilane ka muid varasemaid eelteadmisi.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Probleemide lahendamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Teemavaldkond <em>Probleemide lahendamine</em> on matemaatika ainekavasse lisandunud, kuid sisuliselt sama nagu 2010. aastal loodud õppekavas: probleemide lahendamist ei õpetata eraldi teemana, vaid teiste teemade raames. Üks võimalik lähenemine on G. Pólya skeem: ülesandega tutvumine, lahenduse otsimine, lahendamine, lahenduse kontroll.</p><ul><li>probleemi lihtsustamine lihtsama analoogilise ülesande lahendamise teel;</li><li>andmete korrastamine;</li><li>arukas oletamine ja testimine;</li><li>arutlemine tagasisuunas;</li><li>teistsuguste vaatenurkade leidmine;</li><li>joonise tegemine;</li><li>piirjuhu uurimine;</li><li>loogiline põhjendamine;</li><li>seaduspärasuste ja mustrite leidmine.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Võimekas õpilane",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Võimekama õpilase puhul tuleks pärast teema baasteadmiste omandamist pakkuda teemakohaseid ülesandeid, mille korral õpilane saab ise täiendavaid teadmisi avastada. Praktilised ja iseseisvad tööd ühendavad teadmised ja loovuse ning võimaldavad avastada ja uurida midagi uut.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpiraskustega õpilane",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpiraskustega õpilase jaoks on oluline määrata õpilase õpivõimekus, leida õpilasest lähtuv tugimeede ning vajadusel koostada individuaalne õppekava. Olulisel kohal on õppematerjali visualiseerimine, teemade omavaheline seostamine ja seostamine igapäevaelu näidetega.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Arvu ehitus kümnendsüsteemis ja naturaalarvude ümardamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "loeb ja kirjutab naturaalarve (kuni miljardini);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab naturaalarve järkarvude summana;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ümardab arvu etteantud järguni;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järjestab ja võrdleb naturaalarve (kuni miljonini);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kontrollib ja hindab oma lahenduskäikude tulemusi;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab matemaatika õppimisel erinevaid õpistrateegiaid (sh kordamine, märkmete tegemine, analoogiate loomine, üldistamine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvu ehitus. Miljonite klass ja miljardite klass. Naturaalarvu kujutamine arvkiirel. Naturaalarvude võrdlemine. Naturaalarvu ümardamine.</p><p><strong>Mõisted:</strong> naturaalarvud, arvu klassid, arvkiir, kümnendsüsteem, järkarv, järguühik, järguühiku kordne, arvu kujutis, kujutamisühik, võrratuse märgid, ümardamine, ligikaudne arv.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuna analoogne õppesisu on olnud 4. klassis arvudega kuni miljonini, siis on tähelepanu kordamisel, analoogiate loomisel ning üldistamisel. Vaadelda miljardiliste klassi elulisi näiteid ning tuua näiteid hinnangulisest arvutamisest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>A.</strong> Ümarda arv ning märgi etteantud naturaalarvud arvkiirele.</p><p><strong>B.</strong> Joonesta arvkiir ja märgi sellele etteantud arvud.</p><p><strong>C.</strong> Moodustada kaks neljakohalist arvu nii, et kõik kaheksa numbrit oleks erinevad ning leiduks järk, milleni neid ümardades saadakse võrdsed arvud.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Neli põhitehet naturaalarvudega. Arvu kuup. Arvavaldise väärtus ja lihtsustamine.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "arvutab peast (liitmine ja lahutamine 1000 piires, korrutamine ja jagamine 100 piires) ja kirjalikult (liitmine ja lahutamine 10 000 piires, korrutamine ja jagamine 1000 piires) täisarvudega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb tehete omadusi ning tehete liikmete ja tulemuste seoseid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab tehete järjekorda;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab arvu ruudu ja kuubi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab probleemide lahendamise skeemi etappe ja kasutab probleemide lahendamise skeemi ülesande lahendamiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab mitmetehtelisi tekstülesandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab mitmetehtelisi tekstülesandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib endale sobiva lahendusstrateegia (visandamine, visualiseerimine, andmete korrastamine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib endale sobiva lahendustee ja hindab kriitiliselt saadud tulemust;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kontrollib ja hindab oma lahenduskäikude tulemust;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab matemaatika õppimisel erinevaid õpistrateegiaid (sh kordamine, märkmete tegemine, analoogiate loomine, üldistamine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Neli põhitehet naturaalarvudega. Liitmis- ja korrutamistehte põhiomadused ning nende rakendamine. Tehete järjekord. Arvu ruut. Arvu kuup. Avaldise väärtuse arvutamine. Arvavaldise lihtsustamine. Probleemülesannete lahendamise skeem.</p><p><strong>Mõisted:</strong> arvavaldis, arvu ruut, arvu kuup, arvavaldise lihtsustamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>A.</strong> Arvuta $2^3-4\\cdot 0+5$ ja koosta teksti järgi arvavaldis.</p><p><strong>B.</strong> Arvuta $8:2^3+6^2:4-6$.</p><p><strong>C.</strong> Täida lüngad ning selgita, miks kahe järjestikuse naturaalarvu kuupide vahe on paaritu.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Jaguvus. Jaguvustunnused. Arvu tegurid ja kordsed. Algarvud. Kordarvud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab paaris- ja paarituid arve;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab alg- ja kordarve nende omaduste põhjal;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab mõisteid kordne ja tegur ülesandeid lahendades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab ja kasutab jaguvustunnuseid (2-, 3-, 5- ja 10-ga);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab mitmetehtelisi tekstülesandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab mitmetehtelisi tekstülesandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib endale sobiva lahendusstrateegia (visandamine, visualiseerimine, andmete korrastamine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib endale sobiva lahendustee ja hindab kriitiliselt saadud tulemust;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kontrollib ja hindab oma lahenduskäikude tulemust;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab matemaatika õppimisel erinevaid õpistrateegiaid (sh kordamine, märkmete tegemine, analoogiate loomine, üldistamine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Paaris- ja paaritud arvud. Arvude jaguvus. Jaguvuse omadused. Jaguvuse tunnused. Arvu tegurid ja kordsed. Arvude suurima ühisteguri ja vähima ühiskordse leidmine. Alg- ja kordarvud. Arvu esitus algtegurite korrutisena.</p><p><strong>Mõisted:</strong> jaguvus, arvu tegurid, arvu kordsed, suurim ühistegur (SÜT), vähim ühiskordne (VÜK), algarv, kordarv, algtegur, algteguriteks lahutamine, jaguvustunnus, ristsumma, algoritm.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>A.</strong> Tee kindlaks, kas etteantud arv jagub arvudega 2, 3, 5 ja 10. Leia kahe arvu SÜT ja VÜK.</p><p><strong>B.</strong> Selgita, miks arv 2 on ainus paarisarvuline algarv.</p><p><strong>C.</strong> Leia tunnus, mille põhjal saab etteantud arvud jaotada täpselt kolme rühma.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Joonisel on kujutatud sirget teelõiku, mille äärde on pandud neli posti. Leia vähim postide arv, mis tuleks neile lisada, et kõik naaberpostide vahelised kaugused oleks võrdsed.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddav7586011c2c1e6bed6e2c765da9ef1331.png?version=1&modificationDate=1725627916956&api=v2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kümnendmurd",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab hariliku ja kümnendmurru mõisteid ning kujutab murdarve arvkiirel;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja kirjutab positiivseid ratsionaalarve (kuni kolm kümnendkohta);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ümardab arvu ette antud järguni;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järjestab ja võrdleb positiivseid ratsionaalarve (kuni kolme kümnendkohaga kümnendmurrud ja harilikud murrud);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab ja selgitab mõõtühikutevahelisi seoseid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab matemaatika õppimisel erinevaid õpistrateegiaid (sh kordamine, märkmete tegemine, analoogiate loomine, üldistamine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Murdarv. Harilik murd. Kümnendmurd. Kümnendmurru ehitus. Kümnendmurru ümardamine. Mõõtühikud. Mõõtühikute süsteem.</p><p><strong>Mõisted:</strong> murdarv, harilik murd, murru lugeja, murru nimetaja, murrujoon, kümnendmurd, kümnendmurru täisosa ja murdosa, kümnendkohad, kümnendikud, sajandikud, tuhandikud, ratsionaalarvud, pikkusühik, pindalaühik.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kümnendmurdude liitmine ja lahutamine, korrutamine ja jagamine.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "arvutab peast (liitmine ja lahutamine 1000 piires, korrutamine ja jagamine 100 piires) ja kirjalikult (liitmine ja lahutamine 10 000 piires, korrutamine ja jagamine 1000 piires) täisarvude ning positiivsete ratsionaalarvudega (sealhulgas harilike murdudega, mille vähim ühine nimetaja on kuni 100);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb tehete omadusi ning tehete liikmete ja tulemuste seoseid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab tehete järjekorda;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lihtsustab ühe muutujaga avaldisi ning arvutab tähtavaldise väärtuse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab mitmetehtelisi tekstülesandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab mitmetehtelisi tekstülesandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Neli põhitehet kümnendmurdudega. Tehete järjekord.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>A.</strong> Tunneb ära õigesti sooritatud tehte ja arvutab kirjalikult.</p><p><strong>B.</strong> Lahendab tekstülesandeid kümnendmurdudega.</p><p><strong>C.</strong> Leiab erinevaid võimalusi tühikute täitmiseks kaheksa erineva numbriga nii, et võrdus oleks õige.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Andmed. Arvandmete illustreerimine.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab joon- ja tulpdiagrammi ning loeb neilt andmeid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "illustreerib joonestusvahendite ja digivahendite abil arvandmestikku joon- ja tulpdiagrammiga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab andmete kogumiseks erinevaid meetodeid (mõõtmine, küsimustik);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kogub lihtsa andmestiku, koostab sagedustabeli ning arvutab aritmeetilise keskmise;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib, milliseid andmeid esitada tabelina, milliseid joon- või tulpdiagrammina, põhjendab valikut;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvandmete kogumine ja korrastamine. Arvude aritmeetiline keskmine.</p><p><strong>Mõisted:</strong> sagedus, sagedustabel, skaala, diagramm, tulpdiagramm, joondiagramm, aritmeetiline keskmine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Avaldis. Võrrand. Valem.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab mõisteid avaldis, arvavaldis, tähtavaldis, võrdus, võrrand, valem;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "avaldab ühetehtelisest võrdusest tundmatu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab antud arvude seast võrrandi lahendi, lahendab lihtsamaid võrrandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lihtsustab ühe muutujaga avaldisi ning arvutab tähtavaldise väärtuse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab arvutamisseaduste ülekandmist algebrasse;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab probleemide lahendamise skeemi etappe ja kasutab probleemide lahendamise skeemi ülesande lahendamiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib endale sobiva lahendusstrateegia (visandamine, visualiseerimine, andmete korrastamine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib endale sobiva lahendustee ja hindab kriitiliselt saadud tulemust;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kontrollib ja hindab oma lahenduskäikude tulemust;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab omandatud teadmisi ja oskusi uute tundmatute probleemülesannete lahendamisel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab mitmetehtelisi tekstülesandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab mitmetehtelisi tekstülesandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Avaldiste koostamine ja väärtuste leidmine. Võrrandite koostamine ja lahendamine. Valemi kasutamine. Probleemülesannete lahendamine. Tekstülesannete lahendamine.</p><p><strong>Mõisted:</strong> avaldis, tähtavaldis, lihtsustamine, arvavaldis, valem, muutuja, tundmatu, võrrand, võrrandi lahend, võrrandi lahendamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Avaldise koostamine, B.</strong> On kolm võlujäätist. Ühe ärasöömine suurendab kehakaalu kaks korda, teise ärasöömine suurendab kehakaalu 1 kg võrra ja kolmanda ärasöömine vähendab kehakaalu 1 kg võrra. Millises järjestuses tuleks need kolm jäätist ära süüa, et lõpuks oleks kehakaal võimalikest suurim?</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddavf9f7499e2bd5787d2ce96771d1763cf5.png?version=1&modificationDate=1725627916951&api=v2"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong>Avaldise koostamine, C.</strong> Katil oli kaks ühesugust ristkülikut ning ta lõikas mõlemad mööda diagonaali kaheks kolmnurgaks. Neist moodustas ta joonisel oleva kujundi.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddav30c1c049624ecb07c15720f33104c0ab.png?version=1&modificationDate=1725627916945&api=v2"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kujundeid moodustatakse ritta joonisel näidatud eeskirja põhjal ruutudest küljepikkusega 1 cm. Neli esimest kujundit on joonisel antud.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddavcdb7a58558742aa0155a06bedaa1a718.png?version=1&modificationDate=1725627916939&api=v2"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong>Valem, C.</strong> Tuleta valemid joonisel tumedamaks värvitud osa pindala ja ümbermõõdu leidmiseks.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddav0120dfaa3a9304fd776ffcb68e8bad30.png?version=1&modificationDate=1725627916933&api=v2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Sirglõik. Murdjoon. Kiir. Sirge.Nurk. Nurga suurus. Nurkade liigid.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "joonestab ning tähistab punkti, sirge, kiire, lõigu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonestab, liigitab ja mõõdab nurki (täisnurk, teravnurk, nürinurk, sirgnurk, kõrvunurgad, tippnurgad);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab matemaatika õppimisel erinevaid õpistrateegiaid (sh kordamine, märkmete tegemine, analoogiate loomine, üldistamine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sirge, lõik ja kiir. Nurkade liigid. Nurga suurus ja selle mõõtmine.</p><p><strong>Mõisted:</strong> sirglõik, murdjoon, kiir, sirge, nurk, nurga tipp, nurga haar, sirgnurk, täisnurk, nürinurk, teravnurk, nurgakraad, mall, kõrvunurgad, tippnurgad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>C.</strong> Ruudukujulise paberilehe voltimise tulemusena asusid ruudu kaks tippu diagonaali ühes punktis. Leia nii saadud nelinurga teravnurga suurus.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddavb05745cfd979da7b324e77bf6d0c6357.png?version=1&modificationDate=1725627916926&api=v2"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong>Probleemülesanded.</strong> Leia ristkülikust voltimise teel saadud kaarekesega märgitud nurga suurus. Põhjenda.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddaved0dca96e144e0e3ff198438a5734ba9.png?version=1&modificationDate=1725627916920&api=v2"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Pabeririba volditi joonisel näidatud viisil. Nii saadud kujundis on kaks nurka kaarte märgitud. Teades ühe suurust, kuidas leiad teise suuruse? Selgita.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddav40ba3b046e07dfaf9081f11ebe03d0a2.png?version=1&modificationDate=1725627916915&api=v2"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Paberilehte volditi joonisel näidatud viisil. Leia saadud kujundil kaarega märgitud nurga suurus. Selgita.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddav22fd74a79bc470a597507863145d3618.png?version=1&modificationDate=1725627916910&api=v2"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ruutu volditi joonisel näidatud viisil. Leia saadud kujundis kaarekesega märgitud nurga suurus.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddava043812f1e3a32e207cbb43271af2407.png?version=1&modificationDate=1725627916904&api=v2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Sirged tasandil",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "joonestab ristuvad, lõikuvad ja paralleelsed sirged;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lõikuvad-, ristuvad- ja paralleelsed sirged.</p><p><strong>Mõisted:</strong> lõikepunkt, paralleelsed-, lõikuvad- ning ristuvad sirged, lüke ehk paralleellüke, ristuvad lõigud. <strong>Tähised:</strong> ∥ ja ⊥</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>B.</strong> Joonisel sirged <em>s</em> ja <em>t</em> ristuvad ning joonisel on kokku 4 täisnurka. Mitu teravnurka on joonisel?</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddav6d007dc5371452ec87b45f46a8123f92.png?version=1&modificationDate=1725627916898&api=v2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ruumala. Ruumalaühikud.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab ja selgitab ruumala mõiste tähendust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab ja selgitab ruumalaühikute vahelisi seoseid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ning teisendab ruumalaühikuid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab, mõistab ja selgitab kuubi ning risttahuka pindala ja ruumala;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab matemaatika õppimisel erinevaid õpistrateegiaid (sh kordamine, märkmete tegemine, analoogiate loomine, üldistamine);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ruumala. Kuubi ja risttahuka pindala ning ruumala. Ruumalaühikud.</p><p><strong>Mõisted:</strong> kuup ja risttahukas, ruumala, ruumalaühikud, ühikkuup, kuubi ruumala, risttahuka ruumala, pinnalaotus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lisaks arvutamistele kasutada erinevaid ruumilist mõtlemist arendavaid ülesandeid. Joonisel oleva keha eestvaates on näha 7 tumedamat ühikruutu. Leia keha pealt- ja kõrvalvaates nähtavate ühikruutude arvud.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddav24cda4c89f3aedd684eb89bd21fe3d81.png?version=1&modificationDate=1725627916892&api=v2"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>C.</strong> Risttahukakujulises kinnises anumas mõõtmetega 1 m × 2 m × 4 m on teatud kogus vett. Kui tahukas asetati lauale vasakpoolsel joonisel näidatud viisil, siis veetaseme kõrgus oli 25 cm. Kui kõrge oleks veetase, kui risttahukas asetada lauale parempoolsel joonisel näidatud viisil?</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/246285775/worddav86e8a12235911bc431e785cf54dd81cf.png?version=1&modificationDate=1725627916869&api=v2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Plaanimõõt. Mõõtkava.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab plaanimõõdu tähendust ja kasutab seda ülesandeid lahendades;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma arengut matemaatiliste teadmiste ja oskuste omandamisel;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kontrollib ja hindab kriitiliselt oma lahenduskäike ja tulemusi.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Plaanimõõt.</p><p><strong>Mõisted:</strong> plaan, plaanimõõt, mõõtkava.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arutleda mida ja milleks tuleb vähendada ja mida suurendada ning lasta tuua näiteid meid ümbritsevast maailmast.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kasulik lugemine ja olulised lingid",
+      "children": [
+        {
+          "kind": "file",
+          "src": "http://deepthought.ttu.ee/aa/artiklid/491.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "http://hoodamath.com/games/hungrypuppiesaddingdecimals.php"
+        },
+        {
+          "kind": "file",
+          "src": "http://kodu.ut.ee/~evelyl/Aritmeetika1/Konspekt2.pdf"
+        },
+        { "kind": "link", "href": "http://matemaatika.edu.ee/" },
+        {
+          "kind": "link",
+          "href": "http://www.matemaatika.edu.ee/sisu/0048/index.html"
+        },
+        { "kind": "link", "href": "http://www.thatquiz.org/tq-C/math/angles/" },
+        { "kind": "link", "href": "https://99math.com/" },
+        {
+          "kind": "link",
+          "href": "https://artprep.weebly.com/stella-protractors.html"
+        },
+        {
+          "kind": "link",
+          "href": "https://chromewebstore.google.com/detail/protractor/kpjldaeddnfokhmgdlmpdlecmobaonnj"
+        },
+        { "kind": "link", "href": "https://digipadevus.ee/opiraam-oppimine/" },
+        { "kind": "link", "href": "https://digipadevus.ee/opiraam/" },
+        {
+          "kind": "link",
+          "href": "https://dspace.ut.ee/items/0c713e5f-137b-44ce-8ccf-57b257f116a4"
+        },
+        {
+          "kind": "link",
+          "href": "https://dspace.ut.ee/server/api/core/bitstreams/7a77a4c6-bb64-4f12-a5b1-3df575be88fc/content"
+        },
+        { "kind": "link", "href": "https://e-koolikott.ee/" },
+        { "kind": "link", "href": "https://e-koolikott.ee/et/oppekirjandus" },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19195-Kaalumised-ja-valamised/224110"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/20952-Arvutamine-naturaalarvudega-5-klass"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/20954-Naturaalarvude-umardamine-5-klass"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/21035-Andmed-ja-algebra-5-klass"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/21068-Arvkiir-ja-skaala-Arvandmete-korrastamine-5-klass"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/21070-Matemaatilised-avaldised-5-klass"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/21072-Vorrandi-koostamine-Tekstulesannete-lahendamine-vorrandi-abil-5-klass"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/24719-Statistika-ja-toenaosus-pohikoolis"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/27855-Pikkusuhikud-ja-teisendamine-LEGO-SPIKE-Prime"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/29706-Kumnendmurrud-5-ja-6-klassile"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/31866-EDU-JA-TEGU-Ettevotlust-ja-rahatarkust-arendavad-toolehed-II-kooliastmele/293991"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/33639-Lineaarvorrand-ja-tasakaal"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/33641-Lineaarvorrandi-abil-lahenduvad-probleemulesanded"
+        },
+        {
+          "kind": "link",
+          "href": "https://edidaktikum.ee/et/content/%C3%B5ppimine-ja-ps%C3%BChholoogia"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/10878"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/11553"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/17612"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/17617"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/17624"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/17626"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/17627"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/17629"
+        },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/10055" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/4048" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/4256" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/4590" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/4797" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/5717" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/6154" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/6179" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/6183" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/6205" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/6237" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/6246" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/8173" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/8212" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/8213" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/9267" },
+        { "kind": "link", "href": "https://eis.ekk.edu.ee/eis/testid/9984" },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/10502/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/10541/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/10542/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/10543/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/10544/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/11581/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/11773/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12719/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12720/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12745/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12746/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12747/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12748/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12749/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12770/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12771/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12854/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12855/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12865/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12866/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/12884/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/13226/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/13299/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/13329/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/13341/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/13342/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/13413/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/13558/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/13964/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14131/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14159/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14214/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14217/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14221/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14222/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14223/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14722/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14727/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14728/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14788/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14791/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/14792/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/17393/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/17394/lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/17395/lahendamine"
+        },
+        {
+          "kind": "file",
+          "src": "https://enos.itcollege.ee/~edmund/materials/yhikud/yhikud.pdf"
+        },
+        { "kind": "link", "href": "https://et.mathigon.org/tasks" },
+        { "kind": "link", "href": "https://et.wikipedia.org/wiki/Isikukood" },
+        {
+          "kind": "link",
+          "href": "https://et.wikipedia.org/wiki/Vanade_ja_vähemlevinud_mõõtühikute_loend"
+        },
+        {
+          "kind": "file",
+          "src": "https://haridus.ut.ee/sites/default/files/inline-files/edukoraamatkaanega_0.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://hindaminekoolikeskkonnas.weebly.com/hindamise-ja-otildeppeprotsessi-kavandamine-vaumlljundipotildehises-otildeppekavas.html"
+        },
+        {
+          "kind": "link",
+          "href": "https://keeleabi.eki.ee/viki/Arvukirjutus.html"
+        },
+        {
+          "kind": "link",
+          "href": "https://klassiopetaja.weebly.com/motildeistete-kujundamine-matemaatikas.html"
+        },
+        { "kind": "link", "href": "https://kobras.eio.ee" },
+        { "kind": "link", "href": "https://learningapps.org/" },
+        {
+          "kind": "file",
+          "src": "https://learninginhand.squarespace.com/storage/pda/lessonplans/angles/Angles%20in%20Art.ppt"
+        },
+        {
+          "kind": "link",
+          "href": "https://matemaatika.eu/kmu/4-6-klasside-olumpiaad/"
+        },
+        {
+          "kind": "file",
+          "src": "https://matemaatika.eu/wp-content/uploads/2021/08/Mond.kuup_ht.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://matematerjale.weebly.com/5-klass.html"
+        },
+        {
+          "kind": "link",
+          "href": "https://mathsframe.co.uk/en/resources/resource/37/placing-numbers-on-a-number-line"
+        },
+        {
+          "kind": "link",
+          "href": "https://merikerand.wordpress.com/11-matemaatika-tund/"
+        },
+        {
+          "kind": "link",
+          "href": "https://mrnussbaum.com/angle-invaders-online-game"
+        },
+        {
+          "kind": "link",
+          "href": "https://novaator.err.ee/258449/inimese-malumaht-on-arvatust-palju-hiiglaslikum"
+        },
+        {
+          "kind": "link",
+          "href": "https://nutisport.eu/var17/mati/oppekava/index.php"
+        },
+        {
+          "kind": "link",
+          "href": "https://ojs.utlib.ee/index.php/EHA/article/view/eha.2021.9.1.06/12235"
+        },
+        { "kind": "link", "href": "https://oppekava.ee/algebra/" },
+        {
+          "kind": "link",
+          "href": "https://oppekava.ee/aritmeetika-tekstulesannete-lahendamisoskuse-arendamises/"
+        },
+        {
+          "kind": "link",
+          "href": "https://oppekava.ee/ii-kooliastmes-taotletavate-padevuste-kujundamisest-ning-oppe-ja-kasvatustegevuse-rohuasetustest-aineopetuses/"
+        },
+        {
+          "kind": "link",
+          "href": "https://oppekava.ee/matemaatika-loimingust-teiste-oppeainetega-projektoppe-kaudu/"
+        },
+        {
+          "kind": "link",
+          "href": "https://oppekava.ee/mida-arvestada-et-norgema-potentsiaaliga-opilased-saaksid-hakkama-hilisemates-kooliastmetes/"
+        },
+        {
+          "kind": "link",
+          "href": "https://oppekava.ee/oppekava-uldosa-taotluste-realiseerimine-matemaatikas/"
+        },
+        {
+          "kind": "link",
+          "href": "https://oppekava.ee/probleemulesannete-tuubid-ja-lahendusstrateegiad/"
+        },
+        {
+          "kind": "link",
+          "href": "https://oppeprotsessjahindamine.weebly.com/kuidas-anda-tagasisidet.html"
+        },
+        { "kind": "link", "href": "https://palmiste.weebly.com/5-klass1.html" },
+        {
+          "kind": "link",
+          "href": "https://prezi.com/jijpynoznak2/mootkava-plaanimoot/"
+        },
+        { "kind": "link", "href": "https://quizizz.com/" },
+        {
+          "kind": "link",
+          "href": "https://quizlet.com/170495608/algarvud-ja-kordarvud-flash-cards/"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/6ppimisttoetavhindamine/avaleht"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/xyzmatemaatika/avaleht/5-klass"
+        },
+        {
+          "kind": "link",
+          "href": "https://talendikeskus.ee/index.php/andekusest/"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5ba5e5d18dbdac0d0a45bd20"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5cab2d3ee45d6701382be14b"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5f40d3de31dd4f2d96d548cf"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5f4bee8c75e0e13465b21fa1"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5f57688c77cea72daa7ecb17"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5fd22c539c03210d4ab10e72"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5fd22fc6e23d150d1668db3e"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5fe4d7a64cbdd50b89a47961"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/60fee2e8c5f42161281e5c31"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/61f64a842cb0b7a21c53ab04"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/61fe607064e9940a707f168f"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/61fe8fbb3c3144402d20ba66"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/621ce5eac7d7e40a63ebb883"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/653a926dfba0afadbd268540"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/653cb6aacebea835fc4ea3ef"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/collection/5dfa7b2a3b9b5452324b4277"
+        },
+        {
+          "kind": "link",
+          "href": "https://teaduskool.ut.ee/et/ainevoistlused/kanguru"
+        },
+        { "kind": "link", "href": "https://viktoriinid.ee" },
+        {
+          "kind": "link",
+          "href": "https://www.arhitektuurikool.ee/uudised/parim-kingitus-ruumihuvilisele-koolilopetajale-on-ole-arhitekt-tooraamat-2/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.calameo.com/read/0023613970fdf0ecf869d"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.digar.ee/arhiiv/et/download/109269"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.fin.ee/riigi-rahandus-ja-maksud/riigieelarve-ja-eelarvestrateegia/riigieelarved"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.fun4thebrain.com/g/bf/snowballfight/"
+        },
+        { "kind": "embed", "src": "https://www.geogebra.org/m/bc3mzk5k" },
+        { "kind": "embed", "src": "https://www.geogebra.org/m/dg4fzzrw" },
+        { "kind": "embed", "src": "https://www.geogebra.org/m/ebjzqukf" },
+        { "kind": "embed", "src": "https://www.geogebra.org/m/hanvbt26" },
+        { "kind": "embed", "src": "https://www.geogebra.org/m/nzjhphf5" },
+        { "kind": "embed", "src": "https://www.geogebra.org/m/znbexfaa" },
+        { "kind": "embed", "src": "https://www.geogebra.org/m/zwjmb62u" },
+        { "kind": "embed", "src": "https://www.geogebra.org/math/angles" },
+        { "kind": "embed", "src": "https://www.geogebra.org/math/volume" },
+        { "kind": "link", "href": "https://www.hev.edu.ee/" },
+        {
+          "kind": "file",
+          "src": "https://www.hev.edu.ee/get/644/matemaatika-8kl-Iosa-veeb.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.hev.edu.ee/get/816/Matem_7_kl-II-osa_2015_veeb.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.hev.edu.ee/get/829/Mat_9kl_2osa-3tr_2016_web.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.hev.edu.ee/get/850/Mat_9kl_1osa-3tr_2016_web.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.hev.edu.ee/index.html%3Fid=79.html"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.hev.edu.ee/index.html%3Fid=80.html"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.hev.edu.ee/index.html%3Fid=81.html"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.hev.edu.ee/index.html%3Fid=82.html"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.hindamisvahendidmatemaatikas.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.hindamisvahendidmatemaatikas.ee/5-klass"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.liikumakutsuvkool.ee/ideepank/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.liikumakutsuvkool.ee/jaguvuse-tunnused-ii-ka/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.liikumakutsuvkool.ee/kumnendmurdude-liitmine-ja-lahutamine-ii-ka-2/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.liikumakutsuvkool.ee/kumnendmurdude-liitmine-ja-lahutamine-ii-ka/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.liikumakutsuvkool.ee/kumnendmurdude-vordlemine/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.liikumakutsuvkool.ee/kumnendmurrud-ii-ka/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.liikumakutsuvkool.ee/mootuhikud-ja-kumnendmurrud-ii-ka/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.liikumakutsuvkool.ee/nurgad-ii-ka/"
+        },
+        { "kind": "link", "href": "https://www.liveworksheets.com/" },
+        { "kind": "link", "href": "https://www.mathlearningcenter.org/apps" },
+        { "kind": "link", "href": "https://www.matific.com/" },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/angle-robotics/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/ballpark-estimate-estimate-division-of-decimals/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/estimating-and-rounding/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/factors-identify-prime-and-composite-numbers/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/find-the-treasure/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/maps-and-scales-solve-map-scale-word-problems-find-actual-distance-version-1/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/maps-and-scales-solve-map-scale-word-problems-find-actual-distance-version-2/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/maps-and-scales-solve-map-scale-word-problems-find-scale-version-2/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/maps-and-scales/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/parallel-and-perpendicular/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/somewhere-along-the-line-estimate-division-of-three-digit-by-two-digit-numbers/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/using-a-protractor-measure-angles-within-triangles/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.matific.com/ee/et/home/maths/episode/using-a-protractor/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.meisterdrucke.us/fine-art-prints/Wassily-Kandinsky/557692/Intersecting-Lines%2C-1923.html"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Cubes/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Factor-Game/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.nctm.org/Classroom-Resources/Illuminations/Lessons/Factor-Game/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.openmiddle.com/evaluating-expressions-1/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.sheppardsoftware.com/math/fractions/greatest-common-factor-game/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.sluha.pri.ee/stuff/matemaatika/5.klass/ymardamine.html"
+        },
+        { "kind": "link", "href": "https://www.thatquiz.org/" },
+        { "kind": "link", "href": "https://www.tlu.ee/hti/oppimise-abc" },
+        { "kind": "link", "href": "https://www.ttkool.ut.ee/nuputa/" },
+        {
+          "kind": "link",
+          "href": "https://www.ursupplier.com/tools/angle_measurement/"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.wassily-kandinsky.org/Composition-VIII.jsp"
+        },
+        { "kind": "link", "href": "https://www.youtube.com/playlist" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=3LYn0AsJNLM"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=77LNM1-vS0U"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=B_Rzkx4zm18"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=HSel_3AglEQ"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=J4gJTs4rNYU"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=KRW9eEGpy_M"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=LZxXUb9iAZc"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=LejoPGtliTs"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=NVuMULQjb3o"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=P3AOoLbA3us"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=RfHqMEsGtPw"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=RyQwieJZboQ"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=V08g_lkKj6Q"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=YQw124CtvO0"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=adR4uk5YVI8"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=pNfz-JU2cKE"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=sdq2ckDsSbA"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=sp0IoxlChZ8"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=wlgBaqAoiJQ"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=xahA6Af2-vo"
+        },
+        { "kind": "video", "src": "https://youtu.be/8ljWGWhcjec" },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/ylesanded/17415/lahendamine"
+        },
+        { "kind": "link", "href": "https://www.digar.ee" },
+        { "kind": "link", "href": "https://www.nctm" }
+      ]
+    }
+  ]
+}

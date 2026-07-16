@@ -1,0 +1,5165 @@
+[
+  {
+    "id": "169088701",
+    "title": "L\u00d5K - Eesti keel",
+    "parentId": "212839958",
+    "childIds": [
+      "195791516",
+      "187214267",
+      "195791518",
+      "195791523",
+      "198677558",
+      "195791526",
+      "195791534",
+      "195791538",
+      "195791540",
+      "195791662",
+      "195791664",
+      "195791667",
+      "195791674",
+      "195791676",
+      "195791678",
+      "216762886"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "169088731",
+    "title": "L\u00d5K - Inglise keel",
+    "parentId": "212839958",
+    "childIds": [
+      "187207789",
+      "187207791",
+      "187207793",
+      "187207795",
+      "187207798",
+      "184845573",
+      "184845577"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "169088735",
+    "title": "L\u00d5K - Loodus\u00f5petus",
+    "parentId": "212839958",
+    "childIds": [
+      "184846746",
+      "184846766",
+      "184846769",
+      "184846771",
+      "184846773",
+      "184845554",
+      "184845557",
+      "184845570"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "169088737",
+    "title": "L\u00d5K - Ajalugu",
+    "parentId": "212839958",
+    "childIds": [
+      "184846914",
+      "184846918",
+      "184846921",
+      "184846925",
+      "184846954",
+      "184845591",
+      "184845593"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "169088739",
+    "title": "L\u00d5K - Inimese\u00f5petus",
+    "parentId": "212839958",
+    "childIds": [
+      "187207753",
+      "187207760",
+      "187207762",
+      "187207765",
+      "184845595",
+      "184845597",
+      "184845599"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "169088741",
+    "title": "L\u00d5K - Muusika",
+    "parentId": "212839958",
+    "childIds": [
+      "187207779",
+      "187207782",
+      "187207787",
+      "184845532",
+      "184845601",
+      "184845603"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "169088743",
+    "title": "L\u00d5K - T\u00f6\u00f6\u00f5petus",
+    "parentId": "212839958",
+    "childIds": [
+      "187207715",
+      "187207719",
+      "187207723",
+      "187207725",
+      "187207728",
+      "184844668",
+      "184844681",
+      "184844692",
+      "law-lok-tehnoloogiaopetus-lisa"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "169088748",
+    "title": "T\u00d5K Elu- ja toimetuleku\u00f5pe",
+    "parentId": "212839963",
+    "childIds": [],
+    "depth": 2
+  },
+  {
+    "id": "172720654",
+    "title": "Lihtsustatud \u00f5ppe \u00f5ppeprotsesside kirjelduste \u00fcldosa",
+    "parentId": "212839958",
+    "childIds": [
+      "187206901",
+      "187206917",
+      "179504673",
+      "198680091",
+      "179504640"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "172720671",
+    "title": "L\u00d5K - Kunsti\u00f5petus",
+    "parentId": "212839958",
+    "childIds": [
+      "187207739",
+      "187207744",
+      "187207741",
+      "187207746",
+      "187207748",
+      "187207750",
+      "184844703",
+      "184844720",
+      "184845605"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "174364340",
+    "title": "5. kl - L\u00d5K inglise keel",
+    "parentId": "184845573",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174364342",
+    "title": "6. kl  - L\u00d5K inglise keel",
+    "parentId": "184845573",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174364344",
+    "title": "7. kl - L\u00d5K inglise keel",
+    "parentId": "184845577",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174364348",
+    "title": "8. kl  - L\u00d5K inglise keel",
+    "parentId": "184845577",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174364350",
+    "title": "9. kl - L\u00d5K inglise keel",
+    "parentId": "184845577",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174365655",
+    "title": "T\u00d5K Eesti keel",
+    "parentId": "212839963",
+    "childIds": ["law-tok-eesti-keel-vene-keel-kooli-oppekeel-lisa"],
+    "depth": 2
+  },
+  {
+    "id": "174365659",
+    "title": "T\u00d5K Matemaatika",
+    "parentId": "212839963",
+    "childIds": [],
+    "depth": 2
+  },
+  {
+    "id": "174365868",
+    "title": "T\u00d5K T\u00f6\u00f6\u00f5pe",
+    "parentId": "212839963",
+    "childIds": ["law-tok-tooope-lisa"],
+    "depth": 2
+  },
+  {
+    "id": "174365875",
+    "title": "T\u00d5K Kehaline kasvatus",
+    "parentId": "212839963",
+    "childIds": [],
+    "depth": 2
+  },
+  {
+    "id": "174365879",
+    "title": "T\u00d5K R\u00fctmika",
+    "parentId": "212839963",
+    "childIds": [],
+    "depth": 2
+  },
+  {
+    "id": "174365884",
+    "title": "T\u00d5K Muusika\u00f5petus",
+    "parentId": "212839963",
+    "childIds": [],
+    "depth": 2
+  },
+  {
+    "id": "174365891",
+    "title": "T\u00d5K Kunst ja k\u00e4eline tegevus",
+    "parentId": "212839963",
+    "childIds": ["law-tok-kunst-ja-kaeline-tegevus-lisa"],
+    "depth": 2
+  },
+  {
+    "id": "174365967",
+    "title": "1. klass - L\u00d5K loodus\u00f5petus",
+    "parentId": "184845554",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174365972",
+    "title": "2. klass - L\u00d5K loodus\u00f5petus",
+    "parentId": "184845554",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174365975",
+    "title": "3. klass - L\u00d5K loodus\u00f5petus",
+    "parentId": "184845554",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174365977",
+    "title": "4. klass - L\u00d5K loodus\u00f5petus",
+    "parentId": "184845557",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174365980",
+    "title": "5. klass - L\u00d5K loodus\u00f5petus",
+    "parentId": "184845557",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174365982",
+    "title": "6. klass - L\u00d5K loodus\u00f5petus",
+    "parentId": "184845557",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174365984",
+    "title": "7. klass - L\u00d5K loodus\u00f5petus",
+    "parentId": "184845570",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174365987",
+    "title": "8. klass - L\u00d5K loodus\u00f5petus",
+    "parentId": "184845570",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174365989",
+    "title": "9. klass - L\u00d5K loodus\u00f5petus",
+    "parentId": "184845570",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174365998",
+    "title": "6. klass - L\u00d5K ajalugu",
+    "parentId": "184845591",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174366000",
+    "title": "7. klass - L\u00d5K ajalugu",
+    "parentId": "184845593",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174366002",
+    "title": "8. klass - L\u00d5K ajalugu",
+    "parentId": "184845593",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174366005",
+    "title": "9. klass - L\u00d5K ajalugu",
+    "parentId": "184845593",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "174367142",
+    "title": "H\u00d5K_\u00d5ppeprotsesside kirjelduste \u00fcldosa",
+    "parentId": "212839965",
+    "childIds": [
+      "187209270",
+      "187209275",
+      "187212232",
+      "187214798",
+      "187214807",
+      "187214304"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "174367183",
+    "title": "Tegevusvaldkonna kavad",
+    "parentId": "212839965",
+    "childIds": [
+      "174367229",
+      "174367231",
+      "174367233",
+      "174367235",
+      "174367239"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "174367229",
+    "title": "1. Kognitiivsed oskused",
+    "parentId": "174367183",
+    "childIds": ["202650347", "202650358"],
+    "depth": 3
+  },
+  {
+    "id": "174367231",
+    "title": "2. Kommunikatiivsed oskused",
+    "parentId": "174367183",
+    "childIds": ["209584417", "211454892"],
+    "depth": 3
+  },
+  {
+    "id": "174367233",
+    "title": "3. Motoorsed oskused",
+    "parentId": "174367183",
+    "childIds": ["211454873", "211454880"],
+    "depth": 3
+  },
+  {
+    "id": "174367235",
+    "title": "4. Sotsiaalsed oskused",
+    "parentId": "174367183",
+    "childIds": ["212843031", "216767635"],
+    "depth": 3
+  },
+  {
+    "id": "174367239",
+    "title": "5. Igap\u00e4evaoskused",
+    "parentId": "174367183",
+    "childIds": ["216761328"],
+    "depth": 3
+  },
+  {
+    "id": "179504585",
+    "title": "Toimetuleku\u00f5ppe \u00f5ppeprotsesside kirjelduste \u00fcldosa",
+    "parentId": "212839963",
+    "childIds": [
+      "182779981",
+      "182779996",
+      "182779990",
+      "182780010",
+      "182780015",
+      "182780023",
+      "182780036",
+      "182782162",
+      "182780028",
+      "182780031",
+      "182780038",
+      "216770020"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "179504640",
+    "title": "Kasutatud kirjandus (L\u00d5K \u00fcldosa)",
+    "parentId": "172720654",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "179504673",
+    "title": "\u00d5pikeskkond. J\u00f5ukohase \u00f5ppe p\u00f5him\u00f5tted",
+    "parentId": "172720654",
+    "childIds": [
+      "216765899",
+      "216765903",
+      "216765905",
+      "216765908",
+      "216765912",
+      "216765914",
+      "216765916"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "179504803",
+    "title": "4. klass kunsti\u00f5petus",
+    "parentId": "184844720",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "179504805",
+    "title": "5. klass kunsti\u00f5petus",
+    "parentId": "184844720",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "179504807",
+    "title": "6. klass kunsti\u00f5petus",
+    "parentId": "184844720",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "179504811",
+    "title": "8. klass kunsti\u00f5petus",
+    "parentId": "184845605",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "179504815",
+    "title": "9. klass kunsti\u00f5petus",
+    "parentId": "184845605",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182779981",
+    "title": "1. Toimetuleku\u00f5ppe eesm\u00e4rk ja \u00fclesanded",
+    "parentId": "179504585",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "182779990",
+    "title": "3. Toimetuleku\u00f5ppel \u00f5ppiv \u00f5pilane",
+    "parentId": "179504585",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "182779996",
+    "title": "2. Toimetuleku\u00f5ppe p\u00f5him\u00f5tted",
+    "parentId": "179504585",
+    "childIds": ["182779999", "198677725"],
+    "depth": 3
+  },
+  {
+    "id": "182779999",
+    "title": "2.1 M\u00e4ngu kasutamine toimetuleku\u00f5ppes",
+    "parentId": "182779996",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182780010",
+    "title": "4. M\u00f5iste \"arengutase\" kasutamine toimetuleku\u00f5ppes",
+    "parentId": "179504585",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "182780015",
+    "title": "5. Hindamine toimetuleku\u00f5ppes",
+    "parentId": "179504585",
+    "childIds": ["193300707", "193300711", "193301441"],
+    "depth": 3
+  },
+  {
+    "id": "182780023",
+    "title": "6. I\u00d5K koostamise p\u00f5him\u00f5tted toimetuleku\u00f5ppes",
+    "parentId": "179504585",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "182780026",
+    "title": "8.2 Lugemisoskuse ja kirjutamisoskuse laiendatud m\u00f5isted toimetuleku\u00f5ppes",
+    "parentId": "182782162",
+    "childIds": ["182780548", "182780552"],
+    "depth": 4
+  },
+  {
+    "id": "182780028",
+    "title": "9. Matemaatika \u00f5petamise p\u00f5him\u00f5tted toimetuleku\u00f5ppes",
+    "parentId": "179504585",
+    "childIds": ["221020426", "221020432", "221020435"],
+    "depth": 3
+  },
+  {
+    "id": "182780031",
+    "title": "10. Toimetuleku\u00f5ppe \u00f5ppevara",
+    "parentId": "179504585",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "182780036",
+    "title": "7. \u00d5pikeskkonna kujundamine toimetuleku\u00f5ppes",
+    "parentId": "179504585",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "182780038",
+    "title": "11. \u00d5ppeaeg toimetuleku\u00f5ppes",
+    "parentId": "179504585",
+    "childIds": ["195790256", "195790258"],
+    "depth": 3
+  },
+  {
+    "id": "182780347",
+    "title": "1. klass- L\u00d5K inimese\u00f5petus",
+    "parentId": "184845595",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182780352",
+    "title": "2. klass- L\u00d5K inimese\u00f5petus",
+    "parentId": "184845595",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182780354",
+    "title": "3. klass- L\u00d5K inimese\u00f5petus",
+    "parentId": "184845595",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182780356",
+    "title": "4. klass- L\u00d5K inimese\u00f5petus",
+    "parentId": "184845597",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182780358",
+    "title": "5. klass- L\u00d5K inimese\u00f5petus",
+    "parentId": "184845597",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182780360",
+    "title": "6. klass- L\u00d5K inimese\u00f5petus",
+    "parentId": "184845597",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182780362",
+    "title": "7. klass- L\u00d5K inimese\u00f5petus",
+    "parentId": "184845599",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182780364",
+    "title": "8. klass- L\u00d5K inimese\u00f5petus",
+    "parentId": "184845599",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182780366",
+    "title": "9. klass- L\u00d5K inimese\u00f5petus",
+    "parentId": "184845599",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182780548",
+    "title": "8.2.1 Lugemisoskus",
+    "parentId": "182780026",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "182780552",
+    "title": "8.2.2 Kirjutamisoskus",
+    "parentId": "182780026",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "182781541",
+    "title": "1. klass - L\u00d5K muusika\u00f5petus",
+    "parentId": "184845532",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182781543",
+    "title": "2. klass - L\u00d5K muusika\u00f5petus",
+    "parentId": "184845532",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182781545",
+    "title": "3. klass - L\u00d5K muusika\u00f5petus",
+    "parentId": "184845532",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182781549",
+    "title": "4. klass - L\u00d5K muusika\u00f5petus",
+    "parentId": "184845601",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182781551",
+    "title": "5. klass - L\u00d5K muusika\u00f5petus",
+    "parentId": "184845601",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182781553",
+    "title": "6. klass - L\u00d5K muusika\u00f5petus",
+    "parentId": "184845601",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182781555",
+    "title": "7. klass - L\u00d5K muusika\u00f5petus",
+    "parentId": "184845603",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182781557",
+    "title": "8. klass - L\u00d5K muusika\u00f5petus",
+    "parentId": "184845603",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182781559",
+    "title": "9. klass - L\u00d5K muusika\u00f5petus",
+    "parentId": "184845603",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "182782162",
+    "title": "8. Eesti keele \u00f5petamise p\u00f5him\u00f5tted toimetuleku\u00f5ppes",
+    "parentId": "179504585",
+    "childIds": ["182782168", "182780026"],
+    "depth": 3
+  },
+  {
+    "id": "182782168",
+    "title": "8.1 AAC vahendite kasutamine",
+    "parentId": "182782162",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "184844668",
+    "title": "I kooliaste_t\u00f6\u00f6\u00f5petus",
+    "parentId": "169088743",
+    "childIds": ["184844671", "184844673", "184844676", "184844683"],
+    "depth": 3
+  },
+  {
+    "id": "184844671",
+    "title": "1. klass - L\u00d5K t\u00f6\u00f6\u00f5petus",
+    "parentId": "184844668",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "184844673",
+    "title": "2. klass - L\u00d5K t\u00f6\u00f6\u00f5petus",
+    "parentId": "184844668",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "184844676",
+    "title": "3. klass - L\u00d5K t\u00f6\u00f6\u00f5petus",
+    "parentId": "184844668",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "184844681",
+    "title": "II kooliaste_t\u00f6\u00f6\u00f5petus",
+    "parentId": "169088743",
+    "childIds": ["198679667", "198679669", "198679671"],
+    "depth": 3
+  },
+  {
+    "id": "184844683",
+    "title": "4. klass - L\u00d5K t\u00f6\u00f6\u00f5petus",
+    "parentId": "184844668",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "184844685",
+    "title": "5. klass - L\u00d5K tehnoloogia",
+    "parentId": "198679667",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "184844687",
+    "title": "6. klass - L\u00d5K tehnoloogia",
+    "parentId": "198679667",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "184844692",
+    "title": "III kooliaste_t\u00f6\u00f6\u00f5petus",
+    "parentId": "169088743",
+    "childIds": ["198680062", "198680068", "198680060"],
+    "depth": 3
+  },
+  {
+    "id": "184844694",
+    "title": "7. klass - L\u00d5K tehnoloogia",
+    "parentId": "198680060",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "184844696",
+    "title": "8. klass - L\u00d5K tehnoloogia",
+    "parentId": "198680060",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "184844698",
+    "title": "9. klass - L\u00d5K tehnoloogia",
+    "parentId": "198680060",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "184844703",
+    "title": "I kooliaste_kunsti\u00f5petus",
+    "parentId": "172720671",
+    "childIds": ["184844706", "184844713", "184844716"],
+    "depth": 3
+  },
+  {
+    "id": "184844706",
+    "title": "1. klass kunsti\u00f5petus",
+    "parentId": "184844703",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "184844713",
+    "title": "2. klass kunsti\u00f5petus",
+    "parentId": "184844703",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "184844716",
+    "title": "3. klass kunsti\u00f5petus",
+    "parentId": "184844703",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "184844720",
+    "title": "II kooliaste_kunsti\u00f5petus",
+    "parentId": "172720671",
+    "childIds": ["179504803", "179504805", "179504807"],
+    "depth": 3
+  },
+  {
+    "id": "184845532",
+    "title": "I kooliaste _muusika",
+    "parentId": "169088741",
+    "childIds": ["182781541", "182781543", "182781545"],
+    "depth": 3
+  },
+  {
+    "id": "184845554",
+    "title": "I kooliaste_loodus\u00f5petus",
+    "parentId": "169088735",
+    "childIds": ["174365967", "174365972", "174365975"],
+    "depth": 3
+  },
+  {
+    "id": "184845557",
+    "title": "II kooliaste_loodus\u00f5petus",
+    "parentId": "169088735",
+    "childIds": ["174365977", "174365980", "174365982"],
+    "depth": 3
+  },
+  {
+    "id": "184845570",
+    "title": "III kooliaste_loodus\u00f5petus",
+    "parentId": "169088735",
+    "childIds": ["174365984", "174365987", "174365989"],
+    "depth": 3
+  },
+  {
+    "id": "184845573",
+    "title": "II kooliaste_inglise keel",
+    "parentId": "169088731",
+    "childIds": ["174364340", "174364342"],
+    "depth": 3
+  },
+  {
+    "id": "184845577",
+    "title": "III kooliaste_inglise keel",
+    "parentId": "169088731",
+    "childIds": ["174364344", "174364348", "174364350"],
+    "depth": 3
+  },
+  {
+    "id": "184845591",
+    "title": "II kooliaste_ajalugu",
+    "parentId": "169088737",
+    "childIds": ["174365998"],
+    "depth": 3
+  },
+  {
+    "id": "184845593",
+    "title": "III kooliaste_ajalugu",
+    "parentId": "169088737",
+    "childIds": ["174366000", "174366002", "174366005"],
+    "depth": 3
+  },
+  {
+    "id": "184845595",
+    "title": "I kooliaste_inimese\u00f5petus",
+    "parentId": "169088739",
+    "childIds": ["182780347", "182780352", "182780354"],
+    "depth": 3
+  },
+  {
+    "id": "184845597",
+    "title": "II kooliaste_inimese\u00f5petus",
+    "parentId": "169088739",
+    "childIds": ["182780356", "182780358", "182780360"],
+    "depth": 3
+  },
+  {
+    "id": "184845599",
+    "title": "III kooliaste_inimese\u00f5petus",
+    "parentId": "169088739",
+    "childIds": ["182780362", "182780364", "182780366"],
+    "depth": 3
+  },
+  {
+    "id": "184845601",
+    "title": "II kooliaste _muusika",
+    "parentId": "169088741",
+    "childIds": ["182781549", "182781551", "182781553"],
+    "depth": 3
+  },
+  {
+    "id": "184845603",
+    "title": "III kooliaste _muusika",
+    "parentId": "169088741",
+    "childIds": ["182781555", "182781557", "182781559"],
+    "depth": 3
+  },
+  {
+    "id": "184845605",
+    "title": "III kooliaste_kunsti\u00f5petus",
+    "parentId": "172720671",
+    "childIds": ["184845613", "179504811", "179504815"],
+    "depth": 3
+  },
+  {
+    "id": "184845613",
+    "title": "7. klass kunsti\u00f5petus",
+    "parentId": "184845605",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "184846746",
+    "title": "\u00d5ppetegevuse kirjeldus arenguperioodide kaupa",
+    "parentId": "169088735",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "184846766",
+    "title": "\u00dcldp\u00e4devuste kujundamine loodus\u00f5petuse aine\u00f5ppes",
+    "parentId": "169088735",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "184846769",
+    "title": "Loodus\u00f5petuse l\u00f5iming \u00f5ppekava l\u00e4bivate teemadega",
+    "parentId": "169088735",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "184846771",
+    "title": "Loodus\u00f5petuse l\u00f5iming teiste \u00f5ppeainetega",
+    "parentId": "169088735",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "184846773",
+    "title": "Kasutatud allikad_loodus\u00f5petus",
+    "parentId": "169088735",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "184846914",
+    "title": "\u00d5ppetegevuse kirjeldus arenguperioodide kaupa_ajalugu",
+    "parentId": "169088737",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "184846918",
+    "title": "\u00dcldp\u00e4devuste kujundamine ajaloo \u00f5ppes",
+    "parentId": "169088737",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "184846921",
+    "title": "Ajaloo l\u00f5iming \u00f5ppekava l\u00e4bivate teemadega",
+    "parentId": "169088737",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "184846925",
+    "title": "Ajaloo l\u00f5iming teiste \u00f5ppeainetega",
+    "parentId": "169088737",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "184846954",
+    "title": "Kasutatud allikad_ajalugu",
+    "parentId": "169088737",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187206896",
+    "title": "Taju",
+    "parentId": "187206901",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187206901",
+    "title": "\u00d5pilaste tunnetustegevus ja k\u00f5ne",
+    "parentId": "172720654",
+    "childIds": [
+      "187206911",
+      "187206896",
+      "187206909",
+      "187206905",
+      "187207654"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "187206905",
+    "title": "M\u00f5tlemine",
+    "parentId": "187206901",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187206909",
+    "title": "M\u00e4lu",
+    "parentId": "187206901",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187206911",
+    "title": "T\u00e4helepanu",
+    "parentId": "187206901",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187206917",
+    "title": "\u00d5petamise p\u00f5him\u00f5tted erinevatel arenguperioodidel",
+    "parentId": "172720654",
+    "childIds": ["187207679", "187207681", "187207685", "187207687"],
+    "depth": 3
+  },
+  {
+    "id": "187207654",
+    "title": "K\u00f5ne",
+    "parentId": "187206901",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207679",
+    "title": "1. arenguperiood (1.-2. klass)",
+    "parentId": "187206917",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207681",
+    "title": "2. arenguperiood (3.-5. klass)",
+    "parentId": "187206917",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207685",
+    "title": "3. arenguperiood (6.-7. klass)",
+    "parentId": "187206917",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207687",
+    "title": "4. arenguperiood (8.-9. klass)",
+    "parentId": "187206917",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207715",
+    "title": "\u00d5ppetegevuse kirjeldus arenguperioodide kaupa_t\u00f6\u00f6\u00f5petus",
+    "parentId": "169088743",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207719",
+    "title": "\u00dcldp\u00e4devuste kujundamine t\u00f6\u00f6\u00f5petuses",
+    "parentId": "169088743",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207723",
+    "title": "T\u00f6\u00f6\u00f5petuse l\u00f5iming \u00f5ppekava l\u00e4bivate teemadega",
+    "parentId": "169088743",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207725",
+    "title": "T\u00f6\u00f6\u00f5petuse l\u00f5iming teiste \u00f5ppeainetega",
+    "parentId": "169088743",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207728",
+    "title": "Kasutatud materjalid_t\u00f6\u00f6\u00f5petus",
+    "parentId": "169088743",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207739",
+    "title": "\u00d5ppetegevuse kirjeldus arenguperioodide kaupa_kunsti\u00f5petus",
+    "parentId": "172720671",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207741",
+    "title": "Kunsti\u00f5petuse valdkonnad:",
+    "parentId": "172720671",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207744",
+    "title": "\u00dcldp\u00e4devuste kujundamine kunsti\u00f5petuses",
+    "parentId": "172720671",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207746",
+    "title": "Kunsti\u00f5petuse l\u00f5iming \u00f5ppekava l\u00e4bivate teemadega",
+    "parentId": "172720671",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207748",
+    "title": "Kunsti\u00f5petuse l\u00f5iming teiste \u00f5ppeainetega",
+    "parentId": "172720671",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207750",
+    "title": "Kasutatud materjalid_kunsti\u00f5petus",
+    "parentId": "172720671",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207753",
+    "title": "\u00d5ppetegevuse kirjeldus arenguperioodide kaupa_inimese\u00f5petus",
+    "parentId": "169088739",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207760",
+    "title": "\u00dcldp\u00e4devuste kujundamine inimese\u00f5petuses",
+    "parentId": "169088739",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207762",
+    "title": "Inimese\u00f5petuse l\u00f5iming \u00f5ppekava l\u00e4bivate teemadega",
+    "parentId": "169088739",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207765",
+    "title": "Inimese\u00f5petuse l\u00f5iming teiste \u00f5ppeainetega",
+    "parentId": "169088739",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207779",
+    "title": "\u00dcldp\u00e4devuste kujundamine muusika\u00f5petuses",
+    "parentId": "169088741",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207782",
+    "title": "Muusika\u00f5petuse l\u00f5iming \u00f5ppekava l\u00e4bivate teemadega",
+    "parentId": "169088741",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207787",
+    "title": "Kasutatud allikad_muusika",
+    "parentId": "169088741",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207789",
+    "title": "\u00d5ppetegevuse kirjeldus arenguperioodide kaupa_inglise keel",
+    "parentId": "169088731",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207791",
+    "title": "\u00dcldp\u00e4devuste kujundamine inglise keele \u00f5ppes",
+    "parentId": "169088731",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207793",
+    "title": "Inglise keele l\u00f5iming \u00f5ppekava l\u00e4bivate teemadega",
+    "parentId": "169088731",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207795",
+    "title": "Inglise keele l\u00f5iming teiste \u00f5ppeainetega",
+    "parentId": "169088731",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207798",
+    "title": "Kasutatud materjalid_inglise keel",
+    "parentId": "169088731",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207802",
+    "title": "L\u00d5K - Eesti keel teise keelena",
+    "parentId": "212839958",
+    "childIds": [
+      "187207804",
+      "187207806",
+      "187207809",
+      "187207812",
+      "187207814",
+      "187207816",
+      "187207825",
+      "187207834",
+      "232266984",
+      "law-lok-eesti-keel-teise-keelena-lisa",
+      "law-lok-vene-keel-muu-keel-lisa"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "187207804",
+    "title": "\u00d5ppetegevuse kirjeldus arenguperioodide kaupa (L\u00d5K E2)",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207806",
+    "title": "\u00dcldp\u00e4devuste kujundamine (L\u00d5K E2) \u00f5ppes",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207809",
+    "title": "L\u00f5iming \u00f5ppekava l\u00e4bivate teemadega (L\u00d5K E2)",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207812",
+    "title": "L\u00f5iming teiste \u00f5ppeainetega (L\u00d5K E2)",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207814",
+    "title": "Kasutatud materjalid (L\u00d5K E2)",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187207816",
+    "title": "I kooliaste (L\u00d5K E2)",
+    "parentId": "187207802",
+    "childIds": ["187207819", "187207821", "187207823"],
+    "depth": 3
+  },
+  {
+    "id": "187207819",
+    "title": "1. klass (L\u00d5K E2)",
+    "parentId": "187207816",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207821",
+    "title": "2. klass (L\u00d5K E2)",
+    "parentId": "187207816",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207823",
+    "title": "3. klass (L\u00d5K E2)",
+    "parentId": "187207816",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207825",
+    "title": "II kooliaste (L\u00d5K E2)",
+    "parentId": "187207802",
+    "childIds": ["187207828", "187207830", "187207832"],
+    "depth": 3
+  },
+  {
+    "id": "187207828",
+    "title": "4. klass (L\u00d5K E2)",
+    "parentId": "187207825",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207830",
+    "title": "5. klass (L\u00d5K E2)",
+    "parentId": "187207825",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207832",
+    "title": "6. klass/\u00fcleminek  (L\u00d5K E2)",
+    "parentId": "187207825",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187207834",
+    "title": "III kooliaste (L\u00d5K E2)",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187209270",
+    "title": "1. Hooldus\u00f5ppe eesm\u00e4rk",
+    "parentId": "174367142",
+    "childIds": ["198675597"],
+    "depth": 3
+  },
+  {
+    "id": "187209275",
+    "title": "2. Hooldus\u00f5ppe p\u00f5him\u00f5tted",
+    "parentId": "174367142",
+    "childIds": [
+      "187209279",
+      "191071029",
+      "187212236",
+      "187212240",
+      "187214315",
+      "191071066"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "187209279",
+    "title": "2.1 \u00dcld\u00f5petuse (tervik\u00f5ppe) p\u00f5him\u00f5tete rakendamine ja l\u00f5iming hooldus\u00f5ppes",
+    "parentId": "187209275",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187212232",
+    "title": "3. Hooldus\u00f5ppel \u00f5ppiv \u00f5pilane",
+    "parentId": "174367142",
+    "childIds": ["198674218", "198674222"],
+    "depth": 3
+  },
+  {
+    "id": "187212236",
+    "title": "2.3 \u00d5ppimine l\u00e4bi meelte ja praktilise tegevuse",
+    "parentId": "187209275",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187212240",
+    "title": "2.4 \u00d5pilase juhendamine ja abistamine",
+    "parentId": "187209275",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187214267",
+    "title": "\u00d5ppetegevuse r\u00f5huasetused arenguperioodide kaupa_eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187214304",
+    "title": "6. \u00d5pilase \u00f5pi(arengu)keskkonna kujundamine hooldus\u00f5ppes",
+    "parentId": "174367142",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187214315",
+    "title": "2.5 Alternatiivkommunikatsiooni kasutamine",
+    "parentId": "187209275",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "187214798",
+    "title": "4. Hindamine hooldus\u00f5ppes",
+    "parentId": "174367142",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "187214807",
+    "title": "5. I\u00d5K koostamise p\u00f5him\u00f5tted hooldus\u00f5ppes",
+    "parentId": "174367142",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "191071029",
+    "title": "2.2 Kontsentrilisuse printsiibi rakendamine ja spiraal\u00f5ppekava",
+    "parentId": "187209275",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "191071066",
+    "title": "2.6 Eakohasus ja j\u00f5ukohasus",
+    "parentId": "187209275",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "193300707",
+    "title": "5.1 \u00d5pilase individuaalse arengu taseme hindamine",
+    "parentId": "182780015",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "193300711",
+    "title": "5.2 \u00d5pitulemuste hindamine",
+    "parentId": "182780015",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "193301441",
+    "title": "5.3 Hindamine ja \u00f5petaja eneseanal\u00fc\u00fcs",
+    "parentId": "182780015",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "195790256",
+    "title": "11.1 Nominaalne \u00f5ppeaeg toimetuleku\u00f5ppes",
+    "parentId": "182780038",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "195790258",
+    "title": "11.2 Lisa\u00f5pe toimetuleku\u00f5ppes",
+    "parentId": "182780038",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "195791516",
+    "title": "\u00d5ppetegevuse kirjeldus arenguperioodide kaupa_eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791518",
+    "title": "\u00dcldp\u00e4devuste kujundamine eesti keele \u00f5ppes",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791523",
+    "title": "Eesti keele l\u00f5iming teiste \u00f5ppeainetega",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791526",
+    "title": "Kasutatud allikad_eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791534",
+    "title": "1. klass - L\u00d5K eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791538",
+    "title": "2. klass - L\u00d5K eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791540",
+    "title": "3. klass - L\u00d5K eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791662",
+    "title": "4. klass - L\u00d5K eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791664",
+    "title": "5. klass - L\u00d5K eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791667",
+    "title": "6. klass - L\u00d5K eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791674",
+    "title": "7. klass - L\u00d5K eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791676",
+    "title": "8. klass - L\u00d5K eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "195791678",
+    "title": "9. klass - L\u00d5K eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "198674218",
+    "title": "3.1 M\u00f5iste \"arengutase\" kasutamine hooldus\u00f5ppes",
+    "parentId": "187212232",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "198674222",
+    "title": "3.2 N\u00e4ited",
+    "parentId": "187212232",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "198675597",
+    "title": "1.1 J\u00e4tkuteenused hooldus\u00f5ppe taseme l\u00f5petanutele",
+    "parentId": "187209270",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "198677558",
+    "title": "\u00d5pitulemused kooliastmete kaupa_eesti keel",
+    "parentId": "169088701",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "198677725",
+    "title": "2.2 Tegevusele suunatud \u00f5petus. Projektip\u00f5hine \u00f5pe",
+    "parentId": "182779996",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "198679618",
+    "title": "5.klass -L\u00d5K K\u00e4sit\u00f6\u00f6",
+    "parentId": "198679669",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "198679628",
+    "title": "5.klass- L\u00d5K Kodundus",
+    "parentId": "198679671",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "198679636",
+    "title": "6.klass- L\u00d5K K\u00e4sit\u00f6\u00f6",
+    "parentId": "198679669",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "198679638",
+    "title": "6.klass- L\u00d5K Kodundus",
+    "parentId": "198679671",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "198679667",
+    "title": "II TEHNOLOOGIA\u00d5PETUS -L\u00d5K",
+    "parentId": "184844681",
+    "childIds": ["184844685", "184844687"],
+    "depth": 4
+  },
+  {
+    "id": "198679669",
+    "title": "II K\u00c4SIT\u00d6\u00d6 -L\u00d5K",
+    "parentId": "184844681",
+    "childIds": ["198679618", "198679636"],
+    "depth": 4
+  },
+  {
+    "id": "198679671",
+    "title": "II KODUNDUS-L\u00d5K",
+    "parentId": "184844681",
+    "childIds": ["198679628", "198679638"],
+    "depth": 4
+  },
+  {
+    "id": "198680060",
+    "title": "III TEHNOLOOGIA\u00d5PETUS -L\u00d5K",
+    "parentId": "184844692",
+    "childIds": ["184844694", "184844696", "184844698"],
+    "depth": 4
+  },
+  {
+    "id": "198680062",
+    "title": "III K\u00c4SIT\u00d6\u00d6 -L\u00d5K",
+    "parentId": "184844692",
+    "childIds": ["209584832", "209584834", "209584851"],
+    "depth": 4
+  },
+  {
+    "id": "198680068",
+    "title": "III KODUNDUS -L\u00d5K",
+    "parentId": "184844692",
+    "childIds": ["209584820", "209584826", "209584828"],
+    "depth": 4
+  },
+  {
+    "id": "198680091",
+    "title": "Hindamine lihtsustatud \u00f5ppes",
+    "parentId": "172720654",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "202650347",
+    "title": "1.1 Kognitiivsed oskused praktikas",
+    "parentId": "174367229",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "202650358",
+    "title": "1.2 Arengutasemete kirjeldused eakohase arengu puhul. Teoreetiline taust.",
+    "parentId": "174367229",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "209584417",
+    "title": "2.1 Kommunikatsioonioskused praktikas",
+    "parentId": "174367231",
+    "childIds": ["221025018"],
+    "depth": 4
+  },
+  {
+    "id": "209584820",
+    "title": "7.klass- L\u00d5K Kodundus",
+    "parentId": "198680068",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "209584826",
+    "title": "8.klass- L\u00d5K Kodundus",
+    "parentId": "198680068",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "209584828",
+    "title": "9.klass- L\u00d5K Kodundus",
+    "parentId": "198680068",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "209584832",
+    "title": "7.klass -L\u00d5K K\u00e4sit\u00f6\u00f6",
+    "parentId": "198680062",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "209584834",
+    "title": "8.klass -L\u00d5K K\u00e4sit\u00f6\u00f6",
+    "parentId": "198680062",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "209584851",
+    "title": "9.klass - L\u00d5K K\u00e4sit\u00f6\u00f6",
+    "parentId": "198680062",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453474",
+    "title": "P\u00f5hikool",
+    "parentId": null,
+    "childIds": ["211453475"],
+    "depth": 0
+  },
+  {
+    "id": "211453475",
+    "title": "P\u00f5hikooli riiklik \u00f5ppekava",
+    "parentId": "211453474",
+    "childIds": [
+      "211453476",
+      "211453526",
+      "211453585",
+      "211453721",
+      "211453823",
+      "211453859",
+      "211453892",
+      "211453952",
+      "211453968"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "211453476",
+    "title": "1. PK Ainevaldkond \"Keel ja kirjandus\"",
+    "parentId": "211453475",
+    "childIds": ["211453478", "211453492", "211453500", "211453513"],
+    "depth": 2
+  },
+  {
+    "id": "211453478",
+    "title": "PK Eesti keel",
+    "parentId": "211453476",
+    "childIds": ["211453479", "211453484", "211453488"],
+    "depth": 3
+  },
+  {
+    "id": "211453479",
+    "title": "I kooliaste - eesti keel",
+    "parentId": "211453478",
+    "childIds": ["211453480", "211453482", "211453483"],
+    "depth": 4
+  },
+  {
+    "id": "211453480",
+    "title": "1. klass - eesti keel",
+    "parentId": "211453479",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453482",
+    "title": "2. klass - eesti keel",
+    "parentId": "211453479",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453483",
+    "title": "3. klass - eesti keel",
+    "parentId": "211453479",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453484",
+    "title": "II kooliaste - eesti keel",
+    "parentId": "211453478",
+    "childIds": ["211453485", "211453486", "211453487"],
+    "depth": 4
+  },
+  {
+    "id": "211453485",
+    "title": "4. klass - eesti keel",
+    "parentId": "211453484",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453486",
+    "title": "5. klass - eesti keel",
+    "parentId": "211453484",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453487",
+    "title": "6. klass - eesti keel",
+    "parentId": "211453484",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453488",
+    "title": "III kooliaste - eesti keel",
+    "parentId": "211453478",
+    "childIds": ["211453489", "211453490", "211453491"],
+    "depth": 4
+  },
+  {
+    "id": "211453489",
+    "title": "7. klass - eesti keel",
+    "parentId": "211453488",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453490",
+    "title": "8. klass - eesti keel",
+    "parentId": "211453488",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453491",
+    "title": "9. klass - eesti keel",
+    "parentId": "211453488",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453492",
+    "title": "PK Kirjandus",
+    "parentId": "211453476",
+    "childIds": ["211453493", "211453496"],
+    "depth": 3
+  },
+  {
+    "id": "211453493",
+    "title": "II kooliaste - kirjandus",
+    "parentId": "211453492",
+    "childIds": ["211453494", "211453495"],
+    "depth": 4
+  },
+  {
+    "id": "211453494",
+    "title": "5. klass - kirjandus",
+    "parentId": "211453493",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453495",
+    "title": "6. klass - kirjandus",
+    "parentId": "211453493",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453496",
+    "title": "III kooliaste - kirjandus",
+    "parentId": "211453492",
+    "childIds": ["211453497", "211453498", "211453499"],
+    "depth": 4
+  },
+  {
+    "id": "211453497",
+    "title": "7. klass - kirjandus",
+    "parentId": "211453496",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453498",
+    "title": "8. klass - kirjandus",
+    "parentId": "211453496",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453499",
+    "title": "9. klass - kirjandus",
+    "parentId": "211453496",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453500",
+    "title": "PK Eesti keel teise keelena",
+    "parentId": "211453476",
+    "childIds": ["211453501", "211453505", "211453509"],
+    "depth": 3
+  },
+  {
+    "id": "211453501",
+    "title": "I kooliaste - eesti keel teise keelena",
+    "parentId": "211453500",
+    "childIds": ["211453502", "211453503", "211453504"],
+    "depth": 4
+  },
+  {
+    "id": "211453502",
+    "title": "1. klass - eesti keel teise keelena",
+    "parentId": "211453501",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453503",
+    "title": "2. klass - eesti keel teise keelena",
+    "parentId": "211453501",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453504",
+    "title": "3. klass - eesti keel teise keelena",
+    "parentId": "211453501",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453505",
+    "title": "II kooliaste - eesti keel teise keelena",
+    "parentId": "211453500",
+    "childIds": ["211453506", "211453507", "211453508"],
+    "depth": 4
+  },
+  {
+    "id": "211453506",
+    "title": "4. klass - eesti keel teise keelena",
+    "parentId": "211453505",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453507",
+    "title": "5. klass - eesti keel teise keelena",
+    "parentId": "211453505",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453508",
+    "title": "6. klass - eesti keel teise keelena",
+    "parentId": "211453505",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453509",
+    "title": "III kooliaste - eesti keel teise keelena",
+    "parentId": "211453500",
+    "childIds": ["211453510", "211453511", "211453512"],
+    "depth": 4
+  },
+  {
+    "id": "211453510",
+    "title": "7. klass - eesti keel teise keelena",
+    "parentId": "211453509",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453511",
+    "title": "8. klass - eesti keel teise keelena",
+    "parentId": "211453509",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453512",
+    "title": "9. klass - eesti keel teise keelena",
+    "parentId": "211453509",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453513",
+    "title": "PK Vene keel",
+    "parentId": "211453476",
+    "childIds": ["211453514", "211453518", "211453522"],
+    "depth": 3
+  },
+  {
+    "id": "211453514",
+    "title": "I kooliaste - vene keel",
+    "parentId": "211453513",
+    "childIds": ["211453515", "211453516", "211453517", "law-pk-vene-keel-i"],
+    "depth": 4
+  },
+  {
+    "id": "211453515",
+    "title": "1. klass - vene keel",
+    "parentId": "211453514",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453516",
+    "title": "2. klass - vene keel",
+    "parentId": "211453514",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453517",
+    "title": "3. klass - vene keel",
+    "parentId": "211453514",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453518",
+    "title": "II kooliaste - vene keel",
+    "parentId": "211453513",
+    "childIds": ["211453519", "211453520", "211453521"],
+    "depth": 4
+  },
+  {
+    "id": "211453519",
+    "title": "4. klass - vene keel",
+    "parentId": "211453518",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453520",
+    "title": "5. klass - vene keel",
+    "parentId": "211453518",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453521",
+    "title": "6. klass - vene keel",
+    "parentId": "211453518",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453522",
+    "title": "III kooliaste - vene keel",
+    "parentId": "211453513",
+    "childIds": ["211453523", "211453524", "211453525"],
+    "depth": 4
+  },
+  {
+    "id": "211453523",
+    "title": "7. klass - vene keel",
+    "parentId": "211453522",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453524",
+    "title": "8. klass - vene keel",
+    "parentId": "211453522",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453525",
+    "title": "9. klass - vene keel",
+    "parentId": "211453522",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453526",
+    "title": "2. PK Ainevaldkond \u201eKehaline kasvatus\u201d",
+    "parentId": "211453475",
+    "childIds": ["211453538"],
+    "depth": 2
+  },
+  {
+    "id": "211453538",
+    "title": "PK Kehaline kasvatus valdkondade alusel",
+    "parentId": "211453526",
+    "childIds": [
+      "211453539",
+      "211453542",
+      "211453545",
+      "211453548",
+      "211453552",
+      "211453555",
+      "211453558",
+      "211453561",
+      "211453564",
+      "211453567",
+      "211453570",
+      "211453573",
+      "211453576",
+      "211453579",
+      "211453582"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "211453539",
+    "title": "1.-3. klass. Kehaline aktiivsus",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453542",
+    "title": "1.-3. klass. Liikumine ja kultuur",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453545",
+    "title": "1.-3. klass. Liikumisoskus",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453548",
+    "title": "1.-3. klass. Tervis ja kehalised v\u00f5imed",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453552",
+    "title": "1.-3. klass. Vaimne ja kehaline tasakaal",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453555",
+    "title": "4.-6. klass. Kehaline aktiivsus",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453558",
+    "title": "4.-6. klass. Liikumine ja kultuur",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453561",
+    "title": "4.-6. klass. Liikumisoskus",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453564",
+    "title": "4.-6. klass. Tervis ja kehalised v\u00f5imed",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453567",
+    "title": "4.-6. klass. Vaimne ja kehaline tasakaal",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453570",
+    "title": "7.-9. klass. Kehaline aktiivsus",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453573",
+    "title": "7.-9. klass. Liikumine ja kultuur",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453576",
+    "title": "7.-9. klass. Liikumisoskus",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453579",
+    "title": "7.-9. klass. Tervis ja kehalised v\u00f5imed",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453582",
+    "title": "7.-9. klass. Vaimne ja kehaline tasakaal",
+    "parentId": "211453538",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453585",
+    "title": "3. PK Ainevaldkond \u201eKunstiained\u201d",
+    "parentId": "211453475",
+    "childIds": ["211453586", "211453587", "211453588", "211453678"],
+    "depth": 2
+  },
+  {
+    "id": "211453586",
+    "title": "PK P\u00e4devuste kujunemine \"Kunstiainete\" valdkonnas",
+    "parentId": "211453585",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453587",
+    "title": "PK Valdkonnasisene ja -\u00fclene l\u00f5iming",
+    "parentId": "211453585",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453588",
+    "title": "PK Kunst",
+    "parentId": "211453585",
+    "childIds": [
+      "211453590",
+      "211453593",
+      "211453641",
+      "211453654",
+      "211453667"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "211453590",
+    "title": "\u00dcldp\u00e4devuste kujundamine p\u00f5hikooli kunsti\u00f5ppes",
+    "parentId": "211453588",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453593",
+    "title": "Metoodilised soovitused p\u00f5hikooli kunsti\u00f5ppes",
+    "parentId": "211453588",
+    "childIds": ["211453634", "211453640"],
+    "depth": 4
+  },
+  {
+    "id": "211453634",
+    "title": "Diferentseerimise v\u00f5imalusi HEV \u00f5pilaste toetamisel",
+    "parentId": "211453593",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453640",
+    "title": "Hindamise ja tagasisidestamise soovitusi p\u00f5hikooli kunsti\u00f5ppes",
+    "parentId": "211453593",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453641",
+    "title": "I kooliaste \u2013 kunst",
+    "parentId": "211453588",
+    "childIds": ["211453643", "211453646", "211453650"],
+    "depth": 4
+  },
+  {
+    "id": "211453643",
+    "title": "1. klass - kunst",
+    "parentId": "211453641",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453646",
+    "title": "2. klass - kunst",
+    "parentId": "211453641",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453650",
+    "title": "3. klass - kunst",
+    "parentId": "211453641",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453654",
+    "title": "II kooliaste \u2013 kunst",
+    "parentId": "211453588",
+    "childIds": ["211453656", "211453661", "211453664"],
+    "depth": 4
+  },
+  {
+    "id": "211453656",
+    "title": "4. klass - kunst",
+    "parentId": "211453654",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453661",
+    "title": "5. klass - kunst",
+    "parentId": "211453654",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453664",
+    "title": "6. klass - kunst",
+    "parentId": "211453654",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453667",
+    "title": "III kooliaste - kunst",
+    "parentId": "211453588",
+    "childIds": ["211453669", "211453672", "211453675"],
+    "depth": 4
+  },
+  {
+    "id": "211453669",
+    "title": "7. klass - kunst",
+    "parentId": "211453667",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453672",
+    "title": "8. klass - kunst",
+    "parentId": "211453667",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453675",
+    "title": "9. klass - kunst",
+    "parentId": "211453667",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453678",
+    "title": "PK Muusika",
+    "parentId": "211453585",
+    "childIds": ["211453679", "211453695", "211453712"],
+    "depth": 3
+  },
+  {
+    "id": "211453679",
+    "title": "I kooliaste \u2013 muusika",
+    "parentId": "211453678",
+    "childIds": ["211453681", "211453684", "211453687"],
+    "depth": 4
+  },
+  {
+    "id": "211453681",
+    "title": "1. klass",
+    "parentId": "211453679",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453684",
+    "title": "2. klass",
+    "parentId": "211453679",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453687",
+    "title": "3. klass",
+    "parentId": "211453679",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453695",
+    "title": "II kooliaste \u2013 muusika",
+    "parentId": "211453678",
+    "childIds": ["211453699", "211453706", "211453710"],
+    "depth": 4
+  },
+  {
+    "id": "211453699",
+    "title": "4. klass",
+    "parentId": "211453695",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453706",
+    "title": "5. klass",
+    "parentId": "211453695",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453710",
+    "title": "6. klass",
+    "parentId": "211453695",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453712",
+    "title": "III kooliaste \u2013 muusika",
+    "parentId": "211453678",
+    "childIds": ["211453714", "211453717", "211453720"],
+    "depth": 4
+  },
+  {
+    "id": "211453714",
+    "title": "7. klass",
+    "parentId": "211453712",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453717",
+    "title": "8. klass",
+    "parentId": "211453712",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453720",
+    "title": "9. klass",
+    "parentId": "211453712",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453721",
+    "title": "4. PK Ainevaldkond \"Loodusained\"",
+    "parentId": "211453475",
+    "childIds": [
+      "211453722",
+      "211453746",
+      "211453775",
+      "211453806",
+      "211453817"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "211453722",
+    "title": "PK Loodus\u00f5petus",
+    "parentId": "211453721",
+    "childIds": ["211453730", "211453734", "211453742"],
+    "depth": 3
+  },
+  {
+    "id": "211453730",
+    "title": "I kooliaste - loodus\u00f5petus",
+    "parentId": "211453722",
+    "childIds": ["211453731", "211453732", "211453733"],
+    "depth": 4
+  },
+  {
+    "id": "211453731",
+    "title": "1. klass - loodus\u00f5petus",
+    "parentId": "211453730",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453732",
+    "title": "2. klass - loodus\u00f5petus",
+    "parentId": "211453730",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453733",
+    "title": "3. klass - loodus\u00f5petus",
+    "parentId": "211453730",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453734",
+    "title": "II kooliaste - loodus\u00f5petus",
+    "parentId": "211453722",
+    "childIds": ["211453735", "211453740", "211453741"],
+    "depth": 4
+  },
+  {
+    "id": "211453735",
+    "title": "4. klass - loodus\u00f5petus",
+    "parentId": "211453734",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453740",
+    "title": "5. klass - loodus\u00f5petus",
+    "parentId": "211453734",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453741",
+    "title": "6. klass - loodus\u00f5petus",
+    "parentId": "211453734",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453742",
+    "title": "III kooliaste - loodus\u00f5petus",
+    "parentId": "211453722",
+    "childIds": ["211453743"],
+    "depth": 4
+  },
+  {
+    "id": "211453743",
+    "title": "7. klass - loodus\u00f5petus",
+    "parentId": "211453742",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453746",
+    "title": "PK Bioloogia",
+    "parentId": "211453721",
+    "childIds": ["211453747", "211453751", "211453762"],
+    "depth": 3
+  },
+  {
+    "id": "211453747",
+    "title": "Bioloogia - 7. klass",
+    "parentId": "211453746",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453751",
+    "title": "Bioloogia - 8. klass",
+    "parentId": "211453746",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453762",
+    "title": "Bioloogia - 9. klass",
+    "parentId": "211453746",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453775",
+    "title": "PK F\u00fc\u00fcsika",
+    "parentId": "211453721",
+    "childIds": ["211453776", "211453790"],
+    "depth": 3
+  },
+  {
+    "id": "211453776",
+    "title": "F\u00fc\u00fcsika - 8. klass",
+    "parentId": "211453775",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453790",
+    "title": "F\u00fc\u00fcsika - 9. klass",
+    "parentId": "211453775",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453806",
+    "title": "PK Geograafia",
+    "parentId": "211453721",
+    "childIds": ["211453807", "211453809", "211453811"],
+    "depth": 3
+  },
+  {
+    "id": "211453807",
+    "title": "7. klassi geograafia",
+    "parentId": "211453806",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453809",
+    "title": "8. klassi geograafia",
+    "parentId": "211453806",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453811",
+    "title": "9. klassi geograafia",
+    "parentId": "211453806",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453817",
+    "title": "PK Keemia",
+    "parentId": "211453721",
+    "childIds": ["211453818", "211453820"],
+    "depth": 3
+  },
+  {
+    "id": "211453818",
+    "title": "8. klass - keemia",
+    "parentId": "211453817",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453820",
+    "title": "9. klass - keemia",
+    "parentId": "211453817",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453823",
+    "title": "5. PK Ainevaldkond \"Matemaatika\"",
+    "parentId": "211453475",
+    "childIds": [
+      "235015436",
+      "248889189",
+      "248889149",
+      "246285757",
+      "246285775",
+      "211453844",
+      "211453847",
+      "211453851",
+      "267884079",
+      "law-pk-matemaatika-i",
+      "law-pk-matemaatika-ii",
+      "law-pk-matemaatika-iii"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "211453844",
+    "title": "6. klass matemaatika",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453847",
+    "title": "7. klass matemaatika",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453851",
+    "title": "8. klass matemaatika",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453859",
+    "title": "6. PK Ainevaldkond \"Sotsiaalained\"",
+    "parentId": "211453475",
+    "childIds": [
+      "211453860",
+      "211453862",
+      "211453873",
+      "211453884",
+      "212845509"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "211453860",
+    "title": "Hindamine sotsiaalainetes",
+    "parentId": "211453859",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453862",
+    "title": "PK Ajalugu",
+    "parentId": "211453859",
+    "childIds": ["211453863", "211453864", "211453868"],
+    "depth": 3
+  },
+  {
+    "id": "211453863",
+    "title": "Hindamine ajaloos",
+    "parentId": "211453862",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453864",
+    "title": "II kooliaste - ajalugu",
+    "parentId": "211453862",
+    "childIds": ["211453865", "211453866"],
+    "depth": 4
+  },
+  {
+    "id": "211453865",
+    "title": "Ajalugu 5. klass",
+    "parentId": "211453864",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453866",
+    "title": "Ajalugu 6. klass",
+    "parentId": "211453864",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453868",
+    "title": "III kooliaste - ajalugu",
+    "parentId": "211453862",
+    "childIds": ["211453869", "211453870", "211453872"],
+    "depth": 4
+  },
+  {
+    "id": "211453869",
+    "title": "Ajalugu 7. klass",
+    "parentId": "211453868",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453870",
+    "title": "Ajalugu 8. klass",
+    "parentId": "211453868",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453872",
+    "title": "Ajalugu 9. klass",
+    "parentId": "211453868",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453873",
+    "title": "PK Inimese\u00f5petus",
+    "parentId": "211453859",
+    "childIds": ["211453874", "211453875", "211453878", "211453881"],
+    "depth": 3
+  },
+  {
+    "id": "211453874",
+    "title": "Hindamine inimese\u00f5petuses",
+    "parentId": "211453873",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453875",
+    "title": "I kooliaste - Inimese\u00f5petus",
+    "parentId": "211453873",
+    "childIds": ["211453876", "211453877"],
+    "depth": 4
+  },
+  {
+    "id": "211453876",
+    "title": "Inimese\u00f5petus 2. klass",
+    "parentId": "211453875",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453877",
+    "title": "Inimese\u00f5petus 3. klass",
+    "parentId": "211453875",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453878",
+    "title": "II kooliaste - Inimese\u00f5petus",
+    "parentId": "211453873",
+    "childIds": ["211453879", "211453880"],
+    "depth": 4
+  },
+  {
+    "id": "211453879",
+    "title": "Inimese\u00f5petus 5. klass",
+    "parentId": "211453878",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453880",
+    "title": "Inimese\u00f5petus 6. klass",
+    "parentId": "211453878",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453881",
+    "title": "III kooliaste - Inimese\u00f5petus",
+    "parentId": "211453873",
+    "childIds": ["211453882", "211453883"],
+    "depth": 4
+  },
+  {
+    "id": "211453882",
+    "title": "Inimese\u00f5petus 7. klass",
+    "parentId": "211453881",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453883",
+    "title": "Inimese\u00f5petus 8. klass",
+    "parentId": "211453881",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453884",
+    "title": "PK \u00dchiskonna\u00f5petus",
+    "parentId": "211453859",
+    "childIds": ["211453885", "211453890", "211453886"],
+    "depth": 3
+  },
+  {
+    "id": "211453885",
+    "title": "Hindamine \u00fchiskonna\u00f5petuses",
+    "parentId": "211453884",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453886",
+    "title": "III kooliaste - \u00dchiskonna\u00f5petus",
+    "parentId": "211453884",
+    "childIds": ["211453887"],
+    "depth": 4
+  },
+  {
+    "id": "211453887",
+    "title": "\u00dchiskonna\u00f5petus 9. klass",
+    "parentId": "211453886",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453890",
+    "title": "II kooliaste - \u00dchiskonna\u00f5petus",
+    "parentId": "211453884",
+    "childIds": ["211453891"],
+    "depth": 4
+  },
+  {
+    "id": "211453891",
+    "title": "\u00dchiskonna\u00f5petus 6. klass",
+    "parentId": "211453890",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211453892",
+    "title": "7. PK Ainevaldkond \"Tehnoloogia\"",
+    "parentId": "211453475",
+    "childIds": ["211453900", "211453929", "211453940"],
+    "depth": 2
+  },
+  {
+    "id": "211453900",
+    "title": "I kooliaste",
+    "parentId": "211453892",
+    "childIds": ["law-pk-tooopetus-i"],
+    "depth": 3
+  },
+  {
+    "id": "211453929",
+    "title": "II kooliaste",
+    "parentId": "211453892",
+    "childIds": ["211453930", "211453935", "211453939"],
+    "depth": 3
+  },
+  {
+    "id": "211453930",
+    "title": "II kooliaste. K\u00e4sit\u00f6\u00f6",
+    "parentId": "211453929",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453935",
+    "title": "II kooliaste Kodundus",
+    "parentId": "211453929",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453939",
+    "title": "II kooliaste. Tehnoloogia\u00f5petus",
+    "parentId": "211453929",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453940",
+    "title": "III kooliaste",
+    "parentId": "211453892",
+    "childIds": ["211453941", "211453946", "211453947"],
+    "depth": 3
+  },
+  {
+    "id": "211453941",
+    "title": "III kooliaste. K\u00e4sit\u00f6\u00f6",
+    "parentId": "211453940",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453946",
+    "title": "III kooliaste. Tehnoloogia\u00f5petus",
+    "parentId": "211453940",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453947",
+    "title": "III kooliaste. Kodundus",
+    "parentId": "211453940",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453952",
+    "title": "8. PK Ainevaldkond \"V\u00f5\u00f5rkeeled\"",
+    "parentId": "211453475",
+    "childIds": [
+      "211453958",
+      "211453959",
+      "211453960",
+      "211453961",
+      "211453962",
+      "211453963",
+      "211453964",
+      "211453965",
+      "211453966",
+      "211453967"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "211453958",
+    "title": "A-v\u00f5\u00f5rkeel: A1-keeleoskustase",
+    "parentId": "211453952",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453959",
+    "title": "A-v\u00f5\u00f5rkeel: A2-keeleoskustase",
+    "parentId": "211453952",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453960",
+    "title": "A-v\u00f5\u00f5rkeel: B1-keeleoskustase",
+    "parentId": "211453952",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453961",
+    "title": "B-v\u00f5\u00f5rkeel: A1-keeleoskustase",
+    "parentId": "211453952",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453962",
+    "title": "B-v\u00f5\u00f5rkeel: A2-keeleoskustase",
+    "parentId": "211453952",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453963",
+    "title": "\u00d5pitegevuste v\u00f5rdlus keeleoskustasemeti",
+    "parentId": "211453952",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453964",
+    "title": "Teemavaldkonnad ja keeleteadmised",
+    "parentId": "211453952",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453965",
+    "title": "Soovitusi kooli v\u00f5\u00f5rkeelte valdkonnakava koostamiseks",
+    "parentId": "211453952",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453966",
+    "title": "\u00d5ppe diferentseerimine",
+    "parentId": "211453952",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453967",
+    "title": "Viited \u00f5ppevarale",
+    "parentId": "211453952",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453968",
+    "title": "9. PK Valik\u00f5ppeained",
+    "parentId": "211453475",
+    "childIds": [
+      "216770454",
+      "227349807",
+      "211453969",
+      "235012389",
+      "211453970",
+      "law-pk-karjaariopetus",
+      "law-pk-draamaopetus",
+      "law-pk-tantsuopetus",
+      "law-pk-teadusliku-motlemise-alused"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "211453969",
+    "title": "Kaitse end ja aita teist valikaine p\u00f5hikoolile",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453970",
+    "title": "Usundi\u00f5petus",
+    "parentId": "211453968",
+    "childIds": ["211453971", "211453973", "211453974"],
+    "depth": 3
+  },
+  {
+    "id": "211453971",
+    "title": "I kooliaste - Usundi\u00f5petus",
+    "parentId": "211453970",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453973",
+    "title": "II kooliaste - Usundi\u00f5petus",
+    "parentId": "211453970",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453974",
+    "title": "III kooliaste - Usundi\u00f5petus",
+    "parentId": "211453970",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453977",
+    "title": "G\u00fcmnaasium",
+    "parentId": null,
+    "childIds": ["211453978"],
+    "depth": 0
+  },
+  {
+    "id": "211453978",
+    "title": "G\u00fcmnaasiumi riiklik \u00f5ppekava",
+    "parentId": "211453977",
+    "childIds": [
+      "211453979",
+      "211454001",
+      "211454013",
+      "211454039",
+      "211454133",
+      "211454788",
+      "211454800",
+      "211454813"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "211453979",
+    "title": "G Ainevaldkond \"Keel ja kirjandus\"",
+    "parentId": "211453978",
+    "childIds": ["211453980", "211453987", "211453993", "211453994"],
+    "depth": 2
+  },
+  {
+    "id": "211453980",
+    "title": "G Eesti keel",
+    "parentId": "211453979",
+    "childIds": [
+      "211453981",
+      "211453982",
+      "211453983",
+      "211453984",
+      "211453985",
+      "211453986"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "211453981",
+    "title": "Kursus \"Teksti keel ja stiil\"",
+    "parentId": "211453980",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453982",
+    "title": "Kursus \"Praktiline eesti keel I\"",
+    "parentId": "211453980",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453983",
+    "title": "Kursus \"Meedia ja m\u00f5jutamine\"",
+    "parentId": "211453980",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453984",
+    "title": "Kursus \"Praktiline eesti keel II\"",
+    "parentId": "211453980",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453985",
+    "title": "Kursus \"Keel ja \u00fchiskond\"",
+    "parentId": "211453980",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453986",
+    "title": "Kursus \"Praktiline eesti keel III\"",
+    "parentId": "211453980",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453987",
+    "title": "G Kirjandus",
+    "parentId": "211453979",
+    "childIds": ["211453988", "211453990", "211453991", "211453992"],
+    "depth": 3
+  },
+  {
+    "id": "211453988",
+    "title": "Kursus \u201eP\u00e4rimus ja kirjandus\u201c",
+    "parentId": "211453987",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453990",
+    "title": "Paariskursus \u201eAjastud, voolud ja \u017eanrid kirjanduses I-II\u201c",
+    "parentId": "211453987",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453991",
+    "title": "Kursus \u201eIdentiteet ja eesti kirjandus\u201c",
+    "parentId": "211453987",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453992",
+    "title": "Kursus \u201eKirjandus ja \u00fchiskond\u201c",
+    "parentId": "211453987",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453993",
+    "title": "G Eesti keel teise keelena",
+    "parentId": "211453979",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211453994",
+    "title": "G Vene keel",
+    "parentId": "211453979",
+    "childIds": [
+      "211453995",
+      "211453996",
+      "211453997",
+      "211453998",
+      "211453999",
+      "211454000"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "211453995",
+    "title": "Kursus \u201eKeel, \u00fchiskond ja kultuur\u201c",
+    "parentId": "211453994",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453996",
+    "title": "Kursus \u201eKirjalike tekstide vastuv\u00f5tt ja loomine\u201c",
+    "parentId": "211453994",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453997",
+    "title": "Kursus \u201eMeedia ja m\u00f5jutamine\u201c",
+    "parentId": "211453994",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453998",
+    "title": "Kursus \u201ePraktiline vene keel\u201c",
+    "parentId": "211453994",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211453999",
+    "title": "Kursus \u201eSuulise teksti vastuv\u00f5tt ja loomine\u201c",
+    "parentId": "211453994",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454000",
+    "title": "Kursus \u201eTekst ja stiil\u201c",
+    "parentId": "211453994",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454001",
+    "title": "G Ainevaldkond \"Kehaline kasvatus\"",
+    "parentId": "211453978",
+    "childIds": ["211454002"],
+    "depth": 2
+  },
+  {
+    "id": "211454002",
+    "title": "G\u00fcmnaasiumi kehaline kasvatus",
+    "parentId": "211454001",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454013",
+    "title": "G Ainevaldkond \"Kunstiained\"",
+    "parentId": "211453978",
+    "childIds": ["211454014", "211454015", "211454016", "211454034"],
+    "depth": 2
+  },
+  {
+    "id": "211454014",
+    "title": "P\u00e4devuste kujunemine \"Kunstiainete\" valdkonnas",
+    "parentId": "211454013",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454015",
+    "title": "G Valdkonnasisene- ja \u00fclene l\u00f5iming",
+    "parentId": "211454013",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454016",
+    "title": "G Kunst",
+    "parentId": "211454013",
+    "childIds": [
+      "211454017",
+      "211454020",
+      "211454027",
+      "211454028",
+      "211454031"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "211454017",
+    "title": "\u00dcldp\u00e4devuste kujundamine g\u00fcmnaasiumi kunsti\u00f5ppes",
+    "parentId": "211454016",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454020",
+    "title": "Metoodilised soovitused g\u00fcmnaasiumi kunsti\u00f5ppes",
+    "parentId": "211454016",
+    "childIds": ["211454021", "211454026"],
+    "depth": 4
+  },
+  {
+    "id": "211454021",
+    "title": "Diferentseerimise v\u00f5imalusi g\u00fcmnaasiumi kunsti\u00f5ppes",
+    "parentId": "211454020",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211454026",
+    "title": "Hindamise soovitusi g\u00fcmnaasiumi kunsti\u00f5ppes",
+    "parentId": "211454020",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "211454027",
+    "title": "Kunst - G\u00fcmnaasiumi astme \u00f5pitulemused ja \u00f5ppesisu",
+    "parentId": "211454016",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454028",
+    "title": "1. kursus \"Kunst ja kunstiajalugu\"",
+    "parentId": "211454016",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454031",
+    "title": "2. kursus \"Kunst ja visuaalkultuur 20. ja 21. sajandil\"",
+    "parentId": "211454016",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454034",
+    "title": "G Muusika",
+    "parentId": "211454013",
+    "childIds": ["211454035", "211454037", "211454038"],
+    "depth": 3
+  },
+  {
+    "id": "211454035",
+    "title": "1. kursus \u2013 \"Uusaegse helikeele kujunemine\"",
+    "parentId": "211454034",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454037",
+    "title": "2. kursus \u2013 \"Klassitsism ja romantism: rahvuslikkuse kujunemine muusikas\"",
+    "parentId": "211454034",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454038",
+    "title": "3. kursus \u2013 \"Eesti muusikalugu\"",
+    "parentId": "211454034",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454039",
+    "title": "G  Ainevaldkond \"Loodusained\"",
+    "parentId": "211453978",
+    "childIds": ["211454040", "211454065", "211454124", "211454129"],
+    "depth": 2
+  },
+  {
+    "id": "211454040",
+    "title": "G Bioloogia",
+    "parentId": "211454039",
+    "childIds": ["211454041", "211454048", "211454055", "211454060"],
+    "depth": 3
+  },
+  {
+    "id": "211454041",
+    "title": "I kursus Rakud ja organismid",
+    "parentId": "211454040",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454048",
+    "title": "II kursus Molekulaarsed protsessid",
+    "parentId": "211454040",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454055",
+    "title": "III kursus P\u00e4rilikkus ja evolutsioon",
+    "parentId": "211454040",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454060",
+    "title": "IV kursus Inimene ja keskkond",
+    "parentId": "211454040",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454065",
+    "title": "G F\u00fc\u00fcsika",
+    "parentId": "211454039",
+    "childIds": [
+      "211454066",
+      "211454078",
+      "211454089",
+      "211454104",
+      "211454119"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "211454066",
+    "title": "I kursus F\u00fc\u00fcsika meetod. Kinemaatika",
+    "parentId": "211454065",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454078",
+    "title": "II kursus D\u00fcnaamika",
+    "parentId": "211454065",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454089",
+    "title": "III kursus Elektromagnetism",
+    "parentId": "211454065",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454104",
+    "title": "IV kursus Energia",
+    "parentId": "211454065",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454119",
+    "title": "V kursus Mikro- ja megamaailma f\u00fc\u00fcsika",
+    "parentId": "211454065",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454124",
+    "title": "G Geograafia",
+    "parentId": "211454039",
+    "childIds": ["211454125", "211454127", "211454128"],
+    "depth": 3
+  },
+  {
+    "id": "211454125",
+    "title": "I kursus Rahvastik ja majandus",
+    "parentId": "211454124",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454127",
+    "title": "II kursus Maa kui s\u00fcsteem",
+    "parentId": "211454124",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454128",
+    "title": "III kursus Loodusvarade majandamine ja keskkonnaprobleemid",
+    "parentId": "211454124",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454129",
+    "title": "G Keemia",
+    "parentId": "211454039",
+    "childIds": ["211454130", "211454131", "211454132"],
+    "depth": 3
+  },
+  {
+    "id": "211454130",
+    "title": "I kursus \u201eKeemia alused\u201c",
+    "parentId": "211454129",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454131",
+    "title": "II kursus \u201eAnorgaanilised ained\u201c",
+    "parentId": "211454129",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454132",
+    "title": "III kursus \u201eOrgaanilised ained\u201c",
+    "parentId": "211454129",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454133",
+    "title": "G Ainevaldkond \"Matemaatika\"",
+    "parentId": "211453978",
+    "childIds": ["211454134", "211454371"],
+    "depth": 2
+  },
+  {
+    "id": "211454134",
+    "title": "Kitsas matemaatika",
+    "parentId": "211454133",
+    "childIds": [
+      "211454342",
+      "211454349",
+      "211454352",
+      "211454355",
+      "211454358",
+      "211454361",
+      "211454365",
+      "211454368",
+      "312182096"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "211454342",
+    "title": "I kursus kitsas",
+    "parentId": "211454134",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454349",
+    "title": "II kursus kitsas",
+    "parentId": "211454134",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454352",
+    "title": "III kursus kitsas",
+    "parentId": "211454134",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454355",
+    "title": "IV kursus kitsas",
+    "parentId": "211454134",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454358",
+    "title": "V kursus kitsas",
+    "parentId": "211454134",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454361",
+    "title": "VI kursus kitsas",
+    "parentId": "211454134",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454365",
+    "title": "VII kursus kitsas",
+    "parentId": "211454134",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454368",
+    "title": "VIII kursus kitsas",
+    "parentId": "211454134",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454371",
+    "title": "Lai matemaatika",
+    "parentId": "211454133",
+    "childIds": [
+      "211454732",
+      "211454736",
+      "211454740",
+      "211454744",
+      "211454748",
+      "211454752",
+      "211454755",
+      "211454759",
+      "211454763",
+      "211454768",
+      "211454772",
+      "211454776",
+      "211454780",
+      "211454784",
+      "312182103"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "211454732",
+    "title": "10. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454736",
+    "title": "11. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454740",
+    "title": "12. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454744",
+    "title": "13. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454748",
+    "title": "14. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454752",
+    "title": "1. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454755",
+    "title": "2. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454759",
+    "title": "3. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454763",
+    "title": "4. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454768",
+    "title": "5. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454772",
+    "title": "6. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454776",
+    "title": "7. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454780",
+    "title": "8. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454784",
+    "title": "9. kursus lai",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454788",
+    "title": "G Ainevaldkond \"Sotsiaalained\"",
+    "parentId": "211453978",
+    "childIds": ["211454789", "211454797", "211454798", "212845761"],
+    "depth": 2
+  },
+  {
+    "id": "211454789",
+    "title": "G Ajalugu",
+    "parentId": "211454788",
+    "childIds": [
+      "211454790",
+      "211454791",
+      "211454792",
+      "211454793",
+      "211454794",
+      "211454795",
+      "211454796"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "211454790",
+    "title": "Hindamine ajaloo\u00f5petuses",
+    "parentId": "211454789",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454791",
+    "title": "Kursus \u201eEesti ajalugu II (kuni 19. sajandi l\u00f5puni)\u201d",
+    "parentId": "211454789",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454792",
+    "title": "Kursus \u201eEesti ajalugu I (kuni 16. ja 17. sajandi vahetuseni)\u201d",
+    "parentId": "211454789",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454793",
+    "title": "Kursus \u201eL\u00e4hiajalugu I \u2013 Eesti ja maailm 20. sajandi esimesel poolel\u201d",
+    "parentId": "211454789",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454794",
+    "title": "Kursus \u201eL\u00e4hiajalugu II \u2013 Eesti ja maailm 20. sajandi teisel poolel\u201d",
+    "parentId": "211454789",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454795",
+    "title": "Kursus \u201eL\u00e4hiajalugu III \u2013 20. sajandi arengu p\u00f5hijooned: Eesti ja maailm\u201d",
+    "parentId": "211454789",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454796",
+    "title": "Kursus \"\u00dcldajalugu\"",
+    "parentId": "211454789",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454797",
+    "title": "G Inimese\u00f5petus",
+    "parentId": "211454788",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454798",
+    "title": "G \u00dchiskonna\u00f5petus",
+    "parentId": "211454788",
+    "childIds": ["211454799"],
+    "depth": 3
+  },
+  {
+    "id": "211454799",
+    "title": "G \u00dchiskonna\u00f5petus \u00f5ppesisu",
+    "parentId": "211454798",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454800",
+    "title": "G Ainevaldkond \"V\u00f5\u00f5rkeeled\"",
+    "parentId": "211453978",
+    "childIds": [
+      "211454804",
+      "211454806",
+      "211454807",
+      "211454808",
+      "211454809",
+      "211454810",
+      "211454811",
+      "211454812"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "211454804",
+    "title": "B1-keeleoskustasemega v\u00f5\u00f5rkeel",
+    "parentId": "211454800",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454806",
+    "title": "B2-keeleoskustasemega v\u00f5\u00f5rkeel",
+    "parentId": "211454800",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454807",
+    "title": "Lisa: C1-keeleoskustasemega v\u00f5\u00f5rkeel",
+    "parentId": "211454800",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454808",
+    "title": "G \u00d5pitegevuste v\u00f5rdlus keeleoskustasemeti",
+    "parentId": "211454800",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454809",
+    "title": "G Teemavaldkonnad ja keeleteadmised",
+    "parentId": "211454800",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454810",
+    "title": "G \u00d5ppe diferentseerimine",
+    "parentId": "211454800",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454811",
+    "title": "G Viited \u00f5ppevarale",
+    "parentId": "211454800",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454812",
+    "title": "G Soovitusi kooli v\u00f5\u00f5rkeelte valdkonnakava koostamiseks",
+    "parentId": "211454800",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454813",
+    "title": "G Valik\u00f5ppeained",
+    "parentId": "211453978",
+    "childIds": [
+      "216770542",
+      "232260126",
+      "211454814",
+      "227349894",
+      "211454817",
+      "369069069",
+      "211454820",
+      "211454824",
+      "369069064",
+      "law-gym-arhitektuur-kui-elukeskkond",
+      "law-gym-disain",
+      "law-gym-draamaopetus",
+      "law-gym-eakate-abistamine-koduses-keskkonnas",
+      "law-gym-inimene-nuudisaegses-teabekeskkonnas",
+      "law-gym-joonestamine",
+      "law-gym-kust-tuleb-ja-kuhu-kaob-raha",
+      "law-gym-lapsehoidja-too-alused",
+      "law-gym-loodusteadused-tehnoloogia-ja-uhiskond",
+      "law-gym-maalritoode-baasoskused",
+      "law-gym-mehhatroonika-ja-robootika",
+      "law-gym-nutikas-koristamine",
+      "law-gym-perearhiivi-korrastamine-ja-kirjeldamine",
+      "law-gym-perearhiivi-loomine",
+      "law-gym-plaatija-baasoskused",
+      "law-gym-rahvusvaheline-projektijuhtimine",
+      "law-gym-rakenduste-loomise-ja-programmeerimise-alused",
+      "law-gym-teenindusopetus",
+      "law-gym-keel-ja-kirjandus",
+      "law-gym-kehaline-kasvatus",
+      "law-gym-kunstiained",
+      "law-gym-loodusained",
+      "law-gym-matemaatika",
+      "law-gym-sotsiaalained",
+      "law-gym-karjaariopetus"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "211454814",
+    "title": "G Filosoofia",
+    "parentId": "211454813",
+    "childIds": ["211454815", "211454816"],
+    "depth": 3
+  },
+  {
+    "id": "211454815",
+    "title": "Valikkursus - \u201eSissejuhatus filosoofilisse m\u00f5tlemisse\u201c",
+    "parentId": "211454814",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454816",
+    "title": "Valikkursus - \u201eT\u00e4nap\u00e4eva filosoofilised k\u00fcsimused\u201c",
+    "parentId": "211454814",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454817",
+    "title": "G Riigikaitse\u00f5petus",
+    "parentId": "211454813",
+    "childIds": ["211454818", "211454819", "law-gym-riigikaitseopetus-lisa"],
+    "depth": 3
+  },
+  {
+    "id": "211454818",
+    "title": "Valikkursus \u201ePraktiline \u00f5pe v\u00e4lilaagris\u201c",
+    "parentId": "211454817",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454819",
+    "title": "Valikkursus \u201eRiigikaitse\u201c",
+    "parentId": "211454817",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454820",
+    "title": "G Usundi\u00f5petus",
+    "parentId": "211454813",
+    "childIds": ["211454821", "211454822"],
+    "depth": 3
+  },
+  {
+    "id": "211454821",
+    "title": "Valikkursus \u201eEesti usuline maastik\u201d",
+    "parentId": "211454820",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454822",
+    "title": "Valikkursus \u201eInimene ja religioon\u201d",
+    "parentId": "211454820",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454824",
+    "title": "G   Uurimist\u00f6\u00f6 alused",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "211454873",
+    "title": "3.1 Motoorsed oskused praktikas",
+    "parentId": "174367233",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454880",
+    "title": "3.2 Harjutused",
+    "parentId": "174367233",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454892",
+    "title": "2.2 K\u00f5ne-eelsete protsesside areng. Teoreetiline taust.",
+    "parentId": "174367231",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "211454904",
+    "title": "P\u00f5hikooli lihtsustatud riiklik \u00f5ppekava",
+    "parentId": null,
+    "childIds": ["212839958", "212839963", "212839965"],
+    "depth": 0
+  },
+  {
+    "id": "212839958",
+    "title": "Lihtsustatud \u00f5pe",
+    "parentId": "211454904",
+    "childIds": [
+      "172720654",
+      "169088737",
+      "169088701",
+      "187207802",
+      "169088731",
+      "169088739",
+      "172720671",
+      "169088735",
+      "222403230",
+      "169088741",
+      "169088743",
+      "law-lok-kehaline-kasvatus"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "212839963",
+    "title": "Toimetuleku\u00f5pe",
+    "parentId": "211454904",
+    "childIds": [
+      "179504585",
+      "169088748",
+      "174365655",
+      "174365659",
+      "174365868",
+      "174365879",
+      "174365891",
+      "174365884",
+      "174365875"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "212839965",
+    "title": "Hooldus\u00f5pe",
+    "parentId": "211454904",
+    "childIds": [
+      "174367142",
+      "174367183",
+      "221024990",
+      "law-hok-tegevusvaldkondade-opitulemused-eri-arengutaseme"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "212843031",
+    "title": "4.1 Sotsiaalsed oskused praktikas",
+    "parentId": "174367235",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "212845509",
+    "title": "\u00d5ppetegevust  aktiivistavad meetodid",
+    "parentId": "211453859",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "212845761",
+    "title": "\u00d5ppetegevust aktiveerivad meetodid",
+    "parentId": "211454788",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "216761328",
+    "title": "5.1 Igap\u00e4evaoskused praktikas",
+    "parentId": "174367239",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216762886",
+    "title": "M\u00f5isted ja terminoloogia_eesti keel",
+    "parentId": "169088701",
+    "childIds": [
+      "216762925",
+      "216762920",
+      "216762890",
+      "216762892",
+      "216762894"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "216762890",
+    "title": "S\u00fcntaksi- ja morfoloogiak\u00fcsimus",
+    "parentId": "216762886",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216762892",
+    "title": "Teksti m\u00f5istmise strateegiad",
+    "parentId": "216762886",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216762894",
+    "title": "Terminoloogia",
+    "parentId": "216762886",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216762920",
+    "title": "K\u00f5nesegmendid",
+    "parentId": "216762886",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216762925",
+    "title": "Keele\u00fcksused",
+    "parentId": "216762886",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216765899",
+    "title": "\u00d5ppijale sobiv \u00f5ppimise tasand ehk l\u00e4hima arengu tsoon",
+    "parentId": "179504673",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216765903",
+    "title": "\u00d5pitoimingu keerukus",
+    "parentId": "179504673",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216765905",
+    "title": "\u00d5petaja k\u00f5ne",
+    "parentId": "179504673",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216765908",
+    "title": "\u00d5petaja osalemine lapse \u00f5pitegevuses",
+    "parentId": "179504673",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216765912",
+    "title": "\u00d5pilaste enesejuhtimisoskuste kujundamine",
+    "parentId": "179504673",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216765914",
+    "title": "T\u00f6\u00f6juhised \u00f5pilastele",
+    "parentId": "179504673",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216765916",
+    "title": "\u00d5ppematerjali keerukus",
+    "parentId": "179504673",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216767635",
+    "title": "4.2 Raskesti m\u00f5istetav k\u00e4itumine",
+    "parentId": "174367235",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "216770020",
+    "title": "12. Kirjandus",
+    "parentId": "179504585",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "216770454",
+    "title": "Ettev\u00f5tlus\u00f5petus",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "216770542",
+    "title": "G Ettev\u00f5tlus\u00f5petus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "221020426",
+    "title": "9.1 Arvueelne periood",
+    "parentId": "182780028",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "221020432",
+    "title": "9.2 Arvum\u00f5iste kujundamine",
+    "parentId": "182780028",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "221020435",
+    "title": "9.3 Praktiline matemaatika",
+    "parentId": "182780028",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "221024990",
+    "title": "Kirjandus",
+    "parentId": "212839965",
+    "childIds": [],
+    "depth": 2
+  },
+  {
+    "id": "221025018",
+    "title": "2.1.1. Alternatiivkommunikatsioon e AAC",
+    "parentId": "209584417",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "222403230",
+    "title": "L\u00d5K - Matemaatika",
+    "parentId": "212839958",
+    "childIds": [
+      "222403231",
+      "222403232",
+      "222403233",
+      "222403234",
+      "222403235",
+      "222403236",
+      "222403238",
+      "222403275",
+      "222403329"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "222403231",
+    "title": "\u00d5ppetegevuse kirjeldus arenguperioodide kaupa_matemaatika",
+    "parentId": "222403230",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "222403232",
+    "title": "Matemaatika valdkonnad",
+    "parentId": "222403230",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "222403233",
+    "title": "\u00dcldp\u00e4devuste kujundamine matemaatika \u00f5ppes",
+    "parentId": "222403230",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "222403234",
+    "title": "Matemaatika l\u00f5iming \u00f5ppekava l\u00e4bivate teemadega",
+    "parentId": "222403230",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "222403235",
+    "title": "Matemaatika l\u00f5iming teiste \u00f5ppeainetega",
+    "parentId": "222403230",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "222403236",
+    "title": "Kasutatud materjalid_matemaatika",
+    "parentId": "222403230",
+    "childIds": ["222403237"],
+    "depth": 3
+  },
+  {
+    "id": "222403237",
+    "title": "Soovituslik lugemine \u00f5petajale",
+    "parentId": "222403236",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "222403238",
+    "title": "I kooliaste_matemaatika_L\u00d5K",
+    "parentId": "222403230",
+    "childIds": ["222403239", "222403246", "222403254"],
+    "depth": 3
+  },
+  {
+    "id": "222403239",
+    "title": "1. klass - L\u00d5K matemaatika",
+    "parentId": "222403238",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "222403246",
+    "title": "2. klass - L\u00d5K matemaatika",
+    "parentId": "222403238",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "222403254",
+    "title": "3. klass - L\u00d5K matemaatika",
+    "parentId": "222403238",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "222403275",
+    "title": "II kooliaste_matemaatika_L\u00d5K",
+    "parentId": "222403230",
+    "childIds": ["222403276", "222403286", "222403316"],
+    "depth": 3
+  },
+  {
+    "id": "222403276",
+    "title": "4. klass - L\u00d5K matemaatika",
+    "parentId": "222403275",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "222403286",
+    "title": "5. klass - L\u00d5K matemaatika",
+    "parentId": "222403275",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "222403316",
+    "title": "6. klass - L\u00d5K matemaatika",
+    "parentId": "222403275",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "222403329",
+    "title": "III kooliaste_matemaatika_L\u00d5K",
+    "parentId": "222403230",
+    "childIds": ["222403330", "222403331", "222403343"],
+    "depth": 3
+  },
+  {
+    "id": "222403330",
+    "title": "7. klass - L\u00d5K matemaatika",
+    "parentId": "222403329",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "222403331",
+    "title": "8. klass - L\u00d5K matemaatika",
+    "parentId": "222403329",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "222403343",
+    "title": "9. klass - L\u00d5K matemaatika",
+    "parentId": "222403329",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349807",
+    "title": "Informaatika",
+    "parentId": "211453968",
+    "childIds": ["227349808", "227349809", "227349810"],
+    "depth": 3
+  },
+  {
+    "id": "227349808",
+    "title": "I kooliaste - Informaatika",
+    "parentId": "227349807",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349809",
+    "title": "II kooliaste - Informaatika",
+    "parentId": "227349807",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349810",
+    "title": "III kooliaste - Informaatika",
+    "parentId": "227349807",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349894",
+    "title": "G Informaatika",
+    "parentId": "211454813",
+    "childIds": [
+      "227349895",
+      "227349896",
+      "227349897",
+      "227349898",
+      "227349899",
+      "227349900",
+      "227349901",
+      "227349902",
+      "227349903",
+      "227349904",
+      "227349905"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "227349895",
+    "title": "Valikkursus \"Programmeerimine\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349896",
+    "title": "Valikkursus \"Tarkvaraarendus\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349897",
+    "title": "Valikkursus \"Tarkvara anal\u00fc\u00fcs ja testimine\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349898",
+    "title": "Valikkursus \"Kasutajakeskne disain ja protot\u00fc\u00fcpimine\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349899",
+    "title": "Valikkursus \"Digiteenused\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349900",
+    "title": "Valikkursus \"3D-modelleerimine\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349901",
+    "title": "Valikkursus \"Arvuti kasutamine uurimist\u00f6\u00f6s\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349902",
+    "title": "Valikkursus \"K\u00fcberkaitse\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349903",
+    "title": "Valikkursus \"Sissejuhatus asjade internetti\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349904",
+    "title": "Valikkursus \"Digitaalne jalaj\u00e4lg\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "227349905",
+    "title": "Valikkursus \"Digilahenduse arendusprojekt \"Digitaru\"",
+    "parentId": "227349894",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "232260126",
+    "title": "G Majandus\u00f5petus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "232266984",
+    "title": "Eestikeelsele \u00f5ppele \u00fcleminek, soovitused eesti keel teise keelena \u00f5ppeks",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "235012389",
+    "title": "Oma emakeel ja kultuur",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "235015436",
+    "title": "1. klass  matemaatika",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "246285757",
+    "title": "4. klass matemaatika",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "246285775",
+    "title": "5. klass matemaatika",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "248889149",
+    "title": "3.klass matemaatika",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "248889189",
+    "title": "2.klass matemaatika",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "267884079",
+    "title": "9. klass matemaatika",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "312182096",
+    "title": "Kitsa matemaatika valemileht",
+    "parentId": "211454134",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "312182103",
+    "title": "Laia matemaatika valemileht",
+    "parentId": "211454371",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "369069064",
+    "title": "G Spordi valikmoodulid",
+    "parentId": "211454813",
+    "childIds": ["369069118", "369069120", "369069122"],
+    "depth": 3
+  },
+  {
+    "id": "369069069",
+    "title": "G Riigikaitse valikmoodulid",
+    "parentId": "211454813",
+    "childIds": ["369069078", "369069083", "369069085"],
+    "depth": 3
+  },
+  {
+    "id": "369069078",
+    "title": "I moodul: Elanikkonnakaitse baasmoodul",
+    "parentId": "369069069",
+    "childIds": ["369069091", "369069094", "369069097"],
+    "depth": 4
+  },
+  {
+    "id": "369069083",
+    "title": "II moodul: Praktiline ettevalmistus riigikaitseks",
+    "parentId": "369069069",
+    "childIds": ["369069099", "369069103", "369069105"],
+    "depth": 4
+  },
+  {
+    "id": "369069085",
+    "title": "III moodul: Valmisolek riigi- ja elanikkonnakaitseks",
+    "parentId": "369069069",
+    "childIds": ["369069107", "369069110", "369069112"],
+    "depth": 4
+  },
+  {
+    "id": "369069091",
+    "title": "1. kursus: Elanikkonnakaitse",
+    "parentId": "369069078",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069094",
+    "title": "2. kursus: K\u00e4itumine, eetika ja vastutus pingesituatsioonides",
+    "parentId": "369069078",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069097",
+    "title": "3. kursus: Toimetulek v\u00e4litingimustes",
+    "parentId": "369069078",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069099",
+    "title": "4. kursus: Mehitamata \u00f5hus\u00f5iduki k\u00e4itamine",
+    "parentId": "369069083",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069103",
+    "title": "5. kursus: Esmaabi lahingkannatanule",
+    "parentId": "369069083",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069105",
+    "title": "6. kursus: Riigikaitse laager",
+    "parentId": "369069083",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069107",
+    "title": "7. kursus: F\u00fc\u00fcsiline ettevalmistus riigikaitseks\u00a0",
+    "parentId": "369069085",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069110",
+    "title": "8. kursus: Vabatahtliku p\u00e4\u00e4stja I astme koolitus",
+    "parentId": "369069085",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069112",
+    "title": "9. kursus: Kooli kriisiplaani laua\u00f5ppus",
+    "parentId": "369069085",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069118",
+    "title": "I moodul: Teadlik ja vastutustundlik noorsportlane",
+    "parentId": "369069064",
+    "childIds": ["369069126", "369069132", "369069135"],
+    "depth": 4
+  },
+  {
+    "id": "369069120",
+    "title": "II moodul: Treening kui teadlik \u00f5ppimisprotsess",
+    "parentId": "369069064",
+    "childIds": ["369069138", "369069140", "369069143"],
+    "depth": 4
+  },
+  {
+    "id": "369069122",
+    "title": "III moodul: Noor tippsportlane g\u00fcmnaasiumis",
+    "parentId": "369069064",
+    "childIds": ["369069145", "369069147", "369069149"],
+    "depth": 4
+  },
+  {
+    "id": "369069126",
+    "title": "1. kursus: Teadliku noorsportlase ABC",
+    "parentId": "369069118",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069132",
+    "title": "2. kursus: Ps\u00fchholoogilised oskused spordis",
+    "parentId": "369069118",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069135",
+    "title": "3. kursus: Spordivigastused",
+    "parentId": "369069118",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069138",
+    "title": "4. kursus: Treeningprotsess \u00f5ppimise ja enesearengu keskkonnana",
+    "parentId": "369069120",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069140",
+    "title": "5. kursus: Treeneri roll treeningul",
+    "parentId": "369069120",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069143",
+    "title": "6. kursus: Tiimit\u00f6\u00f6 treening- ja v\u00f5istluskeskkonnas",
+    "parentId": "369069120",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069145",
+    "title": "7. kursus: Noor tippsportlane treeningul",
+    "parentId": "369069122",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069147",
+    "title": "8. kursus: Noor tippsportlane treeninglaagris",
+    "parentId": "369069122",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "369069149",
+    "title": "9. kursus. Noor tippsportlane tiitliv\u00f5istlustel",
+    "parentId": "369069122",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "law-gym-arhitektuur-kui-elukeskkond",
+    "title": "G Arhitektuur kui elukeskkond",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-disain",
+    "title": "G Disain",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-draamaopetus",
+    "title": "G Draama\u00f5petus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-eakate-abistamine-koduses-keskkonnas",
+    "title": "G Eakate abistamine koduses keskkonnas",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-inimene-nuudisaegses-teabekeskkonnas",
+    "title": "G Inimene n\u00fc\u00fcdisaegses teabekeskkonnas",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-joonestamine",
+    "title": "G Joonestamine",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-karjaariopetus",
+    "title": "G Karj\u00e4\u00e4ri\u00f5petus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-keel-ja-kirjandus",
+    "title": "G Keel ja kirjandus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-kehaline-kasvatus",
+    "title": "G Kehaline kasvatus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-kunstiained",
+    "title": "G Kunstiained",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-kust-tuleb-ja-kuhu-kaob-raha",
+    "title": "G Kust tuleb ja kuhu kaob raha?",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-lapsehoidja-too-alused",
+    "title": "G Lapsehoidja t\u00f6\u00f6 alused",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-loodusained",
+    "title": "G Loodusained",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-loodusteadused-tehnoloogia-ja-uhiskond",
+    "title": "G Loodusteadused, tehnoloogia ja \u00fchiskond",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-maalritoode-baasoskused",
+    "title": "G Maalrit\u00f6\u00f6de baasoskused",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-matemaatika",
+    "title": "G Matemaatika",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-mehhatroonika-ja-robootika",
+    "title": "G Mehhatroonika ja robootika",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-nutikas-koristamine",
+    "title": "G Nutikas koristamine",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-perearhiivi-korrastamine-ja-kirjeldamine",
+    "title": "G Perearhiivi korrastamine ja kirjeldamine",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-perearhiivi-loomine",
+    "title": "G Perearhiivi loomine",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-plaatija-baasoskused",
+    "title": "G Plaatija baasoskused",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-rahvusvaheline-projektijuhtimine",
+    "title": "G Rahvusvaheline projektijuhtimine",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-rakenduste-loomise-ja-programmeerimise-alused",
+    "title": "G Rakenduste loomise ja programmeerimise alused",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-riigikaitseopetus-lisa",
+    "title": "Riikliku \u00f5ppekava t\u00e4iendavad \u00f5pitulemused",
+    "parentId": "211454817",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "law-gym-sotsiaalained",
+    "title": "G Sotsiaalained",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-teenindusopetus",
+    "title": "G Teenindus\u00f5petus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-hok-tegevusvaldkondade-opitulemused-eri-arengutaseme",
+    "title": "H\u00d5K - Tegevusvaldkondade \u00f5pitulemused eri arengutasemetel",
+    "parentId": "212839965",
+    "childIds": [],
+    "depth": 1
+  },
+  {
+    "id": "law-lok-eesti-keel-teise-keelena-lisa",
+    "title": "Riikliku \u00f5ppekava t\u00e4iendavad \u00f5pitulemused",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-lok-kehaline-kasvatus",
+    "title": "L\u00d5K - Kehaline kasvatus",
+    "parentId": "212839958",
+    "childIds": [],
+    "depth": 1
+  },
+  {
+    "id": "law-lok-tehnoloogiaopetus-lisa",
+    "title": "Riikliku \u00f5ppekava t\u00e4iendavad \u00f5pitulemused",
+    "parentId": "169088743",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-lok-vene-keel-muu-keel-lisa",
+    "title": "Riikliku \u00f5ppekava t\u00e4iendavad \u00f5pitulemused",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-draamaopetus",
+    "title": "Draama\u00f5petus",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-karjaariopetus",
+    "title": "Karj\u00e4\u00e4ri\u00f5petus",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-matemaatika-i",
+    "title": "I kooliaste",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-matemaatika-ii",
+    "title": "II kooliaste",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-matemaatika-iii",
+    "title": "III kooliaste",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-tantsuopetus",
+    "title": "Tantsu\u00f5petus",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-teadusliku-motlemise-alused",
+    "title": "Teadusliku m\u00f5tlemise alused",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-tooopetus-i",
+    "title": "Riikliku \u00f5ppekava t\u00e4iendavad \u00f5pitulemused",
+    "parentId": "211453900",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "law-pk-vene-keel-i",
+    "title": "Riikliku \u00f5ppekava t\u00e4iendavad \u00f5pitulemused",
+    "parentId": "211453514",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "law-tok-eesti-keel-vene-keel-kooli-oppekeel-lisa",
+    "title": "Riikliku \u00f5ppekava t\u00e4iendavad \u00f5pitulemused",
+    "parentId": "174365655",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-tok-kunst-ja-kaeline-tegevus-lisa",
+    "title": "Riikliku \u00f5ppekava t\u00e4iendavad \u00f5pitulemused",
+    "parentId": "174365891",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-tok-tooope-lisa",
+    "title": "Riikliku \u00f5ppekava t\u00e4iendavad \u00f5pitulemused",
+    "parentId": "174365868",
+    "childIds": [],
+    "depth": 3
+  }
+]

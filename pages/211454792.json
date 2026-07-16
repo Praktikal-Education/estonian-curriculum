@@ -1,0 +1,871 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>\"Eesti ajalugu I\" kursus annab ülevaate Eesti ajaloost mandrijää taandumisest kuni 16. ja 17. sajandi vahetuseni. Tegemist on Eesti esi-, kesk- ja varauusaja kursusega, kus pööratakse tähelepanu Eesti alade asutamisest kuni reformatsioonini. Kõnealusel perioodil toimuvad Eesti aladel olulised muutused, mis on mõjutanud tugevalt tänast päeva.</p><p>Seoste loomisel eri ajaperioodide vahel on võimalik õpilasel mõista Eesti ja Euroopa ajaloo sündmuste omavahelisi seoseid. Analüüsitakse muinaskultuuri kujunemist ning selle muutumist läbi aja, erinevate kultuurikontaktide vahendusel. Läbi ajaloo kursuse analüüsib õpilane Eesti ajalugu Euroopa ja maailma ajaloo kontekstis ning mõistab nende vastastikuseid seoseid.</p><p>Ajalootundides rekonstrueeritakse läbi empaatiaülesannete minevikus elanud inimese elu, võttes arvesse ajastu eripära. Näidete järgi õpitakse tundma, kuidas Euroopa ja maailma kultuuri, majanduse ja poliitika areng on mõjutanud Eesti ühiskonda erinevatel ajalooperioodidel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "ESIAEG",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Jääaeg ja selle taandumine. Inimasustuse algus Euraasia põhjaosas.</li><li>Muinasaja allikad ja nende uurimine.</li><li>Kiviaja arheoloogilised kultuurid Eestis: Kunda kultuur, kammkeraamika kultuur, nöörkeraamika ehk venekirveste kultuur – elanike peamised tegevusalad ning kultuuri iseloomustavad muistised.</li><li>Pronksiaeg. Asva kultuur. Rauaaeg. Põlispõllundus, kalmed, linnused.</li><li>Eesti esiaja lõpul. Suhted naabritega: idaslaavlased, balti hõimud, viikingid. Rahvusvaheliste kaubateede kujunemine ja Eesti.</li><li>Eesti ühiskond esiaja lõpul: sotsiaalne kihistumine. Maakonnad ja kihelkonnad. Linnused. Külad ja elamud.</li><li>Muinasusund ning ristiusu levik Eestis. Muinasusundi seos loodusega. Vanimad teated ristiusu levikust Eestis.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KESKAEG",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Muistne vabadusvõitlus: Balti ristisõdade põhjused. Muistse vabadusvõitluse kulg. Eestlaste lüüasaamise põhjused ja tagajärjed. Henriku Liivimaa kroonika ajalooallikana.</li><li>Vana-Liivimaa riigid: riiklik korraldus ja poliitiline kaart. Seisused. Maapäev. Vana-Liivimaa riikide omavahelised suhted ja suhted naabritega. Jüriöö ülestõus, selle põhjused ja tagajärjed.</li><li>Keskaja ühiskond Eestis: läänikorraldus. Mõisate rajamine. Sunnismaisuse ja teoorjuse kujunemine. Keskaegsed linnad Eestis: linnade valitsemine. Käsitöö, kaubandus, Hansa Liit. Gildid ja tsunftid. Eluolu linnas.</li><li>Kirik ja kultuur: vaimulikud ordud ja kloostrid.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÜLEMINEK KESKAJAST UUSAEGA",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tugeva keskvõimuga riikide kujunemine Läänemere regioonis.</li><li>Reformatsioon Eestis: haridusolud. Eestikeelse trükisõna algus.</li><li>Liivi sõda: Vana-Liivimaa asend Läänemere regioonis. Liivi sõja eellugu, kulg ja tulemused.</li><li>Eesti kolme kuningriigi valduses: riiklik korraldus ja poliitiline kaart. Vastureformatsioon.</li><li>Kultuuri areng: Balthasar Russowi kroonika ajalooallikana. Reformatsiooni ja vastureformatsiooni mõju vaimuelule.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ESIAEG: ajaloo perioodid ja inimasustus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab ajaloo perioode, neile iseloomulikke tunnuseid ja vaimulaadi ajaloolises arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab tähtsamaid Eesti esiaja perioode",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab muististe kui ajalooallikate eripära",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> arheoloogiline kultuur, muistis</p><p><strong>Teemad:</strong> Antropogeneesi põhijärgud. Inimasustuse levik maailmas. Jääaeg ja selle taandumine. Inimasutuse algus Euraasia põhjaosas. Tähtsamad arheoloogilised kultuurid. Muinasaja allikad ja nende uurimine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kronoloogiline ülevaade esiaja perioodidest Eesti aladel koos perioodi kirjeldusega. Ajajoone koostamiseks saab kasutada järgmiseid programme. Ajanoonele kantakse kõik esiaja perioodid kirjelduse ja näidetega. Töö tegemise aeg õpetaja juhendamisel 2x75 minutit või 3x45 minutit ainetunnis.</p>"
+            },
+            { "kind": "link", "href": "http://www.miro.com", "title": "Miro" },
+            {
+              "kind": "link",
+              "href": "http://www.canva.com",
+              "title": "Canva"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/16059-Kiviaja-arheoloogilised-kultuurid-Eestis",
+              "title": "Kiviaja arheoloogilised kultuurid Eestis"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevused ja lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>ÜLDPÄDEVUSED:</strong></p><ul><li>kultuuri- ja väärtuspädevus</li><li>õpipädevus</li><li>digipädevus</li></ul><p><strong>LÄBIVAD TEEMAD:</strong></p><ul><li>kultuuriline identiteet</li><li>tehnoloogia ja innovatsioon</li></ul><p><strong>AINEALANE LÕIMING:</strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ehV-MmuvVMU"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=SGxDv7XybSo&list=RDLVehV-MmuvVMU&index=2"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=FMc81qpCQ3g"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajajoone esitlemine perioodide, tegevusalade ja eluolu muutuste kaudu.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ESIAEG: kiviaja kultuurid Eestis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane mõistab inimese, ühiskonna ja kultuuri olemuslikke seoseid erinevatel ajalooperioodidel, analüüsib väärtushinnangute ja väärtusruumi muutumist ajas",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab inimeste eluolu ja toob näiteid inimeste tegevusaladest ja nende muutustest esiajal",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> arheoloogiline kultuur, muistis, muinaslinnus, kalme</p><p><strong>Teemad:</strong> Kiviaja kultuurid Eestis: Kunda kultuur, kammkeraamika kultuur, nöörkeraamika ehk venekirveste kultuur – elanike peamised tegevusalad ning kultuuri iseloomustavad muistised. Metalliaeg. Pronksiaeg. Asva kultuur. Rauaaeg. Põlispõllundus, kalmed, linnused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Filmi kestus 52:14 minutit. Küsimustele vastamine filmi vaatamise käigus.</p><p><strong>ÜLDPÄDEVUSED:</strong> kultuuri- ja väärtuspädevus, õpipädevus. <strong>LÄBIVAD TEEMAD:</strong> kultuuriline identiteet, teabekeskkond.</p><p><strong>AINEALANE LÕIMING:</strong> Lisalugemisena kasutatud: „Eesti ajalugu“. Lõiming kirjandusega ühise töö näol.</p><p>Õigekeelsuse hindamine harjutustes 1–10, kokku on võimalik saada 2 p: 1–2 viga 2 p, 3–5 viga 1 punkt, rohkem kui 5 viga 0 p.</p><ol><li>Millisel perioodil võis Kaalis asuda asula? (1 p)</li><li>Kuidas erineb õpiku ja filmi seisukoht asulast Kaalis? (2 p)</li><li>Millised leiud viitavad, et asulas võidi elada igapäevaselt? (2 p)</li><li>Miks ümbritses järve kivimüür? (1 p)</li><li>Keda või mida järve ohverdati? (1 p)</li><li>Nimeta Kreeka rännumees, kes külastas salapärast Ultima Thulet. Kirjelda seda saart, kuhu ta jõudis filmist ja allikast saadud teadmistega. (3 p)</li><li>Kuidas on Lennart Meri Kaali meteoriidikraatriga seotud? (2 p)</li><li>Kuidas kajastub Kaali katastroof kollektiivses mälus? (1 p)</li><li>Too välja meteoriidikraatrite erinevad dateeringud ning nimeta, milliste meetoditega on need saadud? (3 p)</li><li>Millisel ajaloo perioodil Kaali katastroof kõige tõenäolisemalt toimus? (1 p)</li><li>Kirjuta 50-sõnaline kirjandi lõik, mille pealkiri on „Regilaulud kollektiivse mälu kujundajana“ või „Teaduse areng avab ja selgitab salapäraseid lugusid“. Ilmesta lõiku näitega. Näite võid tuua nii Urmas E. Liivi filmist „Kaali saladus“ kui ka loetud tekstist. Mustand kirjuta vihikusse. (max 12 p: sisu, 4 keel, sõnavara ja stiil 2 p, vorm 1 p)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.efis.ee/et/filmiliigid/film/id/768",
+              "title": "Film „Kaali saladus“"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.avita.ee/28190",
+              "title": "Eesti ajalugu"
+            },
+            {
+              "kind": "link",
+              "href": "http://loodusesober.horisont.ee/artikkel285_254.html",
+              "title": "Film „Kaali saladus“ iseloomustus"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Filmi analüüs ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Film „Kaali saladus“ analüüsi küsimused:</p><ol><li>Nimeta Eesti teadlasi, kes on Kaali kraatri tekkimist uurinud.</li><li>Too välja kõik filmis antud daatumid Kaali järve võimaliku tekke aja kohta. Lisa iga daatumi juurde meetod, kuidas tulemus saavutati.</li><li>Mida sümboliseerib Kaali järve ümber ehitatud kivimüür?</li><li>Kuidas kajastub meteoriidi langemine kollektiivses mälus?</li><li>Nimeta saarlaste muistne jumal.</li><li>Mida sümboliseerib Karja kiriku kolmjalg ning kuidas on see seotud Kaali järvega?</li><li>Mida tähendab Ultima Thule ning milline antiikaja isik on sellega seotud?</li><li>Mida nimetas Lennart Meri hõbevalgeks?</li><li>Mida/keda arvatavasti järve ohverdati?</li><li>Miks on Kaali järve ümber kultuurkiht õhuke?</li></ol><p>Kirjanduse ja ajaloo ühistöö hindamise punktid: hinne „5“ on 28 kuni 31 punkti; hinne „4“ on 23 kuni 27 punkti; hinne „3“ on 16 kuni 22 punkti; hinne „2“ on 6 kuni 15 punkti; hinne „1“ on 0 kuni 5 punkti.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ESIAEG: Eesti esiaja lõpul",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane rekonstrueerib minevikus elanud inimese elu, arvestades ajastu eripära ning inimese sotsiaalset ja kultuuritausta, rakendades empaatiat",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab esiaja eestlaste suhteid naaberrahvastega ning vastastikuseid mõjutusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab Eesti halduskorraldust ja majanduse arengut esiaja lõpul",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seletab ja kasutab kontekstis mõisted arheoloogiline kultuur, muistis, muinaslinnus, kalme, maakond, kihelkond, malev, animism",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> muinaslinnus, kalme, malev, animism, kihelkond</p><p><strong>Teemad:</strong> Eesti esiaja lõpul. Suhted naabritega: idaslaavlased, balti hõimud, viikingid. Rahvusvaheliste kaubateede kujunemine ja Eesti. Eesti ühiskond esiaja lõpul: sotsiaalne kihistumine. Maakonnad ja kihelkonnad. Linnused. Külad ja elamud. Muinasusund ja ristiusu levik Eestis. Muinasusundi seos loodusega. Vanimad teated ristiusu levikust Eestis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Muinasaja asula rekonstruktsioon rühmatööna.</p><p>Ülesanne: Joonista plakatile (A1) muinasaegne küla koos hoonestusega ning küla juures asuva linnusega. Näita nooltega erinevad muinasasula osised ja kirjelda järgmiseid punkte:</p><ul><li>asustus</li><li>põllumajandus</li><li>käsitöö</li><li>kaubandus</li><li>ühiskond</li><li>perekond</li><li>muinasusund, matmiskombestik</li></ul><p>Töö kestuseks 2x75 minutit või 3x45 minutit ainetund.</p><p><strong>ÜLDPÄDEVUSED:</strong> kultuuri- ja väärtuspädevus, sotsiaalne ja kodanikupädevus, enesemääratluspädevus, õpipädevus, suhtluspädevus.</p><p><strong>LÄBIVAD TEEMAD:</strong> kultuuriline identiteet, teabekeskkond, väärtused ja kõlblus.</p><p><strong>AINEALANE LÕIMING:</strong> ühiskonnaõpetus – ajalooliste ühiskondade toimimine; geograafia – asustuse geograafiline paiknemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ggwZuRo4QWQ"
+            },
+            {
+              "kind": "link",
+              "href": "https://rouge.kovtp.ee/vaatamisvaarsused/-/asset_publisher/zULryZmRGe3Z/content/rouge-muinasasula-ja-linnamagi",
+              "title": "Rõuge muinasasula"
+            },
+            {
+              "kind": "link",
+              "href": "https://muinastalu.ee/talu",
+              "title": "Rõuge muinastalu"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Iga grupp (4–6 liiget) tutvustab oma asulat suuliselt klassile.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KESKAEG: muistne vabadusvõitlus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane seostab Eesti ajalugu Euroopa ja maailma ajalooga, tuues esile erinevate ajalooperioodide eripära",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib Balti ristisõja põhjusi, kulgu ja tulemusi erinevate osaliste vaatenurgast",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab religioonide ja ideoloogiliste õpetuste tekkelugu, leviku põhjusi ning mõju ühiskonna arengule",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Lembitu, Kaupo, piiskop Albert ja kroonik Henrik</p><p><strong>Teemad:</strong> Paavsti võim ja hegemonistlikud taotlused: ristisõdade põhjused ja peasuunad. Läänemere maade ristiusustamine. Keskaegne kolonisatsioon. Lääne-Euroopa ühiskonna eeskuju Eesti keskaja ühiskonna kujunemisel. Muistne vabadusvõitlus: Balti ristisõdade põhjused. Muistse vabadusvõitluse käik. Eestlaste lüüasaamise põhjused ja tagajärjed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Allikaanalüüs muistsest vabadusvõitlusest. Ülesandena Tiina Laanes MA töö ülesanne „Henriku kroonika eestlaste muistsest vabadusvõitlusest“ lk 59.</p><p><strong>ÜLDPÄDEVUSED:</strong> kultuuri- ja väärtuspädevus, õpipädevus. <strong>LÄBIVAD TEEMAD:</strong> kultuuriline identiteet, teabekeskkond, väärtused ja kõlblus.</p><p><strong>AINEALANE LÕIMING:</strong> Ajalugu, kirjandus ja kunstiajalugu.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/192IRGOMXjR0gg8dpOxfbzIbpRcsqgOQk/view",
+              "title": "Allikaanalüüs muistsest vabadusvõitlusest"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.etera.ee/zoom/41445/view?page=59&p=separate&search=tiina%20laanes&tool=search&view=0,0,2481,3508",
+              "title": "Henriku kroonika eestlaste muistsest vabadusvõitlusest"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=TTQqTNQ3LLA"
+            },
+            { "kind": "video", "src": "https://youtu.be/revbFZVUHJg" },
+            { "kind": "video", "src": "https://youtu.be/IzppIYVi3dA" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=DXT86Ok-AEE"
+            },
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/video/vaata/vanad-ajad-terra-mariana",
+              "title": "Vanad ajad „Terra Mariana“"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            { "kind": "text", "html": "<p>Allikaanalüüsi tagasiside.</p>" }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KESKAEG: Henriku Liivimaa kroonika",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane analüüsib näidete kaudu, kuidas Euroopa ja maailma kultuuri, majanduse ja poliitika areng on mõjutanud Eesti ühiskonda erinevatel ajalooperioodidel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane mõistab, et nii ajalooallikas kui ka ajaloonarratiiv on mõjutatud selle autorist, loomise asjaoludest, ajastust ning tõlgendajast",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane selgitab näidete varal sündmuste või protsesside erineva tõlgendamise põhjusi ning ühekülgse ajalookäsitluse tagajärgi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Henriku Liivimaa kroonika ajalooallikana. Vana-Liivimaa</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ülesandena allikateksti analüüs Tiina Laanes MA töö põhjal „Läti Henrik ja tema kroonika“ lk 51.</p><p><strong>ÜLDPÄDEVUSED:</strong> kultuuri- ja väärtuspädevus, õpipädevus. <strong>LÄBIVAD TEEMAD:</strong> kultuuriline identiteet, teabekeskkond, väärtused ja kõlblus.</p><p><strong>AINEALANE LÕIMING:</strong> Lõimitud ülesanded; kirjandus, ühiskonnaõpetus, kunst.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.etera.ee/zoom/41445/view?page=51&p=separate&search=tiina%20laanes&tool=search&view=0,0,2481,3508",
+              "title": "Läti Henrik ja tema kroonika"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/192IRGOMXjR0gg8dpOxfbzIbpRcsqgOQk/view",
+              "title": "02_muistne-vabadusvoitlus-2.pdf"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?time_continue=131&v=DXT86Ok-AEE&embeds_referring_euri=https%3A%2F%2Fwww.eays.edu.ee%2F&source_ve_path=Mjg2NjY&feature=emb_logo"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lõimitud ülesannete analüüs. Klassis arutletakse, kuidas on Euroopas toimunud ühiskondlikud muutused mõjutanud Eesti ühiskonna kujunemist.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KESKAEG: Jüriöö ülestõus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane selgitab allikatele tuginedes tänapäeva Eesti ühiskonnale iseloomulike ilmingute ja arengute ajaloolist tausta, hinnangute muutumist ajas ja põhjendab nende tagamaid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb muutusi Vana-Liivimaa riiklikus korralduses ja poliitilisel kaardil",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab suhteid naaberriikidega",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Teemad:</strong> Jüriöö ülestõus, selle põhjused ja tagajärjed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tuua välja allikateksti põhjal olulisi fakte Jüriöö ülestõusust. Allikaanalüüs ja ülesanne Tiina Laanes magistritöö põhjal „Eestlaste vastuhakud sakslaste ülemvõimule – 1343. aasta Jüriöö ja 1560. aasta talupoegade mäss“ lk 65.</p><p><strong>ÜLDPÄDEVUSED:</strong> kultuuri- ja väärtuspädevus, õpipädevus. <strong>LÄBIVAD TEEMAD:</strong> kultuuriline identiteet, teabekeskkond, väärtused ja kõlblus. <strong>AINEALANE LÕIMING:</strong> ajalugu, kunst, eesti keel ja kirjanuds, ühiskonnaõpetus.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.entsyklopeedia.ee/artikkel/j%C3%BCri%C3%B6%C3%B6_%C3%BClest%C3%B5us2",
+              "title": "Jüriöö ülestõus – Eesti Entsüklopeedia"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.etera.ee/zoom/41445/view?page=65&p=separate&search=tiina%20laanes&tool=search&view=0,0,2481,3508",
+              "title": "Eestlaste vastuhakud sakslaste ülemvõimule"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/19rhLd49yugyHYREUCaWPxFzN0rQZcnjK/view",
+              "title": "03_jurioo.pdf"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=u0abQ2ecA7g&embeds_referring_euri=https%3A%2F%2Fwww.eays.edu.ee%2F&source_ve_path=Mjg2NjY&feature=emb_logo"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Töölehtede analüüs klassiruumis.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KESKAEG: keskaja ühiskond Eestis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane selgitab, millest sõltus eri ajastutel inimeste sotsiaalmajanduslik staatus Eestis ja Euroopas",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab, kuidas Eesti haldusjaotus on ajas muutunud ning selgitab muutuste põhjusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane rekonstrueerib minevikus elanud inimese elu, arvestades ajastu eripära ning inimese sotsiaalset ja kultuuritausta, rakendades empaatiat",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab Eesti keskaja ühiskonda: läänikord, talurahva õiguslik seisund ning majanduslik olukord, käsitöö ja kaubandus, eluolu linnades",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob seoseid Eesti ja Euroopa ajaloo vahel keskajal",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab Eesti keskaja kultuuri põhijooni ning mõistab ristiusu mõju Eesti kultuurile, vaimuelule ja väärtushinnangute muutumisele",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru kultuurilisest järjepidevuses",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Liivi Ordu, vasalkond; mõis, teoorjus, sunnismaisus, adramaa</p><p><strong>Teemad:</strong> Keskaja ühiskond Eestis: läänikorraldus. Mõisate rajamine. Sunnismaisuse ja teoorjuse kujunemine. Keskaegsed linnad Eestis: linnade valitsemine. Käsitöö, kaubandus, Hansa Liit. Gildid ja tsunftid. Eluolu linnas. Kirik ja kultuur: vaimulikud ordud ja kloostrid. Arhitektuur.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rühmatöö 6 inimest (2x75 min või 3x45 min).</p><p><strong>Esimene tund (75 min)</strong></p><p>Laudkonnas jaotatakse peatükid. Õpilased jagunevad gruppidesse vastavalt peatükkidele. Esimese tööna jaotatakse rühmas alapeatükid ning asutakse lugema. Iga õpilane peab tooma oma tekstist välja olulisi fakte. Faktidest koostab laudkond kokkuvõtva teksti, mille sisestab veebilehele. Lisada illustreerivaid pilte. Tagasi kodurühmas iseloomustab iga õpilane oma loetud ja läbi töötatud peatükki, võttes aluseks sisestatud teksti ja pildid veebikeskkonnas.</p><ul><li>Linn.</li><li>Kaubandus ja käsitöö</li><li>Elu linnas.</li><li>Linnakultuur</li><li>Talurahvas</li><li>Elu maal</li><li>Kirikud ja kloostrid</li><li>Usk ja haridus</li></ul><p><strong>Teine tund (75 min)</strong></p><p><strong>Keskaegse linnaruumi loomine</strong></p><p>Iga paar saab endale ühe pabermaja, mis on vaja kokku panna. Klassi peale koostatakse üks suur linnamakett. Linnamaketi koostamisel ja linnaruumi loomisel lähtutakse loetud tekstidest saadud faktidele.</p><p><strong>ÜLDPÄDEVUSED:</strong> kultuuri- ja väärtuspädevus, sotsiaalne ja kodanikupädevus, enesemääratluspädevus, õpipädevus, suhtluspädevus. <strong>LÄBIVAD TEEMAD:</strong> kultuuriline identiteet, teabekeskkond, väärtused ja kõlblus. <strong>AINEALANE LÕIMING:</strong> ühiskonnaõpetus – ajalooliste ühiskondade toimimine; geograafia – Hansa Liidu geograafiline paiknemine.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.padlet.com",
+              "title": "Padlet"
+            },
+            {
+              "kind": "link",
+              "href": "https://helios.ee/raamatud/paberist-tallinna-vanalinn/",
+              "title": "Paberist Tallinna vanalinn"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/1sSMFTTia4L37a2EBfNcUqp_wvKiNi-Ig/view",
+              "title": "Keskaegne linnakultuur"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=uYd7vLKBCxs"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rühmatöös osalemise aktiivsuse ja konstruktiivsuse hindamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ÜLEMINEK KESKAJAST UUSAEGA: Liivi sõda",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane seostab Eesti ajalugu Euroopa ja maailma ajalooga, tuues esile erinevate ajalooperioodide eripära",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab allikate alusel Liivi sõja eellugu, kulgu ja tulemusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Ivan IV ja Wolter von Plettenberg</p><p><strong>Teemad:</strong> Liivi sõda: Vana-Liivimaa asend Läänemere regioonis. Liivi sõja eellugu, käik ja tulemused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tiina Laanes magistritöö ülesanne „Liivi sõja algus ja Liivimaa langus“ lk 69.</p><p><strong>ÜLDPÄDEVUSED:</strong> kultuuri- ja väärtuspädevus, õpipädevus. <strong>LÄBIVAD TEEMAD:</strong> kultuuriline identiteet, teabekeskkond, väärtused ja kõlblus. <strong>AINEALANE LÕIMING:</strong> kirjandus (filmi vaatamist ja analüüsi ajaloolises kontekstis saab jagada ajaloo ning kirjanduse vahel).</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.etera.ee/zoom/41445/view?page=69&p=separate&search=tiina%20laanes&tool=search&view=0,0,2481,3508",
+              "title": "Liivi sõja algus ja Liivimaa langus"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Film „Viimne reliikvia“ vaatamine ja analüüs. Analüüsitakse, kuidas Eesti ajalugu seostub Euroopa ajalooga. Analüüsitakse Liivi sõja olulisust Eesti ja Euroopa ajaloo kontekstis.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ÜLEMINEK KESKAJAST UUSAEGA: Eesti kolme kuningriigi valduses",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane analüüsib Eesti ühiskonnaelu erinevate suurriikide koosseisus, lähtudes erinevast perspektiivist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab, kuidas Eesti haldusjaotus on ajas muutunud ning selgitab muutuste põhjusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab muutusi riiklikus korralduses ja poliitilisel kaardil sõdade ajal",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Poola, Taani ja Rootsi valdused Eesti aladel</p><p><strong>Teemad:</strong> Eesti kolme kuningriigi valduses: riiklik korraldus ja poliitiline kaart.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võrdleva tabeli koostamine Eesti kolme kuninga valduses kohta.</p><p>Tuua välja:</p><ul><li>ühiskondlik korraldus</li><li>talupoegade olukord</li><li>religioon</li><li>Rootsi valdustesse ülemineku põhjused ja aeg</li></ul><p>Poola aeg. Taani aeg. Rootsi aeg.</p><p><strong>ÜLDPÄDEVUSED:</strong> kultuuri- ja väärtuspädevus, õpipädevus. <strong>LÄBIVAD TEEMAD:</strong> kultuuriline identiteet, teabekeskkond, väärtused ja kõlblus. <strong>AINEALANE LÕIMING:</strong> geograafia.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19087-Poliitilised-muutused-Eesti-aladel-varauusajal/222585",
+              "title": "Poliitilised muutused Eesti aladel varauusajal"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Analüüsi käigus kirjeldatakse, kuidas on muutunud Eesti alade ühiskondlik korraldus erinevate ruuriikide koosseisus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ÜLEMINEK KESKAJAST UUSAEGA: eluolu Liivi sõja ajal",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane rekonstrueerib minevikus elanud inimese elu, arvestades ajastu eripära ning inimese sotsiaalset ja kultuuritausta, rakendades empaatiat",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Liivi sõda, Vana-Liivimaa</p><p>Ülesanne Tiina Laanes MA töö põhjal: „Eluolu varauusaja Eesti- ja Liivimaal Balthasar Russowi kroonika põhjal“ (lk 84).</p><p><strong>ÜLDPÄDEVUSED:</strong> kultuuri- ja väärtuspädevus, õpipädevus. <strong>LÄBIVAD TEEMAD:</strong> kultuuriline identiteet, teabekeskkond, väärtused ja kõlblus. <strong>AINEALANE LÕIMING:</strong></p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.etera.ee/zoom/41445/view?page=84&p=separate&search=tiina%20laanes&tool=search&view=0,0,2481,3508",
+              "title": "Eluolu varauusaja Eesti- ja Liivimaal"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/video/vaata/vanad-ajad-liivi-soda",
+              "title": "Vanad ajad „Liivi sõda“"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ÜLEMINEK KESKAJAST UUSAEGA: reformatsioon Eestis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab religioonide ja ideoloogiliste õpetuste tekkelugu, leviku põhjusi ning mõju ühiskonna arengule",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab reformatsiooni mõju ja tähtsust eesti kultuuriloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib muutusi mentaliteedis ning vaimuelus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane analüüsib, millistest teguritest võisid olla mõjutatud inimeste ideoloogilised valikud",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Balthasar Russow</p><p><strong>Teemad:</strong> Reformatsioon Eestis: haridusolud. Eestikeelse trükisõna algus. Vastureformatsioon. Kultuuri areng: Balthasar Russowi kroonika ajalooallikana. Reformatsiooni ja vastureformatsiooni mõju vaimuelule.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus ja lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Allikaülesanne. Diskussioonivõrk. Allikateksti analüüs Tiina Laanes MA töö põhjal „Kroonik Balthasar Russow“ lk 55. Ülesanne Tiina Laanes MA töö põhjal: „Erinevad suhtumised reformatsiooni“ (lk 73).</p><p><strong>ÜLDPÄDEVUSED:</strong> kultuuri- ja väärtuspädevus, õpipädevus. <strong>LÄBIVAD TEEMAD:</strong> kultuuriline identiteet, teabekeskkond, väärtused ja kõlblus. <strong>AINEALANE LÕIMING:</strong> Ajalugu, muusika, kirjandus ja kulnstiajalugu – reformatsiooni mõju erinevatele valdkondadele.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/1kxWiKiqQRvZnnNtfLq8VABh1WYHYyptF/view",
+              "title": "Allikaülesanne"
+            },
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/3121",
+              "title": "Diskussioonivõrk"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.etera.ee/zoom/41445/view?page=55&p=separate&search=tiina%20laanes&tool=search&view=0,0,2481,3508",
+              "title": "Kroonik Balthasar Russow"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.etera.ee/zoom/41445/view?page=73&p=separate&search=tiina%20laanes&tool=search&view=0,0,2481,3508",
+              "title": "Erinevad suhtumised reformatsiooni"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19415-14-Reformatsioon",
+              "title": "Erinevad ülesanded reformatsioonist"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19088-Reformatsioon-ja-vastureformatsioon-Eesti-aladel",
+              "title": "Reformatsioon ja vastureformatsioon Eesti aladel"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19088-Reformatsioon-ja-vastureformatsioon-Eesti-alade",
+              "title": "Reformatsioon ja vastureformatsioon Eesti alade"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=RryZFrOcf6U"
+            },
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/video/reformatsioon-500",
+              "title": "Reformatsioon 500"
+            },
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/video/vaata/ajalik-ja-ajatu-reformatsioon",
+              "title": "Reformatsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/13688-Reformatsioon-Too-videoga",
+              "title": "Reformatsioon – töö videoga"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tuuakse välja, kuidas religioonide ja ideoloogiliste õpetuste kujunemine on muutnud ühiskondliku arengut.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

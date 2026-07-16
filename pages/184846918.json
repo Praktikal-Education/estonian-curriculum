@@ -1,0 +1,182 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "1) Kultuuri- ja väärtuspädevus:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab, et ta on Eesti Vabariigi kodanik;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et on olemas erinevaid rahvaid ja kultuure;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub teistesse inimestesse lugupidavalt.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "2) Sotsiaalne ja kodanikupädevus:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab oma peamisi õigusi ja kohustusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "peab kinni ühiselu reeglitest;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kaaslastega arvestada;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab konfliktidesse sattudes otsida abi täiskasvanutelt.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "3) Enesemääratluspädevus:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab, et õppimine on vajalik;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru, millised on tema võimed ja oskused;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "püüab erinevates olukordades võimetekohaselt toime tulla;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "peab tähtsaks tervislikku eluviisi.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "4) Õpipädevus:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "õpib võimetekohaselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab oma tegevusi planeerida;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab õppetöös ja elulistes situatsioonides kasutada (abiga) erinevaid infoallikaid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi uute teadmiste ja oskuste vastu.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "5) Suhtluspädevus:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "arvestab suhtlemisel olukorra ja kaaslastega;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab arusaadavalt oma soove, seisukohti ja arvamusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja kirjutab võimetekohaselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab (abiga) erinevaid infoallikaid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "6) Matemaatika-, loodusteaduste- ja tehnoloogia pädevus:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab õppetöös matemaatika-, tehnoloogia- ja loodusteaduslikke teadmisi ja oskusi võimetekohaselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hoolib loodusest ja keskkonnast.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "7) Ettevõtlikkuspädevus:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "on töökas ja tegus;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab sobivaid võimalusi õppimise jätkamiseks ka pärast põhikooli lõpetamist;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et oma tegude eest tuleb vastutada.",
+          "outcomeType": "knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "8) Digipädevus:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab infotehnoloogilisi vahendeid võimetekohaselt ja sihipäraselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab turvalise ja viisaka internetikasutuse põhitõdesid.",
+          "outcomeType": "knowledge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Määruse järgi 1. klassi lõpuks õpilane",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ja kasutab õpetaja juhendamisel erinevaid materjale ja vahendeid (nt paber, värvipliiatsid, viltpliiatsid, guašid, plastiliin, savi, looduslik materjal, voolimisalus, joonlaud jms)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ja nimetab õpitud värvusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonistab šablooni või orientiiri abil lihtsamaid kujundeid, vajaduse korral õpetaja abiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rebib sirgjooneliselt, lõikab silma järgi ning sirgjoonelist kontuuri mööda paberitükke ja ribasid, vajaduse korral abi kasutades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "liimib liimipulgaga paberit, vajaduse korral abi kasutades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "voldib paberilehe pooleks ja/või neljaks, vajaduse korral abi kasutades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "voolib rullimise, veeretamise ja lamendamise teel lihtsamaid kujundeid ja esemeid, vajaduse korral õpetaja abiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hoolitseb õpetaja juhendamisel oma töökoha ja õppevahendite korrasoleku eest.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Määruses fikseeritud õpitulemused on lähtuvalt käsitletavast õppesisust konkretiseeritud.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kujutamis- ja vormiõpetus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "joonistab (šablooni või orientiiri) abil lihtsamaid kujundeid, vajaduse korral õpetaja abiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "voolib rullimise, veeretamise ja lamendamise teel lihtsamaid kujundeid ja esemeid, vajaduse korral õpetaja abiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib vastavalt võimetele pinna katmisel lihtsa kujutise kontuuri.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>punkt, joon, pind, rütm, struktuur;</li><li>objektide ja kujutiste tajumine erinevate meeltega - kogetu ja tajutu peegeldamine loovtöös;</li><li>kujutab enda kogemuse piires mõtteid, tundeid ja kogemusi;</li><li>joonistab seda, mida näeb, mitte seda mida teab.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>punkt, joon, pind</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Joone kujutamine: jäme, peenike, tugev, õrn, sirge, kõver. Punkt: väike, suur, selge piiriga, susapusa. Pind: hele, tume, värviline ühevärviline jne.</li><li>Esemete ja figuuride pinnaline kujutamine, nende ligikaudse vormi ja proportsiooni edasiandmine.</li><li>Oma spontaansete voolingute seostamine ruumiliste kujunditega (kera - pall, koonus - porgand, silinder - vorst, poolkera). Rõhk ei ole geomeetrial vaid keha kuju tunnetamisel.</li><li>Vormilt lihtsate esemete ja figuuride voolimine eeskuju järgi, Esimesteks voolimistöödeks sobivad puu- ja juurviljad, seened, lihtsad ja mõistetavad reljeefsed ornamendid, Nüüd ei ole õun lihtsalt kera vaid muutub oma iseärasustega vormiks.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Esmalt vooli, siis joonista!</li><li>Suuna uurima: vaatlema, kompima, võrdlema.</li><li>Õpeta joonistama, seda, mida näeb, mitte seda mida teab, Ära suru oma teadmist.</li><li>Looming võib jääda abstarktseks, tunnusta pealehakkamist ja julgusta tegutsema.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>\"Punkt otsib kunsti\" E. Vahter</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.digar.ee/id/nlib-digar:660073",
+              "title": "digari arhiiviviide"
+            },
+            {
+              "kind": "text",
+              "html": "<p>\"Kunst. 1. klassi õpilase tööraamat\", E. Vahter</p><p>\"Kunst 1. Õpetajaraamat\" E. Vahter</p><p>\"235 days of drawing\", Lorna Scobie, 2018</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=H4CqlgPqG6s"
+            },
+            {
+              "kind": "text",
+              "html": "<p>\"Õpime voolima loomi : + väike loomaleksikon\" N. Pautner, Tõlkija: Märt Kullo</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.digar.ee/id/nlib-digar:315563",
+              "title": "digari viide"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tallinna kunstihoone programm \"Vaatamise kool\" töövihikud, sobivuse korral ka programmis osalemine.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.kunstihoone.ee/haridus/",
+              "title": "programmi tutvustus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Värvusõpetus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ja nimetab õpitud värvusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>värvide tundmaõppimine (spektrivärvid, must ja valge) ja värvitaju arendamine;</li><li>värvide segamine (helestamine/tumestamine);</li><li>huvitavad lood ja muinasjutud värvuste kohta.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>värviring, sinine, punane, kollane, roheline, oranž, lilla, must, valge, hele, tume</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Värvide tundmaõppimine, värviring kui värvide perekond.</li><li>Ühe värvi erinevad toonid (helekollane, kollane, tumekollane).</li><li>Uurige, kuidas värvuste kogemine muutub vastavalt valgusele.</li><li>Pliiatsi- või värvikarbi värvide seostamine enda ja ümbritseva keskkonnaga.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Pühenda igale spektrivärvile vähemalt tund.</li><li>Alusta põhivärvidest ja kasvata teadmist värvidest nende põhjal järjest suuremaks.</li><li>Seosta värvusi lugudega, värvimuinasjuttudega.</li><li>Võimalusel soeta klassi suured ühiselt kasutatavad värvipudelid ja kasuta värvide jagamiseks palette. Nii ei teki õpilastel kiusatust kõiki oma värve välja võtta ja paberile kanda , nii saad keskenduda värvidele, mida tunnis õpetad.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>\"Värvid meie ümber\", Kärt Kase ja Reelika Täht,</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://varvid.weebly.com/",
+              "title": "õppematerjal veebis"
+            },
+            {
+              "kind": "text",
+              "html": "<p>\"Värvide salaelu\", Kassia St Clair, 2019</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.digar.ee/arhiiv/nlib-digar:413635",
+              "title": "Digari arhiiviviide"
+            },
+            {
+              "kind": "text",
+              "html": "<p>\"Avasta värvimaailm\" K.Ivanova, M. Kask, K.Truus</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ester.ee/record=b3055840*est",
+              "title": "Keskraamatukogu viide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kompositsiooni- ja perspektiiviõpetus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "püüab kujutatava taustast esile tõsta (ei kaota kujutatavat tausta sisse).",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kunstiteost luuakse läbi keskse tegelase (objekt/motiiv), olulisi selgelt märgatavaid detaile lisades:</li><li>võrdlemine (suur väike, pikem-lühem) kohamäärus (üleval, all, paremal vasakul);</li><li>piiratud ja piiramata pind (mõisted: piiratud ja piiramata pind, objekti ja tausta seos).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suurem, väiksem, üleval, all, lähedal, kaugemal</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Ruumisuhete tajumist arendavad ülesanded nt. arva ära, mida joonistan (väga lihtsad kujundid), joonista punkt või paiguta lõigatud detail üles, alla....., jne.</li><li>Kompositsiooni kirjeldavad mõisted: suurem, väiksem, kõige suurem, millegi ees või millegi taga, lähemal, kaugemal, üleval, all, paremal, vasakul, keskel, ääres, lähedal, koos, eraldi, puutuvad kokku. Võimalusel olukordade/ võrdluste läbimängimine (Mikk on lähemal kui Kati, punane tool on väiksem kui valge jne).</li><li>Taustale eseme kujutamine, kleepimine, ladumine, voolimismassi vajutamine jne (kujutatav eristub selgelt taustast).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Uurige teistes tundides (eesti keel, loodusõpetus, muusika) käsitletavat teemat toetavaid pilte. Kuidas need pildid toetavad teemat?</li><li>Õpilastele pakub rõõmu avastada detaile, mida kohe pole märgata (Leia pildilt midagi, mis…... ).</li><li>Kasutage loovtöödeks suurema formaadiga pabereid/ aluseid (vähemalt a3), esemeid, vorme.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>\"Kunsti töötuba lastele\" S. Caughey</p><p>\"Laste kunstiraamat\" F. Watt</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kujundamis- ja kirjaõpetus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "järgib jõukohast mustri rütmi.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>lihtsamad skeemid, mustrid, sümbolid;</li><li>täht, kui mustri element.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>muster, märk</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Erinevaid kooli või rahvakalendri sündmustega seotud toorikute kaunistamine (kaart, mütside, kinnaste šabloonid jne) Trükitehnikates luuakse mustreid (materjali trükk).</li><li>Loodusmaterjalist mandala ja lihtsama pildi ladumine. Motiivide koostamine.</li><li>Lihtsamate ruumiliste kompositsioonide, mudelite või makettide valmistamine.</li><li>Oma nimetähtede/ nime kasutamine kunstiteostes.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Trükitehnikate puhul püüa kasutada materjale, mida lapsel on hea haarata (poolik kartul või õun on lihtsad vahendid, kuid võivad näppude vahel kergesti libiseda ja nii kogeb laps pigem ebaedu).</li><li>Mustriridade /mandalate loomisel leia kõigile võimalus mustrit laduda (reguleeri gruppi nii, et aeglased ja vähem entusiastlikud saaks ka anda oma panuse töösse, kiirematele anna lisatööd.</li><li>Looduses olles ja loodusmaterjale kasutades suuna õpilasi vaatlema värve, tekstuuri, kuju.</li></ol>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/184844706/Uuri%20loodust%20kunstniku%20pilguga.pdf?version=1&modificationDate=1709970461187&api=v2",
+              "title": "Uuri loodust kunstniku pilguga.pdf"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>\"Hakkame joonistama\", L. Leppoja, K. Ivanova</p><p>\"Kunstis koos lastega\" A. Noormaa</p><p>\"Kunst. 1. klassi õpilase tööraamat\", E. Vahter</p><p>\"Kunst 1. Õpetajaraamat\" E. Vahter</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kunstikultuur",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb rõõmu loomingulisest ja käelisest tegevusest ning õppeprotsessis osalemisest.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kasvatatakse huvi kunstikultuuri vastu ja soovi ise selles osaleda;</li><li>kunstiõpetuse tegevused on seotud tihedalt eesti keele ja loodusõpetuse (üldõpetuse) teemadega. sh Eesti sümboolika, rahvakalendri tähtpäevade ja pärimuskultuuriga;</li><li>õpilane õpib tundma uut koolikeskkonda, selle traditsioone ja sümboolikat.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>pilt, maal, kunstnik, näitus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Kunstiteoste vaatamine fotodelt, videost, internetist, kooli ruumides, näitusel, linnaruumis.</li><li>Eesti ja kooli sümboolika tundmaõppimine (värvid, kujundid, sümbolid).</li><li>Õppekäik lähiümbrusesse, (võimalusel) muuseumikülastus.</li><li>Nimetähe või nime lisamine oma tööle.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Valmista ette kooli ruumes väljapandud näituse vaatlemine (rõhuasetused, küsimused, lugu) ja nähtu kohta tagasiside küsimine.</li><li>Kui paned klassi/koridori välja õpilaste töödest näituse, tee sellest väike sündmus või pane näituse alla uurimisküsimus/ tähelepanu suunav tegevus.</li><li>Muuseumiprogrammi valides ole hoolikas ja veendu jõukohasuses.</li><li>Innusta õpilasi kunstiga tegelema, seda märkama.</li><li>Loo oma kunstitunnist sündmus.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>\"Joonistav laps\", A. Juske</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tehnikad, vahendid ja materjalid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ja kasutab õpetaja juhendamisel erinevaid materjale ja vahendeid (nt paber, värvipliiatsid, viltpliiatsid, guašid, plastiliin, savi, looduslik materjal, voolimisalus, joonlaud jms)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rebib sirgjooneliselt, lõikab silma järgi ning sirgjoonelist kontuuri mööda paberitükke ja ribasid, vajaduse korral abi kasutades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "liimib liimipulgaga paberit, vajaduse korral abi kasutades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "voldib paberilehe pooleks ja/või neljaks, vajaduse korral abi kasutades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "voldib paberi pooleks ja ruudukujulise paberi diagonaali mööda kolmnurgaks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>maalimise, joonistamise, rebimise, lõikamise, liimimise, voolimise (voltimise) baasoskuste arendamine;</li><li>erinevate tekstuuride loomine, frotaaž;</li><li>trükitehnikad;</li><li>looduslik materjal ja selle kasutamine;</li><li>materjalide säästlik kasutamine;</li><li>töövahendite õige ja ohutu käsitlemine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>paber, harilikpliiats, värvipliiats, rasvakriit, pintsel, guašš, veetops, joonistamisalus, savi, plastiliin, voolimisalus, käärid, liim jne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Maalimine, joonistamine - lihtsad figuurid, olulised peamised detailid.</li><li>Voolimine: ussike, kringel, silinder, kera, puu- ja juurviljad, lihtsad reljeefsed ornamendid, plastiliiniga kujutatava pinnalaotuse vajutamine.</li><li>Erinevate tekstuuride loomine - voolimismassile mustri vajutamine, voolimispulgaga joonistamine, erinevate materjalidega pindade kujundamine, mahulised värvid ja erinevad kattevärvid, effektvärvid jne.</li><li>Rebimine - alustada lihtsamat ribad ja tükid, (ümarad suuremad vormid).</li><li>Lõikamine (harjutavad tööd) baasoskused, lõikamisharjutused (leiab hulganisti internetist, ei pea ise ette valmistama).</li></ol>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/184844706/l%C3%B5ikamise%20l%C3%B5ikeleht.pdf?version=1&modificationDate=1709971924028&api=v2",
+              "title": "lõikamise lõikeleht.pdf"
+            },
+            {
+              "kind": "text",
+              "html": "<ol start=\"6\"><li>Voltimine - väga lihtsad vormid.</li><li>Looduslik materjal ja selle kasutamine - õppekäikudelt kaasa korjatud materjali kasutamine, temaatiline meisterdamine (lehepildid, tõruloomad, kastanimandalad, liivapildid jne).</li><li>Materjalide säästlik kasutamine - rebimistehnika ja lõikamise harjutamine olemasolevatest paberijääkidest, suurmate jääkide eraldamine väikesest prahist.</li><li>Töövahendid ja töövahendite õige ning ohutu käsitlemine - töövahendite nimetused (vajadusel pilt, et osutada).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Võimalusel tee läbi ülesanne, mida kavandad.</li><li>Voltimine on raske, esialgu harjuta kõige lihtsamaid voltimisvõtteid (pooleks, pooleni, ruudukujulise paberi diagonaalide voltimised)</li><li>Rebimine (ümaramad vormid) ja paberi kortsutamine on samuti keerulisemad töövõtted. Tasub harjutada, kuid jõukohaselt.</li><li>Lõimi tegevus muudes õppeainetes õpituga või ettevõetud tegevustega.</li><li>Planeeri töid etappide kaupa (see nädal teeme ära ...., järgmisel korral lisame...).</li><li>Pööra tähelepanu materjalidele nimetustele ja omadustele, seosta õpilaste isikliku kogemusega.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunst 1.-3. klassile H. Gabral, T. Põldemaa</p><p>\"Kunst. 1. klassi õpilase tööraamat\", E. Vahter</p><p>\"Kunst 1. Õpetajaraamat\" E. Vahter\"Kunstis koos lastega\" A. Noormaa</p><p>\"Hakkame joonistama\", L. leppoja, K. Ivanova</p><p>\"Paberist voltimine\", M. Stenberg</p><p>\"Meisterdame mänge. Ägedad projektid taaskasutatavatest materjalidest.\", A. HSU</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Töökultuur",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "hoolitseb õpetaja juhendamisel oma töökoha ja õppevahendite korrasoleku eest.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>ülesandeid teostatakse valdavalt koostegevuses eeskuju ja näidise järgi, omandatud oskuste piires ka suulise korralduse järgi;</li><li>õpitakse töötama grupis ning jagama ühiskasutuses olevaid töövahendeid;</li><li>kujundatakse korraharjumusi ja oskusi ning püsivust oma töö lõpule viia.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>töökoht, töövahend, näidis</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Näidise uurimine: objektide paiknemine, detailide märkamine, kasutatud värvide nimetamine.</li><li>Tööprotsessile tähelepanu pööramine (esmalt teeme nii, siis naa ja lõpuks lisame...).</li><li>Teiste õpilastega materjalide ja töövahendite jagamine - õpetaja ei pea igale õpilasele lauale vajalikku valmis panema, vaid võiks eelistada vajamineva paigutamist ühisele lauale, kust igaüks võtab, mis vaja. Kui materjali laialijaotus võtab liigselt aega võib osaliselt materjalid laudadele valmis panna ja vaid mõned ühisele lauale jagamiseks paigutada.</li><li>Enda ja teiste töö väärtustamine - iga kord uuritakse kaugele tööga jõuti, valmistööde puhul missugune on tulemus iseenda ja klassi jaoks. Harjutatakse tagasisidet, mis mul tuli hästi välja, missugune klassikaaslase töö mulle meeldib. Kui kõne puudub või on raskendatud, kasutab õpetaja pildikeelt. (õpilane kirjeldab vajadusel õpetaja abiga kokkuvõtvalt tööprotsessi).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Selgita lihtsalt, miks on ettevõetav töö oluline.</li><li>Püüa saavutada rutiin tunni põhitegevustes (ettevalmistus (kaitseriietus, töökoha ettevalmistus), tunnis tehtava tutvustamine ja olulisus, tegevus, töökoha korrastus, tagasiside.</li><li>Töövahendite ja töökoha korrashoiule tähelepanu suunamine nii, et see ei sega loomisprotsessi (tutvusta, kuidas on õige).</li><li>Töömapp - joonistused ja maalid saab kokku koguda mappi, skulptuuridest, õppekäikudest saab teha foto (õpilane võib ise teha) - toetab loometegevuse väärtustamist.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://kompass.harno.ee/koolilood/kiirtee-iseseisva-oppeni/",
+              "title": "Kiirtee iseseisva õppeni"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Hariduse tehnoloogiakompass, Harno</p><p>Põhikooli riikliku õppekava</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/x/chUUD",
+              "title": "kunstiõpetuse metoodilised soovitused"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "VIII kursus: Stereomeetria",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>arendada ruumikujutlust ja ruumiliste kehade nägemist enda ümber (arhitektuur, loodus jne);</li><li>arendada jooniselt andmete lugemise oskust;</li><li>tutvustada ruumiliste kehade tasapinnal kujutamise algtõdesid;</li><li>kinnistada matemaatiliste vahendite kasutamise oskust reaalsete objektide mõõtarvude (pindala, ruumala, nurkade, pikkuste) leidmisel ja nende tulemuste hindamisel.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursuse läbimisel suunatakse õpilasi märkama geomeetrilisi kujundeid looduses, arendatakse täpsust ja töökust, loogiliste mõttekäikude kujundamist ja objektidevaheliste seoste nägemist. Ülesandeid lahendades areneb tehniliste abivahendite kasutamise oskus ning saadavate tulemuste kriitilise hindamise oskus. Lahenduskäikude vormistamine ja esitamine arendab korralikkust, hoolsust ning püsivust.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lihtsatele ülesannetele erinevat sisu andes saab rõhutada niisuguseid teemasid nagu keskkond ja säästlik majandamine (olmeremont). Kuivõrd geomeetriaülesanded esitatakse peamiselt tekstülesannete ja/või probleemülesannetena, areneb ka õpilase funktsionaalse lugemise oskus. Olulisel määral arendatakse vajaliku ja ebavajaliku eristamise oskust ning seetõttu võimalikult ratsionaalse lahendusviisi leidmist. Erinevate lahendusideede pakkumine ja analüüsimine arendavad paindlikku mõtlemist. Üldistamise ja analoogia kasutamisega rakendab õpilane matemaatilisi teadmisi uutes olukordades, lahendades elulise sisuga ülesandeid. Erinevate raskusastmetega varieerides saab anda õpilastele võimaluse hinnata ja arendada oma matemaatilisi võimeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Hindamisel saadakse ülevaade õpitulemuste saavutatusest ja õpilase individuaalsest arengust ning toetatakse selle kaudu õpilase kujunemist positiivse minapildi ja adekvaatse enesehinnanguga ennastjuhtivaks õppijaks.</li><li>Hindamise tulemusena/abil saab õpilane tagasisidet oma edenemise kohta õppimisel ja õpistrateegiate valikuteks.</li><li>Õpetaja saab teavet õpilase teema omandamise tulemuslikkuse kohta ning sisendit õppetegevuse arendamiseks.</li><li>Hindamisel rakendatakse nii diagnostilist, kujundavat kui ka kokkuvõtvat hindamist, mida esitatakse nii sõnaliste ja kirjalike hinnangute kui ka numbriliste hinnetena.</li><li>Diagnostilise hindamise käigus selgitatakse välja õpilaste eelteadmiste ja oskuste tase, ainealased väärarusaamad ja spetsiifilised õpiraskused, et kavandada järgnevat õppimist ja õpetamist.</li><li>Õppeprotsessi käigus rakendatakse kujundavat hindamist, kus õpilane saab suulist ja kirjalikku tagasisidet oma õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta.</li><li>Kokkuvõttev hindamine toimub üldjuhul õppeperioodi või mahuka õppeteema lõpul, et kontrollida nii õppetöös püstitatud eesmärkide kui ka riikliku õppekavaga sätestatud õpitulemuste saavutatust.</li><li>Õpilasele on õppeprotsessi alguses teada, mida ja millal hinnatakse, milliseid hindamisvahendeid kasutatakse ning millised on hindamise kriteeriumid.</li><li>Kirjalikke ülesandeid hinnates arvestatakse eelkõige töö sisu, kuid pööratakse tähelepanu ka õpilase keelekasutusele, sh erialaste terminite õigele kasutusele ja õigekirjale, mis üldjuhul ei mõjuta tööle antavat hinnangut ja hinnet.</li><li>Õpet kavandades ning sellest tulenevalt ka hinnates võetakse aluseks tunnetuslikud protsessid:</li><li>faktide, protseduuride ja mõistete teadmine (meenutamine, äratundmine, info leidmine, arvutamine, mõõtmine, klassifitseerimine/järjestamine jmt);</li><li>teadmiste rakendamise oskus (meetodite valimine, matemaatilise info eri viisidel esitamine, modelleerimine, rutiinsete ülesannete lahendamine jmt);</li><li>arutlemisoskus (põhjendamine, analüüs, süntees, üldistamine, tulemuste hindamine jmt).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>gümnaasiumi matemaatika kitsas I, II, VII kursus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>A – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li>B – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li>C – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "STEREOMEETRIA",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab punkti asukohta ruumis koordinaatide abil ning sirgete ja tasandite võimalikke vastastikuseid asendeid ruumis (võrranditeta käsitlus);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab ja rakendab kahe sirge, sirge ja tasandi ning kahe tasandi vahelise nurga mõistet (võrranditeta käsitlus);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ainekavas nimetatud tahk- ja pöördkehi ning nende omadusi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kujutab tasandil ruumilisi kujundeid ning nende lihtsamaid lõikeid tasandiga (näiteks telglõige ja ühe tahuga paralleelne lõige);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arvutab ainekavas nõutud kehade joonelemendid, pindala ja ruumala;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab lihtsamaid ruumilisi probleeme lahendades trigonomeetria-, planimeetria- ja stereomeetriateadmisi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "oskab õppesisus märgitud vastavaid nurki näidata reaalsel mudelil ning loeb neid etteantud jooniselt.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab leida / näidata joonelemente: külgserv, põhiserv, kõrgus, apoteem, põhja diagonaal, prisma diagonaal;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab leida / näidata tahke ja lõikeid: külgtahk, põhitahk, ristlõige, diagonaallõige, telglõige, suurring;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "lahendab ülesandeid arvuliste andmetega (avaldamisülesandeid ei tehta) ja ülesandeid, milles lõikeid kasutades piirdutakse telg- ja diagonaallõikega.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ristkoordinaadid ruumis. Punkti koordinaadid. Kahe punkti vaheline kaugus.</p><p>Kahe sirge vastastikused asendid ruumis. Nurk kahe sirge vahel.</p><p>Sirge ja tasandi vastastikused asendid ruumis. Sirge ja tasandi vaheline nurk. Sirge ja tasandi ristseisu tunnus.</p><p>Kahe tasandi vastastikused asendid ruumis. Kahe tasandi vaheline nurk.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Prisma ja püramiid.</p><p>Püstprisma ning korrapärase püramiidi täispindala ja ruumala.</p><p>Silinder, koonus ja kera, nende täispindala ning ruumala.</p><p>Näiteid ruumiliste kujundite lõikamise kohta tasandiga. Praktilise sisuga ülesanded hulktahukate (püstprisma ja püramiid) ning pöördkehade kohta.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks (eelteadmised, kõige olulisem, mis on vajalik õpilasele edasi liikumiseks, metoodilised soovitused)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Punkti asukoht ruumis esitatakse tutvustavalt. Kahe punkti vahelise kauguse arvutamise oskus ei kuulu nõutavate õpitulemuste hulka. Ruumilise ristkoordinaadistiku vaatlemise põhieesmärk on laiendada õpilaste matemaatilist silmaringi. Põhitähelepanu on pööratud ruumilise teljestiku tasandilisele kujutamisele ning koordinaatidega antud punktide kujutamisele teljestikus. Käsitletakse ka visualiseerimist (arvutiprogrammid).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Oluline on visualiseerimine reaalsete objektidega, sh prismas ja püramiidis. Kahe tasandi vahelist nurka käsitledes antakse õppijale vahend näiteks nelinurkse püramiidi külg- ja põhitahu vahelise nurga leidmiseks. Sirge ja tasandi vahelise nurga olemuse mõistmist on aga vaja püramiidi külgserva ja põhja vahelise nurga leidmist nõudvates ülesannetes.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eesmärk on kehade ja nende elementide äratundmise ning nimetamise kindla oskuse saavutamine. Tähtis on saavutada ka kehade tasandilise kujutamise ja skitseerimise oskus. Eraldi tuleb harjutada vajalike nurkade joonisele kandmist. Selleks võib teha töölehe erinevate kehadega, kus õpilase ülesanne on märkida nurgad õigesse kohta. Seda tööd võiks ka hinnata. Alles seejärel keskendutakse ruumilise keha enda kujutamisele tasandil. Edasi tehakse mõlemat operatsiooni korraga. Seejuures tuleb arvestada, et korralike jooniste / visandite tegemine võib olla paljude õpilaste jaoks keeruline.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Käsitletavate kehade pindalad ja ruumalad esitatakse kordavalt. Tahkkehade pindalade arvutamise peamine tee on vastavate tahkude üksikpindalade summeerimine, mitte valmisvalemite kasutamine. Et tahukate pindala mõistest aru saada, tuleks vältida üldisi valemeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18763-1-Punktid-ruumis-ja-nendevaheline-kaugus",
+              "title": "https://e-koolikott.ee/et/oppematerjal/18763-1-Punktid-ruumis-ja-nendevaheline-kaugus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19076-1-1-Prisma-ja-tema-pindala",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19076-1-1-Prisma-ja-tema-pindala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19084-1-2-Prisma-ruumala",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19084-1-2-Prisma-ruumala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19079-2-1-Puramiid",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19079-2-1-Puramiid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19082-2-2-Puramiidi-pindala-ja-ruumala",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19082-2-2-Puramiidi-pindala-ja-ruumala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19140-3-2-Silinder-tema-pindala-ja-ruumala",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19140-3-2-Silinder-tema-pindala-ja-ruumala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19144-3-3-Koonus-tema-pindala-ja-ruumala",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19144-3-3-Koonus-tema-pindala-ja-ruumala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19146-3-4-Kera-tema-pindala-ja-ruumala",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19146-3-4-Kera-tema-pindala-ja-ruumala"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine (k.a näidisülesanded või kirjeldused õpitulemuste erineval tasemel saavutamisest), A, B, C tasemed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong><em>Vt lisaks näiteülesandeid lehekülje allosas</em></strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lõiminguvõimalused:</p><ul><li>füüsika (massi ja ruumala vaheline seos, tihedus)</li><li>kehaline kasvatus (kuul, pall, koonus)</li><li>kunst (värvimine, värvikulu)</li><li>ajalugu (Egiptuse püramiidid)</li><li>terviseõpetus (toidupüramiid)</li></ul><p>Võimalus ettevõtlikkuspädevuse ja digipädevuse arendamiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Vt lisaks näiteülesandeid lehekülje allosas",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454368/kitsas_mat_VIII_kursus_n2iteyl.docx?version=1&modificationDate=1706621734038&api=v2",
+              "title": "kitsas_mat_VIII_kursus_n2iteyl.docx"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454368/kitsas_mat_VIII_kursus_n2iteyl.pdf?version=1&modificationDate=1706621734047&api=v2",
+              "title": "kitsas_mat_VIII_kursus_n2iteyl.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

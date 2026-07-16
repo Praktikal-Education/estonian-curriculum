@@ -1,0 +1,338 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "A-võõrkeele teemavaldkonnad näidetega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "MINA JA TEISED",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>I kooliaste: enese ja kaaslaste tutvustus (nimi, rahvus, sugu, vanus, elukoht jmt).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: iseloomu kirjeldav sõnavara, enda ja teiste välimuse kirjeldus (kasv ja kehaehitus, riietus, juuste ja silmade värv jne); enesetunne ja tervis (nt hea/halb tuju, kehaosad, kuidas olla terve, halva enesetunde põhjused, nõuanded jne); suhted sõpradega ja ühised tegevused; viisakusväljendid ja -normid (kellele mida ja kuidas öelda, kuidas käituda jne).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: võimed, tugevused ja nõrkused: mida oskan/suudan teha, milles olen nõrk, mida vaja arendada (sama teiste kohta); sõprus-, armastussuhted, sallivus; kultuurispetsiifilised käitumismaneerid ja oskus nendega arvestada. Vaimne tervis ja selle hoidmine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KODU JA LÄHIÜMBRUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>I kooliaste: pereliikmete tutvustus (nimi, vanus, sugu,) ja kodu asukoha lühikirjeldus (riik, linn/maakoht, mõni iseloomustav omadussõna jmt).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: kodu/elukoha sõnavara (korter, maja, eri ruumid, oma tuba, sisustus jmt), koduümbrust kirjeldav sõnavara (majad, park, põld, teed, väljakud jmt); pereliikmete ja lähisugulaste iseloomustus, ametid, tegevusalad, huvid; pereliikmete kodused tööd ja tegevused.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: sündmuste ja tähtpäevade tähistamine perekonnas ja kodukohas; kodukoha vaatamisväärsuste tutvustamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KODUKOHT EESTI",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>I kooliaste: Eesti riigi nimi, pealinn, oma rahvus ja keel; aastaaegade nimetused ja põhilised aastaaegade ilma kirjeldavad omadussõnad (hea/halb ilm, päikseline, vihmane jmt); kodukohta ümbrust iseloomustav sõnavara (mets, meri, park jmt).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: Eesti asukoha määratlemine (põhiilmakaared, naaberriigid), linna ja maad iseloomustav sõnavara, põhiline sümboolika (lipp, rahvuslill ja -lind jmt) ja põhilised tähtpäevad (jõulud, jaanipäev jmt); ilmastikunähtused; käitumine ja tegevused looduses eri aastaaegadel.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: loodusrikkused (mets, loomad, vesi, puhas õhk jmt) ja nende hoidmine linnas ja maal (prügiliigid, taaskasutamise võimalused jmt); linna- ja maaelu võrdlus; tuntumad vaatamisväärsused Eestis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "RIIGID JA NENDE KULTUUR",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>I kooliaste: õpitava keele riigi/riikide nimetused vastavas keeles, tuntumad tähtpäevad ning nendega seotud tavad.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: õpitava keele riigi/riikide olulisemad sümbolid (lipp, rahvuslind ja -lill jmt), põhilised tähtpäevad ja nendega seotud olulisemad tavad; igapäevaelu kombed, mõned tuntumad sündmused ja saavutused ja nendega seotud nimed ajaloo- ja kultuurivaldkonnast, sh keele- ja kultuuriloolised seosed eesti keele ja kultuuriga; mõned eakohased aktuaalsed ühiskondlikud teemad, mis kajastavad selle kooliastme õpilaste huvide ringi ja käsitletavaid teemasid; Eesti ja õpitava keele riigi/riikide naaberriikide nimed, rahvused, keeled.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: õpitava keelega seotud kultuuriruumi kuuluvate riikide lühitutvustus (pealinnad, rahvad, keeled, eripära jmt); teiste maailmas tuntumate riikide nimed, rahvad ja keeled, mida nad räägivad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "IGAPÄEVAELU. ÕPPIMINE JA TÖÖ NING VABA AEG",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>I kooliaste: tavalisemad päevatoimingud kodus ja koolis ning nende tegevustega seotud esemed/vahendid. Eelistused (muusika kuulamine, mängud, lemmiktoit jmt) ning hobid.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: päevakavajärgsed tegevused kodus, koolis ja vabal ajal (päevaplaan, helistamine, laua katmine, erinevate tegevustega seotud esemed/vahendid jmt); söögikorrad ja toiduained, tervislik toiduvalik; igapäevane hügieen; tee küsimine ja juhatamine (parem/vasak pool, otse jmt), koolitee kirjeldus; transpordivahendid; lihtsamad ostud erinevates poodides; lihtne sõnavara enesetunde kirjeldamiseks; koolipäeva kirjeldamine, kooli ja klassi iseloomustav sõnavara, tunniplaan, koolivaheajad; tuntumad ametid ja nendega seotud tegevused. Huvid (sport, filmid, raamatud, kollektsioneerimine, reisimine jmt); erinevad vaba aja veetmise viisid (mitmesugused tegevused, üksi, sõprade, pereliikmetega jmt) ja nendega seotud keskkond/ümbrus, esemed; eelistuste põhjendamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: erinevad tervislikku eluviisi tagavad tegevused (sport, puhkus, reisid jmt), tervislikud toitumisharjumused; sisseostud ja suhtlemine teeninduses (kauplus, turg, hotell, postkontor, rongi- ja bussijaam jmt); erinevate turvalisust tagavate käskude ja keeldude mõistmine (liiklus, loodus, linnakeskkond jmt); erinevate ametite ja nendega seonduvate töökohtadega seotud sõnavara, edasiõppevõimalused; igapäevase keskkonnakaitsega seotud tegevused (prügi sorteerimine, säästlikkus energiatarbimisel jt); eeskujud; spordialad, kirjanduse-, kunsti- ja muusikaliigid; kultuuride eripära ja mitmekultuurilisus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "MEEDIA",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>I kooliaste: tuntuimad meedialiigid ja meedia tarbimise eelistused.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: meedia (ajakirjandus, raadio, televisioon, internet) ja selle eakohased kasutamisvõimalused ja võimalikud ohud. Minu meedia tarbimise harjumused.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: meediast saadav kasu ja võimalikud ohud, meediažanrid, allikakriitilisus, suhtlemisnormid ja -eetika internetis.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "B-võõrkeele teemavaldkonnad näidetega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "MINA JA TEISED",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: enese ja kaaslaste tutvustus (nimi, rahvus, sugu, vanus, elukoht jmt) ning välimuse kirjeldus (kasv, kehaehitus, juuste ja silmade värv jmt), enesetunne (nt hea/halb tuju); ühised tegevused sõpradega (mis mulle ja mu sõpradele meeldib teha); viisakusväljendid (kellele mida ja kuidas öelda, kuidas käituda).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: võimed, tugevused ja nõrkused: mida oskan/suudan teha, milles olen tugev/nõrk (sama teiste kohta); iseloomu kirjeldav sõnavara; kehaosad, kuidas olla terve, kergemad terviseprobleemid (peavalu, palavik jmt); suhted sõprade ja lähikondlastega: nt sõprus- ja armastussuhted ja nendega seonduvad probleemid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KODU JA LÄHIÜMBRUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: pereliikmete ja lähisugulaste tutvustus (nimi, vanus, sugu) ning iseloomustus (amet, tegevusala, huvid); kodu asukoha lühikirjeldus (riik, linn/maakoht, mõni iseloomustav omadussõna).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: kodu/elukoha sõnavara (korter, maja, eri ruumid, oma tuba, sisustus jmt), koduümbrust kirjeldav sõnavara (majad, park, põld, teed, väljakud jmt); sündmuste ja tähtpäevade tähistamine perekonnas ja kodukohas; elukoha kirjeldus (maja, tuba jmt); kodukoha vaatamisväärsuste tutvustamine, pereliikmete kodused tööd ja tegevused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KODUKOHT EESTI",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: Eesti riigi nimi, asukoht, pealinn, oma rahvus, keel; linna ja maad iseloomustav põhisõnavara (maja, park, mets, mägi jmt); aastaaegade nimetused ja põhilised aastaaegade ilma kirjeldavad väljendid (hea/halb ilm, päikseline, vihmane jmt).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: Eesti lühikirjeldus (riigikord, naaberriigid jmt), põhiline sümboolika (lipp, rahvuslill ja,-lind jmt), põhilised tähtpäevad (jõulud, jaanipäev jmt) ja kultuuritavad (laulu- ja tantsupeod jmt); mõned tuntumad Eesti vaatamisväärsused; linna- ja maaelu kirjeldav sõnavara; ilmastikunähtused; käitumine ja tegevused looduses eri aastaaegadel; loodusrikkused (mets, puhas õhk, vesi, loomad jmt) ja nende hoidmine linnas ja maal (prügiliigid, materjalid, taaskasutamise võimalused jmt).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "RIIGID JA NENDE KULTUUR",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: õpitava keele riigi/riikide nimetused vastavas keeles, tuntumad tähtpäevad ning nendega seotud tavad.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: õpitava keele riigi/riikide olulisemad sümbolid, põhilised tähtpäevad ja kombed; mõned tuntumad sündmused ja saavutused ja nendega seotud nimed ajaloo- ja kultuurivaldkonnast; õpitava keelega seotud kultuuriruumi kuuluvate riikide lühitutvustus (pealinnad, rahvad, keeled, eripära jmt); Eesti ja õpitava keele riigi/riikide ja tuntumate maailmariikide nimed, rahvused ja keeled.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "IGAPÄEVAELU. ÕPPIMINE JA TÖÖ NING VABA AEG",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: päevakavajärgsed tegevused kodus, koolis (päevaplaan, kellaajad, õppeained, õppevahendid jmt); peamiste söögikordade nimed (hommik, lõuna, õhtu) ja mõned olulisemad söögid-joogid (kohv, tee, võileib, helbed jmt). Lihtsamad tegevused ja eelistused (lugemine, muusika kuulamine, mängimine, sport, lemmiktoit. lemmikloom jmt).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: transpordivahendid; koolitee ja koolipäeva kirjeldus; kooli ja klassi iseloomustav sõnavara, tunniplaan, koolivaheajad; toiduained, tervislik toiduvalik, igapäevane hügieen; sisseostud ja suhtlemine teeninduses (kauplus, turg, transport jmt); helistamine ning internetisuhtlus; tuntumad ametid, nendega seotud tegevused, edasiõppe võimalused (koolitüübid jmt; igapäevase keskkonnakaitsega seotud tegevused (prügi sorteerimine, säästlikkus energiatabimisel jt). Huvid (sport, filmid, raamatud, kollektsioneerimine, reisimine jmt); erinevad vaba aja veetmise viisid (üksi, sõprade, pereliikmetega jmt), eelistuste põhjendamine; erinevad spordialad, kirjanduse-, kunsti- ja muusikaliigid; kultuuride eripära ja mitmekultuurilisus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "MEEDIA",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>II kooliaste: tuntuimad meedialiigid ja meedia tarbimise eelistused.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>III kooliaste: meedia (ajakirjandus, raadio, televisioon, internet) ja selle eakohased kasutamisvõimalused ja võimalikud ohud. Minu meedia tarbimise harjumused. Allikakriitika. Suhtlemisnormid ja -eetika internetis.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Keeleteadmised",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Inglise keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Keeleteadmised: inglise keel</strong></p><p>Keelepädevus põhineb keeleteadmistel.</p><ul><li>Keeleteadmiste tabel näitab, millisel kooliastmel mingit keeleteadmist õpetama hakatakse, mitte selle omandamist. Keeleteadmiste tabel ei kajasta keelepädevuse kujunemist.</li><li>Keeleteadmisi tuleb vaadelda ühtsete keeleoskustasemete kontekstis, lähtudes sellest, milliseid grammatika komponente mingil tasemel kirjeldatud keeletoiminguteks võiks vaja minna.</li><li>Keelestruktuurid on esitatud kooliastmeti ja need on seotud sellel kooliastmel saavutatava keeleoskustasemega, seega tuleb neid käsitleda koos kooliastmete õpitulemustega osaoskustes.</li></ul><p><strong>Sulgudes olevad näited ei ole ammendav loetelu</strong></p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th></th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>LAUSEÕPETUS</td><td>Tähestik; suur ja väike täht nimedes; lihtlause; lihtsad küsimused ja küsisõnad; korraldused; viisakas sooviavaldus; enam kasutatavad rinnastavad sidesõnad.</td><td>Õigekiri õpitud sõnavara piires; sõnajärg; rindlaused; rinnastavad ja alistavad sidesõnad; kaudne kõne; kõrvallaused; tingimuslausete 0 ja I tüüp.</td><td>Põimlaused; fraaside ja lausete ühendamine; alistavad sidesõnad; tingimuslaused; kaudne kõne; kirjavahemärgid; kõrvallaused; küsijätke kasutamine.</td><td>Õigekirjasüsteemi tajumine; teksti sidusus; kirjavahemärgid; tingimuslausete segavormid; kaudsed küsimused; lauserõhk.</td></tr><tr><td>TEGUSÕNA</td><td>Present Simple, Present Continuous, Past Simple, going-to tulevik, can, tegevusnimed.</td><td>Future Simple, Past Continuous, Present Perfect; tuleviku väljendamine; reegli- ja ebareeglipärased tegusõnad.</td><td>Harvemini esinevad ebareeglipärased tegusõnad; isikuline tegumood.</td><td>Isikuline ja umbisikuline tegumood; unreal past; tegusõna mittepöördelised vormid; modaaltegusõnad minevikus.</td></tr></tbody></table>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>NIMISÕNA</td><td>Ainsus ja reeglipärane mitmus; omastav kääne; artiklid.</td><td>Ebareeglipärane mitmus; aluse ja öeldise ühildumine; artiklid.</td><td>Ainsuslikud ja mitmuslikud nimisõnad; liitnimisõnad; artiklid.</td><td>Kahekordne omastav kääne; ainsuse ja mitmuse erijuhud; nimisõnalised fraasid.</td></tr><tr><td>OMADUSSÕNA</td><td>Üldlevinud omadussõnad.</td><td>Võrdlusastmed ja võrdlemine.</td><td>Rahvuse ja kodakondsuse omadussõnad; võrdlusastmed.</td><td>Sõnajärg mitme täiendsõna puhul.</td></tr><tr><td>ASESÕNA</td><td>Isikulised ja omastavad asesõnad.</td><td>Siduvad, omastavad, enesekohased ja umbmäärased asesõnad.</td><td>Umbmäärased asesõnad.</td><td></td></tr></tbody></table>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>EESSÕNA</td><td>Enam kasutatavad eessõnad koha- ja ajamäärustes.</td><td>Aja-, koha- ja viisimääruste eessõnad.</td><td>Eessõnalised väljendid.</td><td>Nimi-, tegu- ja omadussõnalised fraasid eessõnadega.</td></tr><tr><td>ARVSÕNA</td><td>Põhiarvud 1−20; telefoninumbrid.</td><td>Põhi- ja järgarvud; lihtmurrud; kuupäevad.</td><td>Protsent; aritmeetilised põhitehted; kümnendmurrud.</td><td>Mõõtühikud.</td></tr><tr><td>MÄÄRSÕNA</td><td>Aja-, koha-, hulga- ja määramäärsõnad.</td><td>Määrsõnade moodustamine ja liigid.</td><td>Määrsõnade liigid ja võrdlemine.</td><td>Mitmetähenduslikud määrsõnad.</td></tr><tr><td>SÕNATULETUS</td><td></td><td>Arv-, nimi- ja määrsõna tuletusliited.</td><td>Liitsõnad ning ees- ja järelliited.</td><td>Ees- ja järelliited.</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Saksa keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Keeleteadmised: saksa keel</strong></p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>LAUSEÕPETUS</td><td>Lihtlause, küsi- ja käsklause, rinnastavad sidesõnad.</td><td>Liitlause ja alistavad sidesõnad.</td><td>Asesõnaliste sihitiste järjekord, kaudne küsimus ja kõrvallaused.</td><td>Rind- ja põimlaused erinevate sidesõnadega.</td></tr><tr><td>TEGUSÕNA</td><td>Präsens; Perfekt; Präteritum; modaaltegusõnad.</td><td>Perfekt; Präteritum; Konjunktiv II.</td><td>Futur I; Konjunktiv II; Passiv; infinitiiv.</td><td>Passiv; Plusquamperfekt; Konjunktiv II.</td></tr><tr><td>NIMISÕNA JA ARTIKKEL</td><td>Nimisõna sugu, mitmus ja käänamine.</td><td>Dativ ja artiklid.</td><td>Genitiv ja artiklid.</td><td>Soo määramine liidete alusel.</td></tr><tr><td>OMADUSSÕNA</td><td>Öeldistäide ja määrsõnaline kasutus.</td><td>Käänamine ja võrdlusastmed.</td><td>Dativ ja rektsioon.</td><td>Genitiv ja substantiveerimine.</td></tr><tr><td>ASESÕNA</td><td>Isikuline, omastav, küsiv, näitav ja umbmäärane asesõna.</td><td>Isikuline, omastav ja siduv asesõna.</td><td>Umbmäärane ja siduv asesõna.</td><td>Siduv asesõna.</td></tr><tr><td>EESSÕNAD</td><td>Aega ja kohta väljendavad eessõnad.</td><td>Eessõnad ja eessõnalised väljendid.</td><td>Eessõnad Akkusativi ja Dativiga.</td><td>Eessõnad Genitiviga.</td></tr><tr><td>ARVSÕNA</td><td>Põhi- ja järgarvsõnad.</td><td>Põhi- ja järgarvsõnad, lihtmurrud, kellaaeg.</td><td></td><td></td></tr><tr><td>SIDESÕNA</td><td>Rinnastavad sidesõnad.</td><td>Alistavad sidesõnad.</td><td>Rinnastavad ja alistavad sidesõnad.</td><td>Alistavad sidesõnad.</td></tr><tr><td>SÕNATULETUS</td><td>Liitsõnade moodustamine.</td><td>Tuletusliited.</td><td>Tuletusliited ja konversioon.</td><td>Tuletusliited.</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Prantsuse keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Keeleteadmised: prantsuse keel</strong></p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>LAUSEÕPETUS</td><td>Lihtlause, eitav lause, küsilause, sidesõnad.</td><td>Liht- ja liitlause, eitav lause, küsimuse moodustamine.</td><td>Liitlause konstruktsioonid, loogilised seosed, tingimuslaused ja kaudne kõne.</td><td>Eitav lause, tingimuslaused ja kaudne kõne.</td></tr><tr><td>TEGUSÕNA</td><td>Reeglipärased ja ebareeglipärased tegusõnad; présent.</td><td>Enesekohased tegusõnad; présent, passé composé, imparfait ja futur.</td><td>Aegade ja kõneviiside moodustamine ning kasutamine.</td><td>Passé antérieur, futur antérieur, conditionnel ja subjonctif.</td></tr><tr><td>NIMISÕNA</td><td>Sugu ja mitmuse moodustamine.</td><td>Sugu sõnalõpu järgi ja ebareeglipärane mitmus.</td><td>Sõnamoodustus.</td><td>Liitsõnad ja lühendid.</td></tr><tr><td>ARTIKLID</td><td>Määravad ja umbmäärased artiklid.</td><td>Määravad, umbmäärased ja partitiivsed artiklid.</td><td>Artiklite kasutamine.</td><td>Artikli ja determinantide süsteem.</td></tr><tr><td>OMADUSSÕNA</td><td>Ühildumine nimisõnaga.</td><td>Naissoo, mitmus ja võrdlusastmed.</td><td>Erandlikud omadussõnad ja adjectif verbal.</td><td>Koht lauses ja umbmäärased omadussõnad.</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Vene keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Keeleteadmised: vene keel</strong></p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>GRAMMATIKA</td><td>Vene keele põhilised sõnaliigid ja lihtlause.</td><td>Sõnavormid, lause liikmed ja sõnajärg.</td><td>Käänded, tegusõnavormid ja lauselaiendid.</td><td>Keerukamad vormid ning lausekonstruktsioonid.</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soome keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Keeleteadmised: soome keel</strong></p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>HÄÄLDAMINE</td><td>Tähestik ja hääldusalused.</td><td>Pikad ja lühikesed vokaalid ning konsonandid.</td><td></td><td></td></tr><tr><td>TEGUSÕNAD. AJAD</td><td>Lihtsamad tegusõnad, olla-verbi pööramine ja olevik.</td><td>Verbitüübid, olevik, lihtminevik ja nud-kesksõna.</td><td>Minevik, täisminevik, enneminevik ja minen-vorm.</td><td>Kõik ajavormid ning ma-infinitiiv.</td></tr></tbody></table>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>TEGUMOED. KÕNEVIISID</td><td>Kindel ja käskiv kõneviis.</td><td>Kindel, käskiv ja umbisikuline tegumood.</td><td>Umbisikuline tegumood ja tingiv kõneviis.</td><td></td></tr><tr><td>KÄÄNDSÕNA. NIMISÕNA</td><td>Nimisõna kasutamine fraasides ja mitmus.</td><td>Nimisõna käänamine ja tüvevaheldus.</td><td>Käänamine ainsuses ja mitmuses.</td><td></td></tr><tr><td>OMADUSSÕNA</td><td>Algvõrre.</td><td>Võrdlusastmed.</td><td>Võrdlusastmete käänamine.</td><td></td></tr><tr><td>ARVSÕNA</td><td>Põhiarvsõnad.</td><td>Arvsõnade käänamine ja järgarvud.</td><td>Arvsõnade käänamine.</td><td></td></tr><tr><td>ASESÕNA</td><td>Isikulised ja küsivad asesõnad.</td><td>Näitavad ja siduvad asesõnad.</td><td>Umbmäärased asesõnad.</td><td></td></tr><tr><td>MUUTUMATUD SÕNAD</td><td>Sidese-, ees- ja tagasõnad, määrsõnad.</td><td>Sidese-, ees- ja tagasõnad, määrsõnad.</td><td>Sidese-, ees- ja tagasõnad, määrsõnad.</td><td></td></tr><tr><td>AJAVÄLJENDAMINE</td><td>Nädalapäevad, kellaaeg, kuud ja aastaajad.</td><td>Ajaväljendite kasutamine lauses.</td><td></td><td></td></tr><tr><td>LAUSEÕPETUS</td><td>Küsimused ja küsimussõnad.</td><td>Küsimussõnade ja vastuse seos.</td><td>Keerulisemad lausekonstruktsioonid.</td><td></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hispaania keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Keeleteadmised: hispaania keel</strong></p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustasemel võõrkeel</th></tr></thead><tbody><tr><td>NIMISÕNA</td><td>Mees- ja naissoost nimisõnad; mitmus.</td><td>Erandlikud nimisõnad ja mitmus.</td><td>Sõnade moodustamine tuletiste abil.</td></tr><tr><td>ARTIKKEL</td><td>Umbmäärased ja määravad artiklid.</td><td>Artiklite kasutamine ja erandid.</td><td>Neutraalne artikkel lo.</td></tr><tr><td>OMADUSSÕNA</td><td>Sugu, mitmus, paiknemine ja ühildumine.</td><td>Võrdlusastmed.</td><td>Sõnamoodustus ja superlativo absoluto.</td></tr><tr><td>ARVSÕNA</td><td>Põhiarvsõnad.</td><td>Järgarvud ja ühildumine.</td><td>Järgarvude lühenemine.</td></tr><tr><td>ASESÕNA</td><td>Isikulised, enesekohased, omastavad ja näitavad asesõnad.</td><td>Asesõnade vormid, otsene ja kaudne sihitis.</td><td>Otse- ja kaudsihitise kooskasutamine.</td></tr><tr><td>EESSÕNA</td><td>Levinumad eessõnad.</td><td>Verbidega kasutatavad eessõnad.</td><td></td></tr><tr><td>MÄÄRSÕNAD</td><td>Levinumad määrsõnad.</td><td>−mente-lõpulised määrsõnad ja võrdlusastmed.</td><td></td></tr><tr><td>SIDESÕNAD</td><td>Peamised sidesõnad.</td><td>Sidesõnad ja teksti sidustavad väljendid.</td><td>Sidesõnad subjunktiivi nõudvates lausetes.</td></tr><tr><td>TEGUSÕNA. AJAD</td><td>Kindla kõneviisi olevik ja sagedased ebareeglipärased tegusõnad.</td><td>Minevikuajad ja kestvad vormid.</td><td>Grammatiline tulevik ja mineviku aegade kasutamine.</td></tr><tr><td>TEGUMOED. KÕNEVIISID</td><td>Kindel kõneviis.</td><td>Käskiv kõneviis ja umbisikulised konstruktsioonid.</td><td>Tingiv ja subjunktiivi olevik.</td></tr><tr><td>LAUSEÕPETUS</td><td>Sõnajärg, liitlaused ja küsisõnad.</td><td>Küsilaused ja rind- ning põimlaused.</td><td>Tingimuslaused ja kaudne kõne.</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Rootsi keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Keeleteadmised: rootsi keel</strong></p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th></tr></thead><tbody><tr><td>LAUSEÕPETUS</td><td>Liht-, eitav ja küsilause, lühivastus ja lihtsad liitlaused.</td><td>Pea- ja kõrvallause, käskiv kõneviis ja kaudne kõne.</td><td>Sõnajärg, tingimuslaused ja s-passiiv.</td></tr><tr><td>TEGUSÕNAD</td><td>Tegevusnimed, modaaltegusõnad, minevikuvormid ja partikkelverbid.</td><td>Ajavormid, enesekohased ja depoonensverbid.</td><td>Retsiprooksed ning depoonensverbid, s-passiiv ja kesksõnad.</td></tr><tr><td>NIMISÕNAD</td><td>Artikkel, vormid ja mitmus.</td><td>Ühildumine ja ebareeglipärased nimisõnad.</td><td>Ebareeglipärased nimisõnad ja substantiverade adjektiv.</td></tr><tr><td>ASESÕNAD</td><td>Isikuline, omastav, näitav ja umbisikuline asesõna.</td><td>Omastav enesekohane ja näitav asesõna.</td><td>Umbisikuline, näitav ja siduv asesõna.</td></tr><tr><td>OMADUSSÕNAD</td><td>Ühildumine nimisõnaga.</td><td>Ühildumine ja võrdlusastmed.</td><td>Vähem kasutatavad vormid ja kesksõnad.</td></tr><tr><td>MÄÄRSÕNAD</td><td>Lause-, koha- ja ajamäärsõnad.</td><td>Lause- ja kohamäärsõnad.</td><td>Määrsõna moodustamine ja siduv kohamäärus.</td></tr><tr><td>EESSÕNAD</td><td>Eessõnad ja eessõnafraasid.</td><td>Eessõnad ajaväljendites ja rektsioonis.</td><td>Harvem esinevad eessõnad ja eessõnafraasid.</td></tr><tr><td>SIDESÕNAD</td><td>Rinnastavad sidesõnad.</td><td>Sidesõnad pea- ja kõrvallauses.</td><td>Rinnastavad ja alistavad sidesõnad.</td></tr><tr><td>ARVSÕNAD</td><td>Põhi- ja järgarvsõnad.</td><td>Järgarvsõnad ja arvsõnad nimisõnana.</td><td>Arvsõnad nimisõnana; murdarvud.</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läti keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Keeleteadmised: läti keel</strong></p><p>Keelepädevus põhineb keeleteadmistel.</p><p><strong>NB! Sulgudes olevad näited ei ole ammendav loetelu</strong></p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th></tr></thead><tbody><tr><td>RÕHK JA HÄÄLDAMINE</td><td>Tähestik, pikad vokaalid, palataliseeritud konsonandid, hääldus ja sõnarõhk.</td><td></td><td></td></tr><tr><td>NIMISÕNA</td><td>Sõnalõputunnused, käändkonnad, mitmus ja ühildumine.</td><td>Seitse käänet ja nimisõnade käänamine.</td><td>Tuletamine, lõpuvormid ja deminutiivid.</td></tr><tr><td>OMADUSSÕNA</td><td>Sugu, arv ja algvõrre.</td><td>Võrdlusastmed ja geograafilised nimetused.</td><td>Ühildumine, tuletamine ja õigekiri.</td></tr><tr><td>ARVSÕNA</td><td>Põhiarvsõnad.</td><td>Järgarvud ja ühildumine.</td><td>Järgarvude käänamine.</td></tr><tr><td>ASESÕNA</td><td>Isikulised, näitavad ja omastavad asesõnad.</td><td>Mitmuse vormid.</td><td>Käänamine.</td></tr><tr><td>KAASSÕNAD</td><td>Ees- ja tagasõnad.</td><td>Nimisõna ja omadussõna koos kaassõnaga.</td><td>Instrumentaal.</td></tr><tr><td>MÄÄRSÕNAD</td><td>Levinumad määrsõnad.</td><td>Võrdlusastmed.</td><td></td></tr><tr><td>SIDESÕNAD</td><td>Levinumad sidesõnad.</td><td></td><td></td></tr><tr><td>TEGUSÕNA AJAD</td><td>Ebareeglipärased tegusõnad ning olevik, minevik ja tulevik.</td><td>Konjugatsioonid ja ajavormid.</td><td>Täis- ja enneminevik ning tuletamine.</td></tr><tr><td>TEGUMOED. KÕNEVIISID</td><td>Kindel ja käskiv kõneviis.</td><td>Isikuline tegumood ja tingiv kõneviis.</td><td>Tingiv kõneviis.</td></tr><tr><td>LAUSEÕPETUS</td><td>Sõnajärg, lühivastused, liitlaused ja küsisõnad.</td><td>Küsi- ja hüüdlaused, rind- ja põimlaused.</td><td>Põim- ja rindlaused ning keerulisemad küsimuskonstruktsioonid.</td></tr></tbody></table>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

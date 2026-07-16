@@ -1,0 +1,69 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Gümnaasiumi matemaatika laia kursuse õppe kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetuse peamine eesmärk on matemaatikapädevuse kujundamine. Laias matemaatikas käsitletakse mõisteid ja meetodeid, mida on vaja matemaatikateaduse olemusest arusaamiseks. Rakendusülesannete lahendamise kõrval on tähtsal kohal tõestamine ja põhjendamine. Laia matemaatika eesmärgi saavutamiseks vajalik keskkond luuakse matemaatika mõistete, sümbolite, omaduste ja seoste, reeglite ja protseduuride käsitlemise ning intuitsioonil ja loogilisel arutelul põhinevate mõttekäikude esitamise kaudu. Lai matemaatika annab õpilasele vahendid ja oskused rakendada vajalikke matemaatilisi meetodeid teistes õppeainetes.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Gümnaasiumi matemaatika laia kursuse õppe korraldamisel tuleb lähtuda järgmistest ainekavas märgitud põhiseisukohtadest",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Lai matemaatika annab ettekujutuse matemaatika tähendusest ühiskonna arengus ning selle rakendamisest igapäevaelus, tehnoloogias, majanduses, loodus- ja täppisteadustes ning muudes ühiskonnaelu valdkondades. Selle tagamiseks lahendatakse rakendusülesandeid, kasutades vastavat IKT tarkvara. Tähtsal kohal on tõestamine ja põhjendamine.</li><li>Laias matemaatikas käsitletakse mõisteid ja meetodeid, mida on vaja matemaatikateaduse olemusest arusaamiseks. Selleks vajalik keskkond luuakse matemaatika mõistete, sümbolite, omaduste ja seoste, reeglite ja protseduuride käsitlemise ning intuitsioonil ja loogilisel arutelul põhinevate mõttekäikude esitamise kaudu.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Matemaatika õpetusega taotletakse, et gümnaasiumi lõpuks kujuneks välja vastutustundlik ja ennastjuhtiv õppija, kes:",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "arutleb ja argumenteerib loogiliselt",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab probleemile matemaatilise lahendustee ja matemaatika vahendid selle lahendamiseks",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "modelleerib probleemi matemaatiliselt, st tõlgib probleemi matemaatika keelde",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab probleemide lahendamisel ja saadud tulemuste esitlemisel erinevaid matemaatilisi esitusviise ja abivahendeid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab oskuslikult matemaatika sümboolikat ja keelt",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "suhtleb matemaatilistel teemadel, selgitab esitatud lahendusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tõlgendab saadud tulemusi, andes neile ka oma hinnangu.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "text",
+              "html": "<ol><li>Läbiv teema „Elukestev õpe ja karjääri kujundamine“</li><li>Läbiv teema „Keskkond ja jätkusuutlik areng“</li><li>Läbiv teema „Kodanikualgatus ja ettevõtlikkus“</li><li>Läbiv teema „Kultuuriline identiteet“</li><li>Läbiv teema „Teabekeskkond ja meediakasutus“</li><li>Läbiv teema „Tehnoloogia ja innovatsioon“</li><li>Läbiv teema „Tervis ja ohutus“</li><li>Läbiv teema „Väärtused ja kõlblus“</li></ol>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

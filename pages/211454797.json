@@ -1,0 +1,1750 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursus „Perekonnaõpetus“",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppeaine kirjeldus.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimeseõpetuse perekonnaõpetuse kursuses keskendutakse perekonnaelu psühholoogiale, sotsioloogiale, eetikale, perekonnaõigusele, majandamisele ja perekonna rollile ühiskonnas. Kursus toetab õpilase enesearengut, aitab mõtestada ja analüüsida oma rolli perekonnas, arendada vastutustunnet nii isiklikus kui ka ühiskonnaelus. Perekonnaõpetuse kursus kujundab eelkõige õpilaste enesemääratlus-, sotsiaalse ja väärtuspädevuse arenemist.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilane õpib tundma ühiskonnas toimuvaid demograafilisi, sotsiaalseid, majanduslikke ja ajaloolisi protsesse ning nähtusi, mis mõjutavad pereelu struktuure ja protsesse. Õpe valitakse rõhuasetusega elulähedasele ainekäsitlusele, toetades õpilase arusaama õpitava vajalikkusest.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õppe ja metoodika seisukohalt on tähtsad:</p><ol><li>mitmekesised õppemeetodid, sh aktiivõppemeetodid ning praktilised ülesanded;</li><li>üksi- ja ühisõppe võimaldamine;</li><li>õppe sidumine koolivälise ning igapäevaeluga, nt projektitööd, uurimistööd, kohtumised erinevate inimestega jne;</li><li>mitmekesised õpitulemuste kontrollimise ja hindamise vormid.</li></ol>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Väärtuskasvatus ja hoiakute kujundamine toimub üksteist mõistvas õhkkonnas, et arendada õpilaste positiivset mõtlemist oma arengu- ja toimetulekuvõimalustest. Soodne sotsiaalne õppekeskkond toetub eelkõige õpilaste isikupärale ja isiklike seisukohtade austamisele ning võimalusele vabalt arvamust avaldada, olla algatusvõimeline, osaleda ja tegutseda nii üksi kui ka koos teistega.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Gümnaasiumi inimeseõpetuse kursus keskendub paarisuhtele, perekonnaga seotud teemadele ning vanemlusele. Õpitakse, kuidas luua ja hoida toetavaid inimsuhteid. Oluline rõhk on perekonna väärtustamisel, enda rolli teadvustamisel suhetes ja tulevase lapsevanemana. Kujundatakse valmisolekut võtta vastutus oma suhete eest. Kursuse jooksul analüüsitakse ühiskonna mõju perekonnaelule.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Gümnaasiumi lõpuks taotletavad teadmised, oskused ja hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "mõistab, kuidas ühiskond mõjutab pereväärtusi, traditsioone, hoiakuid, sealhulgas laste kasvatamist ja suhtumist seksuaalsusesse, mõistab, kuidas on kooselu vormid ja perekonna roll aja jooksul muutunud",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab inimese arengu võimalusi perekonnas, paarisuhtes ja lapsevanemana, võtab vastutuse oma rolli eest, arvestades teiste pereliikmetega",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab, kuidas pereelu, sealhulgas abielu on õigusaktidega reguleeritud, oskab sellega igapäevaelus arvestada ja vajaduse korral leida asjatundlikku õigusabi",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab suhetega kaasnevaid õigusi ja kohustusi, inimeste võrdse kohtlemise vajalikkust ning võtab vastutuse oma suhete eest",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab teaduspõhiseid allikaid perekonna, suhete ja tervisega seotud info ja abivõimaluste leidmisel",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab inimliku läheduse ja armastuse erinevaid avaldumisviise",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab seksuaalse arengu individuaalsust",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab paarisuhete dünaamikat ja võtab vastutuse",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab perekonna rolli traditsioonide hoidja ja kandjana, väärtustab sotsiaalsete suhete, tavade ja kommete toetavat mõju peresuhetele",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab tervisliku eluviisi ja turvalise käitumise tähtsust inimese elus ja iseenda sotsiaalset vastutust tervisekäitumises",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "on teadlik tarbija ja oskab koostada perekonna eelarvet, arvestades pere võimaluste ja pereliikmete vajadustega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab vanemlikku vastutust erinevas vanuses laste arengu toetamisel",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Perekond ühiskonnas",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Selgitab näidete abil, kuidas ühiskond ja kultuur on läbi ajaloo mõjutanud pereväärtusi ja -traditsioone ning laste kasvatamise põhimõtteid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid erinevatest kooseluvormidest ajaloos ja tänapäeval ning analüüsib, kuidas need täidavad perekonna ülesandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "A nalüüsib ühiskonna ja kultuuri, sh traditsioonide mõju seksuaalsusele ja seksuaalsuhetele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Perekond, perekonna liigitused. Perekonna ülesanded. Perekonna minevik, olevik ja tulevik. Pereväärtused, traditsioonid, hoiakud (sh laste kasvatamine ja suhtumine seksuaalsusesse) läbi ajaloo. Kooselu ja kooselu vormid. Kooselu vormid läbi ajaloo täitmaks perekonna ülesandeid.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Usaldusväärsed infoallikad inimese turvalise tervisekäitumise ja terviseedenduses",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Kasutab usaldusväärseid allikaid tervise, suhete ja sotsiaalmajanduslike küsimuste kohta info otsimisel ja probleemide lahendamisel, järgides autoriõiguse ja intellektuaalse omandi kaitse põhimõtteid, viidates ja refereerides nõuetekohaselt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursust läbiv teema.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Pereliikmete tervist mõjutavad tegurid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid pereliikmete füüsilist, emotsionaalset, sotsiaalset ja vaimset tervist mõjutavatest teguritest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pereliikmete tervist (füüsiline, emotsionaalne, sotsiaalne, vaimne) mõjutavad peresisesed ja perevälised tegurid. Inimese tervist mõjutavad riski- ja kaitsetegurid (individuaalsed omadused ja käitumismustrid, sotsiaal-majanduslikud olud ja keskkonnategurid).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Pereplaneerimine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Analüüsib planeeritud ja planeerimata rasedusega kaasnevaid valikuid ning neid mõjutavaid tegureid, oskab leida vajaduse korral abi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pereplaneerimine ja seda mõjutavad tegurid. Planeeritud ja planeerimata rasedus. Nõu ja abi pakkuvad asutused noortele seoses rasedusest hoidumise ja pereplaneerimisega.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Suhtevägivald",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Teab, mis on kohtingu-, lähisuhte- ja seksuaalvägivald ning mis on inimkaubandus ja kust otsida vajaduse korral abi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Analüüsib kohtingu- ja lähisuhtevägivalla põhjusi ja tagajärgi ning ennetamise ja abi saamise võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suhtevägivald (sh lähisuhte-, kohtingu ja seksuaalvägivald) ja selle ennetamise võimalused. Suhtevägivalla põhjused ja tagajärjed indiviidi, pere ja kogukonna tasandil ning abi saamise võimalused. Inimkaubandus ja prostitutsioon.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Sõltuvus peres",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Analüüsib, kuidas mõjutab pereliikme sõltuvushäire peresuhteid, kirjeldab kaassõltuvuse olemust ja teab, kust vajaduse korral abi otsida.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõltuvus (sh kaassõltuvus, suhtesõltuvus) peres kui süsteemis ja abi saamise võimalused.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Perekonna roll tavade, kommete ja traditsioonide hoidja ja kandjana",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Selgitab, milles seisneb põlvkondi ühendavate sidemete tugevdav ja toetav mõju pereelule",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid peretraditsioonidest ning selgitab tavade ja kommete tähtsust perekonnasuhetes",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Analüüsib enda huvide, hobide ja ettevõtmiste toetavat mõju enesearengule ja peresuhetele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Perekonna roll tavade, kommete ja traditsioonide hoidja ja kandjana ning põlvkondi ühendavate sidemete tugevdajana. Vastutus oma rolli eest peres arvestades pereliikmetega.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Pereliikmete rollid, ülesanded ja vajadused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Analüüsib, kuidas paarisuhe ja ema / isa roll mõjutavad inimese arengut",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Analüüsib, kuidas sõltub perekonna ülesannete täitmine igast pereliikmest, millised on pereliikmete võimalused üksteist toetada ja abistada, millised on pereliikmete õigused oma ajale, ruumile ja materiaalsetele kulutustele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pereliikmete rollid, ülesanded ja vajadused ning suhted (sh vägivaldsed suhted) ja toetus perekonna ülesannete täitmisel. Toetavad paari- ja peresuhted. Vastutus oma rolli eest peres arvestades pereliikmetega.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Pereelu sätestav seadusandlus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid pereelu, sh abielu ja laste elu reguleerivatest õigusaktidest ja analüüsib, kuidas need sätestavad perekonnaliikmete õigusi ja kohustusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pereelu (sh abielu) sätestav seadusandlus ja pereliikmete õigused ja kohustused.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Perepoliitilised meetmed perede toetamisel",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid riiklikest institutsioonidest, mis tegelevad perepoliitika elluviimisega, toob näiteid riikliku perepoliitika rakendamisest, sh toetustest ja teenustest",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Lähisuhe ja selle olemus peres",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Teab, et lähisuhe, sh abielu põhineb vastastikusel austusel ning partnerite õiguste ja vajadustega arvestamisel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab lähisuhete ja sotsiaalse võrgustiku tähtsust inimese elus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suhe. Paarisuhe. Lähisuhte ja selle olemus peres (sh abielus). Pere kui sotsiaalne süsteem laiemas sotsiaalses võrgustikus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Suhete katkemine peres ja kooselus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Analüüsib lahkumineku ja abielulahutuse põhjusi, tagajärgi ning oskab vajaduse korral leida psühholoogilist ja õigusabi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab leina olemust ja kirjeldab leinast ülesaamise võimalusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suhete katkemine (sh lahkuminek ja abielulahutus) peres ja kooselus. Lein ja leinaga toimetulek. Abi saamise võimalused.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Inimõigused ja laste õigused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Mõistab iga inimese õigust võrdsele ja lugupidavale kohtlemisele",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, et lähisuhe, sh abielu põhineb vastastikusel austusel ning partnerite õiguste ja vajadustega arvestamisel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid lapse õigustest ja abi saamise võimalustest laste õiguste kaitsmisel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimõigused. Suhetega kaasnevad õigused ja kohustused inimeste võrdsel kohtlemisel. Laste õigused ja lastekaitse. Abi saamise võimalused.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Inimliku läheduse ja armastuse erinevad avaldumisvormid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Mõtestab enda kogemusest lähtuvalt armastuse tähendust, paarisuhte ja seksuaalse läheduse dünaamikat ning neid mõjutavaid tegureid, õigusi ja kohustusi suhte erinevates etappides",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "A nalüüsib seksuaalsuhet kui inimliku läheduse avaldumisvormi ja selle seotust armastusega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimliku läheduse ja armastuse erinevad avaldusmisvormid. Armastus paarisuhtes (sh seksuaalsuhtes). Paarisuhte dünaamika. Seksuaalsuhte dünaamika: seksuaalsuse trepp.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Terved ja turvalised seksuaalsuhted",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Teab, et turvaline ja vastastikku rahuldustpakkuv seksuaalkäitumine põhineb partnerite võrdsel kokkuleppel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab soostereotüüpide mõju inimese arengule ja seksuaalkäitumisele",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Terved ja turvalised seksuaalsuhted. Nõusolek ja vastutus seksuaalsuhetes. Soosterotüübid, meedia ja ühiskond.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Pere eelarve koostamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Arvestab perekonna eelarve kavandamisel pereliikmete vajadusi, pere majanduslikku olukorda ja võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pere eelarve koostamine arvestades pereliikmete vajadusi ja pere võimalusi.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Koduse kasvatuse mõju lapse arengule",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Selgitab koduse kasvatuse mõju lapse arengule",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Analüüsib lapse ja vanema vahelise kiindumussuhte kujunemist ning kasvatusstiilide mõju sellele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koduse kasvatuse (sh erinevate kasvatusstiilide) mõju lapse arengule. Lapse ja vanema vaheline kiindumussuhte tähtsus lapse turvalisuse allikana peres.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikad ja lisamaterjalid",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/100047/polvkond-piiri-taga/",
+          "title": "Põlvkond piiri taga”"
+        },
+        {
+          "kind": "file",
+          "src": "https://maailmakool.ee/wp-content/uploads/2022/12/Polvkond_piiri_taga_dokfilmi_tunnikava.pdf",
+          "title": "tunnikava"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.inimoigustegiid.ee/ee/teemad/perekond",
+          "title": "Perekond"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.inimoigustegiid.ee/ee/teemad/perekond/mis-on-perekond/erinevad-peremudelid",
+          "title": "Erinevad peremudelid"
+        },
+        {
+          "kind": "link",
+          "href": "http://Tarkvanem.ee",
+          "title": "Tarkvanem.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/suhe-lapsega/erinevad-peremudelid/",
+          "title": "Erinevad peremudelid"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/tg.edu.ee/perekonnaopetus/1-perekond/1-2-perekonna-%C3%BClesanded-ja-t%C3%A4htsus",
+          "title": "https://sites.google.com/tg.edu.ee/perekonnaopetus/1-perekond/1-2-perekonna-ülesanded-ja-tähtsus"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/13330603",
+          "title": "Perekonnaseadus"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/106072023007",
+          "title": "RT I, 06.07.2023, 7"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/24304",
+          "title": "RT 1992, 26, 349"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/106122014001",
+          "title": "RT I, 06.12.2014, 1"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/116102014001",
+          "title": "RT I, 16.10.2014, 1"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/tuul-ja-pajud-ehk-perekond-19-sajandist-tanapaevani/",
+          "title": "Tuul ja Pajud ehk perekond 19. sajandist yänapäevani"
+        },
+        {
+          "kind": "link",
+          "href": "http://rileht.ee",
+          "title": "rileht"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/tuumikperega-ellujaamismatkal/",
+          "title": "Tuumikperega ellujäämismatkal"
+        },
+        {
+          "kind": "link",
+          "href": "http://Muurileht.ee",
+          "title": "Müürileht, 6. aprill 2020."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/lapsevanemad-kes-murravad-muute/",
+          "title": "Lapsevanemad, kes murravad müüte"
+        },
+        {
+          "kind": "link",
+          "href": "https://feministeerium.ee/millest-juhindus-noukogude-inimeste-seksuaalkasvatus/",
+          "title": "Millest juhindus nõukogude inimeste seksuaalkasvatus?"
+        },
+        {
+          "kind": "link",
+          "href": "http://Femininisteerium.ee",
+          "title": "Femininisteerium"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/onneuimast-tragoodiani-peremustritest-kinolinal/",
+          "title": "Õnneuimast tragöödiani – peremudelitest kinolinal"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/noukogude-kino-naised-sojas-ja-tool-uhismajandis-ja-perekonnas/",
+          "title": "Nõukogude kino naised: sõjas ja tööl, ühismajandis ja perekonnas."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/ma-armastasin-terroristi-maastikuvaade-lahisuhtevagivalla-portreteerimisele/",
+          "title": "Ma armastasin terrorosti. Maastikuvaade lähisuhtevägivalla portreteerimisele."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/oige-keha-vale-keha-ja-nende-kultuuriline-tahendus-eestis/",
+          "title": "Õige keha, vale keha ja nende kultuuriline tähendus Eestis."
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/13940/sitke-tough/",
+          "title": "Sitke"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14432-Perekonna-funktsioonid",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13964-Perekonna-ajalugu",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13884-Kooseluvormid",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14042-Kooseluvormide-mitmekesisus",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "http://Learningapps.org",
+          "title": "Learningapps.org"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/1702032"
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/paarisuhe/pereelu-arengufaasid/",
+          "title": "Pereelu arengufaasid."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/kit/395/chapter/21337",
+          "title": "Terved ja turvalised suhted."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/394",
+          "title": "Terved ja turvalised suhted."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/395",
+          "title": "Terved ja turvalised suhted."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/kuidas-soorollid-on-seotud-perevagivallaga/",
+          "title": "Kuidas soorollid on seotud perevägivallaga?"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/gender/book/export/html/34019",
+          "title": "Stereotüüpide kujunemine"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/sensiclass",
+          "title": "https://sisu.ut.ee/"
+        },
+        {
+          "kind": "link",
+          "href": "https://opleht.ee/2016/05/soostereotuubid-soodustavad-vagivalda/",
+          "title": "Soostereotüübid soodustavad vägivalda"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.enu.ee/lisa/513_soostereotyybid.pdf",
+          "title": "Soostereotüübid varjavad individuaalsuse ja piiravad valikuvõimalusi."
+        },
+        {
+          "kind": "link",
+          "href": "https://kiripilt.ee/portfoolio/lgbt-uhingu-kaardimang/",
+          "title": "Minu pilt, sinu silt.Kaasava noorsootöö õppemäng."
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/100045/videoloeng-kas-kliimakriisi-ees-on-koik-vordsed/",
+          "title": "“Kas kliimakriisi ees on kõik võrdsed?"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/100046/sugu-ja-maailm/",
+          "title": "veebikursusest “Sugu ja maailm”"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/13935/sotsiaalne-eksperiment-leedus/",
+          "title": "Sotsiaalne eksperiment Leedus"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/13932/kuula/",
+          "title": "https://maailmakool.ee/materjalid/13932/kuula/"
+        },
+        {
+          "kind": "link",
+          "href": "http://Maailmakool.ee",
+          "title": "Maailmakool.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19161-Tunded-ja-pusisuhe/223429#223430-Soostereotuubid",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19168-Armastus-ja-seksuaalsus/223544#223546-Soolised-stereotuubid-Sooline-vordoiguslikkus",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14043-Elukaar",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14059-Perekond-Perekonna-tahtsus-Kursust-sissejuhatav-tund",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://inimareng.ee/et/eluviisi-ja-vaimse-tervise-seosed-inimese-elukaarel/",
+          "title": "Eluviisi ja vaimse tervise seosed inimese elukaarel."
+        },
+        {
+          "kind": "link",
+          "href": "https://inimareng.ee/et/peresuhted-ning-pereliikmete-hinnang-oma-vaimsele-tervisele-ja-heaolule/",
+          "title": "Peresuhted ning pereliikmete hinnang oma vaimsele tervisele ja heaolule"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/seksuaalne-vaarkohtlemine-sunnib-kollektiivse-pingutuse-tulemusena-intervjuu-anna-frankiga/",
+          "title": "Seksuaalne väärkohtlemine sünnib kollektiivse pingutuse tulemusena. Intervjuu Anna Frankiga"
+        },
+        {
+          "kind": "file",
+          "src": "https://maailmakool.ee/wp-content/uploads/2019/11/Naiste-umberloikamine-%E2%80%93-Edna-Adan-Ismail.pdf",
+          "title": "Naiste ümberlõikamine – Edna Adan Ismail"
+        },
+        {
+          "kind": "file",
+          "src": "https://maailmakool.ee/wp-content/uploads/2019/11/Ohutu-sunnitus-Edna-Adan-Ismail.pdf",
+          "title": "Ohutu sünnitus – Edna Adan Ismail"
+        },
+        {
+          "kind": "link",
+          "href": "https://tervispluss.delfi.ee/artikkel/120223459/kuula-seksuaaltervise-abc-mis-teeb-noortele-meestele-muret?fbclid=IwAR3wmJxSo-15ohuNOSWW-GYk-sXJHQL5PwnQ95yTPFYKw7dTAJ12sJlgKpg",
+          "title": "Seksuaaltervise ABC: mes teeb noortele meestele muret."
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/noorte-noustamiskeskused",
+          "title": "noorte nõustamiskeskusesse"
+        },
+        {
+          "kind": "link",
+          "href": "http://Seksuaaltervis.ee",
+          "title": "Seksuaaltervis.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/rasedus",
+          "title": "Rasedus."
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/seksuaaltervise-abc-podcast#sektsioon-3",
+          "title": "Milline on parim rasestumisvastane meetod?"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.tiktok.com/@seksuaaltervis.ee/video/7034611188323372293",
+          "title": "meetodite tõhusus"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.tiktok.com/@seksuaaltervis.ee/video/7026358428163493126",
+          "title": "pikatoimelised meetodid"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.just.ee/eapiir",
+          "title": "Seksuaalse enesemääramise eapiir."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/@julgeraakidakummonseks7914/videos",
+          "title": "Julge rääkida: Kumm On Seks"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/5669-Rasestumisvastased-vahendid",
+          "title": "Rasestumisvastased vahendid"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eesti.ee/et/perekond/rasedus/raseduse-katkestamine-ehk-abort",
+          "title": "Raseduse katkestamine ehk abort."
+        },
+        {
+          "kind": "link",
+          "href": "http://Eesti.ee",
+          "title": "Eesti.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/925400?leiaKehtiv",
+          "title": "Raseduse katkestamise ja steriliseerimise seadus"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14278-Pusisuhtest-tulenev-vastutus-Anna-on-rase-Abordi-poolt-ja-vastu",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14279-Pereplaneerimine-Kontraseptsiooni-muudid",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.taskutark.ee/test/pereplaneerimine-leia-oiged-vaited-mis-seletavad-pereplaneerimise-moistet/",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/6802-Lara-on-rase",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/kit/395/chapter/22054",
+          "title": "Tunnikava."
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=B3Z6jc8C-HA"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/@1elu758",
+          "title": "Video"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/playlist?list=PL5ryenLAx4rskDAKgZdGg_STRrQ8Qj0gl",
+          "title": "Seksuaalvägivalla lühilood ja abivõimalused. Sotsiaalkindlustusamet."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.inimoigustegiid.ee/ee/teemad/lahisuhtevagivald",
+          "title": "Lähisuhtevägivald"
+        },
+        {
+          "kind": "link",
+          "href": "https://naistetugi.ee/",
+          "title": "Naiste tugi- ja teabekeskus."
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/paarisuhe/vagivaldne-paarisuhe/",
+          "title": "Kui oled sattunud vägivaldsesse paarisuhtesse"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.just.ee/kuritegevus-ja-selle-ennetus/inimkaubandus",
+          "title": "Inimkaubandus"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.just.ee/kuritegevus-ja-selle-ennetus/perevagivald",
+          "title": "Perevägivald"
+        },
+        {
+          "kind": "link",
+          "href": "http://Kriminaalpoliitika.ee",
+          "title": "Kriminaalpoliitika.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.kriminaalpoliitika.ee/kuritegevus2021/inimkaubandus_page.html",
+          "title": "Inimkaubandus"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.kriminaalpoliitika.ee/kuritegevus2021/perevagivald_ja_ahistamine_page.html",
+          "title": "Perevägivald ja ahistamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.kriminaalpoliitika.ee/kuritegevus2021/Seksuaalkuriteod_page.html",
+          "title": "Seksuaalkuriteod"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/vagivald/muudid-kohtingu-ja-seksuaalvagivalla-kohta",
+          "title": "Müüdid kohtingu- ja seksuaalvägivalla kohta"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/seksuaalsus/seksuaalsus-ja-meedia",
+          "title": "Seksuaalsus ja meedia"
+        },
+        {
+          "kind": "link",
+          "href": "https://etunnid.tagasikooli.ee/e-tund/kelle-nagu-on-seksuaalvagivald-eestis/",
+          "title": "Kelle nägu on seksuaalvägivald Eestis?"
+        },
+        {
+          "kind": "file",
+          "src": "https://maailmakool.ee/wp-content/uploads/2019/11/Seksuaalvagivald-Nadia-Murad.pdf",
+          "title": "Seksuaalvägivald – Nadia Murad"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19065-Kodu-ja-argielu-Vagivald-suhetes/222374",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19065-Kodu-ja-argielu-Vagivald-suhetes/222376",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19065-Kodu-ja-argielu-Vagivald-suhetes/222388#222389-Inimkaubandus",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14200-Perevagivald-ja-lapsed",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19153-Terviseriskid-peres-Soltuvusainete-tarvitamise-moju-peresuhetele/223354",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://vikerraadio.err.ee/1608388121/peresaade-suhtesoltuvus-ja-kaassoltuvus",
+          "title": "Peresaate"
+        },
+        {
+          "kind": "link",
+          "href": "http://Narko.ee",
+          "title": "Narko.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.narko.ee/lahedased/kaassoltuvus-mis-see-on/",
+          "title": "Kaassõltuvus – mis see on? Tervise Arengu Insituut."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/puust-ja-punaseks-kaassoltuvus/",
+          "title": "Puust ja punaseks: kaassõltuvus"
+        },
+        {
+          "kind": "link",
+          "href": "https://alkoinfo.ee/et/moju/moju-elukvaliteedile/moju-suhtele/",
+          "title": "Alkoholi mõju paarisuhtele"
+        },
+        {
+          "kind": "link",
+          "href": "https://alkoinfo.ee/et/kuidas-vahendada/programm-selge/",
+          "title": "Programm “Selge”"
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/narkootikumid-artiklid/kaassoltuvus/",
+          "title": "Kaassõltuvus"
+        },
+        {
+          "kind": "link",
+          "href": "https://terviseinfo.ee/et/valdkonnad/vaimne-tervis/vaimse-tervise-edendamine/digisoltuvus",
+          "title": "Laste ja noorte digisõltuvus – kuidas seda märgata ja mida teha?"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/kuus-tooriista-soltuvusest-paranemiseks/",
+          "title": "Kuus tööriista sõltuvusest paranemiseks."
+        },
+        {
+          "kind": "file",
+          "src": "https://tai.ee/sites/default/files/2023-07/Uimastite_tarvitamise_mustrid_Eestis_0.pdf",
+          "title": "Uimastite tarvitamise mustrid Eestis."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.levila.ee/raadio/alkoholi-lapsed",
+          "title": "Alkoholi lapsed."
+        },
+        {
+          "kind": "link",
+          "href": "http://levila.ee",
+          "title": "levila.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/tere-vanemad-tutvugem-uuesti/",
+          "title": "Tere, vanemad, tutvugem uuesti!,"
+        },
+        {
+          "kind": "link",
+          "href": "https://kultuur.err.ee/1608483653/mariliis-mottus-igavene-polvkondade-konflikt",
+          "title": "gavene põlvkondade konflikt"
+        },
+        {
+          "kind": "link",
+          "href": "https://inspiratsioon.ee/arengupaevik/",
+          "title": "Teadlik eneseareng – kuidas pidada arengupäevikut?"
+        },
+        {
+          "kind": "link",
+          "href": "http://inspiratsioon.ee",
+          "title": "inspiratsioon.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://vikerraadio.err.ee/1000901/peresaade-kui-tahad-haid-suhteid-hoia-oma-tassi-tais",
+          "title": "Peresaade. Kui tahad häid suhteid, hoia \"oma tassi täis\""
+        },
+        {
+          "kind": "link",
+          "href": "http://Err.ee",
+          "title": "Err.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14090-Pereliikmete-vajadused-ja-vaartused",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14310-Side-polvkondade-vahel",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/suhe-lapsega/",
+          "title": "Suhe lapsega"
+        },
+        {
+          "kind": "link",
+          "href": "https://kiusamisestvabaks.ee/?lang=en",
+          "title": "Lapsevanemate mõju lapse sõprussuhetele."
+        },
+        {
+          "kind": "link",
+          "href": "http://kiusamisestvabaks.ee",
+          "title": "kiusamisestvabaks.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.vkkeskus.ee/kuidas-mojuvad-lapsevanemate-tulid-lapse-vaimsele-tervisele/",
+          "title": "Kuidas mõjuvad lapsevanemate tülid lapse vaimsele tervisele?"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.vkkeskus.ee/8-kasvatusviga-mida-vanemana-valtida/",
+          "title": "8 kasvatusviga, mida vanemana vältida"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/1608775048/isad",
+          "title": "Isad"
+        },
+        {
+          "kind": "link",
+          "href": "http://jupiter.err.ee",
+          "title": "jupiter.err.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.vkkeskus.ee/kuidas-kiire-elutempo-juures-perega-kvaliteetaega-veeta/",
+          "title": "Kuidas kiire elutempo juures perega kvaliteetaega veeta?"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/mida-emad-meile-raakinud-ei-ole/",
+          "title": "Mida emad meile rääkinud ei ole."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/kes-teid-kutsus-politsei-pilk-suletud-uste-taha/",
+          "title": "„Kes teid kutsus?” Politsei pilk suletud uste taha"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/punased-lipud-enne-esimest-siniseks-loodud-silma/",
+          "title": "Punased lipud enne siniseks löödus silma."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.kriminaalpoliitika.ee/et/teemalehed/perevagivald",
+          "title": "Perevägivald"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.palunabi.ee/et/perevagivald-ja-lahisuhtevagivald",
+          "title": "https://www.palunabi.ee/et/perevagivald-ja-lahisuhtevagivald"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.oiguskantsler.ee/et/lapsevanema-%C3%B5igused-ja-kohustused-1",
+          "title": "Lapsevanema õigused ja kohustused."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.oiguskantsler.ee/et/laste-ja-noorte-%C3%B5igused-ja-kohustused",
+          "title": "apse õigused ja kohustused."
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13940-Probleemi-lahendamine-kodukeskkonda-muutes",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13959-Lapseea-vajadused",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14013-Karistamise-moju-lapsele-ja-vanemale",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/17480-Isadus-Isa-roll-lapse-elus",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14243-Lapse-oigused-ja-kohustused-Vagivallatu-kasvatus",
+          "title": "SIIN"
+        },
+        {
+          "kind": "file",
+          "src": "https://maailmakool.ee/wp-content/uploads/2019/11/Lapsabielude-mSju-KAE-eesmarkidele.pdf",
+          "title": "Lapsabielude mõju kestlike arengu eesmärkidele – Sonita Alizadeh"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19058-Perekonna-majanduselu-ja-perekonnaelu-reguleerivad-oigusaktid/222281#222286-Perekonnaseadus-Uhisvara-lahusvara-ulalpidamiskohustus",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14372-Abieluvaraleping",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14436-Abielusuhtest-tulenevad-oigused-ja-kohustused",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.sm.ee/uudised/unicef-hindas-eesti-perepoliitika-uheks-maailma-parimaks",
+          "title": "UNICEF hindas Eesti perepoliitika üheks maailma parimaks."
+        },
+        {
+          "kind": "link",
+          "href": "http://sm.ee",
+          "title": "sm.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.err.ee/1608957199/hillar-petersen-perepoliitikaga-trikitamine-hoogustab-sundide-vahenemist",
+          "title": "Perepoliitikaga trikitamine hoogustab sündide vähenemist"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/130062023051",
+          "title": "Perehüvitiste seadus"
+        },
+        {
+          "kind": "link",
+          "href": "https://sotsiaalkindlustusamet.ee/perehuvitised-ja-muud-toetused/perehuvitiste-ulevaade",
+          "title": "Perehüvitiste ülevaade."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eesti.ee/et",
+          "title": "esti.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eesti.ee/syndmusteenused/et/abiellumine",
+          "title": "Abiellumine"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.siseministeerium.ee/abielu-solmimine",
+          "title": "Abielu sõlmimine."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/rahvastik/abielud-ja-lahutused",
+          "title": "bielud ja lahutused."
+        },
+        {
+          "kind": "link",
+          "href": "http://stat.ee",
+          "title": "stat.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.notar.ee/et/teabekeskus/perekond",
+          "title": "Perekonnaõiguslikud toimingud."
+        },
+        {
+          "kind": "link",
+          "href": "http://notar.ee",
+          "title": "notar.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/1608437375/uksindus-uhenduses",
+          "title": "Üksindus ühenduses (2019)."
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/1608319445/siin-me-oleme",
+          "title": "Üksindus. (2022)"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/uksildusest-mida-see-tahendab-ja-kuidas-sellega-paremini-toime-tulla/",
+          "title": "Üksildusest – mida see tähendab ja kuidas sellega paremini toime tulla?"
+        },
+        {
+          "kind": "link",
+          "href": "http://Peaasi.ee",
+          "title": "Peaasi.ee"
+        },
+        {
+          "kind": "file",
+          "src": "https://maailmakool.ee/wp-content/uploads/2019/11/NAISED-OIGUSTE-EEST.pdf",
+          "title": "Lapsabielud – Sonita Alizadeh."
+        },
+        {
+          "kind": "link",
+          "href": "http://Maalimakool.ee",
+          "title": "Maalimakool.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.confido.ee/miks-tekib-uksildustunne/",
+          "title": "Miks tekib Üksildustunne"
+        },
+        {
+          "kind": "link",
+          "href": "http://Confido.ee",
+          "title": "Confido.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13878-Perekonna-ja-kooseluseadus",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14048-Registreeritud-kooselu",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13889-Hea-elu-saladus-pikima-onnelikkuse-uuringu-tulemusena",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://dspace.ut.ee/bitstream/handle/10062/29171/index.html",
+          "title": "õpiobjekti kaotus ja lein"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eesti.ee/et/perekond/abielu/abielu-lahutamine",
+          "title": "abielu lahutamine."
+        },
+        {
+          "kind": "link",
+          "href": "https://tnk.tartu.ee/0lahutusest.html",
+          "title": "Lahutusest ja selle mõjust pereliikmetele."
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/paarisuhe/lahkuminek-ja-lahutus/",
+          "title": "Lahkuminek ja lahutus paarisuhtes."
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/suhted/lahisuhted#sektsioon-4",
+          "title": "Kui lähedane paarissuhe lõpeb."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.virtuaalkliinik.ee/uudised/2019/02/21/lein-ja-kuidas-sellega-toime-tulla",
+          "title": "Lein ja kuidas sellega toime tulla."
+        },
+        {
+          "kind": "link",
+          "href": "http://Virtuaalkliinik.ee",
+          "title": "Virtuaalkliinik.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/video/vaata/meie-toimetulek-leinaga",
+          "title": "Toimetulek leinaga."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.lastekriis.ee/",
+          "title": "Laste ja noorte kriisiprogramm."
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19152-Lein-ja-toimetulek-sellega",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19165-Pusisuhe/223487#223488-Suhte-lopp",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/20214-Lahutus-ja-kargpere",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14259-Lahkuminekust-paranemine",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/633949",
+          "title": "Eesti Vabariigi põhiseaduse"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.oiguskantsler.ee/et/laste-noorte-oigused",
+          "title": "seisukohtadega"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.humanrightsestonia.ee/hartadpaktid-deklaratsioonid-kohtud-jne/inimoiguste-ulddeklaratsioon/",
+          "title": "ÜRO inimõiguste deklaratsioon"
+        },
+        {
+          "kind": "link",
+          "href": "https://humanrights.ee/teemad/inimoigused-eestis/",
+          "title": "nimõigused Eestis. Inimõiguste Keskus."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.inimoigustegiid.ee/ee/teemad/mis-on-inimoigused",
+          "title": "Mis on inimõigused? Inimõiguste giid"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.vm.ee/rahvusvaheline-oigus-ja-kuberdiplomaatia/inimoigused",
+          "title": "Inimõigused"
+        },
+        {
+          "kind": "link",
+          "href": "http://lisministeerium.ee",
+          "title": "lisministeerium.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eesti.ee/et/eesti-vabariik/inimoigused/inimoiguste-kaitse",
+          "title": "Inimõiguste kaitse."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/akt/106012023015",
+          "title": "Lastekaitseseadus"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.oiguskantsler.ee/et/laste-ja-noorte-%C3%B5igused/",
+          "title": "Lasteombudsman"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.lastekaitseliit.ee/et/",
+          "title": "Lastekaitse Liit"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.ted.com/talks/helen_fisher_the_brain_in_love/transcript?language=et",
+          "title": "“Kui aju on armunud”"
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/paarisuhe/intiimsus-ja-seksuaalsus/",
+          "title": "Intiimsus ja seksuaalsus paarisuhtes."
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/paarisuhe/stress/",
+          "title": "Stress paarisuhtes: kuidas kriisi kaudu koos kasvada?"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.tai.ee/sites/default/files/2023-04/Eesti_noorte_seksuaaltervis_2023.pdf",
+          "title": "Eesti noorte seksuaaltervis: teadmised, hoiakud ja käitumine, 2021."
+        },
+        {
+          "kind": "file",
+          "src": "https://www.tai.ee/sites/default/files/2023-01/Noorte%20seksuaaltervis%202021.pdf",
+          "title": "Eesti noorte seksuaaltervis: teadmised, hoiakud ja käitumine, 2021.. Lühikokkuvõte uuringust."
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/seksuaalsus",
+          "title": "Seksuaalsus ja seks"
+        },
+        {
+          "kind": "link",
+          "href": "https://seksuaaltervis.ee/info/seksuaalsus/seksuaaloigused",
+          "title": "Seksuaalõigused"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.inimoigusteraamat.ee/sites/default/files/2022-03/Inim%C3%B5igused_%C3%95iguskantsleri%20Kantselei%202022.pdf",
+          "title": "nimõigused"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.inimoigusteraamat.ee/raamat/inimoiguste-raamat/11-naiste-oigused-ja-lgbtqi-inimeste-oigused-soolisus-ja-seksuaalsus",
+          "title": "Naiste õigused ja LGBTQI-inimeste õigused – soolisus ja seksuaalsus inimõigustes"
+        },
+        {
+          "kind": "link",
+          "href": "https://tervisemuuseum.ee/sunaps-59-sugu-ja-sooline-enesemaaratlus/",
+          "title": "Sugu ja sooline enesemääratlus"
+        },
+        {
+          "kind": "link",
+          "href": "https://synaps.simplecast.com/episodes/sunaps-62-sugu-ja-sooline-uleminek",
+          "title": "Sugu ja sooline üleminek"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/video/vaata/heureka-miks-inimesed-armuvad",
+          "title": "“Miks inimesed armuvad”"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/13934/sudameasi/",
+          "title": "“Südameasi”/ “In a Heartbeat”."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.lgbt.ee/sonastik",
+          "title": "Sõnastik"
+        },
+        {
+          "kind": "link",
+          "href": "https://humanrights.ee/materjalid/vordse-kohtlemise-kasiraamat/",
+          "title": "Võrdse kohtlemise käsiraamat"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19065-Kodu-ja-argielu-Vagivald-suhetes/222383#222387-Seksuaaloigused",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19165-Pusisuhe/223480#223481-Paarisuhte-etapid",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14293-Seksuaalsus-seksuaalne-areng",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/15475-Seksuaalne-identiteet-Seksuaalvahemused-Homoseksuaalsus",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14049-Miks-inimesed-armuvad",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.muurileht.ee/uue-polvkonna-seksuaalharidus/",
+          "title": "Uue põlvkonna seksuaalharidus."
+        },
+        {
+          "kind": "link",
+          "href": "https://play.tv3.ee/embed-video/laser,serial-1099968/osa-16,episode-5173382?autoplay=true&muted=true&fbclid=IwAR2tETLbJopmsh1gh-bUzTI60RvBaaocMA6n3Yg0hAzfQoMTTicGhL2lZVA",
+          "title": "Transsoolisus on alati olemas olnud."
+        },
+        {
+          "kind": "file",
+          "src": "https://intra.tai.ee/images/prints/documents/138676835439_raagime_tervisest%20PDF.pdf",
+          "title": "Räägime tervisest! Juhendmaterjal noorsootöötajatele."
+        },
+        {
+          "kind": "link",
+          "href": "https://synaps.simplecast.com/episodes/sunaps-37-kondoomidest-kuidas-kumm-kaitsma-hakkas",
+          "title": "#37 - Kondoomidest. Kuidas kumm kaitsma hakkas?"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.uttv.ee/naita?id=16558",
+          "title": "Noorte seksijuht"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14046-Rasetumisvastased-meetodid-ja-nende-efektiivsus",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.minuraha.ee/et/rahaasjade-planeerimine/tulude-kulude-kirjapanek",
+          "title": "Tulude-kulude kirjapanek"
+        },
+        {
+          "kind": "link",
+          "href": "http://minuraha.ee",
+          "title": "minuraha.ee"
+        },
+        {
+          "kind": "link",
+          "href": "https://ttja.ee/rahaasjad-korda",
+          "title": "Rahaasjad korda!"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19058-Perekonna-majanduselu-ja-perekonnaelu-reguleerivad-oigusaktid/222288",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19058-Perekonna-majanduselu-ja-perekonnaelu-reguleerivad-oigusaktid/222291#222293-Kui-perre-sunnib-laps-Perehuvitised-vanemapuhkus",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/kasvatamine-artiklid/erinevad-kasvatusstiilid/",
+          "title": "kasvatusstiilide"
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/suhe-lapsega/lapse-arenguetapid/",
+          "title": "Lapse arenguetapid"
+        },
+        {
+          "kind": "link",
+          "href": "https://peaasi.ee/kiindumussuhe/",
+          "title": "https://peaasi.ee/kiindumussuhe/"
+        },
+        {
+          "kind": "link",
+          "href": "https://tarkvanem.ee/suhe-lapsega/vanemlusstiilid/",
+          "title": "Vanemlusstiilid"
+        },
+        {
+          "kind": "file",
+          "src": "https://kasvatus.print.ee/app/uploads/2018/11/kiindumushaire_algus-1.pdf",
+          "title": "Kiindumushäirega laps. Praktilise teraapia käsiraamat"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13925-Kiindumussuhe",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13885-Kasvatusstiilid",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19164-Kasvatus-ja-vanemlikud-oskused/223469#223470-Kasvatus-vanemlikud-oskused",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/14047-Lapse-areng",
+          "title": "SIIN"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/tg.edu.ee/perekonnaopetus/1-perekond/1-2-perekonna-ülesanded-ja-tähtsus"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=01_hNbK46W4"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=4AqxxwIB4U0&list=PLfnOXGsPOPiNfnE2a4iPXLVNNj842TRSp"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=5BIRcoOCql8"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=5lfuHRbSOVo&list=PLtd8cwIXAlqh9UmMsmzncrp0QAiqlgfs3&index="
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Ap9lhvGJqa0"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=ByHs843AVNg&t=3810s"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Ef63vbzgE90&list=PLtd8cwIXAlqh9UmMsmzncrp0QAiqlgfs3&index=1"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=IXpu60ndsQ8"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=LNQxIgWk-UY"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Ql5GCuLZtA8&list=PLuifJ6Gq_B37opfRIDwbZWOsP--gu5KXN"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=RzDr18UYO18&t=8s"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=T31jLpHe1oY"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Vq7i49LhDrA&list=PLtd8cwIXAlqh9UmMsmzncrp0QAiqlgfs3&index=4"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=WjOowWxOXCg"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=WmJ_6jOjULo"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=ZIkNHtmcEJ4"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Zk7pOnUPL74"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=aUO5Zy7k6rg"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=cDV-VGcEsUg&t=2s"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=cDcYRv6xKu0"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=fyO8pvpnTdE"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=iKZOY4yehjU&list=PLtd8cwIXAlqh9UmMsmzncrp0QAiqlgfs3&t=56s"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=lB7W5BV6tXs"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=p47tVib3F40&list=PLh48Z0xjs3ERna6x0rncuGuikzmAuguIe"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=pfkAwhDqIP4&t=7s"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=sTh_f6tdtEk&list=PLuifJ6Gq_B368QYN1gYDaWUkTUxkh7Nvo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "1. Arvutamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Selleks, et õpilane saaks hakata arvutamist õppima, tuleb tal omandada kindlad eeloskused. Kui eeloskuseid ei ole omandatud, tekivad raskused uue materjali omandamisel. Siinjuures tuleb arvestada asjaoluga, et arvutamine on uus oskus ning eelnevalt omandatud oskused ja teadmised vajavad harjutamist ja kinnistamist enne kui asuda õpetama uusi oskusi. Toimetulekuõppel õppivate õpilaste psüühiliste protsesside omapära arvestades kulub neil omandamiseks enam aega ning uue osa juurde on soovitav minna siis, kui eelnev on omandatud.</p><p>Mida rohkem tegevusi materialiseerida ja visualiseerida, seda paremini õpilane arvutamist omandab.</p><p>Siinkohal meenutan eluliste matemaatiliste jutukeste kasutamist, mille loomiseks on igal toimetulekuõppe õpetajal piisavalt fantaasiat. Matemaatiliste jutukeste koostamisel on soovitav kasutada õpilase ümbruses olevaid esemeid, seda kindlasti ka õues viibides. Matemaatiliste jutukeste koostamise eesmärgiks on luua esmane ettekujutus tekstülesannetest ning arendada väljendusoskust.</p><p>Jutukese koostamise aluseks on kaks hulka, mis esitatakse lastele konkreetsete esemetega või piltidel. Kahe hulga järgi koostatavad jutukesed on esialgu praktilised/esemelised, seejärel saab kasutada töölehte, millel samad objektid on kujutatud pildi või joonistusena. Raskusastme valikul jälgida kindlasti õpilase lähima arengu valda (jõukohasust). Valiku töölehti leiab <a href=\"https://hev.edu.ee/214-2/\">HEV õppevara kodulehelt</a>.</p><p>Ühest küljest on siin tegemist tööga hulkadega, kuid märkamatult on õpilane alustanud arvutamisega. Kindlasti lisada hulga juurde arvu tähis ehk number. Esialgu võib õpetaja nimetada numbri ise, seejärel koosnimetamine ning viimaks leiavad õpilased õigele arvule vastava numbrikaardi iseseisvalt.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Näide",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kadril oli 2 kommi. Mari andis talle 3 kommi juurde. Mitu kommi on Kadril?</li><li>Kadril oli 5 kommi. Ta andis 3 kommi Marile. Mitu kommi on nüüd Kadril?</li><li>Kadril oli 2 kommi. Mari andis talle veel mõned kommid. Nüüd on Kadril 5 kommi. Mitu kommi andis Mari Kadrile?</li><li>Sul on 4 pliiatsit, sinu sõbral 1 pliiats. Mitu pliiatsit on sinul rohkem?</li><li>Mitu pliiatsit peab õpetaja sõbrale andma, et teil oleks neid võrdselt?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Näide arvutamise abstraktsiooni tasemetest",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvutamisülesanne $2+1=3$ võib toimuda järgmistel tasemetel, vastavalt õpilase abstraheerimisvõimele:</p><ol><li>Konkreetne materjal (nt kujukesed)</li><li>Fotod/ täpsed joonistused</li><li>Pildid/ kujutised (hulgad) **&nbsp; *&nbsp;&nbsp;&nbsp; ***</li><li>Sümbolite kasutamine (arvukaartide kasutamine) $2 + 1 = 3$</li><li>Sümbolite kasutamine (numbrite kirjutamine) $2 + 1 = 3$</li><li>Peastarvutamine (ülesande üle mõtlemine).</li></ol>"
+            },
+            {
+              "kind": "file",
+              "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/Matemaatika_III_toolehed.pdf",
+              "title": "Signe Leht \"Matemaatika III\" töölehed"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Abivahendite kasutamine arvutamisel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvutamise hõlbustamiseks on otstarbekas kasutada abivahendeid. Abivahendite valik sõltub konkreetsest õpilasest, tema võimetest ning sellest tulenevatest vajadustest.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Sõrmed",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Esimesed nö kättesaadavad abivahendid arvutamisel on õpilase enda sõrmed. Kümnel sõrmel põhineb ka kümnendsüsteem. Oluline on siin vajadusel õpetajapoolne abi ja suunamine. Abi oleneb õpilase sõrmedel arvutamisvilumuse tasemest.</p>"
+                },
+                {
+                  "kind": "section",
+                  "title": "Arvutamine 5 piires.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Liitmisel võib kasutada nii kahe kui ühe käe sõrmi. Kergem variant on mõlema käe sõrmede kasutamine, kui nt tehte $2 + 3$ puhul loendatakse ühel käel 2 sõrme ja teisel 3 sõrme ning vastuseks loendatakse mõlema käe sõrmed kokku. Õpilase jaoks raskem aste on kasutada ühe käe sõrmi, kuid ühe käe sõrmedel liitmise vilumus on eelduseks, kui on vajadus arvutada üle 5. Lahutamisel 5 piires kasutatakse alati ühe käe sõrmi. Nt tehte $4 - 1$ puhul sirutatakse ühel käel 4 sõrme ning kõverdatakse 1 sõrm, vastuseks on püstisirutatud sõrmede arv. Kindlasti peab õpilastel pidavalt tehe olema nähtaval.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Arvutamine 10 piires.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Kasutatakse mõlema käe sõrmi ja töö on analoogne eelpool kirjeldatud kahel käel sõrmedel 5 piires arvutamisega.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Arvutamine üle 10",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Tehtest tulenevalt kasutatakse, kas ühe või mõlema käe sõrmi. Nt tehet $7 + 5$ võib õpilasele selgitada järgnevalt: 7 on sul juba olemas, pead juurde/veel panema 5. Loenda 5 sõrme 7st edasi. Õpilane loendab endale 5 sõrme ja loendab edasi 6, 7, 8, 9, 10, 11, 12. Seni, kuni on jõutud loendada kõik 5 sõrme. Samamoodi saab arvutada ka $46 + 3$. 46 on olemas, loendame 3 sinu sõrme juurde. Kui 3 sõrme on loendatud, saadakse vastus. Sama toimub lahutamistehte korral.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Arvutuspulgad vm väiksed esemed (arvu materialiseerimine)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Arvutuspulgad on suurepärased vahendid, mis võimaldavad arvutamisel asetada need kas arvukaardi juurde ja peale (vt <a href=\"https://hev.edu.ee/154-2/\">Matematika I</a>). Praktilise tegevuse käigus on haaratud õpilase erinevad kognitiivsed protsessid ning selle läbi arendatakse õpilase erinevaid aju piirkondasid ning motoorikat.</p>"
+                },
+                {
+                  "kind": "section",
+                  "title": "Näide",
+                  "children": [
+                    {
+                      "kind": "section",
+                      "title": "Arvutamine ainult arvutuspulkadega",
+                      "children": [
+                        {
+                          "kind": "text",
+                          "html": "<p>Siin on võimalik arvutada nii suulise tekstülesandena kui ka töölehele joonistatud piltülesannetena</p><ul><li>Panen korvi 7 pulka, nüüd panen 5 pulka juurde. Loenda, mitu pulka on korvis!</li><li>Laual on 7 pulka, võta 2 ära. Mitu pulka jäi lauale?</li><li>Mikul on 2 õuna. Priidul on 3 õuna. Kui palju on õunu mõlemal poisil kokku? (õunad asendatakse pulkadega).</li><li>Töölehele on joonistatud 2 hulka, milles on teatud arv esemeid. Hulkade vahel on kas + või - märk. Õpilane asetab töölehe alla sobiva arvu pulki ning loendab need kokku. Lahutamistehte puhul, võtab õpilane pulgad ära.</li></ul>"
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "section",
+                      "title": "Arvutamine arvukaartide ja arvutuspulkadega",
+                      "children": [
+                        {
+                          "kind": "text",
+                          "html": "<p>$2 + 1 = 3$</p><p>I I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I</p><p>Arvukaardi all, millel on 2 paneb laps 2 pulka. Seejärel otsustab õpilane tehtemärgi põhjal, et pulkasid tuleb panna juurde (liitmine) ja paneb juurde 1 pulga, sest arvukaardil on number 1. Arvupulki kokku lugedes selgub, et pulki on nüüd 3 ja õpilane lisab ritta arvukaardi, millel on 3. Kontrollimiseks võib kõik tehte all olevad pulgad panna vastuse all ning veenduda, et tõepoolest on pulki 3 nii, nagu arvukaardil kirjas on.</p>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Arvutabel",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hea võimalus õpetada nii liitmis- kui lahutamistehteid. Eriti hea arvunaabrite (eelnev ja järgnev arv) mõistete omandamiseks. Arvutabel on soovitada koostatuna 100 piires (10x10 arvu).</p><p>Nii saab ülevalt alla loendada kõige parempoolsemas reas täiskümnete (10, 20, 30, ... 100) ning tutvustada õpilastele nö arvu koostist. Kuigi on erinevad kümnelised järgnevad ühelised igas erinevas kümnes samas järgnevuses. St 11 all asub 21, seejärel 31 jne.</p>"
+                },
+                {
+                  "kind": "table",
+                  "html": "<table><thead><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th></tr></thead><tbody><tr><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td></tr><tr><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr><tr><td>31</td><td>32</td><td>33</td><td>34</td><td>35</td><td>36</td><td>37</td><td>38</td><td>39</td><td>40</td></tr><tr><td>41</td><td>42</td><td>43</td><td>44</td><td>45</td><td>46</td><td>47</td><td>48</td><td>49</td><td>50</td></tr><tr><td>51</td><td>52</td><td>53</td><td>54</td><td>55</td><td>56</td><td>57</td><td>58</td><td>59</td><td>60</td></tr><tr><td>61</td><td>62</td><td>63</td><td>64</td><td>65</td><td>66</td><td>67</td><td>68</td><td>69</td><td>70</td></tr><tr><td>71</td><td>72</td><td>73</td><td>74</td><td>75</td><td>76</td><td>77</td><td>78</td><td>79</td><td>80</td></tr><tr><td>81</td><td>82</td><td>83</td><td>84</td><td>85</td><td>86</td><td>87</td><td>88</td><td>89</td><td>90</td></tr><tr><td>91</td><td>92</td><td>93</td><td>94</td><td>95</td><td>96</td><td>97</td><td>98</td><td>99</td><td>100</td></tr></tbody></table>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kalkulaator",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Väga olulisel ja praktilisel kohal on õpetada toimetulekuppel õppivale õpilasele kalkulaatori kasutamist. Kalkulaator on soovitav valida võimalikult lihtsa ja selge esipaneeliga, mis võimaldab õpilasel klaviatuuri ja seal olevat kergemini tajuda.</p><p>Kalkulaatori kasutamise õpetamine toimub kindlasti läbi praktiliste tegevuste.</p><ul><li>Õpitakse selgeks kalkulaatoril olevad sümbolid (numbrid ja tehtemärgid).</li><li>Õpitakse selgeks tehete sooritamine kalkulaatori abil (arvutamisülesannete lahendamine).</li><li>Kasutakse kalkulaatorit rollimängudes (kauplusemäng)</li><li>Erinevad õppekäigud võimalusega kasutada kalkulaatorit (ostu sooritamine poes)</li></ul>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "2. Raha",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilastel tuleb kujundada arusaamine, et raha on kõigi poolt tunnustatud väärtuslik vahend, mida saab vahetada teiste asjade vastu.</p><p>Raha väärusest arusaamine on toimetulekuõppel õppiva õpilase jaoks keeruline ja suurem osa neist ei omanda raha õigesti ja otstarbekalt kasutamise oskusi. Siiski on oluline toimetulekuõppel õppivatele õpilastele vastavalt võimetele tutvustada riigis käibel olevat raha, selle vajalikkust ning väärtust.</p><p>Õpetamine toimub eelkõige läbi praktiliste tegevuste.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, et raha on olemas, tunneb ära nt 1-eurose mündi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, et on erinevaid münte ja rahatähti.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Tunneb ära mündid ja rahatähed.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Tunneb kõiki münte ja rahatähti ja oskab nimetada nende väärtuse.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Ostab iseseisvalt tuttavaid asju – nt saiake 1 euro.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Käib iseseisvalt poes ja oskab hinnata, kas olemasolevast rahast jätkub teatud ostude tegemiseks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjalid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Täpsemaid metoodilisi juhiseid leiab kogumikust Signe Leht \"Matemaatika IV\" lk 13-17. Kogumiku juurde kuuluvad ka vastavad töölehed.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://hev.edu.ee/wp-content/uploads/2023/10/MATEMAATIKA_IV_6petajajuhend_veebi.pdf",
+              "title": "Signe Leht \"Matemaatika IV\" lk 13-17"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-pood.harno.ee/et/a/matemaatika-toolehtede-komplekt-iv-osa.-kaal.-raha.-kell",
+              "title": "töölehed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "3. Mõõtühikud ja mõõtmine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Suuruste maailm tugineb arvumõistele ning mõõtmis-, loendamis- ja järjestamistegevusele. Suurus on mõõtmise tulemus, mida esmalt hinnatakse lihtsalt esemete võrdlemise abil.</p><p>Täpsem mõõtmine toimub läbi mänguliste ja praktiliste tegevuste.</p><p>Esemete mõõtmise oskus kujundatakse pikkuse ja mahu mõõtmise kaudu.</p><p>Esemete pikkust, laiust, kõrgust ja objektide vahelist kaugust mõõdetakse kokkulepitud vahendite pikkuse abil (nt pabeririba, nöör, pulk, sammud jne).</p><p>Suuremate nõude mahtu saab mõõta tassi, klaasi, topsiga, kasutades vett või liivakastis liiva.</p><p>Massi võrdlemiseks annab hea võimaluse kangkaalude kasutamine. Võrreldes erinevate esemete masse, saavad lapsed teha järelduse, et kõik suured asjad ei kaalu rohkem kui väikesed. Mõõtühikud õpitakse tundma mängulistes tegevustes või praktilistes tegevustes.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Näide",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Võimalusel võiks kõndida 1 km pikkuse tee või mainida lapsele objekte, mille vahemaa on 1 km (näiteks koolist kaupluseni).</li><li>1 kg raskuse suhkrupaki \"kaalumine\" käes.</li><li>1 l vee valamine 3 liitrisesse potti. Sealt edasi 3 l vett potti. Tekib vähem-rohkem ettekujutus mahust.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjal",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Veel tööjuhiseid leiab</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://hev.edu.ee/wp-content/uploads/2023/10/MATEMAATIKA_IV_6petajajuhend_veebi.pdf",
+              "title": "\"Matemaatika IV\" lk 6-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "4. Kell",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kella tundmine on toimetulekuõppel õppivale õpilasele keeruline. Aeg on midagi sellist, mida praktiliselt käega katsuda ei saa ning seetõttu ei omanda mitte kõik toimetulekuõpilased kellatundmist.</p><ol><li>Ööpäevase rütmi tajumine, ära tundmine ja sellele tähenduse andmine seotult enda igapäevaste tegevustega.</li><li>Päevakavas oluliste ajapunktide teadmine ja nimetamine.</li><li>Kellaaegadest arusaamine ja kella kasutamine.</li></ol>"
+        },
+        {
+          "kind": "section",
+          "title": "Kellaaja omandamise võimalikud etapid",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Teab, et õhtu on siis, kui läheb pimedaks ja ta läheb voodisse.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Teab erinevaid ööpäeva osi ja oskab tegevusi nendega seostada.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Teab mõningaid kellaaegu, nt lõunasöök, lemmiksaade.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Oskab nimetada pool- ja täistunde.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Seostab kellaaja oma tegevusega.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Loeb ja saab aru telekavast ja bussi sõidugraafikust.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjal",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Juhend kellaaja õpetamiseks ja täpsemaks käsitlemiseks asub \"Matemaatika IV\" õpetajajuhendis lk 18-25.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://hev.edu.ee/wp-content/uploads/2023/10/MATEMAATIKA_IV_6petajajuhend_veebi.pdf",
+              "title": "\"Matemaatika IV\" õpetajajuhend lk 18-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "5. Sotsiaalmatemaatika (eluliste probleemide praktiline lahendamine)",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Aegapidi läheneb toimetulekumatemaatika järjest rohkem eluliste situatsioonide praktilisele lahendamisele.</p><p>Koos sõidetakse ühistranspordis, koos külastatakse söögiasutusi, kauplusi jms, kus on vaja vastu võtta olukorrale sobivaid otsuseid.</p><p>Soovitav on igal õpeajal läheneda loovalt ja seostada erinevad õppeained, nt elu- ja toimetulekuõpet, tööõpet, kunsti ja käelist tegvus, kehalist kasvatust jne, praktilise matemaatika loomise ja lahendamise ülesannetega.</p>"
+        }
+      ]
+    }
+  ]
+}

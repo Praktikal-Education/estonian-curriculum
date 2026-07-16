@@ -1,0 +1,40 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursus kombineerib kolmest erinevast valdkonnast pärit teadmisi ja oskusi: tehniline joonestamine, 3D-modelleerimine ja 3D-printimine, arvutijuhitava freespingi (CNC) seadistamine ning selle juhttarkvara kasutamine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab tootedisaini olulisust igapäevaelus ning oskab näha seost teooria ja praktika vahel;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "on omandanud ülevaate põhilistest 3D-tarkvaraprogrammidest ning oskab ühte neist praktiliselt kasutada toote modelleerimiseks;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab CNC-freespingi näitel arvuti teel juhitavate tehnoloogiliste seadmete toimimise loogikat;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "suudab põhjendada enda tehtud sisulisi ja tehnoloogilisi valikuid, dokumenteerida tööd ning esitleda töö tulemust.",
+          "outcomeType": "skill"
+        }
+      ]
+    }
+  ]
+}

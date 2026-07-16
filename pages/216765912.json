@@ -1,0 +1,50 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpilaste tegevuse suunamise vajadus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>LÕ-õpilaste õppimise edukuse üheks mõjutajaks on nende enesejuhtimisoskuse aeglane ja puudulik areng. Seetõttu on oluline roll õpetaja suunavatel või kinnistavatel-kontrollivatel repliikidel. Nende puudumisel hakkab õpilane tegutsema juhuslikult, sest tal endal puudub teadvustatud tegevusplaan. Seni, kuni õpilastel tekivad oskused sihipäraselt tegutseda, tuleb õpetajal suunata igat õpiülesannet täitma järgmiste etappide kaupa:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li><strong><em>planeerimine</em></strong> - järjepidevalt on vaja suunata (küsimuste, korralduste abil) õppijaid kuulama/lugema ja mõistma tööjuhiseid ning sõnastama nendest lähtuvalt oma tegevusplaani, seejuures valima vajalikke töövahendeid;</li><li><strong><em>sooritamine</em></strong> - vajalik on õpetada ja ärgitada küsima abi õpiülesande täitmisel tekkivate raskuste korral; vastavalt õppija oskustele võib olla vajalik õpetaja osalus, väliste abivahendite kasutamine;</li><li><strong><em>kontroll</em></strong> - oluline on suunata õppijaid kontrollima oma õpitegevuse tulemusi, kasutades eelnevalt õpitud kontrollivõtteid.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kontrollioskuste õpetamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Iga oskuse kujundamisega peab kaasnema kontrollioskuste õpetamine. LÕ-õpilasi iseloomustab vähene kriitilisus ja huvi oma tegevuse vastu. Nad ei kontrolli iseseisvalt oma töö tulemusi või sooritavad kontrollioperatsioone vaid osaliselt. Seega tuleb LÕ-õpilasi teadlikult kontrollile suunata, õpetada neile tööjuhise täitmise samm-sammulist jälgimist. Vajalik on õpetada oskust kontrollida oma tegevust ja selle tulemust sooritamise erinevatel etappidel:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li>töö ajal - kaasnev kontroll, st kontrollitakse iga operatsiooni õigeaegset sooritamist ja selle tulemust;</li><li>pärast tööd - resultaadi kontroll/järelkontroll;</li><li>enne tulemuse fikseerimist - ennetav kontroll, st ülesanne sooritakse peast ja kontrollitakse selle tulemust.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Enda töö tulemuse kontrollimiseks on võimalikud erinevad viisid: (a) oma töö tulemuse võrdlemine originaaliga, (b) kindlate kontrollivõtete kasutamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kontrollivõtete õpetamisel ja kasutamisel on õpetajal vaja LÕ-õpilaste tegevust pidevalt suunata, osaledes ise selles suuremal või väiksemal määral. Näiteks loeb õpetaja veaga teksti vastavalt kirjapildile (õpetaja sooritab osa kontrollist lapse eest), suunab lapse tegevust oma repliikidega (suunavad korraldused) või kasutab suunavaid orientiire, nt vigade arv on antud või veaga sõnad ette märgitud.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovitus lugemiseks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Karlep, K. (2022). Enesekontrolli õpetamine lugemisel ja kirjutamisel. <em>Eripedagoogilt õpetajale. Valitud artikleid</em>. Lk 185-192. Tartu: TÜ Kirjastus.</p>"
+        }
+      ]
+    }
+  ]
+}

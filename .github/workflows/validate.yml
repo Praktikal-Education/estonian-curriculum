@@ -1,0 +1,26 @@
+name: validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm test
+      # Apply any corrections/ overlay and rebuild the merged curricula while
+      # asserting every outcome id is already governed by identifiers.json (a
+      # text change or new outcome without a committed ledger update fails here),
+      # then check the result against the JSON Schemas and structural grammar.
+      - run: pnpm check:identities
+      - run: pnpm check

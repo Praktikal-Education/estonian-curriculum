@@ -1,0 +1,569 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "11. kursus INTEGRAAL. PLANIMEETRIA",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eemärgid:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid ning kergemaid mitterutiinseid ülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>arendada õpitegevuse kaudu üld- ja ainepädevusi nii, et õpilane suudaks lahendada keerukamaid ülesandeid, mis võimaldaksid õppekavas kirjeldatud teadmisi ja oskusi rakendada väga heal tasemel.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>suutlikkus kasutada alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika rakendamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt ning leida ülesande lahendamiseks sobivad strateegiad. Selleks käsitleda ülesannete lahendamise üldisi strateegiaid;</li><li>suutlikkus põhjendada ja tõestada oma mõttekäike, kusjuures tõestada mitte niivõrd väite tõesuse näitamiseks, kuivõrd aitamaks luua üksikteadmistes süsteemi;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks peaks õpilane esitama iseendale küsimusi: mida ma teen; miks ma nii teen; milleni ma olen jõudnud ning kas tulemus on õige ja kontrollitav.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>laia matemaatika I kursus (avaldiste lihtsustamine); II kursus (võrrandite ja võrrandisüsteemide lahendamine); III kursus (täisnurkse kolmnurga lahendamine); IV kursus (trigonomeetriliste avaldiste lihtsustamine ja üldise kolmnurga lahendamine); V kursus (joonte lõikepunktide leidmine); VII kursus (astmefunktsiooni graafikud); VIII kursus (eksponent- ja logaritmfunktsioon); IX kursus (trigonomeetrilised funktsioonid, tuletise leidmine); X kursus (tuletise rakendused); lisaks põhikooli õppekavas kirjeldatud teadmised tasandilistest kujunditest.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "INTEGRAAL",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab algfunktsiooni mõistet ning leiab lihtsamate funktsioonide määramata integraale põhiintegraalide tabeli ja integraali omaduste järgi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Algfunktsioon.</p><p>Määramata integraal ja selle omadused.</p><p>Põhiintegraalide tabel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursuse alguses tuleks korrata elementaarfunktsioonide graafikud ja nende omadusi ning funktsiooni tuletise leidmist. Saab uurida, kas tuletise järgi on võimalik ära arvata esialgse funktsiooni valemit, ning näidata, et äraarvamine õnnestub vaid teatud juhtudel.</p><p>Õpilane peab aru saama algfunktsiooni mõistest ning tuletise ja integraali seosest. Peab oskama põhjendada, et näiteks $F(x)=x^4+x^3-4$ on funktsiooni $f(x)=4x^3+3x^2$ algfunktsioon, sest $F'(x)=f(x)$.</p><p>Põhiintegraalid ja integraali omadused</p><p>$\\int dx=x+C$</p><p>$\\int xdx=\\dfrac{x^2}{2}+C$</p><p>$\\int x^a dx=\\dfrac{x^{a+1}}{a+1}+C, a\\not= -1$</p><p>$\\int \\dfrac{dx}{x}=\\ln \\mid x \\mid + C$</p><p>$\\int a^x dx=\\frac{a^x}{\\ln a}+C$</p><p>$\\int e^x dx=e^x+C$</p><p>$\\int \\sin x dx=-\\cos x+C$</p><p>$\\int \\cos x dx=\\sin x+C$</p><p>$\\int \\dfrac{dx}{\\cos^2 x}=\\tan x+C$</p><p>$\\int a f(x) dx=a\\int f(x) dx$</p><p>$\\int [f(x)\\pm g(x)] dx=\\int f(x) dx \\pm \\int g(x) dx$</p><p>Integraali leidmise harjutamiseks sobivad hästi ülesanded, kus tuleb enne integreerimist nii algebralisi kui ka trigonomeetrilisi avaldisi lihtsustada. Nii saab korrata eelnevat ja siduda õpitud teemasid.</p><p>Ülesandeid lahendades saab kasutada põhiintegraalide tabelit. Tabeli põhjal saab selgitada seost tuletise ja integraali vahel ning kinnistada algfunktsiooni mõistet. Ülesannete lahenduste kontrollimiseks saab kasutada digivahendeid.</p><p>Keerukamate avaldiste integreerimisel peab mainima et ei ole olemas jagatise ja korrutise integreerimise reegleid, mistõttu sel kujul esitatud avaldisi on enne vaja teisendada.</p><p>Muutuja vahetuse võttega integreerimist õppekavas ei ole, kuid seda võtet võib tutvustada tugevamatele õpilastele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120&sort=publisher_az",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20070-L11-Integraal-Planimeetria",
+              "title": "L11 Integraal. Planimeetria (e-koolikott.ee)"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/xi-kursus-integraal-planimeetria",
+              "title": "Õpetajaraamat - XI kursus „Integraal. Planimeetria” (google.com)"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee//wp-content/uploads/2016/09/Integraal.pdf",
+              "title": "Integraali õpetamisest"
+            },
+            {
+              "kind": "embed",
+              "src": "https://www.geogebra.org/m/BduJMA2u#chapter/65957"
+            },
+            { "kind": "embed", "src": "https://www.geogebra.org/m/BduJMA2u" },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1js3DEOlIlLNrQmJtL6SBAvtQPX7EIZjRRgIsFaONxlw/edit#gid=2027870988",
+              "title": "Sobivaid eestikeelseid Desmose töölehti võib leida"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@Videoops",
+              "title": "Kordamiseks võib kasutada Videoõpsi videosid youtube keskkonnas"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab kõvertrapetsi mõistet ning rakendab määratud integraali leides Newtoni-Leibnizi valemit;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kõvertrapets.</p><p>Määratud integraal ja selle omadused.</p><p>Newtoni-Leibnizi valem.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane peab aru saama, et kõvertrapetsil on palju erijuhte ja see ei pea olema üldse trapets. Kõvertrapetsi mõistet saab hästi selgitada joonistega. Arusaamise kontrollimiseks võib lasta õpilastel kõvertrapetseid joonistada või etteantud funktsioonide graafikutega piiratud tasandiosi viirutada (siin ka tähelepanu ja lugemisoskuse kontroll).</p><p>Tuleb märgata erinevust lihtsalt määratud integraali arvutamisel ja pindala arvutamisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20070-L11-Integraal-Planimeetria",
+              "title": "L11 Integraal. Planimeetria (e-koolikott.ee)"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/xi-kursus-integraal-planimeetria",
+              "title": "Õpetajaraamat - XI kursus „Integraal. Planimeetria” (google.com)"
+            },
+            {
+              "kind": "embed",
+              "src": "https://www.geogebra.org/m/BduJMA2u#chapter/65957"
+            },
+            { "kind": "embed", "src": "https://www.geogebra.org/m/BduJMA2u" },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab määratud integraali abil kõvertrapetsi pindala, mitmest osast koosneva pinnatüki ja kahe kõveraga piiratud pinnatüki pindala ning lihtsama pöördkeha ruumala;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tasandilise kujundi pindala ja pöördkeha ruumala arvutamine integraaliga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pinnatüki pindala arvutamiseks on vaja teha joonis, et määrata, kas kujund koosneb mitmest osast, milline on joonte asend (ülemine/alumine).</p><p>Joontega piiratud kujundi pindala leidmisel tuleb osata varasemaid teemasid (graafikute joonestamine, lõikepunktside leidmine võrrandisüsteemi abil). Oluline on ka vastuse kriitilise hindamine. Kui joonis on olemas, saab selle põhjal hinnata, kas leitud pindala on tõene.</p><p>Töö arvutamine integraaliga pole aine kavas, kuid seda võib soovitada füüsikast huvitunud õpilastele iseseisvaks tööks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20070-L11-Integraal-Planimeetria",
+              "title": "L11 Integraal. Planimeetria (e-koolikott.ee)"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/xi-kursus-integraal-planimeetria",
+              "title": "Õpetajaraamat - XI kursus „Integraal. Planimeetria” (google.com)"
+            },
+            {
+              "kind": "embed",
+              "src": "https://www.geogebra.org/m/BduJMA2u#chapter/65957"
+            },
+            { "kind": "embed", "src": "https://www.geogebra.org/m/BduJMA2u" },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p><p>Õppimist toetavast hindamisest täpsemalt: <a href=\"https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/\">https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/</a></p><p>Huvilistele sobib</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em>.</p><p>Ülesannete raskusaste:</p><p><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</p><p><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</p><p><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Ainesisene lõiming",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kujundi pindala arvutamisel integraaliga on vaja teha joonis (saab korrata funktsioonide graafikuid), lõikepunktide leidmiseks tuleb lahendada võrrandisüsteeme. Enne integreerimist tuleb avaldisi lihtsustada.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming teiste ainetega",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Füüsika</strong> – integraali kasutamine töö arvutamiseks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+                  "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee//wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+                  "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "PLANIMEETRIA",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab geomeetriliste kujundite ja nende elementide omadusi, kujutab vastavaid kujundeid joonisel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib IKT vahendite abil geomeetriliste kujundite omadusi ning kujutab vastavaid kujundeid joonisel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab planimeetria arvutusülesandeid ja lihtsamaid tõestusülesandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ainealased ja reaalelulised probleemid, mis on lahendatavad tasandigeomeetrias õpitud kujundite omadustega. Tõlgib need matemaatika keelde, lahendab matemaatiliselt ning tõlgendab ja esitleb saadud tulemusi.",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Meetrilised seosed täisnurkses kolmnurgas.</p><p>Hulknurk, selle liigid.</p><p>Kumera hulknurga sisenurkade summa.</p><p>Hulknurkade sarnasus. Sarnaste hulknurkade ümbermõõtude suhe ja pindalade suhe.</p><p>Hulknurga sise- ja ümberringjoon.</p><p>Rööpkülik, selle liigid ja omadused.</p><p>Trapets, selle liigid.</p><p>Trapetsi kesklõik, selle omadused.</p><p>Kesknurk ja piirdenurk. Thalese teoreem.</p><p>Ringjoone lõikaja ning puutuja.</p><p>Kõõl- ja puutujahulknurk. Kolmnurga pindala.</p><p>Ainealaste ja reaaleluliste probleemide lahendamine tasandigeomeetria abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Planimeetria teemat pole gümnaasiumis enne põhjalikult korratud, juurde on õpitud üksnes kolmnurga lahendamine siinus- ja koosinusteoreemiga, võimalus kasutada vektoreid (analüütiline geomeetria) ning juurde on õpitud pindala valemeid. Seetõttu on vaja põhikoolis õpitu põhjalikult üle korrata.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Põhiteemad kordamiseks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Kolmnurk – mis tingimustel on määratud, liigitus külgede ja nurkade järgi, sise- ja välisnurk, nurgapoolitaja ja selle omadus (põhikoolis omadusest ei räägita), sise- ja ümberringjoon ning nende konstrueerimine, mediaan ja mediaanide omadus, kesklõik ja selle omadus.</li><li>Täisnurkne kolmnurk – meetrilised seosed, teravnurga trigonomeetrilised funktsioonid, sise- ja ümberringjoone raadius.</li><li>Kolmnurga lahendamine siinus- ja koosinusteoreemi järgi, kolmnurga pindala valemid. Pindalade meetod.</li><li>Hulknurk, selle liigid (kumer, mittekumer, korrapärane, mittekorrapärane). Kumera hulknurga sisenurkade summa. Hulknurkade sarnasus ning sarnaste hulknurkade ümbermõõtude suhe ja pindalade suhe. Hulknurga sise- ja ümberringjoon, kõõl- ja puutujahulknurk.</li><li>Rööpkülik, selle eriliigid (ruut, ristkülik, romb) ja omadused (ka sisenurga poolitaja).</li><li>Trapets, selle liigid (võrdhaarne, täisnurkne). Trapetsi kesklõik, selle omadus.</li><li>Ringjoone kesknurk ja piirdenurk. Thalese teoreem.</li><li>Ringjoone lõikaja ja puutuja, nende omadused.</li><li>Kahe paralleelse sirge lõikamine kolmandaga (põiknurgad, lähisnurgad).</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilane peab oskama kasutada kolmnurkade võrdsuse tunnuseid ja sarnasuse tunnuseid (KKK, KNK, NKN ja ülesannete kaudu tublimatele ka KKN).</p><p>Sarnaste hulknurkade puhul tuleks rõhutada, et mitte ainult küljed pole võrdelised, vaid ka kõik teised joonelemendid (nt kõrgused, vastavad mediaanid jm)</p><p>Korrates (sageli uuesti õppides) põhikoolis õpitut, tuleb nüüd rohkem tähelepanu pöörata teadmiste omavahelisele sidumisele, üksikult üldisele minekule, teksti hoolikale lugemisele ja loetu põhjal jooniste tegemisele. Joonised tuleb teha korrektsed ja piisavalt suured, et saaks joonisele märkida andmed. Oluline on rõhutada, et joonised ei tohi olla tehtud erijuhul, kui seda pole tekstis öeldud. Nt kolmnurga puhul ei tohi teha täisnurkset, võrdhaarset või võrdkülgset kolmnurka, kui tekstis seda öeldud ei ole.</p><p>Kujundite omaduste uurimiseks võib kasutada digivahendeid, samuti kontrollimiseks ning mõnel juhul aja kokkuhoiu mõttes ka arvutuste tegemiseks.</p><p>Lahenduskäigu kirjapanekut vihikus või tahvlil digivahendid ei asenda. Õpilases tuleb arendada vaatlusoskust ja seoste leidmise oskust, samuti tuleb näidata, et silmaga nähtav ei pruugi olla õige.</p><p>Kõige rohkem teame kolmnurgast, järelikult tuleb kolmnurki märgata teistes kujundites, eriti otsida täisnurkseid kolmnurki. Neid oskusi on vaja ka ruumigeomeetriat õppides.</p><p>Üks tõestusülesande võimalusi võib olla üldkujul ülesande lahendamine (kas esimene etapp ülesandes või kogu ülesanne).</p><p>Kui koolis korraldatakse projektipäevi, võib selle sisuks olla nt eluline ülesanne oma korteri (maja) sanitaarremondi kalkulatsiooni koostamine (rühma- või paaristööna). Õpilased peaksid käima kaupluses vaatamas või uurima internetikauplustes hindu ja materjale, arvestama reserve, tegema korteri plaani jne. Lisandub ka protsentarvutus ja töö korrektne vormistamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120&sort=publisher_az",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20070-L11-Integraal-Planimeetria",
+              "title": "L11 Integraal. Planimeetria (e-koolikott.ee)"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/xi-kursus-integraal-planimeetria",
+              "title": "Õpetajaraamat - XI kursus „Integraal. Planimeetria” (google.com)"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee//wp-content/uploads/2016/09/Tiit_lepmann.pdf",
+              "title": "Dünaamilised slaidid geomeetria õpetamisel"
+            },
+            {
+              "kind": "embed",
+              "src": "https://www.geogebra.org/m/BduJMA2u#chapter/65963"
+            },
+            { "kind": "embed", "src": "https://www.geogebra.org/m/BduJMA2u" },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1js3DEOlIlLNrQmJtL6SBAvtQPX7EIZjRRgIsFaONxlw/edit#gid=2027870988",
+              "title": "Sobivaid eestikeelseid Desmose töölehti võib leida"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@Videoops",
+              "title": "Kordamiseks võib kasutada Videoõpsi videosid youtube keskkonnas"
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadideks"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/geomeetria_1_baasulesanne.pdf",
+              "title": "Geomeetria baasülesanne"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/geomeetria_2_mediaanid.pdf",
+              "title": "Kolmnurga mediaanide omadused"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/geomeetria_3_nurgapoolitajad.pdf",
+              "title": "Kolmnurga nurgapoolitajate omadused"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/geomeetria_4_korgused.pdf",
+              "title": "Kolmnurga kõrguste omadused"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/geomeetria_5_piisavus_ja_tarvilikkus.pdf",
+              "title": "Kas kolmnurk on võrdkülgne?"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/geomeetria_6_seos_ringjoontega.pdf",
+              "title": "Seos ringjoontega"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/geomeetria_7_lisakonstruktsioonid.pdf",
+              "title": "Lisakonstruktsioonide meetod"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/mat_gymn_pindalade_mootmine.pdf",
+              "title": "Pindalade mõõtmine"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p><p>Õppimist toetavast hindamisest täpsemalt: <a href=\"https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/\">https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/</a></p><p>Tugevamatele võib soovitada</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadideks"
+            },
+            { "kind": "text", "html": "<p>Huvilistele sobib</p>" },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tartu Ülikooli Teaduskooli materjalid sobivad tööks tugevamatele õpilastele ning ka olümpiaadideks valmistumisel.</p><p><em>Vt näiteülesandeid lehekülje allosas</em>.</p><p>Ülesannete raskusaste:</p><p><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</p><p><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</p><p><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Geomeetriaga on võimalik seostada mitmeid objekte, nt hooneid, nende põhiplaane erinevate objektide asukohaga, määratud kujundit kaardil, tänavate võrgustikku, aga näiteks ka Bermuda kolmnurka, mis võimaldab omakorda luua seose kunstiga, geograafiaga ning kultuuriga.</p><p>Maatükid, detailplaneeringud, paigutus- ja tükeldamisülesanded seonduvad geograafiaga ning reaalse eluga.</p><p>Kunstiõpetuses kasutatakse mitmesuguseid erinevaid kujundeid eri kunstivooludes ning arvutatakse värvikulu erinevate pindade värvimisel.</p><p>Programmeerimiskeeltes kasutatakse kokkuleppeliselt geomeetrilisi kujundeid plokkskeeme kirja pannes.</p><p>Kuna geomeetriaülesanded on tihedalt seotud funktsionaalse lugemisega, siis tuleb seda jätkuvalt harjutada.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+                  "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Läbivad teemad kursuse vältel",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Elukestev õpe ja karjääri kujundamine.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Abstraktse ja loogilise mõtlemise areng.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Kultuuriline identiteet.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Matemaatika ajalugu, B. Riemann, A. L. Cauchy, G. W. Leibnitz, I. Newton.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Kodanikualgatus ja ettevõtlikkus.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Rühmatöö ja paaristöö, koostööoskuste arendamine.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Väärtus ja kõlblus.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Süstemaatilisuse, püsivuse, täpsuse, korrektsuse ja kohusetunde arendamine.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Tehnoloogia ja innovatsioon.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Digivahendite kasutamine õppetöös.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Teabekeskkond ja meediakasutus.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Erinevate andmete otsimine projektitöö läbiviimiseks ja eluliste ülesannete koostamiseks.</p>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454736/LAI_MATEMAATIKA_11.%20kursus%20N%C3%A4ite%C3%BClesanded.docx?version=1&modificationDate=1706621739507&api=v2",
+          "title": "LAI_MATEMAATIKA_11. kursus Näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454736/LAI_MATEMAATIKA_11.%20kursus%20N%C3%A4ite%C3%BClesanded.pdf?version=1&modificationDate=1706621739476&api=v2",
+          "title": "LAI_MATEMAATIKA_11. kursus Näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

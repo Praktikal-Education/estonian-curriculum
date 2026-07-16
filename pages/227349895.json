@@ -1,0 +1,132 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Paljud inimesed kasutavad igapäevaselt erinevat tarkvara, et õppida, töötada või sisustada vaba aega. Sageli ei mõelda sellele, kuidas tarkvara täpsemalt töötab ning millise ülesehitusega see on. Tööpõhimõtete täpsem tundmine võimaldab rakendusi paremini kasutada ning uuendustega kergemini kohaneda. Selleks et tarkvaraga seonduvat sügavamalt mõista, on kasulik omada programmeerimisega seotud teadmisi ja oskusi.</p><p>Programmeerimise oskus on vajalik ka tehnoloogiliste lahenduste arendamiseks ja kohandamiseks vastavalt oma soovidele.</p><p>Kursusel “Programmeerimine” saavad õpilased programmeerimise algoskused. Eelnevat kokkupuudet programmeerimisega ei eeldata.</p><p>Kursusel tutvustatakse programmeerimise lähtealuseid ja põhimõisteid, mis on aluseks kursuse käigus arendavate programmeerimisoskuste kujunemisele. Olulisel kohal on mõtlemise ja üldpädevuste (sh digipädevused, matemaatika-, loodusteaduste- ning tehnoloogiaalase pädevus) arendamine, rakendades õppemeetodeid ja -materjale, mis on ülesehitatud nii, et need oleks igapäevaelulised ja lõimitud teiste õppeainetega.</p><p>Kursus põhineb ühel konkreetsel professionaalsel programmeerimiskeelel (nt Python), mis võib kooliti erineda.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "oskab kirjeldada ja kasutada programmi elemente (muutuja, tsükkel, funktsioon jne) ühes programmeerimiskeeles;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab analüüsida probleeme, mille lahendamiseks piisab kursusel käsitletavast materjalist, ning valib probleemi lahendamiseks sobiva algoritmi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab luua algoritmi põhjal töötava programmi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab testida loodud programmi tööd, leiab ja parandab puudused;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab analüüsida etteantud programmikoodi ilma seda käivitamata.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Gümnaasiumi valikkursus „Programmeerimine“",
+      "children": [
+        {
+          "kind": "section",
+          "title": "LÕIMING TEISTE AINETEGA",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Programmeerimise kursust on kõige paremini võimalik siduda teiste õppeainetega ülesannete kaudu. Näidisülesanded (saadaval koos automaatkontrollidega keskkonnas <a href=\"http://lahendus.ut.ee\">lahendus.ut.ee</a>) sisaldavad teemasid ühiskonnaõpetusest (presidendid), matemaatikast (jäägi leidmine, vanuse, pikkuse, kalkulaatori, taimeri ülesanded), kehalisest kasvatusest (sammulugeja, kahevõistluse punktid, püramiidi süsteem), majaandusõppest (liitintress, kontojääk), kunstiõpetusest (emotikonide, autode, lillede joonistamine) jne</p><p>Parim viis õpilaste loomingulise lõimingu näitamiseks on individuaal- või rühmatööna valminud projektid nagu näiteks tekstipõhised seiklusmängud, matemaatika/füüsika/keemia kalkulaatorid, morse kood või krüpteerimise programm, pangaautomaat/valuutavahetus, retseptikogu, õppeprogrammide koostamine küsimus-vastused stiilis ainepõhiste testidega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÜLDPÄDEVUSTE KUJUNDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eelmainitud ülesanded ja projekt annavad võimalusi ka kultuuri- ja väärtuspädevuse arendamiseks nii paaris- kui ka rühmatöös. Projektide võimalus ennast teostada annab võimaluse arendada ka sotsiaalset ja kodanikupädevust. Ülesannete lahendamisel valikuvõimalus ja ka projektitöö võimaldavad leida just õpilase tasemele sobivaid väljakutseid arendades enesemääratluspädevust. Ümberpööratud klassiruumi kasutamine koos projektiga võimaldab arendada suutlikkust organiseerida õppekeskkonda individuaalselt ja rühmas ehk arendab õpipädevust. Ümberpööratud klassiruumi aktiivsed tunnitööd koos projektiga arendavad suutlikkust ennast selgelt, ajakohaselt ja viisakalt väljendada ehk suhtluspädevust. Programmeerimisülesanded on naturaalne viis arendamaks matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevust. Projektitöö on hea näide ettevõtlikkuspädevuse arendamisest, kus on olulisel kohal suutlikkus ideid luua ja ellu viia, kasutades omandatud teadmisi ja oskusi. Programmeerimise ja ka rühma projekti läbiviimisel areneb ka digipädevus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LÄBIVATE TEEMADE KÄSITLUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Programmeerimise õpetamisel on olulisel kohal ka edasiõppimisvõimaluste ja IT-ametite tutvustamine, mis panustab elukestva õppe ja karjääri kujundamisele. Programmeerimisülesanded sageli toetuvad algoritmide koostamisele, mis põhinevad automatiseerimist ja efektiivseima lahenduse leidmist- need on otseseks mõjuteguriks keskkonna ja jätkusuutliku arengu põhiprintsiipide käsitlemisel. Enda tarkvaraprototüübi loomine õpilaste või laiemalt ühiskonna probleemide lahendamiseks käsitleb ka kodanikualgatust ja ettevõtlikkust. Rahvus ja rahvusvahelise temaatikat puudutavad ülesanded ja projektid käsitlevad kultuurilise identiteedi teemat.</p><p>Lehekülg <a href=\"https://startupestonia.ee/startup-database/\">https://startupestonia.ee/startup-database/</a> annab ülevaate Eesti startupidest. Selleks, et õpilased saaks laiema pildi IT-valdkonna võimalusest ja nõutud oskustest, oleks soovitatav suunata neid ka teabekeskkonna ja meediakasutuse teemal lugema tehnoloogia ja startupinduse arenguga seotud uudiseid. Sellega seondub naturaalselt ka tehnoloogia ja innovatsiooni teema.</p><p>Informaatikatundides on oluline juba varakult kokkuleppida arvutiklassi reegleid ja selgitada ergonoomilise istumise ja liikumispauside olulisust. Probleemide lahendamisel tuleks suunata õpilasi üksteist aitama ja toetama käsitledes nii väärtuste ja kõlbluse teemat.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÕPPEMEETODID ja -VÕTTED",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuna gümnaasiumi programmeerimiskursus on kaetud sihtgrupile sobiva õppemateraliga, saab siin kasutada erinevaid õppemeetodeid- olgu selleks siis traditsiooniline tund või ümberpööratud klassiruumi metoodika.</p><p>Programmeerimise kursuse õppematerjal toetab nii traditsioonilise tunni andmist, kus tunnis tutvustatakse uut teemat ja lahendatakse õpetaja abiga siis ülesandeid kui ka ümberpööratud klassiruumi metoodikat, kus õpilastel on võimalik kodus iseseisvalt tutvuda materjaliga ja lahendada tagasisidet kohest tagasisidet andvaid automaatkontrollidega varustatud ülesandeid. Viimasel juhul saab õpetaja tunni alguses teha kordava minitesti ja tunnis jooksvalt aidata õpilastel minna süvitsi keerukamate programmeerimise nüanssidega kasutades erinevaid aktiivõppe meetodeid. Näiteks saavad õpilased töölehti kasutades paarides arutada, kuidas parandada vigaseid programme, ennustada programmide tööd ja seejärel kontrollida tulemust, täita lüngad programmides, koostada programme vastavalt plokkskeemidele jne. Programmeerimise kursuse õpetajamaterjalid sisaldavad tundide läbiviimiseks vajalikke teste, töölehti ja vajadusel ka näidiskontrolltöid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HINDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Programmeerimise kursuse hindamine võib olla arvestuslik- sellisel juhul saab nõuda soovitud ulatuses iseseisvate tööde tegemist teatud tasemel.</p><p>Hindelise kursuse puhul saab õpetaja otsustada, kuidas hinne kujuneb näiteks ülesannete, testide, paaristööde, projekti ja kontrolltöö punktide summana. Soovitaks vähemalt pooled hindelise kursuse punktid anda kontrollitud oludes sooritatud tööde nagu näiteks kontrolltöö eest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LISAMATERJALID",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/digitaru/programmeerimine/",
+              "title": "Gümnaasiumi informaatika valikkursuse “Programmeerimine” õpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/digitaru/programmeerimine/chapter/opetajamaterjal/",
+              "title": "Ja õpiku õpetajamaterjal (sisaldab ainekava infot, teste, paaristöid)"
+            },
+            {
+              "kind": "link",
+              "href": "https://lahendus.ut.ee",
+              "title": "Automaatkontrollide kasutamiseks ja loomiseks on olemas keskkond Lahendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://didaktika.cs.ut.ee/lahendus-kasutusjuhend-opetajale/",
+              "title": "kasutusjuhend õpetajale"
+            },
+            {
+              "kind": "link",
+              "href": "mailto:tauno.palts@ut.ee",
+              "title": "parooli saab küsida tauno.palts@ut.ee"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

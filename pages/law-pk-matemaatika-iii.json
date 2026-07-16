@@ -1,0 +1,100 @@
+{
+  "content": [
+    {
+      "kind": "outcome",
+      "text": "kasutab iseseisvalt matemaatikat õppides otstarbekaid info- ja kommunikatsioonitehnoloogia vahendeid, sh sisestab matemaatilisi sümboleid ja tehteid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "mõistab matemaatiliste mõistete ja seoste vahelist süsteemsust;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "põhjendab ja kasutab astendamisreegleid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "arvutab arvu 10 negatiivse täisarvulise astendajaga astme väärtuse;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kirjutab suuri ja väikseid arve standardkujul;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab protsentarvutusel erinevaid lahendusmeetodeid (ühikumeetod, võrre, skeem, algoritm).",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab tabelarvutusprogrammi andmete esitamiseks, töötlemiseks ja tulemuste tõlgendamiseks;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "korrastab üks- ja hulkliikmeid, liidab, lahutab ning korrutab üks- ja hulkliikmeid ning jagab üksliikmeid ja hulkliiget üksliikmega;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "nimetab võrrandi põhiomadusi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab eluliste näidete põhjal võrdelise, lineaarse ja pöördvõrdelise sõltuvuse tähendust;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "mõistab ja tunneb ära võrdelise ja pöördvõrdelise seose (nt liikumisel teepikkus, aeg, kiirus);",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "joonestab ja konstrueerib (käsitsi ja arvutiga) tasandilisi kujundeid (korrapärane hulknurk, kolmnurk, rööpkülik, trapets, ring) etteantud elementide järgi korrapärase hulknurga ja kolmnurga sise-ja ümberringjoone;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab kolmnurga ja trapetsi kesklõigu mõistet ning nende omadusi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab kesk- ja piirdenurga mõisteid ning nendevahelist seost;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab ringjoone puutuja mõistet ja omadust;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab põik- ja lähisnurkade mõisteid ja nende nurkade seoseid paralleelsete sirgete korral;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "põhjendab ja kasutab sirgete paralleelsuse tunnuseid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa5.pdf",
+          "title": "Riigi Teataja – Põhikooli riikliku õppekava lisa 5 „Matemaatika“"
+        }
+      ]
+    }
+  ]
+}

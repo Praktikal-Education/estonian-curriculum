@@ -1,0 +1,403 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "I teema: Eesti sõjaajalugu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tundide läbiviimisel võib kaasata valdkonna eksperte või korraldada õppekäike. Arutelud sellest, kuidas on mõjutanud sõjaajalugu Eesti arengut ning tänapäeva. Arutelu võiks põhineda filmidel: Nimed Marmortahvlil, Detsembrikuumus, 1944, O2.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppekäigu sihtkohtadeks sõjaajalugu käsitlevad muuseumid, lahingpaigad, riigikaitselised ehitised, sõjaväekalmistud, endised NL väeosade asupaigad, kus on säilinud ehitised. Esmane prioriteet õppekäiguna on Eesti Sõjamuuseum.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mitteeristav hindamine läbi aruteludes osalemise. Eristava hindamise puhul kirjalik test.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "II teema: Tänapäeva sõjalised kriisid, sõjad ja relvakonfliktid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keskenduda ühele sõjalisele konfliktile, kus on või oli seos Eestiga. Detailsem tutvustamine ja analüüs. Kaasata veterane, kes on konkreetses konfliktis osalenud. Tutvustada taustsüsteemi – ülevaade riigist, konflikti põhjustest, rahvusvahelisest sekkumisest ja tulemustest. Eestlaste roll konfliktis, sõdurite rutiinid ja olme. Kohalike olme.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Küberkaitse teema käitlemisel tuleb tutvustada küberhügieeni põhitõdesid ja erinevaid küberründe viise (teenustõkestus, õngitsus, botnet, lunaraha, näotustamine jne) ja nende eesmärke ning esmaseid kaitsevahendeid. Tutvustatakse avalike allikate luure võimalusi kübermaailma näitel (näiteks võivad õpilased grupitööna koguda infot oma õpetaja või muu inimese kohta). Õpilastel peab tekkima kriitiline mõtlemisvõime ühelt poolt osas, mis infot nad enda kohta avaldavad ja teisalt kas leitud info on tõene või mitte. Lisaks peavad õpilase suutma seletada mõisteid geotag, viirusetõrje ning omandatakse põhitõed info käideldavust, terviklikkust ja salastatusest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvestades tunni spetsiifikat ja sõltuvalt õpetaja ettevalmistusest on soovitus kutsuda tundi andma spetsialist mõnest küberkaitse eest vastutavast organisatsioonist (Küberväejuhatus, Kaitseliidu Küberkaitseüksus, Riigi Infosüsteemide Amet) või viia tund läbi koostöös informaatikaõpetajaga.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Info- ja psühholoogilised operatsioonide tutvustamisel tuleb õpilastele anda ülevaade eesmärkidest ja mõjust ning tuua näiteid toetavast rollist sõjalistes operatsioonides. Tuua näiteid (soome 100 margaste kehtivuse kaotamine, snaiprid valgetes sukkpükstes, eesti laste natsilaagrid). Lahti tuleb seletada mõisted libakonto, kasulikud idioodid, strateegiline kommunikatsioon, propaganda, libauudised, hübriidkonfliktid. Tutvustada tuleb kaitsemehhanisme ja valdkondlikke organisatsioone (Riigikantselei, PropaStop jne). Ajakirjanduse roll info-operatsioonide tõrjumisel ja tuvastamisel. Praktiline ülesanne luua uudis sama fakti kohta erineva osapoole vaatenurgast. Võimalusel kaasata strateegilise kommunikatsiooni eksperte kaitsevaldkonna, samuti arutleda allikate kontrollimise vajalikkuse üle.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Massihävitusrelvad. Relvade eesmärk, liigid (ABK) ja mõju (keskkond, epideemia, psühholoogilised efektid). Relvade ajalugu, sõjaline ja mittesõjaline (terrorism) kasutamine. Tutvustada õpilastele tuumariike, arutada kuidas mõjutab tuumarelv globaalset julgeolekut.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Näidata ABK kaitsevahendid, võimaldada õpilastel neid ise kasutada.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mitteeristav hindamine, ülesannetes osalemine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "III teema: Eesti julgeoleku- ja kaitsepoliitika ning riigikaitse juhtimine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Julgeoleku ja kaitsepoliitika osas lähtutakse julgeolekupoliitika alustest. Alamteemadeks rahvusvaheline koostöö julgeoleku tagamisel, kuulumine rahvusvahelistesse organisatsioonidesse, laiapindsus, ühiskondlik sidusus. Võimaluse korral külastada riigikaitselist ülesannet täitvat asutust ning viia tund läbi seal.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>NATO Tunni raames tutvustada organisatsiooni ajalugu, liikmed ning liitumisaegset poliitilist olukorda. Washingtoni lepingu põhipunktid. Eestlased NATOs ja NATO Eestis, Natoonia mäng. Võimalusel kaasata tundi Eestis resideeruv NATO sõjaväelane (näiteks sõdurid, kaitseatašee, liitlaste pressiohvitser või S2) või NATOs välisteenistuses olnud inimene või Eesti NATO Ühingu esindaja.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Enne kaitseväe funktsioonide ja struktuuri käsitlemist õppida selgeks maaväe väeüksused (jagu kuni diviis) ning väe- ja relvaliigid. Õpilastele tutvustatakse kaitseväe struktuuri ja allüksuste relvastust ning sümboolikat (embleemid ja lipud). Lõimitakse struktuur ajateenistuse läbimise võimalustega ja õpitavate erialadega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võimalusel kannab õpetaja erinevat kaitseväe vormi (välivorm ja tavavorm) või kaasab külaliskoolitajaid, kes vormi kannavad eesmärgiga kinnistada õpilastes teadmist, milline näeb välja kaitseväelase vorm.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kaitseliidu tunnis võrreldakse organisatsiooni erisusi võrreldes Kaitseväega, tutvustatakse ajalugu, struktuuri, allorganisatsioone, liikmete hulka ja liitumisvõimalusi. Kaardistada ära klassis noored, kes on Kaitseliiduga seotud ja lasta neil ise omast kogemusest lähtuvalt tutvustada organisatsiooni. Kutsuda üles noorkotkaid ja kodutütreid kandma riigikaitsetunnis oma organisatsiooni vormi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mitteeristav hindamine, grupitööd, arutelud.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "IV teema: Kaitseväeteenistus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võimalusel kaasata oma kooli vilistlasest ajateenija tundi, kes räägib oma sõnadega oma teekonnast ajateenistusesse, sõduribaaskursusest ning edasisest väljaõppest. Olme, suhtlus kaaslastega, vaba aeg. Võimaluse korral tutvustab oma varustust. Vajadusel suunata ajateenijat küsimustega. Tutvustada klassiga koos ajateenistusesse minemise võimalust. Naiste roll ja võimalused riigikaitses. Kaardistada ära ajateenistusest huvituvad naised ning viia nad kokku ajateenistuses olevate või selle läbinud naistega.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kuidas toimub kutsealuseks võtmine ning mis tegevused eelnevad ajateenistusele.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kaitseressursside Amet toetab vilistlastest ajateenijate kooli tulekut ning ajateenistuse tutvustamist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Külastada väeosa ja tutvuda kasarmuga, relvastuse ja muu varustusega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mitteeristav hindamine</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "V teema: Riviõpe",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpetada lihtsamaid rivivõtteid – seisangud, pöörded, tervitamine, taktsamm.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lisaks praktilisele rivitunnile kaasata rivitunnis õpitud teadmisi teiste teemade läbimisel. Näiteks õppekäikudel liikumine rivi korras, valvel ja vabalt seisang tunni alguses ja tervitamine. Rakendada kaitseväelaslikku pöördumist (õpetajaks kutsumise asemel pöörduvad õpilased kui härra/proua + auaste)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mitteeristav hindamine, harjutustes osavõtt</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "VI teema: Relvaõpe- ja ohutus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpetada relva tööpõhimõtet automaatrelvadega, millest on olemas ka tsiviilversioon ning millega toimub laskeõpe (näiteks õpetada RAHE käsitlemist ning laskmised AR15/M16-l põhineva poolautomaatse relvaga). Kaitseväes kasutatavad relvi ja relvasüsteeme on võimalik õpetada koos kaitseväe struktuuriga (mis relvi mis üksused kasutavad).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ballistika, kasutada vastavaid õppevideoid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võimalusel viia läbi laskeõpe koos Kaitseliidu või Kaitseväe üksusega kursuse „Praktiline õpe välilaagris“ jooksul. Arvestada õppe läbiviimisel õpilaste moraalseid, usulisi ja kõlbelisi tõekspidamisi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mitteeristav hindamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "VII teema: Topograafia ja orienteerumine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Looduses liikumise õpetamine koos kaardiga. Eesmärk tutvustada kompassi tööd ning praktiseerida ka sellega liikumist. Võimalusel tutvustada ka GPS seadmeid ning liikuda looduses/linnas füüsiliselt ringi. Koostöös liikumisõpetajaga teha praktilisi harjutusi koos kaardiga. Õppevahendite puudumisel nagu näiteks kompass toetab Kaitseressursside Amet.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Praktilise õppe korral õpilaste kaasamine orienteerumis päevakutele. Arvestada vähemalt 1 kompass paari peale. Kasutada õpetamisel kohaliku piirkonna kaarti nii, et õpilased saavad määrata asimuuti näiteks koolist koju või mõõta vahemaid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mitteeristav hindamine, harjutustel osalemine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "VIII teema: Esmaabi",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>ROLE1-ROLE3 kaitseväes (funktsioonid ja erinevused) tutvustamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Erinevate isikute rollid. Ajateenistuses pakutava meditsiinilise väljaõppe tutvustamine. Sõduri esmaabikomplekti MK1 tutvustus ja selle elementide tööpõhimõtte tutvustamine (žgutt, kolmnurkrätik ja rõhkside). Jaosanitari ja rühmaparameediku varustuse tutvustamine. MIST-raporti ja 9-lineri tutvustamine, triaaži põhimõtete tutvustamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tunni läbiviija peab olema vastava väljaõppega. Arvestada, et G2 ja G3 puhul on paljud õpilased äsja läbinud esmaabi väljaõppe läbi autokooli, mistõttu võib rohkem keskenduda lahingmeditsiinile. Võimalusel kaasata lahingkogemusega meedikut</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mitteeristav hindamine, praktiliste tegevuste läbimine, teadmiste kontroll.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "IX teema: Siseturvalisus ja elanikkonnakaitse",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Alustada tuleks suure pildi loomisest. Oluline, et õpilane mõistab kogu tervikut (mis on inimese enda roll, mis KOV roll, mis on riigi roll?). Hea oleks avada ka maailmas toimuvat, millised on mured mujal ja mis toimub ümberringi.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kriiside tutvustamisel on soovitav kasutada <em>Youtube</em> videoklippe reaalsetest sündmustest ja kriisidest. Eesti elanikkonnakaitse ja kriisideks valmistumise teemadel leiab Päästeameti kodulehel palju erinevaid juhendmaterjale ja videoklippe (nt õppevideo „Torm“ on läbilõige kodusest valmisolekust).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õppetegevuse raames võib kutsuda rääkima ka kriisi ja elanikkonnakaitse eksperdid, nt Päästeametist.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Allikmaterjalid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õppetöös on soovitav lähtuda järgmistest allikmaterjalidest:</p><ul><li>Siseturvalisuse arengukava (siseministeerium);</li><li>Kriisireguleerimispoliitika ülevaade (siseministeerium);</li></ul>"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://rescue.ee",
+                  "title": "Päästeameti kodulehekülg"
+                },
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Elanikkonna hädaolukorraks valmisoleku alase teadlikkuse;</li><li>eesti.ee (kriisideks valmisolek).</li><li>Ole Valmis! äpi alla laadimine ning selle tutvustamine.</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpikeskkond valdavalt klassis. Spetsiifilisemate teemade tutvustamiseks (nt varjendid, sireenid, evakuatsioonikohad) tuleks leida piirkonnas lähim koht ja minna tutvuma.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mitteeristav hindamine, grupitööd, arutelud, Kahoot! (nt koos motiveerivate auhindadega).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Võib kasutada ka iseseisvat kodutööd, kus õpilased teevad koduse riskianalüüsi, hinnates oma kodu valmisolekut (nt valmidus elutähtsate teenuste katkestusteks, kodused varud, suitsuandurid, tulekustutid jne).</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

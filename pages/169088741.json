@@ -1,0 +1,89 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Muusika aines püütakse äratada huvi muusika vastu, kujundada aktiivset ja emotsionaalset musitseerimist ning arendada teadlikku muusika kuulamise ja hindamise oskust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Põhikooli lihtsustatud riikliku õppekava õppeprotsesside kirjeldused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>seovad endas riikliku määruse <a href=\"https://www.riigiteataja.ee/aktilisa/1080/3202/3004/18m_pohi_liht_lisa1.pdf\">PLRÕK Lisa 1 Lihtsustatud õpe (riigiteataja.ee)</a> väljavõtted ja õpetajate-praktikute töörühma soovitused.</p><p>Neid õppeprotsesside kirjeldusi saab käsitleda kui koolidele ja õpetajatele antavaid soovitusi, kuidas riikliku õppekavaga seatud sihte rakendada kooli õppekavas ja igapäevases õppetegevuses. Koolide õppekavades tuleks iga ainekava juures täpsustada õppesisu, ehk kirjeldada, kuidas õppekavas ettenähtud õpitulemusteni jõutakse, arvestades kooli ja kogukonna soove, võimalusi ja eripärasid.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Käesoleva kogumiku I, II ja III kooliastme kaustade",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>esilehtedel on leitavad väljavõtted kooliastmete õpitulemustest ning õppetegevuse kirjeldused arenguperioodide kaupa.</p><p>Osaoskuste (laulmine, pillimäng, muusikaline liikumine, muusika kuulamine, muusikaline omalooming) kaupa on leitavad õppevara, juhendmaterjalide ja metoodiliste artiklite nimekirjad ning metoodilised soovitused õppetöö läbiviimiseks.</p><p>Kausta esilehelt leiab veel lõimingusoovitused teiste õppeainetega ning õppekava läbivate teemadega.</p><p>Kooliastme kaustas on klasside jaotustes soovituslik õppesisu osaoskuste kaupa.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lihtsustatud õppe",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lihtsustatud õppe puhul tuleb arvestada õpilaste arenguperioode, mis jagunevad järgmiselt: 1.–2. kl, 3.–5. kl, 6.–7. kl, 8.–9. kl.</p><p>Selline jaotus, mis ei ühti kooliastmetega, tuleneb õpilaste arengu seaduspärasustest – muutustest õppijate kognitiivses arengus ning kõne ja isiksuse arengus. <a href=\"https://www.riigiteataja.ee/aktilisa/1080/3202/3004/18m_pohi_liht_lisa1.pdf\">(PRLÕK § 1.2.5)</a></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lihtsustatud õppe põhiülesanne",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lihtsustatud õppe põhiülesanne (<a href=\"https://www.riigiteataja.ee/aktilisa/1080/3202/3004/18m_pohi_liht_lisa1.pdf\">PLRÕK Lisa 1 § 1.1</a>) on toetada ja suunata tõhustatud või erituge vajava õpilase arengut.</p><p>Lihtsustatud õppe sisu on valdavalt suunatud praktiliste oskuste ja teadmiste omandamisele.</p><p>Õpetamine, kasvatamine ja arengu toetamine toimub valdavalt praktilise õppeviisi (harjutamise) kaudu.</p><p>Reegleid ja teoreetilisi teadmisi õpetatakse minimaalselt, aga sel määral, et üldistada ja teadvustada praktiliselt omandatut.</p><p>Iga õpilase hariduslike erivajaduste ületamiseks või vähendamiseks rakendatakse temale sobilikke eripedagoogilisi meetodeid.</p><p>Vajaduse korral koostatakse õpilasele individuaalne õppekava, milles esitatakse vähendatud või ka kõrgendatud nõuded õpitulemustele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><a href=\"https://www.riigiteataja.ee/aktilisa/1080/3202/3004/18m_pohi_liht_lisa1.pdf\">PLRÕK Lisa1 p 4.8.1</a> Muusikaõpetusega taotletakse, et põhikooli lõpuks õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb rõõmu muusika kuulamisest ja musitseerimisest;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi muusika vastu, kuulab erinevat muusikat;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "julgeb muusika saatel liikuda ja kaaslastele esineda;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab kuulatud muusikat, väljendab muusikaalastes vestlustes oma eelistusi ja arvamusi, kasutades õpitud sõnavara;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab muusikat ja muusikategevust inimese, kultuuri ja igapäevaelu rikastajana.",
+          "outcomeType": "attitude"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse koostamise aluseks on Euroopa Liidu standard DigComp ja selle põhinevad soovitused kodanike digipädevuse arendamiseks. Valikkursus panustab kaasaegses infoühiskonnas edukalt hakkama saamisele, eelkõige õpilaste info- ja andmekirjaoskuse ning turvalise internetikäitumise kujundamisele. Valikkursuse eesmärk on aidata õpilastel mõista digitaalse info ja andmete rolli kaasaegses ühiskonnas, teadvustada privaatsuse ja digitaalse jälgimisega seotud probleeme ja nende võimalikke lahendusi. Valikkursuse käigus omandatut on võimalik arendada jätkates õpinguid kutsehariduskeskustes erinevatel info- ja kommunikatsioonitehnoloogia erialadel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "leiab digitaalset informatsiooni, hindab seda kriitiliselt ning kasutab oma igapäevaelu toimingutes;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tuvastab ja analüüsib enda ja kaaslaste digitaalseid jalajälgi ning võrdleb enda ning teiste digitaalset identiteeti reaalse identiteediga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujundab ja haldab turvaliselt oma digitaalset identiteeti ja digitaalset jalajälge peamistes veebikeskkondades, mida ta kasutab;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab suurandmete, tehisintellekti ja veebiplatvormide kasutamise analüütika vajalikkust reklaamis, turunduses ja teenuste parendamisel;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kogub ühe veebirakenduse (nt ajaveebi või kooli kodulehe) kasutuse kohta andmeid analüütikateenuse (nt Google Analytics abil) ja analüüsib neid analüütikatarkvara (nt Data Studio) abil;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab isikuandmete kaitse põhimõtteid andmekaitseseaduse vaatenurgast;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, mis on GDPR, millised õigused annab see internetikasutajale ja millised kohustused veebiteenuse pakkujale;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab digitaalse jälgimisega seotud eetilisi probleeme ning käitub internetis turvaliselt;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab andmekaitsealase mõjuhinnangu enda tegevuse suhtes koolis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tuvastab ja dokumenteerib juhtumipõhiselt isikuandmete töötlemise toiminguid ning isikuandmetega seotud rikkumisi algtasemel, koostab vajaduse korral selle põhjal rikkumisteate Andmekaitseinspektsioonile.",
+          "outcomeType": "skill"
+        }
+      ]
+    }
+  ]
+}

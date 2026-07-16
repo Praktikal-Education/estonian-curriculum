@@ -1,0 +1,812 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Anorgaaniliste ainete põhiklassid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab ja loob keemiateksti anorgaaniliste ainete omadustest ning ainetevahelistest seostest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib tugevate ja nõrkade hapete lahuste omadusi ning selgitab erinevusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib happeliste ja aluseliste oksiidide keemilisi omadusi: happeline oksiid + vesi, (tugevalt) aluseline oksiid + vesi, aluseline oksiid + hape, happeline oksiid + alus; koostab vastavate reaktsioonide võrrandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab temperatuuri mõju gaaside ning (enamiku) soolade lahustuvusele vees, kasutab ainete lahustuvuse graafikut ja lahustuvustabelit, et leida vajalikku infot ning teha arvutusi ja järeldusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab tähtsamate anorgaaniliste ühendite leidumist looduses ja kasutamist argielus (väetised, vee karedus, ehitusmaterjalid);",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab keemilise saaste allikaid ja analüüsib saastumise tekkepõhjusi, saastumisest tingitud keskkonnaprobleeme (happesademed, raskmetallide ühendid, üleväetamine) ning võimalikke keskkonna säästmise meetmeid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Happelised ja aluselised oksiidid, nende reageerimine veega.</li><li>Tugevad ja nõrgad happed. Hapete reageerimine aluseliste oksiididega.</li><li>Aluste reageerimine happeliste oksiididega.</li><li>Seosed anorgaaniliste ainete põhiklasside vahel. Soolade saamise võimalusi.</li><li>Ainete lahustuvus vees (kvantitatiivselt), selle sõltuvus temperatuurist (gaaside ja soolade näitel). Lahuste protsendilise koostise arvutused (tiheduse arvestamisega).</li><li>Anorgaanilised ühendid looduses ja igapäevaelus.</li><li>Põhilised keemilise saaste allikad, keskkonnaprobleemid: happevihmad (happesademed), keskkonna saastumine raskmetallide ühenditega, veekogude saastumine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>happeline oksiid, aluseline oksiid, tugev hape, nõrk hape, leelis, vee karedus, lahustuvus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>erinevate oksiidide ja vee vahelise reaktsiooni uurimine;</li><li>erinevate oksiidide hapete ja alustega reageerimise uurimine;</li><li>tugeva ja nõrga happe lahuste omaduste uurimine;</li><li>soola saamine ja eraldamine;</li><li>soolade lahustuvuse uurimine erinevatel temperatuuridel.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Anorgaaniliste ühendite põhiklassid (oksiidid, happed, alused ja soolad) on omavahel seotud mitmete reaktsioonide kaudu. Teemaga süvendatakse 8. klassis omandatud ettekujutust keemiliste ühendite põhiklassidest, pöörates tähelepanu aineklasside vahelistele seostele.</p><p>Ainete lahustuvus sõltub temperatuurist ning vastavaid seoseid on võimalik graafiliselt esitada. Lahuste arvutuste juures arvestatakse lahuste tihedusega. Anorgaaniliste ainete temaatika seostub ka keskkonna saastamise, happesademete, raskmetallide ühendite ja veekogude saastamisega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Anorgaaniliste ainete põhiklasse korratakse 8. klassis õpitu toel ning iga aineklassi uut osa saab alustada sobiva praktilise tööga, meenutades ohutusnõudeid. Harjutatakse reaktsioonivõrrandite koostamist, lahustuvuskõverate ja -tabelite kasutamist ning lahuste protsendilise koostise arvutamist tiheduse arvestamisega.</p><p>Teemas käsitletakse anorgaaniliste ainete rolli keskkonna saastamisel ning analüüsitakse keskkonna säästmise võimalusi. Õppetegevust diferentseeritakse lihtsustatud arvutusülesannete ja argieluliste näidete abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane jälgib ja planeerib katseid oksiidide, hapete, aluste ja sooladega, koostab reaktsioonivõrrandeid ja reaktsiooniskeeme, uurib lahustuvuse sõltuvust temperatuurist ning kasutab lahustuvustabeleid ja -kõveraid. Õpilane uurib keskkonnaprobleeme, väetisi, ehitusmaterjale ja vee karedust ning analüüsib keskkonna säästmise võimalusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Geograafia – maavarad, mineraalid ja kivimid, vee karedus, karst, happesademed, veekogude ja pinnase saastamine. Bioloogia – happesademete mõju taimedele, üleväetamine, veekogude eutrofeerumine, raskmetallide mõju organismidele. Tehnoloogiaõpetus – happelised ja aluselised puhastusvahendid. Füüsika – tiheduse kasutamine arvutustes, gaaside paisumine. Matemaatika – osa ja tervik, protsentarvutused, joondiagrammide lugemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kujundava hindamise objektideks võivad olla tunnikontrollid, praktilised tööd, kaasõpilase hindamine, Kahoot-viktoriin ja essee keskkonna säästmise teemal. Kokkuvõttev töö sisaldab anorgaaniliste ainete liigitamise, nimetuste ja valemite koostamise, reaktsioonivõrrandite, lahustuvuskõverate ja keskkonnaga seotud ülesandeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/1rRtGDNB3VB3ONMTYRlDgbvYRB3z-LUne/view?usp=sharing",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=mPn6iPeGfwk"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Vaavli_polemine",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Väävli põlemine"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Oksiidide_valmistamine",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Oksiidide valmistamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Happelised_ja_aluselised_oksiidid",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Happelised ja aluselised oksiidid"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=aYWA4Od8nhU"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/acid-base-solutions/latest/acid-base-solutions_all.html"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ANIUet7khb8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=TQ-110H2mL8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=vTmaYTCx-sk"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=qX48GTpOo-A"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Soolade_lahustuvus",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Soolade lahustuvus"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ZAyQWKmeo6Y"
+            },
+            { "kind": "video", "src": "https://youtu.be/Kq5LmENT2EI" },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/igapaevakeemia.php?v=Klaas",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Klaas"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/igapaevakeemia.php?v=Ehitussegud",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Ehitussegud"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/igapaevakeemia.php?v=Vee_karedus",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Vee karedus"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/igapaevakeemia.php?v=Vaetised",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Väetised"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HEV õpilastele",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/12468-Keemia-53-57-keelekumblus",
+              "title": "Lahuse kvantitatiivne koostis tööleht nr. 53"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/12416-Keemia-51-101-keelekumblus",
+              "title": "Keelekümbluse töölehed 8. klassile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Aine hulk. Moolarvutused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teeb arvutusi aine hulga, massi ja gaasi ruumala vaheliste seoste alusel, kasutab korrektselt vastavaid ühikuid ning põhjendab loogiliselt arvutuskäike;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib keemilise reaktsiooni võrrandis sisalduvat kvalitatiivset ja kvantitatiivset infot, mõistab ainete massi jäävust keemilistes reaktsioonides;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab reaktsioonivõrranditel põhinevaid arvutusülesandeid, lähtudes reaktsioonivõrrandite kordajatest (ainete moolsuhtest) ning reaktsioonis osalevate ainete hulkadest (moolides), tehes vajaduse korral ümberarvutusi ainehulga, massi ja (gaasi) ruumala vaheliste seoste alusel; põhjendab lahenduskäiku;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab loogiliselt arvutustulemuste õigsust ning teeb arvutustulemuste põhjal järeldusi ja otsustusi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Aine hulk, mool.</li><li>Molaarmass ja gaasi molaarruumala (normaaltingimustel).</li><li>Aine massi jäävus keemilistes reaktsioonides. Keemilise reaktsiooni võrrandis sisalduva kvalitatiivse ja kvantitatiivse info analüüs. Arvutused reaktsioonivõrrandite põhjal.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>aine hulk, mool, molaarmass, gaasi molaarruumala, normaaltingimused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aine hulka moolides ei saa otseselt mõõta; reaalselt mõõdetakse aine massi või ruumala. Aine hulga ja aine massi seob molaarmass ning gaasi ruumala ja hulga molaarruumala. Keemiliste reaktsioonide võrrandite põhjal arvutatakse reaktsiooniks vajalikke või tekkivaid ainekoguseid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mooli mõistet selgitatakse suurte hulkade loendamise võrdluste abil. Harjutatakse molaarmassi, molaarruumala ja reaktsioonivõrrandite kasutamist ning rõhutatakse ühikute, ümardamise ja tasakaalustatud reaktsioonivõrrandi tähtsust. Arvutusülesandeid diferentseeritakse vajaduse järgi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusõpetus – ühikute teisendamine. Matemaatika – valemist suuruste avaldamine, võrdelised seosed. Füüsika – temperatuur ja rõhk, nende mõju gaasidele (normaaltingimused), SI süsteem.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kujundava hindamise objektiks võivad olla tunnikontrollid aatomite loendamise, molaarmassi, massi ja hulga seose, molaarruumala ning reaktsioonivõrrandite järgi arvutamise kohta. Kokkuvõttev töö sisaldab kõiki õpitud tüüpi arvutusülesandeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=U6jHEEUPsYY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=g1s_JY9rcJs"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=taWb_GV6NXM"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Wz07BrMD2rE"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=m-orM45x_iw"
+            },
+            { "kind": "video", "src": "https://youtu.be/j2KOImM_SFM" },
+            {
+              "kind": "link",
+              "href": "https://jpk.edu.ee/~neeme/failid/yg/",
+              "title": "Ülesandegeneraator N. Katt"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1iBdfbBxnApncZPvTK6X5ITUkTCMwOrvp/edit?usp=sharing&ouid=104421339666784640445&rtpof=true&sd=true",
+              "title": "Projektõppe materjal K. Vaino Juku saab vesinikku"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HEV õpilastele",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453820/Moolide%20%20ja%20molaarmasside%2C%20gaaside%20molaarruumala%20arvutusu%CC%88l_2.docx?version=1&modificationDate=1706621644570&api=v2",
+              "title": "Lihtsustatud näiteülesanded Aleksander Abramov Moolide ja molaarmasside, gaaside molaarruumala arvutusül_2.docx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Süsinik ja süsinikuühendid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "võrdleb ning põhjendab süsiniku lihtainete omadusi, võrdleb süsinikoksiidide omadusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab süsinikuühendite paljususe põhjusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab süsinikuühendite struktuurivalemeid ja molekulimudeleid etteantud aatomite (C, H, O) arvu järgi, eristab lineaarset, hargnenud ja tsüklilist süsinikahelat;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "liigitab materjale hüdrofiilseks ja hüdrofoobseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab süsivesinike esinemisvorme looduses ja selgitab nende kasutusalasid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab struktuurivalemi põhjal süsivesinikke, alkohole ja karboksüülhappeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab süsivesinike ja etanooli täieliku põlemise reaktsioonivõrrandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib etaanhappe keemilisi omadusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab etanooli füsioloogilist toimet ja analüüsib sellega seotud probleeme igapäevaelus.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Süsinik lihtainena. Süsinikuoksiidid.</li><li>Süsivesinikud. Süsinikuühendite paljusus. Süsiniku võime moodustada lineaarseid ja hargnevaid ahelaid, tsükleid ning kordseid sidemeid. Molekulimudelid ja struktuurivalemid.</li><li>Süsivesinike esinemisvormid looduses ja kasutusalad. Süsivesinike täielik põlemine. Hüdrofiilsed ja hüdrofoobsed ained.</li><li>Alkoholid ja karboksüülhapped, nende tähtsamad esindajad ja kasutamine igapäevaelus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>süsivesinik, struktuurivalem, alkohol, karboksüülhape, hüdrofiilne aine, hüdrofoobne aine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>CO₂ saamine ja kasutamine tule kustutamisel;</li><li>süsinikuühendite molekulimudelite ja struktuurivalemite koostamine ja uurimine, sh digitaalses keskkonnas;</li><li>süsinikuühendite vastastiktoime veega;</li><li>süsinikuühendite põlemisreaktsioonide uurimine;</li><li>etaanhappe omaduste uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Süsinikuühendid kuuluvad kõigi organismide koostisse. Süsiniku lihtainete, süsiniku oksiidide, süsivesinike, alkoholide ja karboksüülhapete kaudu saadakse esmane ettekujutus orgaaniliste ainete struktuurist, omadustest ja kasutusest ning rajatakse alused orgaanilise keemia põhjalikumaks käsitlemiseks gümnaasiumis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilased teevad läbi ainekavas toodud katsed, kasutavad molekulimudeleid ja struktuurivalemeid ning seostavad süsinikuühendite käsitluse argielu, meedia ja keskkonnaprobleemidega. Rõhutatakse etanooli ja metanooli erinevust ning nende mõju organismile.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Bioloogia – karboksüülhapped organismides. Inimeseõpetus – alkoholi mõju inimesele, alkoholism. Geograafia – maavarad (maagaas, nafta, teemandid).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kujundava hindamise objektideks võivad olla tunnikontrollid, praktilised tööd ja rühmaarutelud. Kokkuvõttev töö sisaldab süsivesinike, alkoholide ja karboksüülhapete struktuurivalemite, põlemisreaktsioonide ning reaktsioonivõrrandite põhjal arvutamise ülesandeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/19UvS5llGOpL-oBz2Xh-J_Io6X0zAcxlV/edit?usp=sharing&ouid=104421339666784640445&rtpof=true&sd=true",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=jsMfqaUqGLk"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Susiniku_allotroobid",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Süsiniku allotroobid"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=qDae-Iay4Oo"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Oksiididega_tule_kustutamine",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Oksiididega tule kustutamine"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=_Os46LeMUqE"
+            },
+            {
+              "kind": "link",
+              "href": "https://eelmine.e-koolikott.ee/kogumik/28172-Disainipohise-oppe-rakendamise-naiteid-loodusteaduste-opetamisel",
+              "title": "Disainipõhise õppe rakendamise näiteid loodusteaduste õpetamisel"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=aAu-nDbRUOM"
+            },
+            { "kind": "video", "src": "https://youtu.be/NdCuztHzuLA" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=V_erkTqjKEg"
+            },
+            { "kind": "video", "src": "https://youtu.be/X84SwwvN50k" },
+            { "kind": "video", "src": "https://youtu.be/aO5UoBlYve8" },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/igapaevakeemia.php?v=Naftakeemia",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Naftakeemia"
+            },
+            { "kind": "video", "src": "https://youtu.be/qbj3SQMrqTg" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=wFFLjzf8SSA"
+            },
+            { "kind": "video", "src": "https://youtu.be/D8OBBXO3Uac" },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/alkohoolsed-joogid/58bab32b-f6c2-47d9-ac6a-e763bb0d264e",
+              "title": "Kahoot-viktoriin Alkohoolsed joogid"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ql0saSl9oV8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=GWiNuLIFDuk"
+            },
+            { "kind": "video", "src": "https://youtu.be/c84YDmoMbr4" },
+            {
+              "kind": "link",
+              "href": "https://molview.org/",
+              "title": "Molekulimudelite ja struktuurivalemite loomise veebipõhine keskkond Molview"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.acdlabs.com/resources/free-chemistry-software-apps/chemsketch-freeware/",
+              "title": "Molekulimudelite ja struktuurivalemite loomise töölauarakendus ACDChemSketch"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HEV õpilastele",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/12467-Keemia-26-32-keelekumblus",
+              "title": "Keelekümbluse töölehed 9. klassile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Süsinikuühendite roll looduses, süsinikuühendid materjalidena",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab ja uurib keemiliste reaktsioonide soojusefekti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib süsinikuühendite kasutusvõimalusi kütusena ning eristab taastuvaid ja taastumatuid energiaallikaid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb struktuurivalemi järgi polümeeri;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab sahhariidide, rasvade ja valkude rolli organismides, uurib nende omadusi ja sisaldust toiduainetes;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab tuntumaid süsinikuühenditel põhinevaid polümeerseid materjale (kiudained, plastid), analüüsib nende põhiomadusi, kasutamise võimalusi ja kasutamisega seonduvaid keskkonnaprobleeme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab elukeskkonda säästva suhtumise vajalikkust ning analüüsib keskkonna säästmise võimalusi.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Energia eraldumine ja neeldumine keemilistes reaktsioonides, ekso- ja endotermilised reaktsioonid.</li><li>Süsinikuühendid kütusena. Keskkonnaprobleemid: kasvuhoonegaasid.</li><li>Ettekujutus polümeeridest, plastid.</li><li>Eluks olulised süsinikuühendid (sahhariidid, rasvad, valgud), nende roll organismis. Kiudained.</li><li>Tarbekeemia saadused.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>eksotermiline reaktsioon, endotermiline reaktsioon, polümeer.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>ekso- ja endotermilise reaktsiooni uurimine;</li><li>toiduainete tärklisesisalduse uurimine;</li><li>valkude püsivuse uurimine;</li><li>rasva lahustuvuse uurimine erinevates lahustites;</li><li>polümeeride saamine ja omaduste uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keemiliste reaktsioonide käigus võib energiat nii eralduda kui ka neelduda. Süsinikuühendeid kasutatakse kütusena ja nende kasutamine mõjutab Maa kliimat. Polümeerid, sahhariidid, rasvad ja valgud on olulised nii elusorganismides kui igapäevaelus; nende käsitlemisel seostatakse energeetika-, toitumis-, ohutus- ja keskkonnaprobleeme.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema seotakse argielu, looduse ja inimese tegevusega. Võrreldakse ekso- ja endotermilisi protsesse, analüüsitakse kütuste, polümeeride ja tarbekeemiatoodete mõju keskkonnale ning käsitletakse sahhariidide, rasvade ja valkude tähtsust tervisliku toitumise seisukohast. Vajaduse korral kasutatakse LÕK 2010 lihtsustatud tekste ja ülesandeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Bioloogia – fotosüntees ja hingamine, toitained, organismide keemiline koostis ja elurikkuse kaitse. Inimeseõpetus – tervislik toitumine ja ohutus tarbekeemiasaaduste kasutamisel. Füüsika – keemilised vooluallikad, kütteväärtus. Tehnoloogiaõpetus – süsinikuühendid kiudmaterjalidena ja ehitusmaterjalidena. Geograafia – kasvuhooneefekt, kliima soojenemine, energiaallikad, kütused, põlevkivi, turvas. Ühiskonnaõpetus – globaalprobleemid, kütused poliitika mõjutajatena.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kujundava hindamise objektideks võivad olla tunnikontrollid, praktilised tööd, rollimäng ja poster säästva suhtumise vajalikkuse kohta. Teema kokkuvõtmiseks võib koostada kontrolltöö, lühivideo või rühmaesitlused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=LvadGckAv3U"
+            },
+            { "kind": "video", "src": "https://youtu.be/yBD1C3hAk_o" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=zE8UiwMe1o8"
+            },
+            { "kind": "video", "src": "https://youtu.be/qQ4kapwk3J0" },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/igapaevakeemia.php?v=Polevkivikeemia",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Põlekivikeemia"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=-3n4j96_Xac"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=9PUWWhOK0-I"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=p6VkeP8nHOU"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/igapaevakeemia.php?v=Polumeerid",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Polümeerid"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=WZEq5i-Llsk"
+            },
+            { "kind": "video", "src": "https://youtu.be/BAVMLlKrtNc" },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/igapaevakeemia.php?v=Puidukeemia",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Puidukeemia"
+            },
+            { "kind": "video", "src": "https://youtu.be/EhsGoIgLmaM" },
+            { "kind": "video", "src": "https://youtu.be/gyvyu4pvGbc" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=_S4irjBimd4"
+            },
+            { "kind": "video", "src": "https://youtu.be/M75JPVmZSOk" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=iS-6_b9DYC4"
+            },
+            { "kind": "video", "src": "https://youtu.be/lIUROxo_dok" },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/igapaevakeemia.php?v=Pesuvahendid",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Pesuvahendid"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/igapaevakeemia.php?v=Liimid_ja_varvid",
+              "title": "Interaktiivne õppevideo Superaccu OÜ Liimid ja värvid"
+            },
+            {
+              "kind": "link",
+              "href": "https://molview.org/",
+              "title": "Molekulimudelite ja struktuurivalemite loomise veebipõhine keskkond Molview"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.acdlabs.com/resources/free-chemistry-software-apps/chemsketch-freeware/",
+              "title": "Molekulimudelite ja struktuurivalemite loomise töölauarakendus ACDChemSketch"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/keemia-pohimoisted-pohikoolile/a8ba0bb3-7285-4cbb-87a4-8d8636da5024",
+              "title": "Kahoot-viktoriin Keemia põhimõisted põhikoolile"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HEV õpilastele",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/310/chapter/17313",
+              "title": "LÕK 2010 Toit kui energiaallikas"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/310/chapter/17314",
+              "title": "LÕK 2010 Eluks vajalikud süsinikuühendid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/310/chapter/17315",
+              "title": "LÕK 2010 Kütused"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/310/chapter/17316",
+              "title": "LÕK 2010 Plastid, kiud, tarbekeemiatooted"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/12468-Keemia-53-57-keelekumblus",
+              "title": "Kiudained tööleht nr. 57"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/SiaRo4omB8k?si=7q-diQvD_Yr3wWfx"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=WH5wR0AMw5g"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=BPCnde7usek&list=PLs6Oo9KiFMdh-u4TJ6mVWpKtho9yOCXaP&index=5"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=-3n4j96_Xac&list=PLs6Oo9KiFMdh-u4TJ6mVWpKtho9yOCXaP&index=1"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=9PUWWhOK0-I&list=PLs6Oo9KiFMdh-u4TJ6mVWpKtho9yOCXaP&index=2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

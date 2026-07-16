@@ -1,0 +1,188 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Omandada vabatahtliku päästja tööks vajalikud algteadmised ja oskused.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Vabatahtlik päästja on isik, kes osaleb vabatahtlikult pääste- või ennetustööl. Ta on aktiivne päästevaldkonda tundev inimene, kes pakub oma perele, naabritele ja kogukonnale turvatunnet, jagab vajadusel kiiret abi ja käitumisjuhiseid õnnetuse korral. Vabatahtlik päästja võib osaleda iseseisvalt ennetustööl pärast esimese astme väljaõppe läbimist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse teoreetiline osa läbitakse e-õppena. Kui teoreetiline osa läbimise järel on võimalus jätkata vabatahtlikuks päästjaks saamise protsessi, võttes ühendust Päästeameti piirkondliku vabatahtlike koordinaatoriga, kellega lepitakse kokku tegevused praktika läbimiseks. Piirkondlike koordinaatorite kontaktid on leitavad aadressil: <a href=\"https://www.rescue.ee/et/juhend/vabatahtlikud/piirkondlikud-vabatahtlike-koordinaatorid\">https://www.rescue.ee/et/juhend/vabatahtlikud/piirkondlikud-vabatahtlike-koordinaatorid</a></p>"
+        },
+        {
+          "kind": "section",
+          "title": "Vabatahtlikuks päästjaks saamiseks vajalikud nõuded ja isikuomadused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>vähemalt 18-aastane;</li><li>aus, kohusetundlik, otsustus- ja vastutusvõimeline, sealhulgas võimeline langetama otsuseid iseseisvalt oma pädevuse piires ja võimeline nägema ette otsuste tagajärgi;</li><li>võime töötada stabiilselt ja tulemuslikult pingeolukorras ning oskus teha meeskonnatööd;</li><li>hea suhtlemisoskus;</li><li>kehtiv tervisetõend.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Vabatahtliku päästja esimese astme õppe edukas läbimine on eelduseks teise astme õppe alustamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursus jagunemine: 26 ak tunnine teoreetiline osa läbitakse e-õppena ning 9 ak tunnine praktiline osa toimub kontaktõppena piirkondlikus päästekeskuses.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "omandab teadmised, mis võimaldavad osaleda iseseisvalt päästealasel ennetustööl;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kuidas päästeametniku korraldusel ja koos temaga päästetööl osaleda;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja rakendab päästeametniku korraldusel ja koos temaga valdusesse sisenemise ja vahetu sunni meetmeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, millised on Päästeameti ülesanded ja vastutusala;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "käsitseb esmaseid tulekustutusvahendeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb erinevatel õnnetustel abijõuna.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Päästeameti tutvustus ja struktuur",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Päästeameti ülesanded ja vastutusalaga seotud kohustused</li><li>vabatahtliku päästja võimalused ja õigused päästetöödel osalemiseks</li><li>vabatahtliku päästja õiguste rakendamine tulenevalt päästeseadusest</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Päästetöö teenuste tutvustus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>ohutu käitumine päästesündmuste ajal ja ohu korralt</li><li>tulekustutusvahendite käsitlemine erinevate põlengute puhul</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tuleohutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>hoonevälise tuleohutuse nõuded</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Veeohutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>veeõnnetuste tekkepõhjused ja ärahoidmise võimalused</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Pommiohutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>käitumine lõhkekehade/pommide leiu korral</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Nõustamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>päästeala ennetustöö tegevus</li><li>kodunõustamise läbiviimine ja tuleohutusnõuded era- ja kortermajas</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Elanikkonnakaitse",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>elanikkonnakaitse süsteem Eestis</li><li>tegutsemine ja käitumine hädaolukordades</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Vabatahtliku päästja esimese astme koolituse teooria osa läbimise võimalus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Vabatahtliku päästja esimese astme koolituse teooria osa saab läbida Sisekaitseakadeemia Moodle keskkonnas. Selleks on vaja registreerida Sisekaitseakadeemia Moodle kasutajaks, sisse logida ja üles otsida kursus „Vabatahtliku päästja I astme teoreetiline osa“ (kursuse võti: t8st25 ).“</p>"
+        },
+        {
+          "kind": "section",
+          "title": "SKA avaleht selgitab",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Moodle’i keskkonda saab luua ainult ühe konto ehk kui teil on konto varasemast ajast olemas (nt HTM Moodlest), saate seda ka meil kasutada. Kui kahtlete konto olemasolus, proovige ID-kaardi/Smart-ID/Mobiil-ID'ga sisselogimist. Kui see teil õnnestub, on konto olemas, kui mitte, peate konto looma.</p><p>Konto saate ise luua Moodle’i pealehel. Selleks täitke vastav ankeet ja järgige juhiseid, mis tulevad meilile.</p><p>⚠️ Kursuse võti on: t8st25</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Vabatahtliku päästja I astme teoreetiline osa lõpetamiseks peab kursuslane sooritama arvestuse (testid) positiivsele tulemusele.</li><li>Teoreetilise osa kinnistamiseks toimub praktiline kontaktõpe piirkondlikus päästekeskuses.</li><li>Teoreetilise ja praktilise osa läbimisel väljastatakse õpilasele tunnistus.</li></ul>"
+        }
+      ]
+    }
+  ]
+}

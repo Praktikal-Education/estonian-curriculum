@@ -1,0 +1,323 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kuidas kasutada kunsti õppeprotsesside abimaterjali?",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Tere tulemast kunsti õppeaine õpperotsesside abimaterjali lehele!</strong></p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Siinne lehekülg ühendab riikliku õppekava määruse infot ja täiendavaid ideid, vaatepunkte ja soovitusi õppekava rakendamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppeprotsesside kirjeldusete abimaterjal on mõeldud <strong>õpetaja töö toetamiseks</strong>, õppeprotsesside mõtestamiseks kunsti aineõppes ja õppija arengu toetamiseks. See lehekülg pakub tuge nii <strong>kooli õppekava kirjutamisel</strong> (nt õpitulemuste klassiti jaotamisel ja õppesisu kirjeldamisel, üldpädevuste kujundamisel, pakkudes näiteid õppeaine ja valdkonna kontekstis), aga ka <strong>aineõpetaja töökava koostamisel</strong> (nt klassi arenguliste iseärasuste arvestamisel, tuues soovitusliku osaoskuste jaotuse eri kooliastmetes, pakkudes metoodilisi soovitusi, õppe diferentseerimise näiteid jms). Koostatud abimaterjal jätab koolile ja õpetajale valikuvõimalusi metoodikas ja sisus.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Struktuur:</strong> 1) kooliastmete esilehed annavad ülevaate kooliastme õpitulemustest, õppetegevustest ja õppesisust. 2) Klasside lehtedelt leiab arenguraamistiku vastavale vanusele, klassite lehed toetavad rohkem klasside töökavade loomist.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Õpitulemused ja õppesisu on soovituslik ja kool ning õpetaja on vabad seda ümber organiseerima vastavalt vajadusele.</strong></p><p>Õpitulemused on jagatud klassiti osasokuste järgi, õppeühik võib koosneda nii ühest kui eelistatult mitmest osaoskuse õpitulemusest. Õpitulemusi aitavad saavutada osaoskuste kaupa esitatud õppetegevused, mille lõplikul valikul on õpetajal samuti vabad käed. Iga osaoskusega peaks tegelema igas klassis.</p><p>Üldiselt on iga õpitulemuse saavutamine jaotatud kooliastmes kolme klassi peale. See tekitab olukorra, kus igas klassis on küllalt palju erinevaid õpitulemusi. Seega on töögrupi poolne soovitus koondada mõne õpitulemusega seotud tegevused ühte klassi. Näiteks võib töömahuka neljamõõtmelise (ehk ajamõõdet sisaldava) kunstiteose loomise planeerida ühte klassi kooliastmes. Korraldage või sõnastage klasside õpitulemused kindlasti ümber vastavalt oma kooli vajadustele ja võimalustele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppesisu on esitatud kooliastmete kaupa ja jagatud viieks erinevaks teemavaldkonnaks: visuaalne kirjaoskus; kunstitehnikad ja loominguline eneseväljendus; disain ja disainiprotsess; kunstiajalugu, visuaalkultuur ja kunstnikud; ning kunst ja kultuur ühiskonnas. See jaotus toob esile kunsti erinevaid väljendusviise, oskusi ja ülesandeid ning julgustab kogu kunsti mitmekesisust julgelt kasutama. Õppesisus on kooliastmete üleseid kordusi. Kooli õppekavas peaks otsustama, kas jaotada korduv õppesisu kooliastmete vahel ära või tegeleda korduvate teemadega igas kooliastmes aga erineval keerukuse tasemel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Terviklikud õppeühikute näited",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lisaks oleme toonud erinevaid <strong>terviklikke õppeühikute näiteid</strong>, milles on esile toodud erinevad osaoskuste kombineerimise võimalused. Julgustame neid vaatama kui üksnes mudeleid ning planeerima oma õppeühikut oma õpilasi, kooli eripära ja piirkondlikke võimalusi silmas pidades. Õppesisu juurest leiab ka vabavaralise õppevara viiteid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste arendamise toetamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Üldpädevuste arendamise toetamiseks</strong> loodi artikkel, milles on toodud kunstiõppe kontekstis näiteid erinevate üldpädevuste komponentide ja mõtlemisoskuste tasandil. Loodame, et see ilmestab, et teadlikult kavandatud kunstiõppes on üldpädevuste kujundamiseks loomuomaselt avalduvaid ja mitmekesi võimalusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Metoodiliste soovituste</strong> hulgast leiab näiteid ja nõuandeid sobiva füüsilise ja vaimse õppekeskkonna loomiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HEV õpilaste toetamine ja diferentseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hariduslike erivajadustega õpilaste protsent üldhariduskoolis kasvab iga aastaga. Mõnede hariduslike erivajadustega võivad vastupidi ootustele, kaasneda hoopis eelised kunstitunnis. <strong>HEV õpilaste toetamise ja diferentseerimise</strong> ariklist leiab erivajaduste kirjeldused, <strong>kunstitunnis avalduda võivad eelised</strong>, ning diferentseerimise nõuanded nii õpi- ja käitumisraskuste kui ka andekuse puhul.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine ja tagasisidestamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Hindamine ja tagasisidestamine</strong> käivad käsikäes artiklis, kust leiab nõuandeid ja näiteid, toetamaks tõhusalt õppimist ja motivatsiooni kunstitunnis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppeprotssside kirjeldused on alati <strong>osa pidevast õppekava arendusprotsessist</strong>, see tähendab, et see matejal võib leida täiendust, korrigeerimist ja täpsustamist ka järgnevate aastate jooksul. On väga oluline mõista, et õppimine ja õpetamine ongi pidevalt muutuv, vastates nii õpilaste, kooli, lapsevanemate, teaduslike avastuste kui ka aine-ainevaldkonna arengutele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kunsti õppeprotsesside töögrupina loodame, et loodud õppekavast ja tugimaterjalidest leiavad tuge nii kogenud kui alustavad õpetajad!</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teie töögrupp: Helen Arov, Kristi Laanemäe, Ilmi Laur-Paist, Liina Oja, Anneli Porri, Piret Viirpalu</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Valdkonnapädevus (määruse lisast 3)",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kunstiainete valdkonnapädevuse kujundamise esmane alus on äratada valdkonna vastu huvi ja seda järjekindlalt hoida. Kunstiainete valdkonnapädevus on universaalne ning väljendub selles, et põhikooli lõpuks õpilane eakohaselt:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "teadvustab oma sidet muusika, kunsti ja visuaalkultuuriga ning Eesti ja maailma kultuuripärandiga;",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob, uurib ja tõlgendab, kasutades muusika, kunsti ja visuaalkultuuri väljendusvahendeid, teadmisi ning meetodeid;",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõtestab ja reflekteerib eri kultuurinähtusi, enda ja kaasõppijate loometegevust;",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab muusika ja kunsti osatähtsust nüüdisaegses ühiskonnas;",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb kunstide suhtluses tõlgendamist vajava sõnumi edastaja ning vastuvõtjana informeeritult ja kriitiliselt;",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "on loova eluhoiakuga ja lahendab probleeme loovalt.",
+          "outcomeType": "competence"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus (määruse lisast 3)",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kunsti õppeaine roll on innustada õppijat avastama ja kasutama oma võimeid (sh seni avaldumata võimeid) kunsti ja visuaalkultuuri loojana ning sellega suhestujana, seega ka kultuurikandjana. Kunsti õppeaine tugineb ülesehituselt visuaalkultuurile ning arendab visuaalset kirjaoskust, mis on tänapäeva maailmas edukaks toimetulekuks tähtis igaühele. Kunst toetab õppija loovust ja isiksuseomadusi, mis annavad eeldused mis tahes inimtegevuse valdkonnas probleeme uut viisi lahendada, jõuda originaalsete, kasulike, eetiliste ja vähemalt looja jaoks soovitud tulemusteni.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õppeaine lähtealused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "1) maailma kunsti ja visuaalkultuuri laiahaardeline käsitlemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Visuaalselt tajutav inimese loodud ja mõtestatud keskkond (visuaalkultuur) hõlmab kujutisi, tekste, esemeid, ehitisi, ruumisuhteid jms ning nende erinevaid ja muutuvaid tähendusvälju. Visuaalkultuur sisaldab nii tahtlikke ja kavandatud artefakte (nt kunstiteosed, graafiline disain, reklaam, fotograafia, mood jne) kui ka juhuslikke ja plaanimata visuaalseid märke ning kooslusi (nt tänaval või meedias kõrvuti sattunud reklaamid, kasutatud tüpograafia, muruplatsi niitmine ja sissetallatud teerada, aja jooksul kujunenud kodusisustus jne). Visuaalkultuuris on teadlik toimimine seotud suhtlusega, erinevate sõnumite ja tähenduste loomise, säilitamise, muutmise ja edastamisega; nii esteetiliselt mitmekesise keskkonna kui ka emotsionaalse ja intellektuaalse keskkonna loomisega ning majanduse toimimise ja majanduslike väärtuste loomisega. Kunstipädevuse omandamist toetab maailma kunsti ja visuaalkultuuri käsitlemine nii nüüdisaegses kui ka ajaloolises kontekstis;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "2) kunsti vormide ja tähenduste pidev muutumine, eksperimentaalsus ja areng",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>mis võivad ühiskonda ka proovile panna. Kunstis kui visuaalkultuuri kitsamas osas luuakse uut inimkogemust, väljendust ja tähendusi teadlikumalt ning sihipärasemalt, suhestudes valdkonna eripäraga, otsinguliselt ja eksperimenteerivalt. Kunsti pidev uuenemine peegeldab muutusi nii teadustes kui ka ühiskonnas, väärtustes ja hoiakutes. Kunst tohib võtta endale fantaasia, moraali ja ühiskondlike kokkulepete piire kompava ning nihutava rolli, et mõtestada ja arutleda, ka katsetada erinevaid ettekujutusi ja võimalikkusi;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "3) õpetaja on aktiivne kunstiga suhestuja",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>kes toetab õpilasi kultuuri muutuvas mitmekesisuses. Täpsema õpisisu valib õpetaja, kes juhib õpet ja õpikeskkonna loomist. Õpetaja enda hoiakud, avatus ja sallivus, mitmetähenduslikkuse ja muutlikkuse taluvus, aktiivses dialoogis ja mõtestatuses olemine vana ja uue kunstiga on äärmiselt olulised. Kunstiaine ise on samuti seotud pidevate muutustega – uue kunstiloomega, uute avastustega kunstiajaloos, seniste väärtuste ümberhindamisega ühiskonnas, uute väärtuste leidmise ja loomisega. Kunsti õppeainet on võimalik üles ehitada eri kunstikäsitlustele tuginedes. Valdkonnast saab ehedama pildi, kui õppijad ja õpetaja võivad mõtiskleda mitme kunstikontseptsiooni üle ning teadvustada kunsti loomise ja hindamise eri aluseid (nt funktsionaalne, realistlik, idealistlik, estetistlik, kontseptuaalne, pragmaatiline, institutsionaalne jne);</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "4) kunsti õppeaines on võrdselt oluline nii kunstikogemus kui ka õppimiskogemus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Sageli on teosest kui lõpptulemusest tähtsam loominguline ja otsinguline tee, tagasiside ja refleksioon, üldpädevuste kujundamine, motivatsiooni leidmisele ja hoidmisele suunatud tegevused. Koolikunstis on vaja väärtustada õppija isikliku tasandi loomet, avastusi, pingutust ja sõnumit, sest õppijale endale tähtis tegevus loob talle just nimelt tähendusliku kunstikogemuse ka siis, kui lõpptulemus ei ole originaalne või sisukas laiemas kunsti ja visuaalkultuuri kontekstis. Juhul kui lõpptulemus visuaalkultuuri-, disaini- või kunstiteosena on õppes oluline, peab õpetaja kvalitatiivse muutuse teket valmivas teoses teadvustama ja toetama eesmärkide ning hindamiskriteeriumide sõnastamisega. Kunsti osaoskused võimaldavad kunsti õpetamist mitmekülgselt käsitleda ja jälgivad disaini tsüklilist loogikat, mis on maailmas järjest laiemalt käibel nii kunstiteoste, toodete, protsesside kui ka uuringute kavandamisel.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kunsti osaoskused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li><strong>väljaselgitamine, teadmine, mõistmine</strong> (kuulamine, vaatamine, lugemine, info otsimine, kirjeldamine, sõnastamine, valimine, uurimine);</li><li><strong>plaanimine ja ideede arendamine</strong> (ideede genereerimine, visandamine, katsetamine, organiseerimine, protsessi plaanimine, koostamine, leiutamine);</li><li><strong>loomine</strong> (eesmärgipärane väljendus- ja töövahendite rakendamine, viimistlemine, toimetamine, täiendamine, esitlemine);</li><li><strong>refleksioon, analüüs ja kriitika</strong> (uurimine, tõlgendamine, retsenseerimine, tagasisidestamine, arutlemine, väärtushinnangute arendamine ja andmine).</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "section",
+          "title": "PK I",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab visuaalseid pilte, jooniseid ja sümboleid oma kogemuse piires;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab kujutiste kasutamise ja jagamise head tava;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kavandab lihtsamaid ülesandeid disainis ja loomes kestlikult;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb kahe- ja kolmemõõtmelisi töid spontaanselt ning kavandades, kasutades eri tehnika- ja töövõtteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab lühidalt enda tööd ja tulemust.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "PK II",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "tõlgendab visuaalseid kujutisi oma kogemuse ja õpitu piires;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab autorsuse üldisi põhimõtteid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab õpetaja juhendamisel osalist disainimist probleemi lahendamiseks kestlikult;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loob omanäolisusttaotledes kahe-, kolme- ja neljamõõtmelisi kunstitöid nii spontaanselt kui ka uurides ja kavandades, kasutades ning põhjendades eri tehnikavõtteid jakompositsiooni;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib oma teost ja tööd;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutleb loodu üle, seostades loomingut oma kogemuse piires teiste eluvaldkondadega.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "PK III",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "analüüsib õpetaja abiga enne kasutamist visuaalseid kujutisi, jooniseid, skeeme ja sümboleid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "käitub füüsilistes ja digitaalsetes kultuurikeskkondades enamasti turvaliselt, arvestab visuaalseid kujutisi luues ja kasutades autorsust;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab õpetaja abiga uurimismeetodeid teoreetiliste, kunstitööde või disainiobjektide loomisel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "katsetab, julgeb eksida ja töö käigus langetada otsuseid õpetaja abiga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loob omanäolisust taotledes kahe-, kolme- ja neljamõõtmelisi kunstitöid ja väljapanekuid, uurides ning teadlikult kavandades, valides ja rakendadesprotsessi käigus sihipäraselt materjale, tehnika- ja töövõtteid ning kompositsiooni põhimõtteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib õpetaja toel loodut ja arutleb loodu (nii kunsti kui ka visuaalseteobjektide) üle, seostades kunste ja kunsti teiste valdkondadega ningühiskonna muutustega üldisemalt.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

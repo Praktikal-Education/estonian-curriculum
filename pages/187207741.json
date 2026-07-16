@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kunstiõpetuse sisu on jagatud 7 suurema valdkonna alla ning need on järgmised:",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu kunstiõpetuse valdkondade kaupa erinevatel kooliastmetel.",
+          "children": [
+            {
+              "kind": "section",
+              "title": "1. Kujutamis- ja vormiõpetus",
+              "children": [
+                {
+                  "kind": "table",
+                  "html": "<table><thead><tr><th>1.-2. klass</th><th>3.-5. klass</th><th>6.-7. klass</th><th>8.-9. klass</th></tr></thead><tbody><tr><td><ul><li>punkt, joon, pind, rütm, struktuur;</li><li>objektide ja kujutiste tajumine erinevate meeltega - kogetu ja tajutu peegeldamine loovtöös;</li><li>kujutab enda kogemuse piires mõtteid, tundeid ja kogemusi;</li><li>joonistab seda, mida näeb, mitte seda mida teab.</li></ul></td><td><ul><li>inimeste, esemete ja looduse kujutamisel kujutatava iseloomulike tunnuste märkamine ja oskuste piires esiletoomine;</li><li>ruumisuhete märkamine ja arvestamine (väiksem-suurem, kitsam-laiem, peenem-paksem, pikem-lühem jne) ning ruumisuhted pildil (kõrval, ülal, all jne);</li><li>joone, kujundi, vormi ja tekstuuri kirjelduseks õpitakse mõisteid: sirge, kõver, laineline, terav, sujuv, kaarduv, kandiline, nurgeline, ümar, munajas jne;</li><li>ümbritseva keskkonna kujutamine;</li><li>kujutatakse enda kogemuse piires mõtteid, tundeid ja kogemusi.</li></ul></td><td><ul><li>inimeste, esemete ja looduse kujutamisel õpitakse kujutatava iseloomulike tunnuseid esile tooma (sh karakter);</li><li>inimese kujutamisel õpitakse arvestama proportsioonidega;</li><li>figuuride joonistamisel õpitakse kasutama liikumisjooni;</li><li>erinevad keskkonnad ja nende kujutamine;</li><li>õpitakse ruumilist kujutamist tasapinnal (risttahukas, püramiid, silinder, kera);</li><li>op-kunsti teemade käsitlemine;</li><li>valguse ja varjuga arvestamine joonistamisel;</li><li>ümbritseva keskkonna kujutamine (siseruumid, väliskekskond, linnaruum, loodus).</li></ul></td><td><ul><li>inimese kujutamine eri vanuses, meeleolus, asendis, tegevuses ja keskkonnas;</li><li>taimede ja loomade kujutamine, plastika;</li><li>pinna struktuurid;</li><li>geomeetrilised kujundid;</li><li>skulptuur (savi, kips, plastiliin, vaha, pabersavi jne);</li><li>kujutav ja abstraktne kunst;</li><li>ruumiline objekt, installatsioon;</li><li>opkunst;, pop-kunst.</li><li>digikunst.</li></ul></td></tr></tbody></table>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "2. Värvusõpetus",
+              "children": [
+                {
+                  "kind": "table",
+                  "html": "<table><thead><tr><th>1.-2. klass</th><th>3.-5. klass</th><th>6.-7. klass</th><th>8.-9. klass</th></tr></thead><tbody><tr><td><ul><li>värvide tundmaõppimine (spektrivärvid, must ja valge) ja värvitaju arendamine;</li><li>värvide segamine (helestamine/tumestamine);</li><li>huvitavad lood ja muinasjutud värvuste kohta.</li></ul></td><td><ul><li>värvitaju arendamine;</li><li>värviring: põhivärvid ja sekundaarsed;</li><li>värvid, vastandvärvid;</li><li>soojad värvid, külmad värvid;</li><li>värvide helestamine/tumestamine;</li><li>huvitavad lood ja muinasjutud värvuste kohta;</li><li>värvuste rahvapärased nimetused: rootsi punane, lipu punane, jne.</li></ul></td><td><ul><li>värviratas: vastandvärvid, lähisvärvid ja värvide harmoonia;</li><li>toon-toonis värvimine;</li><li>värvitaju arendamine (varjutamine);</li><li>värvidega olulise info rõhutamine.</li></ul></td><td><ul><li>värvide ajalugu: keele, värvi ja kultuuri suhted;</li><li>kunstiteose kirjeldamine värvide põhjal;</li><li>värvimängud (segamine, küllastus, harmoonia, perspektiiv jne);</li><li>värviefektid: värvikülastus ja kontuurid, pimestav valgus;</li><li>värvipsühholoogia, värvi funktsionaalsus.</li></ul></td></tr></tbody></table>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "3. Kompositsiooni- ja perspektiiviõpetus",
+              "children": [
+                {
+                  "kind": "table",
+                  "html": "<table><thead><tr><th>1.-2. klass</th><th>3.-5. klass</th><th>6.-7. klass</th><th>8.-9. klass</th></tr></thead><tbody><tr><td><ul><li>kunstiteost luuakse läbi keskse tegelase (objekt/motiiv), olulisi selgelt märgatavaid detaile lisades;</li><li>kohamäärus (üleval, all, paremal vasakul);</li><li>tausta ja objeti suhe;</li></ul></td><td><ul><li>esiplaan ja taust, osaline kattuvus;</li><li>portree või horisontaalformaat;</li><li>suurussuhted ning paiknemine üksteise ja vaataja suhtes;</li><li>tasapinnalised ja ruumilised teosed.</li></ul></td><td><ul><li>horisontaaljoon taeva ja maa rõhutamiseks;</li><li>ühe koondumispunktiga perspektiiv;</li><li>tööd joonlaua ja sirkliga, geomeetrilised elemendid.</li></ul></td><td><ul><li>pildi segmendid ja kolmandiku reegel;</li><li>esemete mahulisuse kujutamine.</li></ul></td></tr></tbody></table>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "4. Kujundamis- ja kirjaõpetus",
+              "children": [
+                {
+                  "kind": "table",
+                  "html": "<table><thead><tr><th>1.-2. klass</th><th>3.-5. klass</th><th>6.-7. klass</th><th>8.-9. klass</th></tr></thead><tbody><tr><td><ul><li>kujundatakse erinevaid kooli või rahvakalendri sündmustega seotus toorkuid (kaart, mütside, kinnaste šabloonid jne) Trükitehnikates luuakse mustreid (materjali trükk);</li><li>loodusmaterjalist mandalate ja lihtsamate piltide ladumine;</li><li>lihtsamate ruumiliste kompositsioonide, mudelite või makettide valmistamine;</li><li>oma nime ja nimetähtede kasutamine kunstiteostes.</li></ul></td><td><ul><li>ruumiliste kompositsioonide, mudelite või makettide valmistamine;</li><li>rütmiharjutused ja mängud kirjaelementide ja tähtedega (joonistatult, maalitult, rebitult, volditult);</li><li>märkide ja sümbolite tähendused (klassis, koolis, tuttavas keskkonnas);</li><li>voltimine;</li><li>ühise ruumi (klassi) kujundamine tähtpäevadeks.</li></ul></td><td><ul><li>õpitakse lihtsamaid kujunduspõhimõtteid erinevate graafilise disainiga seotud tööde (logod, pakendid, nimed jms) loomisel;</li><li>tarbekunst - mudelite loomisel lähtutakse otstarbest, materjalist, tehnoloogiast ja ilumõistest;</li><li>teksti illustreerimine ka digitaalseid vahendeid kasutades;</li><li>teksti kasutamine loovtöös, teksti illustreerimine ka digitaalseid vahendeid kasutades;</li><li>ilukiri (sh kirjaoptika);</li><li>infograafika.</li></ul></td><td><ul><li>teksti kujundamine (kalligraafia kaartidel), kirjaoptika;</li><li>digitaalsed kujundamisprojektid (kollaažid, esitlused, plakatid jne);</li><li>digimeedia: reklaam ja meem;</li><li>animatsioon ja filmikunst;</li><li>Infograafika.</li></ul></td></tr></tbody></table>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "5. Kunstikultuur",
+              "children": [
+                {
+                  "kind": "table",
+                  "html": "<table><thead><tr><th>1.-2. klass</th><th>3.-5. klass</th><th>6.-7. klass</th><th>8.-9. klass</th></tr></thead><tbody><tr><td><ul><li>kasvatatakse huvi kunstikultuuri vastu ja soovi ise selles osaleda;</li><li>kunstiõpetuse tegevused on seotud tihedalt eesti keele ja loodusõpetuse (üldõpetuse) teemadega. sh Eesti sümboolika, rahvakalendri tähtpäevade ja pärimuskultuuriga;</li><li>õpilane õpib tundma uut koolikeskkonda, selle traditsioone ja sümboolikat.</li></ul></td><td><ul><li>kasvatatakse huvi kunstikultuuri vastu ja soovi ise selles osaleda;</li><li>näitusekülastused ja haridusprogrammide kaudu kunstikultuuriga tutvumine;</li><li>teos, maal, skulptuur, kunstnik, autor;</li><li>visuaalne kirjaoskus;</li><li>teiste loomingu kasutamine.</li></ul></td><td><ul><li>tutvutakse Eesti kunsti tähtteostega;</li><li>kaasaegne kunst ja installatsioon;</li><li>vestlused lihtsamatel kunstiga seotud teemadel seal hulgas originaalteos ja võltsing;</li><li>näitusekülastused ja haridusprogrammide kaudu kunstikultuuriga tutvumine;</li><li>huvitavad funktsionaalsed ja dekoratiivsed objektid, märgid ja kirjad linnaruumis (sh graffiti);</li><li>filmide, arvutimängude, koomiksite ja reklaamide pildikeel;</li><li>opkunst, pop-kunst ja installatsioon.</li></ul></td><td><ul><li>Eesti kunst ja maailma kunst;</li><li>kultuuride erinevuste tajumine ja väärtustamine;</li><li>kultuuriväärtuste hoidmine;</li><li>kunsti seostamine teiste eluvaldkondade ning ühiskonna muutustega;</li><li>kunstniku elukutse ja kunstidega seonduvad erialad;</li><li>näitusekülastused ja haridusprogrammide kaudu kunstikultuuriga tutvumine;</li><li>muuseumide ja galeriide funktsioonid (tutvustamine, uurimine, säilitamine, restaureerimine);</li><li>autorlus ja kunstiteoste väärtus.</li></ul></td></tr></tbody></table>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "6. Tehnikad, vahendid ja materjalid",
+              "children": [
+                {
+                  "kind": "table",
+                  "html": "<table><thead><tr><th>1.-2. klass</th><th>3.-5. klass</th><th>6.-7. klass</th><th>8.-9. klass</th></tr></thead><tbody><tr><td><ul><li>maalimise, joonistamise, rebimise, lõikamise, liimimise, voolimise (voltimise) baasoskuste õppimine;</li><li>erinevate tekstuuride loomine;</li><li>trükitehnikad;</li><li>looduslik materjal ja selle kasutamine loovtööks;</li><li>tunnis kasutatavate materjalide ja töövahendite sihipärane ja ohutu käsitlemine.</li></ul></td><td><ul><li>keerukamad ja pingutust nõudvad töövõtted: paberi rebimine, lõikamine joont mööda, voltimine;</li><li>kollaaž;</li><li>guaššide, akvarellide, pastellide, kriitide jm joonistusvahendite kasutamine;</li><li>voolimine: ümarplastika ja reljeef;</li><li>materjalide säästlik kasutamine;</li><li>digivahendite kasutamise: arvuti joonistamine, foto, fotokollaaž.</li></ul></td><td><ul><li>segatehnikad: erinevate tehnikate ja materjalide paindlik kasutamine.<br/>looduslikest ja tehismaterjalidest;</li><li>maalimine kattevärvide ja akvarellidega, pinnaefektide loomine;</li><li>joonistamine grafiit-, värvi-, vilt- ja pastapliiatsitega, tööd kriidi- ja õlipastellidega;</li><li>erinevate digikeskkondade kasutamine, animatsioon;</li><li>filmide, arvutimängude, koomiksite ja reklaamide pildikeel.</li></ul></td><td><ul><li>segatehnikad: erinevate tehnikate ja materjalide paindlik kasutamine;</li><li>materjalide tundmine (nii looduslikud, kui tehismaterjalid,);</li><li>maalimine kattevärvide ja akvarellidega, pinnaefektide loomine;</li><li>joonistamine grafiit-, värvi-, vilt- ja pastapliiatsitega, tööd kriidi- ja õlipastellidega;</li><li>erinevate digikeskkondade kasutamine, animatsioon, esitlus, film.</li></ul></td></tr></tbody></table>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "7. Töökultuur",
+              "children": [
+                {
+                  "kind": "table",
+                  "html": "<table><thead><tr><th>1.-2. klass</th><th>3.-5. klass</th><th>6.-7. klass</th><th>8.-9. klass</th></tr></thead><tbody><tr><td><ul><li>ülesandeid teostatakse valdavalt koostegevuses eeskuju ja näidise järgi, omandatud oskuste piires ka suulise korralduse järgi;</li><li>õpitakse töötama grupis ning<br/>jagama ühiskasutuses olevaid töövahendeid;</li><li>kujundatakse korraharjumusi ja oskusi ning püsivust oma töö lõpule viimia</li></ul></td><td><ul><li>õpitakse tasapisi valima eesmärgist<br/>lähtuvaid töövahendeid ja -võtteid</li><li>õpitakse kirjeldama oma tööprotsessi;</li><li>õpitakse väärtustama enda ja kaaslaste töid ning erinevaid lahendusi;</li><li>initsatiivi toetamine, spontaansuse ja loovuse tunnustamine</li></ul></td><td><ul><li>õpitakse oma tegevust kavandama ja kontrollima, valima eesmärgist lähtuvaid töövahendeid ja -võtteid;</li><li>tehakse nii individuaal kui grupitöid;</li><li>pööratakse enam tähelepanu tööde vormistamisele;</li><li>kavandatakse mahukamaid ja pikemaid (mitmetunniseid) projekte;</li><li>töökoha otstarbekas organiseerimine ja selle korrashoid;</li><li>loodust säästva tarbimise põhimõtted ja nende rakendamine oma loovtööde teostamisel;</li><li>jõudumööda lähenetakse autoriõigusest lähtuvatele teemadele.</li></ul></td><td><ul><li>tegevuse võimalikult iseseisev kavandamine, teostamine ja tulemuse ning tööprotsessi reflekteerimine;</li><li>koostöö tegemine ühise tulemuse nimel, üksteisega arvestamine, kompromisside saavutamine, samas ka erilisuse esiletoomine;</li><li>kunstitegevuste kaudu oma võimete tundmaõppimine ja arendamine;</li><li>autoriõigus, intellektuaalomand.</li></ul></td></tr></tbody></table>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

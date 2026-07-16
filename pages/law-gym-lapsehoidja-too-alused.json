@@ -1,0 +1,167 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse koostamisel on lähtutud kutsestandardis „Lapsehoidja, tase 4“ kompetentsidest (lapse kasvukeskkonna ja arengu toetamine, koostöö lapsevanemaga) ja kutsehariduse õppekavast „Lapsehoidja“. Kursuse eesmärk on tutvustada õpilastele lapsehoidja töö põhimõtteid ja kujundada valmisolek õpingute jätkamiseks. Kursusel keskendutakse väikelapse arengu toetamisele tema sotsiaalsete oskuste kujunemisel, järgides kutse-eetikat. Valikkursuse käigus kujundatakse õpilases iseseisva töö oskust, probleemide lahendamise ja otsuste tegemise oskust, algatusvõimet ning suhtlemisvalmidust; arendatakse isikuomadusi ja võimeid nagu ausus, vastutustunne, empaatiavõime, lapse-sõbralikkus, loovus, järjekindlus, pingetaluvus, kohanemisvõime, emotsionaalne stabiilsus.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursus koosneb neljast suuremast teemast. Iga teema algab teoreetilise sissejuhatusega, millele järgneb arutelu, praktilised harjutusülesanded grupis ja/või iseseisev töö omandatud teadmiste kinnistamiseks. Valikkursus käigus koostatakse grupitööna loovmängude portfoolio, mida esitletakse kaasõpilastele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpitu kinnistamiseks ja lapsehoidja tööst parema ülevaate saamiseks toimuvad õppekäigud koolieelsesse lasteasutusse (lasteaed, lastesõim) või laste päevahoidu. Valikkursuse käigus omandatut on võimalik edasi arendada, jätkates õpinguid lapsehoidja erialal kutseõppeasutustes.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursusega taotletakse, et õpilane omandab esmased teadmised ja oskused, kuidas luua väikelapsele arengut toetav turvaline kasvukeskkond ning toetada imiku ja väikelapse eneseteenindus- ja regulatsioonioskusi igapäevastes tegevustes.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "omab ülevaadet lapsehoidja töö spetsiifikast ja tööturul nõutavatest kompetentsidest;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "mõistab lapse füüsilise, psüühilise ja sotsiaalse arengu seaduspärasusi ja arengu toetamise vajadust ja võimalusi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "kujundab turvalise väikelapse arengut toetava kasvukeskkonna, arvestades lapse individuaalsust (sh sugu, vanust) ja vajadusi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "märkab ja jälgib lapse tervislikku seisundit, tuginedes sealhulgas vanematelt/spetsialistidelt saadud infole;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "planeerib päevategevusi, sh mängulisi tegevusi, lähtudes lapse vanusest, individuaalsetest vajadustest ja lapse heaolust;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "omandab teadmised ja oskused, et märgata imiku ja väikelapse tervist kahjustavad ohte ning oskab neid ohte ennetada.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõik teemad algavad teoreetilise sissejuhatusega, millele järgneb arutelu gruppides, praktiliste harjutusülesannete lahendamine grupis ja/või iseseisvalt:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lapse kasvukeskkonna toetamine:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>kasvukeskkonna ohutegurid;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>lapse kasvukeskkonna kujundamine;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>lastekaitse ja sotsiaalhoolekande alused;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>lapsehoidja kutse-eetika.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lapse arengu toetamine:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>mängulised tegevused;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>lapsekeskne kasvatus igapäevategevustes;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>lapse loovuse arendamine;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>eneseteeninduse oskuste kujundamine;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>sotsiaalse arengu toetamine;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>päevarežiimi kujundamine;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>hooldustoimingud;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>lapse arenguetapid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lapse tervise edendamine:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>lapse tervist ohustavad tegevused;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>väikelapse esmaabi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Koostöö lapsevanema või hooldajaga:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>suhtlemine ja konfidentsiaalsus;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>koostöö perega;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>kommunikatsioon ja infovahetus.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

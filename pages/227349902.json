@@ -1,0 +1,227 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Küberkaitse",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Gümnaasiumi informaatika valikkursuse „Küberkaitse“ eesmärgiks on anda õpilastele ettekujutus küberkaitse olemusest ja distsipliinidest ning võimaldada neil omandada algteadmised antud valdkonnas. Ainekavas sisalduva õppetegevuse kaudu omandatakse küberkaitse valdkonna üldised teadmised, mis kinnistatakse praktilise tegevuse kaudu.</p><p>Õppeaine eesmärk on panna alus turvalise küberkeskkonna põhimõtete mõistmisele, kujundada õpilaste turvateadlikkust ja valmisolekut vajaduse korral toetada kogukondliku küberturvalisuse teadlikkuse tõstmist. Küberkaitse kursus ei eelda erialateadmisi küberkaitsest, kuid eeldab, et informaatika ja ühiskonnaõpetuse baasalused, õppijate digipädevusmudeli III aste on põhikoolis omandatud ning et õpilastel on olemas valdkonna keerukuse mõistmiseks vajalikud pädevused digitaalses ohutuses ja küberhügieenis. Küberhügieen on käesoleva õppeaine kontekstis defineeritud kui kasutaja poolt asjakohaste turbemeetmete kasutusele võtmine IT-süsteemide ja seadmete kasutamisel ning küberturvalisuse parimate praktikate järgimine.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "on Eestile lojaalne isik, kellel on positiivne hoiak ja valmidus vajaduse korral Eestit ja liitlasi kaitsta ning kes tegutseb lähtuvalt õigusriigi põhimõtetest;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "järgib demokraatlikke väärtusi ning oleks vastutustundlik;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab küberkaitse seotust erinevate ühiskonnaelu valdkondadega ja tulevikutrendidega;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab Eesti e-riigi ning küberkaitse korraldust, e-riigi lahenduste ülesehituse põhimõtteid ning valdkondlikke õigusakte;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab küberkaitse, kõrgtehnoloogiliste konfliktide ning küberkuritegevuse ajalugu;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "valdab lihtsamaid võtteid koduse IT-võrgu ja laiatarbeseadmete turvalisuse tagamiseks ning kaitsmiseks enamlevinud küberturbeintsidentide eest;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb digitaalse ohutuse aluseid (sh isiku- ja tervisekaitse) ja kasutab neid teadlikult omaenda ja teiste turvalisuse tõstmiseks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab ja analüüsib vastuvõetavat infot kriitiliselt;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab ja dokumenteerib küberintsidendi ning koostab asjakohase teatise pädevale ametiasutusele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab küberkaitse-alaseid teadmisi ja oskusi tulevase eriala valikul.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Gümnaasiumi valikkursus „Küberkaitse“",
+      "children": [
+        {
+          "kind": "section",
+          "title": "LÕIMING TEISTE AINETEGA",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursusel on kokkupuutepunkte mitmete teiste gümnaasiumi õppekava õppeainetega:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Ühiskonnaõpetus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>kodanikukasvatus, riigikaitse korraldus, kaitseväe ja Kaitseliidu struktuur, Euroopa Liit, NATO ja ÜRO, rahvusvahelised kriisid ja konfliktid, Eesti kaitsepoliitika.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Üldajalugu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>sõjaajalugu, kriiside ja konfliktide tekkepõhjused ning tagajärjed, rahvusvahelised kriisid ja konfliktid, Euroopa Liit, NATO ja ÜRO.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Riigikaitseõpetus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>militaarstruktuurid, riigikaitse ülesehitus;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>eesti keel – terminoloogia, töö juriidiliste tekstidega, suuline ja kirjalik eneseväljendusoskus.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Võõrkeeled",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>terminoloogia.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Karjääriõpetus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>karjääri ja edasise õppimise planeerimine;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>majandus- ja ettevõtlusõpe - ühiskonna toimemehhanismid, majanduse edukuse ja kahju seos digitaalse valdkonna arengu ja küberkuritegevusega.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Inimene ja õigus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õigusruum, inimese kohustused ja õigused;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>psühholoogia - psühholoogiline sõda, sotsiaalne manipulatsioon;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>füüsika ja tehnika - digitaalsed seadmed, andmete ülekanne, võrk;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>globaliseeruv maailm - veebipõhised andmebaasid, teabeallikad, majanduse areng ja inimtegevuse mõju.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Uurimustöö alused/arvuti kasutamine uurimistöös",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>teaduslik metoodika tegevuste planeerimises, analüüsis.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Rakenduste loomine ja programmeerimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>andmete sorteerimine, filtreerimine ja esitamine, analüüsimine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Filosoofia",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>küsimuste äratundmine, küsimine, arutluskäikude koostamine, väärtused ühiskonnas, eetika.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HINDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisel kasutatakse sõnalist mitteeristavat hindamist – „Arvestatud“ – „Mittearvestatud“.</p><p>Õpitulemusi hinnatakse E-portfoolio alusel, millesse on kogutud tehtavad praktilised tööd. Kursusel on võimalus teha ka miniteste (H5P) ja pikemaid teste, mida võiks õpetaja kasutada pigem iseseisva hindamise tööriistana (eelhindamine ja järelhindamine, et tuvastada augud), mitte hindelise tööna. Kursusel on ka 1-2 pikemat ankeeti milles õpilane saab oma oskuseid sügavamalt analüüsida (kursuse alguses ja lõpus). Oleme loonud ülevaate ka küberkaitse noortele talentidele, kes soovivad oma oskuseid enam proovile panna.</p><p>E-portfoolio on personaalne veebipõhine keskkond (platvormi valib kool/õpilane ise), kuhu õpilane kogub kokkuvõtteid tunnis õpitud/ käsitletud teemade kohta (milliseid teemasid tunnis käsitleti, mida õppis jne). Õpiülesanded sooritatakse ja e-portfooliot peetakse kas üksi või rühmatööna; E-portfoolio on üldiselt avalik, aga peab võimaldama ka piiratud ligipääsuga sisu.</p><p>Koostatud on moodle kursus, kuhu saavad õpilased laadida ülesannete lahendused. Samuti on koostatud õpilaste teadmiste hindamiseks eeltestid ja järeltestid.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1KEPMttXhBExx1cXGFCx8OwaTO56w21iCiI8KyPfXm1A/edit?usp=sharing",
+              "title": "Hindamise ja tunnusmärgi-lahendus, kursusel osalemise ning tehtavate tööde kvaliteedist"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LISAMATERJALID",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/digitaru/kyberkaitse/",
+              "title": "Küberkaitse õppematerjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/digitaru/kyberkaitse/chapter/opetaja-materjal/",
+              "title": "Õpetajamaterjal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

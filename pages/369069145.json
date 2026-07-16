@@ -1,0 +1,196 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse keskmes on <strong>tippsportlase treeningprotsess</strong> kui <strong>teadlik ja süsteemne arengukeskkond</strong>, kus õpilane arendab enesejuhtimise, eesmärgistamise ja analüüsioskusi, et saavutada parim võimalik sportlik ja akadeemiline tulemus. Õppeprotsess toimub valdavalt õpilase tippspordikeskkonnas (treeninggrupid, laagrid, võistlused). Õpetaja ja treener töötavad koostöös, et tagada õppeülesannete seotus tegelike treening- ja võistlussituatsioonidega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse keskmes on tipptasemel treeningu analüüsimine, mitte üldise liikumisõpetuse tegevused.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse sihtrühm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus on suunatud gümnaasiumis õppivatele tippsportlastele, kes osalevad regulaarselt intensiivsetel treeningutel ja rahvusvahelistel tiitlivõistlustel, pallimängude kõrgtasemelistes võistkondades või GP-etappidel ning nende õppekorraldus peab olema paindlik, analüüsikeskne ja lõimitud formaal- ning mitteformaalõppe ühendamise kaudu.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on käsitleda ja arendada tippsportlase treeningprotsessi kui teadlikult juhitud arengukeskkonda. Õpilane analüüsib ettevalmistust, koormust, taastumist, eesmärgistamist ja enesejuhtimist. Õpilane seostab praktilise treeningkogemuse teaduspõhiste teadmistega ning kujundab oskust juhtida oma arengut nii sportlase kui ka õppijana.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse maht on 35 akadeemilist tundi, millest vähemalt 20 tundi hõlmab õpilase osalemist mitteformaalõppes (treeningutel, laagrites, võistlustel) ning kuni 15 tundi formaalõpet (analüüse ja arutelusid koolis).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse täpsem töökorraldus lepitakse kokku õpilase ja õpetaja vahel, arvestades treeningkoormust, spordiala eripära ja kooli õppekorraldust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "õppetegevuse ja spordieesmärkide kavandamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "seab tippsportlasena realistlikud õppe- ja spordieesmärgid, kavandab tegevust eesmärgipäraselt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>sõnastab spordieesmärgid ja õpitegevused;</li><li>analüüsib varasemaid sportlikke tulemusi;</li><li>koostab tegevuskava treeningperioodide kaupa;</li><li>planeerib nädala- ja päevaplaani;</li><li>hindab kavandamise mõju sportlikule sooritusele ja õppetööle.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "dokumenteerimine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "d okumenteerib ja analüüsib tippsportlase arengut",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>valib sobiva dokumenteerimisvormi;</li><li>kirjeldab treeningute ja võistluste mõju kehale, enesetundele ja psühholoogilisele seisundile;</li><li>lisab märkmeid une, toitumise ja koolikoormuse kohta;</li><li>koostab koondanalüüsi ja esitleb õpimappi või portfooliot suuliselt;</li><li>sõnastab edasised arengueesmärgid.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "treeningtegevuse analüüsi meetodid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "a nalüüsib oma treeningtegevust tippsportlase õpiprotsessina",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>koostab ajakasutuse analüüsi;</li><li>arvutab ja visualiseerib treeningu-, võistlus- ja õppetöö mahtu;</li><li>kirjeldab treeningute ja võistluste sisu, intensiivsust ja ülesehitust;</li><li>analüüsib kogemusi õppimise mõistetega (harjutamine, tagasiside, kordamine, eksimine, proovimine);</li><li>võrdleb treening- ja õppekoormust ning oma kogemust teiste tippsportlaste omaga.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "psühholoogiline ettevalmistus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "r akendab ja analüüsib tippsportlase psühholoogilise ettevalmistuse ja eneseregulatsiooni võtteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>katsetab keskendumis- ja kujutlusharjutusi ning analüüsib nende mõju sooritusele treeningutel ja võistlustel;</li><li>võrdleb erinevaid psühholoogilise ettevalmistuse strateegiaid tippspordi olukordades;</li><li>koostab isikliku rutiini (eesmärgikujutlus, enesekõne) ja hindab selle tõhusust treeningutel ja võistlustel;</li><li>analüüsib motivatsiooni, pingutust ja keskendumist tippspordikeskkonnas.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "füüsiline ja psühholoogiline koormus; taastumine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "h indab oma füüsilist ja psühholoogilist koormust, taastumist ning sportlikku arengut",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kasutab enesehindamisskaalat energiataseme ja motivatsiooni jälgimiseks treeningutel ja võistlustel;</li><li>analüüsib une, treeningkoormuse, võistluste ja enesetunde seoseid, tuvastab ülekoormuse või motivatsioonilanguse märke;</li><li>koostab kokkuvõtte treeningu ja taastumise tasakaalu olulisusest tipptasemel sportlase arengus;</li><li>võrdleb eri perioodide treeningandmeid ja hindab mõju sooritusele ning motivatsioonile.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "treeneri ja tugipersonali roll; eesmärkide seadmine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "a nalüüsib treeneri ja tugipersonali rolli oma arengus tippsportlasena ning annab põhjendatud hinnangu edasistele eesmärkidele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>teeb koostööd treeneri ja õpetajaga ning analüüsib koostöö mõju sportlikule arengule;</li><li>arutleb eesmärkide realistlikkuse ja teostatavuse üle tippspordi olukordades;</li><li>analüüsib treeneri rolli õppimise ja soorituse toetajana;</li><li>koostab kirjaliku arenguanalüüsi ja esitleb seda suuliselt;</li><li>sõnastab järeldused ja edasised tippsportlase eesmärgid treeningus ja õppetöös.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine, sh mitteformaalõppes läbitud kursuste hindamise alused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursust hinnatakse mitteeristavalt (arvestatud/mitte arvestatud). Hindamine keskendub õpilase võimele analüüsida treeningprotsessi kui teadlikku ja süsteemset arengutegevust. Oluline on treeningkogemuse seostamine teoreetiliste teadmiste ja isiklike eesmärkidega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Arvestuse saamise eeldused on:</p><ul><li>aktiivne osalemine õppetegevustes;</li><li>treeningprotsessiga seotud dokumentatsiooni ja kirjaliku eneseanalüüsi esitamine;</li><li>kursuse lõpus toimuval suulisel arutelul või esitlusel osalemine ning oma seisukohtade põhjendamine;</li><li>koostöö treeneri ja õpetajaga.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilase sportlikku taset ega võistlustulemusi hindamisel ei arvestata. Koostööd treeneri ja kooliga võib hindamisel täiendavalt arvesse võtta, kuid see ei asenda õpilase eneseanalüüsi. Hindamise fookus on tippsportlase teadlikkusel oma treeningprotsessist, enesejuhtimisest, eesmärkidest ja koormuse haldamisest, mitte tulemuste võrdlemisel teiste sportlastega.</p>"
+        }
+      ]
+    }
+  ]
+}

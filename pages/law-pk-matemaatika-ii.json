@@ -1,0 +1,55 @@
+{
+  "content": [
+    {
+      "kind": "outcome",
+      "text": "kasutab õppeprotsessis otstarbekalt info- ja kommunikatsioonitehnoloogia vahendeid, sh sisestab matemaatilisi sümboleid ja tehteid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "teisendab hariliku murru kümnendmurruks, lõpliku kümnendmurru harilikuks murruks ning leiab hariliku murru kümnendlähendi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "joonistab ja loeb temperatuuri ning liikumise graafikut;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "joonestab joonestusvahendite ja IKT-vahendite abil lõigu keskristsirge, nurgapoolitaja ning sirge suhtes sümmeetrilisi kujundeid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab 𝛑 (Pii) tähendust ja seost ringjoone pikkusega;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "rakendab ülesandeid lahendades kolmnurga sisenurkade summat;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "põhjendab, kas kolmnurgad on võrdsed või ei ole kolmnurkade võrdsuse tunnuste abil;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "joonestab koordinaatteljestiku, märgib sinna punkti etteantud koordinaatide järgi, loeb teljestikus asuva punkti koordinaate.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa5.pdf",
+          "title": "Riigi Teataja – Põhikooli riikliku õppekava lisa 5 „Matemaatika“"
+        }
+      ]
+    }
+  ]
+}

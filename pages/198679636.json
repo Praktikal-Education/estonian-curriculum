@@ -1,0 +1,532 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Soovituslik õppesisu hõlmab traditsioonilisi töötlemisviise: tikkimine, silmuskudumine, heegeldamine ja õmblemine, mis lähtub <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=184846490\" rel=\"nofollow\">PK Ainevaldkonna &quot;Tehnoloogia&quot;</a> ülesehitusest.</p><p>Õpetaja saab luua oma kooli ainekava lähtuvalt nendest soovitustest, kuid saab lisada teisi/uusi käsitööliike vastavalt oma kooli eripärale või võimalustele.</p><p>Soovituslik õppesisu koosneb järgmistest teemadest:</p><ol><li>Materjalid, töövahendid, töötlemisviisid.</li><li>Tööprotsess (ideest teostuseni) kavand, tööplaneerimine, eneseanalüüs ja hindamine.</li><li>Õppeaine rakendumine igapäevaelus.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Määruse järgi 6. klassi lõpuks õpilane:</strong></p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab juhendamisel ja valmistab lihtsamaid esemeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib tikkimiseks sobivaid materjale ja töövahendeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tikib kaherealisi pisteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "heegeldab ringselt, tunneb heegeldamise ja kudumise õpitud tingmärke;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koob parem- ja pahempidiseid silmuseid;",
+          "outcomeType": "skill"
+        },
+        { "kind": "outcome", "text": "koob ringselt;", "outcomeType": "skill" },
+        {
+          "kind": "outcome",
+          "text": "õmbleb õmblusmasinaga lihtõmblust.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Materjalid, töövahendid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Materjalid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Looduslikud taimsed ja loomsed kiud, nende saamine ja omadused</li><li>Erinevad pehmed kaasaja materjalid: nt fimo, cernit</li><li>Töövahendi ja materjali sobivus</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Töövahendid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Erinevate töövahendite tutvustamine</li><li>Suure silmaga nõel, heegelnõel, sukavardad, õmblusnõelad, nööpnõelad, sõrmkübar, õmblusniit, mõõduriba, õmbluskriit, käärid, õmblusmasin</li><li>Digitaalsed vahendid</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "on tutvunud loomsete ja taimsete kiududega;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära kaasaja pehmed materjalid ning oskab selgitada, kus neid saaks kasutada;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kasutada erinevaid töövahendeid ohutult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on tutvunud erinevate digitaalsete keskkondadega;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Demonstreerida erinevaid töövahendeid ja materjale.</li><li>Näidata ette erinevate töövahendite ohutuid ja ratsionaalseid kasutamise võtteid.</li><li>Kaasata õpilasi aktiivselt õppeprotsessi, küsida nende arvamusi.</li><li>Näidata ette erinevate töövahendite ohutuid ja ratsionaalseid kasutamise võtteid.</li><li>Kaasata õpilasi aktiivselt õppeprotsessi, küsida nende arvamusi.</li><li>Tutvustada erinevaid veebipõhiseid platvorme ja rakendusi, arvestades õpilase arengutaset.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>loomsed kiud, taimsed kiud, pehmed materjalid</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Erinevate käsitöömaterjalide vaatlemine, kompimine jm.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õmblemine IV-IX klass. Anu Pink</li><li>Kudumine IV–IX klass. Anu Pink</li><li>Kudumine 4.-9. klass. Anu Pink</li><li>Heegeldamine IV–IX klass.</li><li>Tikkimine. Väike rahvarõivaõpetus IV–IX klass. Anu Pink, Kristi Teder</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Töötlemisviisid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Tikkimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>kaherealised pisted</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kudumine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>pahempidine silmus</li><li>ringselt kudumine</li><li>lihtsa koekirja lugemine</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Heegeldamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>sambad</li><li>ringselt heegeldamine</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õmblemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>õmblemine õmblusmasinaga</li><li>õmblusmasina niidistamine</li><li>lihtõmblus</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "tikib kaherealisi pisteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koob põhisilmuseid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb põhisilmuste tingmärke;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koob lihtsa skeemi järgi;",
+          "outcomeType": "skill"
+        },
+        { "kind": "outcome", "text": "koob ringselt;", "outcomeType": "skill" },
+        {
+          "kind": "outcome",
+          "text": "heegeldab sambaid (poolsammas, ühekordne sammas ja/või kahekordne sammas);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb sammaste tingmärke;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "heegeldab ringselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "õmbleb lihtõmblust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Esemelise rahvakunsti tutvustamine.</li><li>Võimalusel õppekäik muuseumisse/ virtuaalrännak.</li><li>Tutvustada kaherealiste pistete kasutamist tarbeeseme kujundamisel.</li><li>Vajadusel valmistada ette lihtsustatud koekirja skeem.</li><li>Õpilase arengutasemele vastav koekiri.</li><li>Valmistada ette erinevate reavärvidega heegeldamise skeem.</li><li>Tutvustada õmblusmasinat ning demonstreerida ohutusnõudeid masinaga töötamisel.</li><li>Demonstreerida õmblusmasina niidistamist.</li><li>Harjutada lihtõmbluse õmblemist paberil ja riidel (niidita ja niidiga).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Koekiri - skeem erinevate kudumisvõtete kasutamiseks, mille tulemusena saab koekirjaline ese.</li><li>Kaherealine piste - pisteread moodustavad kaks erinevat rida.</li><li>Poolsammas - Ühekordne sammas. Kahekordne sammas. Pahempidine silmus. Lihtõmblus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>valmistada praktiline ese kasutades erinevaid tehnikaid.</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/reel/944504590686741",
+              "title": "Riidetükkidest pilt"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/reel/3677157202501784",
+              "title": "Võtmehoidja"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/reel/1034023074370375",
+              "title": "Riidest korv"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pahempidine silmuse kudumine. Kristiin Sidok</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=OD0kxdnnA9Y"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.garnstudio.com/video.php?id=5&page=2&lang=ee",
+              "title": "Kudumise, heegeldamise videojuhendid. Drops Desing."
+            },
+            {
+              "kind": "link",
+              "href": "http://Kudumine.ee",
+              "title": "Kudumine vasakukäelistele. Anu Punk. Kudumine.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://kudumine.ee/pohisilmused-vasakukaelistele/",
+              "title": "Kudumine vasakukäelistele"
+            },
+            {
+              "kind": "link",
+              "href": "https://lastega.ee/index.php/et/k2ev/item/11807-opi-noeoepi-omblema",
+              "title": "Lapse arendamiseks on kõige olulisem koostegevus täiskasvanuga."
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Õmblemine IV-IX klass. Anu Pink</li><li>Kudumine IV–IX klass. Anu Pink</li><li>Kudumine 4.-9. klass. Anu Pink</li><li>Heegeldamine IV–IX klass.</li><li>Tikkimine. Väike rahvarõivaõpetus IV–IX klass. Anu Pink, Kristi Teder</li><li>Tikkimine ja pisted. 2006, Anita Gunnars</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/reel/397123236306771",
+              "title": "Heegeldamine. Ringi ühendamise võimalus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "kavandamine, töötamine, eneseanalüüs ja hindamine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Kavandamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>idee ja kavand eseme valmistamisel</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Töötamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>ajakava</li><li>töötamine suulise juhendi järgi, jäljendamine</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Eneseanalüüs ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Ühise või individuaalse töö analüüsimine ja hindamine</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel kavandada;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "planeerib koostöös õpetajaga oma töö ajakava;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "töötab õpetaja suulise juhendamise või lihtsama videojuhendi järgi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib oma töö tulemust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvustada veebilehti, kus on võimalik kavandamiseks ideid leida.</li><li>Kavandamise võimalused. Värvusõpetuse põhitõdede arvestamine esemete kujundamisel.</li><li>Kaasata õpilasi aktiivselt õppeprotsessi, küsida nende arvamusi.</li><li>Tutvustada erinevaid veebipõhiseid platvorme ja rakendusi, arvestades õpilase arengutaset.</li><li>Õpetajapoolne suunamine aitab õpilast ise oma tegevusele ning töö tulemusele hinnangut anda.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kavand - esialgne projekt, joonis või tegevuskava.</li><li>Ajakava - töö aluseks olev kava.</li><li>Eneseanalüüs</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Valmistada praktiline ese, kasutades erinevaid tehnikaid.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/video/vaata/ak-filmikroonika-1958-1991-koondise-uku-rahvakunstimeistrid",
+              "title": "ERR, filmiarhiiv. Rahvakunstimeistrid."
+            },
+            {
+              "kind": "link",
+              "href": "https://folkart.ee/",
+              "title": "Eesti rahvakunsti ja käsitöö Liit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tekstiilide hooldamine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Säästlik tarbimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>riiete parandamine/taaskasutamine</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Rõivaste hooldamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>pesemine</li><li>kuivatamine</li><li>triikimine</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "käitub keskkonnahoidliku tarbijana;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab võimalusi materjale/riideid isikupäraselt taaskasutada;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on tutvunud hooldusmärkidega;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Demonstreerida kanga säästlikku kasutamist lõigete paigutamisel.</li><li>Tutvustada erinevaid võimalusi, kuidas materjale taaskasutada.</li><li>Hooldusmärkide tutvustamine erinevate riideesemetel olevate siltide kaudu.</li><li>Vajadusel koostada õppemäng, bingo jm hooldusmärkidest.</li><li>Selgitada, kuidas erinevaid riidesemeid hooldada.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Säästlik tarbimine - vana asja kasutuselevõtt (ühtlasi seda kohendades ja disainides), asjade uuesti kasutamine.</li><li>Tarbimine - kaupade ja teenuste ostmise teel vajaduste rahuldamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Valmistöö viimistlemine, hooldusjuhendi koostamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://menu.err.ee/media/embed/40d484b8636a453d1fc22b6ac5ae03dd?photoId=1602655&contentId=1608712297&contentTitle=Tuuli%20Tubin-McGinley%20riiete%20parandamisest:%20seda%20ei%20taheta%20enam%20teha",
+              "title": "ERR, vestlussaade &quot;Hommik Anuga&quot;. Riiete paikamine."
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kes minu riided tegi? Arengukoostöö Ümarlaud.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=2eDfeA_Aslg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

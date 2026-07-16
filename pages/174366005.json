@@ -1,0 +1,923 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Oodatavad õpitulemused 9. klassi lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab üldisi fakte uusaja sündmustest ja inimeste eluolust Eestis Esimese maailmasõja lõpust tänapäevani",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi Eesti riigi mineviku vastu",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et maailmas toimunud sündmused on otseselt või kaudselt mõjutanud nii Eestis kui ka mujal Euroopas toimunud sündmusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "omab üldist ettekujutust Eesti ajaloost ja sellega seoses üldjoontes kogu maailma ajaloost"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, et eri ajastute kultuuri-, teaduse- ja tehnikasaavutused on olnud edasiviivaks jõuks riikide (ka Eesti) arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et poliitikal on suur roll maailma riikide omavahelistes suhetes",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujutab ajateljele toetudes ette maailmas toimunud olulisemaid sündmusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab oma põhiõigusi ning kohustusi Eesti Vabariigi kodanikuna",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab Eesti riigi valitsemiskorda",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab oma kodumaad ning Eesti Vabariigi kodanikuks olemist.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kohustuslik aine maht üks tund nädalas.</p><p><strong>Määruses fikseeritud õpitulemused on lähtuvalt käsitletavast õppesisust konkretiseeritud.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Ostrat, A. (2008). <em>Ajalooõpik IX klassile</em>. Tartu: Studium.</li><li>Ostrat, A. (2001). <em>Ajaloo tööraamat 9. klassile</em>. Tartu: Studium.</li><li>Ostrat, A., Jevdokimova, L. (2012). <em>Учебник по истории для 9 класса.</em> Tallinn: Innove.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Ajalugu ja eesti keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arendatakse lugemis- ja kirjutamisoskust.</li><li>Arendatakse info leidmise oskust.</li><li>Arendatakse eneseväljendusoskust.</li><li>Tutvustatakse XX sajandi Eesti tuntumaid luuletajaid ja kirjanikke.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja võõrkeeled",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpetatakse korrektselt hääldama ja kirjutama võõrapäraseid nimesid ja sõnu.</li><li>Tutvustatakse teiste rahvaste ajalugu ja kultuuri.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja matemaatika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpetatakse mõistma ajalooliste sündmuste järgnevust, kasutades ajatelge.</li><li>Toetudes matemaatilistele oskustele arvutatakse sündmuste toimumisaega ja sellest möödunud aega.</li><li>Kinnistatakse teadmisi ajaühikutest (kuupäev, aasta, aastakümme, sajand, aastatuhat).</li><li>Kinnistatakse teadmisi Rooma numbritest.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja loodusõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvustatakse Eestis leiduvaid maavarasid.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja inimeseõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Käsitletakse eluolu ja eluviiside muutusi läbi XX sajandi.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja kunstiained",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvustatakse XX sajandi tuntumaid Eesti heliloojaid ja kunstnikke.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja kehaline kasvatus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvustatakse XX sajandi tuntumaid Eesti sportlasi.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja tööõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvustatakse tehnika arengut XX sajandil.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti Vabadussõda (5 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vabadussõja algus (1 tund)</p><p>Eesti vabastamine (1 tund)</p><p>Sõda Landeswehriga (1 tund)</p><p>Vabadussõja lõpp ja Tartu rahu sõlmimine (1 tund)</p><p>Kordamine (1 tund)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Märgib ajateljele Vabadussõja toimumise ja Tartu rahu sõlmimise aja",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab kaardil Vabadussõja käiku ja nimetab olulisemaid lahinguid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab piltide abil Vabadussõja-aegseid olulisemaid tegelasi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab lühidalt piltide ja kaardi abil sõda Landeswehriga",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab lühidalt, miks oli võit Landeswehri üle eestlaste jaoks oluline (Võidupüha tähistamine)",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab, kuidas ja mis tingimustel lõppes Vabadussõda",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab, millal, kus ja kelle vahel sõlmiti Tartu rahu.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpetaja temaatiline näitlikustatud jutustus on tunni kandvaks osaks, seda täiendab töö mõistete ja lihtsustatud tekstiga (sh näitlikustamine, sõnaseletused) ning kinnistavad erinevad suulised ja kirjalikud harjutused;</li><li>ajatelje joonistamine tahvlile/vihikusse;</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608315938/tuulepealne-maa",
+              "title": "filmikatkendi vaatamine: \"Tuulepealne maa\" 2. osa"
+            },
+            { "kind": "text", "html": "<p>video: Vabadussõda</p>" },
+            { "kind": "video", "src": "https://youtu.be/COyZK9NHgWk" },
+            {
+              "kind": "text",
+              "html": "<p>video: Eesti soomusrongid Vabadussõjas</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/X3MnpQhcqiQ" },
+            { "kind": "text", "html": "<p>video: pilte Vabadussõjast</p>" },
+            { "kind": "video", "src": "https://youtu.be/WdcAHahDQPs" },
+            {
+              "kind": "text",
+              "html": "<p>video: Taani vabatahtlikud Vabadussõjas</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/P02HR8P5hHw" },
+            {
+              "kind": "text",
+              "html": "<ul><li>õppekäik mõnda Vabadussõjaga seotud paika (mälestussammas, muuseum, kalmistu).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>okupatsioon;</li><li>Punaarmee;</li><li>pataljon;</li><li>soomusrong;</li><li>Vene valgekaartlased;</li><li>Landeswehr;</li><li>Võidupüha;</li><li>delegatsioon;</li><li>vaherahu.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti Vabariik 1918-1940 (5 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Asutav Kogu ja maareform (1 tund)</p><p>Eesti Vabariigi sise- ja välispoliitika (1 tund)</p><p>Põllumajandus, tööstus, kultuur ja haridus Eesti Vabariigis (2 tundi)</p><p>Kordamine (1 tund)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Märgib ajateljele Eesti esimese iseseisvusaja",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab kaardil Eestit ja nimetab tema tähtsamaid välispartnereid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab piltide abil Eesti põllumajanduse ja tööstuse põhilisemat toodangut",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab piltide abil Eesti olulisemaid poliitika- ja kultuuritegelasi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab esimese iseseisvusaja tähtsamaid haridusasutusi (TÜ, TTÜ, Kõrgem Sõjakool).",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpetaja temaatiline näitlikustatud jutustus on tunni kandvaks osaks, seda täiendab töö mõistete ja lihtsustatud tekstiga (sh näitlikustamine, sõnaseletused) ning kinnistavad erinevad suulised ja kirjalikud harjutused;</li><li>ajatelje joonistamine tahvlile/vihikusse;</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>filmikatkendi vaatamine: \"Detsembrikuumus\"</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/YdA1REelTiM" },
+            {
+              "kind": "text",
+              "html": "<p>video: kroonikakaadrid president Pätsist</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/0oFkMe50_5g" },
+            {
+              "kind": "text",
+              "html": "<p>video: Kristjan Palusalu saabumine Berliini olümpiamängudelt</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/li8id_uOBiA" },
+            {
+              "kind": "text",
+              "html": "<p>video: Tartu Ülikool 1932. aastal</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/SuJbFTO0ooI" },
+            {
+              "kind": "text",
+              "html": "<p>video: Tallinn enne II maailmasõda;</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/AWErPyF-Xgg" },
+            {
+              "kind": "text",
+              "html": "<p>video: Tartu enne II maailmasõda</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/_XXiu9YTj3M" },
+            {
+              "kind": "text",
+              "html": "<p>video: Narva enne II maailmasõda</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/Vw2VYoK5qds" },
+            { "kind": "text", "html": "<p>video: Virumaa vaated 1940</p>" },
+            { "kind": "video", "src": "https://youtu.be/rlyhnvWRfAw" },
+            { "kind": "text", "html": "<p>video: Eesti suvituskohti 1940</p>" },
+            { "kind": "video", "src": "https://youtu.be/devkSeMZ0Mw" },
+            {
+              "kind": "text",
+              "html": "<ul><li>õppekäik Tartu Ülikooli peahoonesse.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>maareform;</li><li>Asutav Kogu;</li><li>põhiseadus;</li><li>demokraatia;</li><li>riigipööre;</li><li>vapsid;</li><li>põllutöökool, kodumajanduskool;</li><li>masinaühistu;</li><li>talgud;</li><li>põlevkivi ja fosforiit;</li><li>majanduskriis.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>võimalusel osalemine talgutel.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Maailm kahe maailmasõja vahel (3 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Saksamaa pärast I maailmasõda (1 tund)</p><p>Kommunistlik Nõukogude Liit (1 tund)</p><p>Kordamine (1 tund)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Märgib ajateljele maailmasõdade vahelise aja",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab kaardil ja nimetab Euroopa riike pärast I maailmasõda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab piltidele toetudes Saksamaa ja selle elanike olukorda pärast I maailmasõda",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab lühidalt (abiga), kuidas Hitler võimule tuli",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab piltidele toetudes eluolu Nõukogude Liidus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab piltide abil Nõukogude Liidu valitsejaid (Lenin, Stalin).",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpetaja temaatiline näitlikustatud jutustus on tunni kandvaks osaks, seda täiendab töö mõistete ja lihtsustatud tekstiga (sh näitlikustamine, sõnaseletused) ning kinnistavad erinevad suulised ja kirjalikud harjutused;</li><li>ajatelje joonistamine tahvlile/vihikusse;</li></ul>"
+            },
+            { "kind": "text", "html": "<p>video: Hitleri kõne;</p>" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=FJ3N_2r6R-o"
+            },
+            { "kind": "text", "html": "<p>video: Lenini kõne</p>" },
+            { "kind": "video", "src": "https://youtu.be/C_n_qtgUKnY" },
+            { "kind": "text", "html": "<p>video: kaadrid Stalinist.</p>" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/shorts/jHGMkPoE0Z0"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>füürer;</li><li>natsid;</li><li>diktaator;</li><li>koonduslaager;</li><li>juudid;</li><li>NSVL;</li><li>kolhoos.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti kaotab iseseisvuse. 1939-1940 (4 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Molotovi-Ribbentropi pakt (1 tund)</p><p>Nõukogude Venemaa tegevus naaberriikide suhtes pärast MRP-d (1 tund)</p><p>Eesti okupeerimine ja liitmine NSV Liiduga (1 tund)</p><p>Kordamine (1 tund)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Märgib ajateljele MRP sõlmimise, Talvesõja alguse, Eesti okupeerimise ja juuniküüditamise aja",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab kaardil ja nimetab, kuidas Euroopa riigid MRP salaprotokolli alusel jaotati",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab Eesti kaardil Punaarmee baaside asukohti ja põhjendab abiga nende valikut",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab abiga, kuidas Eesti kaotas iseseisvuse",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab abiga, kuidas toimus juuniküüditamine",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab abiga, miks Talvesõda algas ja kuidas see lõppes.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpetaja temaatiline näitlikustatud jutustus on tunni kandvaks osaks, seda täiendab töö mõistete ja lihtsustatud tekstiga (sh näitlikustamine, sõnaseletused) ning kinnistavad erinevad suulised ja kirjalikud harjutused;</li><li>ajatelje joonistamine tahvlile/vihikusse;</li></ul>"
+            },
+            { "kind": "text", "html": "<p>video: MRP sõlmimine</p>" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/shorts/qEehLxxwmc4"
+            },
+            {
+              "kind": "text",
+              "html": "<p>lihtne ja humoorikas video: Saksamaa ja NSVL salatehing</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/HGUkNVZzRw8" },
+            {
+              "kind": "text",
+              "html": "<p>salvestis: president Pätsi viimane avalik kõne 21.06.40</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/xf6tzu2IO5k" },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608315968/tuulepealne-maa",
+              "title": "filmikatkendi vaatamine: \"Tuulepealne maa\" 12. osa"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>pakt;</li><li>salaprotokoll;</li><li>neutraalne;</li><li>ultimaatum;</li><li>baas;</li><li>okupatsioon;</li><li>ENSV;</li><li>küüditamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teine maailmasõda 1939-1945 (4 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>II maailmasõja käik (1 tund)</p><p>Okupatsioonid ja sõjasündmused Eestis (1 tund)</p><p>Sõjategevuse lõpp Eestis (1 tund)</p><p>Kordamine (1 tund)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Märgib ajateljele II maailmasõja toimumisaja",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab kaardil ja nimetab olulisemaid sõjas osalenud riike",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab lühidalt piltidele toetudes II maailmasõja käiku ja selle tulemusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab lühidalt piltide abil okupatsioonide aegset elu Eestis",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab lühidalt eestlaste valikuid sõja ajal ja nimetab, kelle poolel sõditi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab lühidalt, kuidas sõda Eesti ja eestlaste jaoks lõppes",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab, kuidas sõda mõjutas kodukohta",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab kaardil ja nimetab riike, kuhu eestlased sõja lõpus põgenesid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpetaja temaatiline näitlikustatud jutustus on tunni kandvaks osaks, seda täiendab töö mõistete ja lihtsustatud tekstiga (sh näitlikustamine, sõnaseletused) ning kinnistavad erinevad suulised ja kirjalikud harjutused;</li><li>ajatelje joonistamine tahvlile/vihikusse;</li><li>filmikatkendi vaatamine: \"Jojo Rabbit\";</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>filmikatkendi vaatamine: \"Untergang\"</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/ZONFIhPbYnQ" },
+            {
+              "kind": "text",
+              "html": "<p>filmikatkendi vaatamine: \"1944\";</p><p>video: sõjasündmused Eestis 1944</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/7qw_OKlMP5I" },
+            { "kind": "text", "html": "<p>video: Tallinn 1944</p>" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=XM5pu-qONPs"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>küsitleb ülesande raames mõnd sugulast, kuidas sõjasündmused mõjutasid perekonda/kodukohta.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>blokaad;</li><li>aatompomm;</li><li>kaardisüsteem;</li><li>Eesti Leegion;</li><li>Eesti Laskurkorpus;</li><li>metsavennad;</li><li>soomepoisid.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti ja muu maailm pärast II maailmasõda (6 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Maailm pärast II maailmasõda, külm sõda (1 tund)</p><p>Nõukogude Eesti (2 tundi)</p><p>Nõukogude Liidu kokkuvarisemine (1 tund)</p><p>Eesti taasiseseisvumine (1 tund)</p><p>Kordamine (1 tund)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Märgib ajateljele II maailmasõja lõpu, Eesti taasiseseisvumise ja Nõukogude Liidu lagunemise",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab kaardil ja nimetab Euroopa riike pärast II maailmasõda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab lühidalt suurriikide vahelisi suhteid pärast II maailmasõda",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab abiga, kuidas toimus märtsiküüditamine",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab näidetele tuginedes elu Nõukogude Eestis",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab piltidele toetudes Eesti taasiseseisvumisele viinud sündmusi (fosforiidisõda, öölaulupeod, Balti kett)",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab põhjusi ja sündmusi, miks NSVL kokku varises.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpetaja temaatiline näitlikustatud jutustus on tunni kandvaks osaks, seda täiendab töö mõistete ja lihtsustatud tekstiga (sh näitlikustamine, sõnaseletused) ning kinnistavad erinevad suulised ja kirjalikud harjutused;</li><li>ajatelje joonistamine tahvlile/vihikusse;</li><li>filmikatkendi vaatamine: \"Tuulte pesa\";</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>video: pilte nõukogudeaegsest Tallinnast;</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/CPpAjztJ2z8" },
+            {
+              "kind": "text",
+              "html": "<p>video: Kristo Siig: nõukogude aeg</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/nbQm_RsEC-4" },
+            { "kind": "text", "html": "<p>video: Berliini müür</p>" },
+            { "kind": "video", "src": "https://youtu.be/X3Xe4AdJaFQ" },
+            { "kind": "text", "html": "<p>video: Tartu 1978. aastal</p>" },
+            { "kind": "video", "src": "https://youtu.be/JizOCbMWFsI" },
+            {
+              "kind": "text",
+              "html": "<p>video: eesti keel 45 aastat tagasi</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Uk6dMq09q4I&amp;t=5s"
+            },
+            { "kind": "text", "html": "<p>video: eesti keel tänapäeval</p>" },
+            { "kind": "video", "src": "https://youtu.be/qY5lA92zGKQ" },
+            {
+              "kind": "text",
+              "html": "<p>video: pilte nõukogudeaegsest Tartust</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/2pcpKMFpuok" },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608298887/august-1991",
+              "title": "filmikatkendi vaatamine: \"August 1991\""
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>õppekäik mõnda ajaloomuuseumi (nt KGB kongide muuseum).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>külm sõda;</li><li>NATO;</li><li>Balti kett;</li><li>plaanimajandus ja turumajandus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ühiskonnaõpetus (8 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Põhiseadus ja Eesti riigi sümbolid (1 tund)</p><p>Riigikogu, riigipea, valitsus (1 tund)</p><p>Kohalik omavalitsus (1 tund)</p><p>Korrakaitse (1 tund)</p><p>Riigikaitse (1 tund)</p><p>Kohus (1 tund)</p><p>Eesti ja rahvusvahelised organisatsioonid (Euroopa Liit, NATO) (1 tund)</p><p>Kordamine (1 tund)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et tähtsaim seadus on põhiseadus, kus on kirjas inimeste õigused ja kohustused ning toob nende kohta näiteid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab riigi sümboleid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab võimul olevat presidenti ja peaministrit",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab piltide abil kõiki Eesti presidente",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab erakondi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab linnapead/vallavanemat",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ameteid, kes tagavad riigi siseturvalisust (politsei, päästeamet, kiirabi) ja kirjeldab lühidalt nende ülesandeid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab vajadusel abi kutsuda (112)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab lühidalt kaitseväe ja kaitseliidu ülesandeid ja teab nende erinevust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, millega tegelevad kohtud",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mis on kohtuniku, prokuröri ja advokaadi roll kohtuistungil",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab olulisemaid rahvusvahelisi organisatsioone, kuhu Eesti kuulub ja teab nende sümboleid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Töö töölehtede/õpiku ja tööraamatuga (lihtsustada ja näitlikustada teksti ja mõisteid, tegelda sõnaseletusega);</li></ul>"
+            },
+            { "kind": "text", "html": "<p>video: Riigikogu</p>" },
+            { "kind": "video", "src": "https://youtu.be/jbx56c6PiWI" },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@ValitsuseUudised",
+              "title": "link: valitsuse uudised"
+            },
+            {
+              "kind": "text",
+              "html": "<p>video: presidendi ametissenimetamine</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/JRXwfPi8ASk" },
+            { "kind": "text", "html": "<p>video: kaitseväe paraad;</p>" },
+            { "kind": "video", "src": "https://youtu.be/ICWc9qoLM48" },
+            { "kind": "text", "html": "<p>video: kaitseliidu õppus</p>" },
+            { "kind": "video", "src": "https://youtu.be/Y4zbW83-aLQ" },
+            {
+              "kind": "text",
+              "html": "<p>video: kuidas jõuab abi Häirekeskusest abivajajani</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=bGUo5q_soSc"
+            },
+            { "kind": "text", "html": "<p>video: õigusemõistmise kunst</p>" },
+            { "kind": "video", "src": "https://youtu.be/WqkmAhYJ81A" },
+            { "kind": "text", "html": "<p>video: Mis on Euroopa Liit</p>" },
+            { "kind": "video", "src": "https://youtu.be/zk0a6j_UBs0" },
+            {
+              "kind": "text",
+              "html": "<p>video: Mis on Euroopa Liit? Videoõpsi ühiskonnaõpetuse video</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/5o-BTgm4Hkg" },
+            {
+              "kind": "text",
+              "html": "<p>video: Videoõpsi ühiskonnaõpetuse näidisvideo</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/VCWvsLf1bUU" },
+            {
+              "kind": "text",
+              "html": "<p>video: maksu- ja tollitarkus: maksud</p>"
+            },
+            { "kind": "video", "src": "https://youtu.be/IVfOr0pPmOI" },
+            {
+              "kind": "text",
+              "html": "<ul><li>dramatiseering: kohtuistung;</li><li>dramatiseering: hädaabi kutsumine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>riigi sümbol;</li><li>riigikogu;</li><li>valitsus, peaminister ja ministrid;</li><li>kandidaat;</li><li>riigieelarve;</li><li>riigipea, president;</li><li>partei ehk erakond;</li><li>vallavolikogu/linnavolikogu;</li><li>vallavanem/linnapea;</li><li>vallavalitsus/linnavalitsus;</li><li>kohtunik, prokurör, advokaat;</li><li>ÜRO, NATO ja EL.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>omavalitsuse kaasava eelarve hääletusel osalemine;</li><li>mõne väeosa, päästekomando või politseijaoskonna külastamine;</li><li>riigikogu külastamine;</li><li>kohtuistungi külastamine.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lugemissoovitusi õpetajale",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Bushkovitch, P. (2017). <em>Lühike Venemaa ajalugu</em>. Tartu: Tartu Ülikooli Kirjastus.</p><p>Davies, N. (2014). <em>Euroopa ajalugu</em>. Tallinn: Varrak.</p><p>Jonuks, T. jt. (2023). <em>Ajalugu piltides</em>. Tartu: Eesti Rahva Muuseum.</p><p>Juske, J. (2016). <em>Imelik nõukaaeg</em>. Muraste: Randvelt Kirjastus.</p><p>Juske, J. (2017). <em>Sada põnevat lugu Eesti Vabariigist</em>. Tallinn: Pegasus.</p><p>Juske, J. (2022). <em>Tartu olulised hävinud ehitised</em>. Tallinn: Hea Lugu.</p><p>Hlevnjuk, O. V. (2016). <em>Stalin: diktaatori uus elulugu</em>. Tallinn: Tänapäev.</p><p>Käärmann, A. (2023). <em>Vabaduse hind: mälestusi surmavaenlase vangilaagritest Siberis ja Mordvas</em>. Tallinn: SE&amp;JS.</p><p>Laar, M. (2014). <em>Maailma ajaloo tähtsündmused ja Eesti.</em> Tallinn: Varrak.</p><p>Laar, M. (2006). <em>Sinimäed 1944: II maailmasõja lahingud Kirde-Eestis.</em> Tallinn: Varrak.</p><p>Laar, M. (2022). <em>Sõda metsades : relvastatud vastupanu raudse eesriide taga pärast II maailmasõda</em>. Tallinn: Read.</p><p>Legrand, J. jt. (2001). <em>Churchill</em>. Tallinn: Eesti Entsüklopeediakirjastus.</p><p>Ojalo, H. jt. (2024). <em>Balti riigid 20. sajandi sõdades.</em> Tallinn: Äripäev.</p><p>Rees, L. (2022). <em>Hitler ja Stalin: türannid ja Teine maailmasõda</em>. Tallinn: Äripäev.</p><p>Service, R. (2002). <em>Lenin: biograafia</em>. Tallinn: Sinisukk.</p><p>Talve, I. (2004). <em>Eesti kultuurilugu: keskaja algusest Eesti iseseisvuseni.</em> Tartu: Ilmamaa.</p><p>Tannberg, T., Rahi-Tamm, A. (2024). <em>Vabadussõjast iseseisvuse taastamiseni. Uurimusi 20. sajandi Eesti ajaloost. Tartu: </em>Rahvusarhiiv.</p><p>Vahter, T. (2015). <em>\"Karuks istus vangitornis...\": 1980 - aasta, mis raputas Eestit</em>. Tallinn: Hea Lugu.</p><p>Vahter, T. (2011). <em>Vaba riigi tulek: 1991. kuus otsustavat kuud</em>. Tallinn: Eesti Ekspress.</p><p>Vahter, T. (2021). <em>Võitlus tuleviku pärast: 1933-1936: Pätsi aja rääkimata lood</em>. Tallinn: Heliades.</p>"
+        }
+      ]
+    }
+  ]
+}

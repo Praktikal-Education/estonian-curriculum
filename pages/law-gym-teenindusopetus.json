@@ -1,0 +1,167 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse koostamisel on kasutatud kutsestandardi „Abikelner, tase 3“ kompetentsi „Teenindamine ja müügitöö“ ning „Spaateenindaja, tase 4“ kompetentsi „Kliendi teenindamine“ tegevusnäitajad.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursusel saavad õpilased tutvuda klienditeenindaja tööga erinevates teenindusettevõtetes ja saada teada, kuidas saada heaks teenindajaks. Teenindusõpetus aitab mõista, miks ja kuidas teenindada, ning õppida tundma teenindaja rolli ja vastutust ning klientide võimalikke ootusi teenindusele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursus on jagatud kolmeks suuremaks teemaks: teeninduskultuur ja klienditeeninduse põhimõtted; ettevalmistustööd teeninduseks ja teenindaja tööd klientide teenindamisel teenindusettevõttes; toitlustusteeninduse põhimõtted ja toimingud. Kõik teemad sisaldavad nii teoreetilist ülevaadet kui ka praktilist õpet. Arutletakse töösse suhtumise teemal, milline mõju on heal teenindusel ettevõtte sisekliimale, klientidele, töötaja ja ettevõtte mainele ning arengule. Praktiliste harjutuste käigus saavad õpilased kogemuse teenindaja töö eripärast iluteeninduses ja toitlustusettevõttes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse läbinud õpilane mõistab klienditeeninduse põhimõtteid ja omandab oskuse teenindada klienti külastajateekonna vältel, tutvustades ja müües juhendatult pakutavaid teenuseid ja tooteid. Üldpädevustest kujundatakse õpilase suhtluspädevust, kultuuri- ja väärtuspädevust ning arendatakse teeninduslikku mõtlemist, head teenindust väärtustavat hoiakut, teenindusoskusi ja teenindusvalmidust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Sügavama huvi korral on võimalik edasi õppides omandada ka põhjalikumad teadmised ja oskused majutuse ja toitlustuse valdkonna erialadel kutseõppeasutustes.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>mõistab klienditeeninduse põhimõtteid ja hea teeninduse mõju töötaja ning ettevõtte arengule ja mainele;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>omandab teadmised, oskused, hoiakud ja sotsiaalse valmiduse, teenindamaks kliente erinevates teenindusolukordades.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "mõistab klienditeeninduse põhimõtteid ja tähtsust ettevõtte arengule ja mainele;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "serveerib juhendamisel lihtsamaid toite ja jooke.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõik teemad algavad teoreetilise sissejuhatusega, millele järgnevad praktilised harjutusülesanded baasoskuste omandamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Klienditeeninduse olemus (12 t)</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>teeninduse olemus ja peamised mõisted teeninduses, teenindusmõttelaad ja -valmidus, teenindusühiskond;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>kliendid ja nende ootused teenindusele (sh 1 t iseseisvat tööd);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>toote ja teenuse erinevused;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>teeninduseetika ja teenindaja isikuomadused (konfidentsiaalsus kliendi ja ettevõtte suhtes, hea tava)</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>külastajateekond ja selle erinevad etapid, esmamulje kujunemine (sh 1 t iseseisvat tööd);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>teenindaja hoiakud, roll ja ülesanded, välimus, suhtumine töösse, kolleegi;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>teenindussõnavara, suhtlemistsoonid, rollid, isiksuse tüübid;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>hooliv ja tähelepanelik teenindamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Klientide teenindamine teenindusettevõttes (9 t)</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>suhtlemine kliendiga erinevates teenindussituatsioonides (sh 1 t iseseisvat tööd);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>teenuste, toodete tutvustamine ja müümine, klientide nõustamine;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>klientide teenindamine, sh vastuvõtmine ja ärasaatmine;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>keerulised situatsioonid teeninduses.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Klientide teenindamine toitlustusettevõttes (14 t)</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>toitlustusteeninduse tähtsus ja vajalikkus;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>lauakatmis- ja serveerimisvahendid;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>toitlustusteeninduse liigid: iseteenindus e selveteenindus, osaline teenindus, täisteenindus;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>abikelneri tööülesanded;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>ettevalmistustööd teenindamiseks ja laudade katmiseks, töö planeerimine, laudade eelkatte tegemine hommikusöögiks, lõuna- ja õhtusöögiks (sh 1 t iseseisvat tööd);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>ruumide ja laudade kohandamine ja kaunistamine (sh 1 t iseseisvat tööd);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>roogade ja jookide (sh kohv ja tee) serveerimine, portsjonroogade laualetoomise tehnika, vaagnalt serveerimine, kandikult serveerimine, taldrikute ja klaaside koristamise tehnika;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>klientide teenindamine, sh vastuvõtmine, menüü tutvustamine, tellimuse vastuvõtmine, serveerimine, arveldamine, ärasaatmine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1195 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Soovituslik õpitulemuste jaotus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab Eesti Keele Instituudi veebisõnastikke keele rikastamiseks ja enesekontrolliks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kasutada eestikeelse meedia pakutavaid võimalusi info leidmiseks ja keele õppimiseks, oskab nimetada eestikeelseid väljaandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab keele õppimiseks infokeskkonda, näiteks sildid, kuulutused, reklaamid ja juhised",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab tuntumaid kõnekeelseid keelendeid, valib kõnelemisel ja kirjutamisel sõltuvalt suhtlusolukorrast sobivad keelendid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab ametlikus suhtlussituatsioonis sobivat suhtlusstiili ja eesti keelele omaseid keelendeid pöördumiseks, tervitamiseks, huvi üles näitamiseks ja suhtluse lõpetamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru erisuguse pikkuse ja keerukusega oma huvivaldkondade, üldiste ning õpi- ja elutarbeliste kirjalike ja suuliste tekstide põhisisust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb kuuldud või loetud intervjuu põhjal kokkuvõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib mitme osalejaga struktureeritud mõttevahetust ning toob välja mõned põhiseisukohad",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "korduva kuulamise võimalusel teeb kokkuvõtte videoloengust tuttaval teemal",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru üldkeelelisest või oma huvialaga seotud meelahutuslikust või enesediagnostilisest kirjalikust valikvastustega testist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru tuttaval teemal antud soovitustest ja oskab neid ise koostada suuliselt ja kirjalikult",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib ja mõistab eakohaste arvamus- ja probleemartiklite arutluskäiku, esitab enda seisukoha",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb eakohaseid eri žanris ilukirjandustekste, mõistab põhisisu kui ka kõik pole arusaadav, avaldab loetu kohta arvamust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtleb tuttaval teemal ettevalmistuseta küllaltki ladusalt, väljendab oma seisukohti, tundeid ja soove, reageerib kaaslaste jutule asjakohaselt ja viisakalt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb arutelus, esitab argumentide ja näidetega toetatud seisukohti ja põhjendusi, kasutab kaaslase jutule reageerimiseks ja sõnajärje saamiseks sobivaid keelendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "peab selgelt struktureeritud ettekande, toob esile olulisemad seisukohad ning poolt- ja vastuargumendid, pöördub kuulajate poole ning lõpetab ettekande asjakohaselt ning head tava silmas pidades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab eri tüüpi tarbetekste, näiteks järelepärimine, motivatsioonikiri, avaldus, seletuskiri, ning oskab neid korrektselt vormistada",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab möödunud sündmust või kogemust kirjeldava teksti",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab arutlevaid tekste, kus esitab poolt- ja vastuargumente, toob näiteid ning sõnastab kokkuvõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru õpitud teemaga seotud üldkasutatavatest rahvapärastest ütlustest ja vanasõnadest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "hääldab sõnu ja lauseid selgelt ja loomulikult",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid sidusaks tekstiks, liigendab teksti lõikudeks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab korrektselt järgides õigekirjareegleid õpitu piires",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "5) Igapäevaelu. Õppimine ja töö",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tõhus õppimine. Mina õppijana. Õpikeskkonna mõju õppimisele.</p><p>Erinevad õppimisvõimalused ja koolid.</p><p>Ohutus. Liiklusohutus ratta või tõukerattaga liigeldes. Veeohutus. Ohutud peod ja suhtlemine võõraga.</p><p>Kuidas käituda hädaolukorra või kriisi puhul? Äpp “Ole valmis!” Hädaabinumbrile helistamine. Kuritegevus. Kuritegevuse liigid.</p><p>Mittetulundusühingud Eestis ja nende roll ühiskonnas. Sotsiaalne ettevõtlus. Vabatahtliku töö võimalused õpilastele.</p><p>Infotehnoloogia: riistvara, selle kasutusvõimalused keeleõppes.</p><p>Sotsiaalmeedia ja äpid. Turvaline internet. Väärinfo.</p><p>Eesti Rahvusringhääling: meediakanalid, rubriigid <a href=\"http://err.ee\">err.ee</a> lehel. Noortele suunatud saated. Uudistesaated.</p><p>Kvaliteetajakirjandus, kultuuriajakirjandus ja meelelahutuslik meedia. Eri väljaannete võrdlemine.</p><p>Meediaeetika põhimõtted. Sõnavabaduse põhimõte ja selle piirangud. Ajakirjandusliku teksti põhiliigid ja nende tunnused: uudis, intervjuu, reportaaž, arvamuslugu, arvustus, reklaam. Kriitiline lugemine. Autori seisukoha leidmine ja ümbersõnastamine ning enda hinnangu sõnastamine. Fakti ja arvamuse eristamine, faktide kontrollimine. Libauudiste äratundmine.</p><p>Reklaamid meedias ja tänaval. Reklaamtekstide eesmärk, sihtgrupp ja keelevalik. Pildi ja teksti seos. Sotsiaalreklaam.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab erisuguse pikkuse ja keerukusega suuliste tekstide põhisisu",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib eakohaseid ettekandeid ja esitlusi, leiab infot ja teeb kokkuvõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvestab keeleliste vahendite valikul suhtluse eesmärki, partnerit ja olukorda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru erisuguse pikkuse ja keerukusega suuliste tekstide põhisisust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb arutelus, väljendub selgelt ja üksikasjalikult mitmesugustel teemadel, esitab argumentide ja näidetega toetatud seisukohti ja põhjendusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid selgelt ja loogiliselt sidusaks tekstiks, liigendab teksti lõikudeks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib ja mõistab eakohaste arvamus- ja probleem- artiklite arutluskäiku",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab üldsõnavara, väljendub selgelt, täpselt ja varieeruvalt: vabatahtlik töö",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab teadlikult eesti keele oskuse arendamiseks keelekeskkonna võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab üldsõnavara, väljendub selgelt, täpselt ja varieeruvalt: mittetõene",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/k/aastakool",
+              "title": "ERRi Aastakool: Klipid erinevatest koolidest"
+            },
+            {
+              "kind": "text",
+              "html": "<p>H. Vallimäe. “Kuidas tõhusalt õppida?”</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=MnLr7KRrFyM"
+            },
+            {
+              "kind": "text",
+              "html": "<p>J. Aru “Kuidas mu aju õpib ehk kuidas paremini õppida?”</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=VcYcJFU-f64"
+            },
+            {
+              "kind": "link",
+              "href": "https://kodutuleohutuks.ee/test/kui-tuleohutu-on-sinu-kodu/",
+              "title": "Päästeameti test “Kui tuleohutu on sinu kodu?”"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/sunaps-39-korvalseisja-efekt/",
+              "title": "Eesti Tervishoiumuuseumi podcast “Kõrvalseisja efekt”"
+            },
+            {
+              "kind": "link",
+              "href": "https://menu.err.ee/1070957/kristel-aaslaid-juhendab-mis-vahe-on-faktil-ja-arvamusel",
+              "title": "ERRi Nova. “Aaslaid juhendab: mis vahe on faktil ja arvamusel?”"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.terviseinfo.ee/images/prints/Uimastiennetuse_%C3%B5petajaraamat/V_peatykk_Aktiivtood_III_kooliaste_2.meedia_m6ju.pdf",
+              "title": "Meedia mõju"
+            },
+            {
+              "kind": "file",
+              "src": "https://maailmakool.ee/wp-content/uploads/2023/02/Tunnikava-418-Kas-vabatahtlik-valisriigis-teeb-tood-voi-on-turist_.pdf",
+              "title": "Mondo tunnikava koos videoga “Kas vabatahtlik välisriigis teeb tööd või on turist?”"
+            },
+            {
+              "kind": "text",
+              "html": "<p><a href=\"http://Vabatahtlikud.ee\">Vabatahtlikud.ee</a> lehekülg kuulutustega</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://vabatahtlikud.ee/kuulutus/",
+              "title": "Vabatahtlikud.ee kuulutused"
+            },
+            {
+              "kind": "file",
+              "src": "https://youth.europarl.europa.eu/files/live/sites/youth/files/assets/documents/ambassador%20school/active%20lessons/pdf/7%20-%20Media%20literacy/et-presentation-media-literacy.pdf",
+              "title": "Euroopa Parlamendi õppevahend EL kohta “Kas lasta end petta või mitte?”"
+            },
+            {
+              "kind": "link",
+              "href": "https://defol.io/kuldmuna/2023/finalists",
+              "title": "“Kuldmuna” (reklaamikonkurss)"
+            },
+            {
+              "kind": "link",
+              "href": "https://etunnid.tagasikooli.ee/e-tund/mida-kujutab-endast-pressifotograafi-too/",
+              "title": "Tagasi Kooli e-tund “Mida kujutab endast pressifotograafi töö?”"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppematerjalid.argument.ee/wp-content/uploads/2023/10/Keeleline-ja-visuaalne-mojutamine-klikimagnetid.pdf",
+              "title": "Eesti Väitlusseltsi tunnikava klikimagnetite teemal"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi: <strong>enesemääratluspädevus</strong> (suutlikkus mõista ja hinnata iseennast, oma nõrku ja tugevaid külgi; analüüsida oma käitumist erinevates olukordades; käituda ohutult ja jälgida tervislikke eluviise); <strong>digipädevus</strong> (suutlikkus kasutada uuenevat digitehnoloogiat toimetulekuks kiiresti muutuvas ühiskonnas nii õppimisel, kodanikuna tegutsedes kui ka kogukondades suheldes; leida ja säilitada digivahendite abil ning hinnata selle asjakohasust ning usaldusväärsust; kasutada probleemilahenduseks sobivaid digivahendeid ja võtteid; olla teadlik digikeskkonna ohtudest ning osata kaitsta oma privaatsust, isikuandmeid ja digitaalset identiteeti).</p><p>Läbiv teema <strong>„Elukestev õpe ja karjääri kujundamine“</strong>, õpilase võimete, huvide, vajaduste ja hoiakute teadvustamine; õpilasi teavitatakse erinevatest tööharjutamise võimalustest ning julgustatakse neid kasutama.</p><p>Vabatahtlik töö kui võimalus siseneda töömaailma.</p><p>Läbiv teema <strong>„Keskkond ja jätkusuutlik areng“</strong> – õpilast suunatakse arutlema keskkonnaprobleemide üle nii kodukoha, ühiskonna kui ka üleilmsel tasandil, kujundama isiklikke keskkonnaalaseid seisukohti ning pakkuma lahendusi keskkonnaprobleemidele; võtma vastutust jätkusuutiku arengu eest, kasutama loodussäästlikke ja jätkusuutlikku arengut toetavaid tegutsemisviise; hindama ning vajaduse korral muutma oma tarbimisvalikuid ja eluviisi.</p><p>Läbiv teema <strong>„Kodanikualgatus ja ettevõtlikkus“</strong> – õpilast suunatakse olema algatusvõimeline ja ettevõtlik, kujundama isiklikke seisukohti ning neid väljendama; tundma õppima ja kaitsma enda ja teiste õigusi ning mõistma nendega kaasnevat vastutust ja kohustusi; mõistma avaliku, ettevõtlus- ja mittetulundussektori seoseid ning toimimist.</p><p>● MTÜ-d kui võimalus kodanikuaktiivsuseks, mh keskkonnakaitseks.</p><p>Läbiv teema <strong>„Teabekeskkond ja meediakasutus“</strong> – õpilast suunatakse määrama oma teabevajadusi ja leidma sobivat teavet; arendama kriitilise teabeanalüüsi oskust.</p><p>Läbiv teema <strong>„Tehnoloogia ja innovatsioon“</strong> – õpilast suunatakse omandama teadmisi tehnoloogiate toimimise ja arengusuundade kohta erinevates eluvaldkondades; kasutama info- ja kommunikatsioonitehnoloogiat eluliste probleemide lahendamiseks ning oma õppimise ja töö tõhustamiseks.</p><p>Läbiv teema <strong>„Tervis ja ohutus“</strong> – õpilast suunatakse tutvuma põhiliste ohuallikate, ohuolukordade ja nende võimalike tekkemehhanismidega ning eristama ohtlikke ja ohutuid olukordi; tegutsema ennast ohtu seadmata vastavalt ohuolukorrale; märkama ja andma esmast abi ennast ohtu seadmata; kutsuma abi erinevates ohuolukordades (liiklus-, vee- või tuleõnnetuse või terviseprobleemi korral, lõhkeaine leidmisel, hädaolukorras jne).</p><p>Valdkondade vaheline lõiming: <strong>ajalugu</strong> (analüüsib allikate usaldusväärsust eri aspekte hinnates, teab, et allika sõnum sõltub autori positsioonist); <strong>ühiskonnaõpetus</strong> (teeb vahet riigi-, era- ja kodanikusektoril, toob näiteid nende tegevusest ja koostööst ühiskonnas ja üksikisikute võimalusest osaleda riigi-, era- ja kodanikusektoris; teab, mis on sotsiaalne ettevõtlus, ja toob näiteid selle võimalustest)</p><p>Õppekäigu võimalus:</p><p>● Eesti Politseimuuseum</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://virumaamuuseumid.ee/eesti-politseimuuseum/programmid/",
+              "title": "Eesti Politseimuuseum"
+            },
+            { "kind": "text", "html": "<p>● Eesti Ringhäälingumuuseum</p>" },
+            {
+              "kind": "link",
+              "href": "https://rhmuuseum.ee/opilastele/",
+              "title": "Eesti Ringhäälingumuuseum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "3) Eesti",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodus- ja kultuuriväärtuslikud objektid. Eesti kohanimed. Kohanimede õigekiri.</p><p>UNESCO maailmapärand Eestis.</p><p>Muuseumid, külastused ja virtuaaltuurid. Õppekäigud.</p><p>Keskkond. Kliimamuutused. Kliimaaktiivsus Eestis.</p><p>Kriisid. Kust saada abi kriisi korral?</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab üldsõnavara, väljendub selgelt, täpselt ja varieeruvalt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru erisuguse pikkuse ja keerukusega suuliste tekstide põhisisust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib eakohaseid ettekandeid ja esitlusi, leiab infot ja teeb kokkuvõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb arutelus, väljendub selgelt ja üksikasjalikult mitmesugustel teemadel, esitab argumentide ja näidetega toetatud seisukohti ja põhjendusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtleb ettevalmistuseta küllaltki ladusalt, väljendab oma seisukohti, tundeid ja soove, reageerib kaaslaste jutule",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob jutustavaid ja kirjeldavaid tekste nii realistlikus kui ka fantastilises laadis: uudislugu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid selgelt ja loogiliselt sidusaks tekstiks, liigendab teksti lõikudeks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://postiindeks.ee/et/blogi/lobusad-eesti-kohanimed/",
+              "title": "Lõbusad Eesti kohanimed"
+            },
+            {
+              "kind": "link",
+              "href": "https://kumueneseloomine.wordpress.com/e-tund/",
+              "title": "Kunstimuuseumi KUMU virtuaaltuur “Eneseloomine. Emantsipeeruv naine Eesti ja Soome kunstis”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>nt 19. saj (algus) ja tänapäevane naisekuju (alates 19.50) võrdlus</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://rhmuuseum.ee/opilastele/",
+              "title": "Eesti Ringhäälingumuuseumi programmid Türil"
+            },
+            {
+              "kind": "text",
+              "html": "<p>(“Kuuldemäng”, “Uudised”, “Külas on…”)</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/sunaps-29-ravimid-reovees-ehk-pilves-angerjad/",
+              "title": "Eesti Tervishoiumuuseumi podcast Sünaps “Ravimid reovees ehk pilves angerjad”"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608788248/kliimateadlikkus",
+              "title": "Kliimateadlikkus (6 lühiklippi)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.erm.ee/et/content/virtuaaltuur",
+              "title": "Virtuaaltuur Eesti Rahva Muuseumis (ERM-is)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.teeviit.ee/kertu-birgiti-kogemuslugu-maailma-muutmiseks-ei-ole-vaja-oodata-kuni-sa-oled-suureks-saanud/",
+              "title": "Teeviit. Intervjuu kliimaaktivist Kertu Birgitiga"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppematerjalid.argument.ee/wp-content/uploads/2023/01/Planeet-ja-katastroofid.pdf",
+              "title": "Eesti Väitlusseltsi tunnikava looduskatastroofidega seotud sõnavara harjutamiseks"
+            },
+            {
+              "kind": "file",
+              "src": "https://maailmakool.ee/wp-content/uploads/2023/08/Tunnikava-436-Milline-on-paastjate-too-kriisikolletes.pdf",
+              "title": "Mondo tunnikava koos videoga “Milline on päästjate töö kriisikolletes?”"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi:</p><p><strong>kultuuri- ja väärtuspädevus</strong> (tajuda ja väärtustada oma seotust ühiskonna- ja loodusega; nüüdiskultuuri sündmustega; väärtustada loomingut ja kujundada ilumeelt; väärtustada inimlikku, kultuurilist ja looduslikku mitmekesisust); <strong>enesemääratluspädevus</strong> (analüüsida oma käitumist erinevates olukordades; käituda ohutult ja jälgida tervislikke eluviise).</p><p>Läbiv teema <strong>„Kultuuriline identiteet“</strong> – õpilast suunatakse omandama teadmisi Eesti kultuuri kohta; teadvustama ning tundma õppima mineviku ja nüüdisaja ühiskondade kultuurilist mitmekesisust.</p><p>Läbiv teema <strong>„Tehnoloogia ja innovatsioon“</strong> – õpilast suunatakse kasutama info- ja kommunikatsioonitehnoloogiat eluliste probleemide lahendamiseks ning oma õppimise ja töö tõhustamiseks.</p><p>● muuseumi virutaaltuurid</p><p>Valdkonnaväline lõiming: <strong>geograafia</strong> (kliima, veestik); <strong>bioloogia</strong> (ökoloogia ja keskkonnakaitse); <strong>ajalugu</strong> (toob näiteid erinevate ajastute kultuuripärandist; märkab kodukoha kultuuripärandit ja teab selle kujunemislugu, mõistab, et kultuuripärandi tähendus võib ajas muutuda)</p><p>Õppekäigu võimalused</p><p>Tallinna Kunstihoone (ka virtuaalne haridusprogramm)</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.kunstihoone.ee/haridus/",
+              "title": "Tallinna Kunstihoone (ka virtuaalne haridusprogramm)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "4) Riigid ja nende kultuur",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Euroopa Liit, sümbolid, riigid ja keeled.</p><p>EL põhiväärtused. Eesti roll Euroopa Liidus.</p><p>Tuntud eestlased maailmas. Tuntud teistest rahvustest inimesed Eestis.</p><p>Kohalikud ja rahvusvahelised tähtpäevad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb arutelus, väljendub selgelt ja üksikasjalikult mitmesugustel teemadel, esitab argumentide ja näidetega toetatud seisukohti ja põhjendusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru enamikust üldkeelsetest tarbe- ja meediatekstidest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvestab keeleliste vahendite valikul suhtluse eesmärki, partnerit ja olukorda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob arutlevaid tekste, esitab poolt- ja vastuargumente, toob näiteid ning sõnastab kokkuvõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid selgelt ja loogiliselt sidusaks tekstiks, liigendab teksti lõikudeks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://european-union.europa.eu/easy-read_et",
+              "title": "Euroopa Liidu kergesti loetav lehekülg EL kohta"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Arutelu teema: mida tähendab “kergesti loetav”? Kellele on kergesti loetav ja / või lihtsas keeles test vajalik?</p><p>Missuguste EL eesmärkide ja väärtustega see seostub?</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://european-union.europa.eu/principles-countries-history/principles-and-values/aims-and-values_et",
+              "title": "Euroopa Liidu eesmärgid ja väärtused"
+            },
+            {
+              "kind": "link",
+              "href": "https://youth.europarl.europa.eu/et/more-information/ambassador-school/active-lessons.html",
+              "title": "Euroopa Parlamendi õppevahend EL kohta, nt 4. moodul “EL meie igapäevaelus”"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.puhkaeestis.ee/et/puhka-eestis/top10-maailmakuulsat-eestlast",
+              "title": "TOP 10 maailmakuulsatest eestlastest 2022.a"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppematerjalid.argument.ee/wp-content/uploads/2023/01/Festivalid-ja-pidustused.pdf",
+              "title": "Eesti Väitlusseltsi tunnikava valentinipäeva tähistamise teemal"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eesti rahvakalendri tähtpäevade video:</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=dpRK4E1DMhQ"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi: <strong>kultuuri- ja väärtuspädevus</strong> (tajuda ja väärtustada oma seotust teiste inimestega, ühiskonnaga, looduse, oma ja teiste maade rahvaste kultuuripärandiga ning nüüdiskultuuri sündmustega); (<strong>sotsiaalne- ja kodanikupädevus</strong> (toimida aktiivse, teadliku, abivalmi ja vastutustundliku kodanikuna ning toetada ühiskonna demokraatlikku arengut ja Eesti riiklikku iseseisvust).</p><p>Läbiv teema <strong>„Elukestev õpe ja karjääri kujundamine“</strong> – Euroopa Liitu ametkonnad kui karjäärivõimalus.</p><p>Läbiv teema <strong>„Kultuuriline identiteet“</strong> – õpilast suunatakse omandama teadmisi Eesti kultuuri, sealhulgas eesti rahvuskultuuri ja teiste kultuuride kujunemise ja vastastikku rikastavate mõjutuste kohta; mõistma ennast kultuuri kandjana, edasiviijana ja kultuuride vahendajana; tundma õppima ning väärtustama oma ja teiste kultuuride pärandit ja eripära.</p><p>Läbiv teema <strong>„Väärtused ja kõlblus“</strong> – õpilast suunatakse tunnustama väärtusi, kõlbelisi norme ja viisakusreegleid; analüüsima süstemaatiliselt kõlbelisi norme ja väärtusi.</p><p>Valdkondade vaheline lõiming: <strong>ajalugu</strong> (märkab Eesti ja maailma kultuuri seoseid ja vastastikust mõju); <strong>ühiskonnaõpetus</strong> (teab Euroopa Liidu liikmesriike ja mõistab, miks Euroopa Liidu liikmesriik peab liikmelisusest tulenevaid kohustusi täitma; 23) toob näiteid Euroopa Liidu kodanike õigustest ja võimalustest, seostades neid enda eluga)</p><p>Õppekäik:</p><p>RaRA haridusprogramm Euroopa Elamuskeskuses</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.rara.ee/programmid/libastudes-libauudistele-euroopa-elamuskeskuses-7-12-klass/",
+              "title": "RaRA haridusprogramm Euroopa Elamuskeskuses"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õppekäigud:</p><p>Ringhäälingumuuseumi Türil,</p><p>raamatukogudesse, kirjandusklubidesse,</p><p>Eesti Lastekirjanduse Keskuse loovtöötubadesse, kinno, ajalehetoimetustesse</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "1) Mina ja teised",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Isikuomadused, võimed, tugevad ja nõrgad küljed erinevates olukordades. Sõprus, armastus ja heade suhete hoidmine. Erilised inimesed: erivajadused, anded ja omapärad.</p><p>Füüsiline ja vaimne tervis, tervislikud eluviisid, liikumine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2) Kodu ja lähiümbrus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ümbruskond ja elukeskkond.</p><p>Kodukoha rajatised, asutused ja ettevõtted. Tähtsad sündmused kodukandis.</p><p>Liiklemisvõimalused, vahendid ja taristu. Jalakäija sõbralik linn.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "3) Eesti",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusväärtused ja kultuuriväärtused.</p><p>UNESCO maailmapärand Eestis.</p><p>Muuseumid, külastused ja virtuaaltuurid. Õppekäigud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "4) Riigid ja nende kultuur",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Euroopa Liit, sümbolid, riigid ja keeled. Eesti roll Euroopa Liidus.</p><p>Tuntud eestlased maailmas. Tuntud teistest rahvustest inimesed Eestis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "5) Igapäevaelu. Õppimine ja töö",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tõhus õppimine. Mina õppijana. Õpikeskkonna mõju õppimisele.</p><p>Erinevad õppimisvõimalused ja koolid.</p><p>Ohutus. Liiklusohutus liigeldes ratta või tõukerattaga. Veeohutus. Ohutud peod ja suhtlemine võõraga. Hädaabinumbrile helistamine.</p><p>Mittetulundusühingud Eestis ja nende roll ühiskonnas. Vabatahtliku töö võimalused õpilastele.</p><p>Aktiivse puhkuse vajalikkus ja võimalused.</p><p>Infotehnoloogia: riistavara, kasutusvõimalused keeleõppes.</p><p>Sotsiaalmeedia ja äpid. Turvaline internet.</p><p>Eesti Rahvusringhääling: meediakanalid, rubriigid <a href=\"http://err.ee\">err.ee</a> lehel. Noortele suunatud saated. Uudistesaated.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "6) Vaba aeg",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aktiivse puhkuse vajalikkus ja võimalused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "7) Tervis",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Füüsiline ja vaimne tervis. Vaimse tasakaalu toetamine.</p><p>Soovituslik lugemisvara: Aidi Vallik “Kuidas elad, Ann?” ja “Mis teha, Ann?”</p><p>Soovituslikud meediaallikad: ERR, “Postimees juunior”,</p><p>Soovituslikud saated: “Maailma kõige targem rahvas”, üks portreesaasade, “Novaator”, ERR “Nova”, ERR “Ringvaade”, ERR “Osoon” - eestikeelsete subtiitrite võimalus, ERR “Kuula rändjajat”</p><p>Soovituslikud filmid: “Kalev”, “Tagurpidi torn”</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "8. klass",
+      "children": [{ "kind": "text", "html": "<p>8. klass</p>" }]
+    },
+    {
+      "kind": "topic",
+      "title": "1) Mina ja teised",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Isikuomadused, võimed, tugevad ja nõrgad küljed erinevates olukordades.</p><p>Modaaltegusõnad.</p><p>Sõprus, armastus ja heade suhete hoidmine ning lõpetamine</p><p>Erilised inimesed: erivajadused, anded ja omapärad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru erisuguse pikkuse ja keerukusega suuliste tekstide põhisisust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib eakohaseid ettekandeid ja esitlusi, leiab infot ja teeb kokkuvõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtleb ettevalmistuseta küllaltki ladusalt, väljendab oma seisukohti, tundeid ja soove, reageerib kaaslaste jutule",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru enamikust suulistest ja kirjalikest üldkeelsetest tarbe- ja meediatekstidest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab jutustavaid ja kirjeldavaid tekste nii realistlikus kui ka fantastilises laadis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid selgelt ja loogiliselt sidusaks tekstiks, liigendab teksti lõikudeks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru enamikust üldkeelsetest tarbe- ja meediatekstidest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob arutlevaid tekste, esitab poolt- ja vastuargumente, toob näiteid ning sõnastab kokkuvõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb arutelus, väljendub selgelt ja üksikasjalikult mitmesugustel teemadel, esitab argumentide ja näidetega toetatud seisukohti ja põhjendusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab erisuguse pikkuse ja keerukusega suuliste tekstide põhisisu",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob raamatu-, filmi- või teatriarvustuse",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://etunnid.tagasikooli.ee/e-tund/kuidas-leida-oma-tugevused-ja-need-enda-jaoks-toole-panna/",
+              "title": "Tagasi Kooli e-tund “Kuidas leida oma tugevused ja need enda jaoks tööle panna?”"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.rara.ee/materjalid/eesti-kirjanike-armastuslood/",
+              "title": "RaRA viktoriin “Eesti kirjanike armastuslood”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Viktoriinis nimetatud kirjanikud võivad õpilastele olla tundmatud, kuid lood annavad inspiratsiooni romantilise loo kirjutamiseks.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://peaasi.ee/mis-on-sotsiaal-emotsionaalne-padevus/",
+              "title": "Peaasi infolehekülg sotsiaal-emotsionaalse pädevuse kohta"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.taskutark.ee/arutleva-kirjandi-kirjutamise-etapid/",
+              "title": "Taskutarga arutleva kirjandi näide “Kas kool teeb õnnelikuks”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>12. klassile välja pakutud struktuur sobib mudeliks ka III kooliastme õpilastele</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppematerjalid.argument.ee/wp-content/uploads/2023/01/Perekond-Smith.pdf",
+              "title": "Eesti Väitlusseltsi tunnikava immigratsiooni mõjudest erinevate osapoolte vaatepunktist"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Sotsiaalministeeriumi klipp “Kuidas pakkuda abi erivajadusega inimesele?”</p><p>Tõestisündinud lood</p><p>a) füüsilise erivajadusega inimesest</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=_DF0oHxU8rc"
+            },
+            { "kind": "text", "html": "<p>b) Downi sündroomiga inimesest</p>" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ibpg3HyL0kA"
+            },
+            {
+              "kind": "link",
+              "href": "https://etunnid.tagasikooli.ee/e-tund/kas-puudega-inimesel-on-samad-oigused-mis-puudeta-inimesel/",
+              "title": "Tagasi Kooli e-tund “Kas puudega inimestel on samad õigused mis puudeta inimesel?”"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/sunaps-48-pimedate-abivahendid-ja-tehnoloogia/",
+              "title": "Eesti Tervisemuuseumi podcast Sünaps “Pimedate abivahendid ja tehnoloogia”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Film “Tagurpidi torn”</p><p>Helga Nõu raamatud “Pea suu”, “Tõmba uttu” või “Kuues sõrm”</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi: <strong>kultuuri- ja väärtuspädevus</strong> (tajuda ja väärtustada oma seotust teiste inimestega, ühiskonnaga); <strong>sotsiaalne- ja kodanikupädevus</strong> (austada erinevate keskkondade reegleid ja ühiskondlikku mitmekesisus; aktsepteerida inimeste ja nende väärtushinnangute erinevusi ning arvestada neid suhtlemisel; teha koostööd teiste inimestega erinevates situatsioonides); <strong>enesemääratluspädevus</strong> (suutlikkus mõista ja hinnata iseennast, oma nõrku ja tugevaid külgi; analüüsida oma käitumist erinevates olukordades; käituda ohutult; lahendada suhtlemisprobleeme).</p><p>Läbiv teema <strong>„Väärtused ja kõlblus“</strong> – õpilast suunatakse reflekteerima nii iseenda kui ka kaasinimeste käitumispõhimõtete üle, kasutades kõlbeliste konfliktide lahendamise ning vastutustundlike valikute tegemise oskusi.</p><p>Valdkondade vaheline lõiming: <strong>inimeseõpetus</strong> (analüüsib ennast oma väärtuste, isikuomaduste, võimete ja huvide põhjal ning seostab seda valikutega elus; kirjeldab ja toob näiteid erinevatest tunnete ja läheduse avaldumisviisidest, nt meeldimine, sõprus, armumine, armastus; selgitab suhete loomise, säilitamise ja lõpetamise võimalusi ennast ja teisi kahjustamata)</p><p>Karjääriõpetus toetab tulevast elukutsevalikut.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "2) Kodu ja lähiümbrus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ümbruskond ja elukeskkond.</p><p>Kodukoha rajatised, asutused ja ettevõtted. Algustäheortograafia.</p><p>Tähtsad sündmused kodukandis.</p><p>Liiklemisvõimalused, vahendid ja taristu. Jalakäijasõbralik linn.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab teadlikult eesti keele oskuse arendamiseks keelekeskkonna võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru erisuguse pikkuse ja keerukusega suuliste tekstide põhisisust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib eakohaseid ettekandeid ja esitlusi, leiab infot ja teeb kokkuvõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid selgelt ja loogiliselt sidusaks tekstiks, liigendab teksti lõikudeks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtleb ettevalmistuseta küllaltki ladusalt, väljendab oma seisukohti, tundeid ja soove, reageerib kaaslaste jutule",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab eri tüüpi tarbetekste ning vormistab need korrektselt: ettepanek KOV-le",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob eri tüüpi tarbetekste: ülevaate toimunud üritusest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koduümbruse asutuste kaardistamine, nt Google Maps’i abil sõnavara arendamiseks, keelemaastikuga tutvumiseks.</p><p>Kodukandi tänavate nimede päritolu uurimine.</p><p>Saabuvate ürituste kuulutused jm kuulutused tänavapostil, kohalikus lehes ja ürituste kalendris.</p><p>Kohalikud liiklusuudised.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/sunaps-58-kalmistud-malus-ja-meeles/",
+              "title": "Eesti Tervishoiumuuseumi podcast Sünaps “Kalmistud mälus ja meeles”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>kalmistukultuurist, käitumine surnuaias, nt 05.00-15.00</p><p>ERRi Nova. “Parkuur: linnasport”</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://services.err.ee/media/embed/1126573",
+              "title": "ERRi Nova. “Parkuur: linnasport”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>ERRi Nova. “Avalik ruum, noored parkides”</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?app=desktop&amp;v=y1FlBBK249I"
+            },
+            {
+              "kind": "text",
+              "html": "<p>ERRi Nova. “Intervjuu ansambliga Redel, puidust ehitised”:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/watch/?v=5663888290303725",
+              "title": "ERRi Nova. “Intervjuu ansambliga Redel, puidust ehitised”"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/k/teadus3minutiga",
+              "title": "ERRi Novaator. “Rikas linn, vaene linn” (elurikkusest)"
+            },
+            {
+              "kind": "link",
+              "href": "https://etv.err.ee/1608746230/kuidas-muuta-autokeskset-maailmapilti",
+              "title": "ERRi “Kuidas muuta autokeskset maailmapilti?”"
+            },
+            {
+              "kind": "link",
+              "href": "https://etunnid.tagasikooli.ee/e-tund/miks-on-autostumine-halb-ja-kuidas-aitab-jalgratas/",
+              "title": "Tagasi Kooli e-tund “Miks on autostumine halb ja kuidas aitab jalgratas?”"
+            },
+            {
+              "kind": "file",
+              "src": "https://integratsioon.ee/sites/default/files/188_eesti_keele_opik.pdf",
+              "title": "M. Kitsinik “Eesti keele õpik vene õppekeelega koolidele” lk 44"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi: <strong>ettevõtlikkuspädevus</strong> (näha probleeme ja neis peituvaid lahendusi; aidata kaasa probleemide lahendamisele; korraldada ühistegevusi ja neist osa võtta).</p><p>Läbiv teema <strong>„Elukestev õpe ja karjääri kujundamine“</strong> – erinevate õppetegevuste kaudu võimaldatakse õpilasel saada ülevaade tööturu üldisest olukorrast ja tuleviku prognoosidest.</p><p>Läbiv teema <strong>„Keskkond ja jätkusuutlik areng“</strong> – õpilast suunatakse arutlema keskkonnaprobleemide üle nii kodukoha, ühiskonna kui ka üleilmsel tasandil, kujundama isiklikke keskkonnaalaseid seisukohti ning pakkuma lahendusi keskkonnaprobleemidele.</p><p>Valdkonnaväline lõiming: <strong>geograafia</strong> (kaartide kasutamine, teenindus, asustus), <strong>bioloogia</strong> (ökoloogia ja keskkonnakaitse)</p><p>Õppekäik: Ajaloo mälu olulisusest.</p><p>kodukandi kalmistu külastamine: käitumine kalmistul, tähelepanuväärse inimese haua külastus ja lillede viimine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "6) Vaba aeg",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aktiivse puhkuse vajalikkus ja võimalused. Rekreatsioon.</p><p>Lugemine. Eri tüüpi raamatud. Kas lugemine on töö või puhkus? Paber või digi? Raamat või film?</p><p>Eesti raamatute TOP-id.</p><p>Tõhus lugemine. Lugemisstrateegiad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab üldsõnavara, väljendub selgelt, täpselt ja varieeruvalt: eri tüüpi raamatud",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtleb ettevalmistuseta küllaltki ladusalt, väljendab oma seisukohti, tundeid ja soove, reageerib kaaslaste jutule",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb arutelus, väljendub selgelt ja üksikasjalikult mitmesugustel teemadel, esitab argumentide ja näidetega toetatud seisukohti ja põhjendusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob eri tüüpi tarbetekste: ülevaate toimunud üritusest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid selgelt ja loogiliselt sidusaks tekstiks, liigendab teksti lõikudeks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab teadlikult eesti keele oskuse arendamiseks keelekeskkonna võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru enamikust suulistest ja kirjalikest üldkeelsetest tarbe- ja meediatekstidest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb eakohaseid eri žanris ilukirjandus tekste, analüüsib nende sisu ja mõistab sõnumit",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab eri tüüpi tarbetekste ning vormistab need korrektselt: e-kiri",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab raamatu-, filmi- või teatriarvustuse",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvestab keeleliste vahendite valikul suhtluse eesmärki, partnerit ja olukorda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib õigekirjareegleid",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.sutori.com/en/story/raamatute-ponev-maailm--mDtJduyCabMvrqRhc54iKDGE",
+              "title": "RaRa õppematerjal erinevatest raamatutüüpidest"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppematerjalid.argument.ee/wp-content/uploads/2023/01/Paberraamatud-vs-e-raamatud.pdf",
+              "title": "Eesti Väitlusseltsi tunnikava “Paberraamatud vs e-raamatud”"
+            },
+            {
+              "kind": "file",
+              "src": "https://integratsioon.ee/sites/default/files/188_eesti_keele_opik.pdf",
+              "title": "M. Kitsnik “Eesti keele õpik vene õppekeelega koolidele” lk 58"
+            },
+            {
+              "kind": "link",
+              "href": "https://elk.ee/lastekirjandus/raamatusoovitused/",
+              "title": "Eesti Lastekirjanduse Keskus, raamatusoovitused, raamatudoktorile võib kirjutada ja küsida lugemissoovitust"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Raamatud 13+ lugejale: mis pealkiri ja kaas kõnetab?</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://riksweb.elk.ee/index.asp?action=300&amp;qs=3757719338725153246",
+              "title": "Raamatud 13+ lugejale"
+            },
+            { "kind": "text", "html": "<p>Film “Kalev”</p>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi: <strong>enesemääratluspädevus</strong> (suutlikkus mõista ja hinnata iseennast, oma nõrku ja tugevaid külgi; analüüsida oma käitumist erinevates olukordades; käituda ohutult ja jälgida tervislikke eluviise).</p><p>Läbiv teema <strong>„Keskkond ja jätkusuutlik areng“</strong> – õpilast suunatakse aru saama loodusest kui terviksüsteemist, inimese ja teda ümbritseva keskkonna vastastikustest seostest ning inimese sõltuvusest loodusressurssidest.</p><p>● Loodus kui rekreatsiooni keskkond.</p><p>Valdkonnaväline lõiming: <strong>geograafia</strong> (metsamajandus ja metsatööstus), <strong>bioloogia</strong> (ökoloogia ja keskkonnakaitse); <strong>kehaline kasvatus</strong> (analüüsib enda liikumiskogemust looduses; oskab liikuda linnas ja/või looduses, määrates asukohta ning suunda, kasutades erinevaid võimalusi)</p><p>Valdkondade vaheline lõiming: <strong>kirjandus</strong></p><p>(leiab endale sobivat lugemisvara, põhjendab oma valikut, tutvustab loetud raamatut ja selle autorit, jagab oma lugemiskogemusi)</p><p>Õppekäigu võimalus:</p><p>Eesti Lastekirjanduse Keskus</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://elk.ee/opetajale/lasteruhmade-kulastused/",
+              "title": "Eesti Lastekirjanduse Keskus"
+            },
+            {
+              "kind": "text",
+              "html": "<p>RaRa haridusprogramm vanadest ja haruldastest raamatutest</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.rara.ee/programmid/vanad-ja-haruldased-raamatud-mis-need-on-7-12-klass/",
+              "title": "RaRa haridusprogramm vanadest ja haruldastest raamatutest"
+            },
+            { "kind": "text", "html": "<p>RaRa otsimismäng</p>" },
+            {
+              "kind": "link",
+              "href": "https://www.rara.ee/programmid/otsimismang-eesti-keele-oppijale-a1-c1/",
+              "title": "RaRa otsimismäng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "7) Tervis",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Füüsiline ja vaimne tervis.</p><p>Uni. Hirmud.</p><p>Hügieen.</p><p>Seksuaaltervis.</p><p>Huumor. Must huumor.</p><p>Vaimse tasakaalu toetamine. Muusika mõju.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru enamikust üldkeelsetest tarbe- ja meediatekstidest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib ja mõistab eakohaste arvamus- ja probleem- artiklite arutluskäiku",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtleb ettevalmistuseta küllaltki ladusalt, väljendab oma seisukohti, tundeid ja soove, reageerib kaaslaste jutule",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab jutustavaid ja kirjeldavaid tekste nii realistlikus kui ka fantastilises laadis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib eakohaseid ettekandeid ja esitlusi, leiab infot ja teeb kokkuvõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab üldsõnavara, väljendub selgelt, täpselt ja varieeruvalt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab teadlikult eesti keele oskuse arendamiseks keelekeskkonna võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb arutelus, väljendub selgelt ja üksikasjalikult mitmesugustel teemadel, esitab argumentide ja näidetega toetatud seisukohti ja põhjendusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab arutlevaid tekste, esitab poolt- ja vastuargumente, toob näiteid ning sõnastab kokkuvõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab erisuguse pikkuse ja keerukusega suuliste tekstide põhisisu",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvestab keeleliste vahendite valikul suhtluse eesmärki, partnerit ja olukorda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab raamatu-, filmi- või teatriarvustuse",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://peaasi.ee/vitamiinitest/",
+              "title": "Peaasi: vaimse tervise vitamiinide test"
+            },
+            {
+              "kind": "link",
+              "href": "https://peaasi.ee/koolistress/",
+              "title": "Peaasi: koolistressi test"
+            },
+            {
+              "kind": "link",
+              "href": "https://virtuaal.tervisemuuseum.ee/unelood/unenaotuubid",
+              "title": "Eesti Tervisemuuseumi virtuaalnäitus “Unelood”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Virtuaalnäitusega tutvumise ja teiste unenägude lugemise põhjal saab arutleda unenägude üle ja kirjutada enda unenäost/unenägudest.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://synaps.simplecast.com/episodes/synaps-5-teekond-puhtusesse-sissejuhatus-hygieeniajalukku",
+              "title": "Eesti Tervisemuuseumi podcast Sünaps “Teekond puhtusesse. Hügieeni ajalugu”"
+            },
+            {
+              "kind": "link",
+              "href": "https://synaps.simplecast.com/episodes/synaps-10-teekond-puhtusesse-peldik-klosett-kemmerg",
+              "title": "Eesti Tervisemuuseumi podcast Sünaps “Teekond puhtusesse. Peldik, klosett, kemmerg”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Podcasti kuulamine annab võimaluse täiendada sõnavara, arutleda või kirjutada igapäevas(t)el tabuteema(d)el.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisaasta.ee/spordiobjektid/",
+              "title": "Missugused spordiobjektid on sinu kodukandis?"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/sunaps-26-darwini-auhind/",
+              "title": "Eesti Tervisemuuseumi podcast Sünaps “Darwini auhind”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Võimalikud kuulamisaegsed ülesanded: mille eest antakse, mis kriteeriumitele peab vastama, mida tähendavad looduslik valik ja genofond?</p><p>Arutelu / arutlev kirjand: kas Darwini auhinna väljaandmine on eetiline?</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/sunaps-61-hakkame-liikuma/",
+              "title": "Eesti Tervisemuuseumi podcast Sünaps “Hakkame liikuma!”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Võimalus kokkuvõtte tegemiseks: jagada teema gruppidele osade kaupa.</p><p>ERRi Nova. “Mida treeneril sobib teha ja mida ei”</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/watch/?v=196152718940519",
+              "title": "ERRi Nova. “Mida treeneril sobib teha ja mida ei”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>ERRi Nova “Lumelauatamine, kehaasend”</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/watch/?v=632666004212047",
+              "title": "ERRi Nova “Lumelauatamine, kehaasend”"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/sunaps-37-kondoomidest-kuidas-kumm-kaitsma-hakkas/",
+              "title": "“Kondoomidest. Kuidas kumm kaitsma hakkas?”"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Podcasti episood on faktirohke, soovitav on kuulata lõiku, nt 13.43–15.50</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/1608892625/inimarengu-aruanne-ka-ebaterves-maailmas-saab-elada-tervislikku-elu",
+              "title": "ERR. “Ebaterves maailmas saab elada tervislikku elu”"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/1609141768/spordibioloog-laste-vaimset-tervist-parandab-igasugune-liikumine",
+              "title": "ERRi Terevisioon. “Spordibioloog: laste vaimset tervist parandab igasugune liikumine.”"
+            },
+            { "kind": "text", "html": "<p>Film “Polaarpoiss”</p>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi: <strong>enesemääratluspädevus</strong> -suutlikkus mõista ja hinnata iseennast, oma nõrku ja tugevaid külgi; analüüsida oma käitumist erinevates olukordades; käituda ohutult ja jälgida tervislikke eluviise.</p><p>Läbiv teema <strong>„Keskkond ja jätkusuutlik areng“</strong> – õpilast suunatakse aru saama loodusest kui terviksüsteemist, inimese ja teda ümbritseva keskkonna vastastikustest seostest ning inimese sõltuvusest loodusressurssidest.</p><p>● Viibimine looduses vaimse keskkonna toetamiseks.</p><p>Läbiv teema <strong>„Tervis ja ohutus“</strong> – õpilast suunatakse pöörduma tervise, ohutuse ja turvalisusega seotud küsimustes usaldusväärse täiskasvanu poole.</p><p>Valdkondade vaheline lõiming: <strong>bioloogia</strong> (eluslooduse evolutsioon), <strong>ajalugu</strong> (teab, kuidas meditsiin on ajas arenenud ja mis võtteid on kasutatud haiguste ja epideemiatega võitlemisel); <strong>kehaline kasvatus</strong> (vaimne ja kehaline tasakaal); <strong>muusika</strong> (seostab muusikat enda vaimse, füüsilise ja emotsionaalse heaoluga); <strong>inimeseõpetus</strong> (analüüsib tegureid, mis aitavad säilitada inimese vaimset heaolu, märkab ohte, oskab kaaslast toetada ja vajaduse korral abi otsida)</p><p>inimeseõpetus: seksuaaltervishoid</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

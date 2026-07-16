@@ -1,0 +1,198 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Eemärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid ning kergemaid mitterutiinseid ülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>arendada õpitegevuse kaudu üld- ja ainepädevusi nii, et õpilane suudaks lahendada keerukamaid ülesandeid, mis võimaldaksid õppekavas kirjeldatud teadmisi ja oskusi rakendada väga heal tasemel.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üld- ja ainepädevused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika rakendamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt ning leida ülesande lahendamiseks sobivad strateegiad. Selleks käsitleda ülesannete lahendamise üldisi strateegiaid;</li><li>suutlikkus põhjendada ja tõestada oma mõttekäike;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks peaks õpilane esitama iseendale küsimusi: mida ma teen; miks ma nii teen; milleni ma olen jõudnud ning kas tulemus on õige ja kontrollitav.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Eelduskursused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lai matemaatika</p><ul><li>I kursus (avaldiste lihtsustamine);</li><li>II kursus (võrrandite ja võrrandisüsteemide lahendamine);</li><li>III kursus (täisnurkse kolmnurga lahendamine);</li><li>IV kursus (kolmnurga lahendamine);</li><li>V kursus (vektor ja sirge tasandil);</li><li>XI kursus (planimeetria).</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "SIRGE JA TASAND RUUMIS",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja määrab punkti asukoha ruumis koordinaatide abil;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ja rakendab ruumivektori mõistet, lineaartehteid vektoritega, vektorite kollineaarsuse ja komplanaarsuse tunnuseid ning vektorite skalaarkorrutist;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab sirge ja tasandi vastastikuseid asendeid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab kahe punkti vahelise kauguse, vektori pikkuse ning kahe vektori vahelise nurga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "määrab kahe sirge, sirge ja tasandi, kahe tasandi vastastikuse asendi ning arvutab nendevahelise nurga stereomeetria ülesannetes;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ainealased ja –välised probleemid, mis on lahendatavad ruumigeomeetrias õpitud seoste abil. Tõlgib need matemaatika keelde, lahendab matemaatiliselt ning tõlgendab ja esitleb saadud tulemusi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ristkoordinaadid ruumis.</p><p>Punkti koordinaadid ruumis.</p><p>Kahe punkti vaheline kaugus.</p><p>Punkti kohavektor ja vektori koordinaadid ruumis.</p><p>Vektori pikkus. Lineaartehted vektoritega. Vektorite skalaarkorrutis.</p><p>Kahe vektori vaheline nurk.</p><p>Vektorite kollineaarsus ja komplanaarsus. Kahetahuline nurk.</p><p>Kahe sirge, sirge ja tasandi, kahe tasandi vastastikused asendid ning nendevaheline nurk stereomeetria ülesannetes.</p><p>Kiivsirged.</p><p>Kolme ristsirge teoreem.</p><p>Ainealaste ja reaaleluliste probleemide lahendamine ruumigeomeetria abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kõigepealt on vaja meelde tuletada ristkoordinaadid tasandil, lõigu pikkuse ja vektoriga seonduv. Näitlikustamiseks kasutada digivahendeid.</p><p>Avaldada punkti kohavektor koordinaattelgede suunaliste ühikvektorite summana.</p><p>Selgitada, kuidas joonistada 3 koordinaattelge tasandile nii, et moonutused tasandil oleks kõige väiksemad. (x telje ühik $\\sqrt 2$ korda väiksem kui y ja z telje ühikud).</p><p>Näitlikustada 3D jooniseid digivahenditega.</p><p>Õppekavas ei ole enam sirge- ja tasandivõrrandeid ruumis.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Alustada kahetahulise nurga mõiste selgitamisega (nurga serv, joonnurk, nurga mõõtmine).</p><p>Kahe sirge vastastikuseid asendeid ruumis (paralleelsed, ühtivad, lõikuvad ja kiivsirged) tuleks vaadata konkreetsete 3D kehade korral. Näiteks. Leida risttahuka servad, mis asuvad paralleelsetel sirgetel, kiivsirgetel.</p><p>Sirgete vahelise nurga leidmist võib alustada püramiidi põhiserva ja külgserva vahelise nurga leidmisega, risttahuka külgtahu diagonaali ja tahuka diagonaali vahelise nurga leidmisega ja teised analoogsed ülesanded.</p><p>Sirge ja tasandi vahelisi asendid (sirge asub tasandil, sirge on tasandiga paralleelne, sirge lõikab tasandit). Sirge ja tasandi vahelise nurga leidmine( rõhutada, et see on nurk sirge ja tema ristprojektsiooni vahel). Näiteks püramiidi apoteemi ja põhja vaheline nurk.</p><p>Kolme ristsirge teoreem.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Digiõppevaramu kursus. (Uues õppekavas ei ole enam sirge- ja tasandivõrrandeid ruumis. Neid tunde võib anda lisamaterjalina targematele õpilastele uurida.)</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19013-Matemaatika-lai-kursus-12-Sirge-ja-tasand-ruumis/221916",
+              "title": "Digiõppevaramu kursus"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/xii-kursus-sirge-ja-tasand-ruumis",
+              "title": "Digiõppevaramu õpetajaraamat"
+            },
+            {
+              "kind": "link",
+              "href": "https://teacher.desmos.com/?lang=et",
+              "title": "Desmos materjale võib otsida"
+            },
+            {
+              "kind": "embed",
+              "src": "https://www.geogebra.org/m/BduJMA2u"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadiks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeprotsessi diferentseerimine, hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+          "title": "Õppimist toetavast hindamisest täpsemalt"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Vt näiteülesandeid lehekülje allosas.</em></p>"
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üldpädevuste toetamine, lõiming",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lõiming keele ja kirjandusega (tekstist arusaamise ja eneseväljendusoskuse arendamine), sotsiaalainetega (hüpoteesi püstitamine ja tõestamine), füüsikaga (punkt ja vektor ruumis).</p><p>Läbivatest teemadest lõiming elukestva õppe ja karjääri planeerimisega (abstraktse ja loogilise mõtlemise areng), kodanikualgatuse ja ettevõtlikkusega (rühmatöö kasutamine), tehnoloogia ja innovatsiooniga (digivahendite kasutamine näitlikustamiseks), väärtuste ja kõlblusega (õpilane arendab endas püsivust, täpsust, korrektsust jne).</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+          "title": "Õppekava pädevused gümnaasiumi matemaatikakursuses"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454740/LAI_MATEMAATIKA_12.%20kursus%20N%C3%A4ite%C3%BClesanded.docx?version=1&modificationDate=1706621739869&api=v2",
+          "title": "LAI_MATEMAATIKA_12. kursus Näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454740/LAI_MATEMAATIKA_12.%20kursus%20N%C3%A4ite%C3%BClesanded.pdf?version=1&modificationDate=1706621739860&api=v2",
+          "title": "LAI_MATEMAATIKA_12. kursus Näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

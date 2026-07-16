@@ -1,0 +1,359 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse käigus tutvuvad õpilased <strong>enamlevinud spordivigastustega</strong> ning mõistavad <strong>treeningkoormuse, taastumise ja vigastuste omavahelisi seoseid</strong>. Olulisel kohal on praktilised oskused, sealhulgas soojenduse läbiviimine, kehatöö harjutused, taastumisvõtete kasutamine ning spordi- ja kinesioteipimise põhialused. Kursus käsitleb ka füsioterapeudi rolli tänapäeva spordis ning psühholoogilisi tegureid vigastuste tekkimisel ja taastumisel. Kursuse lõpus oskab õpilane teadlikumalt hinnata oma treeningkoormust, teha tervist toetavaid valikuid ning kasutada vigastuste ennetamise põhimõtteid oma sportlikus tegevuses. Kursus annab teadmised spordivigastuste kohta erinevate spordialade lõikes.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse sihtrühm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus on suunatud spordiga aktiivselt tegelevatele ja spordist huvituvale gümnaasiumiõpilastele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on anda õpilastele teadmised spordivigastuste tekkepõhjustest, ennetamisest ja käsitlemisest ning kujundada oskused, mis aitavad toetada sportlase tervist ja pikaajalist arengut.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse maht on 35 akadeemilist tundi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse täpsem töökorraldus lepitakse kokku õpilaste ja õpetaja vahel, arvestades treeningkoormust, spordiala eripära ja kooli õppekorraldust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "spordivigastused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab spordivigastuse mõistet ning kirjeldab enamlevinud spordivigastuste liike ja nende tekkepõhjuseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab spordivigastuse mõistet ning eristab ägedaid ja ülekoormusvigastusi",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab valu ja vigastuse sümptomeid sportlikus tegevuses",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab lihase-, liigese-, kõõluse- ja luuvigastuste peamisi tunnuseid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid enamlevinud spordivigastustest noorsportlaste seas",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib erinevatel spordialadel võimalike vigastuste tekkepõhjuseid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab riskitegureid, mis võivad suurendada vigastuse tekkimise tõenäosust.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "treeningprotsesside olemus ja seosed; taastumine spordis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib treeningkoormuse, taastumise ja vigastuste omavahelisi seoseid ning hindab treeningu ja puhkuse tasakaalu sportlikus tegevuses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab treeningkoormuse ja taastumise rolli sportlase arengus",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib olukordi, kus liigne treeningkoormus võib suurendada vigastuste riski",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab ületreeningu tunnuseid ja võimalikke tagajärgi",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab treeningu ja puhkuse tasakaalu oma treeningpraktikas",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutleb olukordade üle, kus sportlane peaks treenimise asemel puhkama",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib sportlase ja treeneri vastutust vigastuste ennetamisel.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "vigastuste ennetamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "rakendab vigastuste ennetamise põhimõtteid ning sooritab korrektse soojenduse ja kehatöö harjutusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab vigastuste ennetamise põhimõtteid spordis",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab soojenduse eesmärki ja rolli vigastuste ennetamisel",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab soojenduse põhietappe (liikuvus, aktivatsioon, stabilisatsioon)",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "sooritab erinevaid liikuvuse, aktivatsiooni ja stabilisatsiooni harjutusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab eesmärgipärase soojenduskava treeningu või võistluse eel",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab tehnika ja varustuse mõju vigastuste riskile.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "taastumis- ja ravimeetodid spordis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab taastumise rolli treeninguprotsessis ning hindab erinevaid taastumis- ja ravimeetodeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab taastumise tähtsust sportlase arengus ja vigastuste ennetamisel",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab une, toitumise ja aktiivse taastumise rolli sportlase tervises",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab tänapäevaseid taastumis- ja ravimeetodeid (nt külm, soojus, massaaž)",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab kriitiliselt taastumisvahendite ja -seadmete kasutamist",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab tõenduspõhiseid taastumisviise ebateaduslikest trendidest.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "füsioteraapia",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab füsioterapeudi rolli spordis ning demonstreerib spordi- ja kinesioteipimise põhimõtteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab füsioterapeudi peamisi ülesandeid spordis",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab füsioterapeudi rolli vigastuste ennetamisel ja taastumisel",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib koostöö võimalusi sportlase, treeneri ja tervisespetsialistide vahel",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab sporditeipimise eesmärki ja kasutusvõimalusi",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab kinesioteipimise põhimõtteid ja erinevusi klassikalise teipimisega",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "demonstreerib lihtsamaid toetava teipimise võtteid.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "toimetulek vigastustega",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib vigastustega seotud psühholoogilisi tegureid ning hindab õpitud teadmiste ja oskuste rakendamist oma sportlikus tegevuses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab motivatsiooni ja hirmu rolli vigastusest taastumise protsessis",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib sportlase psühholoogilisi reaktsioone vigastuse korral",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab tegureid, mis mõjutavad sportlase tagasitulekut pärast vigastust",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib oma varasemaid kogemusi spordivigastustega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab kursusel õpitud teadmisi oma treening- ja võistluskogemustega",
+              "outcomeType": "competence"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab kursuse lõpus kirjaliku või suulise eneseanalüüsi oma õppimise ja sportlike kogemuste kohta.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine, sh mitteformaalõppes läbitud kursuste hindamise alused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursust hinnatakse mitteeristavalt (arvestatud/mitte arvestatud).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppetöö käigus kasutatakse kujundavat hindamist, mille eesmärk on toetada õpilase teadmiste ja praktiliste oskuste arengut. Õpilasele antakse kursuse jooksul järjepidevalt suulist tagasisidet tema osalemise, praktiliste ülesannete sooritamise ja aruteludes osalemise kohta.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Arvestuse saamise eeldused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>aktiivne osalemine õppetöös, aruteludes ja praktilistes tegevustes;</li><li>õpilase panus teadmiste ja oskuste omandamisse;</li><li>erinevate osaoskuste omandamine eraldi ja lõimitult;</li><li>individuaalsete ja rühmaülesannete sooritamine;</li><li>oskus analüüsida enda ja kaasõpilaste ainespetsiifilisi oskusi ja teadmisi;</li><li>kursuse lõpus esitatud eneseanalüüs oma õppimise ja kogemuste kohta.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mitteformaalõppes läbitud kursuste arvestamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilase (varasemaid) mitteformaalõppes või täienduskoolitustel omandatud teadmisi ja oskuseid (nt spordimeditsiini, füsioteraapia või tervise teemalised koolitused, spordilaagrid) võetakse kursuse osana arvesse, kui:</p><ul><li>õpilane esitab tõendi koolituse läbimise kohta;</li><li>õpilane seostab omandatud teadmised kursuse õpitulemustega;</li><li>õpilane esitab lühikese eneseanalüüsi või esitluse omandatud kogemusest.</li></ul><p>Õpetaja otsustab arvestamise sobivuse lähtudes kursuse õpitulemustest.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

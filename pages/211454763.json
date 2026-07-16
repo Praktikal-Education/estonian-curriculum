@@ -1,0 +1,241 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "4. KURSUS    TRIGONOMEETRIA II",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>arendada õpitegevuse kaudu üld- ja ainepädevusi nii, et õpilase teadmised talletuksid seoste otsimise ja probleemide lahendamise resultaadina, mis võimaldaksid õppekavas kirjeldatud teadmisi ja oskusi rakendada väga heal tasemel.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>suutlikkus olla järjekindel ning tegevuses eesmärgipärane. Selleks järgida põhimõtet, et trigonomeetrilised teisendused on palju enamat kui lihtsalt reeglite ära õppimine ja tüüpülesannete lahendamise oskus; läbinägelikkus ja õpipädevusedki arenevad leiutades, kuidas neid pikki avaldisi optimaalsemalt lihtsustada;</li><li>suutlikkus funktsionaalselt lugeda ning loetu järgi adekvaatselt reageerida. Selleks kasutada õpiülesannete formuleerimisel verbe võimalikult mitmekesiselt (uurima, avastama, järeldama, formuleerima, konstrueerima, seoseid otsima, lahendama, selgitama, ennustama, kirjeldama) ning jälgida nõudlikult verbi määratud tegevuse ja õpilase tegevuse sisulist vastavust;</li><li>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika kasutamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt, leida ülesande lahendamiseks sobivad strateegiad. Selleks kasutada valemite tuletamiseks ning meeldejätmiseks erinevaid strateegiaid ja julgustada õpilasi enda leitud lahendusi omavahel jagama ning kriitiliselt analüüsima;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks õpetada teisendus- ja lihtsustamisülesannetes õpilasi jagama ülesannet osa- või alaülesanneteks ehk õpetada nägema teisendusetappe. Osa alateemade õpetamisel asetada aktsente ümber ning ülesannete lahendamisega võrdselt väärtustada loogilist arutlemist ja seoste iseseisvat tuletamist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks suunata õpilast esitama iseendale küsimusi: mida ma teen; miks ma nii teen; milleni ma olen jõudnud ning kas tulemus on õige ja kontrollitav.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>matemaatika laia III kursuse osa trigonomeetria I.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "TRIGONOMEETRIA",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teisendab kraadimõõdus antud nurga radiaanmõõdus olevaks nurgaks ja vastupidi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arvutab ringjoone kaare kui ringjoone osa pikkuse ning ringi sektori kui ringi osa pindala;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "defineerib mis tahes nurga siinuse, koosinuse ja tangensi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuletab ja teab siinuse, koosinuse ja tangensi vahelisi seoseid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuletab nurkade 0°, 30°, 45°, 60°, 90°, 180°, 270°, 360° siinuse, koosinuse ja tangensi täpsed väärtused;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab taandamisvalemeid, negatiivse ja täispöördest suurema nurga valemeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab digivahendeid trigonomeetriliste funktsioonide väärtuste ning nende väärtuste järgi nurga suuruse leidmisel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuletab kahe nurga summa ja vahe valemid ning kahekordse nurga siinuse, koosinuse ja tangensi valemid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teisendab lihtsamaid trigonomeetrilisi avaldisi valemikogu abil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tõestab siinus- ja koosinusteoreemi, lahendab mis tahes kolmnurga ning arvutab selle pindala;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära ainealased ja reaalelulised probleemid, mis on lahendatavad kolmnurga ja ringi kohta õpitut rakendades. Tõlgib need matemaatika keelde, lahendab matemaatiliselt ning tõlgendab ja esitleb saadud tulemusi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Nurga mõiste üldistamine.</p><p>Nurga kraadi- ja radiaanmõõt.</p><p>Ringjoone kaare pikkus, ringi sektori pindala.</p><p>Mis tahes nurga trigonomeetrilised funktsioonid. Nurkade 0°, 30°, 45°, 60°, 90°, 180°, 270°, 360° siinuse, koosinuse ja tangensi täpsed väärtused.</p><p>Ühe ja sama nurga trigonomeetriliste funktsioonide vahelised seosed.</p><p>Taandamisvalemid.</p><p>Negatiivse ja täispöördest suurema nurga trigonomeetrilised funktsioonid.</p><p>Kahe nurga summa ja vahe trigonomeetrilised funktsioonid.</p><p>Kahekordse nurga trigonomeetrilised funktsioonid.</p><p>Trigonomeetrilised avaldised.</p><p>Kolmnurga pindala valemid.</p><p>Siinus- ja koosinusteoreem.</p><p>Kolmnurga lahendamine.</p><p>Ainealased ja reaalelulised probleemid, mis on lahendatavad kolmnurga ja ringi kohta õpitut rakendades.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Oluline on meelde jätta, et kraadimõõtu saab teisendada radiaanmõõduks ja vastupidi. Õpilane kasutab nii kraadi- kui ka radiaanmõõtu.</p><p>Ringjoone kaare pikkuse ja sektori pindala valemit ei pea peast teadma. Tuleb aru saada, et see on osa ringjoonest või ringist.</p><p>Trigonomeetriliste funktsioonide väärtused kantakse ühikringile.</p><p>Järgmisel väärtuste joonisel jälgitakse ühikringjoone ja nurga lõpphaarade lõikepunktide x- ja y-koordinaate – kuidas need on seotud nurga siinuse ja koosinusega?</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/211454763/image-2024-1-14_21-25-34-1.png?version=1&modificationDate=1706621741976&api=v2"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilane peab trigonomeetriliste avaldiste lihtsustamise kontrollimiseks oskama kasutada oma taskuarvutit nii kraadi- kui radiaanmõõdus.</p><p>Täispöördeid võib nurgale nii liita kui ka nurgast lahutada!</p><p>Tuletatakse taandamisvalemid vähemalt ühes koordinaatveerandis (nt II veerandis).</p><p>Tuletamisel on tähtis mõista, mis on antud ja mida on vaja näidata. Tegevust on vahel mõistlik jagada kaheks: tugevamatele õpilastele anda ette nn kava ning lasta neil iseseisvalt tegutseda, teistele õpilastele võib pakkuda vastupidist võimalust: mõelda, mis etapid tõestuses tehti, miks võis ja millele tuginedes sai tõestusega edasi liikuda.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tasub õpetada kasutama valemite meelde jätmiseks erinevaid võtteid. Näiteks $\\sin 2x=\\sin(x+x)=\\sin x\\cos x+\\cos x\\sin x$ ja $x-y=x+(-y)$.</p><p>Kolmnurga lahendamise ülesannetes peab joonis vastama tekstile. Joonise tegemisel peab vältima erijuhte (võrdkülgne, võrdhaarne, täisnurkne), kui seda pole ülesande tekstis antud. Vale joonis võib viia ülesande lihtsustumiseni ja vale tulemuseni.</p><p>Eraldi tuleks analüüsida kolmnurga lahendamisel tekkida võivaid olukordi. Lähtuvalt algandmetest võib kolmnurki olla üks või kaks, kolmnurk võib ka mitte tekkida. Seega on tähelepanu all kahe võimalusega juhtum, kus on antud kaks külge ja neist lühema külje vastasnurk.</p><p>Kolmnurga pindala valemi (läbi kahe külje ja nendevahelise nurga) peaks tuletama ning järeldusena jõudma ka rööpküliku ja rombi uue pindala valemini.</p><p>Kolmnurga lahendamisel võib vajaduse korral kasutada Heroni valemit, pindala valemeid sise-ja ümberringjoone raadiuse kaudu.</p><p>Õpilane leiab antud suuruste järgi erinevate kujundite korral lõikude pikkusi, nurki, ümbermõõtu ja pindala.</p><p>Meetodid: kujundi tükeldamine või täiendamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20179-Digioppevaramu-matemaatika-materjalid/231754",
+              "title": "Digiõppevaramu materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadideks"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@Videoops",
+              "title": "Videoõpsi videod youtube keskkonnas"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+              "title": "Õppimist toetavast hindamisest täpsemalt"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em>.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Ülesannete raskusaste:",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lõiminguna saame selles kursuses näited perioodiliste funktsioonide kohta, millele on rakendusi füüsikas. Need võimaldavad tegelda algebraga ning õppida tõestamist ja loogilist järeldamist.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Üldpädevuste toetamine",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+                  "title": "Üldpädevuste toetamine"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454763/LAI_MATEMAATIKA_4.kursus%20Na%CC%88iteu%CC%88lesanded.docx?version=1&modificationDate=1706621741963&api=v2",
+          "title": "LAI_MATEMAATIKA_4.kursus Näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454763/LAI_MATEMAATIKA_4.kursus%20Na%CC%88iteu%CC%88lesanded.pdf?version=1&modificationDate=1706621741953&api=v2",
+          "title": "LAI_MATEMAATIKA_4.kursus Näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

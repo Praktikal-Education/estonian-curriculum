@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus ja eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Inimeseõpetusega taotletakse, et põhikooli lõpuks õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb oma keha ning mõistab inimese kasvamise ja arenemisega seotud muutusi ning vastutust (nt seksuaalsuse olemus ja sellega seotud vastutus, töövõime jne)",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "hoiab oma tervist, järgides tervislikku eluviisi, käitub nii, et ei sea ohtu enda, teiste inimeste ega keskkonna turvalisust",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab ja mõistab kaaslaste ning iseenda emotsionaalseid seisundeid, käitumisviise; oskab neid hinnata ja nendega toime tulla",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hoiab puhtust ja korda; orienteerub eluasemega seotud küsimustes, omandab teadmised ja oskused majandamiseks, koduse elu korraldamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suudab täiskasvanu suunamisel eristada ning teadvustada oma oskusi ja võimeid, otsib erinevatest teabeallikatest võimetekohaseid jätkuõppevõimalusi ja teeb enda jaoks optimaalseid valikuid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi ümbritseva ühiskonnaelu vastu",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb olmesuhtlemiseks vajalikke kodanikuõigusi ja -kohustusi, järgib sotsiaalseid nõudeid ja käitumisetiketti",
+          "outcomeType": "competence"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Inimeseõpetuse aine üldalused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>1) Inimeseõpetus on lõimitud õppeaine. Ainekava sisaldab nelja põhilist teemade valdkonda: sotsiaalsed toimetulekuoskused (sh enesekohased oskused ja suhtlemisoskused), terviseõpetus, igapäevane elukorraldus ning ühiskonnaõpetus, viimane on lõimitud 1.-5.klassis. Lisaks on inimeseõpetus seotud karjääri planeerimisega, mille osaoskuste arendamine sisaldub nii sotsiaalsete oskuste kui ka igapäevase elukorralduse teemade valdkonnas. Kõikide teemade juures on õpetuse rõhuasetus valdavalt sotsiaalsel ning probleeme ennetaval aspektil. Aine käsitluse kaudu aidatakse õpilastel õppida tundma oma keha, mõistma ja reguleerima oma tunnetustegevust, võimalikult adekvaatselt hindama enda omadusi ja võimeid ning ümbritsevat keskkonda, sh selle võimalusi ja ohte; kujundatakse positiivse sotsiaalse käitumise oskuseid (toimetulek enese, teiste ning ühiseluga). Õpetuse eesmärk (integreeritult teiste ainetega ning järjepideva kasvatustegevusega) on aidata õpilasel kujuneda isiksuseks, kes on võimeline kohanema ümbritsevas keskkonnas ning toime tulema iseseisvas praktilises elus.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>2) Inimeseõpetuse õppesisu on koostatud ja selle rakendamine toimub kontsentriliselt: samade teemade puhul laieneb aastast aastasse õppesisu ning suurenevad nõudmised õpitulemustele. Korduvate teemade puhul on iga klassi ainekavas märgitud ainult uus õppesisu: kontsentriline käsitlus eeldab, et eelnevalt õpitut korratakse või tuletatakse meelde, vajadusel kujundatakse puuduvaid teadmisi-oskusi. Kontsentrilist ainekäsitlust toetab järjepidev ainetevahelise integratsiooni rakendamine ning eakohaste üldpädevuste kujundamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>3) Inimeseõpetuse ja teiste õppeainete vaheline lõiming avaldub nii temaatika, kasutatavate (aktiiv)õppemeetodite kui omandatavate pädevuste tasandil. Väga tihe on seos emakeele (sõnavara, lausemallid, tunnetustegevus, etiketikäitumine, suhtlemine jne) ja tööõpetuse ainega (kultuuripärand, säästlikkus ja turvalisus (ohutustehnika), tööprodukti esteetiline välimus jne), samuti loodusõpetuse ja matemaatika ainega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>4) Inimeseõpetuse teemade käsitlemisel kasutatakse aktiivõppemeetodeid. 1.-5.klassis kasutatakse palju mängulisi elemente ja õppemänge. Teadmiste-oskuste kinnistamiseks loodavates tegevus- ja suhtlussituatsioonides (sh rollimängudes) kujundatakse järjepidevalt oskust mõista, valida ja kasutada variatiivseid repliike, mitteverbaalseid väljendusi (miimika, žestid); harjutatakse etiketikäitumist (nt tervitamine, võõra poole pöördumine jne); kujundatakse turvalise ja loodussäästliku käitumise teadmisi-oskusi.</p>"
+        }
+      ]
+    }
+  ]
+}

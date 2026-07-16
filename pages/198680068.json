@@ -1,0 +1,168 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kodundus on õppeaine, kus oluline on inimese üldine heaolu ja igapäevaelus hakkamasaamine.</p><p>Väärtustatakse eesti toidukultuuri ja- traditsioone ning kujundatakse avatud meelt teiste rahvaste toidukultuuri ja tavade suhtes.</p><p><strong>III kooliastmes</strong> täiendatakse aineteadmisi ja praktilisi oskusi. Antakse suuniseid analüüsima enda käitumist ja tehtud otsuste mõju.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Soovituslik õppesisu</strong> on jagatud klasside kaupa, kuid õpetaja saab teemaplokke valida õpilastest lähtuvalt, arvestades diferentseeritud lähenemist, õpilaste individuaalseid vajadusi ja võimeid.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Teemaplokkide kirjeldus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Toiduharidus",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Heaolu ja tervis toidust",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<ul><li>Tähelepanu pööratakse tervislikule ja tasakaalustatud toitumisele ning energiavajadusele</li><li>Tutvutakse toitumishäirete, toidutalumatuse ja toiduallergiaga</li><li>Selgitatakse tasakaalustatud menüü koostamise olulisust</li><li>Toidu väärtustamine, mõisted &quot;parim enne&quot; ja &quot;kõlblik kuni&quot;</li><li>Tutvutakse toitlustusega seotud ameteid</li></ul>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Toidu ohutu valmistamine ja töötlemisviisid",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<ul><li>Külm- ja kuumtöötlemisviiside rakendamine praktilises tegevuses</li><li>Pööratakse tähelepanu toidu säilitamise võimalustele</li><li>Õpitakse ohutult köögiseadmeid käsitlema</li></ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tarbijaharidus ja keskkond",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Töö organiseerimine ja hügieen",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<ul><li>Rõhutatakse toiduhügieeni tähtsust ja toidu puhtust</li><li>Toidu päritolu uurimine, pakendiinfos orienteerumine</li></ul>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Puhastus- ja korrastustööd",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<ul><li>Õpitakse tundma ja kasutama ohutult erinevaid puhastusvahendeid</li></ul>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Jäätmed",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<ul><li>Suunatakse prügi teadlikumalt sorteerima</li><li>Tutvustatakse võimalusi, kuidas jäätmeid vähendada ja taaskasutada</li></ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Käitumiskultuur",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Etikett",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<ul><li>Käitumine ja riietus kodus, kohvikus, vastuvõttudel</li><li>Pööratakse tähelepanu suhtlemisele ja tutvustamisele vastuvõttudel, üritustel</li><li>Laua katmine ja toidu serveerimine erinevate sündmustel</li></ul>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Eesti ja maailma toidukultuur ja kombed",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<ul><li>Uuritakse erinevate rahvuskööke ja valmistatakse mõnda toitu</li><li>Eesti toidukultuuri uurimine ja kohaliku tooraine kasutamine toitude valmistamisel.</li></ul>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpetuse eesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>III kooliastmes 9. klassi lõpetaja:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab isetegemist ja tervislikku eluviisi",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab ja kombineerib traditsioonilisi ning nüüdisaegseid materjale, tööriistu ja tehnoloogilisi vahendeid turvaliselt ning otstarbekalt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab lihtsamaid esemeid, kasutades erinevaid tehnikaid ja materjale",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab ainealast teabekirjandust ja vastavaid veebilehti",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja mõistab etiketil, skeemil, juhendil, retseptil jne olevat teavet ja juhindub sellest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab tingmärke ning oskab vajaduse korral leida veebist vajaminevat infot",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel taaskasutada erinevaid materjale",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib tervisekaitse- ja tööohutusnõudeid.",
+          "outcomeType": "attitude"
+        }
+      ]
+    }
+  ]
+}

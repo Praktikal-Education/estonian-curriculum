@@ -1,0 +1,536 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus annab ülevaate <strong>spordipsühholoogiast ning vaimsete oskuste rollist</strong> sportliku soorituse ja sportlase arengu toetamisel.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse käigus õpivad õpilased mõistma, kuidas tähelepanu, mõtted, emotsioonid ja vaimne seisund mõjutavad treeninguid ja võistlusi. Õpilased harjutavad praktilisi psühholoogilisi oskusi, nagu eesmärkide seadmine, toetava sisekõne kasutamine, kujutlusharjutused ning tähelepanu ja pingetaseme reguleerimine. Kursus aitab õpilastel teadlikumalt märgata oma emotsioone ja reaktsioone sportlikes olukordades ning mõista, kuidas psühholoogilised oskused toetavad keskendumist, enesekindlust ja toimetulekut pingelistes olukordades. Samuti käsitletakse „halva päeva“ aktsepteerimist ning arusaamist, et sportlik sooritus ei määra inimese väärtust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse lõpus analüüsivad õpilased oma kogemusi ning hindavad, kuidas vaimsete oskuste teadlik kasutamine toetab nende arengut sportlasena.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse sihtrühm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus on suunatud spordiga aktiivselt tegelevatele ja spordist huvituvale gümnaasiumiõpilastele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on arendada õpilaste teadlikkust ja praktilisi oskusi spordipsühholoogias, toetades keskendumist, enesekindlust ja toimetulekut pingelistes olukordades ning aidates mõista, kuidas vaimsed oskused toetavad sportlikku arengut ja eneseteostust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse maht on 35 akadeemilist tundi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse täpsem töökorraldus lepitakse kokku õpilaste ja õpetaja vahel, arvestades treeningkoormust, spordiala eripära ja kooli õppekorraldust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Spordipsühholoogia põhimõisted",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab spordipsühholoogia olemust ning kirjeldab spordipsühholoogi rolli sportlase arengu toetamisel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>spordipsühholoogia põhimõisted</li><li>spordiprühholoogi roll</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab spordipsühholoogia põhimõisteid ja kirjeldab selle seoseid sportliku sooritusega;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab spordipsühholoogi töö eesmärke ja peamisi tegevusvaldkondi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid olukordadest, kus sportlane võib vajada spordipsühholoogilist tuge;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib vaimsete oskuste rolli treening- ja võistlusprotsessis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutleb psühholoogilise toe võimaluste üle erinevatel sportlaskarjääri etappidel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab spordipsühholoogilisi teadmisi oma isikliku sportliku kogemusega.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Keskendumine, tähelepanu spordis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib tähelepanu, mõtlemise ja keskendumise mõju sportlikule sooritusele ning rakendab lihtsamaid tähelepanu juhtimise võtteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>keskendumine, tähelepanu spordis</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab tähelepanu ja keskendumise rolli sportlikus soorituses;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib tegureid, mis mõjutavad sportlase keskendumist treeningul ja võistlustel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuvastab olukordi, kus tähelepanu hajub või keskendumine on häiritud;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "harjutab levinumaid ja tõenduspõhiseid tähelepanu suunamise ja keskendumise võtteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib oma mõtete mõju soorituse kvaliteedile;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab mõtlemismustreid, mis võivad sportlikku sooritust toetada või takistada.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesmärkide seadmine ja saavutamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "seab realistlikke eesmärke ning kasutab eesmärgistamise põhimõtteid sportliku arengu toetamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>eesmärkide seadmine ja saavutamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab eesmärgistamise rolli motivatsiooni ja soorituse kujundamisel;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab protsessi-, soorituse- ja tulemuseesmärke;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib realistlike ja ebarealistlike eesmärkide mõju sportlase arengule;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seab endale konkreetseid lühiajalisi ja pikaajalisi eesmärke sportliku tegevuse kontekstis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab seatud eesmärkide saavutatavust ja sobivust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab treeningu või võistlusperioodi tegevuskava lähtudes seatud eesmärkidest.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Sisekõne",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab toetavat sisekõnet ja kujutlusharjutusi sportliku soorituse toetamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [{ "kind": "text", "html": "<ul><li>sisekõne</li></ul>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab sisekõne rolli sportlase enesekindluse ja keskendumise kujundamisel;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuvastab oma sisekõne tüüpilisi mustreid treeningu ja võistluse ajal;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib negatiivse/positiivse (toetava/mittetoetava) sisekõne mõju sooritusele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "harjutab toetava sisekõne kasutamist soorituse ettevalmistamisel ja ajal;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab kujutlusharjutuste eesmärki ja kasutusvõimalusi spordis;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "sooritab lihtsamaid kujutlusharjutusi liigutuste, olukordade või võistlusolukorra visualiseerimiseks.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Emotsioonide juhtimine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tuvastab ja nimetab oma emotsioone ning analüüsib nende mõju sportlikule sooritusele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>emotsioonide juhtimine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab erinevate emotsioonide (nt elevus, viha, hirm, pettumus) mõju sportlikule sooritusele;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuvastab ja nimetab oma emotsioone treeningu- ja võistlussituatsioonides;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib emotsioonide mõju keskendumisele ja otsustusvõimele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutleb emotsioonide teadvustamise tähtsuse üle sportlase arengus;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab emotsiooni kogemist ja sportlikku sooritust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib näiteid olukordadest, kus emotsioonid võivad sooritust toetada või takistada.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ärevuse reguleerimise võtted ja võistluseelsed rutiinid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "rakendab lihtsamaid ärevuse reguleerimise võtteid ja võistluseelset rutiini sportliku soorituse toetamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>ärevuse reguleerimise võtted</li><li>võistluseelsed rutiinid</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab ärevuse taseme mõju sportlikule sooritusele;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib olukordi, kus ärevuse tase on soorituse jaoks liiga kõrge või liiga madal;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "harjutab levinumaid ja teaduspõhiseid hingamis- ja lõõgastumistehnikaid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab võistluseelsete rutiinide rolli keskendumise ja enesekindluse toetamisel;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kujundab endale võistluseelse rutiini treeningu või võistluse jaoks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab rutiinide mõju oma keskendumisele ja sooritusele.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ebaõnnestumisega toimetulek",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab sportlikku sooritust ja eneseväärtust ning analüüsib ebaõnnestumise ja tagasilöökide kogemust sportlase arengus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>ebaõnnestumisega toimetulek</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab sportliku soorituse ja eneseväärtuse erinevust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib ebaõnnestumise rolli õppimise ja arengu protsessis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutleb „halva päeva“ võimalikkuse üle sportlikus tegevuses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid strateegiatest, mis aitavad ebaõnnestumisega toime tulla;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib sportlaste kogemusi, kus ebaõnnestumine on aidanud arengule kaasa;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab teemat oma isiklike sportlike kogemustega.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eneseanalüüs",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib oma õppimist ja kogemusi ning hindab psühholoogiliste oskuste rolli enda sportlikus arengus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            { "kind": "text", "html": "<ul><li>eneseanalüüs</li></ul>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "analüüsib kursuse jooksul õpitud psühholoogiliste oskuste kasutamist ning hindab nende kasutatavust enda isiklikul spordialal;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab, millised psühholoogilised oskused on tema jaoks kõige olulisemad;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab psühholoogiliste oskuste mõju oma treeningule ja võistluskogemusele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab kursuse teemad oma sportliku arenguga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sõnastab isiklikke arengueesmärke vaimsete oskuste arendamiseks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab kursuse lõpus kirjaliku või suulise eneseanalüüsi oma õppimise ja kogemuste kohta.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine, sh mitteformaalõppes läbitud kursuste hindamise alused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursust hinnatakse mitteeristavalt (arvestatud/mitte arvestatud).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppetöö käigus kasutatakse kujundavat hindamist, mille eesmärk on toetada õpilase arengut ning anda tagasisidet psühholoogiliste oskuste mõistmisele ja rakendamisele. Õpilasele antakse kursuse jooksul järjepidevalt suulist tagasisidet tema osalemise, ülesannete täitmise ja aruteludes osalemise kohta.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Arvestuse saamise eeldused on:</p><ul><li>aktiivne osalemine õppetöös, aruteludes ja praktilistes harjutustes;</li><li>õpilase panus teadmiste ja oskuste omandamisse;</li><li>erinevate psühholoogiliste osaoskuste omandamine eraldi ja lõimitult;</li><li>individuaalsete ja rühmaülesannete sooritamine;</li><li>oskus analüüsida enda ja kaasõpilaste ainespetsiifilisi oskusi ja teadmisi;</li><li>kursuse lõpus esitatud eneseanalüüs oma õppimise ja kogemuste kohta.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Mitteformaalõppes läbitud kursuste arvestamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilase (varasemaid) mitteformaalõppes või täienduskoolitustel omandatud teadmisi ja oskusi (nt spordipsühholoogia koolitused, sportlaste arendamise programmid, spordilaagrid) võetakse kursuse osana arvesse, kui:</p><ul><li>õpilane esitab tõendi koolituse läbimise kohta;</li><li>õpilane seostab omandatud teadmised kursuse õpitulemustega;</li><li>õpilane esitab lühikese eneseanalüüsi või esitluse omandatud kogemusest.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpetaja otsustab arvestamise sobivuse lähtudes kursuse õpitulemustest.</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilaste õpitegevust suunavad õpetaja küsimused ja korraldused. Nende esitamisel on vaja arvestada õppijate tunnetustegevuse ning suulise ja kirjaliku kõne arengu taset. Jõukohase juhendamise puhul on oluline arvestada järgmisi aspekte:</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "A. Töökorralduse esitamise viis – suuline või kirjalik",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Esimestel kooliaastatel on valdav õpilaste suuline juhendamine, õpilaste lugemisoskus on veel kujunemisel. Lugemisoskuse kasvades tõuseb kirjalike töökorralduste osakaal. Juhiste lugemisel on vaja arvestada õpilaste lugemistehniliste oskuste arenguga. LÕ-õppes domineerib pikka aega häälega lugemine. Vanemates klassides loetakse töökorraldusi ka vaikselt (endamisi).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "B. Töökorralduse sõnastus ja sisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Jõukohaselt sõnastatud töökorraldus sisaldab õpilasele mõistetavaid sõnu ja grammatilisi vorme. Vältima peab pikki, keerulisi lauseid ja õpilasele tundmatuid sõnu. Pikkuse ja lauseehituse puhul tuleb järjepidevalt arvestada eesti keeles õpitud lausemallidega. Pikad ja mitmeosalised suuliselt esitatud juhendid lihtsustatud õppesse ei sobi – õpilaste mälu ja mõtlemise iseärasused seavad juhendi pikkusele piirid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Raskusastme järgi eristatakse ühe- ja mitmeosalisi korraldusi (ehk liht- ja liitkorraldusi), mille keerukust omakorda mõjutavad ka nende pikkus ja lauseehitus (nt <em>Tõmba sõnale joon alla!</em> / <em>Tõmba joon alla sõnadele, mis tähistavad elusolendeid!</em>). Töökorraldus võib koosneda ka vaid ühest sõnast, nt <em>Loe! Vaata!</em></p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tegevussammude hulk tööjuhendis sõltub toimingu struktuurist, kuid arvestada tuleb alati LÕ-õpilaste mälu ja mõtlemise arengu iseärasustega. Näiteks kui õpiülesande sooritamisel on vaja teha suuremal hulgal tegevussamme, siis pole neid otstarbekas esitada õpilasele pika, paljudest lausetest koosneva tekstina. Jõukohane on lühike põhikorraldus (nt <em>Arvuta!</em>) ning vajadusel tööjuhise täiendused kas suuliselt või kirjalikult, nt näide, küsimused, sooritamise algoritm (<em>1. Kirjuta arvud üksteise alla. 2. Alusta liitmist üheliste järgust.</em>). Samas jällegi ei tohi põhjalike tegevussammude loeteludega ka liialdada. Järjepidevalt tuleb arvestada sellega, kuidas õpilane on õpiülesande sooritamiseks vajalikud osatoimingud omandanud ning sellega, et kas ja kuidas need talle meenuvad. Näiteks, kui õpilase suutlikkus on juba suurem, siis hakkavad täpsed algoritmid tema mõtlemise arengut takistama. Sel juhul sobib näiteks õpilasele esitada lühemad, üldisemad juhised ning toetada teda küsimuste abil oma tegevuse planeerimisel, st vajalikke tegevussammude meenutamisel ja sõnastamisel nende õiges järjekorras.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "C. Kirjalike juhiste vormistus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tööjuhiste esitamisel tuleb kasutada jõukohaseid kirjaliku teksti vormistamise võtteid ning õppekirjandusele esitatud tehnilisi nõudeid.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Tabel 1. Tööjuhised, korraldused",
+      "children": [
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Klass</th><th>Korraldused ja nende kasutamine</th><th>Lausete pikkus ja liik (õppeaasta lõpuks)</th></tr></thead><tbody><tr><td>1. kl</td><td>Suulised lühikesed 1-osalised lihtsad korraldused.</td><td>Lihtlaused (3-4 sõna).</td></tr><tr><td>2. kl</td><td>Suulised 2-3-osalised lihtsad korraldused.</td><td>Lihtlaused (4-5 sõna).</td></tr><tr><td>3. kl</td><td rowspan=\"2\"><p>Suulised ja kirjalikud 2-3-osalised lihtsad korraldused.</p><p>Kirjaliku tööjuhise lugemine häälega. Õpiülesande sooritamise selgitamine oma sõnadega (tegevuste ajalises järjekorras) õpetaja küsimuste ja/või plaani abil. Kontrolliülesannete täitmine.</p></td><td>Lihtlaused (kuni 5 sõna).</td></tr><tr><td>4. kl</td><td>Lihtlaused (kuni 6 sõna).</td></tr><tr><td>5. kl</td><td><p>Suulised ja kirjalikud hargnenud selgitused-korraldused.</p><p>Kirjaliku tööjuhise lugemine häälega. Õpiülesande sooritamise selgitamine oma sõnadega (tegevuste ajalises järjekorras) õpetaja küsimuste abil. Plaani koostamine ühistegevuses.</p><p>Kaaslastele küsimuste esitamine tööjuhise sisu kohta (abivahendite toel). Kontrolliülesannete täitmine.</p></td><td>Lihtlaused (kuni 6 sõna).</td></tr><tr><td>6. kl</td><td rowspan=\"4\"><p>Suulised ja kirjalikud hargnenud selgitused-korraldused.</p><p>Kirjaliku tööjuhise lugemine häälega ja vaikselt. Õpiülesande sooritamise selgitamine oma sõnadega tegevuste ajalises järjekorras (õpetaja küsimuste abil). Plaani koostamine (ühistegevuses).</p><p>Kaaslastele küsimuste esitamine tööjuhise sisu kohta (abivahendite toel). Kontrolli sooritamine.</p></td><td>Liht- ja koondlausemallid; 2-osalised liitlaused.</td></tr><tr><td>7. kl</td><td>Liht- ja koondlausemallid; eri suhteid väljendavad 2-osalised liitlaused.</td></tr><tr><td>8. kl</td><td>Õpitud lausemallid.</td></tr><tr><td>9. kl</td><td>Õpitud lausemallid.</td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "D. Mõistmisoskuse tagamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tööjuhiste täitmisel on LÕ-õpilastele iseloomulik, et nad jätavad meelde ja arvestavad ülesande nõudeid vaid osaliselt või orienteeruvad üksikutele sõnadele, arvestamata nende omavahelisi seoseid. Seetõttu on oluline toetada arusaamist. Tööjuhendi kuulamisele või lugemisele järgneb analüüs, õpetaja esitab küsimusi-korraldusi, et selgitada välja, kas õpilane mõistis töökorralduses sisalduvat infot. Mida noorem on õpilane, seda konkreetsemad on küsimused/korraldused. Õppija vanuse ja oskuste kasvades muutuvad küsimused/korraldused üldisemaks.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "E. Ümbersõnastamise vajadus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Üheks mõistmist toetavaks võtteks on tööjuhise ümbersõnastamine, mida teeb kas õpilane ise (talle on vaja järjepidevalt õpetada vastavaid oskusi) või õpetaja. Õpilast toetab tegevuse planeerimisel-sooritamisel, kui ta selgitab tööjuhisest saadud infot oma sõnadega (mina-vormis): mida ja mis järjekorras ta järgnevalt teeb. Õpetaja saab õpilast toetada suunavate küsimustega, abiks võivad olla ka algoritmid. Õppija jaoks keerulise tööjuhise mõistmist toetab õpetajapoolne ümbersõnastamine, seejuures tuleb muuta/lihtsustada neid komponente, mis parasjagu valmistasid õpilasele raskusi (kas juhise pikkus, sõnavara mõistmine vm). Oluline on jälgida, et ümbersõnastamine ei oleks näiline, st, et ei loetaks töökorraldust lihtsalt uuesti ette.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "F. Varieeruva sõnastusega tööjuhiste kasutamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lihtsustatud õppe õpilasi iseloomustab tööjuhiste täitmisel inertsus, st kui järgmise ülesande juhend muutub, siis õpilane kipub täitma uut ülesannet sarnaselt varem täidetud ülesandega. Selline inertsus takistab variatiivsete ülesannete iseseisvat täitmist. Seega tuleb õpetajal jälgida ja suunata iga õppeülesande täitmist. Tuleb harjutada teadlikult töötama juhistega – sarnased ülesanded, aga erineva nüansiga juhised. Nt valikvastustega ülesanne - kord on õpilase ülesandeks sobiva vastuse alla joonimine, kord ringitamine. Selliste varieeruvate juhistega sarnaste ülesannete puhul tuleb õpilast sobimatu täitmise puhul suunata uuesti tööjuhendit lugema ning korraldust täpselt täitma.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Harjutada on vaja ka niinimetatud <strong>konfliktsete/negatiivsete juhiste</strong> mõistmist ning nende täitmist. Nt <em>Tõmba joon alla õigetele sõnadele</em> (õpilased on harjunud valesid sõnu maha tõmbama ning neile võib raskusi valmistada teisiti märkimine). Korraldustele on soovitatav lisada ka eitav (negatiivne) korraldus. Nt <em>Näita pildil metsloomi, ära näita koduloomi.</em> Eitav korraldus toetab rühmitamisoskuse kujunemist ning suunab mõtlemist.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Tabel 2. Töövõtted kirjaliku tööjuhendi mõistmise toetamiseks (alates õpilase kõrgemast iseseisvuse tasemest)",
+      "children": [
+        {
+          "kind": "table",
+          "html": "<table><tbody><tr><th scope=\"row\"><ul><li>Õpilane loeb juhendit korduvalt. (Suunamine töökorralduse veelkordsele lugemisele.)</li></ul></th><td rowspan=\"2\"><p>Eesmärgiks on õpilase tähelepanu ja lugemistehnika toetamine. Vastavalt õpilase võimekusele saab õpilane töökorraldusest ise aru või esitab õpetaja küsimusi, mis toetavad teksti sisu mõistmist ja tegevuse planeerimist.</p></td></tr><tr><th scope=\"row\"><ul><li>Õpilane loeb korraldust häälega.</li></ul></th></tr><tr><th scope=\"row\"><ul><li>Õpetaja sõnastab töökorralduse ümber</li></ul></th><td rowspan=\"2\"><p>Eesmärgiks on töökorralduse sisuline mõistmine, kohandades selle teksti (õpilasele võivad raskusi valmistada sõnade tähendused, lausete ülesehitus jm). Toimub töökorralduse analüüs, kus tähelepanu pööratakse planeeritava tegevuse osategevuste mõistmisele: mis järjekorras tuleb teha, millele ülesande täitmisel toetuda jmt.</p></td></tr><tr><th scope=\"row\"><ul><li>Õpetaja annab täiendavaid selgitusi.</li></ul></th></tr><tr><th scope=\"row\"><ul><li>Õpetaja esitab näidise.</li></ul></th><td rowspan=\"3\"><p>Eesmärgiks on toetada juhendi mõistmist näitlikustamise abil. Sõnaline juhend üksi ei käivita õpilase tegevust.</p><p>Õpilase iseseisvus ülesande täitmisel võib olla erinev. Õpetaja saab abistada õpilast, kui osaleb lapse õpitegevuses sobival määral. (Vt <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=216765908\">õpetaja osaluse võimalused</a>)</p><p>Oluline on, et õpilane lahendaks õpiülesannet teatava pingutusega.</p></td></tr><tr><th scope=\"row\"><ul><li>Õpetaja osaleb ülesande täitmisel, õpilane matkib õpetaja tegevust.</li></ul></th></tr><tr><th scope=\"row\"><ul><li>Koostegevus õpetajaga.</li></ul></th></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>On võimalik, et erinevaid võtteid tuleb <strong>omavahel kombineerida</strong>. Näiteks loeb õpilane esialgu tööjuhist endamisi, kuid see ei toeta mõistmist. Sel juhul suunab õpetaja juhist uuesti lugema, aga seekord häälega. Lisaks sõnalisele tööjuhisele toimub õpetaja juhendamisel ka näidise vaatlus ja analüüs.</p>"
+        }
+      ]
+    }
+  ]
+}

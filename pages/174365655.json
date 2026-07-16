@@ -1,0 +1,714 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "1. Eesti keele aine õppetegevuse kirjeldus ja õpetuse eesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Eesti keel on emakeelena toimetulekuõppes sotsiaalsete oskuste ja tajude arendamise, tunnetustegevuse, suhtlemise, tegevuste kavandamise ning oma ja teiste tegevuste reguleerimise vahend.</p><p>Keelel on oluline osa õpilase isiksuse kujunemisel ja rahvuskultuuri omandamisel. Keele õpetamise kaudu arendatakse õpilase kõnetegevust sensomotoorsel, keelelisel ja pragmaatilisel tasandil.</p><p>Suhtlemise õpetamisel on kõige olulisem enda väljendamine nii keeleliste kui ka mittekeeleliste vahenditega ning partneri mõistmine. Vajaduse korral võetakse kasutusele verbaalset kõnet toetavad ja/või asendavad kommunikatsioonivahendid.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "2. Üldpädevuste kujundamine eesti keele aines",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Toimetulekuõppes käsitatakse pädevust kui võimetekohaste teadmiste, oskuste ja hoiakute kogumit, mis tagab suutlikkuse teatud tegevusalal või valdkonnas toime tulla.</p><p>Eesti keele soovituslikus ainekavas on õpitulemuste saavutamiseks kirjeldatud tegevusi neljas valdkonnas:</p><ul><li>Suulise kõne mõistmine.</li><li>Suuline eneseväljendus ja sõnavara.</li><li>Tekstiloome ja selle mõistmine.</li><li>Lugemine ja kirjutamine.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "3. Eesti keele aine lõiming õppekava läbivate teemadega",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppekava läbivad teemad on üld- ja valdkonnapädevuste ning erinevate õppeainete lõimingu vahendiks. Õppekava läbivad teemad on aineülesed ja käsitlevad ühiskonnas olulisi valdkondi, misläbi kujuneb õpilasel ettekujutus ühiskonna kui terviku toimimisest ning arengust.</p><p>Õppekava läbivad teemade käsitlemine toimub kõikides eesti keele aine soovituslikus ainekavas kirjeldatud valdkondades.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "4. Eesti keele aine lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Eesti keeles omandatud verbaalseid ja alternatiivseid suhtlusvahendeid, omandatud piltide, sümbolite, sõnade ja lihtsa teksti lugemise oskust kasutatakse kõikide elu- ja toimetulekuõppe teemade käsitlemisel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "5. Eesti keele aine rõhuasetused",
+      "children": [
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>I arengutasemel</th><th>II arengutasemel</th><th>III arengutasemel</th></tr></thead><tbody><tr><td><p>Selgitatakse välja õpilase kõnemõistmise ja verbaalse/mitteverbaalse eneseväljenduse oskused.</p><p>Lõimitakse kõne mitteverbaalse suhtlemisega.</p></td><td><p>Arendatakse tegevusega kaasnevat suhtlemist, harjutatakse situatiivset dialoogi.</p><p>Jätkub kõnearendustöö.</p></td><td><p>Arendatakse oskust tulla toime igapäevastes suhtlussituatsioonides, püsida dialoogis.</p><p>Täiendatakse eneseväljendusoskusi, kujundatakse suhtlemisoskust.</p></td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "6.1 Teema: Suulise kõne mõistmine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "eristab kõnet ja mittekõnelisi helisid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "reageerib oma nimele ja tuttavatele lühikorraldustele, teab ja/või kasutab klassikaaslaste nimesid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "orienteerub lähiümbruses sõnade/lihtsustatud viibete/alternatiivsete suhtlusvahendite toel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära objekte, sündmusi ja tegevusi tähistavaid õpitud sümboleid, lihtsustatud viipeid ja sõnu, oskab neid suunamisel kasutada;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "osutab nimetamisel oma kehaosadele, tegevustes kasutatavatele esemetele ja tuttavatele inimestele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab objektidevahelisi ruumisuhteid (all, peal, ees, taga, kõrval) ja neid väljendavaid keelendeid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab seost objekt-pilt-sõna;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kuulab kohaldatud lühiteksti, jälgib dramatiseeringut;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "o rienteerub lähiümbruses sõnade, lihtsustatud viibete, piktogrammide, PCS piltide vms toel.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kuulab ja jälgib kaaslaste ja õpetaja igapäevast kõnet;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "täidab üheosalisi korraldusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab õpitud märkide, sümbolite, sõnade ja lausete tähendust ja kasutab neid igapäevases suhtluses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab seoseid objekt-pilt-keeleüksus;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab eseme asukoha kirjelduse järgi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab kohaldatud lühiteksti sisu;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "m õistab tuttavate objektide ja sündmuste tüüpilisi ja juhuslikke tunnuseid, neid väljendavaid keelendeid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab lihtlauset.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "mõistab igapäevakõnet;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab ja täidab kaheosalisi/kolmeosalisi korraldusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb kirjelduse järgi ära tuttavad objektid, sündmused;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab igapäevaelu suhtlussituatsioonides kasutusel olevate märkide, sümbolite, sõnade ja lausete tähendust ja kasutab neid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab seoseid objekt-pilt-skeem-keeleüksus;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab igapäevaseid põhjus - tagajärg seoseid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab suulist/kirjalikku kohaldatud teksti;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab laiendatud lihtlauset;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "s eostab tuttavat verbaalset ja mitteverbaalset infot;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab mõnda enamlevinud võõrsõna.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "6.2 Teema: Eneseväljendus ja sõnavara",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "annab märku oma soovidest ja vajadustest õpitud viisil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "väljendab eitust ja jaatust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "vastab arusaadavatele küsimustele 1–2 sõna või alternatiivse suhtlusvahendi abil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab lähiümbruse esemeid, temale olulisi isikuid ja tegevusi verbaalselt või õpitud alternatiivsel viisil;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära ja nimetab mõningaid fotol või pildil kujutatud esemeid ja isikuid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab üksikuid tuttavaid üldnimetusi verbaalselt või alternatiivse suhtlusvahendi abil;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "moodustab ja kasutab koos- või järelkõnes 2–3-sõnalist baaslauset;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb rütmisalmide lugemisel ja ringmängudes verbaalselt või alternatiivsel viisil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "meeldetuletamisel tervitab, jätab hüvasti, palub, tänab verbaalselt või alternatiivsel viisil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tutvustab ennast, öeldes oma nime või kasutades alternatiivset suhtlusvahendit.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "väljendab oma soove ja palub vajaduse korral abi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb situatiivses dialoogis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab reaalseid või pildil kujutatud tuttavaid objekte, nende tajutavaid tunnuseid õpitud viisil;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab nimetada õpitud üldnimetusi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kommenteerib kaaslase ja oma tegevusi selle sooritamise ajal ja vahetult pärast seda verbaalselt 2-3 sõnaga (lihtsa lausungiga) või alternatiivseid vahendeid kasutades;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "esitab küsimusi kaaslase tegevuse kohta;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab, koostab ja kasutab oma kõnes lihtlauset;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "annab kuuldud teksti sisu edasi suunavate küsimuste abil verbaalselt või alternatiivsel viisil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kordab lühikesi rütmisalme ja luuletusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab õpitud viisil enamlevinud viisakusväljendeid kontakti astudes ja tuttavates situatsioonides;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "ütleb õpitud viisil oma nime, vanuse, aadressi ja teisi olulisi andmeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sõnastab pildil kujutatud tegevusi 3-4 lihtlausega, toetudes skeemile ja/või küsimustele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "räägib oma tegevust praegu, enne.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kasutab elulistes olukordades vajalikku põhisõnavara;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "alustab dialoogi ja suudab selles lühiajaliselt püsida;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab tuttavaid esemeid, inimesi, sündmusi õpitud viisil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab õpitud üldnimetusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kommenteerib oma tegevuse tulemust õpitud viisil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "väljendab enda kogetud emotsioone;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab, koostab ja kasutab oma kõnes laiendatud lihtlauset;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "jätab meelde ja edastab lühiteate;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "annab verbaalselt või alternatiivsel viisil edasi lühijutu sisu;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab peast õpitud luuletusi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab viisakusväljendeid enamlevinud suhtlussituatsioonides õpitud viisil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab nimetada olulisi andmeid enda kohta;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "annab kuuldud teksti sisu edasi täiskasvanu suunavate küsimuste abil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "jutustab nähtust, tehtust ja möödunud sündmustest pildi või kogemuse põhjal.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "6.3 Teema: Lugemine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb infot fotolt ja joonistatud pildilt;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb PCS pilti, piktogrammi vms;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb sümbolite abil päevakava, tegevuste järjekorda;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab õpitud tähti teistest sümbolitest;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb sõnakuju järgi oma nime;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb üksikuid õpitud sõnu terviksõnameetodil.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb tegevuspilti;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb piltskeemi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kuuleb ja eristab häälikut häälikute reas ja sõnas;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "häälib õpetaja abiga lihtsa silbistruktuuriga sõnu;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb joonistähti;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb veerides lihtsa häälikustruktuuriga 1–2-silbilisi sõnu ja lühilauseid.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "eristab erinevaid häälikuid ja nende järjekorda lihtsa silbistruktuuriga sõnades;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "häälib iseseisvalt lihtsa silbistruktuuriga sõnu;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb kirjatähti;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb erineva pikkusega lihtsa silbistruktuuriga sõnu ja lühilauseid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab abiga vajalikku infot jõukohaseks kohandatud retseptist, telekavast jms;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab lugeda lihtsaid teabetekste, e-kirju jms.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "6.4 Teema: Kirjutamine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "eristab õpitud tähti teistest sümbolitest;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb näidise järgi lihtsamaid kirja eelharjutusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab koostegevuses enese väljendamiseks talle igapäevaselt olulisi digivahendeid.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "tunneb ja kirjutab joonistähti;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab lühikesi õpitud sõnu, sh oma nime;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb tähthaaval ärakirja;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab õppetegevustes suunamisel kasutada tuttavaid digivahendeid ja tuleb koostegevuses toime ohutu internetikasutusega.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutasemelõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "eristab kuulmise teel ja märgib abiga lühikest ja ülipikka (täis)häälikut",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb kirjatähti ja kirjutab kirjatähti;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab iseseisvalt sõnu, sõnaühendeid ja lühilauseid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sooritab ärakirja sõna, sõnaühendi või lühikese lause kaupa;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab allkirja;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab võimalikult ohutult tuttavaid digivahendeid, internetiotsingut ja sotsiaalmeediat;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab kirjutada ja saata lihtsamaid e-kirju.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Metoodiline viide",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://opleht.ee/2023/09/ikka-ja-jalle-jutustamisoskusest-midagi-opetajale/",
+          "title": "Hallap, M., Padrik, M., Raudsik, S. \"Ikka ja jälle jutustamisoskusest\""
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "7. Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "section",
+          "title": "7.1 Toimetulekuõppe tasemele koostatud õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/109-2/",
+              "title": "Toimetulekuõppe õppevara"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "7.2 Valik soovituslikest lisamaterjalidest",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/110-2/",
+              "title": "\"Kümme muinasjuttu\""
+            },
+            {
+              "kind": "link",
+              "href": "https://www.apollo.ee/lups-lugema.html",
+              "title": "\"Lups Lugema\""
+            },
+            {
+              "kind": "link",
+              "href": "https://rahvaraamat.ee/p/lups-lugema-2/30401/et?isbn=9789949454709",
+              "title": "\"Lups lugema 2\""
+            },
+            {
+              "kind": "link",
+              "href": "https://www.apollo.ee/lups-lugema-3-osa.html",
+              "title": "\"Lups lugema 3\""
+            },
+            {
+              "kind": "link",
+              "href": "https://www.apollo.ee/konearendusmangud.html",
+              "title": "\"Kõnearendusmängud\""
+            },
+            {
+              "kind": "link",
+              "href": "https://www.apollo.ee/mustrimang-toovihikuna.html",
+              "title": "\"Mustrimäng\""
+            },
+            {
+              "kind": "link",
+              "href": "https://www.apollo.ee/konearenduspildid-valmistume-kooliks.html",
+              "title": "\"Kõnearenduspildid\""
+            },
+            {
+              "kind": "link",
+              "href": "https://www.apollo.ee/kuula-emakeelt.html",
+              "title": "\"Kuula emakeelt\""
+            },
+            {
+              "kind": "link",
+              "href": "https://rahvaraamat.ee/p/konelevad-pildid-suhtlemise-toetamine-piltide-abil/1973290/et?isbn=9789916620359",
+              "title": "Kõnelevad pildid. Suhtlemise toetamine piltide abil."
+            },
+            {
+              "kind": "link",
+              "href": "https://glossus.eu/toode/suur-pildiraamat-inimestele-kes-ei-oska-lugeda/",
+              "title": "Suur pildiraamat täiskasvanutele, kes ei oska lugeda."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

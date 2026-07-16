@@ -1,0 +1,119 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Põhikooli riikliku õppekava läbivad teemad",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>on (<a href=\"https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa14.pdf\"><em>Põhikooli riikliku õppekava läbivad teemad</em></a>):</p><ul><li>Elukestev õpe ja karjääri kujundamine</li><li>Keskkond ja jätkusuutlik areng</li><li>Kodanikualgatus ja ettevõtlikkus</li><li>Kultuuriline identiteet</li><li>Teabekeskkond ja meediakasutus</li><li>Tehnoloogia ja innovatsioon</li><li>Tervis ja ohutus</li><li>Väärtused ja kõlblus</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Alljärgnevalt on need teemad kohandatud lihtsustatud õppele ning lõimitud rakendatavaks tervikuks eesti keelt teise keelena õppijaile.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Aastaringide kaupa, kus esimene sisemine ring on esimene õppeaasta jne., on edasiarendatavad üldteemad koos neid avavate märksõnadega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "MINA",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>isiksus, piirid, suhestumine</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ESINEMISJULGUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>mitmekülgne eneseväljendus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "MÄLU",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>eriliigiline mälu</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TAJUD",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>tunded, vajadused, perspektiiv, näilisus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LINNUVAADE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>eksternaliseerimine, kujutlusvõime, vaadeldavus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KOOSTÖÖ",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suhtlus, dialoog, grupidünaamika</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KÄITUMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>sotsiaalsed normid, kombed, looduse hoidmine</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "MUUTUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>refleksioon, mõju, visioon</p>"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Üldteemade kohandamisel on õppesisusse põimitud ajaline määratlus, nii koolivaheajad, rahvakalender kui aastaajad.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Joonis 3: Üldteemad aastaringil",
+          "children": [
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/187207809/Artboard%2028@2x.png?version=1&modificationDate=1712323607452&api=v2",
+              "alt": "Joonis 3: Üldteemad aastaringil"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

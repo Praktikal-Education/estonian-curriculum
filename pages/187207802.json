@@ -1,0 +1,150 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Üldeesmärk",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane kasutab eesti keelt suhtlus- ja õppekeelena.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõppeesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilase üleminek LÕK eestikeelsesse õppesse III kooliastmeks (vastavalt LÕ arenguperioodidele).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeprotsess on üles ehitatud järgmistele üldpõhimõtetele:",
+      "children": [
+        {
+          "kind": "section",
+          "title": "TERVIKLIKKUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tunnid, teemad, trimestrid ja õppeaastad moodustavad eraldiseisvate üksustena tervikud. Tunni keskmeks on kujundil põhinev teema. Mitme tunni jooksul läbitakse üldteema, üldteemadest moodustub trimestri tervik ning trimestritest omakorda õppeaasta tervik. Seotus on oluline eeldus, mille peamine eesmärk on õpitu vajaduspõhine rakendamine, järjepidev kinnistamine ning õppimise tajumine teekonnana. Selge mahulise määratluse taotluseks on turvalise õpikeskkonna loomine ja õpisisu vastuvõtmise hõlbustamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TASAKAAL",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tunnisiseselt õppeprotsessis tasakaalustavad teineteist tähenduslik, tegevuslik ja tehniline osajaotus. Tähenduslik osa hõlmab endas arutelusid tunni keskmeks olevate kujundite ümber. Nende arutelude fookuses on eneseväljendus- ja kuulamisoskuse arendamine. Tegevusliku osa moodustavad tundides käsitletavad praktilised ülesanded, liikumis- ja õppimismängud ning tegevused õpikeskkonnas valitseva õhustiku muutmiseks vastavalt vajadusele. Tehnilise osa fookuses on tunnis õpitu vormistamine mõõdetavateks tulemusteks ning kinnistamine läbikirjutamise, lugemise ja kujundi variatiivse kordamise kaudu. Õpetaja kujundab tasakaaluka õpikeskkonna, et toetada õpilase rahulikku süvenemisseisundit ja tekitab selles teadlikult väljakutseid sisaldavaid olukordi eesmärgiga käivitada õpilase loovust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "PAINDLIKKUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpetaja tagab teatava paindlikkuse tundide teemade valiku osas. Saavutamaks õpieesmärke kasutab ta tulenevalt õpilaste eripäradest vaheldumisi erinevaid õpistiile: auditiivset, visuaalset, kinesteetilist ning loogilist ja verbaalset stiili. Õpistiilide vaheldamine annab võimaluse kaasata kõiki õpilasi luues eeldused keskendumisperioodi pikendamiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpistiilide vaheldamisest",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>\"Lugemisprotsessi tuleb vaadelda mitmemõõtmelises kontekstis- helide tajumine (erinevate helide teadvustamine keskkonnas, esitamine ja uute loomine), kirjutatud, trükitud ja joonistatud sümbolid (näiteks tähe elementide loomine, tähe/sõna loomine mitmesugustest materjalidest erinevates keskkondades ja tasanditel), liikuvad sümbolid (näpunukud, animalmid, nukuteater, liikuvad esemed, rollimängud), tekstuuri ja vormi poolest erinevad puudutatavad sümbolid- nii reaalses kui virtuaalses keskkonnas, enda või teiste poolt loodud (Amiama-Espaillat, Mayor-Ruiz, 2017; Csobanka, 2016)\" Krieķis, A., Kleimann-Leimann, L., Zoriene, D., Dakne,I., Bergmann, K., Urbone, A., Grosgale,I., Helk,T., Ivaškiene,J., Buša, I., Uibo,R., Puzariene,E., Bergmane, I. (2021) <strong>Kuidas õpetada ja õppida lugema?</strong>)</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Keeleõppe kihid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Õpilase eripärasele tunnetustegevusele ja kõne arengule tuginedes (Õpilaste tunnetustegevus ja kõne) ehitub keeleoskus kihtide haaval.</li><li>Õpetajal on elemendid neilt kihtidelt igas tunnis vajadusel või võimalusel kasutusel tutvustamaks järgmist ja kinnistamaks eelmist.</li><li>Kihi selgeks saamise tempo määrab õpisisule kuluva ajahulga.</li></ul>"
+        },
+        {
+          "kind": "section",
+          "title": "TÄHED",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>täheõpe, kirjutamine ja lugemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "SÕNAD",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>sõnavaramu loomine, sõnade seostamine ja mällu talletamine</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "SÕNALIIGID",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>sõnade võrdlemine ja nende eristamine tähenduse ja kasutusviisi alusel</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LAUSE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>sõnadest terviku kui esimese keelesüsteemi loomine, lauseehituse ja kirjakeele tavadega tutvumine,</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "NARRATIIV",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>lausetete loomine ja nende sidusasse tervikusse seadmine, lugude jutustamine, eriliigiliste tekstide mõistmine</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "DIALOOG",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>vestluskaaslase mõistmine kõnes ja kirjas, pildis, kehakeeles ning samuti võime astuda iseseisvalt dialoogi keskkondade ja kirjalike ülesannetega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Joonis 1: <em>Keeleõppe kihid klasside kaupa.</em></p>"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/187207802/Artboard%2026@2x.png?version=1&modificationDate=1712317966721&api=v2",
+          "alt": "Keeleõppe kihid klasside kaupa"
+        }
+      ]
+    }
+  ]
+}

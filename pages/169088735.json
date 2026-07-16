@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Loodusõpetuse õpetamisega taotletakse, et põhikooli lõpuks õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi looduse vastu, käitub looduses hoolivalt ja turvaliselt, teab looduskaitse põhimõtteid",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab vaadelda loodusobjekte ja -nähtusi, teha praktilisi töid ja esitada tulemusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ning kirjeldab loodusobjekte ja -nähtusi, mõistab elus- ja eluta keskkonna seoseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab inimtegevuse mõju keskkonnale, väärtustab keskkonnasäästlikku eluviisi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab loodusteaduslikku teavet, kasutades tekste, plaane, kaarte ja mudeleid ning viies läbi vaatlusi ja katseid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab saadud teavet suuliselt ja kirjalikult.",
+          "outcomeType": "skill"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Pärilikkus ja muutlikkus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "toob näiteid pärilikkuse ja muutlikkuse avaldumise kohta eri organismirühmadel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb mutatsioonilise ja kombinatiivse muutlikkuse tekkepõhjusi ning tulemusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib modifikatsioonilise muutlikkuse graafikuid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seosta Mendeli katsetes ilmnenud fenotüübilisi suhteid genotüüpide rekombineerumisega;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "lahendab geneetikaülesandeid Mendeli seadustest, AB0- ja reesussüsteemi vererühmadest ning suguliitelisest pärandumisest;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "suhtub vastutustundlikult keskkonnategurite rolli inimese puuete ja haiguste tekkes.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pärilikkus ja muutlikkus kui elu tunnused. Päriliku muutlikkuse osa organismi tunnuste kujunemisel. Mutatsioonilise ja kombinatiivse muutlikkuse roll looduses (ka evolutsioonis) ning inimtegevuses.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mittepäriliku muutlikkuse tekkemehhanismid ja tähtsus. Päriliku ja mittepäriliku muutlikkuse omavaheline seos inimese näitel.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mendeli hübridiseerimiskatsetes ilmnenud seaduspärasused ja nende rakenduslik väärtus. Soo määramine inimesel ning suguliiteline pärandumine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Geneetikaülesanded Mendeli seadustest, AB0- ja reesussüsteemi vererühmadest ning suguliitelisest pärandumisest.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Pärilikkuse ja keskkonnategurite mõju inimese terviseseisundile. Geeniuuringud päriklike haiguste tuvastamisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>pärilikkus, mutatsioon, mutatsiooniline muutlikkus, kombinatiivne muutlikkus, Mendeli seadused, alleel, homosügoot, heterosügoot, dominantne alleel, retsessiivne alleel, genotüüp, fenotüüp, vererühm, intermediaarsus, polügeensus, polüalleelsus, reesuskonflikt, ristsiire, aheldunud geenid, mutatsioonid, onkogeen, mutageen, kantserogeen, reaktsiooninorm, kaksikute meetod, eugeenika, epigeneetika, suguliitelised geenid, suguliitelised tunnused, suguliiteline pärandumine, autosoom.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>praktiline töö keskkonnategurite mõjust reaktsiooninormi avaldumisele;</li><li>päriliku muutlikkuse tekkemehhanismide ja avaldumise uurimine, sh arvutimudeliga</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Omandatakse põhiteadmised pärilikkuse ja muutlikkuse seaduspärasustest ning nende seosest inimese terviseseisundiga.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tuginedes pärilikkuse üldistele seaduspärasustele ja nende rakendustele avardub õpilaste loodusteaduslik maailmapilt, paraneb igapäevaeluga seonduvate bioloogiaprobleemide lahendamise oskus ning toimetulek loodus- ja sotsiaalkeskkonnas. Saadakse ülevaade elukutsetest, mis on seotud geneetika ja molekulaarbioloogiaga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursuse alguses tuleks lasta õpilastel meenutada pärilikkusega seotud põhimõisteid nt. DNA, RNA, geen, replikatsioon, transkriptsioon ja translatsioon. Selleks sobib mõistekaartide koostamine või joonistelt objektide/protsesside ära tundmine ja sinna info lisamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Päriliku ja mittepäriliku muutlikkuse teema käsitlemisel võiks lasta õpilastel teha rühmatööd. Üks rühm tegeleb päriliku muutlikkusega ja teine rühm mittepäriliku muutlikkusega. Iga rühm peab koostama lühikese ettekande, kus nad selgitavad, mis on pärilik ja mis mittepärilik muutlikkus, ning toovad näiteid mõlemat tüüpi muutlikkuse kohta (kirjeldab mõnda tuntud näidet päriliku ja mittepäriliku muutlikkuse kohta, näiteks inimeste ja loomade tunnuseid või taimede tunnuseid). Rühmad võivad kasutada visuaalseid abivahendeid, nagu slaidid või plakatid, ettekande koostamiseks. Pärast ettekandeid korraldage klassis arutelu, kus õpilased saavad esitada küsimusi ja võrrelda, kuidas pärilik ja mittepärilik muutlikkus mõjutavad elusorganisme. Samuti võib õpilastel lasta koostada skeemi või mõistekaardi, mis võtab antud teema kohta õpitu kokku.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mutatsioonilise ja kombinatiivse muutlikkuse teema kokkuvõtteks sobib essee, kus õpilane arutleb mõlema muutlikkuse rolli üle nii looduses kui inimese elus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Geneetikaülesannete lahendamine põhineb Mendeli seaduste (I, II ja III) tundmisel. Lihtsaid geneetika ülesandeid on lahendatud juba 9. klassis, nüüd lisanduvad varem õpitule ülesanded, kus avalduvad indermediaarsus (kodominatsus võib huvilistega lisaks käsitleda, vajalik ABO vererühmadega ülesannete lahendamisel) . Lahendatakse ka AB0- ja reesussüsteemi vererühmade ning suguliiteliste pärandumiste ülesandeid. Õpilased võivad lahendada geneetikaülesandeid rühmades. Selleks võiks tekitada klassis 3-liikmelised rühmad. Igale lauale tekitada nn jaamad, kuhu on geneetikaülesanded, mida õpilased rühmades lahendama peavad. Teatud aja möödudes liiguvad rühmad järgmise jaama juurde jne. Lisaks võiks õpilastega läbi teha ingliskeelse arvutimudeli <a href=\"https://marie-sklodowska-curie-actions.ec.europa.eu/science-is-wonderful/activities/mendelian-inheritance\">Mendeli seaduste rakendamisest draakonite näitel</a>. Ülesannete valik võimaldab õpet diferentseerida, saame pakkuda nii lihtsamaid kui ka keerukamaid ülesandeid, kus tuleb arvestada mitme tunnusega. Sobilikke ülesandeid leiad <a href=\"https://dspace.ut.ee/server/api/core/bitstreams/01bbb3ef-c65e-4230-8314-0d94e2b70b60/content\">geneetika ülesannete kogust</a>.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilastega võiks läbi teha ka interaktiivse <a href=\"https://www.golabz.eu/lab/collaborative-rabbit-genetics-lab\">simulatsiooni küülikugeneetika</a> kohta. Õpilased töötavad koos, kasutades koostööl põhineva küülikugeneetika simulatsiooni kahte varianti, kus uuritakse küülikute karvavärvi ja kõrvakuju pärandumist.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Rollimäng <a href=\"https://archiv.ipn.uni-kiel.de/eibe/UNIT04EST.PDF\">Inimese geneetika</a>. Antud EIBE moodul sisaldab õppematerjale inimese geneetika rakendamise kohta ja eesmärk on algatada klassis vastavasisulisi diskussioone. Rollimängus vaadeldakse kolme geneetilist haigust: tsüstilist fibroosi, Duchenne´i lihasdüstroofiat ja Huntingtoni tõbe. Mäng võimaldab arutleda eetiliste küsimuste üle, selgitada inimeste erinevusi ja kujundada õpilaste väärtuspädevust.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Geenide avaldumise häired. Rühmatööna koostavad õpilased ülevaate ühest geeni haigusest, mida peavad üheminutilises liftikõnes või kolmeminutilises lühiloengus klassikaaslastele tutvustama. Abiks on efektiivse liftikõne tegemise <a href=\"https://avalikesinemine.net/efektiivse-liftikone-tegemine/\">nipid</a>.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Paaris- või rühmatööna saab koostada variatsioonikõverat (tööjuhend Kokassaar, U.(1996) Laboratoorsete tööde kogumik gümnaasiumile, lk. 84).</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused edasijõudnud õpilastele",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Metoodilised soovitused edasijõudnud õpilastele võiks olla ettevalmistused ainevõistlusteks ning viktoriinideks. Soovitatav on osaleda näiteks TÜ teaduskooli poolt korraldataval <a href=\"https://e-oppekeskus.ee/viktoriinid/valge-bioloogia-viktoriin/\">viktoriinil valge bioloogia</a>. Bioloogiaolümpiaadiks ette valmistumiseks on soovitatav lahendada <a href=\"https://teaduskool.ut.ee/et/bioloogiaolumpiaadi-arhiiv\">varasemate kooliaastate olümpiaade</a>. Soovitatav on osaleda ka <a href=\"https://e-oppekeskus.ee/kursused/?_valdkond=bioloogia-ja-meditsiin&amp;_klassid=11-klass\">TÜ teaduskooli e-kursustel</a>, mis on suunatud 11. klassile ning kellel on süvendatud huvi bioloogia ja meditsiini valdkonna vastu.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Lisaks on soovitatav edasijõudnutel lugeda teemaga seonduvaid usaldusväärseid teadusartikleid, kasutades selleks <em>Google Scholar</em> veebilehte. Teadusartiklite lugemisel on soovitatav teha sisukokkuvõtteid ning analüüse.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Lisaks võivad edasijõudnud õpilased käsitleda ka sugukromatiini e Barri kehake; SRY-geeni; PCR -geenitehnoloogia meetodi olemust ja vajalikkust ning prioonhaiguseid.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Khan Academy inglise keelsed õppevideod ja e-testid: M<a href=\"https://www.khanacademy.org/science/biology/classical-genetics/mendelian--genetics/v/introduction-to-heredity\">endeli seadused</a>, M<a href=\"https://www.khanacademy.org/science/biology/classical-genetics/variations-on-mendelian-genetics/v/punnett-square-fun\">endeli seaduste variatsioonid</a>, <a href=\"https://www.khanacademy.org/science/biology/classical-genetics/sex-linkage-non-nuclear-chromosomal-mutations/a/sex-linkage-sex-determination-and-x-inactivation\">suguliiteline pärandumine</a> jt.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Heinaru, A. <a href=\"https://geneetika.ee/geneetika-opik/\">Geneetikaõpik kõrgkoolile</a>.</p><p>Heinaru, A. <a href=\"https://geneetika.ee/encyclopedia/\">Geneetika sõnastik</a>.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>koostab skeemi või mõistekaardi pärilikkusest; seostab omavahel pärilikkusega seotud mõisteid (LT pädevus 1 ja 4; õpipädevus);</li><li>otsib infot erinevatest allikatest ja koostab rühmas ettekande päriliku või mittepäriliku muutlikkuse kohta (LT pädevus 3, 5; suhtluspädevus);</li><li>koostab essee ning arutleb mutatsioonilise ja kombinatiivse muutlikkuse üle (LT pädevus 1 ja õpipädevus);</li><li>rakendab Mendeli seadusi geneetikaülesannete lahendamisel (LT pädevus 4, matemaatika- loodusteaduste- ja tehnoloogiaalane pädevus).</li><li>otsib infot erinevatest allikatest ja koostab rühmatööna lühiloengu või liftikõne ühest geeni haigusest (LT pädevus 1, 7, suhtluspädevus, digipädevus);</li><li>osaleb rollimängus, mis on seotud pärilike geneetiliste haiguste pärandumise tõenäosuse hindamisega ning otsuste tegemise ja nende põhjendamisega (dilemmaprobleemide lahendamine) (LT 2, 7; kultuuri- ja väärtuspädevus);</li><li>planeerib ja viib võimalusel läbi praktilise töö keskkonnategurite mõjust reaktsiooninormi avaldumisele (LT 1 ja 2; õpipädevus; suhtluspädevus);</li><li>otsib infot erinevatest allikatest molekulaarbioloogia ja geneetikaga seotud elukutsete ja õppimisvõimaluste kohta (LT pädevus 8, ettevõtlikkuspädevus ja enesemääratluspädevus);</li><li>kirjutab essee (lühikokkuvõtte) mutatsioonilise ja kombinatiivse muutlikkuse rollist looduses ja inimese elus (LT pädevus 2,6; suhtluspädevus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema põhineb varasematel bioloogia ning teiste loodusainete tundides käsitletud teemadel. 9. klassi bioloogia pärilikkuse osa, gümnaasiumi I kursus organismide koostis (DNA ja RNA) ning II kursus (molekulaarbioloogilised protsessid). Oluline on meenutada varasemalt õpitut ning seostada seda uute teadmistega ning sellega toetada õpilaste tähenduslikku õppimist.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaga, tõenäosus on oluline osa pärilikkuse realiseerumisel, eriti Mendeli seaduste kontekstis. Õpilased võivad kasutada tõenäosusteooria mõisteid, et ennustada järglaste fenotüüpe ja genotüüpe.</p><p>Ajaloo kaudu võib õpilastele tutvustada geneetikaalaseid suuri avastusi teaduse ajaloos, nagu Mendeli katsed, DNA struktuuri avastamine jne.</p><p>Teema sobib hästi õppekava läbivate teemade &quot;elukestev õpe ja karjääri planeerimine&quot; ja &quot;tehnoloogia ja innovatsioon&quot; käsitlemiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisobjektideks võivad olla näiteks:</p><p>1) skeem või mõistekaart muutlikkuse vormidest;</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454055/Hindamismudel%20mo%CC%83istekaardile.docx?version=1&modificationDate=1706621727342&api=v2",
+              "title": "näide hindamismudelist"
+            },
+            {
+              "kind": "text",
+              "html": "<p>2) essee (mutatsioonilise ja kombinatiivse muutlikkuse rollist looduses ja inimese elus);</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454055/ESSEE.docx?version=1&modificationDate=1706621727348&api=v2",
+              "title": "näide hindamismudelist"
+            },
+            {
+              "kind": "text",
+              "html": "<p>3) rühmatöö protsess ja esitlus või liftikõne (osalemine rühmatöös, liftikõne, esitlus);</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454055/Ru%CC%88hmato%CC%88o%CC%88%20esitlus%20ja%20ettekanne.docx?version=1&modificationDate=1706621727353&api=v2",
+              "title": "näide hindamismudelist"
+            },
+            {
+              "kind": "text",
+              "html": "<p>4) praktilise töö (keskkonnategurite mõju reaktsiooninormi avaldumisele) protokoll;</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454055/Uurimisto%CC%88o%CC%88%20hindamismudel_Na%CC%88ide.docx?version=1&modificationDate=1706621727333&api=v2",
+              "title": "näide hindamismudelist"
+            },
+            {
+              "kind": "text",
+              "html": "<p>5) geneetikaülesannete lahendused;</p><p>6) digitaalsed ning paberkandjal harjutused sh EIS-i ülesande.</p><p>7) kokkuvõtlik töö/test teemal pärilikkus ja muutlikkus.</p><p>Tööde hindamisel ja tagasisidestamisel võib kasutada nii kujundavat kui kokkuvõtvat hindamist. Arutelus osalemist, esitlusi, praktilisi ja rühmatöid jm saab hinnata hindamismudeli abil. Hindamismudelis olevad kriteeriumid võib ka koostöiselt õpilastega koostada, kasutada saab <a href=\"https://opetaja.edu.ee/hindamismudelid/\">hindamismudeli koostamise tööriista</a>.</p><p>Rühmatööde esitluste ja visuaalsete postrite hindamisel võiks kasutada ka õpilaste vastastiktagasisidestamist. Õppeprotsessi vältel ainetundides piisab suulisest tagasisidest õpilasele, samuti võiks paluda koostatud skeeme ja võrdlusi kaasõpilasel hinnata. Praktilisi töid võib vastavalt sooritusele hinnata A/MA ehk arvestatud/mittearvestatud koos kujundava hindamisega.</p><p>Kokkuvõtlike kirjalike tööde puhul on soovitatava teha tundides harjutusi ning õpilastele anda jooksvalt nende kohta ka tagasisidet. Oluline on anda õpilastele ülevaade tema teadmistest ja oskustest selliselt, et ta mõistaks paremini, mida peab veel õppima ning milliseid oskusi ka arendama. Kirjalike tööde puhul võib õpetaja kaaluda ka avatud materjalide (nt vihiku või õpiku) kasutamist. Kokkuvõtvat testi võib hinnata numbriliselt.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Riiklikule õppekavale vastavad bioloogia õpikud, töövihikud, digiõpikud, tööraamatud.</p><p>Toetavad materjalid ja viited:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://ebu.ee/vabavara/p%C3%A4rilikkus.php",
+              "title": "EBÜ materjalid: pärilikkus"
+            },
+            {
+              "kind": "link",
+              "href": "https://kodu.ut.ee/~triinm/bioloogia/index.html",
+              "title": "Triin Marandi õppematerjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://kodu.ut.ee/~triinm/bioloogia/geneetika.html",
+              "title": "geneetikaülesanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/3583",
+              "title": "E-koolikoti digitaalsed õppematerjalid: pärilikkus"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Amoeba Sisters õppevideod (inglise keelsed):</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=1Dx7LDwINLU&amp;t=10s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=8m6hHRlKwxY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=pv3Kj0UjiLE"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=i-0rSv6oxSY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=9O5JQqlngFY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=h2xufrHWG3E"
+            },
+            {
+              "kind": "text",
+              "html": "<p>CrashCourse õppevideod (inglise keelsed):</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=H8WJ2KENlK0&amp;t=2s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=CBezq1fFUEA&amp;t=254s"
+            },
+            {
+              "kind": "link",
+              "href": "https://evidence-erasmus.github.io/evidence/et/tools/reliability-assessment",
+              "title": "juhend"
+            },
+            {
+              "kind": "link",
+              "href": "https://scholar.google.com/",
+              "title": "Google Scholar"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/",
+              "title": "Novaatori veebileht"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/1609054721/geenid-reedavad-mida-inimestele-suua-meeldib",
+              "title": "geenid reedavad mida inimestele süüa meeldib"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/1608712948/nuudisinimese-nutikus-vois-alata-vaikesest-geeniveast",
+              "title": "nüüdisinimese nutikus võis alata väikesest geeniveast"
+            },
+            {
+              "kind": "link",
+              "href": "https://geneetika.ee/geneetika-opik/",
+              "title": "Geneetikaõpik kõrgkoolile"
+            },
+            {
+              "kind": "link",
+              "href": "https://geneetika.ee/encyclopedia/",
+              "title": "Geneetika sõnastik"
+            },
+            {
+              "kind": "link",
+              "href": "https://wordwall.net/en-gb/community/genetics",
+              "title": "Geneetika teemade kinnistamiseks mängud"
+            },
+            {
+              "kind": "link",
+              "href": "https://wordwall.net/en-us/community/heredity",
+              "title": "pärilikkuse teemade kinnistamiseks mängud"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.brainpop.com/health/geneticsgrowthanddevelopment/heredity/",
+              "title": "Animatsioon ja test"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.wehi.edu.au/wehi-tv/",
+              "title": "WEHI Tv pildi- ja videomaterjalid"
+            },
+            {
+              "kind": "file",
+              "src": "https://archiv.ipn.uni-kiel.de/eibe/UNIT04EST.PDF",
+              "title": "Inimese geneetika"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/server/api/core/bitstreams/01bbb3ef-c65e-4230-8314-0d94e2b70b60/content",
+              "title": "Geneetika ülesanded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Bioevolutsioon",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab Darwini evolutsioonikäsitlust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid loodusteaduste uuringute kohta, mis tõestavad bioevolutsiooni;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib ja hindab erinevaid seisukohti elu päritolu kohta Maal;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb loodusliku valiku vorme, nende toimumise tingimusi ja tulemusi ning toob nende kohta näiteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib ning hindab eri tegurite osa uute liikide tekkes, toob selle kohta näiteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab evolutsioonilise mitmekesistumise, täiustumise ja väljasuremise tekkemehhanisme ning avaldumisvorme ja toob nende kohta näiteid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb inimese eripära inimahvidega ning hindab bioloogiliste ja sotsiaalsete tegurite osa nüüdisinimese evolutsioonis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "suhtub kriitiliselt bioevolutsiooni pseudoteaduslikesse käsitlustesse.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Darwini evolutsiooniteooria põhiseisukohad. Loodusteaduste uuringutest tulenevad evolutsioonitõendid. Eri seisukohad elu päritolu kohta Maal. Bioevolutsiooni varased etapid ja nüüdisaegsete eluvormide kujunemine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Olelusvõitlus, selle vormid. Loodusliku valiku vormid ja tulemused. Kohastumuste eri vormide kujunemine. Mutatsioonilise muutlikkuse, kombinatiivse muutlikkuse, geneetilise triivi ja isolatsiooni osa liigitekkes. Makroevolutsiooniliste protsesside – evolutsioonilise mitmekesistumise, täiustumise ja väljasuremise – tekkemehhanismid ning avaldumisvormid. Bioevolutsioon ja süstemaatika.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Evolutsiooni uurimisega seotud teadusharud ning elukutsed. Inimlaste lahknemine inimahvidest ning uute tunnuste kujunemine. Inimese perekond, selle eripära võrreldes inimahvidega. Teaduslikud seisukohad nüüdisinimese päritolu kohta. Inimese evolutsiooni mõjutavad tegurid, bioloogiline ja sotsiaalne evolutsioon. Bioevolutsiooni pseudoteaduslikud käsitlused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>evolutsioon, lamarkism, muutlikkus, fossiilid, homoloogilised elundid, analoogilised elundid, mandunud elundid, olelusvõitlus, stabiliseeriv valik, suunav valik, lõhestav valik, kohanemine, kohastumine, mikroevolutsioon, makroevolutsioon, kombinatiivne muutlikkus, geenivool, geneetiline triiv, mutatsioon, mutageen, pudelikaelaefekt, rajaja- ehk asutajaefekt, geograafiline isolatsioon, bioloogiline isolatsioon, ajaline isolatsioon, käitumuslik isolatsioon, mehhaaniline isolatsioon, takson, taksonoomia, primaat, nüüdisinimene, fülogeneesipuu, paleontoloogia, kreatsionism.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>olelusvõitluse tulemuste uurimine arvutimudeliga;</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Saadakse ülevaade evolutsioonimehhanismidest ning inimese evolutsioonist. Analüüsitakse evolutsioonitõendeid ning evolutsiooni pseudoteaduslikke käsitlusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema sissejuhatuseks kaardistab õpetaja õpilaste eelteadmised evolutsiooniteooria kohta. Selleks võib paluda õpilastel üles märkida kõik teemaga seotud mõisted, mis meelde tuletavad ning hiljem saab klassis arutada.</p><p>Tutvustamist väärib evolutsiooniteooria kujunemislugu, varasemad seisukohad ja teooriad, meetodina võib kasutada ajatelje koostamist.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Järgmisena käsitletakse evolutsioonitõendeid ja elu teket Maal. Evolutsioonitõendeid on õpitud juba 8. klassis, nüüd lisanduvad siia molekulaarbioloogiaga seonduvad tõendid, (huvilistele võib tutvustada biogeneetilist reeglit). Evolutsioonitõendite õppimiseks sobib info otsimine erinevatest allikatest ja tabeli koostamine. Õpitu kinnistamiseks sobib paaristöö, vaheldumisi valitakse üks evolutsioonitõend ning selgitatakse, kuidas antud tõendi abil saab tõestada bioevolutsiooni.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Elu tekke hüpoteeside kohta on soovitav teha rühmatöö. Rühmatöö juhendi leiad <a href=\"https://keskkonnaharidus.ee/sites/default/files/uploads/2016/10/Metoodiline_kasiraamat_bioloogia_opetamiseks_gumnaasiumis.pdf\">raamatust &quot;Metoodiline käsiraamat bioloogia õpetamiseks gümnaasiumis&quot;</a>. Iga rühm otsib ühe hüpoteesi (nn ürgpuljong, mustad tossutajad, aluselised lõõrid, meteoriidid kosmosest jm) kohta infot ja koostab esitluse. Esitluste kuulamise ajal täidetakse <a href=\"https://keskkonnaharidus.ee/sites/default/files/uploads/2016/10/Metoodiline_kasiraamat_bioloogia_opetamiseks_gumnaasiumis.pdf\">tabel</a> (lk 252) ja ühiselt arutatakse erinevate teooriate puuduste üle.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Bioevolutsiooni varaste etappide ja nüüdisaegsete eluvormide kujunemise kohta võib koostada rühmatööna ajatelje. Iga rühm saab endale 1-2 ajastut, mille kohta otsib infot ja teeb kirjalikult lühikokkuvõtte.</p><p>Olelusvõitluse ja loodusliku valiku õppimisel võiksid õpilased võrrelda jooniste abil loodusliku valiku vorme, nende toimumise tingimusi ja tulemusi ning tuua nende kohta näiteid. Oluline on mõista olelusvõitluse ja loodusliku valiku tähtsust evolutsiooniteoorias.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kohastumuste teema käsitlemisel võib õpilastele rühmades anda ette taimede ja loomade fotod ning lasta selgitada kohastumuste olemust. Arutleda kohastumuste suhtelise iseloomu üle ning võrrelda kohastumust kohanemisega.</p><p>Liigitekke ja makroevolutsiooniliste protsesside kinnistamiseks sobib mõistekaardi koostamine või müütide kummutamine. Rühmatööna võiksid õpilased koostada evolutsiooniteemalise <a href=\"https://www.biologycorner.com/worksheets/evolution_concept.html\">mõistekaardile</a> (ingliskeelne näide). Õpilased koostavad uurimistöö evolutsiooni teemaliste müütide kummutamiseks. Õppemooduli kirjelduse leiab <a href=\"https://evidence-erasmus.github.io/evidence/et/evolution\">siit</a>.</p><p>Tutvustamist vajavad evolutsiooni uurimisega seotud teadusharud ning elukutsed.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused edasijõudnud õpilastele",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Khan Academy inglise keelsed õppevideod ja e-testid: <a href=\"https://www.khanacademy.org/science/high-school-biology/hs-evolution\">evolutsioon</a>.</p><p>Richard Villemsi Evolutsioonilise bioloogia <a href=\"http://www.ebc.ee/loengud/evol/\">loengute konspekt</a>.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>otsib infot ja koostab tabeli bioevolutsiooni tõendite kohta; selgitab paarilisele, kuidas antud tõendite abil saab tõestada bioevolutsiooni (LT pädevus 1,2,5, digipädevus, suhtluspädevus);</li><li>otsib infot ja koostab rühmatööna esitluse ühe elu tekke hüpoteesi kohta, täidab tabeli ettekannete ajal ning ühiselt toimub arutelu hüpoteeside puuduste üle (LT 1, 2; suhtluspädevus, digipädevus);</li><li>otsib infot ja koostab ajatelje (individuaalselt või rühmas) bioevolutsiooni või inimese evolutsiooni kohta (LT 2, digipädevus);</li><li>koostab võrdleva tabeli loodusliku valiku vormide kohta ning selgitab paarilisele loodusliku valiku tähtsust evolutsiooniprotsessis (LT pädevus 2);</li><li>koostab evolutsiooni kohta mõistekaardi (LT pädevus 2; digipädevus);</li><li>lükkab ümber evolutsiooniga seotud müüte (LT pädevus 5; 6; kultuuri- ja väärtuspädevus);</li><li>koostab essee &quot; Elu teke ja areng Maal&quot;&quot;(LT pädevus 1; 2; suhtluspädevus);</li><li>planeerib ja viib läbi praktilise töö loodusliku valiku tulemustest kodukoha looduses (LT 4, ettevõtluspädevus);</li><li>sooritab digitesti või teeb kirjaliku töö evolutsioonist.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema põhineb varasemal evolutsiooni käsitlemisel bioloogias ning teiste loodusainete tundides. Näiteks 7. klassi bioloogia teemaga organismide põlvnemine ja selgroogsete evolutsioon. Lisaks ka 8. klassi bioloogia teemadega evolutsioon ja liikide tekkimine ning taimeriigi evolutsioon.</p><p>Töö tekstidega (sh loodusteadusliku teksti koostamine) toetavad emakeelset eneseväljendust.</p><p>Uurimistulemuste vormistamine ja esitluste (sh postrite), skeemide koostamine ja õpitava visualiseerimine haakub gümnaasiumi kursusega &quot;Kunst ja visuaalkultuur&quot;.</p><p>Teemakohaste materjalide otsimine, ingliskeelsete videote vaatamine ja analüüs toetavad inglise keele (jt võõrkeelte) õppimist.</p><p>Evolutsiooniteooria õppimine ja inimarengu teemade üle arultemine aitab kaasa kultuurilise identideedi ja sallivuse kujundamisele ning on seotud õppekava läbiva teemaga &quot;kultuuriline identiteet&quot;.'</p><p>Digivahendite kasutamine õppeprotsessis toetab digipädevute arendamist. Evolutsiooni tõendamisel ja organismide põlvnemise selgitamisel kasutatakse tänapäevaseid kõrgtehnoloogilisi meetodeid, mille tundmaõppimine seostub läbiva teemaga &quot;tehnoloogia ja innovatsioon&quot;.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisobjektideks võivad olla näiteks:</p><p>1) tabel bioevolutsiooni tõenditest;</p><p>2) esitlus elu tekke teemal;</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454055/Ru%CC%88hmato%CC%88o%CC%88%20esitlus%20ja%20ettekanne.docx?version=1&modificationDate=1706621727353&api=v2",
+              "title": "näide hindamismudelist"
+            },
+            {
+              "kind": "text",
+              "html": "<p>3) ajatelg (bioevolutsioon ja/või inimese evolutsioon);</p><p>4) võrdlev tabel loodusliku valiku vormidest;</p><p>5) mõistekaart evolutsiooni kohta;</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454055/Hindamismudel%20mo%CC%83istekaardile.docx?version=1&modificationDate=1706621727342&api=v2",
+              "title": "näide hindamismudelist"
+            },
+            {
+              "kind": "text",
+              "html": "<p>6) essee (nt elu teke ja areng Maal);</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454055/ESSEE.docx?version=1&modificationDate=1706621727348&api=v2",
+              "title": "näide hindamismudelist"
+            },
+            {
+              "kind": "text",
+              "html": "<p>7) praktilise töö protokoll;</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454055/Uurimisto%CC%88o%CC%88%20hindamismudel_Na%CC%88ide.docx?version=1&modificationDate=1706621727333&api=v2",
+              "title": "näide hindamismudelist"
+            },
+            {
+              "kind": "text",
+              "html": "<p>8) kokkuvõtlik kirjalik töö või digitest evolutsioonist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Riiklikule õppekavale vastavad bioloogia õpikud, töövihikud, digiõpikud, tööraamatud.</p><p>Toetavad materjalid ja viited:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://esero.ee/g%C3%BCmnaasium",
+              "title": "ESERO õppematerjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://ebu.ee/vabavara/evolutsioon.php",
+              "title": "EBÜ materjalid: evolutsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://ebu.ee/vabavara/evolutsioon%20g%C3%BCmnaasiumile.php",
+              "title": "evolutsioon gümnaasiumile"
+            },
+            {
+              "kind": "link",
+              "href": "https://kodu.ut.ee/~triinm/bioloogia/index.html",
+              "title": "Triin Marandi õppematerjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://kodu.ut.ee/~triinm/bioloogia/evolutsioon.html",
+              "title": "evolutsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://kodu.ut.ee/~triinm/bioloogia/inimese_evolutsioon.html",
+              "title": "inimese evolutsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://kodu.ut.ee/~triinm/bioloogia/kordamisksimused4.html",
+              "title": "kordamisküsimused"
+            },
+            {
+              "kind": "link",
+              "href": "https://evidence-erasmus.github.io/evidence/et/modules",
+              "title": "Projekti EVIDENCE materjalid: Evolutsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/3609",
+              "title": "E-koolikoti digitaalsed õppematerjalid: bioevolutsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://science.umd.edu/classroom/bsci338m/Lectures/conceptmap1.html",
+              "title": "Mõistekaardi koostamine evolutsiooni teemal, inglise keelne tööjuhend"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Amoeba Sisters õppevideod (inglise keelsed):</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=fI7IV3x-dGI"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=7VM9YxmULuo"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=DVouQRAKxYo&amp;list=PLwL0Myd7Dk1FuT0I6icE7octRIgJqMBhS"
+            },
+            {
+              "kind": "text",
+              "html": "<p>CrashCourse õppevideod (inglise keelsed):</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=H8WJ2KENlK0&amp;t=2s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=P3GagfbA2vo&amp;t=14s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=UPggkvB9_dc&amp;t=857s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=dfsUz2O2jww"
+            },
+            {
+              "kind": "link",
+              "href": "https://evidence-erasmus.github.io/evidence/et/tools/reliability-assessment",
+              "title": "juhend"
+            },
+            {
+              "kind": "link",
+              "href": "https://scholar.google.com/",
+              "title": "Google Scholar"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/",
+              "title": "Novaatori veebileht"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/1609151774/meritaht-ongi-uks-suur-pea",
+              "title": "meritäht"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.britannica.com/science/evolution-scientific-theory",
+              "title": "Britannica: evolutsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.britannica.com/science/human-evolution",
+              "title": "Britannica: inimese evolutsioon"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.ebc.ee/loengud/evol/",
+              "title": "Richard Villemsi Evolutsioonilise bioloogia loengute konspekt"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.khanacademy.org/science/high-school-biology/hs-evolution",
+              "title": "Khan Academy: evolutsioon"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=2W5hOJaFjxU"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.eskeletons.org/",
+              "title": "Inimese ja primaatide võrdlev anatoomia"
+            },
+            {
+              "kind": "link",
+              "href": "http://becominghuman.org/node/human-lineage-through-time",
+              "title": "Primaatide ja inimese evolutsioon interaktiivsel ajateljel"
+            },
+            {
+              "kind": "link",
+              "href": "http://becominghuman.org/node/interactive-documentary",
+              "title": "Interaktiivne mudel evolutsiooni kirjeldus"
+            },
+            {
+              "kind": "link",
+              "href": "https://wordwall.net/en-gb/community/evolution",
+              "title": "Evolutsiooni teema kinnistamiseks mängud"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608152311/inimene-2-0-r-evolutsioon",
+              "title": "ERR. Jupiter. 6-osaline dokumentaalfilm, Inimene 2.0. R-evolutsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://synaps.simplecast.com/episodes",
+              "title": "Eesti Tervisemuuseumi taskuhääling Sünaps"
+            },
+            {
+              "kind": "link",
+              "href": "https://synaps.simplecast.com/episodes/sunaps-45-elu-teke-enne-evolutsiooniteooriat",
+              "title": "elu teke enne evolutsiooniteooriat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

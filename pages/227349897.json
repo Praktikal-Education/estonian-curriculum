@@ -1,0 +1,130 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus keskendub analüütilistele meetoditele tarkvara arenduse ja testimise kontekstis, et toetada uurimuslike oskuste arengut ja digilahenduse arendusprojekti teostamist gümnaasiumi uurimistööna. Kursus tutvustab praktiliste tegevuste kaudu tarkvara analüütiku ja testija ameti olemust.</p><p>Kursuse käigus otsitakse vastuseid järgmistele küsimustele: mida tähendab kvaliteet tarkvaras ning IT- valdkonnas? Kuidas kirjeldada kvaliteeti arendajale ja testijale viisil, mis on üheselt arusaadav? Kuidas parandada kvaliteeti ja hoida selle kõrget taset projekti jooksul?</p><p>Kuidas mõõta kvaliteeti ehk põhitõed testimisest: testimise erinevad liigid ning vastutus. Mis on testimine ja selle põhiprintsiibid? Miks on testimine vajalik? Milline on testimise põhiprotsess, meetodid ja millist rolli mängib selles psühholoogia?</p><p>Traditsioonilise tarkvaraarenduse (veebiteenused, nutirakendused) asemel võib kursusel kasutada analüüsi ja testimise objektina ka riistvara- (nt asjade internet, robootika, automaatika) ja digimeedialahendusi (nt virtuaal- ja liitreaalsus, sotsiaalmeedia).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab tarkvara analüüsi ja testimise käigus korrektset oskussõnavara",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib olemasolevate/konkureerivate tarkvaralahenduste eeliseid ja puudusi antud valdkonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teostab tarkvara nõuete analüüsi, sõnastab selle põhjal tarkvara funktsionaalsed ja mittefunktsionaalsed arendusnõuded",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "planeerib tarkvaraprojekti testimise protsessi ja osalejate rollid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab eesmärgi, uurimisprobleemi ja uurimisküsimused tarkvara analüüsi ja testimise kontekstis, koostab testiidee ja testilood",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "testib tarkvara konkreetse metoodikaga, kogudes kvalitatiivseid ja kvantitatiivseid andmeid, analüüsib ja visualiseerib kogutud andmeid arvutiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "dokumenteerib ja esitleb testimise tulemusi uurimistöö vormis, kirjeldab ja järgib testimise dokumentatsiooni koostamise põhimõtteid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Gümnaasiumi valikkursus „Tarkvara analüüs ja testimine“",
+      "children": [
+        {
+          "kind": "section",
+          "title": "LÕIMING TEISTE AINETEGA",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>“Tarkvara analüüs ja testimine” on mõeldud eraldiseisva informaatika kursusena, kus ei eeldata varasemat kokkupuudet programmeerimisega. Kuna kursuse jooksul tuleks testida individuaal- või rühmatööna konkreetset tarkvara, siis on võimalik seda edukalt siduda teiste õppeainetega.</p><p>Tarkvaaratestimisel uuritakse olemasoleva/konkureeriva tarkvara tugevusi ja nõrkusi valdkonnas, mis on ka heaks võimaluseks lõimida teiste ainetega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÜLDPÄDEVUSTE KUJUNDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tarkvara testimine annab võimalusi ka kultuuri- ja väärtuspädevuse arendamiseks nii paaris- kui ka rühmatöös uurides ka tarkvara eetilisi küsimusi. Võimalus ennast teostada testijana annab võimaluse arendada ka sotsiaalset ja kodanikupädevust ning enesemääratluspädevust. Ümberpööratud klassiruumi kasutamine koos testimisprojekti planeerimisega võimaldab arendada suutlikkust organiseerida õppekeskkonda individuaalselt ja rühmas ehk arendab õpipädevust. Ümberpööratud klassiruumi aktiivsed tunnitööd koos projektiga arendavad suutlikkust ennast selgelt, ajakohaselt ja viisakalt väljendada ehk suhtluspädevust. Testimisprojekt on hea näide ettevõtlikkuspädevuse arendamisest, kus on olulisel kohal suutlikkus ideid luua ja ellu viia, kasutades omandatud teadmisi ja oskusi. Testimisprotsess ja selle dokumenteerimine arendab otseselt ka digipädevust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LÄBIVATE TEEMADE KÄSITLUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tarkvara analüüsi ja testimise õpetamisel on olulisel kohal ka vastavate edasiõppimisvõimaluste ja IT-ametite tutvustamine, mis omakorda panustab elukestva õppe ja karjääri kujundamisele. Tarkvara testimisel on oluline arvestada ka, et kuidas testitav tarkvara ühildub keskkonna ja jätkusuutliku arengu põhiprintsiipidega. Kursusel tutvutakse tarkvaratestimise protsessiga, kus testitava tarkvara teema valimine käsitleb ka kodanikualgatust ja ettevõtlikkust. Rahvus ja rahvusvahelise temaatikat puudutavad tarkvara testimine, mis käsitlevad kultuurilise identiteedi teemat.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lehekülg <a href=\"https://startupestonia.ee/startup-database/\">https://startupestonia.ee/startup-database/</a> annab ülevaate Eesti startupidest. Selleks, et õpilased saaks laiema pildi IT-valdkonna võimalusest ja nõutud oskustest, oleks soovitatav suunata neid ka teabekeskkonna ja meediakasutuse teemal lugema tarkvaraarenduse ja disainiga seotud uudiseid. Sellega seondub naturaalselt ka tehnoloogia ja innovatsiooni teema.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Informaatikatundides on oluline juba varakult kokkuleppida arvutiklassi reegleid ja selgitada ergonoomilise istumise ja liikumispauside olulisust. Probleemide lahendamisel tuleks suunata õpilasi üksteist aitama ja toetama käsitledes nii väärtuste ja kõlbluse teemat.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÕPPEMEETODID ja -VÕTTED",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuna gümnaasiumikursus “Tarkvara analüüs ja testimine” on kaetud sihtgrupile sobiva õppemateraliga, saab siin kasutada erinevaid õppemeetodeid- olgu selleks siis traditsiooniline tund või ümberpööratud klassiruumi metoodika. Õppematerjal toetab nii traditsioonilise tunni andmist, kus tunnis tutvustatakse uut teemat ja lahendatakse õpetaja abiga väiksemaid ülesandeid kui ka ümberpööratud klassiruumi metoodikat, kus õpilastel on võimalik kodus iseseisvalt tutvuda materjaliga ja valmistuda ette tunniks. Sellisel juhul saab õpetaja tunnis jooksvalt aidata õpilastel minna süvitsi keerukamate nüanssidega kasutades erinevaid aktiivõppe meetodeid. Näiteks saavad õpilased kodus lugeda testimisprotsessi kohta ja valida teemakohased tarkvarad, mida saab tunnis õpetaja abiga süvenenumalt analüüsida.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HINDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tarkvara analüüsi ja testimise kursuse hindamine võib olla arvestuslik- sellisel juhul saab nõuda soovitud ulatuses iseseisvate tööde tegemist teatud tasemel.</p><p>Hindelise kursuse puhul saab õpetaja otsustada, kuidas hinne kujuneb näiteks ülesanneteks jagatud pojekti punktide summana. Soovitaks positiivse tulemuse saamiseks teha ka ettekanne disainitud tarkvara prototüübist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LISAMATERJALID",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/digitaru/testimine/",
+              "title": "https://web.htk.tlu.ee/digitaru/testimine/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

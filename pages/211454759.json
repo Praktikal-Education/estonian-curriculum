@@ -1,0 +1,481 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "3. kursus VÕRRATUSED. TRIGONOMEETRIA",
+      "children": []
+    },
+    {
+      "kind": "section",
+      "title": "Eesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid ning kergemaid mitterutiinseid ülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>arendada õpitegevuse kaudu üld- ja ainepädevusi nii, et õpilane suudaks lahendada keerukamaid ülesandeid, mis võimaldaksid õppekavas kirjeldatud teadmisi ja oskusi rakendada väga heal tasemel.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üld- ja ainepädevused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika kasutamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt ning leida ülesande lahendamiseks sobivad strateegiad. Selleks käsitleda ülesannete lahendamise üldisi strateegiaid;</li><li>suutlikkus põhjendada ja tõestada oma mõttekäike, kusjuures tõestada mitte niivõrd väite tõesuse näitamiseks, kuivõrd aitamaks luua üksikteadmistes süsteemi;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks suunata õpilast esitama iseendale küsimusi: mida ma teen, miks ma nii teen, milleni ma olen jõudnud ning kas tulemus on õige ja kontrollitav.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Eelduskursused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>matemaatika lai</p><p>I kursus (arvuhulgad, avaldise absoluutväärtus, reaalarvude piirkonnad arvteljel, avaldiste lihtsustamine);</p><p>II kursus (võrrandite lahendamine, tekstülesanded).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "VÕRRATUSED ja VÕRRATUSESÜSTEEMID",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab võrratuse omadusi, võrratuse ja võrratusesüsteemi lahendihulga mõistet ning märgib vastavaid lahendihulki arvteljel;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab võrratuste ning nende süsteemide lahendamisel rakendatavaid samasusteisendusi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "lahendab lineaar-, ruut- ja murdvõrratusi ning lihtsamaid võrratusesüsteeme;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võrratus ja selle omadused. Võrratuste samaväärsus. Range ja mitterange võrratus.</p><p>Lineaarvõrratused. Ruutvõrratus. Intervallmeetod. Murdvõrratus. Ahelvõrratus. Võrratusesüsteemid. Võrratusesüsteemide samaväärsus. Võrratuse ja võrratusesüsteemi lahendihulk, selle esitamine arvteljel.</p><p>Lihtsamate tekstülesannete lahendamine võrratuste abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Võrratused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Oluline on, et õpilane oskab tekstiga antud võrratusi kirja panna; teab, mida tähendavad mõisted mittenegatiivne, mittepositiivne, negatiivne, positiivne jms.</p><p>Tuleks käsitleda ka lihtsamaid absoluutväärtust sisaldavaid võrratusi (nii rangeid kui mitterangeid), mis lahenduvad absoluutväärtuse definitsioonile tuginedes. Oluline on, et õpilane saaks neist võrratustest sisuliselt aru ja oskaks lahendihulki märkida ka arvteljel.</p><p>Võib lahendada nn värvimisülesandeid, nt viirutada tasandi piirkond, mis vastab ahelvõrratusele $-4&lt;x\\leq-1$ või võrratusesüsteemile $\\begin{cases}1\\leq x\\leq 3\\\\-1&lt;y&lt;2\\end{cases}$.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Võrratuse lahendamise",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>l tuleb esmalt võrratuses olevad avaldised lihtsustada.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lineaarvõrratuste",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>puhul peab lahendama ka harilikke murde sisaldavaid võrratusi, kus on soovitatav korrutada võrratuse pooled läbi ühise nimetajaga. Peab teadma algebra põhivalemeid (summa ja vahe ruut, ruutude vahe).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ruutvõrratuse",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>lahendamiseks tuleb lahendada vastav ruutvõrrand, skitseerida joonis ja kirjutada jooniselt lahendihulk.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Murdvõrratuse",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>puhul peab meeles pidama, et võrratuse pooli ei tohi läbi korrutada ühise nimetajaga ega mingi muu avaldisega. Õpilane peab mõistma, miks seda teha ei tohi.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Võrratusesüsteemi",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>puhul lahendatakse iga võrratus eraldi lõpuni ja alles seejärel leitakse lahendihulkade ühisosa, mis on süsteemi lahendiks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ahelvõrratuse",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>puhul tuleb näidata selle lahendamist võrratusesüsteemi abil. Lihtsamaid ahelvõrratusi saab lahendada ilma võrratusesüsteemita.</p><p>Ahelvõrratust kasutati ka I kursusel reaalarvude piirkondade (lõik, vahemik) kirjapanekul.</p><p>Kuna põhikoolis võrratusi ei käsitleta, siis peab siin võrratuste lahendamise hästi selgeks saama. Võrratuste lahendamise oskust on vaja funktsioone käsitledes 7.–10. kursusel (nt määramispiirkonna, positiivsus- ja negatiivsuspiirkonna, kasvamis- ja kahanemisvahemike leidmisel jne).</p><p>Võrratuse omadused ja samasusteisendused on vaja väga hästi selgeks saada, eriti võrratuse poolte korrutamine ja jagamine negatiivse arvuga. Hea oleks võrrelda võrrandi ja võrratuse lahendamist ning tuua esile erinevused.</p><p>Ruutvõrratuste puhul võiks arutleda, kuidas lahendada nt võrratusi $(2x-1)^2&gt;9, \\quad (2x-1)&gt;-9, \\quad (2x-1)(x+5)\\geq 0$.</p><p>Õpilased teevad palju vigu mittetäielike ruutvõrratuste lahendamisel, seepärast peab nende lahendamisele erilist tähelepanu pöörama.</p><p>Teatud võrratusi on mõistlik lahendada arutluse teel, nt kui lugeja või nimetaja on reaalarv või mittenegatiivne (mittepositiivne, negatiivne, positiivne), nt $\\dfrac{5-x}{3}&gt;0$ asemele saame $5-x&gt;0$; $\\dfrac{5x-3}{-4}\\leq 0$ asemele saame $5x-3\\geq 0$; $\\dfrac{x^2+3}{4-x}&lt;0$ asemele saame $4-x&lt;0$ jne.</p><p>Soovitatav on lahendada kõrvuti murdvõrrandit ja murdvõrratust, nt $\\dfrac{(x-1)^2}{x+3}=0$ ja $\\dfrac{(x-1)^2}{x+3}&lt;0$, ning arutleda, mille poolest erineb nende lahendamine ning milles seisneb lahendi (lahendihulga) erinevus.</p><p>Õpilased peavad mõtlema ja analüüsima, lahendama ülesannet mitmel viisil ning valima ratsionaalseima lahenduse, et edaspidi hoida kokku ülesande lahendamisaega.</p><p>Lahendada tuleks ka tekstiga esitatud ülesandeid, kus võrratuse peab ise koostama. Näiteks: Leidke kõik muutuja x väärtused, mille korral avaldise $2x^2-4x$ väärtus on mittenegatiivne (positiivne, suurem mingi teise avaldise väärtusest jms). Samuti tuleks lahendada tekstülesandeid/probleemülesandeid ning lasta õpilastel endil elulisi tekstülesandeid koostada.</p><p>Võrratusi ja võrratusesüsteeme lahendades saab kinnistada arvuhulkade tundmist. Näiteks võib küsida vaid lahendihulka kuuluvaid täisarvulisi või naturaalarvulisi lahendeid, positiivseid või mittenegatiivseid täisarvulisi lahendeid, suurimat täisarvulist lahendit jms.</p><p>Võrratuste ja võrratusesüsteemide lahendamine on oluline oskus funktsioonide uurimisel.</p><p>Soovitatav on lahendada võrratusi ka graafiliselt (õpilane teeb ise joonise või kasutab digivahendit).</p><p>Võrratuste lahendusi võib kontrollida digivahendeid kasutades. Samuti saab digivahendeid kasutades selgitada võrratuste ja võrratusesüsteemide geomeetrilist tähendust.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120&sort=publisher_az",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19394-Vorratused-Trigonomeetria-I",
+              "title": "Laia matemaatika 3. kursuse \"Võrratused. Trigonomeetria I\" sisukord, sisaldab 9 kogumikku."
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/iii-kursus-v%C3%B5rratused-trigonomeetria-i",
+              "title": "Õpetajaraamat - III kursus „Võrratused. Trigonomeetria I” (google.com)"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1js3DEOlIlLNrQmJtL6SBAvtQPX7EIZjRRgIsFaONxlw/edit#gid=2027870988",
+              "title": "Sobivaid eestikeelseid Desmose töölehti võib leida"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@Videoops",
+              "title": "Kordamiseks võib kasutada Videoõpsi videosid youtube keskkonnas"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/vorratused_2016.pdf",
+              "title": "TÜ Teaduskooli õppematerjal Võrratused"
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadideks"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.taskutark.ee/vorratus-2/",
+              "title": "Veel õppematerjale"
+            },
+            {
+              "kind": "file",
+              "src": "https://enos.itcollege.ee/~lepikult/Matemaatika-tasanduskursus/vorratused.pdf",
+              "title": "Veel õppematerjale"
+            },
+            {
+              "kind": "file",
+              "src": "https://welovemath.ee/wp-content/uploads/2023/02/Vo%CC%83rrandid-ja-vo%CC%83rratused-2022.pdf",
+              "title": "Veel õppematerjale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeprotsessi diferentseerimine, hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+          "title": "Õppimist toetavast hindamisest täpsemalt"
+        },
+        {
+          "kind": "file",
+          "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/vorratused_2016.pdf",
+          "title": "TÜ Teaduskooli õppematerjal Võrratused"
+        },
+        {
+          "kind": "link",
+          "href": "https://varamu.eu/",
+          "title": "Ettevalmistus olümpiaadideks"
+        },
+        {
+          "kind": "link",
+          "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+          "title": "Matemaatika õhtuõpik"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Võrratuste tõestamine sobib tugevamatele õpilastele. Absoluutväärtust sisaldav võrratus, mille lahendus viib võrratusesüsteemi lahendamisele, sobib samuti tugevamatele õpilastele.</p><p><em>Vt näiteülesandeid lehekülje allosas</em>.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üldpädevuste toetamine, lõiming",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Lõiming teiste ainetega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Bioloogia, inimeseõpetus.</strong> Toitumistabelid, kalorite arv toiduainetes, vitamiinide ja mineraalainete vajadus (vähemalt, mitte rohkem kui, …).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "file",
+          "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+          "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "TRIGONOMEETRIA I",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kasutab lihtsustamisülesannetes trigonomeetria põhiseoseid ja täiendusnurga trigonomeetrilisi funktsioone;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab kalkulaatoril ja digivahendite abil teravnurga trigonomeetriliste funktsioonide väärtused ning nende väärtuste järgi nurga suuruse;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "lahendab täisnurkse kolmnurga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära probleemid, mis on lahendatavad täisnurkse kolmnurga geomeetria abil. Tõlgib need matemaatika keelde, lahendab matemaatiliselt ning tõlgendab ja esitleb saadud tulemusi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teravnurga siinus, koosinus ja tangens ja nende väärtuste järgi nurga suuruse leidmine. Täiendusnurga trigonomeetrilised funktsioonid.</p><p>Trigonomeetrilised põhiseosed täisnurkses kolmnurgas. Trigonomeetriliste avaldiste lihtsustamine. Täisnurkse kolmnurga lahendamine.</p><p>Reaalelulised probleemid, mis on lahendatavad täisnurkse kolmnurga geomeetria abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Põhiseosed $\\sin^2\\alpha+\\cos^2\\alpha=1,\\quad \\tan\\alpha=\\dfrac{\\sin\\alpha}{\\cos\\alpha},\\quad 1+\\tan^2\\alpha=\\dfrac{1}{\\cos^2\\alpha}$ on vaja tõestada või tuletada täisnurkses kolmnurgas.</p><p>Nurkade $30^{\\circ}, 45^{\\circ}, 60^{\\circ}$ siinuse, koosinuse ja tangensi väärtuse peab tuletama, kasutades võrdkülgset kolmnurka ning täisnurkset võrdhaarset kolmnurka.</p><p>Täisnurkse kolmnurga lahendamine tähendab selle külgede pikkuste ja teravnurkade suuruste leidmist. Täisnurkse kolmnurga kaudu peab oskama leida puuduvaid elemente ka teistes õpitud kujundites (nt võrdhaarses kolmnurgas, võrdkülgses kolmnurgas, rööpkülikus, rombis ja trapetsis).</p><p>Samuti peab oskama leida küsitud elemente kujundites, mida saab tükeldada või täiendada nii, et ülesannet saaks lahendada täisnurksete kolmnurkade kaudu.</p><p>Lihtsustamisülesannetes peavad õpilased ära tundma ka seoste teisendusi, nt $1-\\cos^2\\alpha=\\sin^2\\alpha$.</p><p>Põhikoolis on õpitud ainult teravnurga siinuse, koosinuse ja tangensi leidmist. Pöördtehte tegemine (nurga leidmine) vajab korralikku selgitamist ning harjutamist kalkulaatoril.</p><p>Täisnurkset kolmnurka on põhikoolis lahendatud, kuid seda teemat on kindlasti vaja korrata ja kinnistada. Oluline on teatud nurkade ($30^{\\circ}, 45^{\\circ}, 60^{\\circ}$) siinuse, koosinuse ja tangensi täpsete väärtustega arvutamine.</p><p>Õuesõppetundides, matkal või mõnel õppekäigul saab teha mõõtmisi looduses ja kaudset mõõtmist.</p><p>Soovitatav on lahendada elulisi ja praktilisi ülesandeid ning lasta õpilastel ülesandeid koostada (teatud tingimused võib ette anda, nt koostada eluline ülesanne, mille lahendamisel tuleks kasutada Pythagorase teoreemi, teravnurga trigonomeetrilisi funktsioone vms).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19394-Vorratused-Trigonomeetria-I",
+              "title": "Laia matemaatika 3. kursuse \"Võrratused. Trigonomeetria I\" sisukord, sisaldab 9 kogumikku."
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/iii-kursus-v%C3%B5rratused-trigonomeetria-i",
+              "title": "Õpetajaraamat - III kursus „Võrratused. Trigonomeetria I” (google.com)"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1js3DEOlIlLNrQmJtL6SBAvtQPX7EIZjRRgIsFaONxlw/edit#gid=2027870988",
+              "title": "Sobivaid eestikeelseid Desmose töölehti võib leida"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@Videoops",
+              "title": "Kordamiseks võib kasutada Videoõpsi videosid youtube keskkonnas"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/geomeetria_1_baasulesanne.pdf",
+              "title": "Geomeetria baasülesanne"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeprotsessi diferentseerimine, hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+          "title": "Õppimist toetavast hindamisest täpsemalt"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lisaks põhikursusele võib tõestada kolmnurga kõrguse teoreemi ja Eukleidese teoreemi, kui aeg seda võimaldab.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/geomeetria_1_baasulesanne.pdf",
+          "title": "Geomeetria baasülesanne"
+        },
+        {
+          "kind": "link",
+          "href": "https://varamu.eu/",
+          "title": "Ettevalmistus olümpiaadideks"
+        },
+        {
+          "kind": "link",
+          "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+          "title": "Matemaatika õhtuõpik"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em>.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üldpädevuste toetamine, lõiming",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Ainesisene lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sellel kursusel kasutatakse palju põhikoolis õpitut. See võimaldab õpilaste teadmisi ühtlustada ja õppimises tekkinud lünki täita. Samas on selle kursuse materjal väga oluline järgmiste kursuste õppimisel. III kursus on eelduskursus kõigile järgmistele kursustele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming teiste ainetega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Geograafia.</strong> Mõõtmine looduses, kaudne mõõtmine, võrdlemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "file",
+          "src": "https://oppekava.ee//wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+          "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+        },
+        {
+          "kind": "section",
+          "title": "Läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Elukestev õpe ja karjääri kujundamine.</strong> Abstraktse ja loogilise mõtlemise areng.</p><p><strong>Kultuuriline identiteet.</strong> Matemaatika ajalugu, Pythagoras ja Eukleides.</p><p><strong>Kodanikualgatus ja ettevõtlikkus.</strong> Õuesõppetunnid, rühmatöö ja paaristöö, koostööoskuste arendamine.</p><p><strong>Tervis ja ohutus.</strong> Õppekäikude ja õuesõppetundide turvalisus, tervislik toitumine (toiduratsioon, kalorsus, vitamiinid ja mineraalained).</p><p><strong>Väärtus ja kõlblus.</strong> Süstemaatilisuse, püsivuse, täpsuse, korrektsuse ja kohusetunde arendamine.</p><p><strong>Tehnoloogia ja innovatsioon.</strong> Digivahendite kasutamine õppetöös.</p><p><strong>Teabekeskkond ja meediakasutus.</strong> Erinevate andmete otsimine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454759/LAI_MATEMAATIKA_3.%20kursus%20N%C3%A4ite%C3%BClesanded.docx?version=1&modificationDate=1706621741755&api=v2",
+          "title": "LAI_MATEMAATIKA_3. kursus Näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454759/LAI_MATEMAATIKA_3.%20kursus%20N%C3%A4ite%C3%BClesanded.pdf?version=1&modificationDate=1706621741744&api=v2",
+          "title": "LAI_MATEMAATIKA_3. kursus Näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

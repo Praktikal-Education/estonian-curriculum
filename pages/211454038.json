@@ -1,0 +1,822 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Soovitatavalt 12. klassi kursus</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teema: musitseerimine – laulmine, pillimäng, omalooming",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "k asutab musitseerides põhikoolis ja gümnaasiumi jooksul omandatud muusikateadmisi ja -oskusi, sh muusikalist kirjaoskust",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "valib endale meelepärase(d) muusikaga tegelemise viisi(d), hindab oma kogemust ja jagab seda kaaslastega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "laulab ühe- ja/või mitmehäälseid laule klassitunnis, ansamblis ja/või koolikooris",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb laulurepertuaari valimisel ning põhjendab oma valikut",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "väärtustab ja hindab ühislaulmise traditsiooni, on laulupidude traditsiooni edasikandja koorilaulja ja/või kuulajana ning analüüsib kogetut suuliselt ja/või kirjalikult",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "musitseerib erinevates pillikoosseisudes, kasutades põhikoolis omandatud muusikateadmisi ja pillimänguoskusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loob erinevaid muusikast lähtuvaid tekste (regivärss, laulusõnad jm)",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loob ning esitab iseseisvalt ja/või rühmas kaasmänge, rütmilis-meloodilisi improvisatsioone, (digi)kompositsioone, laulusaateid, muuhulgas muusika I kursusel käsitletud muusikavormides jm",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib enda ja kaaslaste loomingut, võrdleb loodut ning annab sellele hinnangu.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Laulmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ol><li>Laulud muusikaloo illustreerimiseks, vokaalsete võimete, esinemisoskuse ning kriitilise mõtlemise arendamiseks ja tundeelu rikastamiseks.</li><li>Ühislaulud (sh põhikoolis omandatud ühislauluvara jm), eesti levimuusika, pop- ja rokkmuusika lauluvara õpilaste huvist lähtuvalt, eesti rahvakalendri ja riiklike tähtpäevadega seotud laulud.</li><li>Põhikoolis omandatud muusikaline kirjaoskus, mille hulka kuuluvad:<ul><li>erinevad helivältused, rütmifiguurid ja pausid,</li><li>neljandiktaktimõõt ja laulurepertuaarist tulenevalt kaheksandiktaktimõõt;</li><li>ühe võtmemärgiga helistikud (ja repertuaarist tulenevalt kahe võtmemärgiga helistikud);</li><li>ühe-, kahe- ja kolmeosaline lihtvorm, rondo, variatsioonivorm;</li><li>bassivõti repertuaarist tulenevalt.</li></ul></li></ol><p>Muusikalise kirjaoskuse hulka kuuluvad ka muusikalised oskussõnad: meloodia, rütm, tempo, tämber, dünaamika, harmoonia, vorm, faktuur jt</p><p>Lauldakse <em>a cappella</em> ja saatega nii kooris, ansamblis kui ka üksi, mille käigus kuuldakse ja kuulatakse nii ennast kui ka teisi. Tutvustatakse laulupeo traditsiooni, kaasatakse õpilasi koolikoori. Lauldakse oma hääle omapära arvestades loomuliku kehahoiu, hingamise, selge diktsiooni, puhta intonatsiooniga ja väljendusrikkalt ning arvestatakse esitatava muusikapala stiili, järgitakse häälehoiu põhimõtteid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Pillimäng",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Pillimängu rakendatakse ühismusitseerimisel, omaloomingu esitamisel ja muusikaloo illustreerimiseks koolis olemasolevate pillidega õpetaja ja/või õpilaste valikul rakendades muusikalist kirjaoskust.</p><p>Süvendatakse põhikoolis omandatud pillimänguoskusi ning avardatakse musitseerimisvõimalusi erinevates pillikoosseisudes.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Muusikaline omalooming",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ol><li>Muusikaloo illustreerimiseks muusika loomine, nt regilaulu ja uuema rahvalaulu teksti ja / või viisi loomine, aleatoorilise heliteose loomine jt.</li><li>Muusikapalade / rütmilis-meloodiliste improvisatsioonide loomine akustiliselt ja / või digitaalselt, nt maalide, raamatute, ajalooliste sündmuste, isikute, muusikalavastuste libretode helindamine.</li><li>Laulusaadete loomine koolis olemasolevate pillidega.</li><li>Omaloomingu katsetused erinevate tehnikate, nt <em>beatbox,</em> <em>vocal percussion,</em> ning rakenduste ja programmidega, nt BandLab, Ableton Live, BeepBox, GarageBand, Musescore, Noteflight, Audacity jt.</li></ol><p>Omaloomingut luuakse ja esitatakse üksi, ansamblis ja/või kõik koos. Katsetatakse julgelt loomeideedega, kasutades muusikalisi osaoskusi (laulmine, pillimäng, muusikaline liikumine) nii eraldi kui ka omavahel lõimitult rakendades õpitud muusikalise kirjaoskuse teadmisi. Omaloomingu meloodia noodistamisel rakendatakse absoluutset noodisüsteemi.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Muusika väljendusvahendid: meloodia, rütm, tempo, tämber, dünaamika, harmoonia, vorm, faktuur jt; hääleaparaat ja häälehoid; <em>a cappella,</em> partituur, muusikažanr ja -stiil, saade, improvisatsioon, libreto, partituur, atonaalne, tonaalne, dodekafoonia, aleatoorika, <em>happening.</em></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd (valik ideid õpetajale)",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Laulmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Ühe- ja/või mitmehäälsete laulude laulmine <em>a cappella</em> või saatega rakendades muusikalist kirjaoskust.</li><li>Lauluvaras on nii III kursuse muusikalugu illustreerivad laulud kui ka eesti levimuusika, pop- ja rokkmuusika lauluvara õpilaste huvist lähtuvalt.</li><li>Põhikoolis omandatud ühislauluvara kordamine, mille kaudu kantakse edasi ühislaulu traditsiooni.</li><li>Osalemine koolikoori tegevuses ja kooli kontserdielus.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Pillimäng",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Eesti rahvalauludele pillisaate loomine.</li><li>Rütmi improviseerimine kehapillil ja rütmipillidel.</li><li>Keha-, rütmi- ja plaatpillidel <em>ostinato</em>'de, kaas-, eel- ja/või vahemängude mängimine.</li><li>Kitarri, ukulele või väikekandle mängimine laulude saateks.</li><li>Digivõimaluste katsetamine pillimängus ja muusika loomisel.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Omalooming",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Regilaulu ja uuema rahvalaulu teksti ja / või viisi loomine, algriimis laulutekstide loomine.</li><li>20. sajandi muusikastiilidega seonduvalt nt paberimuusika, hääleimprovisatsioonide, stompide, dodekafoonilise helirea (algkuju, vähikäik, peegel, peegli vähikäik), aleatoorilise heliteose loomine või muusikalise <em>happeningi</em> lavastamine.</li><li>Omaloomingu loomine vokaalselt, instrumentaalselt ja/või digitaalselt, rakendades muusikalist kirjaoskust.</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Musitseerimisega arendatakse õpilase eneseväljendamise oskust. Eesmärgiks on mõista muusika rolli kultuuris – väärtustada ühislaulmise, kooriliikumise ning laulupidude traditsiooni sotsiaal-poliitilist olemust ja muusikahariduse tähendust; arendada muusikaoskusi, avardada muusikaga tegelemise viise ning toetada elukestva muusikaharrastuse teket.</p><p>Laulmine, pillimäng ja omalooming on olulised muusikaloo illustreerimiseks, teisalt võivad need olla ka iseseisvad tegevused muusikaõppes. Laulmisega arendame õpilaste vokaalseid võimeid ja laulude tekstide analüüsimisega kriitlist mõtlemist ning rikastame tundeelu. Pillimäng arendab muusikalisi võimeid, emotsionaalsust, kontsentratsioonivõimet, kuulamisoskust, ansamblitunnetust ja esinemisjulgust. Muusikaline omalooming võimaldab omandatud teadmiste ja oskustega, sh muusikalise kirjaoskusega eksperimenteerida ning rakendada neid muusikalistes kompositsioonides.</p><p>Musitseerimisel kasutatakse kõiki põhikoolis omandatud teadmisi, sh muusikalist kirjaoskust.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Laulmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ol><li>Laulu õpetamise peamised meetodid gümnaasiumis:<ul><li>kuulmise järgi;</li><li>noodi järgi;</li><li>kombineeritud meetodi järgi.</li></ul></li><li>Laulmisel ja hääle arendamisel pöörata tähelepanu õigele hingamisele, loomulikule ja pingeta häälemoodustamisele, selgele diktsioonile, hääle kõlaühtluse ja puhta intonatsiooni arendamisele <em>a cappella</em> laulmisel, õige kehahoiu taotlemisele, häälehoiu põhimõtete selgitamisele.</li><li>Olulisel kohal on võimetekohane mitmehäälne laulmine.</li><li>Diferentseeritud töö: arvestada ja arendada õpilaste vokaalseid võimeid üksi ning rühmas lauldes (solistid, ansamblid, koor).</li></ol>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Pillimäng",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ol><li>Rakendada ja kinnistada põhikoolis omandatud Orffi ja Dalcroze’i pedagoogika aluseid, muusikalist kirjaoskust, musitseerides üksi ja eri pillikoosseisudes.</li><li>Musitseerida põhikoolis mängitud pillidel (plokkflööt, väikekannel, kitarr ja/või ukulele jne), kasutades omandatud mänguvõtteid.</li><li>Väärtustada pärimuskultuuri edasikandmist ja -arendamist tutvustades eesti rahvapille, kaasates pille esitlema pärimusmuusikat õppivad õpilased.</li><li>Kasutada lihtsaid, eredailmelisi, meeldejäävaid ning ka tehniliselt kergesti mängitavaid ja/või korduvaid motiive.</li><li>Meloodia mängimisel kasutada tähtnimesid, seostades need nootide asukohaga noodijoonestikul ja/või klaviatuuril. Arendada oskust eristada helide helikõrguslikku järjestust, helivältusi ja helilaade.</li><li>Musitseerimisel kasutada ka rakendusi (näiteks Perfect Piano jt).</li><li>Koosmusitseerimisel kasutada aktiivõppemeetodeid: individuaalne, paaris- ja rühmatöö, demonstratsioon jt. Uurida ja katsetada musitseerides pillide tämbrilisi omadusi, valides sobivad pillid ansamblisse ja /või bändi. Põhjendada tehtud valikut. Kasutada erinevaid pille, mis rikastavad kõlavärvide-tämbrite tajumist ja eristamist (näiteks oma rütmi või meloodia loomine ja esitamine).</li><li>Pillisaadetega õpitakse selgeks, kinnistatakse vajalikud ja omandatakse uued muusikamõisted, näiteks tonaalsus-atonaalsus, dodekafoonia, kromaatiline helirida, dissonants, konsonants jt.</li><li>Anda võimalus muusikaliselt võimekamatele õpilastele rakendada musitseerimisel omandatud teadmisi ja oskusi.</li><li>Suunata õpilasi pöörama tähelepanu pillide korrashoiule, hooldamisele ja puhastamisele.</li></ol>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Omalooming",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ol><li>Loomupärase loovuse avanemiseks ja arenemiseks on oluline luua keskkond, kus õpilane tunneb end turvaliselt.</li><li>Ülesannet diferentseerida vastavalt õpilaste võimetele ja oskustele, õpilastele antud ülesanne olgu selgete juhistega.</li><li>Laulusõnade loomisel jälgida teksti rütmistamise põhimõtteid, regivärsi loomisel 8-silbilist värsirida ja algriimi. Teksti sisu koostamisel järgida mõtte terviklikkust.</li><li>Omaloomingut saab luua mitmekesiste vahenditega: kehapillil, rütmipillidel, plaatpillidel, akustilistel pillidel, digirakendustel jm kasutades õpitud teadmisi lähtudes näiteks Orff-pedagoogikast.</li><li>Muusika väljendusvahendite ja meeleolu edastamiseks ning omaloomingulise liikumiskompositsiooni ettevalmistamiseks ja esitamiseks kasutada loovliikumist lähtudes näiteks Jaques-Dalcroze`i pedagoogikast.</li><li>Kasutada aktiivõppe meetodeid: individuaalne, paaris- ja rühmatöö, demonstratsioon jt.</li><li>Õpilase looming on väärtuslik ja sellesse tuleb suhtuda lugupidavalt.</li></ol>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised artiklid ja materjalid inspiratsiooniks õpetajale",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "http://www.digar.ee/id/nlib-digar:253806",
+                  "title": "Muusikaõpetuse didaktika. Valik artikleid. Koostanud Kristi Kiilu, Anu Sepp. (2014)."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://oppekava.ee/loovus-gumnaasiumiastmes/",
+                  "title": "Loovus gümnaasiumiastmes. Kadi Härma (2010)."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://oppekava.ee/loovus-muusikatunnis/",
+                  "title": "Loovus muusikatunnis. Tauno Aints (2010)."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://oppekava.ee/pillimangust-muusikatunnis-2010/",
+                  "title": "Pillimängust muusikatunnis. Liivi Urbel (2010)."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://oppekava.ee/vaikekandle-manguvotete-opetamine-klassitunnis/",
+                  "title": "Väikekandle mänguvõtete õpetamine klassitunnis. Pille Karras (2011)."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.musictheory.net/",
+                  "title": "Musictheory – online solfedžo treening (2000-2016)."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sisuloome.e-koolikott.ee/node/16598",
+                  "title": "Luuper – instrument või mänguasi. Arno Tamm (2020)."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://tludigikonkurss.tilda.ws/materjalid",
+                  "title": "Digitaalse audiovisuaalse loomingu konkursi materjalid. Tallinna Ülikool."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@PasstheSound",
+                  "title": "Kehapill. Pass the Sound."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.bodypercussionclassroom.com/",
+                  "title": "Kehapill klassiruumis. Body Percussion Classroom."
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=xJXnfkU483c&amp;ab_channel=AndrasOstrom"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@WORLDDRUMCLUB",
+                  "title": "Rütmipillide mänguvõtted. WORLD DRUM CLUB."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@musication",
+                  "title": "Rütmi-, plaat- ja kehapilli mängimine saatega erinevatele kooliastmetele. Musication."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara õpilasele",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.folk.ee/noodikogu/",
+              "title": "Pärimusmuusika noodikogu."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/465/chapter/25292",
+              "title": "Eesti Pärimusmuusika Keskuse õppevideod. (tasuta)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/465/",
+              "title": "Eesti Pärimusmuusika Keskuse õppevideod. (tasuta)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/465/chapter/25281",
+              "title": "Väikekannel ja väikekandle mängutehnikad. Aime Reier. (tasuta)"
+            },
+            {
+              "kind": "link",
+              "href": "https://mt.ema.edu.ee/",
+              "title": "Muusikateooria õpik. Kerri Kotta (2020)."
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/en/oppematerjal/18751-Muusika-kompositsiooniopetus",
+              "title": "Muusika kompositsiooniõpetus. Andrus Kallastu, Indrek Palu (2018)."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eesti.ee/et/ettevotlus/intellektuaalse-omandi-kaitse/autorioiguse-kaitse#autorioigus",
+              "title": "Autoriõiguse kaitse."
+            },
+            {
+              "kind": "link",
+              "href": "https://intellektuaalomand.ee/",
+              "title": "Intellektuaalomand. Projektijuht Virgo Sillamaa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teema: muusika kuulamine ja muusikalugu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "leiab seoseid paikkonna, Eesti ja Euroopa muusikakultuuri vahel",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab Eesti heliloojaid, interpreete, dirigente, ansambleid, orkestreid ja muusika suursündmusi",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb eesti pärimusmuusikat, rahvusliku muusikakultuuri sünni- ja arengulugu ning loob seoseid Eesti muusikakultuuri mineviku ja nüüdisaja vahel",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb käsitletud ajastute (keskaja, renessansi, baroki, klassitsismi, romantismi, 20. sajandi) üldkultuurilist tausta",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loob seoseid varasemate aegade ja nüüdisaja muusikakultuuri vahel ning mõistab muusika rolli eri ajastuil",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab ja võrdleb muusikanäidete varal eri ajastute muusikat",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "põhjendab oma arvamust, toetudes teadmistele ning muusika oskussõnavarale",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab infot allikakriitiliselt: koostab essee, referaadi, muusikaürituse arvustuse või lühiuurimuse, kasutades infotehnoloogia ning digivõimalusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb valiku muusikaga tegelemise võimalustest, seostab muusikat enda vaimse, füüsilise ja emotsionaalse heaoluga, teab muusikaga seonduvaid elukutseid ning õppimisvõimalusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "väljendab oma arvamust ning analüüsib kuulatud ja/või virtuaalseid muusikaüritusi ja õppekäike, rakendades omandatud teadmisi ning muusikasõnavara",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab muusikat kuulates digikeskkondi ja -rakendusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab autorikaitse seadust ja järgib seda muusikategevustes.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Pärimusmuusika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Folkloor, regilaul ja regilaulu liigid, rahvapillid, rahvatantsud, uuem rahvalaul, laulumängud. Pärimusmuusika seosed nüüdisajaga. Muusikanäited eesti pärimusmuusikast.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Rahvuslikkuse kujunemine Eesti muusikas",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Koorikultuuri ja laulupidude traditsiooni kujunemine ning seosed nüüdisajaga. Esimesed rahvuslikud heliloojad. Muusikanäidete valik järgmiste heliloojate loomingust: Aleksander Kunileid, Friedrich Saebelmann, Karl August Hermann.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "20. sajandi I poole muusikastiilid ja suunad (hilisromantism, impressionism, ekspressionism, neoklassitsism)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Ajastu kultuurilooline taust ja muusika väljendusvahendid. Muusikastiile tutvustatakse muusika kuulamise kaudu valikuliselt järgmiste heliloojate loomingust: Gustav Mahler, Richard Strauss, Claude Debussy, Maurice Ravel, Igor Stravinski, Arnold Schönberg jt.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Eesti professionaalse muusikakultuuri kujunemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>20. sajandi I poole muusikastiilide ja suundade mõjud Eesti heliloojate loomingus.</strong> Eesti esimesed professionaalsed heliloojad ja muusikud, esimesed sümfoonilised ja vokaalsümfoonilised suurteosed eesti muusikas. Rahvusliku helikeele kujunemine koorimuusikas, vokaal- ja instrumentaalmuusikas ning lavamuusikas. Muusikanäidete valik järgmiste heliloojate loomingust: Miina Härma, Mihkel Lüdig, Rudolf Tobias, Artur Kapp, Mart Saar, Cyrillus Kreek, Heino Eller, Evald Aav, Eduard Tubin jt.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ülevaade 20. sajandi II poole muusikastiilidest ja -suundadest (avangardism, postmodernism)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Muusikastiile tutvustatakse muusika kuulamise kaudu valikuliselt järgmiste heliloojate loomingust: John Cage, Pierre Boulez, Karlheinz Stockhausen, Steve Reich, Philip Glass jt.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Eesti muusika ja muusikaelu 20. sajandi II poolel",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>20. sajandi II poole muusikasuundade peegeldused eesti koori- ja instrumentaalmuusikas. Uued suunad 21. sajandil.</strong> Rahvuskultuuri kaotused 1940-1955, süvamuusika arengusuunad nõukogude okupatsiooni tingimustes, laulev revolutsioon, muusika taasiseseisvunud Eestis. Muusikanäited valikuliselt järgmiste heliloojate loomingust: Eduard Tubin, Gustav Ernesaks, Veljo Tormis, Ester Mägi, Eino Tamberg, Jaan Rääts, Arvo Pärt, Lepo Sumera, Raimo Kangro, Alo Mattiisen, Urmas Sisask, Erkki-Sven Tüür, Peeter Vähi, Sven Grünberg, Helena Tulve, Tõnu Kõrvits, Pärt Uusberg, Jüri Reinvere, Alisson Kruusmaa jt.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rahvamuusika, pärimusmuusika, kunstmuusika, regilaul, regivärss, uuem rahvalaul, vaimulik rahvalaul, rahvapillid, <em>liedertafel</em>`i-stiil, rahvusromantism, rahvuslik ärkamisaeg, laulupidu, hilisromantism, impressionism, neoklassitsism, ekspressionism, avangardism, postmodernism, minimalism, pluralism, eklektika, atonaalsus, tonaalsus, aleatoorika, dodekafoonia, kromaatiline helirida, dissonants, konsonants, <em>happening</em> ja <em>perfomance</em> (tegevuskunst), elektronmuusika, klaster, multimeedia, tintinnabuli, nüüdismuusika, tegevuskunst, popmuusika, levimuusika, süvamuusika.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd (valik ideid õpetajale)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Eesti laulumängude ja seltskonnatantsude mängimine ja tantsimine.</li><li>Eesti rahvamuusika muusikanäidete eristamine, iseloomustamine, võrdlemine nii üksi, paaris kui rühmatööna, oma arvamuse põhjendamine.</li><li>Projektülesanne: regilaulule animatsiooni loomine.</li><li>Loovprojekt paaris- või rühmatööna: eesti helilooja loomingut tutvustava taskuhäälingu loomine.</li><li>Pärimuse kogumine (nt perekonna jõulutraditsioonide kohta).</li><li>Muusika kuulamistestid.</li><li>20. ja 21. sajandi muusikastiilide ning nende peegelduste eristamine eesti heliloojate loomingus; muusikanäidete iseloomustamine, võrdlemine nii üksi, paaris kui rühmatööna, oma arvamuse põhjendamine.</li><li>Eesti muusikaloo ajatelje loomine, eesti heliloojate loomingu võrdlemine erinevatel ajaperioodidel muusikanäidete varal (rahvuslik ärkamisaeg, professionaalse muusikakultuuri kujunemine 20. sajandi I poolel, nõukogude okupatsioon – stalinism, sulaaeg, stagnaaeg, laulev revolutsioon, taasiseseisvunud Eesti).</li><li>Õppekäigud muusikaga seotud paikadesse: teatrid, kontserdisaalid, kirikud, muuseumid, sh kodukohaga seotud kultuuriväärtuslikud ehitised, asutused jt (sh virtuaalsed)</li><li>Arvamuse avaldamine / arvustuse kirjutamine muusikaürituse (kontsert, muusikalavastus) ja / või õppekäikude kohta.</li><li>Lõiminguprojekt teiste ainetega: ajarännak 1869 <a href=\"https://www.erm.ee/et/content/ajarannak-1869\">siin</a> või ajarännak 1991 <a href=\"https://www.erm.ee/et/content/ajar%C3%A4nnak-1991\">siin</a>.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "„Eesti muusikalugu“",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>„Eesti muusikalugu“ on esitatud kompaktse kursusena, et õppijal kujuneks tervikpilt eesti muusika arengust, samaaegselt võimaldab see seoseid luua Euroopa ja muu maailma muusika- ja kultuurilooga.</p><p>Kursuse esimene teema on <strong>pärimusmuusika</strong>, milles on meie kultuuri juured. Teema käsitlemisel pöörata tähelepanu ka tänapäevasele pärimusmuusikale, tutvustada ansambleid, artiste, festivale ja pärimusmuusika õppimisvõimalusi.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Rahvuslikkuse kujunemine Eesti muusikas",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Teema tutvustab koorikultuuri ja laulupidude traditsiooni kujunemist ning esimesi heliloojaid. Laulupeo ja ärkamisaegsete heliloojate teemat saab seostada laulva revolutsiooniga, Alo Mattiiseni loominguga (&quot;Viis ärkamisaegset laulu&quot;) ning laulupeoliikumisega kaasajal. Karl August Hermanni välja antud &quot;Laulu ja mängu lehte&quot; saab kõrvutada muusikaajakirjandusega tänapäeval. Peterburi konservatooriumi ja selle lõpetanud eesti esimeste muusikute teema võimaldab arutleda kõrgema muusikahariduse omandamise võimaluste üle 20. ja 21. sajandil.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "20. sajandi I poole muusika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>20. sajandi I poole muusika tutvustamisel anda ülevaade ühiskondlikest suundumustest ja muusikastiilidest <strong>(hilisromantism, impressionism, neoklassitsism ja ekspressionism)</strong>, stiilile omastest joontest olulisimate esindajate muusikanäidete varal ning luua <strong>seosed eesti professionaalse muusikakultuuri kujunemisega</strong>, uute žanrite lisandumisega eesti muusikasse. Alates Rudolf Tobiasest on eesti muusikas märgata tugevaid mõjutusi Euroopas 20. sajandil esinenud muusikastiilidest, sestap on heliloojate edasisel tutvustamisel hea arutleda ja analüüsida, kuidas ühelt poolt iseloomustab nende loomingut rahvuslikkus kas rahvaviiside või nende intonatsioonide kasutamises ja teiselt poolt avaldavad helikeelele mõju moodsad muusikastiilid (nt kõrvutada hilisromantism-Mahler-Tobias, impressionism-Debussy-Eller, ekspressionism-Schönberg-Saar-Tubin, neoklassitsism Stravinski-Tubin jne). Lisaks saab juhtida tähelepanu heliloojate omavahelisele seotusele ja vastastikusele mõjule (õpetaja–õpilane–sõber–eeskuju), põlvkondlikule järjepidevusele (nt Tobias-Eller-Tubin-Pärt jt) ning märgata heliloojate stiilipöördeid ja stiilide segunemisi nende loomingus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "20. sajandi II poole muusika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>20. sajandi II poole muusika käsitlemisel alustada rahvuskultuuri kaotustest 1940–1955 (muusikute saatusest II maailmasõja päevil, nõukogude okupatsiooni mõjust eesti rahvuskultuurile, Gustav Ernesaksa rollist nõukogudeaja laulupeoliikumises) ning jätkata süvamuusika arengusuundade tutvustamisega nõukogude okupatsiooni tingimustes. Kõrvalepõikena tutvustada avangardismi ja postmodernismi ning vaadelda nende peegeldusi eesti heliloojate loomingus (nt Arvo Pärdi, Veljo Tormise, Eino Tambergi jt loomingus). Arutleda heliloojate ühiskonnakriitiliste teoste sõnumi üle stagnaajal ja laulva revolutsiooni perioodil (nt Arvo Pärdi, Veljo Tormise, Alo Mattiiseni jt loomingu näitel).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "21. sajandi eesti muusika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>21. sajandi eesti muusika tutvustamisel pöörata tähelepanu muusikaelu mitmekesisusele, globaliseeruva maailma mõjudele, digitehnoloogia võimalustele ja heliloojate loomingu stiililisele mitmekesisusele. Tutvustada esinduskollektiive, interpreete ja süvamuusika festivale.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Muusika kuulamine ja muusikalugu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Muusika kuulamine ja muusikalugu moodustavad ühtse terviku ning seda tuleb vaadelda laiemalt, luues seoseid kultuuri, visuaalse kunsti ja ajalooga. Muusikaloo teemasid käsitleda aktiivõppemeetodite (nt ajurünnak õpilaste eelteadmiste välja selgitamiseks, TTS – Tean / Tahan teada / Sain teada, pildi sisse minek, võimalikud laused / põhiterminid / võtmesõnad, pressikonverents, intervjuud jt) ja muude praktiliste tööde kaudu. Suunata õpilasi õppeprotsessis infot otsima ja kriitiliselt hindama leitud teabe usaldusväärsust, koostööd tegema digikeskkondades, uut sisu looma ja probleemile lahendusi leidma. Kujundada õpilastes kriitilist suhtumist infotehnoloogiasse (sh tehisintellekti) ja meedia loodud keskkonda. Erinevate ajastute muusika kuulamisel ja muusikasündmuste üle arutlemisel tähtsustub analüütilise mõtlemise oskus: muusika tõlgendamine ja mõtestamine, oma arvamuse väljendamine ning selle argumenteeritud põhjendamine, toetudes teadmistele ja muusika oskussõnavarale.</p><p>Kogu õppeprotsessi aluseks on aktiivse üldise kuulamisoskuse arendamine. Muusika kuulamiseks valida kvaliteetne esitus. Lühidalt tutvustada heliloojat ning esitajat. Helilooja elulugu tutvustada juhul, kui see on vajalik käsitletava teose mõistmiseks. Järgida autorikaitse nõudeid. Teemade kokkuvõtteks ja kinnistamiseks on sobiv teha muusika kuulamistöö kas muusikastiilide või heliloojate loomingu tundmise peale. Suunata õpilasi jälgima muusikalisi kujundeid, iseloomustama muusika väljendusvahendeid, ära tundma muusikapala vormi. Muusika kuulamisülesanne seada vastavalt muusika kuulamise eemärgile. Muusika kuulamise visuaalne toetamine oleneb kuulamise eesmärgist ja ülesandest, liigne visualiseerimine hajutab tähelepanu kuulamiselt.</p><p>Muusika kuulamisprotsessi ülesehitus on sama, mis põhikooliski:</p><ul><li>lühike sissejuhatav osa – häälestus, meeleolu loomine (luuletus, pildid, fakte heliloojast ja teose loomisest; sissejuhatav vestlus, mis annab toetuspunktid muusika kuulamiseks (näiteks teema(de) tutvustamine, iseloomulik rütmifiguur, soleeriv pill, esituskoosseis jne), kuulamisülesande esitamine;</li><li>muusika kuulamine – aluseks kuulamisülesanne;</li><li>kuulamisjärgne arutelu/vestlus – muljete, emotsioonide kirjeldamine, muusikapala analüüs (nt võib esmalt ka paaris arutada ja seejärel klassiga jagada), õpetaja kokkuvõte;</li><li>kordav kuulamine – gümnaasiumiastmes ajastut kokkuvõttev muusika kuulamistöö. Õpilastele võib anda ka iseseisvalt kuulamiseks kuulamiskava.</li></ul><p>Tunnis kuulatavate muusikakatkendite arvuga ei tasu liialdada. Liiga lühikesed ja rohkearvulised näited muudavad meeleolu rahutuks ja killustavad tundi. Tunnis võiks olla üks pikem muusikanäide (5–9 min) ja mõned lühemad katkendid (à 2–4 min). Vahetevahel peaks püüdma teoseid terviklikult käsitleda, et õpilased saaksid ettekujutuse teosest kui tervikust ja õpiksid süvenenult kuulama. Pikemate muusikanäidete puhul on eriti oluline õpetaja sissejuhatav vestlus ja õpilastele esitatud kuulamisülesanne.</p><p>Osade muusikalugu illustreerivate teostega tutvuda musitseerimise teel. Kasutada diferentseeritud õppeülesandeid, arvestades õpilaste individuaalsust. Anda muusikaliselt võimekamatele õpilastele võimalus esineda klassikaaslastele pillil, mida nad õpivad.</p><p>Kultuurikogemuse ja vahetu muusikaelamuse saamiseks külastada õpilastega kontserte või muusikaetendusi vähemalt kord kursuse vältel. Silmaringi ja teadmiste avardamiseks on veel teisigi võimalusi: nt korraldada kohtumisi kodupaiga, aga ka Eesti tuntud heliloojate või interpreetidega, käia õppekäikudel muusikaõppeasutustes, stuudiotes, raamatukogus, jt muusikaga seotud asutustes või osaleda muuseumide haridusprogrammides. Õppekäikudel kogetut analüüsida nii suuliselt kui ka kirjalikult muusika oskussõnavara kasutades. Suunata õpilasi märkama ja võimalusel külastama muusika suursündmusi.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised artiklid ja materjalid inspiratsiooniks õpetajale",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "http://www.digar.ee/id/nlib-digar:253806",
+                  "title": "Muusikaõpetuse didaktika. Valik artikleid. Koost. Kristi Kiilu, Anu Sepp (2014)."
+                },
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee//wp-content/uploads/2016/10/Anu_Sepp_aktiiv%c3%b5pe.pdf",
+                  "title": "Aktiivõppe rakendamise võimalusi muusikaõpetuses. Anu Sepp (2010)."
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sisu.ut.ee/aktiivope/avaleht",
+                  "title": "Aktiivõppe meetodid e-õppes."
+                },
+                {
+                  "kind": "file",
+                  "src": "https://www.tlu.ee/opmat/meetodid/oppemeetodid.pdf",
+                  "title": "Õppemeetodid kõrgkoolis. Mari Karm (2013)."
+                },
+                {
+                  "kind": "video",
+                  "src": "https://youtu.be/DyXkt5DscLU?si=_hP9AQ9OgQqd5n1u"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@medicitv",
+                  "title": "Klassikamuusika videod Medici TVst"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@WienerStaatsoperWeb/videos",
+                  "title": "Viini Riigiooperi lavastuste videod"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@RoyalOperaHouse/featured",
+                  "title": "Londoni Kuningliku Ooperi lavastuste videod"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@metopera",
+                  "title": "MET Ooperi lavastuste videod"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@ClassicFMOfficial/featured",
+                  "title": "Classic FM videod"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@CmuseOrg",
+                  "title": "CMUSE videod"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.cmuse.org/",
+                  "title": "CMUSE"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.cmuse.org/",
+                  "title": "CMUSE"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@norwchamberorch/featured",
+                  "title": "Norra Kammerorkestri videod"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@HALIDONMUSIC/featured",
+                  "title": "Halidonmusic videod"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@classicalmuseum7369",
+                  "title": "Suurte heliloojate elulood"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@LOFTmusicChannel/featured",
+                  "title": "LOFTmusic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara õpilasele",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18747-Rahvuslikkus-muusikas",
+              "title": "Rahvuslikkus muusikas."
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18748-20-ja-21-sajandi-muusika",
+              "title": "20. ja 21. sajandi muusika."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/ee/index",
+              "title": "Eesti rahvamuusika antoloogia."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.folk.ee/meist/regilaulu-podcast",
+              "title": "Regilaulu podcast."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/465",
+              "title": "Eesti Pärimusmuusika Keskuse õppevideod."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/465/",
+              "title": "Eesti Pärimusmuusika Keskuse õppevideod. (tasuta)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.leigarid.ee/viron-vakka/",
+              "title": "Viron vakka. 105 eesti rahvatantsu. Videomaterjalid."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.erm.ee/et/vanaemalood",
+              "title": "Vanaema lood. Eesti Rahva Muuseum."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ajaloomuuseum.ee/naitused/virtuaalnaitused/rahvapillide-helinaiteid",
+              "title": "Virtuaalnäitus Rahvapillide helinäiteid."
+            },
+            {
+              "kind": "link",
+              "href": "https://pilliportaal.kultuur.ut.ee/",
+              "title": "Pilliportaal."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.emic.ee/",
+              "title": "Eesti Muusika Infokeskus."
+            },
+            {
+              "kind": "link",
+              "href": "https://opetaja.edu.ee/eesti_muusika/files/index.htm",
+              "title": "Eesti muusika multimeedia-leksikon."
+            },
+            {
+              "kind": "link",
+              "href": "https://sa.laulupidu.ee/laulupeod-1869-2009/",
+              "title": "Üldlaulupeod 1869-2019."
+            },
+            {
+              "kind": "link",
+              "href": "https://2019.tartulaulupidu.ee/video-ajastukontsert-1869-ometi/",
+              "title": "Ajastukontsert 1869 Ometi (2019)."
+            },
+            {
+              "kind": "link",
+              "href": "https://2019.tartulaulupidu.ee/video-ajastukontsert-1919-ometi/",
+              "title": "Ajastukontsert 1919 Ometi (2019)."
+            },
+            {
+              "kind": "link",
+              "href": "https://2019.tartulaulupidu.ee/video-ajastukontsert-1969-ometi/",
+              "title": "Ajastukontsert 1969 Ometi (2019)."
+            },
+            {
+              "kind": "link",
+              "href": "https://virtuaalne.ajaloomuuseum.ee/HeinoEller/",
+              "title": "Virtuaalnäitus Heino Eller."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ajaloomuuseum.ee/naitused/virtuaalnaitused/igatsusest-sundinud-elusumfoonia-eduard-tubin",
+              "title": "Virtuaalnäitus Igatsusest sündinud elusümfoonia. Eduard Tubin."
+            },
+            {
+              "kind": "link",
+              "href": "https://eduardtubin.com/",
+              "title": "Eduard Tubina Virtuaalkeskkond."
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ouU2JSc-g9U&amp;fbclid=IwAR27YEEegqdsTMD9TcigjSgYUapw3QFQYzu40mSpWmkJJPeA0Z3s5Qu4x3o"
+            },
+            {
+              "kind": "link",
+              "href": "https://etunnid.tagasikooli.ee/e-tund/kes-oli-gustav-ernesaks/",
+              "title": "Kes oli Gustav Ernesaks? Tagasi kooli e-tund."
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1RSmQv35DKFf6js2hG_mvh8x9yLsBu5_6K8g5s8Ax_sM/edit?usp=sharing",
+              "title": "Hakkame, mehed, minema"
+            },
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/video/vaata/hakkame-mehed-minema",
+              "title": "Veiko Tubina ja Andra Teede lavastus Hakkame, mehed, minema. ERR (2019)."
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=DqUJAhs9HMo&amp;fbclid=IwAR1_-17cwNRtUmlYxGoPS0wIdT8UHX8DGWa1xwZcemXRJKjjV03dDeac7C4"
+            },
+            {
+              "kind": "link",
+              "href": "https://veljotormis.com/et/",
+              "title": "Veljo Tormise Virtuaalkeskus."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.arvopart.ee/",
+              "title": "Arvo Pärdi Keskus."
+            },
+            {
+              "kind": "link",
+              "href": "http://www.festivals.ee/Avaleht_700",
+              "title": "Festivalid Eestis."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ajakirimuusika.ee/",
+              "title": "Ajakiri Muusika."
+            },
+            {
+              "kind": "link",
+              "href": "https://concert.ee/meist/ajakiri-aplaus/",
+              "title": "Eesti Kontserdi ajakiri Aplaus."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/channel/UC7XG4VtNcU5KLKuI19uqMlw",
+              "title": "Muusikateater - Rahvusooper Estonia videod."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@vanemuine1870/featured",
+              "title": "Teater Vanemuine videod."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.vanemuine.ee/teater/repertuaar-rubriiklavastuste-arhiiv/",
+              "title": "Teater Vanemuine lavastuste arhiiv."
+            },
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/",
+              "title": "ERR audio- ja videoarhiiv."
+            },
+            {
+              "kind": "link",
+              "href": "https://klassikaraadio.err.ee/",
+              "title": "Klassikaraadio."
+            },
+            {
+              "kind": "link",
+              "href": "https://klassikaraadio.err.ee/arhiiv/jarjehoidja",
+              "title": "Järjehoidja (Tiia Järgi loengud muusikast ja kultuurist)."
+            },
+            {
+              "kind": "link",
+              "href": "https://klassikaraadio.err.ee/arhiiv/nyyd",
+              "title": "NYYD-muusika."
+            },
+            {
+              "kind": "link",
+              "href": "https://erso.tv/erso",
+              "title": "ERSO kontserdisalvestised."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.epcc.ee/kontserdisalvestused/",
+              "title": "Eesti Filharmoonia Kammerkoori kontserdisalvestused."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@EMTAVIDEO/videos",
+              "title": "EMTA videokanal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

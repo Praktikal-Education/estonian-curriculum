@@ -1,0 +1,114 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse koostamisel on lähtutud kutsestandardis „Raamatupidaja, tase 5“ esitatud kompetentsidest (finantsarvestus, juhtimisarvestus), piiritledes käsitlust perekonna kui majandusüksuse majandustegevuse planeerimise ja korraldamisega. Samuti on arvestatud gümnaasiumi riikliku õppekava lisades 3 (matemaatika valdkonnakava) ja 10 (majandus- ja ettevõtlusõppe valikkursus) esitatut.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Juba üsna varajases eas on mitmed olulised küsimused seotud rahaga. Mis on raha, mida ja kui palju selle eest osta saab? Edasi tulevad küsimused, et kuidas tekivad sissetulekud, kuidas raha kasvatada ja kui palju sissetulekutest peab maksudena riigile loovutama. Kursusel antakse algteadmised pere kui majandusüksuse majandamisest, riskide maandamisest raha kasvatamisel ning eraisiku kohustustest riigi ees, arvestades majanduse toimimist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursus annab vajalikud eelteadmised jätkukursuseks ettevõtlusõpe ja ka kutsehariduses õpetatavatel erialadel (raamatupidaja, väikeettevõtja, turundusspetsialist jt) jätkamiseks, kus on vaja baasteadmisi majandusest, sh tuludest ja kuludest.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kuna majandus põhineb enamasti loogikal ja ka nö „talupojamõistusel“, siis selle eelduseks on loogiline mõtlemine, mistõttu on kursuse kohustuslik teema erialaste matemaatika- ja loogikaülesannete lahendamine, s.o protsentarvutus, ristkorrutis ja võrrandid, mis on vajalikud töötasude ja käibemaksu arvestamisel. Samuti tehted pikkus-, pindala-, mahu- ja kaaluühikutega, mis on hädavajalikud kodumajapidamises ning finants- ja maksuarvestuses.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse käigus omandatut on võimalik edasi arendada, jätkates õpinguid erinevatel maksuarvestuse ja maksunduse erialadel (avaliku sektori asutuse finantsist, maksuspetsialist, raamatupidaja), mida on võimalik õppida kutseõppeasutustes.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>tunneb majanduse, finants- ja maksuarvestuse olulisemaid mõisteid ja põhimõtteid ning rakendab omandatud teadmisi perekonna kui majandusüksuse majandustegevuse planeerimisel ja korraldamisel;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>omab ülevaadet majandusarvestuse ja maksunduse valdkonnas edasiõppimise võimalustest ja tööturul vajalikest kompetentsidest.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "kirjendab ja dokumenteerib lihtsamaid igapäevaste toimingute käigus toimunud majandussündmusi perekonnas;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõik õppeteemad algavad teoreetilise sissejuhatusega, millele järgneb praktiliste ülesannete lahendamine grupis ja/või iseseisvalt.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>erialased arvutusülesanded (2 tundi): matemaatika tekst- ja loogikaülesanded, protsentarvutus (liht- ja liitprotsent), ristkorrutis, võrdeline suhe;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>tabelarvutustarkvara MS Excel võimalused finantsteabe sisestamisel ja korraldamisel (2 tundi): andmete sisestamine, valemite ja funktsioonide kasutamine, andmeanalüüsi võimalused.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>isiklik ja pere eelarve; sissetulekud ja väljaminekud; kulude struktuur; eelarve koostamine Excelis (2 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>baasteadmised ettevõtlusest ja erinevatest ettevõtluse vormidest: osaühing, aktsiaselts, mittetulundusühing, füüsilisest isikust ettevõtja jt (2 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>varad ja kohustised, laenukohustised, maksuvõlad jt; bilansi koostamine nii Excelis kui ka majandustarkvaras Merit (4 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>kassa- ja tekkepõhine tulude ning kulude arvestus nii ettevõtja kui ka füüsilise isiku seisukohalt; kasum ja kahjum; kasumiaruande koostamine nii Excelis kui ka majandustarkvaras Merit (4 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>käibe- ja põhivara arvestus, varude arvestus, põhivara amortisatsioonimeetodid (4 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>raha ja investeerimine, tehingud väärtpaberitega, raha aegväärtus; laenud; valuutaarvestus (2 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>töötasu ning maksude ja maksete arvestus töötasudelt, tutvumine maksudeklaratsiooniga vorm TSD; maksuvaba tulu arvestus, füüsilise isiku tuludeklaratsiooni vorm A koostamine (4 tundi).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>käibemaksuarvestus, 0%, 9% ja 20% käive, maksuvaba käive (4 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>iseseisev töö (5 tundi).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

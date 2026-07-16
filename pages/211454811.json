@@ -1,0 +1,986 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "VABAVARALISED KEELEÕPPEMATERJALID JA PORTAALID",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõige esimesena on välja toodud näited vabavaralistest materjalidest ja portaalidest, mis on kasutatavad igas võõrkeeles. Sellele järgnevalt on toodud näited materjalidest ja portaalidest võõrkeelte kaupa. Vabavaraliste keeleõppematerjalide nimekiri ei ole ammendav.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Keelteülesed lingid",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://haridustehnoloogid.ee/koolitus/haridustehnoloogid-soovitavad/",
+          "title": "Eesti Haridustehnoloogide Liidu koduleht"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et",
+          "title": "E-Koolikott"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.socrative.com/",
+          "title": "Socrative"
+        },
+        { "kind": "link", "href": "https://kahoot.com/", "title": "Kahoot!" },
+        {
+          "kind": "link",
+          "href": "https://quizizz.com/?lng=en",
+          "title": "Quizizz"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.quizalize.com/",
+          "title": "Quizalize"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.blooket.com/",
+          "title": "Blooket"
+        },
+        {
+          "kind": "link",
+          "href": "https://wordwall.net/",
+          "title": "Wordwall"
+        },
+        { "kind": "link", "href": "https://quizlet.com/", "title": "Quizlet" },
+        { "kind": "link", "href": "http://www.gimkit.com", "title": "Gimkit" },
+        {
+          "kind": "link",
+          "href": "https://www.rollama.com/",
+          "title": "Rollama"
+        },
+        { "kind": "link", "href": "https://nearpod.com/", "title": "Nearpod" },
+        {
+          "kind": "link",
+          "href": "https://www.plickers.com/library",
+          "title": "Plickers Z"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.plickers.com/",
+          "title": "Plickers Z"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.baamboozle.com/",
+          "title": "Baamboozle"
+        },
+        {
+          "kind": "link",
+          "href": "https://app.wizer.me/",
+          "title": "Wizer.me"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.liveworksheets.com/",
+          "title": "LiveWorksheets"
+        },
+        {
+          "kind": "link",
+          "href": "https://padlet.com/account/setup",
+          "title": "Padlet"
+        },
+        { "kind": "link", "href": "https://padlet.com/", "title": "Padlet" },
+        {
+          "kind": "link",
+          "href": "https://www.duolingo.com/",
+          "title": "Duolingo"
+        },
+        {
+          "kind": "link",
+          "href": "https://maailmakool.ee/materjalid/?c=en,ru,muu",
+          "title": "Maailmakooli materjalid"
+        },
+        { "kind": "link", "href": "https://twee.com/", "title": "Twee" },
+        {
+          "kind": "link",
+          "href": "https://www.canva.com/et_ee/",
+          "title": "Canva"
+        },
+        { "kind": "link", "href": "https://genial.ly/", "title": "Genial.ly" },
+        {
+          "kind": "link",
+          "href": "https://edl.ecml.at/Home/tabid/1455/language/et-EE/Default.aspx",
+          "title": "Euroopa keeltepäev"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.formative.com/",
+          "title": "Formative"
+        },
+        {
+          "kind": "link",
+          "href": "https://essaygrader.ai/",
+          "title": "Essay Grader"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.magicschool.ai/",
+          "title": "MagicSchool"
+        },
+        {
+          "kind": "link",
+          "href": "https://en.islcollective.com/",
+          "title": "iSLCOLLECTIVE"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.perplexity.ai/",
+          "title": "Perplexity"
+        },
+        { "kind": "link", "href": "https://web.diffit.me/", "title": "Diffit" },
+        {
+          "kind": "link",
+          "href": "https://speechify.com/",
+          "title": "Speechify"
+        },
+        { "kind": "link", "href": "https://curipod.com/", "title": "Curipod" },
+        {
+          "kind": "link",
+          "href": "https://www.wisdolia.com/",
+          "title": "Wisdolia"
+        },
+        {
+          "kind": "link",
+          "href": "https://chat.d-id.com/",
+          "title": "Chat.d-id"
+        },
+        {
+          "kind": "link",
+          "href": "https://slidesgo.com/",
+          "title": "Slidesgo"
+        },
+        {
+          "kind": "link",
+          "href": "https://youglish.com/",
+          "title": "YouEnGlish"
+        },
+        {
+          "kind": "link",
+          "href": "https://answergarden.ch/",
+          "title": "Answergarden"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.mentimeter.com/",
+          "title": "Mentimeter"
+        },
+        { "kind": "link", "href": "https://vocaroo.com/", "title": "Vocaroo" },
+        {
+          "kind": "link",
+          "href": "https://info.flip.com/en-us.html",
+          "title": "Flipgrid"
+        },
+        {
+          "kind": "link",
+          "href": "https://edpuzzle.com/",
+          "title": "Edpuzzle"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.playphrase.me/#/search",
+          "title": "Playphrase"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.classcraft.com/",
+          "title": "Classcraft"
+        },
+        {
+          "kind": "link",
+          "href": "https://classroomscreen.com/",
+          "title": "Classroomscreen"
+        },
+        {
+          "kind": "link",
+          "href": "https://simpleshow.com/",
+          "title": "Simpleshow"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.google.com/forms/about/",
+          "title": "Google Forms"
+        },
+        {
+          "kind": "link",
+          "href": "https://jamboard.google.com/?pli=1",
+          "title": "Google Jamboard"
+        },
+        {
+          "kind": "link",
+          "href": "https://classroom.google.com/?pli=1",
+          "title": "Google Classroom"
+        },
+        {
+          "kind": "link",
+          "href": "https://quillbot.com/",
+          "title": "Quillbot"
+        },
+        {
+          "kind": "link",
+          "href": "https://lyricstraining.com/",
+          "title": "LyricsTraining"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.wordreference.com/",
+          "title": "Wordreference"
+        },
+        {
+          "kind": "section",
+          "title": "Masintõlked",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://neurotolge.ee/",
+              "title": "Neurotõlge"
+            },
+            {
+              "kind": "link",
+              "href": "https://translate.google.com/",
+              "title": "Google Translate"
+            },
+            {
+              "kind": "link",
+              "href": "https://bard.google.com/chat",
+              "title": "Bard"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kõnesünteesi toetavad lehed",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://voicemaker.in/",
+              "title": "Voicemaker"
+            },
+            {
+              "kind": "link",
+              "href": "http://eki.ee/heli/",
+              "title": "Kõnesünteesikeskkond"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.narakeet.com/languages/french-text-to-speech/",
+              "title": "Narakeet"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kõnetuvastuse lehed",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://tekstiks.ee/",
+              "title": "Tekstiks"
+            },
+            {
+              "kind": "link",
+              "href": "http://bark.phon.ioc.ee/webtrans/",
+              "title": "Veebipõhine kõnetuvastus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Inglise keel",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.iatefl.org/",
+          "title": "International Association of Teachers of English as a Foreign Language"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.ted.com/talks",
+          "title": "Ted Talks"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/@TEDEd",
+          "title": "TED-Ed videod"
+        },
+        {
+          "kind": "section",
+          "title": "Erinevad grammatikalehed",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.ego4u.com/",
+              "title": "English Grammar Online"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.english-4u.de/grammar_exercises.htm",
+              "title": "English 4U"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.englishpage.com/",
+              "title": "English Page"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.perfect-english-grammar.com/",
+              "title": "Perfect English Grammar"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.english-grammar.at/",
+              "title": "English Grammar"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.englisch-hilfen.de/en/",
+              "title": "English Hilfen"
+            },
+            {
+              "kind": "link",
+              "href": "https://ellii.com/collections/grammar",
+              "title": "Ellii"
+            }
+          ]
+        },
+        {
+          "kind": "link",
+          "href": "https://elt.oup.com/student/englishfile/?cc=gb&selLanguage=en",
+          "title": "Oxford University Press"
+        },
+        {
+          "kind": "link",
+          "href": "https://elllo.org/index.htm",
+          "title": "English Listening Lesson Library"
+        },
+        {
+          "kind": "link",
+          "href": "https://storylineonline.net/",
+          "title": "Storyline Online"
+        },
+        {
+          "kind": "section",
+          "title": "British Council",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://learnenglish.britishcouncil.org/",
+              "title": "LearnEnglish"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.teachingenglish.org.uk/resources",
+              "title": "TeachingEnglish resources"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishteens.britishcouncil.org/",
+              "title": "LearnEnglish Teens"
+            }
+          ]
+        },
+        {
+          "kind": "link",
+          "href": "https://breakingnewsenglish.com/",
+          "title": "Breaking News English"
+        },
+        {
+          "kind": "link",
+          "href": "https://esldiscussions.com/",
+          "title": "ESL Discussions"
+        },
+        {
+          "kind": "link",
+          "href": "http://360.visitlondon.com/",
+          "title": "London Virtual Tour"
+        },
+        {
+          "kind": "link",
+          "href": "https://youglish.com/",
+          "title": "YouGlish"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.cambridgeenglish.org/learning-english",
+          "title": "Cambridge English"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.cristinacabal.com/",
+          "title": "Christina Cabali blogi"
+        },
+        { "kind": "link", "href": "https://www.getepic.com/", "title": "Epic" },
+        {
+          "kind": "link",
+          "href": "https://www.verbalworkout.com/",
+          "title": "Verbal Workout"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.allsides.com/unbiased-balanced-news",
+          "title": "AllSides"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.hellohistory.ai/",
+          "title": "Hello History"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Prantsuse keel",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.apfest.ee/et/accueil-eesti/",
+          "title": "Eesti Prantsuse Keele Õpetajate Selts"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.fipf.info/",
+          "title": "Fédération Internationale des Professeurs de Français"
+        },
+        {
+          "kind": "section",
+          "title": "TV5 Monde",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://apprendre.tv5monde.com/fr",
+              "title": "Vabavaralised audio-/videoülesanded (kõik tasemed)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.tv5mondeplus.com/fr",
+              "title": "Filmid ja telesaated geograafilise piiranguta ja subtiitritega erinevates keeltes"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Éducation France International",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.france-education-international.fr/diplome/delf-junior-scolaire",
+              "title": "Üldtutvustus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.france-education-international.fr/diplome/delf-junior-scolaire/exemples-sujets-a1?langue=fr",
+              "title": "Näidisülesanded A1"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.france-education-international.fr/diplome/delf-junior-scolaire/exemples-sujets-a2?langue=fr",
+              "title": "A2"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.france-education-international.fr/diplome/delf-junior-scolaire/exemples-sujets-b1?langue=fr",
+              "title": "B1"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.france-education-international.fr/diplome/delf-junior-scolaire/exemples-sujets-b2?langue=fr",
+              "title": "B2"
+            }
+          ]
+        },
+        {
+          "kind": "link",
+          "href": "https://francaisfacile.rfi.fr/fr/",
+          "title": "Radio France International (RFI)"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.radiofrance.fr/podcasts",
+          "title": "Iseseisvaks kuulamiseks (B2)"
+        },
+        {
+          "kind": "link",
+          "href": "http://mediacla.univ-fcomte.fr/ListRecord.htm?list=folder&folder=157",
+          "title": "Centre de Linguistique Appliquée de Besançon (CLA)"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.lumni.fr/",
+          "title": "Lumni.fr"
+        },
+        {
+          "kind": "link",
+          "href": "https://dictee.orthodidacte.com/categories/dictees-fle",
+          "title": "Orthodidacte"
+        },
+        {
+          "kind": "link",
+          "href": "https://modules.cned.fr/FranceEducation/Tools/headerCned.html",
+          "title": "Centre national d'enseignement à distance (CNED)"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.thefrenchexperiment.com/learn-french",
+          "title": "The French Experiment"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.thefrenchexperiment.com/stories",
+          "title": "Muinasjutud kuulamiseks, lugemiseks ja vaatamiseks"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.french-games.net/",
+          "title": "French Games"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.fun-mooc.fr",
+          "title": "France Université Numérique"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.coursera.org/learn/grand-paris-metropole?action=enroll&courseSlug=grand-paris-metropole&showOnboardingModal=check",
+          "title": "Coursera / Sciences Po"
+        },
+        {
+          "kind": "link",
+          "href": "https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=2595&owa_no_fiche=22&owa_bottin=",
+          "title": "Université du Québec à Trois-Rivières (UQTR)"
+        },
+        {
+          "kind": "link",
+          "href": "https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=1869",
+          "title": "Easy French Texts"
+        },
+        {
+          "kind": "link",
+          "href": "https://bonpatron.com/en/",
+          "title": "Bonpatron"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Saksa keel",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.edlv.ee/",
+          "title": "Eesti Saksa Keele õpetajate Selts"
+        },
+        {
+          "kind": "link",
+          "href": "https://idvnetz.org/",
+          "title": "Der Internationale Deutschlehrerinnen- und Deutschlehrerverband e.V. (IDV)"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.ardmediathek.de",
+          "title": "ARD Mediathek"
+        },
+        { "kind": "link", "href": "https://www.zdf.de", "title": "ZDF" },
+        { "kind": "link", "href": "https://www.arte.tv/de", "title": "Arte" },
+        {
+          "kind": "link",
+          "href": "https://tvthek.orf.at/",
+          "title": "ORF Tvthek"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.dw.com/de/themen/s-9077",
+          "title": "Uudisteportaal Deutsche Welle"
+        },
+        {
+          "kind": "section",
+          "title": "Deutsche Welle Deutsch Lernen",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://learngerman.dw.com/de",
+              "title": "Deutsch Lernen"
+            },
+            {
+              "kind": "link",
+              "href": "https://learngerman.dw.com/de/anf%C3%A4nger/s-62079021",
+              "title": "A1-A2"
+            },
+            {
+              "kind": "link",
+              "href": "https://learngerman.dw.com/de/fortgeschrittene/s-62079033",
+              "title": "B1-B2"
+            },
+            {
+              "kind": "link",
+              "href": "https://learngerman.dw.com/de/profis/s-62079037",
+              "title": "C1-C2"
+            },
+            {
+              "kind": "link",
+              "href": "https://learngerman.dw.com/de/deutsch-unterrichten/s-61686839",
+              "title": "Õppejõududele"
+            }
+          ]
+        },
+        {
+          "kind": "link",
+          "href": "https://www.goethe.de/de/index.html",
+          "title": "Goethe Instituut"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.goethe.de/prj/dlp/de",
+          "title": "Deutschstunde"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.goethe.de/de/spr/ueb.html",
+          "title": "Kostenlos Deutsch üben"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.goethe.de/prj/dfd/de/home.cfm",
+          "title": "Deutsch für Dich - Die Online-Community für Lernende und Lehrende"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.goethe.de/de/spr/mag.html",
+          "title": "Magazin Sprache"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.goethe.de/ins/ee/et/kul/ser/onl.html",
+          "title": "Onleihe – e-raamatukogu"
+        },
+        {
+          "kind": "link",
+          "href": "https://sprachportal.at/",
+          "title": "Sprachportal Deutsch Lernen"
+        },
+        {
+          "kind": "link",
+          "href": "https://daz.schule.at/",
+          "title": "Deutsch als Zweitsprache"
+        },
+        {
+          "kind": "link",
+          "href": "https://ifu-institut.at/fragen-an-alle-die-deutsch-lernen-wollen",
+          "title": "Ifu Institut At Fragen für Konversation"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/user/andreathionville",
+          "title": "Andrea Thionville"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.easygerman.org/",
+          "title": "Easy German"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.wdrmaus.de/",
+          "title": "Die Sendung mit der Maus"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.planet-schule.de/schwerpunkt/deutsch-mit-socke/index.html",
+          "title": "Deutsch mit Socke"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.digitaldialects.com/German.htm",
+          "title": "Digital Dialects"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/playlist?list=PLXquLwDbNqi-z_4EIiSAizY3ejlBXfBIo",
+          "title": "Hörbücher auf Deutsch A1-C1"
+        },
+        {
+          "kind": "link",
+          "href": "https://online-lernen.levrai.de/",
+          "title": "Levrai"
+        },
+        {
+          "kind": "section",
+          "title": "Laulud",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.karaoke-texte.de/",
+              "title": "Karaoke Texte"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.spiellieder.de/kinderlieder.htm",
+              "title": "Spiellieder"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/user/kinderlieder",
+              "title": "Kinderlieder"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.singkinderlieder.de/",
+              "title": "Sing Kinderlieder"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.labbe.de/Kinderlieder/",
+              "title": "Labbe Kinderlieder"
+            }
+          ]
+        },
+        { "kind": "link", "href": "https://www.duden.de/", "title": "Duden" },
+        {
+          "kind": "link",
+          "href": "https://de.langenscheidt.com/",
+          "title": "Langenscheidt"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Vene keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Toetavaid materjale tasub otsida vene keele õpikuid välja andvate kirjastuste kodulehtedelt, nad on tihti tasuta ja avalikult saadaval.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.rki.ee/",
+          "title": "Vene keele Õpetajate Selts"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eki.ee/dict/evs/",
+          "title": "Eesti-vene sõnaraamat"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.taskutark.ee/search?subject=vene-keel",
+          "title": "Taskutark"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.russianforeveryone.com/RufeA/Lessons/Introduction/Alphabet/Alphabet.htm?fbclid=IwAR2IssJn-ba7KAQ-5kPpOo9kL1ejVmP-aEsiG-eg0L9fqQ5BF0akgtadMqk",
+          "title": "Russian For Everyone"
+        },
+        {
+          "kind": "link",
+          "href": "https://crossmaker.ru/ru/",
+          "title": "Crossmaker"
+        },
+        {
+          "kind": "link",
+          "href": "https://translit.ru/",
+          "title": "Translit по-русски"
+        },
+        {
+          "kind": "link",
+          "href": "https://rus.err.ee/",
+          "title": "ERR vene keeles"
+        },
+        { "kind": "link", "href": "https://etvpluss.err.ee/", "title": "ETV+" }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soome keel",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://keelesild.ee/images/HyvaParempiParas_web.pdf",
+          "title": "Hyvä Parempi Paras"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/0B4GtE76BfY3fTWlUUHlqelJwV1E/view?resourcekey=0-EUB4z5zbAzwO2Sn70rrCnw",
+          "title": "Suomen kielen työvihko 6. luokka"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/0B4GtE76BfY3fYkctNkFHZkdaZDQ/view?resourcekey=0-PhqtIYH68nHUhVWrIDyHXA",
+          "title": "Suomen kielen työvihko 7. luokka"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/1pmrKJD_pS1OwKwY7Wx23Qugd3aJfo159/view",
+          "title": "Suomen kielen työvihko 8. luokka"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/15XS66Y1n1C-7gBubXtntUK9kG9030IpW/view",
+          "title": "Suomen kielen työvihko 9. luokka"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.keelesild.ee",
+          "title": "Keelesild"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.kielibuusti.fi",
+          "title": "Klielibuusti"
+        },
+        {
+          "kind": "link",
+          "href": "https://wakelet.com/wake/ZkdO1xYG1UnEr2XWCXjto",
+          "title": "Wakelet"
+        },
+        {
+          "kind": "link",
+          "href": "https://reettaideoi.blogspot.com/p/materiaalit.html",
+          "title": "Reetta Pänkäläinen blogi"
+        },
+        {
+          "kind": "link",
+          "href": "http://www04.edu.fi/suomeaolehyva/grammar-osa1.htm",
+          "title": "Suomea, ole hyvä!"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.kielitoimistonsanakirja.fi/",
+          "title": "Kielitoimston sanakirja"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eki.ee/dict/efi/",
+          "title": "Eesti-Soome sõnaraamat"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eki.ee/dict/fie/",
+          "title": "Soome-Eesti sõnaraamat"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.osallisenaverkossa.com/s2-materiaalit",
+          "title": "S2-Materjalid"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/superalkeet/etusivu?authuser=1",
+          "title": "Superalkeet"
+        },
+        {
+          "kind": "link",
+          "href": "https://digijoujou.aalto.fi/projects/",
+          "title": "Soome keele õppe materjalipank"
+        },
+        {
+          "kind": "link",
+          "href": "https://selkakanava.fi/harjoitusohjeet?fbclid=IwAR1G-Won7wvXHStTbWZ4wNBeFYzKiUerBYtRQ6HwTP6oHXYWQpUJ3aQzP6M",
+          "title": "Selkäkanava"
+        },
+        {
+          "kind": "link",
+          "href": "https://moninet.rovala.fi/opiskele-suomea/",
+          "title": "Opiskele suomea"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.osaansuomea.fi/",
+          "title": "Osaan suomea"
+        },
+        {
+          "kind": "link",
+          "href": "https://yle.fi/aihe/artikkeli/2015/12/15/asiointisuomea",
+          "title": "Asiointisuomea"
+        },
+        {
+          "kind": "link",
+          "href": "https://peda.net/siilinjarvi/siilinlahden-koulu/lukeminen/lukeminen/i1l/kirjoja-teemoittain/i",
+          "title": "Peda.net"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.selkosanomat.fi",
+          "title": "Selkosanomat"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.selkouutiset.fi",
+          "title": "Selkouutiset"
+        },
+        { "kind": "link", "href": "http://www.papunet.net", "title": "Papunet" }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hispaania keel",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://cvc.cervantes.es/portada.htm",
+          "title": "Centro Virtual Cervantes"
+        },
+        {
+          "kind": "link",
+          "href": "https://examenes.cervantes.es/es",
+          "title": "Instituto Cervantes"
+        },
+        { "kind": "link", "href": "https://www.rtve.es/", "title": "RTVE" },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/user/museodelprado",
+          "title": "Museo Nacional del Prado"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.profedeele.es/",
+          "title": "ProfedeELE"
+        },
+        {
+          "kind": "link",
+          "href": "https://hablacultura.com/",
+          "title": "HABLACULTURA"
+        },
+        {
+          "kind": "link",
+          "href": "https://marcoele.com/",
+          "title": "MarcoELE"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.colorele.es/",
+          "title": "ColorELE"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.clasedeele.com/",
+          "title": "Clasedeele"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.ver-taal.com/",
+          "title": "Ver-taal"
+        },
+        {
+          "kind": "link",
+          "href": "https://paginadelespanol.com/",
+          "title": "Página del español"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.todoele.net/",
+          "title": "TodoELE"
+        }
+      ]
+    }
+  ]
+}

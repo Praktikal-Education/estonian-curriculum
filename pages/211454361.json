@@ -1,0 +1,340 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "VI kursus: Jadad. Funktsiooni tuletis",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>mõista ja rakenda kursuses käsitletud matemaatilisi meetodeid ning protseduure;</li><li>arutleda loogiliselt ja loovalt, formaliseerida lihtsamaid matemaatilisi mõttekäike;</li><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>tõlgendada ja hinnata saadud matemaatilist tulemust vastavas kontekstis;</li><li>näha arvureas seaduspära;</li><li>eristada aritmeetilist ja geomeetrilist jada ning lahendada elulisi ülesandeid, mis põhinevad aritmeetilisel ja geomeetrilisel jadal;</li><li>kasutada funktsiooni tuletist erinevaid protsesse kirjeldades funktsioonide uurimiseks ja majandusliku sisuga ülesannete lahendamiseks.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid, jälgitakse korrektset keelekasutust ja arendatakse väljendusoskust.</li><li>suutlikkus arutleda loovalt ja loogiliselt;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati;</li><li>võimalus arendada finantskirjaoskust ehk rahatarkust, lahendades majandusliku sisuga ülesandeid.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Hindamisel saadakse ülevaade õpitulemuste saavutatusest ja õpilase individuaalsest arengust ning toetatakse selle kaudu õpilase kujunemist positiivse minapildi ja adekvaatse enesehinnanguga ennastjuhtivaks õppijaks.</li><li>Hindamise tulemusena/abil saab õpilane tagasisidet oma edenemise kohta õppimisel ja õpistrateegiate valikuteks.</li><li>Õpetaja saab teavet õpilase teema omandamise tulemuslikkuse kohta ning sisendit õppetegevuse arendamiseks.</li><li>Hindamisel rakendatakse nii diagnostilist, kujundavat kui ka kokkuvõtvat hindamist, mida esitatakse nii sõnaliste ja kirjalike hinnangute kui ka numbriliste hinnetena.</li><li>Diagnostilise hindamise käigus selgitatakse välja õpilaste eelteadmiste ja oskuste tase, ainealased väärarusaamad ja spetsiifilised õpiraskused, et kavandada järgnevat õppimist ja õpetamist.</li><li>Õppeprotsessi käigus rakendatakse kujundavat hindamist, kus õpilane saab suulist ja kirjalikku tagasisidet oma õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta.</li><li>Kokkuvõttev hindamine toimub üldjuhul õppeperioodi või mahuka õppeteema lõpul, et kontrollida nii õppetöös püstitatud eesmärkide kui ka riikliku õppekavaga sätestatud õpitulemuste saavutatust.</li><li>Õpilasele on õppeprotsessi alguses teada, mida ja millal hinnatakse, milliseid hindamisvahendeid kasutatakse ning millised on hindamise kriteeriumid.</li><li>Kirjalikke ülesandeid hinnates arvestatakse eelkõige töö sisu, kuid pööratakse tähelepanu ka õpilase keelekasutusele, sh erialaste terminite õigele kasutusele ja õigekirjale, mis üldjuhul ei mõjuta tööle antavat hinnangut ja hinnet.</li><li>Õpet kavandades ning sellest tulenevalt ka hinnates võetakse aluseks tunnetuslikud protsessid:</li></ul><ol><li>faktide, protseduuride ja mõistete teadmine (meenutamine, äratundmine, info leidmine, arvutamine, mõõtmine, klassifitseerimine/järjestamine jmt);</li><li>teadmiste rakendamise oskus (meetodite valimine, matemaatilise info eri viisidel esitamine, modelleerimine, rutiinsete ülesannete lahendamine jmt);</li><li>arutlemisoskus (põhjendamine, analüüs, süntees, üldistamine, tulemuste hindamine jmt).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>matemaatika kitsas I, II, III ja V kursus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>A – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li>B – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li>C – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "JADAD",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "saab aru arvjada ning aritmeetilise ja geomeetrilise jada mõistest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab aritmeetilise ja geomeetrilise jada üldliikme ning $n$ esimese liikme summa valemit, lahendades lihtsamaid elulisi ülesandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab aritmeetilist ja geomeetrilist jada;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab aritmeetilise jada vahe ja geomeetrilise jada teguri;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab aritmeetilise ja geomeetrilise jada üldliikme valemid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab üldliikme valemi järgi antud järjekorranumbriga jada liikme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab aritmeetilise ja geomeetrilise jada $n$ esimese liikme summa.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvjada mõiste. Jada üldliige. Aritmeetiline jada, selle üldliikme ja summa valem. Geomeetriline jada, selle üldliikme ja summa valem.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks (eelteadmised, kõige olulisem, mis on vajalik õpilasele edasi liikumiseks, metoodilised soovitused)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lisaks jada esitamisele arvureana võiks kasutada ka tabelkuju <em>$n$</em> ja <em>$f(n)$</em>.</p><p>Tekstülesandeid lahendades on soovitatav alustada esimeste liikmete väljakirjutamisest. Vähema arvu jada elementide korral võib summa leida ka kõigi elementide summeerimise teel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18834-Arvjada-moiste/220174",
+              "title": "https://e-koolikott.ee/et/oppematerjal/18834-Arvjada-moiste/220174"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19040-Aritmeetilise-jada-moiste-selle-uldliige",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19040-Aritmeetilise-jada-moiste-selle-uldliige"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/22978-2-2-Aritmeetilise-jada-n-esimese-liikme-summa",
+              "title": "https://e-koolikott.ee/et/oppematerjal/22978-2-2-Aritmeetilise-jada-n-esimese-liikme-summa"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/22986-Geomeetrilise-jada-moiste-selle-uldliige",
+              "title": "https://e-koolikott.ee/et/oppematerjal/22986-Geomeetrilise-jada-moiste-selle-uldliige"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/22988-Geomeetrilise-jada-n-esimese-liikme-summa",
+              "title": "https://e-koolikott.ee/et/oppematerjal/22988-Geomeetrilise-jada-n-esimese-liikme-summa"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine (k.a näidisülesanded või kirjeldused õpitulemuste erineval tasemel saavutamisest), A, B, C tasemed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Vt lisaks näiteülesandeid lehekülje allosas</em></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppekava läbiv teema „Kodanikualgatus ja ettevõtlus&quot; ja majandusteemad (liitintress kui geomeetriline jada, püramiidskeem, võrkturundus).</p><p>Lõiminguvõimalused:</p><ul><li>füüsika ja bioloogia (keha liikumine, pooldumine)</li><li>kunst (Kochi lumehelves või Kochi täht)</li><li>majandusmatemaatika</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "FUNKTSIOONI TULETIS",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab funktsiooni tuletise mõistet, funktsiooni graafiku puutuja mõistet ning funktsiooni tuletise geomeetrilist tähendust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab funktsioonide tuletisi, kasutades etteantud elementaarfunktsioonide tuletiste tabelit;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab funktsiooni graafiku puutuja võrrandi antud puutepunktis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab funktsiooni kasvamise ja kahanemise seost funktsiooni tuletisega, funktsiooni ekstreemumi mõistet ning ekstreemumi leidmist;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab ainekavas määratud funktsioonide nullkohad, positiivsus- ja negatiivsuspiirkonnad, kasvamis- ja kahanemisvahemikud, maksimum- ja miinimumpunktid ning skitseerib nende järgi funktsiooni graafiku;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab lihtsamaid ekstreemumülesandeid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab ainekavas loetletud funktsioonide tuletisi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida funktsiooni tuletise väärtust kohal $a: f'(x)$;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida funktsiooni teist tuletist;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida funktsiooni teise tuletise väärtust kohal $a: f''(x)$;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab puutuja võrrandi: antud punktis; antud kohal; puutepunkti abstsissi järgi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib täielikult lineaarfunktsiooni ning ruutfunktsiooni.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab lihtsamad ekstreemumülesanded.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Funktsioonide $y=x^n (n\\in \\mathbb{Z}),\\quad y=e^x, \\quad y=\\ln x$ tuletised. Funktsioonide summa, vahe, korrutise ja jagatise tuletised. Funktsiooni teine tuletis. Puutuja võrrand. Funktsiooni kasvamise ja kahanemise uurimine ning ekstreemumite leidmine tuletise järgi. Ekstreemumülesanne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks (eelteadmised, kõige olulisem, mis on vajalik õpilasele edasi liikumiseks, metoodilised soovitused)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursuse eripära on funktsiooni tuletise mõiste käsitlemine piirväärtuse mõistet rakendamata.</p><p>Funktsiooni tuletist ilma piirväärtuse ning funktsiooni muudu ja argumendi muudu esitlemiseta võiks vaadelda järgmiselt. Funktsiooni tuletist mõistetakse funktsiooni kasvu kiiruse vaatlemise kaudu. Alustatakse mõne konkreetse funktsiooni digivahendiga joonestatud graafikute vaatlemisest ja nende erinevates punktides kasvamise kiiruse võrdlemisest. Viimane seotakse võrreldavatesse punktidesse (digivahendiga) joonestatud puutujate asendite võrdlemisega. Seejärel vaadeldakse funktsiooni kasvu antud kohal kui vastava puutuja (kui sirge) tõusu ja tõusunurka. Kohe pärast seda defineeritakse tuletis antud kohal $x_0$ kui vastava puutuja tõus $f'(x_0)=k$.</p><p>Ainesisus loetletud funktsioonide tuletiste valemid ning tehetega seotud diferentseerimise reeglid esitatakse tõestuseta.</p><p>Puutuja võrrand kohal $x_0$ koostatakse puutuja kui sirge võrrandina tõusu ja punkti järgi $y-y_0=k(x-x_0)$, kus tõus $k$ leitakse eraldi $f'(x_0)=k$.</p><p>Funktsiooni kasvamine ja kahanemine ning ekstreemumite sidumine tuletisega toimub graafiku vaatlemise kaudu. Ekstreemumpunktid on punktid, kus kasvamine läheb üle kahanemiseks ja vastupidi. Tähelepanu tuleb pöörata ekstreemumkoha, ekstreemumi ning ekstreemumpunkti eristamise oskusele. Ekstreemumi liigi võib määrata funktsiooni teise tuletise kaudu või ekstreemumkoha ümbrust vaadeldes (kasvamis- ja kahanemispiirkonnad).</p><p>Kursusel korratakse nullkohtade ning positiivsus- ja negatiivsuspiirkondade leidmist. Algebraliselt, võrrandite ning võrratuste lahendamisega leitud piirkondi illustreeritakse digivahendil koostatavate funktsiooni graafikutega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19647-Funktsiooni-graafiku-loikaja-ja-puutuja",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19647-Funktsiooni-graafiku-loikaja-ja-puutuja"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19649-Funktsiooni-kasvu-kiirus-ja-tuletis",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19649-Funktsiooni-kasvu-kiirus-ja-tuletis"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19650-Tuletise-leidmine",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19650-Tuletise-leidmine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19651-Funktsiooni-graafiku-puutuja-vorrand",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19651-Funktsiooni-graafiku-puutuja-vorrand"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19653-Tuletise-abil-funktsiooni-kasvamise-ja-kahanemise-uurimine-ekstreemumite-leidmine-ja-maaramine",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19653-Tuletise-abil-funktsiooni-kasvamise-ja-kahanemise-uurimine-ekstreemumite-leidmine-ja-maaramine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19655-Funktsiooni-uurimine",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19655-Funktsiooni-uurimine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19059-Ekstreemumulesanded",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19059-Ekstreemumulesanded"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine (k.a näidisülesanded või kirjeldused õpitulemuste erineval tasemel saavutamisest), A, B, C tasemed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Vt lisaks näiteülesandeid lehekülje allosas</em></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuigi ainekavas on nimetatud üksnes funktsiooni tuletise geomeetrilist tähendust, on ainete lõimimise huvides mõistlik eraldi tähelepanu juhtida funktsiooni tuletise füüsikalisele tähendusele. Õpilaste üldist silmaringi laiendaks majandusteaduses laialdaselt kasutatava marginaali kui sisuliselt tuletisfunktsiooni mõiste lühitutvustus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454361/kitsas_mat_VI_kursus_n2iteyl.docx?version=1&modificationDate=1706621733650&api=v2",
+          "title": "kitsas_mat_VI_kursus_n2iteyl.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454361/kitsas_mat_VI_kursus_n2iteyl.pdf?version=1&modificationDate=1706621733657&api=v2",
+          "title": "kitsas_mat_VI_kursus_n2iteyl.pdf"
+        }
+      ]
+    }
+  ]
+}

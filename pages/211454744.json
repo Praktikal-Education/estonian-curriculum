@@ -1,0 +1,258 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "13. KURSUS STEREOMEETRIA",
+      "children": []
+    },
+    {
+      "kind": "section",
+      "title": "Eesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid ning kergemaid mitterutiinseid ülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>arendada õpitegevuse kaudu üld- ja ainepädevusi nii, et õpilane suudaks lahendada keerukamaid ülesandeid, mis võimaldaksid õppekavas kirjeldatud teadmisi ja oskusi rakendada väga heal tasemel.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üld- ja ainepädevused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>suutlikkus kasutada alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika rakendamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt ning leida ülesande lahendamiseks sobivad strateegiad. Selleks käsitleda ülesannete lahendamise üldisi strateegiaid;</li><li>suutlikkus põhjendada ja tõestada oma mõttekäike, kusjuures tõestada mitte niivõrd väite tõesuse näitamiseks, kuivõrd aitamaks luua üksikteadmistes süsteemi;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks peaks õpilane esitama iseendale küsimusi: mida ma teen; miks ma nii teen; milleni ma olen jõudnud ning kas tulemus on õige ja kontrollitav.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Eelduskursused: matemaatika lai",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>II kursus (võrrandid);</p><p>III kursus (trigonomeetria);</p><p>XI kursus (planimeetria).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "STEREOMEETRIA",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "omab süsteemse ettekujutuse hulktahukate ja pöördkehade liikidest, tuletab nende pindala ja ruumala arvutamise valemeid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kujutab joonisel prismat, püramiidi, silindrit, koonust ja kera ning nende lihtsamaid lõikeid tasandiga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arvutab kehade pindala ja ruumala ning nende kehade ja tasandi lõike pindala;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära ainealased ja reaalelulised probleemid, mis on mudeldatavad ruumigeomeetrias õpitud kujunditega ja nende omadustega. Tõlgib need matemaatika keelde, lahendab matemaatiliselt ning tõlgendab ja esitleb saadud tulemusi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hulktahukas. Korrapärased hulktahukad.</p><p>Prisma ja püramiid, nende pindala ja ruumala.</p><p>Pöördkehad. Silinder, koonus ja kera, nende pindala ja ruumala.</p><p>Silindri, koonuse ja kera pindala ning ruumala valemite tuletamine.</p><p>Hulktahukate ja pöördkehade lõiked tasandiga.</p><p>Ainealaste ja reaaleluliste probleemide lahendamine ruumigeomeetria abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Stereomeetria ülesandeid lahendades peab õpilane kasutama õppekavas õpitud trigonomeetria, planimeetria teadmisi ja võrrandite ning võrrandisüsteemide lahendamise võtteid.</p><p>Võimekamad õpilased võiksid lahendada ülesandeid ka üldkujul avaldades otsitavad suurused valemitest.</p><p>Ülesannete lahendamisel peaks õpilastele tutvustama erinevaid strateegiaid ja lasta neil endil leida erinevaid lahendusi. Õpilased võiksid tutvustada üksteisele oma erinevaid lahendusi.</p><p>Pööratakse tähelepanu jooniste tegemisele joonestusvahenditega. Tehtud joonis ei tohi olla liiga väike ja erijuhul, kui seda pole ülesandes nõutud. Eraldi tuleb harjutada vajalike nurkade joonisele kandmist (põhiserva ja külgtahu vahel jne).</p><p>Hulktahukaid tuleb osata liigitada erineval alusel, nt korrapärasuse ja mittekorrapärasuse põhjal, põhja kuju ja tippude arvu järgi.</p><p>Püramiidi korral peab lahendama ülesandeid, kus tipu projektsioon on põhiserval või põhja sise-, ümberringjoone keskpunktis.</p><p>Tahkkehade lihtsamad lõiked on tahuga, kõrgusega ja põhjaga paralleelne lõige, diagonaallõige.</p><p>Õpilane oskab kirjeldada, kuidas pöördkehad tekivad.</p><p>Pöördkehade lihtsamad lõiked on silindri ja koonuse telglõige ning põhjaga paralleelne lõige, koonuse tippu läbivad erinevad lõiked, silindri teljega paralleelne lõige.</p><p>Kera puhul on keskpunkti läbiv lõige ja sellega paralleelne lõige.</p><p>Rakendusülesanne ei saa sisaldada elemente, mis ületavad eespool kirjeldatud teadmisi ja oskusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120",
+              "title": "Õppekirjanduse ülevaade"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee//wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+            },
+            {
+              "kind": "embed",
+              "src": "https://www.geogebra.org/m/BduJMA2u"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19084-1-2-Prisma-ruumala",
+              "title": "Prisma ruumala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19079-2-1-Puramiid",
+              "title": "Püramiidi pindala ja ruumala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19082-2-2-Puramiidi-pindala-ja-ruumala",
+              "title": "Püramiidi pindala ja ruumala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19140-3-2-Silinder-tema-pindala-ja-ruumala",
+              "title": "Silindri pindala ja ruumala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19144-3-3-Koonus-tema-pindala-ja-ruumala",
+              "title": "Koonuse pindala ja ruumala"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19146-3-4-Kera-tema-pindala-ja-ruumala",
+              "title": "Kera pindala ja ruumla"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p><p>Õppimist toetavast hindamisest täpsemalt: <a href=\"https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/\">https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/</a></p><p><em>Vt näiteülesandeid lehekülje allosas</em></p>"
+            },
+            {
+              "kind": "section",
+              "title": "Ülesannete raskusaste",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</p><p><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</p><p><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Ajalugu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Püramiidid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Füüsika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Massi ja ruumala vaheline seos.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kehaline kasvatus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kuul, pall, koonus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kunst",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Värvikulu.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Muusika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tuulekell, triangel.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Terviseõpetus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Toidupüramiid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Üldpädevuste toetamine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454744/LAI_MATEMAATIKA_13.kursus%20Na%CC%88iteu%CC%88lesanded.docx?version=1&modificationDate=1706621740230&api=v2",
+          "title": "LAI_MATEMAATIKA_13.kursus Näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454744/LAI_MATEMAATIKA_13.kursus%20Na%CC%88iteu%CC%88lesanded.pdf?version=1&modificationDate=1706621740222&api=v2",
+          "title": "LAI_MATEMAATIKA_13.kursus Näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

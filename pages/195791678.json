@@ -1,0 +1,939 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Oodatavad õpitulemused 9. klassi lõpuks (PLRÕK lisa 1 punkt 4. 1. 3)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "suhtleb ja käitub partnerit arvestades olukorrale vastavalt, järgib üldtunnustatud moraalinorme, esitab oma soove, selgitab seisukohti suuliselt ja kirjalikult korrektses eesti keeles, osaleb arutelus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab võimetekohaste tekstide funktsionaalse lugemise oskust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab mõnda eesti kirjanikku ja on tutvunud tema loominguga",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab eriliigilisi tekste ja erinevaid allikaid teabe hankimiseks, suudab elementaarselt konspekteerida",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab referaadi eelneva analüüsi või plaani alusel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab erinevaid õpitud tarbekirju näidiste alusel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "edastab loetud või kuuldud teksti sisu suuliselt või kirjalikult korrektses eesti keeles",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb eri lausetüüpe, mõistab õpitud lausemallide tähendust, kasutab neid kõnes",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib õpitud tähekasutus- ja ortograafiareegleid, suudab ise oma tööd kontrollida, leida ja parandada õigekirjavigu.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Määruses fikseeritud õpitulemused on lähtuvalt käsitletavast õppesisust konkretiseeritud.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppetegevus 9. klassis",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>9. klassi õpetuse põhitaotluseks on, et õpilased tulevad igapäevaelus toime iseseisvalt ning jätkavad õpinguid vastavalt oma võimetele.</p><p>Eesti keele tundides toetatakse suhtlemis- ja koostööoskuste kujunemist, oma arvamuse teistele mõistetavat väljendamist, põhjendamist ja kaitsmist.</p><p>Tähtsal kohal on enesejuhtimise oskuste kujundamine, suurendatakse õpilaste iseseisvust oma tegevuse kavandamisel, sooritamisel ja tulemuse hindamisel. Järjepidevalt harjutatakse enesekontrollivõtete rakendamist.</p><p>Õppeprotsessis on endiselt suur osakaal praktilisel harjutamisel, õppesisu ja omandatavaid oskusi seostatakse igapäevaeluga.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lihtsustatud õppetasemele vastavad õppematerjalid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>Ü. Rästas. Eesti keele tööraamat IX klassile 1. -3. osa Tartu, <em>Studium</em>, 2014. Õppevara väljaandmist on toetanud Euroopa Sotsiaalfond ja Eesti riik.</li><li>K. Plado, K. Sunts. Eesti keele lugemik-tööraamat 9. klassile. Tallinn, HTM, 2016.</li><li>K. Plado, K. Sunts. Eesti keele lugemik-tööraamat 8. -9. klassile. Tarbetekstid. Tallinn, HTM, 2017.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Toetavad materjalid õpetuse korraldamiseks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>A. Kontor, K. Plado. Kirjutades kirjutama. Vaatan ja kirjutan. Ärakiri. Tartu, <em>Studium</em>, 2010.</li><li>A. Kontor, K. Plado. Kirjutades kirjutama. 1. vihik. Tekstid kirjutamiseks. Tartu, Studium, 2007.</li><li>A. Kontor, K. Plado. Kirjutades kirjutama. 2. vihik. Mõtlen ja kirjutan. Tartu, Studium, 2007.</li><li>A. Kontor, K. Plado. Kirjutades kirjutama. 3. vihik. Kontrollin ja kirjutan. Tartu, Studium, 2007.</li><li>A. Kontor, K. Plado. Põhivara eesti keele õpiabiks I ja II kooliastmes. Seinatabelid. Tartu, Studium, 2018.</li><li>A. Kontor, K. Plado. Põhivara eesti keele õpiabiks I ja II kooliastmes. Jaotvara õpilasele. Tartu, Studium, 2018.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Suuline väljendusoskus ja suhtlemine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "suhtleb tavasituatsioonides (perekonnas, eakaaslastega, töökollektiivis, ametiasutuses jne) partnerit arvestades olukorrale vastavalt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib üldtunnustatud moraalinorme, esitab oma soove, selgitab seisukohti suuliselt ja kirjalikult korrektses eesti keeles, osaleb arutelus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab suhtluspartnerite seisukohtade võimalikku sarnasust, erinevust ja vastandlikkust, selgitab oma seisukohti, otsib lahendust erimeelsustele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma ja teiste käitumise otstarbekust ja moraalinõuetele vastavust tavasituatsioonides, käitub vastavalt olukorrale ja arvestab partnerit",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab teabe hankimiseks eriliigilisi tekste ja erinevaid allikaid, suudab elementaarselt konspekteerida",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab referaadi eelneva analüüsi või plaani abil",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab õpitud tarbekirju näidiste alusel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teabe suuline ja kirjalik edastamine hargnenult, kokkuvõtlikult, suuline täiendav selgitamine. Tegevuse ühine planeerimine ja korrigeerimine tegevuse käigus, korralduste-soovituste esitamine ja nende täitmine.</p><p>Suhtlemine perekonnas, töökollektiivis ning ametiasutustes. Reeglipärane käitumine ja ootamatud lahendid konfliktsituatsioonides. Vabas vormis tarbekiri ja blankettide täitmine.</p><p>Kirjalike tekstide koostamine: ümberjutustus (tekstilähedane, kokkuvõtlik, laiendatud); tööprotsessi kirjeldus. Konspekti koostamine kirjaliku teabeteksti ja suulise kõne järgi; teksti taastamine oma ja teiste konspekti järgi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Harjutatakse õpitud tarbekirja liike. <strong>Soovitav on koostada näidiste vihik.</strong></p><p><strong>Konspekteerimine</strong> on täiesti uueks teemaks, millel on <strong>eriti suur tähtsus kutseõppes</strong>. Selleks valmistutakse valdavalt lugemistundides, kuid oluline on oskuse õpetamine ka erinevate ainete tundides teabetekste lugedes.</p><p>Eesti keele lugemik-tööraamat. 8. -9. klassile. Tarbekiri. Eesti keele tööraamat 9. klassile, 3. osa.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu, õpitulemused ja soovitused õppetöö läbiviimiseks",
+      "children": [
+        { "kind": "text", "html": "<p>1. Praktiline grammatika</p>" }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Lause",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lauseõpetuses kasutatakse sõnaliikide õppimisel omandatud teadmisi ja oskusi.</p><p>Õpetamisel kasutatakse küllaltki keerulise sõnastusega lauseid, oluline on grammatiliste konstruktsioonide mõistmine, mille aktiivset kasutamist oma kõnes õpilastelt aga ei nõuta.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb eri lausetüüpe, mõistab õpitud lausemallide tähendust, kasutab neid kõnes",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb sõnamoodustust, kasutab õpitud vorme oma kõnes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Lihtlause, koondlause ja liitlause",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõnaühend ja lause, nende tähenduslik erinevus. Tekstiväline lause. Laiendatud ja laiendamata lause. Lause tähenduse sõltumine tegusõna ajast, tegumoest, kõneviisist.</p><p>Koondlause, rindlause ja põimlause. Osalaused, pealause ja kõrvallause(d), nende paigutus, sidesõnad ja kirjavahemärgid. Liitlausete tüübid: sihitiskõrvallause, tingimust, aega, viisi, põhjust, tagajärge, eesmärki ja kohta väljendav lause ning täiendkõrvallause.</p><p>Mitmeosaliste liitlausete mõistmine kirjalikus tekstis, lausete rühmitamine väljendatavate suhete järgi, lausete transformeerimine ning sama teabe variatiivne sõnastamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Sõnavara",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb olulisemat keele grammatikast: sõnaliike, käänamist ja pööramist.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõnaliigid, nimisõna, omadussõna, arvsõna, asesõna, määrsõna, tegusõna ja võõrsõna. Käänamine, pööramine, sõnamoodustus, tuletamine, liitsõnad, muutevormid ning õigekiri.</p><p>Mineviku ja oleviku kesksõnad, tegusõna tuletamine ning tunnuste ja lõppude õigekiri. Võõrhäälikud ja tähed, võõrsõnade tähenduse mõistmine ning sõnastike ja interneti kasutamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kirjutamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "järgib õpitud tähekasutus- ja ortograafiareegleid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kontrollib ise oma tööd, leiab ja parandab õigekirjavigu.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õigekiri",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Veaohtlikud häälikud sõnas, kaashäälikuühendi õigekiri, enesekontroll ja enda koostatud teksti õigekiri. Ortograafiareeglite rakendamine, võõrsõnade õigekiri, suur algustäht nimedes ning liitsõnade ja tuletatud sõnade õigekiri.</p><p>Eeldatavasti on tähekasutusreeglite kasutamine 9. klassi õpilastel automatiseerunud; vajadusel esitatakse individuaalseid ülesandeid.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Keeleteadmised ja -oskused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tähekasutusreeglite ja õpitud ortograafiareeglite tundmine ning rakendamine. Õigekirja kommenteerimine. Õigekirjavigade leidmine ja parandamine. Sõnade käänamine ja pööramine tabeli järgi. Sõnaliikide nimetuste ja tunnuste teadmine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Lugemine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "loeb eakohast teksti endamisi, häälega lugedes valdavalt kaupa ja ilmekalt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib teksti õpetaja juhendamisel, leiab olulise teabe, teeb märkmeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab tehtud märkmeid teabe taastamisel kas tekstilähedasel või kokkuvõtlikul jutustamisel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab tekstist saadud teavet loomingulisel jutustamisel (minategelase seisukohalt, jutustamisel grammatilise ülesandega, kirjeldatud sündmuse muutmise või täiendamisega vms).",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "edastab loetud või kuuldud teksti sisu teistele mõistetavalt suuliselt ja/või kirjalikult korrektses eesti keeles.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Teksti mõistmine ja eneseväljendus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vaikselt lugemise käigus tekstist vajaliku teabe otsimine, teabe märgistamine sümbolite või lühendite abil lugemise ajal. Teabe leidmine kirjalikust ja suulisest tekstist ning märkmete tegemine.</p><p>Jutustamine, teksti lugemine ja analüüs sõltuvalt oodatava jutustamise liigist. Tarbekirjade koostamine, teksti kuulamise käigus märkmete tegemine ning nende kasutamine teksti hilisemal taastamisel.</p><p>Konspekti koostamine loetud teksti ja suulise kõne järgi, teksti ja konspekti kõrvutamine ning jutustamine oma ja kaaslase konspekti järgi.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik teemade jaotus trimestrite lõikes",
+      "children": []
+    },
+    {
+      "kind": "section",
+      "title": "I trimester",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõnearendus ja keeleõpetus: 11 nädalat, nädalas 3 tundi, kokku 33 tundi. Lugemine ja kõnearendus: 11 nädalat, nädalas 3 tundi, kokku 33 tundi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Häälikud ja tähed",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Sõna veaohtlik koht. Täishäälik ja suluta kaashäälik, sulghäälik veaohtlikus kohas. Häälikuühendid sõna veaohtlikus kohas, täishäälikuühend ja kaashäälikuühend.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Rakendab tähekasutusreegleid valdavalt automaatselt, sh iseseisvates kirjalikes töödes.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Võõrsõna",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Tunneb ära võõrsõna, eristab neid omakeelsetest sõnadest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab erinevates õppeainetes kasutatud võõrsõnade tähendust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kontrollib võõrsõnade, võõrapäraste ja keeruliste kohanimede õigekirja Interneti abil.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Nimisõna",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Nimisõna algvorm ja käändevormid. Käänamistabel. Käändevormide tähendus. Nimisõna mitmus.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab nimisõna teistest sõnaliikidest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Käänab nimisõna ainsuses ja mitmuses käänamistabeli alusel, selgitab käändevormide tähendust, kasutab sõna muutevorme suulises ja kirjalikus kõnes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjutab sõnades õigesti mitmuse tunnuse.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab tuletusliidetega nimisõnade tähendusvarjundeid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Tuletab nimisõnu analoogia alusel, kasutab tuletatud sõnu suulises ja kirjalikus kõnes.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Liitnimisõna",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Liitnimisõna: moodustamine, õigekiri. Liitsõna käänamine. Lühenenud tüvega täiendsõna. Liitsõnade korduvad sõnaosad. Paarissõnad.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab ja mõistab, et liitnimisõnas on viimane osa põhisõna, mis annab sõnale põhitähenduse, täiendsõna täpsustab põhitähendust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Moodustab liitnimisõnu algoritmi või analoogia alusel, järgib kirjutades liitsõna õigekirjareegleid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Käänab ainsuses ja mitmuses (vajadusel käänamistabelile toetudes) liitnimisõnu, paarissõnu.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab liitsõna sõnaühendist, rakendab elementaarseid kokku- ja lahkukirjutamise reegleid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Omadussõna",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Käänamine koos nimisõnaga. Omadussõna võrdlusastmed. Omadussõna tuletamine liidete abil.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab omadussõna teistest sõnaliikidest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Käänab omadussõnaga sõnaühendeid ainsuses ja mitmuses käänamistabeli alusel, selgitab käändevormide tähendust, kasutab käändevorme suulises ja kirjalikus kõnes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Moodustab omadussõnadest analoogia alusel kolme võrdlusastet, kasutab neid kontekstis.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab tuletusliidetega omadussõnade tähendusvarjundeid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Tuletab omadussõnu algoritmi või analoogia alusel, kasutab tuletatud sõnu suulises ja kirjalikus kõnes.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Meie jõud on me minevik: Eestlased sõjas ja Siberis. Teabe vahendamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Väärtustab eestlaste visadust ja vastupidavust keerulistes oludes, teeb teksti analüüsil märkmeid oluliste faktide kohta, annab nii suuliselt kui kirjalikult edasi sellekohast infot kaaslastele, põhjendades oma hinnanguid vabas sõnastuses ja temaatiliste lõikude lugemisega.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjutab korrektselt vormistatud kutseid ja teateid nii käsikirjaliselt kui arvutis, kasutades nii enda kui tekstidest saadud andmeid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "II trimester",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõnearendus ja keeleõpetus: 11 nädalat, nädalas 3 tundi, kokku 33 tundi. Lugemine ja kõnearendus: 11 nädalat, nädalas 3 tundi, kokku 33 tundi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Arvsõna",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Põhiarvsõna ja järgarvsõna. Arvsõnade kokku- ja lahkukirjutamine. Murdarvsõna. Rooma numbrid.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab arvsõna teistest sõnaliikidest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab põhi- ja järgarvsõnu, selgitab nende tähendust sõnaühendites või lausetes.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Rakendab õigekirjas (vajadusel näidisele või analoogiale toetudes) arvsõnade kokku- ja lahkukirjutamise ning liitsõnade õigekirja reegleid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Käänab käänamistabeli alusel 5-kohalisi arvsõnu, sh murdarvsõnu ja kasutab käändevorme kontekstist lähtuvalt õigesti.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Tunneb ja kasutab Rooma numbreid I-XXX.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Asesõna",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Isikulised, enesekohased, näitavad, umbisikulised, küsivad-siduvad asesõnad. Liide <em>-ki</em> ja <em>-gi</em>.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, et asesõnad võivad lausetes asendada nimi-, omadus- või arvsõna.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Asendab lausetes nimi-, omadus- ja arvsõna asesõnaga ja vastupidi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab muutevormide lõpus ja kirjutab õigesti liidet -ki/-gi.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tegusõna",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><em>ma</em>-tegevusnimi, <em>da</em>-tegevusnimi.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab tegusõna teistest sõnaliikidest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Moodustab tegusõnavormidest ma- ja da-tegevusnime, kasutab õigesti sõnaühendites ja lausetes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjutab analoogiale toetudes õigesti da-tegevusnime tunnused (-da/-ta).",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kindel kõneviis ja tegumood",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Leiab lauses tegusõna kindla kõneviisi vormid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Pöörab tegusõna ainsuses ja mitmuses.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab õigesti jaatava ja eitava kõne vorme.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab, moodustab analoogia alusel, eristab ja kasutab kontekstist lähtuvalt õigesti liht-, täis- ja enneminevikuvorme.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab isikulises ja umbisikulises tegumoes väljendatud teabe olemust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Moodustab analoogia alusel tegusõna isikulise ja umbisikulise tegumoe vormid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab moodustatud tegusõnavorme kontekstist lähtuvalt õigesti, põhjendab oma valikut.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tingiv kõneviis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Mõistab, et tegusõna tingivas kõneviisis väljendab tegevuse toimumist mingil tingimusel.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Pöörab tingivas kõneviisis tegusõna ainsuses ja mitmuses, jaatavas ja eitavas kõnes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab moodustatud tegusõnavorme kontekstist lähtuvalt õigesti, põhjendab oma valikut.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kaudne kõneviis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Mõistab, et tegusõna kaudses kõneviisis kasutatakse siis, kui ei olda kindlad mingi sündmuse või tegevuse toimumises või antakse kaudselt edasi kontrollimata infot.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Pöörab kaudses kõneviisis tegusõna olevikus ja minevikus, jaatavas ja eitavas kõnes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab moodustatud tegusõnavorme kontekstist lähtuvalt õigesti, põhjendab oma valikut.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjutab õigesti kaudse kõneviisi tunnuse.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Käskiv kõneviis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Mõistab, et tegusõna käskivas kõneviisis väljendab käsku, palvet, keeldu, hüüdu.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Moodustab käskivas kõneviisis sõnavorme algoritmi ja analoogia alusel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab moodustatud tegusõnavorme kontekstist lähtuvalt õigesti, põhjendab oma valikut.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab ja kirjutab õigesti käskiva kõneviis tunnuseid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "On aeg selg sirgu lüüa: Sinimustvalge lipu all. On meist igaüks killuke loodust. Teabe vahendamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Seostab Eesti ajaloo olulisemaid sündmusi kirjandusklassikaga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb lugemise käigus märkmeid teksti taastamiseks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Hindab tehtud märkmeid kriitiliselt ja parandab/täiendab neid hilisema analüüsi käigus.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "Annab oma kogemuste piires hinnanguid tegelastele ja sündmustele, põhjendab oma hinnanguid vabas sõnastuses ja loetud tekstidest saadud teabele toetudes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Suhtub hoolivalt loodusesse, kirjeldab loodusnähtusi, koostades sidusat jutustust, kasutades õpitud omadussõnu ja lausetüüpe.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "III trimester",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõnearendus ja keeleõpetus: 13 nädalat, nädalas 3 tundi, kokku 39 tundi. Lugemine ja kõnearendus: 13 nädalat, nädalas 3 tundi, kokku 39 tundi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kesksõnad",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tegusõna. Mineviku kesksõnad: <em>nud</em>-kesksõna ja <em>tud</em>-kesksõna. Oleviku kesksõnad: <em>v</em>- ja <em>tav</em>-kesksõna.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab, et mineviku kesksõnad väljendavad tegevust või seisundit, mis on tekkinud või tekitatud minevikus, kasutab vastavaid sõnaühendeid erinevates vormides.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab ja kasutab kõnes sõnaühendeid v- ja tav-kesksõnadega ainsuse ja mitmuse vormides.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab kesksõnavorme tegusõna pöördevormidest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab õigesti sõnaühendites v- ja tav-kesksõnu käänetetabeli neljas viimases käändes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjutab õigesti tegusõna tunnused ja pöördelõpud.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tegusõnaliited",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Liited <em>-u, -ta, -ata, -ne</em>.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab tuletatud tegusõnade tähendust, moodustab liidetega tegusõnu.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab tuletatud tegusõnu lausetes ja suulises kõnes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjutab õigesti tegusõna tunnused ja pöördelõpud.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Määrsõna",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Määrsõnaliited: <em>-lt, -sti, kesi, -ti</em>.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab määrsõnade semantilist tähendust lauses tegusõna täpsustava sõnana.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Tuletab ja kasutab lausetes koha-, viisi-, hulga-, määra- ja ajamäärsõnu.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Lihtlause",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tegusõna laiendamine lihtlauses. Nimisõna laiendamine lihtlauses.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab lihtlause olemust ühe tegevuse, seisundi või olukorra väljendamisel.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab laiendatud ja laiendamata lihtlauset.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Laiendab lauses tegusõna sihitisega, nimisõnu täiendiga.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Käänab käänamistabeli alusel omadussõnast ja nimisõnast koosnevat sõnaühendit, kasutab sõnaühendeid lauses.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab lausetes arvsõna ja asesõna nimisõna täiendina.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Koondlause",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Mõistab koondlause olemust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab sidesõnade tähendust ja kasutab neid õigesti koondlausetes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab koma sidesõnade kuid ja vaid ees.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Liitlause ja rindlause",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Eristab liitlauset ja lihtlauset.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, et liitlauses on igas osalauses öeldis.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Eristab osalauseid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab rindlause ja selle osalausete olemust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab osalausete vahel koma või sidesõnu.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab sidesõnade tähendust.",
+          "outcomeType": "knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Põimlause",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Sihitiskõrvallause. Kõrvallause väljendab liitlauses tegevuse toimumise tingimust, aega, viisi, põhjust ja tagajärge, eesmärki, kohta.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, et põimlause koosneb pealausest ja kõrvallausest või -lausetest, kõrvallause võib asetseda pealause järel, ees või keskel.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Laiendab pealauset sihitiskõrvallausega, seostab kõrvallause sobivate sidesõnade ja/või komaga.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Moodustab ja kasutab erineva struktuuriga põimlauseid, kus kõrvallause väljendab tegevuse toimumise tingimust, aega, viisi, põhjust ja tagajärge, eesmärki, kohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab põimlausetes õigesti sidesõnu ja koma.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "On muresid suurtel ja lastel. Tarbekiri",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tarbekiri: CV, tööleping, avaldus, seletuskiri, kaastundeavaldus, kuulutus.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Väärtustab oma vanemate hoolivust ja muret oma laste pärast, analüüsib ja kirjeldab nii suuliselt kui kirjalikult eri olukordades tekkivaid tundeid, kasutab suhtlemisel sobivaid repliike, teadvustab nende eesmärke.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "Saab aru lihtsamatest dokumentidest, täidab ise blankette nii paberil kui arvutis, järgides vormistusnõudeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab oma kogemuste piires reklaami, mõistab kuulutusi.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Soovitatav on ilukirjanduslike palade teavet ära kasutades kujundada ka tarbekirjade koostamise oskust, luues loetu abil õpisituatsioone, et kujundada teadmine sellest, kus ja mis eesmärgil tarbekirja elus vaja võiks minna.</strong></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

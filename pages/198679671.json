@@ -1,0 +1,193 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kodundus on õppeaine, kus oluline on inimese üldine heaolu ja igapäevaelus hakkamasaamine.</p><p>Väärtustatakse eesti toidukultuuri ja- traditsioone ning kujundatakse avatud meelt teiste rahvaste toidukultuuri ja tavade suhtes.</p><p><strong>II kooliastmes</strong> keskendutakse ainealaste mõistete tundmaõppimisele, õigete töövõtete ja toiduainete töötlemisviiside omandamisele.</p><p>Õpitakse läbi praktilise tegevuse. Õpitakse mõistma erinevate otsuste mõju õppijale ja keskkonnale.</p><p>Kodundustunnis toimub õpe meeskonnatööna. See loob sobivad võimalused arendada sotsiaalseid oskusi: heatahtlikku ja arvestavat suhtumist kaaslastesse.</p><p>Õpilastele saavad koheselt tagasisidet ja hindavad ise oma tegevust.</p><p><strong>II kooliastme soovituslik õpisisu</strong> on jagatud klasside kaupa, kuid õpetaja saab teemaplokke valida õpilastest lähtuvalt, arvestades diferentseeritud lähenemist, õpilaste individuaalseid vajadusi ja võimeid.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Teemaplokkide kirjeldus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Toiduharidus",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Heaolu ja tervis toidust",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Selgitatakse ja uuritakse, millest koosneb toit, kuidas toiduaineid rühmitatakse</li><li>Tutvutakse tervisliku toitumise põhitõdedega, toidupüramiidi ja taldrikureegliga</li><li>Kodunduse tundides õpitakse, tasakaalustatud menüü koostamiste algteadmisi</li><li>Tähelepanu pööratakse toidu maitsmisele ja kirjeldamisele</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Toidu ohutu valmistamine ja töötlemisviisid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Õpitakse erinevaid töövahendeid käsitlema ja pööratakse tähelepanu tööohutusele</li><li>Erinevate toiduained mõõtmine ja kaalumine. Mõõtühikud retseptis, nende lühendid</li><li>Teostatakse toiduainete eeltöötlust: pesemine, puhastamine, koorimine</li><li>Külmtöötlemine, õpitakse toiduaineid tükeldama, riivima, lõikama, vahustama, segama, sõeluma</li><li>Kuumtöötlemine, õpitakse keetma, praadima ja küpsetama, lihtsustatud retsepti järgi valmistama lihtsamaid toite</li><li>Tähelepanu pööratakse töövahendite, väikevahendite, pliid-ahju ohutule käsitlemisele</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tarbijaharidus ja keskkond",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Töö organiseerimine ja hügieen",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Pööratakse tähelepanu isiklikule hügieenile, käte pesemisele ja toidupuhtusele</li><li>Suunatakse jälgima töökoha ja töövahendite puhtust</li><li>Arutletakse teemal, mis on ristsaastumine ja kuidas seda vältida</li><li>Õpitakse nõusid pesema käsitsi ja neid kuivatama ning asukohale paigutama</li><li>Toiduvalmistamise käigus tekkinud jäätmed, kuidas neid sorteerida</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Koristustarbed ja nende kasutamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Tutvutakse koristus- ja puhastusvahenditega ja õpitakse neid tööpindade puhastamiseks kasutama</li><li>Korrastusvahendite õpetamisel lähtutakse kaasaegsest tehnoloogiast</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Puhastus-, hooldus- ja korrastustööde käigus kasutatavad vahendid ning tööviisid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Puhastus- ja korrastustööd, kasutatavad vahendid ja töötamisviisid</li><li>Tingmärgid rõivastel</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Toiduga seotud tarbija teemad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Tarbija rolli mõistmine ning teadlikud valikud toidutarbijana</li><li>Toidupakendil olev info ja märgistus</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Jäätmed",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Prügi sorteerimine</li><li>Jäätmete vähendamine ja taaskasutus</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kaupade ja teenuste valimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Rõivaste, toidu ostmine/tarbimine majandusliku (säästlik valik), sotsiaalse ja keskkonnasäästlikkuse seisukohast</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Käitumiskultuur",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Etikett",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Tutvutakse lauakatmise võimalustega vastavalt menüüle, tähtpäevale.</li><li>Läbi praktilise tegevuse õpitakse lauas käitumist ja toidu serveerimist.</li><li>Saadakse teada, kuidas lauapesu hooldada ja tutvutakse hooldusmärkidega.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Toidukultuur ja kombed",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Eesti toidukultuur ja traditsioonid.</li><li>Kodukoha/Eesti erinevate toidutraditsioonide uurimine.</li><li>Kodukoha/Eesti mitmekesiste toitude valmistamine.</li></ul>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpetuse eesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kodunduses taotletakse, et õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "omandab vajalikud oskused ning tööharjumused eluks, võimetele vastavaks tööks ja igapäevaeluks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "õpib tundma ning õigesti ja säästlikult kasutama tooraineid, töö- ja tehnilisi vahendeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "õpib töötama suulise ja kirjaliku instruktsiooni järgi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "omandab õiged töövõtted toiduainete töötlemiseks ja arvestab töötamisel töötervishoiu ning ohutustehnika nõuetega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arendab loovust ja esteetilist maitset;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "õpib töötama üksi ning koos teistega, hindama tööks vajalikke isiksuseomadusi: vastutustunnet, täpsust, püsivust, kriitilist meelt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "õpib hindama tööd ning iseennast teatud elukutse omandamise seisukohalt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "töötab meeskonnas ja tajub oma võimeid ühistöös;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lähtub toitu valides ja valmistades tervisliku toitumise põhimõtetest.",
+          "outcomeType": "skill"
+        }
+      ]
+    }
+  ]
+}

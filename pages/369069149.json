@@ -1,0 +1,297 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus keskendub noore tippsportlase <strong>tiitlivõistlustel</strong> <strong>osalemise kogemuste teadlikule mõtestamisele ja analüüsile</strong>. Õpilane käsitleb võistlusolukorda kui õpiprotsessi, mille kaudu arenevad enesejuhtimine intensiivses treening- ja võistlusolukorras, vastutustunne tiimi ja treeneri ees, pingetaluvuse ja stressiga toimetulek ning eetilised väärtushinnangud ja spordieetika. Kursus aitab tippsportlasel analüüsida oma sportlikke sooritusi, emotsionaalseid ja sotsiaalseid kogemusi, psühholoogilist heaolu, pingetaluvust, väärtuspõhist käitumist ja rolli tiimis ning ühildada võistluskalendrit õppetööga. Kursuse keskmes on teadlik õppimine kogemusest ja oma arengust, mitte võistlustulemus.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse sihtrühm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus on suunatud gümnaasiumis õppivale tippsportlastele ning keskendub tiitlivõistlustel osalemisest saadavate kogemuste mõtestamisele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on toetada õppija enesemääratluspädevuse, õpipädevuse ja vastutustunde arengut, lähtudes reaalsest rahvusvahelisest või riigisisese tippvõistluse kogemusest. Eesmärk ei ole hinnata sportlikku tulemust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse maht on 35 akadeemilist tundi, millest vähemalt 25 tundi hõlmab mitteformaalõpet spordikeskkonnas (osalemist tiitlivõistlusel ja selle struktureeritud analüüsi) ning kuni 10 tundi formaalõpet (arutelusid, planeerimist, juhendatud eneseanalüüsi).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse täpsem töökorraldus lepitakse kokku õpilase ja õpetaja vahel, arvestades treeningkoormust, spordiala eripära ja kooli õppekorraldust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "tiitlivõistluste olemus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab tiitlivõistluste rolli oma arengus tippsportlasena",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab erinevaid tiitlivõistluste liike ja tasemeid ning nende mõju oma arengule;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab iga võistluse tähtsust hooaja ja pikaajalise arengu kontekstis;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "seob võistluste ja treeningute kalendrit oma hooaja ja isiklike arengueesmärkidega;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb aruteludes ja juhtumianalüüsides, et jagada ja võrrelda oma kogemusi treeneri ja meeskonnaga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuvastab tegevused, mis toetavad tema arengut tippsportlasena.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ettevalmistus tiitlivõistlusteks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "valmistub võistlusteks füüsiliselt ja psühholoogiliselt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "seab eesmärke oma füüsilise ja vaimse ettevalmistuse jaoks; vastavalt hooaja ja võistluste kontekstile;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "planeerib isiklikke võistluseelseid rutiine, sealhulgas soojendust; psühholoogilist ettevalmistust ja eesmärgistamist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuvastab oma pingetaluvuse taseme ja valib stressiga toimetuleku strateegiad;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab võistluseelseid rutiine praktiliselt treeningutel ja võistlustel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "dokumenteerib ja analüüsib oma võistlustegevust ja enesetunnet;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seob õpitut oma isiklike eesmärkidega ja täiendab tegevusplaani vastavalt saadud kogemusele.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "võistlusolukordade analüüs",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib oma sooritust ja käitumist võistlussituatsioonis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab oma tehnilisi ja taktikalisi sooritusi võistlussituatsioonis;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab oma otsuseid ja käitumist tiimis ja võistlussituatsioonis;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "dokumenteerib oma tegevusi ja sooritust võistluspäevikus;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib kogemusi, tuvastades tugevused ja arenguvõimalused;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutab treeneri ja tiimiga võimalusi oma soorituse ja otsuste täiustamiseks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõtestab võidu- ja kaotuskogemust võistlussituatsioonis, kasutab tõhusaid võtteid kaotuskogemuse või tagasilöökidega toimetulekuks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab eri kultuurile omaseid lähenemisi võistlustel, arvestab eri kultuurist tulenevate nõudmiste ja tingimustega;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "seab järgmised tegevused ja strateegiad oma soorituse parandamiseks.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "spordieetika",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "järgib spordieetika ja ausa mängu põhimõtteid",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab spordieetika põhimõtteid ja ausa mängu tähtsust tippspordis;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuvastab eetilisi dilemma-olukordi oma igapäevases treening- ja võistluskeskkonnas;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab oma otsuste eetilisust ja oma vastutust spordivõistlustel ja tiimis;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib juhtumianalüüside ja eneseanalüüsi kaudu, kuidas otsused ja käitumine vastavad spordieetika normidele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutab tiimiga, kuidas rakendada eetilisi põhimõtteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kohaldab eetilisi põhimõtteid oma tegevustes ja võistlusolukordades.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "võistlustegevuse ja õppetöö planeerimine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "ühildab võistluskalendrit ja õppetööd",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "planeerib isiklikku võistluskalendrit, arvestades hooaja nõudmisi ja isiklikke eesmärke;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab oma suutlikkust ajaplaneerimises ja enesejuhtimises;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "dokumenteerib ja jälgib oma ajakasutust võistluste, treeningute ja koolitöö osas;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutab ja kooskõlastab oma ajaplaneerimist treeneri ja õpetajaga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb järeldused saadud kogemustest ja arenguvajadustest ajakava kohandamiseks.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine, sh mitteformaalõppes läbitud kursuste hindamise alused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursust hinnatakse mitteeristavalt (arvestatud/mitte arvestatud).</p><p>Arvestuse saamise eeldused on:</p><ul><li>aktiivne osalemine õppetegevustes;</li><li>kirjaliku eneseanalüüsi esitamine;</li><li>kursuse lõpus toimuval suulisel arutelul või esitlusel osalemine ning oma seisukohtade põhjendamine.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamine toetab tippsportlasest õpilase eneseanalüüsi ja teadlikku arengut, keskendudes õpitulemuste saavutamisele, mitte võistlustulemustele.</p>"
+        }
+      ]
+    }
+  ]
+}

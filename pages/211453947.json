@@ -1,0 +1,485 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "1.1. Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Kodundus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>on õppeaine, kus tähelepanu keskmes on inimese üldine heaolu ja igapäevaelus hakkamasaamine ning selleks kujundatavad teadmised, oskused ja hoiakud. Koostöö ja kriitilise mõtlemise kaudu avastab õpilane enda potentsiaali erinevates ainealastes tegevustes, mõistab elukeskkonna jätkusuutlikkust ja enda rolli selle tagamisel. Õppes väärtustatakse nii eesti toidukultuuri ja -traditsioone kui ka kujundatakse avatud meelt teiste rahvaste toidukultuuri ja tavade suhtes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II kooliastmes",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>keskendutakse ainealaste mõistete tundmaõppimisele ning peamiste töövõtete ja tehnoloogiate omandamisele, mis on praktiliste ülesannete lahendamise eelduseks. Õpitakse mõistma erinevate otsuste mõju iseendale ja keskkonnale. Õpiviiside valikul lähtutakse õpilaste eakohasusest ja huvidest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III kooliastmes",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>täiendatakse aineteadmisi ja praktilisi oskusi probleemilahenduse kaudu. Õpitakse analüüsima enda käitumist ja mõtestama tehtud otsuste mõju ning ollakse valmis astuma samme enda heaolu ja jätkusuutliku majandamise suunas. Õpiviisid võimaldavad arendada süsteemset mõtlemist ja planeerimisoskust.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Toiduharidus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab tööd kavandades ainealast kirjandust ja teabeallikaid kooskõlas autoriõigusega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib ja kombineerib materjale, sh toiduaineid eri töötlusviiside jaoks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab sobilikke materjale, töövahendeid, -pinke, masinaid ning viimistlus-ja/või kaunistusvõtteid eesmärgipäraselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib tervisekaitse- ja tööohutusnõudeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "planeerib iseseisvalt või rühmas tervikliku tööprotsessi ning funktsionaalse ja esteetilise tulemuse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab ülesannete täitmiseks loovaid lahendusi üksi ja/või rühmas, kasutab teadlikult teistes ainetes õpitut;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab toitumistavasid mõjutavaid tegureid ja toitumise eripärasid ning rakendab neid toitu valmistades;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitleb, analüüsib ja põhjendab tööprotsessis tehtud valikuid ning lõpptulemust kas suuliselt või kirjalikult, kasutades sealhulgas digivahendeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab enda ja teiste tehtule konstruktiivset tagasisidet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab õpitus seoseid igapäevaelu ja erinevate ametite ning hobidega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Heaolu ja tervis toidust",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Tervisliku toidu valikute olulisus, tasakaalustatud toitumine, päevane energiavajadus nooruki eas</li><li>Toidugruppide roll ja tähtsus toitumises</li><li>Tasakaalustatud menüü koostamine. Erinevad toitainete vajadused menüü koostamisel -süsivesikud, valgud, rasvad, vitamiinid, mineraalained ja vesi</li><li>Toitumise tähtsus kogukonna- ja heaolutunde kujundamisel</li><li>Toiduvalikud eritoitumise korral</li><li>Toiduallergia ja toidutalumatus</li><li>Toitumishäired</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Toidu ohutu valmistamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Toiduhügieen toidu käitlemisel, valmistamisel ja säilitamisel</li><li>Toidu säilitamise tingimused ja nende jälgimise olulisus</li><li>Kuumtöötlemise viisid, valik lähtuvalt toorainest ja soovitavast tulemusest</li><li>Erinevate köögiseadmete ja töövahendite ohutu ja funktsionaalne kasutamine</li><li>Retseptide võrdlused ja koguste arvutamine toidu valmistamisel. Oma retseptide koostamine.</li><li>Toitude valmistamine, mis toetavad õpilaste heaolu ja tervist.</li></ul>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tarbijaharidus ja keskkond",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab tööd kavandades ainealast kirjandust ja teabeallikaid kooskõlas autoriõigusega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab infoallikates, sh pakenditel sisalduvat teavet kriitiliselt ja analüüsib selle põhjal oma tarbimisharjumusi ning teadlikke tarbimisvalikuid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab koostada eelarvet toote valmistamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib tervisekaitse- ja tööohutusnõudeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab jäätmete käitlemise ning keskkonnahoiu põhilisi nõudeid ja ressursside säästliku kasutamise mõju tervisele ning sotsiaal-, majandus-ja looduskeskkonnale;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab ülesannete täitmiseks loovaid lahendusi üksi ja/või rühmas, kasutab teadlikult teistes ainetes õpitut;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitleb, analüüsib ja põhjendab tööprotsessis tehtud valikuid ning lõpptulemust kas suuliselt või kirjalikult, kasutades sealhulgas digivahendeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab enda ja teiste tehtule konstruktiivset tagasisidet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab õpitus seoseid igapäevaelu ja erinevate ametite ning hobidega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Puhastus- ja korrastustööde käigus kasutatavad meetodid, vahendid ning tööviisid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Uute tehnoloogiate kasutamine ja keskkonnasõbralik lähenemine puhastus ja korrastustöödes</li><li>Rõivaste hooldus vastavalt tingmärkidele</li><li>Erinevates puhastustöödes kasutatavate kemikaalide ja puhastuslahuste pH</li><li>Kodutööde mõtestamine ja jaotus soolise võrdõiguslikkuse aspektist</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Toiduga seotud tarbijateemad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Toidu päritolu ja läbipaistvus</li><li>Toiduainete tootmise ja transportimise mõju keskkonnale ja inimese tervisele</li><li>Toidu ökoloogiline tsükkel</li><li>Toidu raiskamise mõju keskkonnale</li><li>Toiduressursside väärindamine, ringmajandus</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Jäätmed",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Prügi sorteerimine</li><li>Jäätmete vähendamise ja taaskasutus</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kaupade ja teenuste valimine ja hooldus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Tarbija rolli mõistmine ning teadlikud valikud tarbijana</li><li>Üldine finantsiline teadlikkus- sissetulekud, kulutused, säästmine</li><li>Maksete tasumise viisid (sh laenud, deebet- ja krediitkaardid jne)</li><li>Tarbijakaitseorganisatsioonid</li><li>Rõivaste, toidu ostmise/tarbimise majandusliku (säästlik valik), sotsiaalse ja keskkonnasäästlikkuse seisukohast</li></ul>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Käitumiskultuur",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab tööd kavandades ainealast kirjandust ja teabeallikaid kooskõlas autoriõigusega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "planeerib iseseisvalt või rühmas tervikliku tööprotsessi ning funktsionaalse ja esteetilise tulemuse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab ülesannete täitmiseks loovaid lahendusi üksi ja/või rühmas, kasutab teadlikult teistes ainetes õpitut;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb peamisi Eesti kultuuri-, käsitöö- ja toitumistavasid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb eri rahvaste kultuuritavasid ja rahvustoite;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab toitumistavasid mõjutavaid tegureid ja toitumise eripärasid ning rakendab neid toitu valmistades;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitleb, analüüsib ja põhjendab tööprotsessis tehtud valikuid ning lõpptulemust kas suuliselt või kirjalikult, kasutades sealhulgas digivahendeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab enda ja teiste tehtule konstruktiivset tagasisidet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab õpitus seoseid igapäevaelu ja erinevate ametite ning hobidega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Etikett",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Käitumine ja riietus koduses peolauas, kohvikus ning restoranis, vastuvõttudel</li><li>Laua katmine ja toidu serveerimine erinevatel sündmustel</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Eesti ja maailma toidukultuur ja kombed",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Toidu olulisus erinevates kultuurides</li><li>Toiduga seotud kombed ja tavad</li><li>Eesti toidukultuuri uurimine ja kohaliku tooraine kasutamine mitmekesiste toitude valmistamisel.</li><li>Erinevate rahvusköökide uurimine ja vastavate toitude valmistamine praktikas.</li></ul>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "1.3. Metoodilised soovitused",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453947/Juhised%20k%C3%A4sit%C3%B6%C3%B6%20ja%20kodunduse%20%C3%B5petajale%202023.pdf?version=1&modificationDate=1706621651757&api=v2",
+          "title": "Juhised käsitöö ja kodunduse õpetajale 2023.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453947/Tarbijaharidus_III%20kooliaste.pdf?version=1&modificationDate=1706621651767&api=v2",
+          "title": "Tarbijaharidus_III kooliaste.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453947/Toiduharidus_III%20kooliaste.pdf?version=1&modificationDate=1706621651774&api=v2",
+          "title": "Toiduharidus_III kooliaste.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "1.4. Viiteid vabavaralisele õppevarale",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://www.tlu.ee/sites/default/files/Instituudid/LTI/Dokumendid/LEAD%20material_EST.pdf",
+          "title": "Õppimist toetavad digitaalsed vahendid kodunduse tundides"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.tlu.ee/sites/default/files/NAVI_material_EST.pdf",
+          "title": "Võimalusi digitaalsete väljakutsetega toimetulekuks kodunduse tundides"
+        },
+        {
+          "kind": "link",
+          "href": "https://tai.ee/et/valjaanded/toitumine-ja-liikumine-i-iii-kooliaste-opetajaraamat",
+          "title": "Toitumine ja liikumine. I-III kooliaste. Õpetajaraamat"
+        },
+        { "kind": "link", "href": "https://toitumine.ee/", "title": "TAI" },
+        {
+          "kind": "link",
+          "href": "https://www.ekyl.ee/vaartustadestoitu/kasiraamatud/",
+          "title": "Väärtustades toitu"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/teravili/",
+          "title": "Õpiobjekt: Teravili"
+        },
+        {
+          "kind": "link",
+          "href": "https://minuraha.ee/et/kasulikud-abivahendid/opetajale",
+          "title": "Rahateemad"
+        },
+        {
+          "kind": "section",
+          "title": "Videomaterjalid",
+          "children": [
+            { "kind": "text", "html": "<p>Eesti toidu lugu</p>" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=hEq5V4OyCRk&t=16s"
+            },
+            {
+              "kind": "section",
+              "title": "Toidu ohutus",
+              "children": [
+                { "kind": "text", "html": "<p>Toidu keemiline ohutus</p>" },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=tgcRwZyh2FA"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kasuta puhast vett ja toorainet</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=rYTpT22tmH0"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Säilita toitu õigel temperatuuril</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=9lsv_Twyo1Q"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Hoia toores ja valmistoit eraldi</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=3O16dfZCsQ0"
+                },
+                { "kind": "text", "html": "<p>Kuumuta põhjalikult</p>" },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=haCJMLa_Vts&t=15s"
+                },
+                { "kind": "text", "html": "<p>WHO toiduohutuse 5 võtit</p>" },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=PYxg3IVc4K8"
+                },
+                { "kind": "text", "html": "<p>Hoia puhtust</p>" },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=sNa-HriGeic"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Toidu valmistamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Köögis teadlikult ja ohutult</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=Q6JGwBDJMhU"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kuidas lihtsalt, kiirelt ja ohutult süüa teha</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=trF8H6zuISc"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/playlist?list=PLk8F-STepltxtqOl1-tVOrkFHRnXCT5yw",
+                  "title": "Peakokad koolis, retseptid"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Jäätmed/prügi",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kuidas kodus prügi sorteerida?</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=zlX9MojejZ8&t=76s"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Õppevideo plastpudeli teekond</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=YO3UCHsFfZc&t=4s"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Õppevideo klaaspudeli teekond</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=TYCSMQqA8Ik&t=4s"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Õppevideo plekkpurgi teekond</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=74CAM6Nd_Sc&t=5s"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "link",
+          "href": "https://tai.ee/et/valjaanded?type=24&keys=&area=634&sort_bef_combine=created_DESC&sort_by=created&sort_order=DESC&page=0",
+          "title": "Toitumise plakatid “Rääkivate seinte” tegemiseks"
+        }
+      ]
+    }
+  ]
+}

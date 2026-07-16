@@ -1,0 +1,1049 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Mikroorganismide ehitus ja eluprotsessid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab bakterite, algloomade ja viiruste põhitunnuste eripära võrreldes taimede ja loomadega",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid bakterite ja algloomade leviku kohta eri elupaikades, sh aeroobses ning anaeroobses keskkonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab kiire paljunemise ja püsieoste moodustumise olulisust bakterite levikus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib ning selgitab bakterite ja algloomade tähtsust looduses ning inimtegevuses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, kuidas kaitsta toitu bakteriaalse riknemise eest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab inimese sagedasemaid bakteritest, viirustest ja algloomadest põhjustatud haigusi nende levikuviisidega ning teab, kuidas neid vältida.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Bakterite ja algloomade võrdlus loomade ning taimedega. Vabalt elavate ja parasiitse eluviisiga mikroorganismide levik ning tähtsus. Bakterite aeroobne ja anaeroobne eluviis. Käärimiseks vajalikud tingimused. Bakterite paljunemine ja levik. Toidu bakteriaalse riknemise eest kaitsmise viisid. Bakterhaigustesse nakatumine ja haiguste vältimine. Bakterite osa looduses ja inimtegevuses.</p><p>Viiruste ehituse ja talitluse eripära. Viirustega nakatumine, peiteaeg, haigestumine ja tervenemine.</p><p>Mikroorganismidega seotud elukutsed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>bakter, algloom, viirus, silmtäpp, pooldumine, aeroobne eluviis, anaeroobne eluviis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>bakterite elutegevust mõjutavate tegurite uurimine arvutimudeliga;</li><li>bakterite leviku hindamine bakterikultuuri kasvatades;</li><li>jogurti valmistamine juuretise abil.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Saadakse ülevaade mikroorganismidest, nende tähtsusest looduses ja inimtegevuses ning nendega seotud haiguste levikust ja haigustest hoidumisest. Teema on oluline mõistmaks, et haigusi põhjustavad eri tüüpi mikroorganismid ning sellest tulenevad ka erinevad ravi või ennetamise võtted. Tutvutakse mikroorganismide uurimisega tegelevate elukutsetega nagu mikrobioloog, toidutehnoloog ja viroloog. Teema toetab terviseteadliku käitumise ja hoiakute kujunemist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/muuseumi-e-oppematerjalid/",
+              "title": "Eesti Tervisemuuseumi õppematerjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://teaduskool.ut.ee/et/bioloogiaolumpiaadi-arhiiv",
+              "title": "Bioloogiaolümpiaadi arhiiv"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-oppekeskus.ee/viktoriinid/bioloogiaviktoriin-siniroheline-maa/",
+              "title": "Siniroheline Maa"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-oppekeskus.ee/kursused/?_valdkond=bioloogia-ja-meditsiin&_klassid=9-klass",
+              "title": "TÜ teaduskooli e-kursused"
+            },
+            {
+              "kind": "link",
+              "href": "https://opetaja.edu.ee/hindamismudelid",
+              "title": "Hindamismudel"
+            },
+            {
+              "kind": "link",
+              "href": "https://opetaja.edu.ee/hindamismudelid/",
+              "title": "Hindamismudelid"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1qwEsAknqGO8RNiLkT6HhjaU_n9OonHYo/edit",
+              "title": "Uurimistöö hindamismudeli näidis"
+            },
+            {
+              "kind": "link",
+              "href": "https://evidence-erasmus.github.io/evidence/et/tools/peer-feedback",
+              "title": "Vastastikuse tagasisidestamise näidis"
+            },
+            {
+              "kind": "link",
+              "href": "https://evidence-erasmus.github.io/evidence/tools/reliability-assessment",
+              "title": "Info usaldusväärsuse hindamise juhend"
+            },
+            {
+              "kind": "link",
+              "href": "https://ebu.ee/vabavara/protistid.php",
+              "title": "Algloomad, viirused ja bakterid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/en/oppematerjal/25635-OPILUGU-Algloomade-uurimine",
+              "title": "Algloomade uurimine"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=qrBzwmXjiqY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=CRvcYcwJK-8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=JUwFsLDUUlw"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=SJBOF-swcfI"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=SMihqpiSBsk"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=SAe8s7kMrcE"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/1KWFkIKWCsclh_vfByDUjPb4Q-yw_Pjz1/view",
+              "title": "Bakterid ja inimene"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/1BKGNwfpSvDDGdeXyaCCzTkWjvrk6bjgF/view",
+              "title": "Bakterid ja keskkond"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=7pR7TNzJ_pA"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=mv6Ehv06mXY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=rFCBrpgkmsQ"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=gwYIyjwYluc"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/31674-Koroonaviiruse-oppematerjal-7-9-klassi-opilastele-1-tund",
+              "title": "Koroonaviiruse õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/haridus/muuseumitunnid/iii-kooliaste/",
+              "title": "Eesti Tervisemuuseumi muuseumitund"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Pqb8hYU34Fg"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=m33mEQ6fyGI&t=5s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=GJ09ukT2Og0"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/bakterid/bakterite-maailm?authuser=0",
+              "title": "Bakterite maailm"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/bakterid/minu-bakterid?authuser=0",
+              "title": "Minu bakterid"
+            },
+            {
+              "kind": "link",
+              "href": "https://synaps.simplecast.com/episodes",
+              "title": "Taskuhääling Sünaps"
+            },
+            {
+              "kind": "link",
+              "href": "https://synaps.simplecast.com/episodes/sunaps-15-rugetest-ja-vaktsineerimisest-17bJ8WMG",
+              "title": "Vaktsineerimisest ja rõugetest"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/testid/7794",
+              "title": "Test inimese elundkondadest"
+            },
+            {
+              "kind": "link",
+              "href": "https://ebu.ee/vabavara/inimene.php",
+              "title": "Inimese õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ebu.ee/vabavara/inimene.php",
+              "title": "Inimese luustik ja lihaskond"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=nkRlq_CsMmg"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=B-xVryhMgmg"
+            },
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/2515",
+              "title": "Inimese erinevad koed"
+            },
+            {
+              "kind": "link",
+              "href": "https://synaps.simplecast.com/episodes/sunaps-65-sunnimargid",
+              "title": "Sünnimärgid"
+            },
+            {
+              "kind": "link",
+              "href": "https://jeopardylabs.com/play/rakud-ja-koed",
+              "title": "Kuldvillaku mäng: rakud ja koed"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/2507/edit",
+              "title": "Naha ehitus"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=AKesuid2iSI"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=qsfpgh56oak&t=5s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=MS3wZdosd0A&feature=youtu.be"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/2492/edit",
+              "title": "Luude ja lihaste ülesanded"
+            },
+            { "kind": "embed", "src": "https://learningapps.org/1743130" },
+            { "kind": "embed", "src": "https://learningapps.org/3818358" },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/280/chapter/15769",
+              "title": "Inimese lihased"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ebu.ee/materjale.php",
+              "title": "EBÜ materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://ebu.ee/materjale.php",
+              "title": "EBÜ materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://lepo.it.da.ut.ee/~jaanusu/syda.html",
+              "title": "Lisalugemist vereringeelundite kohta"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ysbf.org/bioanikal/",
+              "title": "BioAniKal animatsioonid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/1128-Inimene-Vereringe-ja-suda#260229-Inimene-Vereringe-ja-suda",
+              "title": "Esitlus vereringest"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.google.com/search?q=heart+3d+animation&rlz=1C1GCEA_enEE1028EE1028&oq=heart+3d+anim&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yBggHEEUYPKgCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:2b9d6836,vid:oIuIo9dbX88,st:0",
+              "title": "3D animatsioon südame ehitusest ja talitlusest"
+            },
+            {
+              "kind": "link",
+              "href": "https://test.ekk.edu.ee/eis/lahendamine/2024/edit",
+              "title": "EISi ülesanded: süda"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/2522",
+              "title": "Südame ehitus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/280/chapter/15771",
+              "title": "Vereringeelundkond ja südame ehitus"
+            },
+            {
+              "kind": "file",
+              "src": "https://astrablobs.blob.core.windows.net/kitcontent/b82760b1-f37e-4ece-8d9f-19c250ff89b3/262fc680-7342-476e-8429-c46ad2bb59c9/fc17373b-7b89-40f6-861d-b0f9c458e2d1.pdf",
+              "title": "Tööleht"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.purposegames.com/game/sudame-ehitus",
+              "title": "Südame ehituse mäng"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.purposegames.com/game/inimese-suda-game",
+              "title": "Inimese südame mäng"
+            },
+            {
+              "kind": "link",
+              "href": "https://wordwall.net/en-gb/community/heart-and-circulatory-system",
+              "title": "Südame ehituse ja vereringeelundkonna mängud"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.ampser.ee/",
+              "title": "Bioarvesti"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/toitumine/s%C3%B6%C3%B6-terviseks?authuser=0",
+              "title": "Söö terviseks!"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=WxlZVDwdcWA"
+            },
+            {
+              "kind": "link",
+              "href": "https://suitsuvaba.ee/",
+              "title": "Suitsetamisest"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=R6TNwXrAS_4"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.terviseinfo.ee/et/valdkonnad/seksuaaltervis",
+              "title": "Seksuaaltervis"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hiv.ee/",
+              "title": "TAI HIV lehekülg"
+            },
+            {
+              "kind": "link",
+              "href": "https://seksuaaltervis.ee/",
+              "title": "Seksuaaltervis"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/6802-Lara-on-rase",
+              "title": "Lara on rase"
+            },
+            {
+              "kind": "file",
+              "src": "http://icaseonline.net/parsel/www.parsel.uni-kiel.de/cms/fileadmin/parsel/Material/Kiel/lara_is_pregnant.pdf",
+              "title": "Sissejuhatav esitlus/lugu"
+            },
+            {
+              "kind": "link",
+              "href": "https://mudelid.5dvision.ee/",
+              "title": "Mudel"
+            },
+            {
+              "kind": "link",
+              "href": "https://noored.alkoinfo.ee/",
+              "title": "Alkoholist"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.narko.ee/",
+              "title": "TAI narkoteemaline veebileht"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/meeled/aju?authuser=0",
+              "title": "Aju"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=KfQJZYvKiKA"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=FTHEoW_zSh8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=F8jXW2D2DX0"
+            },
+            {
+              "kind": "link",
+              "href": "https://coopervision.co.uk/practitioner/clinical-resources/myopia-in-children/myopia-simulator",
+              "title": "Lühinägelikkuse simulaator"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/36#/section/9920",
+              "title": "Optika osa"
+            },
+            {
+              "kind": "link",
+              "href": "https://elundkonnad.weebly.com/meeleelundid.html",
+              "title": "Lisalugemist meeleelundite kohta"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/j%C3%A4reltegevused/n%C3%A4gemata-n%C3%A4htud-maailm?authuser=0",
+              "title": "Nägemata nähtud maailm"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/meeled/n%C3%A4gemine?authuser=0",
+              "title": "Nägemine"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/meeled/haistmine?authuser=0",
+              "title": "Haistmine"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/meeled/kuulmine?authuser=0",
+              "title": "Kuulmine"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/meeled/kompimine?authuser=0",
+              "title": "Kompimine"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/meeled/maitsmine?authuser=0",
+              "title": "Maitsmine"
+            },
+            {
+              "kind": "link",
+              "href": "https://michaelbach.de/ot/",
+              "title": "Optilised illusioonid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/280/chapter/16819",
+              "title": "Interaktiivsed ülesanded: meeleelundid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/280/chapter/16821",
+              "title": "Interaktiivsed ülesanded: kõrv"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/kit/280/chapter/16822",
+              "title": "Interaktiivsed ülesanded: haistmine ja maitsmine"
+            },
+            {
+              "kind": "link",
+              "href": "https://mudelid.5dvision.ee/parilikkus/index.htm",
+              "title": "Pärilikkuse seaduspärasuste mudel"
+            },
+            {
+              "kind": "link",
+              "href": "https://mudelid.5dvision.ee/tondid/index.htm",
+              "title": "Päriliku muutlikkuse mudel"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.coe.int/et/web/compass/gender",
+              "title": "Bioloogiline ja sotsiaalne sugu"
+            },
+            {
+              "kind": "link",
+              "href": "https://loodusveeb.ee/et/themes/bioloogiline-ohutus/gmo-d-nende-ohud-ja-voimalused",
+              "title": "GMO-d"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/katse%20protokolldocx.docx?version=1&modificationDate=1706621641399&api=v2",
+              "title": "Katse protokoll"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/Uurimisto%CC%88o%CC%88%20hindamismudel_Na%CC%88ide.docx?version=1&modificationDate=1706621641439&api=v2",
+              "title": "Uurimistöö hindamismudel"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/to%CC%88o%CC%88lehed.docx?version=1&modificationDate=1706621641412&api=v2",
+              "title": "Töölehed"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/Hindamismudel%20mo%CC%83istekaardile.docx?version=1&modificationDate=1706621641432&api=v2",
+              "title": "Hindamismudel mõistekaardile"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/probleemu%CC%88lesanded.docx?version=1&modificationDate=1706621641380&api=v2",
+              "title": "Probleemülesanded"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/Arutelus%20osalemine.docx?version=1&modificationDate=1706621641446&api=v2",
+              "title": "Arutelus osalemine"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/kokkuvo%CC%83ttev%20to%CC%88o%CC%88%20vo%CC%83i%20kirjalik%20test.docx?version=1&modificationDate=1706621641387&api=v2",
+              "title": "Kokkuvõttev töö või kirjalik test"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/Diagnostiline%20test.docx?version=1&modificationDate=1706621641392&api=v2",
+              "title": "Diagnostiline test"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/Ru%CC%88hmato%CC%88o%CC%88%20.docx?version=1&modificationDate=1706621641405&api=v2",
+              "title": "Rühmatöö"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/Essee.docx?version=1&modificationDate=1706621641418&api=v2",
+              "title": "Essee"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/Esitlus%20ja%20ettekanne.docx?version=1&modificationDate=1706621641452&api=v2",
+              "title": "Esitlus ja ettekanne"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453762/Arutelus%20osalemist.docx?version=1&modificationDate=1706621641424&api=v2",
+              "title": "Arutelus osalemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Inimese koed ja elundkonnad",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "võrdleb ja põhjendab eri kudede ehituse ja talitluse seotust ning ülesandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid eri elundite, kudede ja elundkondade kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib naha ehituse ja talitluse kooskõla kompimis-, kaitse-, termoregulatsiooni- ja eritusfunktsiooni täitmisel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab naha tervishoiuga seotud tervislikku eluviisi.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ülevaade inimese elundkondadest, elunditest ja kudedest (epiteel-, side-, närvi-, lihaskude). Kudede eripärad, nende ehituse seos talitlusega.</p><p>Naha ehitus ja ülesanded. Naha roll infovahetuses väliskeskkonnaga. Naha tervishoid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>tugi- ja liikumiselundkond, seedeelundkond, närvisüsteem, vereringe, hingamiselundkond, erituselundkond, suguelundkond, nahk, epiteel-, lihas-, side-, närvikude.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>naha tundlikkuse määramine selle erinevates piirkondades;</li><li>loomsete kudede ehituse võrdlemine mikroskoobiga.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Luud ja lihased",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab joonisel või mudelil inimese peamisi luid ning lihaseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab luude ja lihaste ehituse ning talitluse kooskõla, võrdleb sile-, vööt- ja südamelihaste ehitust ning talitlust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib erinevate luudevaheliste ühenduste seoseid nende ülesannetega ning toob nende kohta näiteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib õige toitumise ja treeningu mõju tugi- ja liikumiselundkonnale ning toob selle kohta näiteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "peab tähtsaks enda lihaste tervislikku treenimist.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Luude ja lihaste osa inimese ning teiste selgroogsete loomade tugi- ja liikumiselundkonnas. Luude ehituse iseärasused. Luudevaheliste ühenduste tüübid ja tähtsus. Inimese luustiku võrdlus teiste selgroogsete loomadega.</p><p>Lihaste ehituse ja talitluse kooskõla. Luu- ja lihaskoe mikroskoopiline ehitus ning selle seos talitlusega. Treeningu ja toitumise mõju tugi- ja liikumiselundkonnale.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>toes, lameluu, toruluu, lihas, liiges, luuüdi, käsnollus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>uurimistöö lihasväsimuse tekke ja treenituse seosest;</li><li>kanatiiva lahkamine.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vereringe",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib inimese vereringeelundkonna jooniseid ja skeeme",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab südame, erinevate veresoonte ehituse ja vere koostisosade eripära nende talitlusega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab inimese sagedasemaid südame- ja veresoonkonnahaigusi nende tekkepõhjustega ning väärtustab vereringeelundkonda ja immuunsüsteemi tugevdavat eluviisi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab vere osa organismi lühi- ja pikaajalise immuunsuse kujunemisel, immuunsüsteemi häirete tekkimist ning vaktsineerimise tähtsust nakkushaiguste vältimiseks.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Südame ning suure ja väikese vereringe osa inimese aine- ja energiavahetuses. Erinevate veresoonte ehituslik ja talitluslik seos. Vere koostis ja koostisosade ülesanded.</p><p>Vere osa organismi immuunsüsteemis. Immuunsuse kujunemine: lühi- ja pikaajaline immuunsus. Immuunsüsteemi ja vaktsineerimise osa bakter- ja viirushaiguste vältimisel. Immuunsüsteemi häired, allergia, HIV ja AIDS. Treeningu mõju vereringeelundkonnale. Südamelihase ala- ja ülekoormuse tagajärjed. Veresoonte lupjumise ning kõrge ja madala vererõhu põhjused ja tagajärjed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>süda, veresoon, arter, veen, kapillaar, arteriaalne veri, venoosne veri, vererõhk, elektrokardiogramm, hemoglobiin, punane vererakk, valge vererakk, vereliistak, vereplasma, hüübimine, lümf, lümfisõlm, antikeha, immuunsus, immuunsüsteem, HIV, AIDS.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Seedimine ja eritamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "koostab ning analüüsib seedeelundkonna ehituse jooniseid ja skeeme ning selgitab nende alusel toidu seedimist ja toitainete imendumist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab valkude, rasvade, süsivesikute, vitamiinide, mineraalainete ja vee ülesandeid inimorganismis ning nende üle- või alatarbimisega kaasnevaid probleeme",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab neerude, kopsude ja naha osa jääkainete eritamisel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimese seedeelundkonna ehitus ja talitlus. Organismi energiavajadust mõjutavad tegurid. Toitainete vajadus ning tervislik toitumine, üle- ja alakaalulisuse põhjused ning tagajärjed.</p><p>Neerude üldine tööpõhimõte vere püsiva koostise tagamisel. Kopsude ja naha eritamisülesanne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>valgud, rasvad, süsivesikud, kiudained, ensüüm, vitamiin, sülg, maks, sapp, kõhunääre, peensool, soolehatt, jämesool, neer, uriin.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Hingamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib hingamiselundkonna ehituse ja talitluse kooskõla",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab ning analüüsib jooniseid ja skeeme hingamiselundkonna ehitusest ja talitlusest ning sisse- ja väljahingatava õhu koostisest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab hingamise olemust, sh hapniku ülesannet rakkudes, sisse- ja väljahingamist ning hingamise regulatsiooni",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib treeningu mõju hingamiselundkonnale",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab hingamiselundite levinumate haiguste tekkepõhjusi ja haiguste vältimise võimalusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hingamiselundkonna ehituse ja talitluse seos. Sisse- ja väljahingatava õhu koostise võrdlus. Hapniku ülesanne rakkudes (rakuhingamine). Organismi hapnikuvajadust määravad tegurid ja hingamise regulatsioon. Treeningu mõju hingamiselundkonnale. Hingamiselundkonna levinumad haigused ning nende vältimine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>hingetoru, kopsutoru, kopsusomp, hingamiskeskus, gaasivahetus, rakuhingamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Paljunemine ja areng",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "võrdleb naise ja mehe suguelundkonna ehitust ning talitlust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb inimese muna- ja seemnerakkude ehitust ning arengut, selgitab munaraku viljastumist ja seda mõjutavaid tegureid ning toob näiteid muutuste kohta loote arengus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab inimorganismi anatoomilisi vanuselisi muutusi talitluslike muutustega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mehe ja naise suguelundkonna ehituse ning talitluse võrdlus. Muna- ja seemnerakkude küpsemine. Munaraku viljastumine, loote areng, raseduse kulg ja sünnitus. Inimorganismi talitluse muutused sünnist surmani.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>emakas, munasari, seemnesari, munand, ovulatsioon, sperma, munajuha, loode, platsenta, nabanöör, sünnitamine, kliiniline surm, bioloogiline surm.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Talitluste regulatsioon",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab kesk- ja piirdenärvisüsteemi ehitust ning põhiülesandeid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab närviraku ehitust selle talitlusega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab ja analüüsib refleksikaare skeeme ning selgitab nende alusel selle talitlust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab erinevaid sisenõrenäärmeid nende toodetavate hormoonide toimega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab närvisüsteemi ja hormoonide osa elundkondade talitluste regulatsioonis",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub kriitiliselt närvisüsteemi kahjustavate ainete tarbimisse.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kesk- ja piirdenärvisüsteemi ehitus ning ülesanded. Närviraku ehitus ja rakuosade ülesanded. Refleksikaare ehitus ja talitlus. Närvisüsteemi tervishoid. Närvisüsteemi kahjustavad ained.</p><p>Peamised sisenõrenäärmed ja nende toodetavate hormoonide ülesanded.</p><p>Elundkondade koostöö inimese terviklikkuse tagamisel. Närvisüsteemi ja hormoonide osa elundkondade talitluste regulatsioonis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>peaaju, seljaaju, närv, närvirakk, retseptor, närviimpulss, dendriit, neuriit, refleks, sisenõrenäärmed, hormoon.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Infovahetus väliskeskkonnaga",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib silma osade ja suuraju nägemiskeskuse koostööd nägemisaistingu tekkimisel ning tõlgendamisel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab kaug- ja lühinägelikkuse tekkepõhjusi ning nägemishäirete vältimise ja korrigeerimise viise",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab kõrva ehitust kuulmis- ja tasakaalumeelega ning väärtustab meeleelundeid säästvat eluviisi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb ning seostab haistmis- ja maitsmismeelega seotud organite ehitust ning talitlust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Silma ehituse ja talitluse seos. Nägemishäirete vältimine ja korrigeerimine. Kõrvade ehituse seos kuulmis- ja tasakaalumeelega. Kuulmishäirete vältimine ja korrigeerimine. Haistmis- ja maitsmismeelega seotud organite ehituse ja talitluse seosed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>pupill, silmalääts, võrkkest, vikerkest, kepikesed, kolvikesed, kollatähn, pimetähn, lühinägevus, kaugelenägevus, värvipimedus, kõrvalest, väliskõrv, keskkõrv, sisekõrv, trummikile, kuulmeluud, kuulmetõri, tigu, poolringkanalid, tasakaaluelund, retseptor, haisterakk.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Pärilikkus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib pärilikkuse ja muutlikkuse osa inimese tunnuste näitel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab DNA, geenide ning kromosoomide seost ja osa pärilikkuses ning geenide pärandumist ja avaldumist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab dominantsete ja retsessiivsete geenialleelide avaldumisega seotud lihtsamaid geneetikaülesandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab päriliku ja mittepäriliku muutlikkuse osa inimese tunnuste näitel ning analüüsib diagrammidel ja tabelites esitatud infot mittepäriliku muutlikkuse ulatuse kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid geenitehnoloogia tegevusvaldkondade kohta ja hindab organismide geneetilise muutmise võimalusi, tuginedes teaduslikele ja teistele kaalukatele seisukohtadele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid pärilike ja päriliku eelsoodumusega haiguste vältimise võimaluste kohta ning analüüsib neid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab selgitada inimeste pärilikku ja mittepärilikku mitmekesisust ning suhtub sellesse mõistvalt.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pärilikkus ja muutlikkus organismide tunnuste kujunemisel. DNA, geenide ja kromosoomide osa pärilikkuses. Geenide pärandumine ja nende määratud tunnuste avaldumine. Lihtsamate geneetikaülesannete lahendamine. Päriliku muutlikkuse tähtsus.</p><p>Mittepäriliku muutlikkuse põhjused ja tähtsus. Organismide pärilikkuse muutmise võimalused ning sellega kaasnevad teaduslikud ja eetilised küsimused. Pärilike ja päriliku eelsoodumusega haiguste võrdlus ning haigestumise vältimine. Geenitehnoloogia tegevusvaldkond ja sellega seotud elukutsed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>pärilik muutlikkus, mittepärilik muutlikkus, mutatsioon, kromosoom, DNA, geen, dominantsus, retsessiivsus, geenitehnoloogia.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

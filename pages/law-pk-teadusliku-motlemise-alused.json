@@ -1,0 +1,132 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikõppeaine kirjeldus ja õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikõppeaine ainekava on mõeldud kasutamiseks III kooliastmes. Valikõppeaine toetab vastavalt õpilase maailmapildi kujunemist, inimese enesemääratlemise ja enesemääramise võimet ning kolmandaks õpilase kriitilise mõtlemise arengut (näiteks funktsionaalse lugemise oskust). Valikõppeaine on ennekõike seotud sellega, kuidas me inimestena avastame ja mõtestame meid ümbritsevat maailma. Õppesisu esimene osa on sissejuhatav ning keskendub sellele, miks on maailma tunnetamine inimesele isiklikult ja ühiskondlikult oluline.</p><p>Sissejuhatavale osale järgnevad kaks osa, mis käsitlevad maailma teadusliku tunnetamise põhimõtteid ning olulisemaid teadusliku mõtlemise vorme. Teises osas keskendutakse üldistele ideedele maailma tunnetamisest (seejuures ka teadusliku tunnetamise aluseks olevatele filosoofilistele mõistetele) ning eristatakse teaduslikku tunnetust teistest tunnetusteedest. Kolmandas osas vaadeldakse kõigepealt tunnetamise, mõtlemise ja keele vahelisi seoseid. Seejärel selgitatakse erinevaid loogilise mõtlemise vorme (nt mõistete defineerimine, liigitamine) ning arutleva teksti ülesehitust. Kolmandas osas õpitut saab kasutada arutlevate tekstide loomisel ja hindamisel. Neljas osa on kokkuvõttev – arutletakse probleemi mõiste ning teadusliku uuringu ühiskondliku rolli üle.</p><p>Valikõppeaine toetab riiklikus õppekavas seatud üldisemaid eesmärke, nagu õpilase igakülgne areng ja eneseteostuse võimalus. Valikõppeaine aitab mõtestada ja lõimida teisi õppeaineid ning pakub õpetajatele võimalust teha koostööd valikõppeaine korraldamisel. Valikõppeaine taotletavad õpitulemused on sõnastatud vastavalt SOLO taksonoomiale ning hindamisel kasutatakse kujundavat hindamist ehk kirjeldavat sõnalist tagasisidet. Õppesisu on täpsemalt avatud valikõppeaine juurde kuuluvates materjalides, kust võib leida ka soovituslikke tunnikirjeldusi, arutlusküsimusi ning harjutusi.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikõppeaine õpetamisega taotletakse, et õpilane põhikooli lõpuks:</p><ol><li>mõistab maailma teadusliku tunnetamise olemust ning kasutab teadusliku tunnetamisega seotud põhimõisteid;</li><li>selgitab maailma tunnetamise, mõtlemise ja keele vahelisi seoseid ning kasutab põhilisi teadusliku mõtlemise vorme enda ja teiste tekstide loomisel ning hindamisel;</li><li>selgitab, miks on teaduslik tunnetus ja teaduslik uurimine inimlikult ning ühiskondlikult olulised.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "III kooliaste",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab, kuidas inimene tunnetab maailma mudelite kaudu;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab maailma teadusliku tunnetamise filosoofilisi eeldusi ning rakendab kirjeldades teemakohaseid põhimõisteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab teadusliku tunnetust teistest tunnetusteedest ning iseloomustab teadusliku tunnetuse piire;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab maailma tunnetamise, mõtlemise ja keele vahelisi seoseid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab valikõppeaine teemadele vastavaid teadusliku mõtlemise vorme;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib nii enda kui ka teiste arutlusi nende loogilise struktuuri kontekstis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab maailma teadusliku tunnetamise inimlikku ja ühiskondlikku olulisust.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimene. Maailma avastamine. Inimene kui subjekt.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Maailma tunnetamine. Maailma tunnetamine ja maailmapilt. Abstraheerimine ja mudelid.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Filosoofia, ontoloogia ja realism. Objektiivsus. Tõde. Teadmine. Maailma tunnetamine ja teadmised. Empirism ja ratsionalism. Tavatunnetus. Teaduslik tunnetus. Teaduse saavutused ja piirid.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tunnetamine, mõtlemine ja keel. Maailma tunnetamine ja keel. Mõisted kui mudelid. Mõistetevahelised seosed. Mõistete defineerimine. Liigitamine. Otsustused. Süllogismid. Õige mõtlemise põhireeglid. Arutlev tekst.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teaduslik uuring ühiskonnas. Probleem ja kirjeldus. Teaduslik uuring ühiskonnas.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe kavandamine ja korraldamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikõppeaine rakendamiseks on koostatud õppematerjalid „Teadusliku mõtlemise alused“ ning „Teadusliku mõtlemise alused: õpe ja harjutused“, mis on õppe aluseks. Esimeses õppematerjalis on antud õppesisu teoreetiline alus. Teine õppematerjal on üles ehitatud selliselt, et teoreetilise aluse juurde on pakutud soovituslikud tunnikirjeldused, arutlusküsimused, harjutused ning lisamaterjalid.</p><p>Õpet kavandades ja korraldades lähtutakse järgmistest põhimõtetest:</p><ol><li>õpilane on subjekt, kes õpetaja juhendamisel, kuid iseseisvalt otsustab ning vastutab;</li><li>areng on objektiivne. Õpetajal on võimalik luua eeldused õpilase arenguks;</li><li>õpe on loominguline protsess. Õpilasel peab olema võimalus iseseisvalt jõuda asjakohaste küsimuste ja vastusteni, konstrueerides uusi teadmisi varasematele tuginedes;</li><li>õpilase areng on määrava tähtsusega õppeprotsessi kujundamisel;</li><li>õpe on süsteemne. Õpetamisel lähtutakse läbivatest põhimõistetest, mis seovad erinevad teemad tervikuks. Uut materjali käsitletakse seoses eelnevaga.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppematerjalide kasutamiseks on oluline esitlustehnika olemasolu. Loomulikult leidub erinevaid võimalusi klassiväliseks tegevuseks. Pikemate õppeülesannete tarbeks (sh õppeainetevahelise lõimingu kontekstis) on soovitatav kaaluda õppelaagri korraldamise võimalusi.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Käesolev õppeaine on üle võetud riikliku õppekava lisast (Riigi Teataja). Õpitulemused on esitatud algallika sõnastuses.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa13.pdf",
+          "title": "Riigi Teataja – Põhikooli riikliku õppekava lisa 13 (ainevaldkondade üleste valikõppeainete kavad) – „Teadusliku mõtlemise alused“"
+        }
+      ]
+    }
+  ]
+}

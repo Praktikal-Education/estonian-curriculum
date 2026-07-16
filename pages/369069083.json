@@ -1,0 +1,178 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Mooduli eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Mooduli eesmärk on kujundada õpilastes praktiline valmisolek riigikaitseliseks tegevuseks, arendades füüsilist võimekust, toimetulekuoskusi ja esmaseid meditsiinilisi teadmisi ja tehnilisi oskusi, mis võimaldavad tegutseda vastutustundlikult ja koostöiselt nii üksikisiku kui ka meeskonna liikmena.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Mooduli kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Moodul annab õpilastele praktilised teadmised ja oskused, mis toetavad füüsilist vastupidavust, toimetulekut välitingimustes ning tegutsemist olukordades, kus on vaja kiiret otsustamist, koostööd ja vastutust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppe käigus arendatakse õppuri kehalist võimekust ja tutvustatakse sõjalise kehalise ettevalmistuse põhimõtteid, harjutatakse erinevaid treeningmeetodeid ning õpitakse mõistma füüsilise ettevalmistuse rolli vastupidavuse, tervise ja turvalise tegutsemise tagamisel. Samuti tutvutakse sõjalise kehalise ettevalmistuse põhimõtetega ning valmistutakse kehaliste võimete kontrolltesti sooritamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Praktilise õppe käigus harjutatakse välitingimustes ttegutsemist ja oimetulekut: majutuse-, hügieeni- ja toitlustusvõimaluste korraldamist , individuaal- ja allüksuse varustuse sihipärast kasutamist ning orienteerumist kaardi ja kompassi abil nii valgel kui ka pimedal ajal. Õpitakse tegutsema nii iseseisvalt kui ka meeskonnaliikmena. arendades iseseisvust, distsipliini ja koostööoskust.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Moodul koosneb kolmest kursusest",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Esimene kursus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>annab ülevaate mehitamata õhusõidukite ehitusest, tööpõhimõtetest ja kasutusvõimalustest. Õpitakse lennuohutuse põhimõtteid, lennu planeerimist ning drooni praktilist kasutamist. Kursuse läbimisel valmistuvad õpilased Transpordiameti A1/A3 kategooria kaugpiloodi pädevuseksami sooritamiseks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Teine kursus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>annab praktilised teadmised ja oskused kannatanute abistamiseks olukordades, kus abi tuleb anda kiiresti ja piiratud tingimustes. Õpitakse hindama kannatanu seisundit, peatama eluohtlikku verejooksu ning rakendama esmaabi põhimõtteid turvaliselt ja süsteemselt.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kolmas kursus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kursus keskendub välitingimustes toimetulekule ning meeskonnatööle. Õpilased harjutavad orienteerumist, laagri korraldamist, varustuse kasutamist ning tegutsemist erinevates olukordades, kus on vaja koostööd, planeerimist ja vastutust.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Võimalusi lõiminguks, üldpädevuste arengu toetamiseks ja läbivate teemade käsitlemiseks",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Üldpädevused",
+          "children": [
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Pädevus</th><th>Kirjeldus</th></tr></thead><tbody><tr><td>Sotsiaalne ja kodanikupädevus</td><td>vastutustundlik tegutsemine meeskonnas ja kogukonnas.</td></tr><tr><td>Enesemääratluspädevus</td><td>oma füüsiliste võimete, piiride ja arenguvõimaluste mõistmine</td></tr><tr><td>Ettevõtlikkuspädevus</td><td>sihipärane tegutsemine, algatusvõime ja probleemide lahendamine praktilistes olukordades;</td></tr><tr><td>Digipädevus</td><td>Suutlikkus kasutada digitehnoloogiat, leida ja säilitada digivahendite abil infot ning hinnata selle asjakohasust ja usaldusväärsus, teha koostööd erinevates digikeskkondades; olla teadlik digikeskkonna ohtudest ning osata kaitsta oma privaatsust.</td></tr></tbody></table>"
+            },
+            {
+              "kind": "section",
+              "title": "Läbivad teemad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>väärtused ja kõlblus, teabekeskkond ja meediakasutus, tervis ja ohutus.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ainevaldkonnad",
+          "children": [
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Ainevaldkond</th><th>Kirjeldus</th></tr></thead><tbody><tr><td>Eesti keel ja kirjandus</td><td>Arutlemine, juhiste mõistmine ja koostöö suhtlemisel.</td></tr><tr><td>Võõrkeeled</td><td>Suhtlemine, rahvusvahelise terminoloogia ja juhendmaterjalide mõistmine.</td></tr><tr><td>Loodusained</td><td>Aerodünaamika alused, keskkonnategurite mõju, lennu planeerimine kaardi abil, keskkonnatingimused, ilmastiku mõju ja inimese füsioloogia.</td></tr><tr><td>Sotsiaalained</td><td>Koostöö ja vastutus ühiskonnas, info leidmine ja vahetamine, kriitiline mõtlemine.</td></tr><tr><td>Matemaatika</td><td>Kaardi lugemine, mõõtmine ja orienteerumine, probleemide lahendamine.</td></tr><tr><td>Robootika ja tehnoloogia</td><td>Mehitamata süsteemide kasutamine.</td></tr><tr><td>Kehaline kasvatus</td><td>Füüsilise võimekuse arendamine ja liikumisoskused.</td></tr></tbody></table>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppekeskkonna kujundamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpe on praktiline, kogemuslik ja õppijakeskne. Õpilased õpivad läbi tegevuse, koostöö ja realistlike olukordade lahendamise. Õpe keskendub iseseisva otsustusvõime ja vastutuse kujundamisele.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Soovitatav hindamisviis: mitteeristav.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Hinnatakse õpilaste arutlus- ja analüüsivõimet, otsus- ja koostööoskust, tehnilisi teadmisi ja nende rakendamise oskust, õpitulemuste rakendamist elulistes olukordades ja välitingimustes.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilane saab mehitamata õhusõidukit käitada kui on sooritanud teooria osa testi positiivsele tulemusele ja omandanud A1/A3 alamkategooria kaugpiloodi pädevustunnistuse.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "mõistab mehitamata õhusõidukite arengut, ehitust, tööpõhimõtteid, kasutusvaldkondi ning nende käitamisega seotud regulatsioone;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab inimtegurite ja keskkonnatingimuste mõju ning rakendab lennuohutuse põhimõtteid droonilendude planeerimisel ja teostamisel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "planeerib ja viib läbi mehitamata õhusõiduki lende vastavalt kehtivatele nõuetele ning omab A1/A3 kaugpiloodi pädevust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab füüsilise valmisoleku, välitingimustes tegutsemise, relvaohutuse ja esmaabi rolli turvalises ja tõhusas tegutsemises;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab välitingimustes tegutsemise oskusi, sealhulgas varustuse kasutamist, orienteerumist ning esmavajaduste tagamist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab kannatanu seisundit ja rakendab asjakohaseid esmaabi ning lahinguvälja esmaabi võtteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "järgib relvaohutuse nõudeid ning käsitseb relva ja laskemoona ohutult vastavalt etteantud juhistele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tegutseb distsiplineeritult, vastutustundlikult ja meeskonnaliikmena, panustades ohutusse ja tõhusasse koostöösse.",
+              "outcomeType": "competence"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

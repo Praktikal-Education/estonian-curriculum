@@ -1,0 +1,771 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Sissejuhatus - Geograafiateaduse olemus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab geograafiateaduse olemust ja olulisust igapäevaelus ning ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "on omandanud ülevaate geograafiaga seotud elukutsetest ja karjäärivõimalustest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Geograafia jagunemine loodus- ja inimgeograafiaks. Kartograafia.</p><p>Geograafia alased uuringud tänapäeval.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>loodusgeograafia, inimgeograafia, kartograafia.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1) Probleemülesanne, kus on vaja otsida geograafia-alast infot erinevatest allikatest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesmärk on õpilastes tekitada huvi ümbritseva keskkonna, selle uurimise ning loodusainete õppimise vastu. Saadakse esmane teadmine, millega geograafid tegelevad. Rõhutatakse, et andmed, mida me kasutame, on kellegi töö tulemus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sissejuhatavas tunnis võiks välja selgitada, mida õpilased geograafiast teavad ja mida aine õppimisest oodatakse. Samuti võiks koos õpilastega arutleda, miks on geograafiat vaja õppida ja kus õpitud teadmisi vaja võiks minna, et tekiks arusaam, mida ja miks õppima hakatakse.</p><p>Õpilastele võib esitada lihtsaid igapäevaeluga seotud küsimusi ja lasta neil pakkuda mõtteid, et missuguseid andmeid oleks probleemi lahendamiseks vaja ja mis allikatest saaks infot otsida. Näiteks: Kuidas leida kõige otsem tee võõras linnas? Milline on ilm plaanitud reisi sihtkohas? Kuhu planeerida jalgratta teid ja parklaid? Kas möödunud suvi oli kõige soojem?</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Arutleb teemadel: Millega tegelevad geograafid? Kust leida geograafiaalast infot? Geograafia seosed teiste õppeainetega. (LT 5, 6, 7, suhtluspädevus)</li><li>Arutleb päevakajalistel teemadel, sõnastab uurimisküsimusi ja lahendab elulisi ülesandeid, otsib infot erinevatest allikatest. (LT 4, 5, 8, digipädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Seosed on olemas kõigi õppeainetega, näiteid leiab iga järgneva teema juurest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane saab teemakohaste õpitulemuste saavutamise kohta suulist tagasisidet.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tutvustada võiks erinevaid atlaseid, kaardirakendusi, digikeskkondi nt ilma, maavärinate vms kohta, juturaamatuid, ajalehti, ajakirju, tele- ja raadiosaateid, filme, reisikirjeldusi jne sõltuvalt sellest, mis õpetajal käepärast on.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kaardiõpetus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab nii paber- kui ka digikaarte, et leida infot, iseloomustada objekte ja nähtusi, analüüsida, teha järeldusi ja ruumilisi otsuseid ning neid põhjendada",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab lugeda kaarti: saab aru legendist ja kaardil kujutatud protsessidest, mõõdab vahemaid, määrab suundi, geograafilisi koordinaate, kellaaja erinevusi jms",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "orienteerub kaardil: leiab riigid, pealinnad jms",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "orienteerub ja liigub kaardi abil maastikul",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab lihtsa kaardi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ettekujutus Maast kauges minevikus, tähtsamad geograafilised avastused ja maailmapildi avardumine.<br>Kaartide mitmekesisus ja nende kasutamine.<br>Mõõtkava liigid, suure- ja väikesemõõtkavaline kaart, vahemaade mõõtmine looduses ja kaardil.<br>Suundade sh asimuudi määramine looduses ja kaardil.<br>Geograafilised koordinaadid, nende määramine.<br>Asukoha kirjeldamine.<br>Ajavööndid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kaart, üldgeograafiline ja teemakaart, arvutikaart, satelliidifoto, aerofoto, asimuut, leppemärgid, mõõtkava, suure- ja väikesemõõtkavaline kaart, kaardi üldistamine, poolus, paralleel, ekvaator, meridiaan, algmeridiaan, geograafiline laius, geograafiline pikkus, geograafilised koordinaadid, kaardivõrk, ajavööndid, maailmaaeg, vööndiaeg, kohalik päikeseaeg, kuupäevaraja.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Probleemülesannete lahendamine atlase ja arvutikaartide põhjal.</li><li>Lihtsa kaardi koostamine (Google Maps'i või mõne muu kaardirakenduse abil). Näide - kaardilugu &quot;Minu unelmate reis&quot;.</li><li>Maastikul kaardi järgi orienteerumine, suundade määramine jms.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kaardid on olulised infoallikad ning nende kasutamise oskus on vajalik paljudes eluvaldkondades ja ka igapäevaelus, sellepärast harjutatakse kaardilugemisoskusi ja lihtsa kaardi koostamist geograafia tundides. Õpilased tutvuvad erinevate kaartidega, õpivad kasutama kaardi legendi, mõõtma vahemaid ja määrama suundi kaardil ja looduses, määrama koordinaate ja kellaaega, leidma kohanimede registri abil tundmatuid kohti, iseloomustama kaartide abil etteantud kohta jne. Tutvutakse erinevate kaardirakendustega ja õpitakse neid kasutama. Kaardi kasutusoskuste harjutamisel toetutakse matemaatikas õpitule, näiteks mõõtkava olemus, teisendamine, asimuut. Kaardilugemisoskust on vaja ka mitmetes teistes õppeainetes: ajalugu, bioloogia, inimeseõpetus jm.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kaardi kasutamise esmased oskused on õpilased omandanud juba II kooliastmes, nüüd jätkatakse nende arendamist ja kinnistamist. Kaarte tuleks kasutada ja kaardioskusi arendada kõikide põhikooli geograafia õppeteemade juures. 7. klassi kaardiõpetuse teema lõpuks ei suuda kõik õpilased vajalikke kaardilugemisoskusi veel omandada. Õppekavas loetletud õpitulemused tuleks saavutada 9. klassi lõpuks.</p><ul><li>Teema alguses tuleks selgitada ja ka harjutada (klassis oleva) atlase kasutamist: mida saab leida atlase sisukorrast, millal ja kuidas kasutada kaardi registrit, kust leida leppemärkide tähendus, riikide üldandmed, millised erineva sisuga kaardid atlases on jne. Õpilased võiksid harjutada probleemi lahendamiseks vajaliku kaardi leidmist ning koha leidmiseks registri kasutamist. Lisaks atlase kasutamisele võiks õpilased põgusalt tutvuda ka veebikaartidega, näiteks maa-ameti kaardirakendusega.</li><li>Ettekujutus Maast kauges minevikus, tähtsamad geograafilised avastused ja maailmapildi avardumine on teemad, mille eesmärk on panna õpilasi mõtlema selle üle, kuidas meie maailmapilt tänu maadeavastustele laienes ja kuidas kaardid aja jooksul täienesid ja üha täpsemaks muutusid. Teema alguses võiks õpilastele näidata <a href='https://www.oldmapsonline.org/'>vanu kaarte</a> ja lasta võrrelda neid praegustega ning arutleda, miks vanad kaardid olid tänastest erinevad. Suurema huvi tekitamiseks kaartide vastu võiks paluda õpilastel kasutada maa-ameti <a href='https://xgis.maaamet.ee/xgis2/page/app/ajalooline'>ajalooliste kaartide rakendust</a>, et uurida oma kodupiirkonna vanu kaarte ning leida, mis oli varem teisiti kui tänapäeval.</li><li>Kaardioskuste arendamisel on oluline anda õpilastele igapäevaeluga seotud probleemülesandeid, kus vastuse saab leida kaardilt. Selliste ülesannete lahendamisel õpitakse leidma sobiv (kõige detailsem) kaart ning leppemärkide tähendus legendist. Siinjuures on sobiv rõhutada, et leppemärke pole vaja pähe õppida vaid harjutada nende tähenduse leidmist legendist. Üldgeograafilisel ja temaatilisel kaardil võib näiteks rohelist või pruuni värvi areaal tähendada eri asju.</li><li>Ilmakaarte ja suundade õppimisel võiks esmalt tähelepanu juhtida sellele, et suundi võib ja saab määrata erineva täpsusega. Näiteks ilmateates piisab, kui öeldakse, et vihmapilved liiguvad üle Eesti läänest ida suunas, orienteerujal on aga järgmisesse punkti jõudmiseks vaja teada väga täpset suunda (asimuuti). Suundade määramist tuleks harjutada erinevatel kaartidel kaardivõrgu järgi ja kindlasti ka looduses kompassiga. Rõhutada, et kaardil saab suuna (põhiilmakaared) leida paralleelide ja meridiaanide järgi ja et põhi või lõuna võivad jääda ka kaardi ülaserva keskossa (näiteks Põhja-Ameerika või Aasia kaartidel on meridiaanid kaarekujuliselt koonduvad, see sõltub kaardiprojektsioonist) või jääb põhi ja lõuna kaardi keskossa (näiteks Antarktise ja Arktika kaardid).</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Soovitav on harjutada suundade (ilmakaarte) määramist looduses ka ilma kompassita. Jälgida, mis ilmakaarest tõuseb Päike eri aastaaegadel (idakaare eri suundadest) või kus asub Päike taevavõlvil keskpäeval (alati lõunas). Õpilased võiks leida, mis ilmakaarde avanevad nende klassi aknad või mis ilmakaarde jääb nende kodu koolimajast. Ilmakaartele vihjavad ka mitmed looduse märgid, näiteks lumi sulab kiiremini maja või künka lõunapoolsel küljel, kuid rõhutada, et alati ei saa neile märkidele toetuda.</li><li>Vahemaade mõõtmine eeldab eri liiki mõõtkava kasutamise oskust. Mõõtkava mõiste ja liikide peast defineerimisest on olulisem mõõtkava kasutamise oskus ehk vahemaade mõõtmine erineva mõõtkavaga kaartidel. Alustada võiks lühemate vahemaade mõõtmisega võrdlusmõõtkava järgi, sest selle teisendamine on kõige lihtsam. Abi vajavate õpilaste puhul võib 7. klassis piirduda võrdlusmõõtkava kasutamisega ja edaspidi harjutada arv- ja joonmõõtkava kasutamist. Et mõõtkava tähendusest paremini aru saada ja seostada see suure- ja väikesemõõtkavalise kaardi mõistega, võiks mõõta kahe punkti vahelist kaugust eri mõõtkavaga kaartidel (maailma kaart, Euroopa kaart, Eesti kaart jne) ja võrrelda tulemust ning seejuures võrrelda vahemaid, mis nendel kaartidel vastavad 1 cm-le.</li><li>Geograafiliste koordinaatide teema sissejuhatuses võiks esmalt arutleda ja näiteid tuua, miks ja kus on täpse asukoha teadmine vajalik. Oluline on rõhutada seost eluliste olukordadega, nt päästetööde korraldamisega. Õpilastele võiks anda probleemülesandeid, kus neil tuleb mõelda, kuidas edastada oma asukoht mõnes olukorras või võõras kohas, kus on teatada oma asukoht. Geograafiliste koordinaatide määramisel ja koha leidmisel etteantud koordinaatide järgi võiks esmalt kasutada kohti, mis jäävad kaardile kantud meridiaanidele ja paralleelidele. Abi vajavate õpilaste puhul võib sellise lihtsustusega 7. klassis piirdudagi. Õpilastele võiks rõhutada, et kui eksida ühe pikkuskraadiga, siis on see tegelikkuses võrdne 111 km pikkuse vahemaaga. Kui vahetada ära pikkus- ja laiuskraad, siis satutakse hoopis teise maailma piirkonda. Seda saab hästi demonstreerida Google Maps veebirakenduses: trükkida otsinguribale nt 59 N 25 E (Eesti) ja pärast 25 N 59 E (Omaani laht).</li><li>Kellaaja erinevuste määramise ajavööndite kaardi järgi saab hästi seostada eluliste olukordadega, nt reisimise ajal kella keeramise vajadus, sobiva aja leidmine ühenduse pidamiseks sõbraga maailma eri paikades, kombineeritud ülesanded lennureiside kohta (ooteajad, reisi kestus jne), rahvusvaheliste spordivõistluste ülekandeajad jne. Tutvustada kuupäevaraja ületamist, et on võimalik liikuda homsesse või eilsesse päeva.</li><li>Õpitud kaardioskuste kokkuvõtteks võiks harjutada kaardi järgi mõne asukoha iseloomustamist. Abi vajavad õpilased võiksid iseloomustamisel kasutada kava (asend ekvaatori ja algmeridiaani suhtes, asend mandril või maailmajaos, asend ookeanide/merede suhtes, riik või selle osa (suunata kasutama ilmakaari), olulisemad geograafilised objektid jne). Põnevuse tekitamiseks võivad õpilased anda teistele vihjeid, kus nad asuvad ja teised arvavad selle järgi ära, kus täpselt ollakse (nt olen lõunapoolkeral - teised pakuvad piirkondi; sealt edasi (nt Lõuna-Ameerika) kõrgeima mäe tipus või (India ookeanis) saarel, mida läbib 45 pikkuskraad).</li><li>Kaardioskuste harjutamisel on väga olulised välitööd: ilmakaarte ja asimuudi määramine kompassiga, Päikese näiva asendi seostamine ilmakaare ja kellaajaga, päikesekella valmistamine, loodus- ja ehitusobjektid abivahendina ilmakaarte määramisel, kaardi orienteerimine, kaardi järgi liikumine, vahemaa mõõtmine sammupaariga, lihtsa plaani või kooliümbruse kaardi koostamine, ka puu või hoone kõrguse mõõtmine täisnurkse kolmnurgaga. Välitööde tegemine on sobiv septembris või mais, kui ilmad on soojemad. Sobilik on neid ülesandeid lahendada ka ekskursioonil või õppekäikudel.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Leiab probleemi lahendamiseks sobiliku kaardi atlasest või internetist ning kasutab koha leidmiseks otsingusõna või atlase registris olevat kohanime indeksit. (LT 5, õpipädevus)</li><li>Iseloomustab kaardi leppemärkide põhjal etteantud piirkonda või objekti, kasutades selleks kõige detailsemat (suurema mõõtkavaga) kaarti. (LT 2)</li><li>Määrab kaardil suundi kaardivõrgu abil. (LT 2)</li><li>Mõõdab kaardil mõõtkava abil vahemaid, teisendab vajadusel mõõtkava eri liike. (LT 2, 3)</li><li>Määrab kaardivõrgu põhjal geograafilisi koordinaate täpsusega +/- 1 kraad. (LT 2, 3)</li><li>Määrab eri kohtade kellaaja ajavööndite kaardi järgi. (LT 2)</li><li>Kasutab kaarti maastikul: leiab oma seisupunkti, orienteerib kaardi, määrab kompassi abil ilmakaared ja mõne objekti asimuudi, mõõdab vahemaid sammupaari ja kaardi mõõtkava abil, liigub kaardi järgi etteantud marsruudil. (LT 2, 3, 4)</li><li>Koostab lihtsa plaani või kooliümbruse kaardi. (LT 2)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusõpetus: Mõõtkava, ilmakaared ja asimuut, sammumõõduline mõõdistamine, plaani koostamine.<br>Matemaatika: Mõõtmine, mõõtühikute kasutamine ja teisendamine, diagrammide lugemine ja koostamine, skaala ja plaani koostamine, ilmakaarte seostamine nurgakraadidega, projektsioonid, kellaaja arvutamine, pikkuskraadide ja ajaühikute vahelise seose leidmine.<br>Ajalugu: Geograafia areng, maadeavastused, ajaloolised kaardid.<br>Eesti keel: Kohanimede õigekiri, suur algustäht.<br>Võõrkeel: Ilmakaared ja nende tähised, sõnavara täienemine mitmesuguste infoallikatega töötades.<br>Kehaline kasvatus: Orienteerumine maastikul.<br>Kunstiõpetus: Plaani korrektne vormistamine, sobivate leppemärkide joonistamine omakoostatud kaardile.<br>Arvutiõpetus: Interaktiivsed kaardi- ja infoportaalid, kaardiprogrammide kasutamine, info otsimine ja töötlemine, mobiilirakendused.</p><p>Teabekeskkond: Info otsimine kaardi- ja infoportaalidest ja kaartidelt ning selle töötlemine ja kasutamine igapäevaelus.<br>Tehnoloogia ja innovatsioon: Interaktiivsete allikate ja töövahendite kasutamine (animatsioonid, interaktiivsed testid), mobiilirakendused.<br>Tervis ja ohutus: Liikumine looduses, koolitee kaardistamine ja ohtlike lõikude teadvustamine, kohanemine liikumisel erinevate ajavööndite vahel, suveaja kehtestamise mõju.<br>Elukestev õpe ja karjääri planeerimine: Kaardi järgi liikumine, kaardi ja infoportaalide kasutamine tundmatus keskkonnas, reisimarsruudi koostamine ja planeerimine, igapäevaelus toimivate loodusnähtuste seostamine praktilise tegevusega, nt mis suunas projekteerida maja, kuhu rajada kasvuhoone, kuidas määrata ilmakaari looduses ja linnakeskkonnas. Elukutsed: kartograaf, geodeet.<br>Keskkond ja jätkusuutlik areng: Õuesõppe puhul loodust säästev käitumine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitud oskustest arusaamise kontrolliks on soovitav teha väikeseid ühe tunni materjalil põhinevaid tunnikontrolle, mille raames antakse tagasisidet, aga ei panda negatiivseid hindeid (nt atlasest objektide otsimine; leppemärkide tundmine; ilmakaarte ja asimuudi järgi suuna määramine, ajavööndite kaardi kasutamine jms). Vigadeta sooritust võiks õpilase motiveerimiseks hinnata. Õpilastel tuleks teha vigade parandus. Enne kokkuvõtvat tööd on siis õpilastel olemas näited vajalikest oskustest, mille abil korrata. Esimene kokkuvõttev töö võiks olla lihtne või keskmise raskusastmega ja keerukamate lisaülesannetega, mille lahendamine pole kohustuslik, aga võimaldaks kiirematel tegutsejatel tegevust leida.</p><ul><li>Hinnatakse probleemile lahenduse pakkumist atlase vahendeid kasutades või igapäeva eluga seotud probleemülesannetes.</li><li>Hinnatakse koostatud kaarti varasemalt etteantud kriteeriumide põhjal (hindamismudel).</li></ul><p>Teema jooksul kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.google.com/maps/@58.2746446,26.5337325,14z?entry=ttu",
+              "title": "Kaardirakendus Google Maps"
+            },
+            {
+              "kind": "link",
+              "href": "https://xgis.maaamet.ee/xgis2/page/app/maainfo",
+              "title": "Maa-ameti Eesti kaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://xgis.maaamet.ee/xgis2/page/app/ajalooline",
+              "title": "Maa-ameti ajalooliste kaartide rakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://mymaps.google.com/",
+              "title": "Oma kaardi loomise keskkond"
+            },
+            {
+              "kind": "link",
+              "href": "https://mapmaker.nationalgeographic.org/",
+              "title": "Oma kaardi loomise keskkond"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.scribblemaps.com/create",
+              "title": "Oma kaardi loomise keskkond"
+            },
+            {
+              "kind": "link",
+              "href": "https://livingatlas.arcgis.com/en/home/",
+              "title": "Geograafilise teabe kogu (kaardid, rakendused, andmekihid)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.oldmapsonline.org/",
+              "title": "Old Maps Online - vanad kaardid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.geoguessr.com/quiz/seterra",
+              "title": "Kaardinomenklatuuri õppimiseks"
+            },
+            {
+              "kind": "video",
+              "src": "http://www.youtube.com/watch?v=eYwpWBUQtBk"
+            },
+            {
+              "kind": "video",
+              "src": "http://www.youtube.com/watch?v=psnYAM3YOKk"
+            },
+            {
+              "kind": "video",
+              "src": "http://www.youtube.com/watch?v=2PllX2YOAHo"
+            },
+            {
+              "kind": "video",
+              "src": "http://www.youtube.com/watch?v=If9ujt5L3T0"
+            },
+            {
+              "kind": "link",
+              "href": "https://mrnussbaum.com/international-pizza-delivery-online-game",
+              "title": "Koordinaatide harjutamiseks"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.abcya.com/games/latitude_and_longitude_practice",
+              "title": "Koordinaatide harjutamiseks aarde otsimise mäng"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=pn1h2v0gk18"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=p3hmk80un18"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=pdaw4qprt18"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=pnn7ukkit18"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=pe8v9yt4317"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine?rid=07749851568217236&sort=ylesanne.id&psize=&id=&aine=G&aste=III&kvaliteet=&teema=k&alateema=&ylkogu_id=&testiliik=&keeletase=&lang=&kysimus=&otsi=1",
+              "title": "Eksamikeskuse avalikud ülesanded (kaardiõpetus)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Geoloogilised protsessid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "iseloomustab jooniste põhjal Maa siseehitust ja maakoore ehitust,",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab jooniste ja kaardi põhjal laamade liikumist ning laamade servaaladel esinevaid geoloogilisi protsesse",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab maavärinate ja vulkanismi tekke põhjusi, tagajärgi ja kaasnevaid nähtusi ning mõju keskkonnale, oskab võimaliku ohu korral käituda",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab kaardilt tektooniliselt aktiivsed piirkonnad ja näitab neid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab ja võrdleb setteid ning eri tekkeviisiga kivimeid, teab nende kasutamise võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab murenemise tähtsust looduses, seostab murenemise kivimite omaduste ja kliimaga.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Millega tegelevad geoloogid?<br>Maa siseehitus, mandriline ja ookeaniline maakoor.<br>Laamad, laamade lahknemine ja põrkumine.<br>Peamised geoloogilised protsessid laamade piirialadel.<br>Maavärinad, nende teke, levik ja tagajärjed.<br>Vulkaanid, nende ehitus ja levik ning vulkaanilise tegevuse tagajärjed.<br>Inimeste elu ja majandustegevus seismilistes ning vulkaanilistes piirkondades.<br>Erineva tekkega kivimid, nende omadused ja kasutamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>maakoor, vahevöö, tuum, mandriline ja ookeaniline maakoor, laam, ookeani keskmäestik, süvik, kurdmäestik, magma, laava, vulkaan, magmakolle, vulkaani lõõr, kraater, kuumaveeallikas, geiser, maavärin, magnituud, murrang, kese e epitsenter, kolle e fookus, tsunami, murenemine, sete, mineraal, settekivim, tardkivim, moondekivim, kivistis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Teabeallikate põhjal lühiülevaate koostamine mõnest geoloogilisest nähtusest (vulkaan, maavärin jms).</li><li>Kivimite ja setete omaduste uurimine ja nende võrdlemine ning info leidmine kivimite ja setete kasutamise kohta koduümbruses.</li><li>Teabeallikate põhjal lühiülevaate koostamine ühest kivimist või settest.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Geoloogia teemade õppimisel saavad õpilased esmase ettekujutuse maavärinate ja vulkaanipursete levikust ning tekkepõhjustest. Selle mõistmiseks on neil vaja aru saada Maa sise- ja maakoore ehitusest ning laamade liikumisest. Õpilased saavad ülevaate võimalike looduskatastroofide piirkondadest ning on teadlikud võimalikest ohtudest ja vajalikest ohutusabinõudest. Nad tutvuvad mitmesuguste kivimite ja setetega ning nende kasutusvõimalustega. Õpilased teadvustavad, et maavarad on taastumatud ja ammenduvad loodusressursid ning neid peab kasutama säästlikult. Teema õppimise käigus tutvutakse geoloogide eri töövaldkondadega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Esmased teadmised maavärinatest ja vulkaanidest saadakse juba 4. klassis. Seega võiks esimeses tunnis küsida, mida õpilased teemast mäletavad ja kas nad on kuulnud midagi mõnest (viimasel ajal) toimunud maavärinast või vulkaanipurskest. Õpilastele võiks näidata pilte või videot mõnest hiljutisest maavärinast või vulkaanipurskest ja lasta neil pakkuda põhjuseid, miks maavärinad ja vulkaanipursked toimuvad ning millistes kohtades need esinevad. Sellise arutelu käigus saab välja selgitada õpilaste algteadmised ja ühtlasi ka kujunenud väärarusaamad.</li><li>Teema sissejuhatuses e Maa siseehituse ja maakoore õppimisel on oluline rõhutada, miks teadmised Maa ehitusest on olulised ja kuidas kogutakse andmeid Maa sügavusest. Õpilased võiks mõista, et teaduse ja tehnoloogia arenguga meie teadmised pidevalt muutuvad ja arutleda, miks nende vanaemad ja vanaisad ei õppinud koolis näiteks laamade liikumist. Õpilastega võib vaadata <a href='https://youtu.be/KBslZ4GMzIE'>videot puuraukudest ja puursüdamikest</a> ja arutleda, millega tegelevad geoloogid.</li><li>Maa siseehituse ja maakoore ehituse paremaks mõistmiseks on hea vaadata klassis mõnda videot, seejärel lasta video/õpiku või õpetaja pakutud jooniste järgi võrrelda ookeanilist ja mandrilist maakoort. Abi vajavatele õpilastele anda võrreldavad näitajad või valikvastused ette.</li><li>Laamtektoonika on teema, kus laamade liikumisest ja kaasnevatest protsessidest arusaamiseks on olulisel kohal animatsioonide või õppevideote vaatamine ning õpetaja asjalikud selgitused. Laama mõiste selgitamisel tuleks rõhutada, et laamad võivad koosneda nii mandrilist kui ookeanilist tüüpi maakoorest. Google Earth'i rakenduses saab õpilastele näidata nii ookeanilise-mandrilise maakoore kui ka laamade piire.</li><li>Geoloogia osas jätkub kaardioskuste arendamine. Õpilased peaksid tutvuma atlase tektoonika ja maavärinate, vulkanismi kaartidega. Nende kaartide põhjal saab harjutada laamade asukoha, servaalade ja liikumissuundade ning maavärinate ja vulkanismi esinemisalade kirjeldamist. Kahe kaardi võrdlemisel saab leida seosed ja teha järeldus, et maavärinad ja vulkaanid esinevad enamasti laamade piirialal. Samuti saab korrata geograafilisi koordinaate: lasta määrata mõne tuntud vulkaani koordinaadid ning etteantud koordinaatide põhjal lasta kaardile kanda mõne hiljuti toimunud maavärina epitsenter. Siin saab lisada, et maavärinate andmepankadesse märgitakse epitsentri geograafilised koordinaadid. Hea oleks õpilastele tutvustada mõnd <a href='https://earthquake.usgs.gov/earthquakes/map/?extent=-84.01602,-362.8125&amp;extent=84.9901,171.91406'>maavärinate andmekogu</a> ja teha selle põhjal mõned harjutusülesanded.</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Maavärinate ja vulkaanide teemade õppimisel saab kasutada videosid, mida veebis arvukalt leidub (vt õppematerjale). Enne video vaatamist võiks õpetaja juhtida tähelepanu mõnele videos olevale olulisele aspektile, anda eelnevalt küsimused, millele võiks õpilased vaatamise järel vastata või lasta õpilastel endil video põhjal küsimusi koostada või märksõnu välja kirjutada. Filmide vaatamise järel saab arutleda paaris- või rühmatööna maavärinate ja vulkaanipursete võimalike otseste ning kaudsete tagajärgede üle. Huvilised õpilased võiksid eristada looduslikke, ühiskondlikke ja majanduslikke mõjusid, abi vajavate õpilaste puhul piisab tagajärgede kirjeldamisest nähtu või loetu alusel.</li><li>Maavärinate ja vulkaanide kohta võiksid õpilased teabeallikatest sh digitaalsetest infot otsida ja selle põhjal ettekande teha, mida kaasõpilastele esitletakse. Õpilastele võiks eelnevalt tutvustada/meelde tuletada, mida ettekande tegemisel jälgida ja kui töö on hindeline, siis mis on hindamise kriteeriumid.</li><li>Kivimite ja setete õppimine on palju tulemuslikum, kui õpilased saavad kivimipalasid ja setteid käes hoida ja neid kirjeldada ning võrrelda (värvus, pinna iseloom, tekstuur, raskus jms), saades seeläbi praktilise kogemuse. Piltide järgi kivimite ning setete iseloomustamist võib kasutada meeldetuletamiseks või kontrolltöös. Kivimite kirjeldamisel võiks leida seoses nende tekkeviisiga (kuidas aru saada, et tegemist on nt tard- või settekivimiga), samuti võiks seostada kivimite omadused ja nende kasutusvaldkonnad.</li><li>Võimalusel võib õpilastega minna nt TÜ loodusmuuseumi või Eesti Loodusmuuseumi, kus on kivimikogusid ja viiakse läbi <a href='https://natmuseum.ut.ee/et/iii-kooliastme-geoloogia-ja-geograafia-oppeprogrammid'>õppeprogramme</a>.</li><li>Murenemise protsesse saab paremini selgitada, kui vaadelda graniidi kivimipalas hästi eristuvaid mineraale (päevakivi, vilk ja kvarts) ning võrdluseks uurida luubiga nt mererannast pärit liiva, kus leidub samasuguseid mineraale.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Arutleb geoloogiliste uuringute vajalikkuse üle ning toob näiteid geoloogide tööst (LT 1, 6, 8, suhtluspädevus).</li><li>Iseloomustab joonise järgi (või koostab ise joonise) Maa siseehitust, võrdleb okeaanilist ja mandrilist maakoort. (LT 2, õpipädevus)</li><li>Leiab geoloogia (tektoonika) kaartidelt suuremad laamad, kirjeldab nende paiknemist ja liikumissuundi ning seostab maavärinate ja vulkaanide leviku laamade piirialadega. (LT 2, 3)</li><li>Selgitab animatsioonide või jooniste põhjal (laamade liikumist ja sellega kaasnevaid geoloogilisi protsesse, koostab ise lihtsaid skeeme laamade liikumise näitlikustamiseks. (LT 2, õpipädevus)</li><li>Arutleb tekstide, piltide või videote põhjal maavärinate ning vulkaanipursete võimalike otseste ja kaudsete tagajärgede üle. (LT 2, 4, 8, suhtluspädevus)</li><li>Koostab teabeallikate põhjal lühiülevaate mõnest toimunud maavärinast või vulkaanist ning esitleb seda kaasõpilastele. (LT 3, 4, infopädevus)</li><li>Kirjeldab ja võrdleb kivimeid ja setteid (värvus, muster, krobelisus, tugevus jms) nii kivimipalade kui piltide põhjal. (LT pädevus 2, 4, 8)</li><li>Toob näiteid murenemisest ning arutleb murenemise tähtsuse üle looduses ning seostab murenemise kivimite omadustega. (LT pädevus 2, 4)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusõpetus. Maa siseehitus, vulkaanipursked, maavärinad, looduskatastroofid (4. kl).<br>Matemaatika. Mõõtmine, mõõtühikute kasutamine.<br>Füüsika. Aine tihedus, konvektsioon, füüsikalised protsessid (murenemine).<br>Eesti keel. Kohanimede õigekiri, suur algustäht, omadussõnad kivimite kirjeldamisel.<br>Võõrkeel. Sõnavara täienemine mitmesuguste infoallikatega töötades.<br>Arvutiõpetus. Interaktiivsed kaardi- ja infoportaalid, info otsimine ja töötlemine, mobiilirakendused.</p><p>Teabekeskkond. Info otsimine kaardi- ja infoportaalidest ja kaartidelt ning selle töötlemine ja kasutamine igapäevaelus.<br>Tehnoloogia ja innovatsioon. Interaktiivsete allikate ja töövahendite kasutamine (animatsioonid, interaktiivsed testid), mobiilirakendused.<br>Tervis ja ohutus. Liikumine looduses, ohutus vulkaanilistes ja seismilistes piirkondades liikumisel.<br>Elukestev õpe ja karjääri planeerimine. Igapäevaelus toimivate loodusnähtuste seostamine praktilise tegevusega, nt ohutu käitumine vulkaani purse või maavärina juhul. Geoloogi ja vulkanoloogi amet.<br>Keskkond ja jätkusuutlik areng. Õuesõppe puhul loodust säästev käitumine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisjuhendi alusel võib hinnata</p><ul><li>esitlust mõne maavärina või vulkaani kohta,</li><li>õpitud kivimite ja setete tundmist,</li><li>kaardi ja jooniste põhjal laamade liikumisega seotud protsesside tundmist.</li></ul><p>Teema jooksul kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            { "kind": "video", "src": "https://youtu.be/KBslZ4GMzIE" },
+            {
+              "kind": "link",
+              "href": "https://earthquake.usgs.gov/earthquakes/map/?extent=-84.01602,-362.8125&extent=84.9901,171.91406",
+              "title": "USA geoloogiateenistuse maavärinate andmekogu Latest Earthquakes"
+            },
+            { "kind": "video", "src": "https://youtu.be/eV0Rl0gKiSI" },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=MDqCYhMopiU",
+              "title": "Maa siseehitus venekeelne 5:17"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=fzhPmemffII",
+              "title": "Sissejuhatus laamtektoonikasse ingliskeelne 3:27"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=_Ugwf6IaE_k",
+              "title": "Maa siseehitus ja laamtektoonika (BBC Geography) ingliskeelne 4:12"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=pv2P_xtW2EE",
+              "title": "Maa siseehitus ja laamtektoonika ingliskeelne 6:20"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=oCPjgv2Pccc",
+              "title": "Geoloogilised protsessid laamade piiridel ingliskeelne 5:35"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=YauzdbiIeoE",
+              "title": "Mis on laamad? venekeelne 5:50"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=WAVwHDWBEKE",
+              "title": "Laamtektoonika venekeelne 6:39"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/31623-Kivimid",
+              "title": "Esitlus e-koolikotis &quot;Kivimid&quot;"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=N2BKjELzhfU"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=fP-k5-rjvhc"
+            },
+            {
+              "kind": "link",
+              "href": "https://geoloogia.info/",
+              "title": "eMaapõu - geoloogilised andmed ja e-teenused (sh leiab pilte kivimitest ja fossiilidest)"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=R_pDKyg5YKY",
+              "title": "Mis on vulkaanid ja kuidas need tekivad? ingliskeelne 6:53"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=VNGUdObDoLk",
+              "title": "Vulkaanid (National Geographic) ingliskeelne 4:58"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=EJDgaaYkHiU",
+              "title": "Vulkaanid ja geisrid venekeelne 2:58"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=nyJhyDoa9yg",
+              "title": "5 suurimat vulkaanipurset ingliskeelne 10:51"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=ScqJqFCQfGs",
+              "title": "Maavärinad ingliskeelne 8:30"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=dZtCQy3Sl5Y",
+              "title": "Maavärinad venekeelne 2:46"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.volcanoesandearthquakes.com/",
+              "title": "Aktiivsete vulkaanide ja maavärinate interaktiivne kaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.edumedia-sciences.com/en/node/59-internal-geologic-processes",
+              "title": "Interaktiivsed simulatsioonid ingliskeelsed"
+            },
+            {
+              "kind": "link",
+              "href": "https://learn.concord.org/geo-platetectonics",
+              "title": "Inglisekeelsed interaktiivsed simultasioonid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.amnh.org/explore/ology/earth/plates-on-the-move2/game",
+              "title": "Inglisekeelne interaktiivne mäng/kaart laamtektoonika kohta"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=pc5km2sba18"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=pfbnym8fj17"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=pjm7n4xwj16"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=psc1rf9yn16"
+            },
+            {
+              "kind": "link",
+              "href": "https://natmuseum.ut.ee/et/iii-kooliastme-geoloogia-ja-geograafia-oppeprogrammid",
+              "title": "Tartu Ülikooli loodusmuuseumi õppeprogrammid"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine?rid=8924009678770257&sort=ylesanne.id&psize=&id=&aine=G&aste=III&kvaliteet=&teema=g&alateema=&ylkogu_id=&testiliik=&keeletase=&lang=&kysimus=&otsi=1",
+              "title": "Eksamikeskuse avalikud ülesanded (geoloogia)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Pinnamood",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "võrdleb kaartide ja muude infoallikate põhjal pinnavorme ning pinnamoodi kodukohas, Eestis ja maailmas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab pinnavormide ja pinnamoe kujunemist ning muutumist eri tegurite, sh inimtegevuse toimel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib pinnamoe ja inimtegevuse vastastikuseid seoseid ning arvestab maastikul liikudes pinnamoodi ja sellest tulenevaid ohte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab kaardilt suuremad pinnavormid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pinnavormid ja pinnamood, nende uurimise olulisus.<br>Pinnamoe kujutamine suure- ja väikesemõõtkavalistel kaartidel ning profiiljoonel.<br>Mäestikud ja mägismaad. Inimese elu ja majandustegevus mägise pinnamoega aladel.<br>Tasandikud. Inimese elu ja majandustegevus tasase pinnamoega aladel.<br>Pinnamoe ja pinnavormide muutumine aja jooksul.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>pinnavorm, küngas, org, nõgu, pinnamood ehk reljeef, samakõrgusjoon ehk horisontaal, absoluutne kõrgus, suhteline kõrgus, profiiljoon, mägi, mäeahelik, mäestik, mägismaa, tasandik, kiltmaa, kõrgustik, madalik, alamik.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Künka mudeli valmistamine ja selle põhjal samajoontega kaardi koostamine.</li><li>Koduümbruse ja/või Eesti mõne piirkonna pinnamoe iseloomustamine Maa-ameti põhikaardi abil (absoluutse ja suhtelise kõrguse määramine, järskude ja laugete nõlvade eristamine, kuju iseloomustamine).</li><li>Kaartide ja muude teabeallikate põhjal ühe piirkonna (riigi või mandri) pinnavormide ja pinnamoe iseloomustuse koostamine.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemat õppides peaks õpilased teadvustama, et pinnamood mõjutab ühelt poolt looduse teisi komponente: kliimat, muldade arengut, taimestikku, loomastikku ning teisalt ka inimeste eluolu ja mitmeid tegevusi, nt hoonete ja teede rajamist, põllumajandust jne. Pinnamoe käsitlemise olulisuse võiks siduda ka igapäevaeluga: nt arvestamine järskude tõusude ja laskumistega liikumisel, vahemaade läbimiseks kulutatav aeg, nähtavus jne. Pinnamoe teemasid õppides saavad õpilased üldise ettekujutuse tasase ja mägise pinnamoega alade levikust ning mõningatest pinnavormide tekkepõhjustest. Teema seostub eelnevalt õpitud geoloogia osaga, kus saadakse ettekujutus mägede tekkest (seos laamade liikumisega). Eri tekkega pinnavorme käsitletakse edaspidi nii 8. klassis kui 9. klassis. Teema on seotud ka kaardiõppega, antud teemas saab käsitleda pinnamoe kujutamist samajoontega. Teema läbimisel on õpilased teadlikud pinnamoe võimalikest mõjudest igapäevaelule ja inimtegevusele erinevates piirkondades.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Pinnamoe teema sissejuhatuses võiks õpilastega arutleda, millistes olukordades peame pinnamoega arvestama, kuidas pinnamood mõjutab inimeste tegevusi või mille poolest erineb inimeste elu tasase ja mägise pinnamoega piirkondades. Soovitav on õpilastele näidata pilte või videot, kust vihjeid saada. Soovi korral võivad õpilased koostada ka ideekaardi, mida võib pärast kogu teema käsitlemist uuesti vaadata ja uute omandatud teadmistega täiendada.</li><li>Pinnamoe õppimisel jätkub kaardioskuste arendamine ja seda nii suure- kui väikesemõõtkavaliste kaartide, atlase ja kindlasti ka veebikaartide põhjal.</li><li>Selleks, et õpilastel tekiks ruumiline ettekujutus samajoontega kujutatud pinnavormidest (pinnamoest) on soovitav alustada <a href='https://docs.google.com/presentation/d/14L5QYRoFipfpUVRvAI4BGR0Z8MzM2hxj/edit?usp=sharing&amp;ouid=109426484874217149350&amp;rtpof=true&amp;sd=true'>künka mudeli koostamisest</a>. Selle võib teha plastiliinist, savist või näiteks kaalikast. Mudeli nõlvad võiks olla erineva kaldega. Künka mudel lõigatakse ristipidi 3-4 viiluks, mille põhjal koostatakse samakõrgusjoontega künka tasapinnaline plaan ning kõrgusvahed värvitakse. Võib teha ka vastupidi, ette antakse samajoontega kujutatud künka joonis ja õpilased voolivad plastiliinist või savist selle järgi künka mudeli. Märksõnaga &quot;künka mudel&quot; ja pildiotsinguga leiab internetist täpsemaid tööjuhendeid ja juba tehtud õpilaste töid, mida saab kasutada eeskujuna.</li><li>Kindlasti tuleb pinnamoe teema õppimisel kasuks, kui õpilased uurivad kodu- või kooliümbruse tuttavat pinnamoodi maa-ameti reljeefikaartide abil, kus lisaks varjutustega reljeefikaardile saab sisse lülitada ka kõrgusandmete (samajoonte) kihi. Huvilised võiks tutvuda ka teiste kaardirakenduse võimalustega: nt kaardilt koha absoluutse kõrguse leidmisega.</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Suurpinnavormide (mäestike, tasandike) paiknemist ja iseloomustamist või võrdlemist (ulatus, absoluutsed kõrgused, ahelike suund jms) saavad õpilased harjutada atlase kaartide põhjal. Abi vajavatele õpilastele anda eelnevalt näitajad ette või vastuste valiku võimalus. Soovitav on õpilastel Google Maps rakenduses mõne etteantud piirkonna pinnamoodi ja seal elavate inimeste elu-olu uurida. Tänavavaate rakendus (Street View) võimaldab &quot;kohapeal&quot; ringi liikuda, see annab hea ettekujutuse piirkonnast. Lisaks saab vaadata piirkonna fotosid. Kui õpilastel pole võimalik tunnis arvutit kasutada, siis võib õpetaja näidata Google Mapsi rakenduses eri piirkondi.</li><li>Piltide ja jooniste järgi ala pinnamoe iseloomustamisel, tasase ja mägise pinnamoega alade võrdlemisel võib vajadusel õpilastele anda võrreldavad näitajad või valikvastused ette (millises riigi osas on tasased/mägised alad, mis ilmakaarte suunas kulgevad mäeahelikud, kui kõrged on mäestikud, mis on tasandike üldkõrgus, asustustiheduse erinevused jms).</li><li>Teema vastu saab huvi tekitada, kui õpilased otsivad ise teabeallikatest sh digitaalsetest allikatest infot huvitavate pinnavormide kohta (nt võlvkaared, värvilised mäed, karstikoopad jms) ja esitlevad seda kaasõpilastele. Näiteks võib esitluse koostada mandrite kõrgemate mäestike kohta.</li><li>Suuremate ja tuntumate pinnavormide nimesid ja asukohti on soovitav õppida ja harjutada erinevaid kaardiõppe ülesandeid lahendades või kasutades vastavaid kaardiõppe mänge (vt õppematerjalid).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Koostab künka mudeli ja selle põhjal samakõrgusjoontega kaardi. (LT 2, 3)</li><li>Iseloomustab ja võrdleb piltide, jooniste ja kaardi põhjal pinnavorme ning võrdleb tasase ja mägise pinnamoega alasid. (LT2)</li><li>Otsib teabeallikatest pinnavormide kohta infot, tõlgendab seda ja esitleb kaasõpilastele. (LT 2, 3, digipädevus, suhtluspädevus)</li><li>Jaotab pinnavorme erinevate tunnuste järgi rühmadeks (positiivsed/negatiivsed, looduslikud/inimtekkelised, tekke põhjuste järgi). (LT 2)</li><li>Arutleb ja toob videote või piltide põhjal näiteid pinnamoe mõju kohta inimtegevusele ja inimtegevuse mõju kohta pinnamoele. (LT pädevus 2, 4, suhtluspädevus)</li><li>Märgib kontuurkaardile suuremad mäestikud, mägismaad, tasandikud. (LT 2)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusõpetus: Elu Maal (4. kl) - mäestikud</p><p>Füüsika: raskusjõud (rusukalded, varingud ja lumelaviinid mägedes)</p><p>Matemaatika: Kõrguse ühikud ning suhtelise kõrguse arvutused, profiiljoone telje kujutamisühikud, andmete kogumine, tõlgendamine ja esitamine.</p><p>Eesti keel: Kohanimede õigekiri, suur algustäht, omadussõnad pinnamoe kirjeldamise (tasane, mägine, lainjas, künklik, kõrge, madal jms).</p><p>Võõrkeel: Sõnavara täienemine mitmesuguste infoallikatega töötades.</p><p>Kunstiõpetus: Künka mudeli ja plaani koostamine.</p><p>Teabekeskkond: Info kogumine ja töötlemine, jooniste kirjeldamine, seoste leidmine, meediainfo seostamine laamtektoonikaga, info kriitiline hindamine, uudiste tõepärasus, mõistete korrektne kasutamine, vastava piirkonna leidmine kaardil.</p><p>Tehnoloogia ja innovatsioon: Nüüdisaja seiresüsteemid, interaktiivsete kaartide ja mängude kasutamine, teadmiste omandamine animatsioonide toel.</p><p>Keskkond ja jätkusuutlik areng: Kaevandamise, energeetika ja ehitustööde mõju pinnamoele.</p><p>Tervis ja ohutus: Käitumine mägise pinnamoega piirkondades.</p><p>Elukestev õpe ja karjääri planeerimine: Looduses esinevate nähtuste kohta omandatud teadmiste rakendamine, nt mis valdkondades on geomorfoloogilised uuringud olulised, oskus märgata looduses erinevaid pinnavorme, huvi tekitamine geomorfoloogia kui tegevusala vastu, loodusteadlase elukutse.</p><p>Kodanikualgatus ja ettevõtlikkus: Päästeaktsioonid, fondid, abipaketid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pinnavormide nimesid ja paiknemist on soovitatav õppida arvutimängude ja testide abil (Seterra, Learning Apps).</p><p>Õpilastele võiks tagasisidestada künka mudeli ja plaani koostamist.</p><p>Ka võiks hinnata atlase või jooniste järgi mõne piirkonna pinnamoe iseloomustamist ja seal toimuvate protsesside analüüsimist ning inimtegevusega seostamist.</p><p>Teema jooksul kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://geoportaal.maaamet.ee/",
+              "title": "Maa-ameti geoportaal. Maainfo kaardirakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/presentation/d/14L5QYRoFipfpUVRvAI4BGR0Z8MzM2hxj/edit?usp=sharing&ouid=109426484874217149350&rtpof=true&sd=true",
+              "title": "Künka mudeli koostamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.edumedia-sciences.com/en/node/241-external-geologic-processes",
+              "title": "Interaktiivsed simulatsioonid"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=q2lJZV1yC6o",
+              "title": "Pinnamoe kujutamine kaardil samakõrgusjoonte abil ingliskeelne video 14:23"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=OwgE79-P2H0",
+              "title": "Mägised ja tasased alad ingliskeelne video 2:51"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=4C5FrjqndWg",
+              "title": "Pinnavormid lastele ingliskeelne 7:54"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/www.youtube.com/watch?v=ZJWTPWouy0I",
+              "title": "Maa pinnamood venekeelne 7:20"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine?rid=4768744654813203&sort=ylesanne.id&psize=&id=&aine=G&aste=III&kvaliteet=&teema=p&alateema=&ylkogu_id=&testiliik=&keeletase=&lang=&kysimus=&otsi=1",
+              "title": "Eksamikeskuse avalikud ülesanded (pinnamood)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.geoguessr.com/vgp/3215",
+              "title": "Kaardiõppemängud Seterra - mäestikud Euroopas"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.geoguessr.com/vgp/3131",
+              "title": "Kaardiõppemängud Seterra - mäestikud maailmas ENG"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=pk3r612xt20"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/index.php?category=6"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=ppabb89k520"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/display?v=pguio19rc18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

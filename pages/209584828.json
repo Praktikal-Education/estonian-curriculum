@@ -1,0 +1,481 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kodundus on õppeaine, mis annab õpilasele elementaarsed oskused toimetulekuks koduste puhastus- ja korrastustöödega, ettekujutuse tervislikust toitumisest, lihtsamate toitude valmistamise oskuse, ettekujutuse pere majandamisest, toiduainete ostmisest jms.</p><p>Kodunduse tundides õpitakse, tasakaalustatud menüü koostamist ning analüüsitakse inimeste tarbijakäitumist, väärtustatakse keskkonnasäästlikku, oma õigusi ning kohustusi teadvat tarbijat.</p><p>Kõike seda õpitakse valdavalt läbi praktilise tegevuse. Kodumasinate ja korrastusvahendite õpetamisel lähtutakse kaasaegsest tehnoloogiast. Õppeköögis töötades järgitakse hügieeni- ja tööohutusnõudeid.</p><p>Kodundusõpe aitab õpilasel kujuneda eluga võimalikult iseseisvalt toimetulevaks isiksuseks, kes suudab ja tahab teha võimetekohast tööd ning on keskkonnasäästlik tarbija.</p><p>Kodundustunnis toimub õpe meeskonnatööna. See loob sobivad võimalused arendada sotsiaalseid oskusi: heatahtlikku ja arvestavat suhtumist kaaslastesse.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Määruse järgi 9. klassi lõpuks õpilane:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "jälgib tervisekaitse- ja tööohutusnõudeid, korrastab ruumi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab ja puhastab köögitehnikat;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab toitu, järgides hügieeninõudeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada erinevate rahvaste rahvustoite ja mõnda neist valmistada;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel oma kulusid planeerida;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb jalatsite hooldusmärke, oskab kasutada lihtsamaid jalatsite hooldusvõtteid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kus jalatseid parandatakse.",
+          "outcomeType": "knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Heaolu ja tervis toidust",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ringmajandus</li><li>Toitlustusega seonduvad ametid</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "on teadlik toitlustusega seotud ametitest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Toitumise tähtsus kogukonna- ja heaolutunde kujunemisel</li><li>Kasutada erinevaid õppemeetodeid: arutelu, rühmatöö, praktiline töö, demonstratsioon jne.</li><li>Kaasata õpilasi aktiivselt õppeprotsessi, küsida nende arvamusi ja näiteid.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            { "kind": "text", "html": "<ul><li>Ringmajandus</li></ul>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Erinevate ametitega tutvumine: pagar, kokk, abikokk, pitsameister, kondiiter jt, info otsimine kutsekoolide kodulehtedelt.</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://vigalattk.ee/et",
+              "title": "Vana-Vigala tehnika- ja Teeninduskool"
+            },
+            {
+              "kind": "link",
+              "href": "https://vigalattk.ee/et/erialad/abikokk-2",
+              "title": "abikokk"
+            },
+            {
+              "kind": "link",
+              "href": "https://vigalattk.ee/et/erialad/koogiabiline-2#koogiabiline",
+              "title": "köögiabiline"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.teeninduskool.ee/?page_id=18247",
+              "title": "Tallinna Teeninduskool, abikokk, abipagar"
+            },
+            {
+              "kind": "link",
+              "href": "https://hkhk.edu.ee/et/erialad",
+              "title": "Haapsalu Kutsehariduskeskus, abikokk, abipagar"
+            },
+            {
+              "kind": "link",
+              "href": "https://rak.ee/et/erialad/abikelner#abikelner",
+              "title": "Rakvere Ametikool, abikelner"
+            },
+            {
+              "kind": "link",
+              "href": "https://rak.ee/et/erialad/abikokk-2#abikokk",
+              "title": "Rakvere Ametikool, abikokk"
+            },
+            {
+              "kind": "link",
+              "href": "https://rak.ee/et/erialad/abikelner#abikelner",
+              "title": "Rakvere Ametikool, abikelner"
+            },
+            { "kind": "text", "html": "<ul><li>Töötukassa.ee</li></ul>" },
+            {
+              "kind": "link",
+              "href": "https://haridusportaal.edu.ee/ametialad",
+              "title": "https://haridusportaal.edu.ee/ametialad"
+            },
+            {
+              "kind": "link",
+              "href": "https://minukarjaar.ee/et/karjaar/sisu/ametid-ja-ametialad",
+              "title": "https://minukarjaar.ee/et/karjaar/sisu/ametid-ja-ametialad"
+            },
+            {
+              "kind": "link",
+              "href": "https://haridusportaal.edu.ee/ametialad/abipagar",
+              "title": "https://haridusportaal.edu.ee/ametialad/abipagar"
+            },
+            {
+              "kind": "link",
+              "href": "https://ringmajandus.envir.ee/et/ringmajanduse-visioon",
+              "title": "https://ringmajandus.envir.ee/et/ringmajanduse-visioon"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://toitumine.ee/kuidas-tervislikult-toituda",
+              "title": "Õppevara"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li><li>Töövahendid (nt nõud, jne.)</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li><li>Käsitöö ja kodunduse mõisted 7.-9.klassile (2009) Marje Peedisson</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Toidu ohutu valmistamine ja töötlemisviisid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Eri rahvaste toidutraditsioonid ja tuntumad toidud</li></ul>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=6YZZELokyLU"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=KMDVoguj5fo"
+            },
+            {
+              "kind": "link",
+              "href": "https://nami-nami.ee/otsi/?type=14",
+              "title": "Suupisted"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab valmistada keedutainast;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab valmistada erinevate rahvuste toite;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvustada ja arutleda eri maade toitumistavade üle.</li><li>Anda õpilastele tagasisidet nende teadmiste, oskuste kohta.</li><li>Rakendada diferentseeritud lähenemist, arvestades õpilaste individuaalseid vajadusi ja võimeid.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>keedutaigen - taigen, mille valmistamiseks rasvaine koos vedelikuga lastakse keema, lisatakse jahu ning taigna jahtumisel ükshaaval munad. Keedutaigna tooted küpsevad seest tühjaks.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Valida erinevate rahvaste toite ja neid valmistada.</li><li>Korraldada rahvus köökide päeva või nädalat.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li><li>Retseptid</li><li>Töövahendid (nt nõud, jne.)</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li><li>Käsitöö ja kodunduse mõisted 7.-9.klassile (2009) Marje Peedisson</li></ul>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=bWJSfn-fflE"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=KMDVoguj5fo"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>e-koolikott. Digitaalsed õppematerjalid</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/23503-Hugieen-koogis-ja-toidu-ohutus",
+              "title": "e-koolikott. Digitaalsed õppematerjalid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Hügieen, tarbimine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Hügieenireeglid ja tervisekaitse</li><li>Kulude planeerimine</li><li>Jalatsite hooldus</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab puhastada köögiseadmeid ja tööpindu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel oma kulusid planeerida;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb jalatsite hooldusmärke;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kasutada erinevaid õppemeetodeid: arutelu, rühmatöö, jne.</li><li>Haiguste ennetamine ja tervise edendamine</li><li>Suunata õpilasi tarbija õiguste ja kohustustega tutvuma, infolehti lugema, hindasid poes kontrollima.</li><li>Arutleda teemal: kuidas raha säästa?</li><li>Kokkuhoiu ja kulude analüüsi võimaluste tutvustamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tervisekaitse - abinõud inimestele tervisliku elukeskkonna tagamiseks ning keskkonnaga seonduvate tervisehäirete ja haiguste vältimiseks.</li><li>Tarbijakaitse - kaupade ja teenuste ostjaid ja kasutajaid kaitsev süsteem.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Pere eelarve koostamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li><li>Käsitöö ja kodunduse mõisted 7.-9.klassile (2009) Marje Peedisson</li><li>Tarbijakaitse ja Tehnilise Järelvalve Amet.</li></ul>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Vcufpj3q_5U"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=fUcZh8QVJus"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Vom_ja-QcSg"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/209584828/Screen-Shot-2017-08-10-at-14.09.19.png?version=1&modificationDate=1710349733197&api=v2",
+              "alt": "Jalatsite hooldusmärgid."
+            },
+            {
+              "kind": "text",
+              "html": "<p>Jalatsite hooldusmärgid.</p><ul><li>Pärnu Kutsehariduskeskus. Õppematerjalid. Tekstiilide hooldamine.</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hariduskeskus.ee/opiobjektid/tekstiilid/?Hooldamine",
+              "title": "https://www.hariduskeskus.ee/opiobjektid/tekstiilid/?Hooldamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hariduskeskus.ee/opiobjektid/tekstiilid/?Plekkide_eemaldamine",
+              "title": "https://www.hariduskeskus.ee/opiobjektid/tekstiilid/?Plekkide_eemaldamine"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Err, raadiosaade Huvitaja. Krista Tamm</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://vikerraadio.err.ee/816212/huvitaja-tarbija-oigused-ja-kohustused-hindade-korrektsus-kaupluses",
+              "title": "Err, raadiosaade Huvitaja. Krista Tamm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Etikett, kombed",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Koosviibimiste korraldamine</li><li>Etikett, täis- või osalise teenindusega laud</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/6442-Riietus-valine-visiitkaart",
+              "title": "Rõivastus ja käitumine"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab käitumisetiketti erinevatel üritustel;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kasutada erinevaid õppemeetodeid: arutelu, rühmatöö, jne.</li><li>Suunata õpilasi valitud koosviibimist planeerima ja korraldama.</li><li>Ideed ja võimalused poelaua kujundamisel.</li><li>Tutvustada erinevaid suupisteid ja furšettlauas käitumist.</li><li>Varuda kokaraamatuid ja anda soovitusi veebilehtedele menüü koostamiseks.</li><li>Suunata kasutama erikujuliste rätikute ja sallide seoseid riietuse mitmekesistamiseks, lähtudes koosviibimise laadist.</li><li>Demonstreerida lipsusõlme sidumist.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Furšettlaud - serveerimisviis lühikesel püstijalavastuvõtul, mille puhul ühel või mitmel laual serveeritakse suupisteid vm kerget eine;</li><li>Restoran - on lauateenindusega toitlustusasutus, kus pakutakse ilusasti serveeritud kõrge kvaliteediga toite;</li><li>Rootsilaud - kus toidud ja joogid ning söömis- ja joomisvahendid on pandud lauale, kust iga sööja valib endale meelepärase ja pärast väljavalimist valib omale vabalt istekoha või sööb seistes.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Lõpupeo korraldamine: eelarve koostamine, külalised, tegevuste planeerimine, menüü koostamine, riietuse valik, kutsed jm.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li><li>Käsitöö ja kodunduse mõisted 7.-9.klassile (2009) Marje Peedisson</li><li>e-koolikott.ee digitaalsed õppematerjalid. Liia Moorits ja Hilde Kurg</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/6442-Riietus-valine-visiitkaart",
+              "title": "Rõivastus ja käitumine"
+            },
+            {
+              "kind": "link",
+              "href": "http://inimenejavalimus.weebly.com/lipsusotildelme-tegemine.html",
+              "title": "Lipsusõlme tegemine"
+            },
+            { "kind": "text", "html": "<ul><li>Tasku tark OÜ</li></ul>" },
+            {
+              "kind": "link",
+              "href": "https://www.taskutark.ee/bite/lipsusolme-tegemine/132664/",
+              "title": "Kuidas teha lipsusõlme?"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>e-koolikott, digitaalsed õppematerjalid. Tuuliki Vuks. Laua etikett</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/21250-Laua-etikett",
+              "title": "e-koolikott, digitaalsed õppematerjalid. Tuuliki Vuks. Laua etikett"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Head kombed. Lihtne etikett ja käitumisjuhised (2018) Koostanud Gerda Kroom</li></ul>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

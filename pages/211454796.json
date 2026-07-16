@@ -1,0 +1,992 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeprotsessi kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Üldajaloo kursus annab hea ülevaate ühiskonnas toimunud protsessidest vana,- kesk- ja uusajal, aidates kaasa maailma ja Eesti ajaloo teemade tundmaõppimisele. Üldajaloo kursuse jaotumine kolmeks teemablokiks aitab saada ülevaadet Euroopa kujunemisest ning maailma toimunud olulisematest sündmustest, mille mõju Euroopa ajaloole on olnud märkimisväärne. Gümnaasiumi ajalooõpetuse kaudu saavutatavad õpitulemused on jaotatud kõigi kuue kursuse peale, jättes koolidele vabad käed kursuste läbiviimise korraldamisel.</p><p>Üldajaloo kursuse kaudu aidatakse kaasa gümnaasiumi lõpuks taotletavate teadmiste, oskuste, hoiakute ja õpitulemuse saavutamisele, jättes vabaks kohustuslikud teemad, mille kaudu tulemusteni jõutakse. Õppe korraldamisel tuleb lähtuda õpitulemusest ning vastavalt sellele valitakse meetodid ning teemad tulemuse saavutamiseks. Lisaks õpitulemustele peab õpetaja õpet korraldades silmas pidama üldpädevusi, läbivaid teemasid ja ainealast lõimingut.</p><p>Läbi üldajaloo kursuse saab õpilane tundma ajaloo perioode, neile iseloomulikke tunnuseid ja vaimulaadi. Õpitakse mõistma inimese, ühiskonna ja kultuuri olemuslikke seoseid erinevatel ajalooperioodidel ning analüüsitakse väärtushinnangute ja väärtusruumi muutumist ajas. Olulisel kohal on Euroopa ja maailma ajaloo pöördelised sündmused, protsessid ning nende tähtsus ja mõju ühiskonna arengus, mis aitavad hiljem õpilastel mõista Eesti ajaloos aset leidnud muutusi.</p><p>Soovitusliku õppesisu all on välja toodud võimalikud teemad, millede läbimisel õpitulemuste saavutamiseni jõuda. Siinkohal tuleb rõhutada, et üldajaloo kursuse teemade valik ja õppemeetodid jäävad õpetaja otsustada ning allpool väljatoodu on vaid soovituslik.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppesisu",
+      "children": [
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>VANAAEG</th><th>KESKAEG</th><th>UUSAEG</th></tr></thead><tbody><tr><td><ul><li>Kreeka linnriigid: valitsemine, kodanikkond, eluolu. Sparta ja Ateena.</li><li>Hellenid ja barbarid: hellenite kasvatus, haridus ja igapäevaelu.</li><li>Kreeka kultuur: mütoloogia ja religioon. Homerose eeposed. Ajalookirjutuse algus. Kõnekunst. Teater. Filosoofia: Sokrates, Platon, Aristoteles. Olümpiamängud.</li><li>Makedoonia tõus ja hellenism: Aleksander Suur.</li><li>Rooma riigi teke. Rooma vabariik ja selle korraldus. Rooma tõus suurriigiks: armee. Caesar. Keisrivõimu kehtestamine: Augustus. Lääne-Rooma ja Ida-Rooma.</li><li>Rooma ühiskond ja eluolu: perekond, kasvatus ja haridus. Rooma õigus. Rooma kui antiikaja suurlinn. Ehituskunst.</li><li>Religioon: ristiusu teke ja levik ning tõus riigiusuks.</li><li>Antiiktsivilisatsioonide saavutused ja tähtsus maailma ajaloos.</li></ul></td><td><ul><li>Rahvasterändamine ja Lääne-Rooma riigi langus.</li><li>Frangi riik: Karl Suur. Lääne-Euroopa riikide teke.</li><li>Ühiskond ja eluolu: läänikord. Feodaalide ja talurahva eluolu. Rüütlikultuur. Linnaühiskond: kaubandus, käsitöö, valitsemine.</li><li>Islami teke ja levik: Muhamed. Koraan.</li><li>Ilmalik võim ja vaimulik autoriteet: keisrivõim ja paavstlus. Religiooni dominantsus. Vaimulikud ordud. Ketserlus. Ristisõjad.</li><li>Ülikoolid ja skolastika.</li></ul></td><td><ul><li>Uue maailmapildi kujunemine: renessanss ja humanism, maadeavastuste mõjud ning tagajärjed, reformatsioon ja vastureformatsioon.</li><li>Absolutism ja parlamentarism: poliitiline kaart uusaja alguses. Absolutism Prantsusmaal, parlamentarismi kujunemine ja kindlustumine Inglismaal. Ameerika Ühendriikide iseseisvumine.</li><li>Prantsuse revolutsioon ja Napoleoni sõjad, nende mõju Euroopale: valgustus. Viini kongress. Rahvusluse tõus ja rahvusriikide teke.</li><li>Industriaalühiskond: tööstuslik pööre, industriaalühiskonna tunnused. Maailmamajandus, teaduse ja tehnoloogia areng uusajal.</li></ul></td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "VANAAEG",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab ajaloo perioode, neile iseloomulikke tunnuseid ja vaimulaadi ajaloolises arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab riigi, kultuuri ja ühiskonna olemuslikku seost antiikaja näidete põhjal",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Üldajaloo periodiseering",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> vanaaeg, keskaeg, uusaeg</p><p><strong>Teemad:</strong> Üldajaloo periodiseering. Vanaaja, keskaja ja uusaja mõiste ning üldiseloomustus.</p><p>Magnetkokkuvõtete koostamine mõistete vanaaeg, keskaeg ja uusaeg kohta. Õpilane otsib erinevatest teabeallikatest infot mõistete kohta ning kirjutab märksõnad magnetkastidesse. Seejärel moodustatakse kokkuvõtvad laused iga mõiste kohta eraldi.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=6bDrYTXQLu8"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.ra.ee/tuna/autorist-saateks/",
+                  "title": "Ajaloolise aja ümbermõtestamise vajandusest"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane mõistab inimese, ühiskonna ja kultuuri olemuslikke seoseid erinevatel ajalooperioodidel, analüüsib väärtushinnangute ja väärtusruumi muutumist ajas",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ning võrdleb demokraatliku ja aristokraatliku linnriigi toimimise põhimõtteid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab kaardil Kreeka linnriike",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Vana-Kreeka",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> polis, aristokraatia, türannia, demokraatia, hellen, barbar, kodanik</p><p><strong>Teemad:</strong> Vana-Kreeka - Kreeka linnriigid: valitsemine, kodanikkond, eluolu. Sparta ja Ateena. Hellenid ja barbarid: hellenite kasvatus, haridus ja igapäevaelu.</p><p>Vana-Kreeka linnriikide võrdleva tabeli koostamine. Katkendite kuulamine Sparta eluolu ja kasvatuse kohta. Analüüs õpetaja juhendamisel.</p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Ateena</th><th>Sparta</th></tr></thead><tbody><tr><td>eluolu<br>üh.korraldus<br>kasvatus<br>haridus</td><td></td></tr></tbody></table>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://arhiiv.err.ee/audio/vaata/ajalootund-r2-s-ajalootund-r2-s-perekond-ja-kasvatus-sparta-linnriigis",
+                  "title": "Katkendite kuulamine Sparta eluolu ja kasvatuse kohta"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18713-Vana-Kreeka-linnriigid/217514",
+                  "title": "Vana-Kreeka geograafia"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18713-Vana-Kreeka-linnriigid/217516#217517-Kreeka-linnriigid",
+                  "title": "Kreeka linnriigid"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18713-Vana-Kreeka-linnriigid/217518#217519-Valitsemisvormid",
+                  "title": "Valitsemisvormid"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18713-Vana-Kreeka-linnriigid/217524#217525-Ateena-ja-Sparta-vordlus",
+                  "title": "Sparta ja Ateena võrdleva tabeli koostamine"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18968-Vana-Kreeka-eluolu/221361",
+                  "title": "Kreeka tsivilisatsiooni uus tõus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=76&amp;p=separate&amp;search=jeesus&amp;hlid=237830814&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Isikuloo ülesanne Perikles (lk 76-77)"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=3YrJxz6xsAk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Kreeka kultuur",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Homeros, Herodotos, Sokrates, Platon, Aristoteles, Perikles, Herodotos, Hippokrates, Phythagoras</p><p><strong>Teemad:</strong> Kreeka kultuur: mütoloogia ja religioon. Homerose eeposed. Ajalookirjutuse algus. Kõnekunst. Teater. Filosoofia: Sokrates, Platon, Aristoteles. Olümpiamängud.</p><p>Laudkondades filosoofidest ülevaate koostamine. Läbi isikute analüüsitakse Vana-Kreeka tähtsust ja mõju Euroopa arengus.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://padlet.com/annihaandi/kreeka-filosoofid-ja-teadlased-rvdug0d5pg7a",
+                  "title": "Kreeka filosoofid ja teadlased"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=72&amp;p=separate&amp;search=jeesus&amp;hlid=237830814&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Isikuloo ülesanne Homeros (lk 72-73)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=74&amp;p=separate&amp;search=jeesus&amp;hlid=237830814&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Isikuloo ülesanne Herodotos (lk 74-75)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18970-Ajalookirjutuse-algus-ja-konekunsti-roll",
+                  "title": "Ajalookirjutuse algus ja kõnekunsti roll"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18974-Vana-Kreeka-olumpiamangud",
+                  "title": "Vana-Kreeka olümpiamängud"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18974-Vana-Kreeka-olumpiamangud/221474#221475-Antiikaja-olumpiamangude-vordlus-nuudisaja-olumpiamangudega",
+                  "title": "Antiikaja olümpiamängude võrdlus tänapäeva olümpiamängudega"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane rekonstrueerib minevikus elanud inimese elu, arvestades ajastu eripära ning inimese sotsiaalset ja kultuuritausta, rakendades empaatiat",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ning võrdleb Rooma vabariigi ja keisririigi toimimise põhimõtteid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab kaardil Rooma riigi laienemist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Rooma vabariik ja keisririik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Caesar, Augustus, Constantinus Suur, senat, konsul, vabariik, keisririik</p><p><strong>Teemad:</strong> Rooma vabariik ja selle korraldus. Rooma tõus suurriigiks: armee. Caesar. Keisrivõimu kehtestamine: Augustus. Lääne-Rooma ja Ida-Rooma.</p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Rooma vabariik</th><th>Rooma keisririik</th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=85&amp;p=separate&amp;search=anni%20haandi&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Isikuloo ülesanne Julius Caesar (lk 85-86)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=87&amp;p=separate&amp;search=anni%20haandi&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Isikuloo ülesanne Augustus (lk 87-88)"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=5XxA4CX_Ip8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane iseloomustab ja võrdleb ajastuid erinevate ühiskonnaelu valdkondade kaudu",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab näidete abil antiikkultuuri saavutusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Rooma ühiskond ja eluolu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> patriits, plebei, Rooma õigus</p><p><strong>Teemad:</strong> Rooma ühiskond ja eluolu: perekond, kasvatus ja haridus. Rooma õigus. Rooma kui antiikaja suurlinn. Ehituskunst.</p><p>Ekspertgrupi meetodil materjalide omandamine.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://etv2.err.ee/1608333959/ajalugu-viie-minutiga",
+                  "title": "Teadus Antiik-Roomas"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=PNjGJ9aIZ7g"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab religiooni ja mütoloogia osa antiikaja inimese maailmapildis ning kristluse tekkelugu ja kujunemist riigiusuks",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab antiiktsivilisatsioonide tähtsust maailma ajaloos antiikaja näidete põhjal ning mõistab antiigipärandi olulisust tänapäeval",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob esile seosed antiikkultuuri ja Euroopa kultuuri kujunemise vahel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Religioon ja antiiktsivilisatsioonid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Jeesus ja Paulus, Piibel, Vana Testament, Uus Testament</p><p><strong>Teemad:</strong> Religioon: ristiusu teke ja levik ning tõus riigiusuks. Antiiktsivilisatsioonide saavutused ja tähtsus maailma ajaloos.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=91&amp;p=separate&amp;search=jeesus&amp;hlid=237830814&amp;tool=search&amp;view=0,0,2480,1897",
+                  "title": "Isikuülesanne: Jeesus ja Muhamed (lk 89-91)"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://entsyklopeedia.ee/artikkel/suur_rahvaster%C3%A4ndamine2",
+                  "title": "Suur rahvasteränne"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://quizlet.com/357940063/suur-rahvaste-ranne-4-8-sajand-flash-cards/",
+                  "title": "Suur rahvasteränne"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=5tilhR0C6DY"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KESKAEG",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab riigi, kultuuri ja ühiskonna olemuslikku seost keskaja kontekstis",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Rahvasterändamine ja Lääne-Rooma riigi langus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> rahvasterändamine, Lääne-Rooma</p><p><strong>Teemad:</strong> Rahvasterändamine ja Lääne-Rooma riigi langus.</p><p>Ajajoone koostamine grupitööna <a href=\"http://canva.com\">canva.com</a> keskkonda.</p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Lääne-Rooma</th><th>Ida-Rooma</th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/13727-Suur-rahvasteranne-ja-Laane-Rooma-riigi-langus",
+                  "title": "Suur rahvasterändamine ja Lääne-Rooma riigi langus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/15734-Laane-Rooma-ja-Ida-Rooma-provintside-vordlus",
+                  "title": "Lääne- ja Ida-Rooma provintside võrdlus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane toob näiteid ajaloost, kuidas üksikisiku valikud on muutnud arusaamasid ühiskonnas tervikuna või kitsamas valdkonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab keskaja ühiskonda ja eluolu ning analüüsib kriitiliselt keskaja erinevaid teabeallikaid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Frangi riik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Karl Suur</p><p><strong>Teemad:</strong> Frangi riik: Karl Suur. Lääne-Euroopa riikide teke.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=92&amp;p=separate&amp;search=anni%20haandi&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Üksikisiku mõju analüüs Karl Suure näitel (lk 92-92)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18843-Poliitika-keskajal-ja-religiooni-dominantsus/220325",
+                  "title": "Lääne-Euroopa riikide teke"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18843-Poliitika-keskajal-ja-religiooni-dominantsus/220309",
+                  "title": "Frangi riik ja Karl Suur"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane rekonstrueerib minevikus elanud inimese elu, arvestades ajastu eripära ning inimese sotsiaalset ja kultuuritausta, rakendades empaatiat",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab keskaja ühiskonda ja eluolu ning analüüsib kriitiliselt keskaja erinevaid teabeallikaid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab linnade tekkimise põhjusi ja iseloomustab, kuidas funktsioneeris linnaühiskond",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Ühiskond ja eluolu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> läänikord, naturaalmajandus, raad, tsunft, gild, Hansa Liit</p><p><strong>Teemad:</strong> Ühiskond ja eluolu: läänikord. Feodaalide ja talurahva eluolu. Rüütlikultuur. Linnaühiskond: kaubandus, käsitöö, valitsemine.</p><p>Keskaegse inimese eluolu kirjeldus kasutades Jacques Le Goff´i teost “Keskaja inimene” (2017, Avita).</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18843-Poliitika-keskajal-ja-religiooni-dominantsus",
+                  "title": "Poliitika keskajal ja religiooni dominantsus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18835-Seisused-keskaja-Euroopas",
+                  "title": "Seisused keskajal"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18866-Keskaegne-linn-ja-kaubandus-haridus-ja-teadus-Euroopa",
+                  "title": "Keskaegne linn ja kaubandus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane toob näiteid ajaloost, kuidas üksikisiku valikud on muutnud arusaamasid ühiskonnas tervikuna või kitsamas valdkonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab islami teket ja levikut ning väärtustab islami kultuuripärandit",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Islami teke ja levik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> koraan, Muhamed</p><p><strong>Teemad:</strong> Islami teke ja levik: Muhamed. Koraan.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=91&amp;p=separate&amp;search=jeesus&amp;hlid=237830814&amp;tool=search&amp;view=0,0,2480,1897",
+                  "title": "Üksikisiku roll ajaloo kujundamisel: Jeesus ja Muhamed"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18865-Islami-teke-ja-ristisojad",
+                  "title": "Islami teke ja ristisõjad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane mõistab inimese, ühiskonna ja kultuuri olemuslikke seoseid erinevatel ajalooperioodidel, analüüsib väärtushinnangute ja väärtusruumi muutumist ajas",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab kiriku osa keskaja ühiskonnas ja kultuuris ning inimeste mõttemaailma kujundajana",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ristisõdade põhjusi ja tulemusi ning mõju kultuurile ja väärtushinnangutele",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Ilmalik võim ja vaimulik autoriteet",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Innocentius III, kirik, klooster, inkvisitsioon, ketserlus, ristisõjad</p><p><strong>Teemad:</strong> Ilmalik võim ja vaimulik autoriteet: keisrivõim ja paavstlus. Religiooni dominantsus. Vaimulikud ordud. Ketserlus. Ristisõjad.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://kultuur.postimees.ee/7628925/ilmus-marju-lepajoe-tolgitud-innocentius-iii-traktaat-inimolu-viletsusest",
+                  "title": "Katked teosest “Inimolu viletsusest”"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://jupiter.err.ee/1088439/ooulikool-marju-lepajoe-paavst-innocentius-iii-inimolu-viletsusest",
+                  "title": "Saate kuulamine ja analüüs"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://kultuur.err.ee/1608764731/meelis-friedenthal-inimolu-viletsusest-aitas-innocentius-iii-tulla-toime-korkuse-pahega",
+                  "title": "Meelis Friedenthal: Inimolu viletsusest"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane iseloomustab ja võrdleb ajastuid erinevate ühiskonnaelu valdkondade kaudu",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane toob näiteid ajaloost, kuidas üksikisiku valikud on muutnud arusaamasid ühiskonnas tervikuna või kitsamas valdkonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab keskaegsete ülikoolide tegevust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Ülikoolid ja skolastika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Aquino Thomas, skolastika</p><p><strong>Teemad:</strong> Ülikoolid ja skolastika.</p><p>Isikuloolise magnetkaardi koostamine teksti põhjal. Püramiid-diagramm teksti põhjal.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.katoliku.ee/index.php/et/uudised/eesti/500-pueha-aquino-thomasest",
+                  "title": "Aquino Thomas"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18866-Keskaegne-linn-ja-kaubandus-haridus-ja-teadus-Euroopa/220605",
+                  "title": "Ülikoolid ja skolastika"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "UUSAEG",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab ajaloo perioode, neile iseloomulikke tunnuseid ja vaimulaadi ajaloolises arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane mõistab inimese, ühiskonna ja kultuuri olemuslikke seoseid erinevatel ajalooperioodidel, analüüsib väärtushinnangute ja väärtusruumi muutumist ajas",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane toob näiteid ajaloost, kuidas üksikisiku valikud on muutnud arusaamasid ühiskonnas tervikuna või kitsamas valdkonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab uut maailmapilti ning selgitab renessansi, maadeavastuste ja reformatsiooni osa selle kujunemisel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib kriitiliselt erinevaid teabeallikaid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Uue maailmapildi kujunemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> renessanss, humanism, reformatsioon, vastureformatsioon, Christoph Kolumbus, Fernão de Magalhães, Martin Luther, kolonialism</p><p><strong>Teemad:</strong> Uue maailmapildi kujunemine: renessanss ja humanism, maadeavastuste mõjud ja tagajärjed, reformatsioon ja vastureformatsioon.</p><p>Maadeavastuste kontekstis analüüsitakse kriitiliselt kolonialismi erinevaid tahke, sh mõtestatakse eetilisi küsimusi ning kolonialismi mõju tänasele maailmakorrale.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=100&amp;p=separate&amp;search=anni%20haandi&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Isikuloo ülesanne Leonardo da Vinci (lk 100-101)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=96&amp;p=separate&amp;search=anni%20haandi&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Isikuloo ülesanne Christoph Columbus (lk 96-97)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=98&amp;p=separate&amp;search=anni%20haandi&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Isikuloo ülesanne Martin Luther (lk 98-99)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18867-Keskajast-uusaega-renessanss-humanism-reformatsioon-ja-maadeavastused/220610",
+                  "title": "Renessanss ja humanism"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18867-Keskajast-uusaega-renessanss-humanism-reformatsioon-ja-maadeavastused/220613",
+                  "title": "Maadeavastused ja nende mõju"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18867-Keskajast-uusaega-renessanss-humanism-reformatsioon-ja-maadeavastused/220616",
+                  "title": "Reformatsioon"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18867-Keskajast-uusaega-renessanss-humanism-reformatsioon-ja-maadeavastused/220620",
+                  "title": "Vastureformatsioon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab ja analüüsib uusajal toimunud muutusi Euroopa poliitilisel kaardil",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab riigi, kultuuri ja ühiskonna olemusliku seose ning väärtushinnangute muutumist uusajal",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Absolutism ja parlamentarism",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> absolutism, parlamentarism</p><p><strong>Teemad:</strong> Absolutism ja parlamentarism: poliitiline kaart uusaja alguses.</p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Absolutism</th><th>Parlamentarism</th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18868-Absolutism-ja-parlamentarism-uusajal/220627",
+                  "title": "Riigikorrad uusaja Euroopas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab ja analüüsib uusajal toimunud muutusi Euroopa poliitilisel kaardil",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab riigi, kultuuri ja ühiskonna olemusliku seose ning väärtushinnangute muutumist uusajal",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Absolutism Prantsusmaal ja parlamentarism Inglismaal",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Louis XIV, absolutism, parlamentarism</p><p><strong>Teemad:</strong> Absolutism Prantsusmaal, parlamentarismi kujunemine ja kindlustumine Inglismaal.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18868-Absolutism-ja-parlamentarism-uusajal/220630",
+                  "title": "Absolutism Prantsusmaal"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18868-Absolutism-ja-parlamentarism-uusajal/220634",
+                  "title": "Parlamentarism Inglismaal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Ameerika Ühendriikide iseseisvumine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> George Washington</p><p><strong>Teemad:</strong> Ameerika Ühendriikide iseseisvumine.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://et.delachieve.com/president-george-washington-elulugu-tegevused-ja-huvitavad-faktid/",
+                  "title": "President George Washington: elulugu, tegevused ja huvitavad faktid"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18868-Absolutism-ja-parlamentarism-uusajal/220638",
+                  "title": "Ameerika iseseisvumine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane mõistab inimese, ühiskonna ja kultuuri olemuslikke seoseid erinevatel ajalooperioodidel, analüüsib väärtushinnangute ja väärtusruumi muutumist ajas",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab ja analüüsib uusajal toimunud muutusi Euroopa poliitilisel kaardil",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mis mõju avaldasid Prantsuse revolutsioon ja Napoleoni reformid Euroopale",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Prantsuse revolutsioon ja Napoleoni sõjad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> valgustus, revolutsioon, reform, Voltaire</p><p><strong>Teemad:</strong> Prantsuse revolutsiooni ja Napoleoni sõdade mõju Euroopale: valgustus.</p><p>Arutlus. Prantsuse revolutsiooni tagajärjed.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://vara.e-koolikott.ee/node/6700",
+                  "title": "Prantsuse revolutsiooni tagajärjed"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18869-Prantsuse-revolutsioon-ja-Viini-kongress/220643",
+                  "title": "Prantsuse revolutsioon"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18869-Prantsuse-revolutsioon-ja-Viini-kongress/220649",
+                  "title": "Napoleoni sõjad"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=102&amp;p=separate&amp;search=anni%20haandi&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Isikuloo ülesanne Napoleon Bonaparte (lk 102-103)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.etera.ee/zoom/9892/view?page=103&amp;p=separate&amp;search=anni%20haandi&amp;tool=search&amp;view=0,0,2480,3509",
+                  "title": "Isikuloo ülesanne Louis XIV (lk 103-104)"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee/wp-content/uploads/2016/09/Hindamine-Ajalugu-III-kooliaste.pdf",
+                  "title": "Hindamine-Ajalugu-III-kooliaste.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane mõistab inimese, ühiskonna ja kultuuri olemuslikke seoseid erinevatel ajalooperioodidel, analüüsib väärtushinnangute ja väärtusruumi muutumist ajas",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Viini kongress ja rahvusriigid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> Viini kongress</p><p><strong>Teemad:</strong> Viini kongress. Rahvusluse tõus ja rahvusriikide teke.</p><p>Õpilased uurivad 1848. aasta revolutsioonide kaarti ja legendi. Paaristöö: teksti loomine kaardi põhjal.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Revolutions_of_1848_in_Europe_%28pasopt_eng%29.svg",
+                  "title": "1848. aasta revolutsioonide kaart"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18869-Prantsuse-revolutsioon-ja-Viini-kongress/220651",
+                  "title": "Viini kongress"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://vara.e-koolikott.ee/node/4249",
+                  "title": "Rahvusluse sünd. Töö allikaga"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=ZRfKpulllbk"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://drive.google.com/file/d/1wZOmxfQZDY6BLSVjnuWDB3jEcHIY9dVC/view",
+                  "title": "Napoleoni võidud ja kaotused + Viini kongress tööleht video juurde"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane iseloomustab ja võrdleb ajastuid erinevate ühiskonnaelu valdkondade kaudu",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab industriaalühiskonda ning analüüsib selle mõju inimeste igapäevaelule",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Industriaalühiskond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> valgustus, kapitalism, kolonialism, monopol, urbaniseerumine, sotsialism</p><p><strong>Teemad:</strong> Industriaalühiskond: tööstuslik pööre, industriaalühiskonna iseloomulikud tunnused, masstootmine ja monopolid.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18870-Uued-tuuled-uusajal-valgustus-rahvuslus-toostuslik-poore-teaduse-ja-tehnika-areng/220654",
+                  "title": "Valgustus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18870-Uued-tuuled-uusajal-valgustus-rahvuslus-toostuslik-poore-teaduse-ja-tehnika-areng/220666",
+                  "title": "Tööstusrevolutsioon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane mõistab inimese, ühiskonna ja kultuuri olemuslikke seoseid erinevatel ajalooperioodidel, analüüsib väärtushinnangute ja väärtusruumi muutumist ajas",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb teaduse ja tehnika arengu põhijooni ning tähtsamaid saavutusi uusajal",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Maailmamajandus, teaduse ja tehnoloogia areng",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Märksõnad:</strong> kapitalism, kolonialism, monopol, urbaniseerumine, sotsialism, Karl Marx, Otto von Bismarck</p><p><strong>Teemad:</strong> Maailmamajandus, teaduse ja tehnoloogia areng uusajal.</p><p>Industriaalühiskonna erinevad ülesanded on koondatud lehele <a href=\"https://sites.google.com/view/industriaal/avaleht\">Menüü</a>. <a href=\"https://e-koolikott.ee/et/oppematerjal/14946-Uhiskonnaopetus-kui-uhiskonna-sidususe-toetaja-naidisprojektid\">Projektimeetodil</a> analüüsitakse tööstusühiskonna majanduslikke, poliitilisi ja eetilisi aspekte ja mõju keskkonnale ning seoseid tänapäevaga.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppevara",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://sites.google.com/view/industriaal/avaleht",
+                  "title": "Industriaalühiskonna ülesanded"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/14946-Uhiskonnaopetus-kui-uhiskonna-sidususe-toetaja-naidisprojektid",
+                  "title": "Projektimeetodil"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/18870-Uued-tuuled-uusajal-valgustus-rahvuslus-toostuslik-poore-teaduse-ja-tehnika-areng/220670",
+                  "title": "Majanduse, teaduse ja tehnika areng 19. sajandil"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://vara.e-koolikott.ee/taxonomy/term/4856",
+                  "title": "Test üldajalugu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

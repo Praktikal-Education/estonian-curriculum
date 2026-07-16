@@ -1,0 +1,1558 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Muu kodukeelega õpilased õpivad eesti keelt teise keelena eesmärgiga lõimuda Eesti ühiskonda ning tulla edukalt toime nii koolis kui ka väljaspool kooli.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Eesti keel on paljudele muu kodukeelega õpilastele emakeele kõrval esimene õpitav keel. Seetõttu on eriti oluline õppe huvitavus ja jõukohasus, et tekiks ja säiliks õpimotivatsioon. Õppetöös kasutatakse tänapäevaseid ja kaasahaaravaid õppematerjale ning autentseid lugemis- ja kuulamistekste, mis hoiavad õpilasi kursis ühiskonnas toimuvaga ja tekitavad eesti keele kasutamise soovi. Keeletundides kasutatakse inspireerivaid aktiivõppemeetodeid, mis toetavad eri õpistiiliga õpilasi, võimaldavad õpilastel keelt eesmärgipäraselt kasutada ja aitavad luua keelest süsteemse arusaamise. Õppeprotsessis arendatakse õpilaste õpioskusi, oskust teha koostööd ja töötada iseseisvalt ning kasutada tõhusaid keeleõppevõtteid. Kasutatakse keelekeskkonna võimalusi: õpilasi suunatakse jälgima eestikeelset meediat, suhtlema eesti keeles väljaspool koolitunde, osalema eestikeelsetel üritustel, kutsutakse tundidesse eestikeelseid külalisi jmt. Eesti keelt õppides väärtustatakse ka teisi keeli ja kultuure, eriti õpilaste päritolukultuuri.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Eesti keele kui teise keele õppes keskendutakse järgmistele teemavaldkondadele: mina ja teised; kodu ja lähiümbrus; Eesti ja maailm; igapäevaelu; õppimine ja töö. Iga valdkonnaga tegeldakse korduvalt vastavalt õpilaste keeleoskustasemele, kogemustele, huvidele ning vajadustele. Eesti keele tunnis suheldakse eesti keeles. Vajaduse korral kohandab õpetaja oma keele tasemekohaseks ja/või jagab toetavaid selgitusi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Eesti keele kui teise keele õpetaja teeb koostööd teiste õppeainete õpetajatega, et toetada keeleliselt teiste ainete omandamist ning aidata õpilastel näha ainetevahelisi seoseid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Eesti keele kui teise keele õpetamisel lähtutakse ainevaldkonna üldpõhimõtetest.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "II kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>6. klassi lõpetaja väärtustab eesti keelt kui kultuuri kandjat ja avaliku suhtluse vahendit ning saavutab eakohase B1-keeleoskustaseme, mis tähendab, et ta:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru kirjalikest ja suulistest tekstidest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab ja põhjendab oma arvamust, räägib oma kogemustest ja kavatsustest, tuleb toime igapäevastes suhtlusolukordades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab leitud infot suhtlusülesannete täitmiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab isiklikke lihtsaid eri tüüpi tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on kursis mõningate Eestis ja oma kodukohas toimuvate või toimunud üritustega ja tuntud inimeste tegevusega;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ja kasutab mõningaid eestikeelseid meediaväljaandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ja järgib üldisi viisakusnorme.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "II kooliastme õpitulemused",
+      "children": [
+        { "kind": "text", "html": "<p>Õpilane:</p>" },
+        {
+          "kind": "outcome",
+          "text": "tuleb toime igapäevastes suhtlusolukordades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru lühematest lihtsamatest teadetest, sõnumitest, juhistest ja kirjadest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru tuttava sisu ja selge ülesehitusega suulistest ja kirjalikest meediatekstidest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru eakohase eestikeelse filmi põhisisust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab ja mõistab asjakohast teavet tarbetekstidest, näiteks teated, kirjad, voldikud, kuulutused, reklaamid, juhised, hoiatused jmt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb eakohast ilukirjandusteksti ja mõistab selle põhisisu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab vajalikku teavet trüki- ja veebisõnastikest ning teatmeteostest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "räägib lihtsate seostatud lausetega tuttavatel teemadel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vestleb kaaslastega, esitab küsimusi ja vastab neile;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jagab lihtsamaid juhiseid, teeb ettepanekuid ja vastab neile;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab sündmusi, olukordi, kohti, tegevusi ja inimesi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab ja selgitab oma vajadusi, soove ja emotsioone, tuleb toime igapäevaelu olukordades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vahendab raamatu või filmi põhisisu ning väljendab oma muljeid ja mõtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "avaldab arvamust tuttaval teemal ja põhjendab oma seisukohta;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab ja täidab lihtsamaid tarbetekste, nagu kutse, sõnum, e-kiri, avaldus, ankeet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab kirjeldavaid ja jutustavaid tekste tuttavatel teemadel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab põhisõnavara, vajaduse korral lihtsustab sõnumit või sõnastab oma teksti ümber;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tuletab konteksti põhjal sõnade tähendusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab grammatika põhitarindeid võrdlemisi korrektselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hääldab sõnu ja lauseid üldiselt selgelt ja arusaadavalt.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppesisu II kooliastmes",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>I kooliastmes alustatud <strong>alateemad</strong> jätkuvad osaoskuste arengu põhjal. Neile lisanduvad järgmised alateemad:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "„Mina ja teised“",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suhtlemine pereliikmete ja kaaslastega; viisakusväljendid;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "„Kodu ja lähiümbrus“",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>elu linnas ja maal; kodu kirjeldamine; avalikud kohad; lemmikloomad; töövahendid ning kohustused kodus; rõõmsad ja kurvad sündmused peres;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "„Kodukoht Eesti“",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti geograafiline asukoht; ilm; riigi- ja rahvussümboolika; riigipühad ja riiklikud tähtpäevad; üldrahvalikud sündmused;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "„Riigid ja nende kultuur“",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Euroopa riigid; pealinnad, põhirahvused, keel, kultuuritavad, huvipakkuvad paigad, muuseumid; eakohased aktuaalsed ühiskondlikud teemad;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "„Igapäevaelu. Õppimine ja töö“",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>avalikud asutused; turvaline liiklemine; tee küsimine ja juhatamine; päeva plaanimine; ametid ja töökohad;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "„Vaba aeg“",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kooliväline tegevus; huvid; laagrid; lugemiseelistused; perepuhkus; aastaajad ja puhkus; spordialad ning sportlikud tegevused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>II kooliastmes suureneb kuulamis- ja rääkimisoskuse kõrval lugemise ning kirjutamise osakaal. Sõnatundmine laieneb märgatavalt. Suureneb loovülesannete osa. Taotlus on, et õpilane loeks ja kuulaks ka õppest vabal ajal eesti lastekirjanduse tekstikatkeid ning jõukohaseid teabe-, tarbe- ja meediatekste. Teemasid erinevate osaoskuste kaudu käsitledes pööratakse tähelepanu teiste kultuuride tundmaõppimisele ja kõrvutamisele oma kultuuriga. Õpilasi harjutatakse kasutama sõnaraamatuid ning eestikeelset internetti.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Osaoskuste arendamiseks sobivad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ol><li>eri liiki eakohaste tekstide kuulamine ja lugemine;</li><li>adapteeritud eakohaste tekstide iseseisev lugemine;</li><li>ülesande täitmine kuuldu ja loetu põhjal (nt küsimustele vastamine, tabeli täitmine, joonise täiendamine jm);</li><li>järjestusülesanded (nt sõnad lauseks, laused/lõigud tekstiks);</li><li>eri liiki etteütlused;</li><li>ümberjutustused;</li><li>mudelkirjutamine (nt sõnumid, postkaardid, lühikesed kirjad);</li><li>projektitööd;</li><li>lühiettekanded (nt projektitööde kokkuvõtted, huvialade tutvustamine);</li><li>rollimängud.</li></ol>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Metoodilised soovitused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Eesti keele õpetamine II kooliastmes võib hõlmata erinevaid meetodeid ja lähenemisviise sõltuvalt õpilaste vanusest, õppesuunast (keelekümblus, süvaõpe, tasemerühm jt), keeleõppe tasemest (A1-B1) ja õpikeskkonnast. Õppemeetodi valikul tuleb pöörata tähelepanu õpilaste kommunikatiivsete oskuste arendamisele (keele kasutamine reaalsetes suhtlusolukordades), kontekstipõhisele õppele, autentsusele, praktilisele keeleõppele ning keelehuvi ja keele õppemotivatsiooni hoidmisele. Meetodite ja võtete valimisel keeletundides tuleb aktsepteerida kõikide osaoskuste arendamist.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Kuulamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuulamisoskuse arendamiseks peab valima sobilikke ja eesmärgistatud kuulamisülesandeid kasutades autentseid allikaid. Kuulamiseks II kooliastmes sobivad intervjuud, jutud, muinasjutud, laulud, reklaamid, uudised, ilmateated, korraldused, teadaanded, podcastid, blogid, raadiosaated, multikad, audioraamatud jm (<a href=\"https://lasteekraan.err.ee/vaata-ja-kuula\">https://lasteekraan.err.ee/vaata-ja-kuula</a>). Kuulamisülesanded peavad olema jõukohased ning ülesannete täitmiseks peab olema piisavalt aega. Kuulamisülesanne võib olla näitlikustatud piltide või videoga.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kuulamisoskuse arendamiseks tuleb alustada kuulamiseelsetest ülesannetest, mille abil tekib õpilastel ettekujutus sellest tekstist, mida nad hakkavad kuulama (nt ennustamisülesanne (sõnade/piltide/skeemide/arvude/pealkirjade põhjal); sissejuhatav vestlus; selgitamine; vajaliku sõnavara kordamine). Kuulamisaegsed ülesannete põhieesmärk II kooliastmes on tekstist olulise sõnumi ammutamine. Kuulamisaegseteks ülesanneteks sobib: võtmesõnade/mõtete/ lausete üleskirjutamine; valikvastustega ülesanded; õige/vale ülesanded; lünkteksti täitmine; lausete lõpetamine; küsimustele vastamine; kuuldud teksti lõpetamine; kuuldud teksti piltidega kokkusobitamine. Peale kuulamisülesandeid tuleb pöörata tähelepanu kuulamisjärgsetele harjutustele, mis ei pea olema otseselt tekstiga seotud, vaid võib teemat toetada ja edasi arendada (nt räägime, mõtleme, arutame, kirjutame, kuidas võiks lõppeda, kuidas võiks olla teisiti, võrdleme lugemistekstiga jne).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lugemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lugemisoskuse arendamiseks on II kooliastmes mitmeid viise ja meetodeid, kuid fookuses on vaja hoida sobiva teksti valimist. Töös tekstiga on tähtis, et õpilane mõistaks ja oskaks esile tuua põhjuse ja tagajärje seosed, välistada ebavajalikku või valet infot ning struktureerida tekstist saadud teavet. Teksti mõistmine toimub sõnade, lausete ja tervikteksti tasandil. Sobiva teksti valimisel tuleb lähtuda õpilaste vanusest, vajadustest, keeletasemest ning vastavalt õpitud teemale (nt teiste ainetega lõimitav teema). Sobivad tekstid saab leida õpikutest (sh erinevate ainete õpikutest), laste ja noorte kirjandusest, ajalehtedest ja ajakirjadest (II kooliastme õpilastele sobivad väga hästi Postimees Juunior, Minu Maailm, Täheke, Hea Laps). Sobivad autentsed allikad (koomiksid, päevikud, brošüürid, juhendid, retseptid, reklaamid). Vajadusel võib teksti lühendada või kohandada vastavalt õpilaste vajadustele ja keele tasemele. Tekst ei tohi olla liiga pikk ning keerulise lauseehitusega. Võimalusel peab tekst olema näitlikustatud (fotod, tabelid, skeemid, diagrammid jne).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lugemisoskuse arendamiseks sobivad II kooliastmes valiklugemisega ülesanded, mille eesmärk on leida teatud infot, jättes kõrvale ebaolulise ja keskendudes otsitavale (nt tõmmake alla uutele sõnadele/fraasidele; leidke paarid – tekstist võetud sõna/fraas ja selle definitsioon või pilt; leidke sünonüümid või antonüümid; leidke tekstist kõik teemakohased sõnad/mõtted; täitke tabel tekstis leiduva infoga; parafraseerige lause asendades märgitud sõna/fraas tekstist võetud sünonüümiga; kasutage uusi sõnu/fraase lausetes). Üldlugemise ülesanded aitavad saada võimalikult kiiresti loetust üldine ülevaade (nt lugege läbi teksti pealkiri ja mõtisklege, millest jutustab tekst; jagage tekst osadeks/ lõikudeks, pealkirjastage iga lõik; sõnastage ühe lausega iga lõigu peamõte või leidke iga lõigu olulisim lause; sõnastage teksti kõige olulisemad probleemid, küsimused, mõtted; koostage teksti plaan; leidke, milline pilt/skeem/diagramm käib teksti kohta; järjestage teksti illustreerivad pildid jt). Süvalugemise harjutuste abil saab kontrollida täielikku tekstist arusaamist (nt täitke lüngad (välja jäetud sõna, sõnaühend, fraas, lause); sobitage kokku lause algus ja lõpp; valikvastustega ülesanded; õige/vale lause; moodustage lausetest tekst; järjestage lõigud; vastake küsimustele teksti põhjal). Lugemisülesannetest võib üle minna kirjutamis- ja rääkimisoskuse arendamiseks. Seda tüüpi ülesanneteks võib sobida nt plakati/ reklaami/koomiksi/ artikli valmistamine; kokkuvõte koostamine (nt skeem, diagramm, animatsioon); sõnastiku koostamine; teksti lõpu kirjutamine; kirja kirjutamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kirjutamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kirjutamisoskus areneb koos üldise keeleoskusega ning aitab kinnistada teisi oskusi ja teadmisi. Õppijad saavad taastada loetut ja kuuldut, leida rakendust õpitud sõnavarale ja lausemallidele. Kirjalikke töid on võimalik teha individuaalselt ning oma tempos. Kirjutamine peab olema õppijale vastuvõetav, jõukohane ja meelepärane. Kirjutamisoskuse arendamisel kasutatakse mudelkirjutamist (näidisteksti järgi) ning loovkirjutamist, mille puhul tegemist loomingu ning pikemaajalise protsessiga.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kirjutamisoskuse arendamine toimub sõnade, lausete ja tervikteksti tasandil. Kirjaliku väljendusoskuse arendamiseks võib II kooliastmes kasutada erinevat tüüpi ülesandeid.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Sõnade tasandil",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>saab rakendada järgmisi meetodeid: pildile sõna lisamine; ristsõna täitmine; sõnade järjestamine (nt tähestikuline järjekord jpm); tähtedest sõnade moodustamine; sõnade rühmitamine 2-3 kategooriasse/tulpa; sõnade järelkopeerimine (seinaetteütlus); lünkade täitmine; sünonüümide/antonüümide kasutamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lausete tasandil",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>pildile lause kirjutamine; lause alustamine/lõpetamine, täiendamine; etteantud sõnadest lausete koostamine; vigaste lausete parandamine (sh grammatikavead); küsimuste ja vastuste sobitamine; küsimustele vastuste kirjutamine; kahe erineva jutukese lausete sorteerimine; lausete järelkopeerimine (seinaetteütlus); lausete ümbersõnastamine; lühikeste teeside kirjutamine (peamised mõtted).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tervikteksti tasandil",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>pildi mitmelauseline kirjeldus; pildi kohta jutu koostamine; jutu koostamine pildiseeria põhjal; lausete või lõikude järjestamine tekstiks; teksti järelkopeerimine (seinaetteütlus); etteütluse kirjutamine; dialoogide koostamine; skeemi, tabeli, diagrammi või graafiku kirjeldamine, analüüsimine; luuletuse kirjutamine (püstine sõna, mudelluuletus, teemantluuletus); arvamuse avaldamine.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Rääkimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rääkimise puhul on oluline, et õpilane suudaks üldsõnaliselt esineda endale tuttaval teemal, väljendudes võrdlemisi selgelt ja arusaadavalt ning oskaks välja tuua asja tuuma. Samuti oskaks vastata esinemisjärgsetele küsimustele ning ka paluda küsimust korrata. II kooliastme eesmärk on valmistada õpilasi suhtlema igapäevastes olukordades väljaspool keeletundi, seega peaks neile pakkuma võimalusi eesti keeles rääkida kasutades praktilisi ülesandeid: paaris-, rühmatöid, vestlusringe, arutelusid ja keelekohvikuid.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Rääkimist arendavaid õpitegevusi võib jagada kolme suurde rühma:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "I rühma",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>moodustab uue materjali esitlus, mille käigus annab õpetaja vajaliku sõnavara ja lausemalle. Õpilastele pakutakse harjutusi, mis aitavad keskenduda matkimisele ja täpsusele. Põhieesmärgiks on siin kopeerida mudelit. Antud etapil keskendutakse sõnade, väljendite ja lausemallide tähendusele ja otstarbele. Väga tõhusad on kordamisharjutused, kus õpetaja poolt esitatud sõnu või lausemalle korratakse individuaalselt või kooris. Kordamisharjutuste eesmärk on reprodutseerida kuuldut võimalikult täpselt. Oluline on siinkohal korraldada ühtlasi suurel hulgal õppijatest kõnetegevuses osalemist. Sellised ülesanded tuleks viia võimalikult kiiresti läbi (mitte rohkem kui 3-5 minutit). Kordama võib panna kas kogu klassi korraga, eraldi tüdrukud/poisid, esimese/teise/jne pingerea, sosinal/valjuhäälselt, kaja või ahelana. Sellised harjutused annavad õpilasele kindlust ja julgust.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "II rühma",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>moodustavad kõnearendusharjutused, mille abil kinnistatakse ja harjutatakse uut sõnavara, fraase ja lausemalle. Siinkohal on sobilikud igasugused täpsusharjutused, kus õppijad moodustavad keeleliselt korrektseid lauseid mudeli eeskujul. Sobilikud on näiteks asendustabelid, kust saab valida sõnu ning moodustada lauseid. Samuti sobib igasuguste dialoogide päheõppimine. Kasulikud on ka õpetaja vigaste tekstide parandamised, soovituste andmised, äraarvamisharjutused, mis aitavad küsimuste moodustamist arendada.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "III rühma",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>moodustavad soravusharjutused, mis taotlevad ladususe ja voolavuse arendamist. Sobivad järgmised harjutused: täienda lauset, moodusta korrektne lause, kirjelda pilti, kuula ja järjesta, kuula ja kirjelda, jätka lause, jutusta tekst ümber, vasta küsimustele, esita küsimus etteantud vastuste kohta, küsimuste esitamine vastavalt situatsioonile. Samuti ka paaris- ja rühmatööna igasugused rollimängud, vestlused, dialoogide koostamine, näidisdialoogiga sarnaste kahekõnede koostamine ja esitamine (siinkohal on oluline uute sõnade/fraaside/lausemallide kasutamine). Dialoogid aitavad harjutada ja kinnistada sõnavara iga teema raames, eriti suhtlusolukordades poes, apteegis, ühistranspordis, haiglas/polikliinikus, tänaval jpt., juttude koostamine või jätkamine, intervjueerimine jms.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lühikese monoloogi koostamine (perekond, lemmikloom, lemmikraamat, lemmikaine jne). Selle rühma harjutused seovad äsja õpitud materjali varem omandatuga ning toimub kõnepraktika, mistõttu peaksid õppijad saama mitmesuguseid võimalusi oma kõnelemisoskust praktiseerida. Soravusharjutuste puhul on juba olulisem see, mida öeldake, mitte kuidas seda tehakse (võrreldes eelmiste rühmade harjutuste eesmärkidega).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Turvaline ja toetav keskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>laudade paigutus rühmades; “rääkivad seinad”; rutiintegevused tunni, päeva, nädala alguses jm</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Grammatika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Grammatika õpetamine ei ole eesmärk omaette, vaid see peab toetama üldist keeleõpet. Eesmärk on anda õppijale võimalikult kiiresti need “töövahendid”, mille abil ta suudab hakkama saada kommunikatsioonisituatsioonides. Grammatika peab olema integreeritud igapäevaellu ja rõhutama valmisolekut suhelda. Õppijad saavad kiiresti rääkima õppida vaid siis, kui neile kui keeleõppijatele antakse selge pilt eesti keele ehitusest ja rõhutatakse keelesüsteemi tähtsust suhtlusprotsessis.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<ol><li>klass: nimisõna; ainsus ja mitmus; nimisõna käänamine ainsuses; omadussõnade võrdlusastmed; sünonüümid ja antonüümid; tegusõnade pööramine olevikus ja minevikus (nt rääkima, tegema, õppima, ärkama, sööma jt); tegusõnade rektsioon (nt armastan, aitan, käin); käskiv kõneviis; sõnamoodustus (liitsõnad); küsisõnad; asesõnad; sidesõnad; põhi- ja järgarvsõnad; lauseehitus.</li><li>klass: nimisõnade käänamine ainsuses ja mitmuses; omadussõnade võrdlusastmed; tegusõnade pööramine olevikus ja minevikus (<em>sh astmevahelduslikud tegusõnad: tundma, kandma, hoidma, lugema, tegema</em>); tegusõnade rektsioon (<em>nt aitan, kuulan, loen, vaatan, soovin, unistan jt</em>); sihitis; põhi- ja järgarvsõnad; sõnamoodustus (liitsõnad).</li><li>klass: nimisõnade käänamine ainsuses ja mitmuses, suur ja väike algustäht, omadussõnade võrdlusastmed (sh lühike ülivõrre), verbi rektsioon, i-mineviku tegusõnad ja nende rektsioon, tingiv kõneviis, umbisikuline tegumood, lõpetamata ja lõpetatud tegevus (<em>sihitise käänded</em>), arvsõna vormid, liide -gi/-ki, kaassõnad.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kasutatud allikad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>P.Kärtner “Kuulamisoskuse arendamine” Keeleõpetaja metoodikavihik. TEA Kirjastus, Tallinn, 2000</em></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>P.Kärtner “Lugemisoskuse arendamine” Keeleõpetaja metoodikavihik. TEA Kirjastus, Tallinn, 2000</em></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>P.Kärtner “Kirjutamisoskuse arendamine” Keeleõpetaja metoodikavihik. TEA Kirjastus, Tallinn, 2000</em></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>P.Kärtner “Kõnelemisoskuse arendamine”, Keeleõpetaja metoodikavihik. TEA Kirjastus, Tallinn, 2000</em></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>I.Krall, E.Sõrmus “Eesti keele grammatika õpetamise võimalusi”, Keeleõpetaja metoodikavihik. TEA Kirjastus, Tallinn, 2000</em></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>K.Johannes “Eesti keele õpetamisest muukeelses koolis”. Riiklik eksami- ja kvalifikatsioonikeskus, Tallinn, 2006</em></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>A.-R.Hausenberg, T.Kikerpill, M.Rõigas, Ü.Türk “Keeleoskuse mõõtmine”, TEA Kirjastus, Tallinn, 2003</em></p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hm.ee/uldharidus-ja-noored/eksamid-ja-tasemetood/riigieksamid",
+              "title": "https://www.hm.ee/uldharidus-ja-noored/eksamid-ja-tasemetood/riigieksamid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Mina ja teised",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "valdab põhisõnavara, vestleb pereliikmete ja kaaslastega, esitab küsimusi ja vastab neile;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab sündmusi, olukordi, kohti, tegevusi ja inimesi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, kirjutab ja täidab lihtsamaid tarbetekste, nagu kutse, sõnum, e-kiri, avaldus, ankeet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru eakohase eestikeelse ilukirjandusliku teksti või filmi põhisisust, avaldab arvamust ja põhjendab oma seisukohta;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab ja mõistab asjakohast teavet tarbetekstidest, näiteks teated, kirjad, voldikud, kuulutused, reklaamid, juhised, hoiatused jmt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab ja selgitab oma vajadusi, soove ja emotsioone, jagab lihtsamaid juhiseid, teeb ettepanekuid ja vastab neile;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab vajalikku teavet trüki- ja veebisõnastikest ning teatmeteostest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab kirjeldavaid ja jutustavaid tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suhtlemine pereliikmete, sõprade ja kaaslastega;</p><p>teistega arvestamine;</p><p>toimetulek rasketes olukordades, abi küsimine ja toetamine;</p><p>viisakusväljendid;</p><p>pere, peretraditsioonid, perekondlikud sündmused ja üritused;</p><p>klassi- ja trennikaaslased;</p><p>naljatamine ja kiusamine, vägivald;</p><p>tuju, tunded ja emotsioonid (hirm, rõõm jne);</p><p>ootused, unistused ja soovid, pettumused;</p><p>heategevus;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi:</p><p>kultuuri- ja väärtuspädevus (inimestevahelised suhted), sotsiaalne ja kodanikupädevus (koostöö teiste inimestega), enesemääratluspädevus (suhtlemisprobleemid, käitumine) aga ka teiste pädevuste kujundamist.</p><p>Õpitulemused seostuvad ka õppekava läbivate teemadega, nagu väärtused ja kõlblus, tervis ja ohutus ning tehnoloogia ja innovatsioon.</p><p>Valdkonnasisene lõiming:</p><p>kirjandus - S.Rannamaa “Kadri”, A.Pervik “Kallis härra Q”, “Preili RõõmuRikkuja”, H.Käit “Kristiine poisid tegutsevad”, K.Priilinn “Evelini uued ja vanad lood”, K.Soans “Inimene puudlinahas”, K.Kass “Kasper ja viis tarka kassi”, A.Gavanda “35 kilo lootust”, E. Raud „Roostevaba mõõk“, A. Pervik „Sookoll ja sisalik“, A. Lindgren „Meisterdetektiiv Blomkvist“, “Vennad Lõvisüdamed”, “Röövlitütar Ronja”, S.Olsson, A.Jacobsson “Berti päevik”,</p><p>Valdkonnavälise lõimingu võimalused:</p><p>Inimeseõpetus: enesehinnang, eneseanalüüs; konfliktide lahendamine; suhtlemine sõprade ja kaaslastega, käitumine; üksteise aitamine, abi küsimine ja vastuvõtmine;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Soovituslik ajakirjandus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://juunior.postimees.ee/",
+                  "title": "Postimees Juunior"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/ajakiri-taheke",
+                  "title": "Täheke"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://healaps.ee/",
+                  "title": "Hea Laps"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovituslikud telesaated",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/",
+                  "title": "Lasteekraan"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovituslikud filmid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>“Erik Kivisüda”, “Nukitsamees”, “Arabella mereröövli tütar”, “Pipi Pikksukk”, “Vehkleja”, “Seltsimees laps”, “Lapsmasin”, “Ruudi”</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kooliväline tegevus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://gamekeskus.ee/",
+                  "title": "rühmamängud Keelekeskus GAME"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kodu ja lähiümbrus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tuleb toime igapäevastes suhtlusolukordades, mis on seotud kodu ja lähiümbrusega (nt tee juhatamine/ küsimine jm);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab põhisõnavara , kirjeldab sündmusi, olukordi, kohti, tegevusi ja inimesi (nt kodu ja lähiümbruse kirjeldamine, kodu- ja aiatööd, pere sündmused ja traditsioonid jm);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru tuttava sisu ja selge ülesehitusega suulistest ja kirjalikest meediatekstidest (nt artiklid laste ajakirjades “Postimees Juunior”, “Hea Laps” jm);",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru eakohase eestikeelse filmi põhisisust (nt “Eia jõulud Tondikakul”);",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab ja mõistab asjakohast teavet tarbetekstidest, näiteks teated, kirjad, voldikud, kuulutused, reklaamid, juhised, hoiatused jmt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb eakohast ilukirjandusteksti või raamatu katkendit ja mõistab selle põhisisu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "räägib lihtsate seostatud lausetega tuttavatel teemadel, avaldab arvamust ja põhjendab oma seisukohta (nt elu linnas või maal, koduümbruse korrashoid);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab ja täidab lihtsamaid tarbetekste (nt küllakutse, sõnum naabritele jm);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab kirjeldavaid ja jutustavaid tekste tuttavatel teemadel (nt “Minu unistuste kodu” jm);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hääldab sõnu ja lauseid üldiselt selgelt ja arusaadavalt.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Erinevad kodud, elu linnas ja maal (tegevused erinevatel aastaaegadel);</p><p>kodu kirjeldamine; lemmikkoht kodus koduümbrus, kodutööd, kodutehnika, aia- ja õuetööd, töövahendid ning kohustused kodus; talgud, loodushoid, keskkonnakaitse.</p><p>rõõmsad ja kurvad sündmused peres, peretraditsioonid, tähtsad päevad; vanavanemad.</p><p>unistuste kodu, liiklus, tee juhatamine, õnnetused teel;</p><p>lemmikloomad (hoolitsemine ja tähtsus), keskkonnahoid ja looduskaitse.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi:</p><p>enesemääratluspädevus (nt oskus käituda erinevates olukordades); matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus (nt suutlikkus kirjeldada ümbritsevat maailma), aga ka teiste pädevuste kujundamist.</p><p>Õpitulemused seostuvad ka õppekava läbivate teemadega keskkond ja jätkusuutlik areng, kodanikualgatus ja ettevõtlikkus, tehnoloogia ja innovatsioon, tervis ja ohutus.</p><p>Valdkonnasisene lõiming:</p><p>Kirjandus: K.Look “Linnuvaatleja Armini õnn”, M.Sillaots “Trips, Traps, Trull ja teised”, K.Kass “Kasper ja viis tarka kassi”, H.Käit “Aardejaht Nõmmel”, E.Petrone “Hiir püksis”, K.Priilinn “Evelini uued lood”, R.Reinaus “Kuidas mu isa endale uue naise sai”,, A.Aun “Eia seiklus Tondikakul”, J.Kinney “Ühe äpardi päevik. Pihuks ja põrmuks”, L.Wilder “Väike maja suures metsas”, M.Keränen “Vana roosa maja”, “Varastatud oranž jalgratas”,</p><p>Valdkonnavälise lõimingu võimalused:</p><p>Inimeseõpetus: turvaline käitumine kodus, tervislik elukeskkond ja keskkonna hoidmine.</p><p>Ühiskonnaõpetus: perekonna roll ühiskonnas, naabruskonnad.</p><p>Kehaline kasvatus: orienteerumine koduümbruses.</p><p>Kunst: unistuste kodu projekteerimine, joonistamine,</p><p>Tööõpetus ja tehnoloogia: kodundus (kodused tööd, sh toidu valmistamine), pesakasti valmistamine.</p><p>Loodusõpetus: Teema “Aed ja põld elukeskkonnana”: iluaed, viljapuu- ja köögiviljaaed, aiataimed ja loomad, aiatööd, kultuurtaimed. Teema “Asula”: linna kujutamine kaardil, linna plaan, elutingimused linnas, elutingimused maal, taimed linnas, linnaloomad, pargid ja haljastus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Soovituslik ajakirjandus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://juunior.postimees.ee/",
+                  "title": "Postimees Juunior"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/ajakiri-taheke",
+                  "title": "Täheke"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://healaps.ee/",
+                  "title": "Hea Laps"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovituslikud telesaated",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/",
+                  "title": "Lasteekraan"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovituslikud filmid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>“Eia jõulud Tondikakul”, “Väikelinna detektiivid ja valge Daami saladus”,</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kooliväline tegevus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://evm.ee/et",
+                  "title": "Eesti Vabaõhumuuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.ajaloomuuseum.ee/",
+                  "title": "Eesti Ajaloomuuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.arhitektuurimuuseum.ee/",
+                  "title": "Eesti Arhitektuurimuuseum"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti ja maailm",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab õpitud teemakohast sõnavara;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "räägib, loeb ja kirjutab Eesti ja teiste riikide kultuurist, sümboolikast ja vaatamisväärsustest jmt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab Eesti ja teiste riikide traditsioone, üldrahvalikke sündmusi, sümboolikat, tuntumaid vaatamisväärsusi jmt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, kirjutab ja täidab lihtsamaid Eesti ja teiste riikidega seotud tarbetekste, nagu kutse, sõnum, teade, e-kiri, avaldus, ankeet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab kirjeldavaid ja jutustavaid reisimise ja huvipakkuvate kohtadega seotud tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb eakohast Eesti ja teiste riikidega seotud ilukirjandusteksti ja mõistab selle põhisisu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru eakohase eestikeelse filmi põhisisust, avaldab arvamust ja põhjendab oma seisukohta;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru tuttava sisu ja selge ülesehitusega erinevate riikide kultuuri, traditsioonide, vaatamisväärsustega seotud suulistest ja kirjalikest meediatekstidest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab ja selgitab oma vajadusi, soove ja emotsioone, jagab lihtsamaid juhiseid, teeb ettepanekuid ja vastab neile;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab vajalikku teavet trüki- ja veebisõnastikest ning teatmeteostest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti geograafiline asukoht;</p><p>ilm ja kliima;</p><p>Eesti looduslikud kohad (metsad, sood, looduskaitsealad, jõed, järved); Ekskursioon;</p><p>riigi- ja rahvussümboolika;</p><p>riigipühad ja riiklikud tähtpäevad;</p><p>Eesti ja teiste riikide traditsioonid ja tähtpäevad, üldrahvalikud sündmused; naaberriigid, hõimurahvad, soome-ugri rahvad;</p><p>pealinnad, põhirahvused, keel, kultuuritavad, huvipakkuvad paigad, muuseumid;</p><p>Eesti meedia (ajakirjandus, televisioon, raadio, internetiallikad);</p><p>Euroopa riigid ja nende kultuur; vaatamisväärsused, muuseumid, sambad; maailmaimed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi:</p><p>kultuuri- ja väärtuspädevus (nt väärtustab teiste riikide kultuure ja traditsioone.), suhtluspädevus (suudab väljendada ennast suheldes teisest rahvusest inimestega), matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus (nt suutlikkus kirjeldada ümbritsevat maailma, oskab planeerida reisi teabeallikaid kasutades), aga ka teiste pädevuste kujundamist.</p><p>Õpitulemused seostuvad ka õppekava läbivate teemadega keskkond ja jätkusuutlik areng, kodanikualgatus, kultuuriline identiteet, teabekeskkond ja meediakasutus.</p><p>Valdkonnasisene lõiming:</p><p>kirjandus: A.Perviku ja L.Tungla, E.Niidu, I.Trulli, H.Männi luule, J.Vaiksoo “Lumemöll”, I. Maran “Kuidas kasvatada lapsevanemaid. Päkapikk Ninatarga pajatused”, K.Look “Linnuvaatleja Armini õnn”, A.Kivirähki jutud (nt “Kass hakkab jõuluvanaks”, “Eestlaste ühine saladus”, “President kinnas”), T.Sarv “Sookoll Kalli”, R.Reinaus “Vanalinna detektiivid. Mustpeade maalid”, “Marjakobar ja teisi seto muinasjutte”, J.Kinney “Ühe äpardi päevik. Puhkusereis”, F. Jüssi „Räägi mulle rebasest“, J.Kross “Mardileib”,</p><p>Valdkonnavälise lõimingu võimalused:</p><p>Kunst ja käsitöö (isade- ja emadepäeva õnnitluskaartide meisterdamine, mardipäeva maskide joonistamine/meisterdamine, jõulukaartide ja -kaunistuste valmistamine);</p><p>Loodusõpetus (Eesti põllud, metsad, rabad ja sood jt; Eesti metsades, parkides, aedades kasvavad lilled ja teised taimed, linnud ja loomad);</p><p>Muusika (nt loodusega seotud laulud, nt “Teele, teele, kurekesed!”, Eesti hümn “Mu isamaa, mu õnn ja rõõm”);</p><p>Kodundus (piparkookide küpsetamine);</p><p>Võõrkeeled (naaber- ja teiste riikide kultuur ja traditsioonid jmt);</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Soovituslik ajakirjandus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://juunior.postimees.ee/",
+                  "title": "Postimees Juunior"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://minumaailm.ee/",
+                  "title": "Minu Maailm"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/ajakiri-taheke",
+                  "title": "Täheke"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://healaps.ee/",
+                  "title": "Hea Laps"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kooliväline tegevus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://evm.ee/et",
+                  "title": "Eesti Vabaõhumuuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.erm.ee/et/content/haridus",
+                  "title": "Eesti Rahva Muuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.loodusmuuseum.ee/et/classes",
+                  "title": "Eesti Loodusmuuseum"
+                },
+                { "kind": "text", "html": "<p>Nõmme Loodusmaja</p>" },
+                {
+                  "kind": "link",
+                  "href": "https://loodusegakoos.ee/metsakool",
+                  "title": "RMK Metsakool"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.ajaloomuuseum.ee/",
+                  "title": "Eesti Ajaloomuuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.ilmateenistus.ee/",
+                  "title": "Ilmateade"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://maaelumuuseumid.ee/c-r-jakobsoni-talumuuseum/",
+                  "title": "Eesti Maaelumuuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://jaaaeg.ee/",
+                  "title": "Jääaja Keskus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Igapäevaelu",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab igapäevaeluga seotud sõnavara;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab igapäevaeluga seotud sündmusi, olukordi, kohti, tegevusi ja inimesi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab igapäevaeluga seotud teavet trüki- ja veebisõnastikest ning teatmeteostest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab ja täidab lihtsamaid igapäevaeluga seotud tarbetekste, nagu kutse, sõnum, e-kiri, avaldus, ankeet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab kirjeldavaid ja jutustavaid igapäevaeluga seotud tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb eakohast igapäevaeluga seotud ilukirjandusteksti ja mõistab selle põhisisu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vahendab igapäevaeluga seotud raamatu või filmi põhisisu ning väljendab oma muljeid ja mõtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru tuttava sisu ja selge ülesehitusega õppimise ja tööga seotud suulistest ja kirjalikest meediatekstidest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>avalikud asutused (poed, muuseum, apteek, raamatukogu, teater jt) ja käitumine nendes;</p><p>turvaline liiklemine;</p><p>tee küsimine ja juhatamine;</p><p>igapäevased tegevused ja olukorrad; huvid ja fänlus;</p><p>taaskasutus;</p><p>liiklusvahendid;</p><p>meedia ja reklaam, internet, tegevused internetis, ohud internetis, interneti head küljed; sotsiaalvõrgustikud;</p><p>tehnika;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi:</p><p>õpipädevus (aja planeerimine, töökoha organiseerimine, rühmatöös osalemine jt), kultuuri- ja väärtuspädevus (käitumine avalikes asutustes) , sotsiaalne ja kodanikupädevus (suhtlemine erinevates situatsioonides, reeglite ja normide järgimine) aga ka teiste pädevuste kujundamist.</p><p>Õpitulemused seostuvad ka õppekava läbivate teemadega, nagu teabekeskkond ja meediakasutus, väärtused ja kõlblus ning tehnoloogia ja innovatsioon.</p><p>Valdkonnasisene lõiming:</p><p>kirjandus - A.Kivirähki jutud, H.Nolmet “Koerailm”, I.Tomusk “Digipöörane kool”, “Algaja ajaränduri seiklused”, J.Põldma “Džuudopoisid”;</p><p>Valdkonnavälise lõimingu võimalused:</p><p>Inimeseõpetus: suhtlemine sõprade ja kaaslastega; teabe vahetamine, teabekanalid; turvalisus ja riskikäitumine (turvaline käitumine koolis, kodus, õues, internetis);</p><p>Ühiskonnaõpetus: teadlik tarbimine, meedia valik: televisioon, internet, ajalehed ja ajakirjad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Soovituslik ajakirjandus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://juunior.postimees.ee/",
+                  "title": "Postimees Juunior"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://minumaailm.ee/",
+                  "title": "Minu Maailm"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/ajakiri-taheke",
+                  "title": "Täheke"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://healaps.ee/",
+                  "title": "Hea Laps"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "e-tunnid",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://etunnid.tagasikooli.ee/",
+                  "title": "e-tunnid"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovituslikud telesaated",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/",
+                  "title": "Lasteekraan"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kooliväline tegevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>poe/kohviku/apteegi/raamatukogu külastus:</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.rara.ee/programmid/",
+                  "title": "poe/kohviku/apteegi/raamatukogu külastus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://raeapteek.ee/elamus/",
+                  "title": "poe/kohviku/apteegi/raamatukogu külastus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Õppimine ja töö",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab õppimise ja tööga seotud sõnavara;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "räägib, loeb ja kirjutab päevaplaanist, õppetundidest, kooliteest, harrastustest, ametitest, raha teenimisest jmt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab õppimise ja tööga seotud sündmusi, olukordi, kohti, tegevusi ja inimesi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab õppimise ja tööga seotud teavet trüki- ja veebisõnastikest ning teatmeteostest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab ja täidab lihtsamaid õppimise ja tööga seotud tarbetekste, nagu kutse, sõnum, e-kiri, avaldus, ankeet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab kirjeldavaid ja jutustavaid õppimise ja tööga seotud tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb eakohast õppimise ja tööga seotud ilukirjandusteksti ja mõistab selle põhisisu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vahendab õppimise ja tööga seotud raamatu või filmi põhisisu ning väljendab oma muljeid ja mõtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru tuttava sisu ja selge ülesehitusega õppimise ja tööga seotud suulistest ja kirjalikest meediatekstidest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>aja planeerimine (päevaplaan);</p><p>koolimaja, koolielu ja lemmiktegevused koolis; klass, klassijuhataja ja klassikaaslased; klassireeglid ja kokkulepped; koolivorm; koolileht ja -raadio; tunniplaan, tunni tegevused; koolisöökla; kooliraamatukogu; õpilasvahetused; koolivahetus; ekskursioonid ja klassiõhtud;</p><p>huviharidus;</p><p>rahatarkus (raha kulutamine, kogumine ja teenimine; sularaha ja pangakaart; taskuraha; õpilasmalev jms);</p><p>ametid, töökohad ja tegevused tööl;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi:</p><p>enesemääratluspädevus (ametite kirjeldused, ameti valik jt), õpipädevus (aja planeerimine, töökoha organiseerimine, rühmatöös osalemine jt), ettevõtlikuspädevus (rahatarkus, aja ja kulude planeerimine jt) aga ka teiste pädevuste kujundamist.</p><p>Õpitulemused seostuvad ka õppekava läbivate teemadega, nagu elukestev õpe ja karjääri planeerimine, kodanikualgatus ja ettevõtlikkus, teabekeskkond ja meediakasutus.</p><p>Valdkonnasisene lõiming:</p><p>kirjandus - A.Kivirähki jutud, H.Nolmet “Koerailm”, I.Tomusk “Digipöörane kool”, “Inglid kuuendas B-s”, “Kolmanda A kriminalistid”, “Matemaatiline sõber”, “Lõpuaktus”, R.Dahl “Matilda”, “Charlie ja šokoladivabrik”,</p><p>Valdkonnavälise lõimingu võimalused:</p><p>Inimeseõpetus: aja planeerimine (päevakava koostamine, päevarežiim), tegevused koolis ja vabal ajal.</p><p>Matemaatika - rahatarkus, taskuraha, raha kulutamine, eelarve planeerimine, hindade võrdlused.</p><p>Ühiskonnaõpetus: aja ja kulude planeerimine, elukutse omandamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Soovituslik ajakirjandus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://juunior.postimees.ee/",
+                  "title": "Postimees Juunior"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://minumaailm.ee/",
+                  "title": "Minu Maailm"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/ajakiri-taheke",
+                  "title": "Täheke"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://healaps.ee/",
+                  "title": "Hea Laps"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "e-tunnid",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://etunnid.tagasikooli.ee/",
+                  "title": "e-tunnid"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Rahatarkus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.err.ee/613405/uuring-taskuraha-suurus-kasvab-lapse-vanusega",
+                  "title": "Rahatarkus"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://failid.koolibri.ee/digi/eesti06_vene_1_8100/saade.mp4",
+                  "title": "Rahatarkus"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovituslikud telesaated",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/",
+                  "title": "Lasteekraan"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kooliväline tegevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>poe/kohviku/apteegi külastus;</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://ettevotluskyla.ee/",
+                  "title": "ettevõtlusküla külastus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://evm.ee/et",
+                  "title": "Eesti Vabaõhumuuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.eestipank.ee/muuseum",
+                  "title": "Eesti Panga muuseum"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Ettevõtete külastus, ametite esindajate kutsumine kooli.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vaba aeg",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab vaba ajaga seotud sõnavara;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "räägib, loeb ja kirjutab vaba aja ja vaheaja tegevustest, reisimisest, laagrist jmt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab vaba ajaga seotud sündmusi, olukordi, kohti, tegevusi ja inimesi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, kirjutab ja täidab lihtsamaid vaba ajaga seotud tarbetekste, nagu kutse, sõnum, teade, e-kiri, avaldus, ankeet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab kirjeldavaid ja jutustavaid vaba ajaga seotud tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb eakohast vaba ajaga seotud ilukirjandusteksti ja mõistab selle põhisisu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru eakohase eestikeelse filmi põhisisust, avaldab arvamust ja põhjendab oma seisukohta;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru tuttava sisu ja selge ülesehitusega vaba ajaga seotud suulistest ja kirjalikest meediatekstidest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab ja selgitab oma vajadusi, soove ja emotsioone, jagab lihtsamaid juhiseid, teeb ettepanekuid ja vastab neile;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab vajalikku teavet trüki- ja veebisõnastikest ning teatmeteostest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>vaheaja ja vaba aja tegemised;</p><p>suvi, suveplaanid, suvepuhkus, suveseiklused, suvilas;</p><p>reisimine, reisikiri, reisimälestused, reisiplaanid, lennureis;</p><p>laagris, õpilasmalevas;</p><p>matkamine;</p><p>talverõõmud, tegevused talvel;</p><p>sport, spordialad;</p><p>hobid ja harrastused;</p><p>meelelahutus (kino, teater, kontsert, raadio, blogi).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi:</p><p>enesemääratluspädevus (käitumine vabal ajal, reisimise ajal jne), digipädevus (reisikirjad, reisipakkumised) aga ka teiste pädevuste kujundamist.</p><p>Õpitulemused seostuvad ka õppekava läbivate teemadega, nagu keskkond ja jätkusuutlik areng, teabekeskkond ja meediakasutus, väärtused ja kõlblus.</p><p>Valdkonnasisene lõiming:</p><p>kirjandus - H.Käit “Aardejaht Nõmmel”, H.Vaher “Jõesaare poisid”, K.Hinrikus “Taaniel Teine”, J.L.Leis “Hanna ja Aleksi lood”, E.Sepp “Jagatud suvi”, A. Lindgren „Rasmus, Pontus ja Lontu“, E.Kästner “Veel üks Lotte”,</p><p>Valdkonnavälise lõimingu võimalused:</p><p>Inimeseõpetus: reisiplaani koostamine;</p><p>Kehaline kasvatus: spordialad ja harrastused;</p><p>Loodusõpetus: matkamine erinevates looduskohtades (mets, soo, niit, park);</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Soovituslik ajakirjandus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://juunior.postimees.ee/",
+                  "title": "Postimees Juunior"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://minumaailm.ee/",
+                  "title": "Minu Maailm"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/ajakiri-taheke",
+                  "title": "Täheke"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://healaps.ee/",
+                  "title": "Hea Laps"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovituslikud filmid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>“Supilinna salaselts”, “Vehkleja”</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://jupiter.err.ee/1608741049/homme-pogeneme",
+                  "title": "“Homme põgeneme”"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovituslikud telesaated",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/",
+                  "title": "Lasteekraan"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kooliväline tegevus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.eestinoorsooteater.ee/et",
+                  "title": "Nukuteatrimuuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://opera.ee/et/",
+                  "title": "Rahvusooper Estonia"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.apollokino.ee/groups/schooltothecinema",
+                  "title": "Klassiga kinno"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.kinosoprus.ee/et/film/klassiga-kinno-1",
+                  "title": "Klassiga kinno"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.spordimuuseum.ee/",
+                  "title": "Spordimuuseum"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tervis ja tervislik eluviis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "valdab teemakohast põhisõnavara, vajaduse korral lihtsustab sõnumit või sõnastab oma teksti ümber;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tuleb toime igapäevastes suhtlusolukordade, mis on seotud tervise, terviseprobleemide ja tervisliku eluviisiga; väljendab ja selgitab oma vajadusi, soove ja emotsioone",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru ja leiab asjakohast teavet lühematest lihtsamatest teadetest, sõnumitest, juhistest ja kirjadest (nt tervisetõendid, soovitused, koduapteek jm);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru tuttava sisu ja selge ülesehitusega suulistest ja kirjalikest meediatekstidest (nt Minu Maailm, Postimees Juunior jm);",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb eakohast ilukirjandusteksti ja mõistab selle põhisisu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vahendab raamatu põhisisu ning väljendab oma muljeid ja mõtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab ja täidab lihtsamaid tarbetekste, nagu sõnum, e-kiri, ankeet (nt sõnum perearstile);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab kirjeldavaid ja jutustavaid tekste tervise teemal.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tervis, tervislik eluviis, tervislik toit, viis värvi taldrikul;</p><p>tegevused õues, metsas;</p><p>haigused, külmetus, palavik, peavalu, hambavalu, kõne perearstile, hambaarsti juures, apteegis;</p><p>terveks saamine, ravimid, vitamiinid;</p><p>füüsiline, vaimne ja sotsiaalne tervis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemused toetavad üldpädevusi:</p><p>enesemääratluspädevus (terve eluviisi järgimine; iseendaga, oma vaimse ja füüsilise tervisega seonduvaid ning inimsuhetes tekkivaid probleemide lahendamine), digipädevus (e-kirjad arstile, digiretseptide otsimine jn) aga ka teiste pädevuste kujundamist.</p><p>Õpitulemused seostuvad ka õppekava läbivate teemadega: tervis ja ohutus, teabekeskkond.</p><p>Valdkonnasisene lõiming:</p><p>kirjandus - J.Vaiksoo “Lumemöll”, A.Kivirähki jutud</p><p>Valdkonnavälise lõimingu võimalused:</p><p>Inimeseõpetus: tervisliku eluviisi komponendid, tervisliku toitumise põhimõtted, toitumist mõjutavad tegurid, haigused ja esmaabi, käitumine õnnetusjuhtumi korral, koduapteek.</p><p>Loodusõpetus: Inimese kehaehitus, elundkondade ülesanded, meeled.</p><p>Kokandus: tervislik toitumine, toidupüramiid, taldrikureegel, tervisliku toidu valmistamine.</p><p>Kehaline kasvatus: spordialad ja harrastused, karastamine, tervislik võimlemine, riietumine, tervisliku eluviisi propageerimine, oma füüsilise vormi jälgimine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Soovituslik ajakirjandus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://juunior.postimees.ee/",
+                  "title": "Postimees Juunior"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://minumaailm.ee/",
+                  "title": "Minu Maailm"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/ajakiri-taheke",
+                  "title": "Täheke"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://healaps.ee/",
+                  "title": "Hea Laps"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soovituslikud telesaated",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://lasteekraan.err.ee/",
+                  "title": "Lasteekraan"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kooliväline tegevus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://tervisemuuseum.ee/",
+                  "title": "Tervisemuuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://ahhaa.ee/et",
+                  "title": "Ahhaa Keskus, õppeprogramm “Anatoomia”"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://hambabuss.ee/",
+                  "title": "Hambabuss kooli"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Vestlused kooli medõe ja toitumisspetsialistiga</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://tai.ee/et",
+                  "title": "Tervise Arengu Instituudi loengud ja materjalid"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Tagasiside, edasiside ja hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><em>HINDAMINE LÄHTUB ÕPITULEMUSTE OSAOSKUSTE KONTROLLIMISEST</em></p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>II kooliastmes hinnatakse saavutatud õpitulemusi, mis lähtuvad iga teema jaoks kirjeldatud õpitulemustest ja valitud meetoditest (osaoskustest). Eesti keele kui teise keele õppes käsitletakse keelevigu õppimise loomuliku osana ning neid parandatakse ja arvestatakse hindamisel vastavalt õppetegevuse eesmärgile.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Kuulamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kuulamisoskuse hindamisel arvestatakse teksti tüüpi, teemat, keerukust, pikkust ning kõne selgust ja tempot. B1 tasemel õpilane suudab mõista tavakõnet tuttavatel teemadel. Saab aru faktilisest infost ja mõistab ka detaile, kui kõne on selge.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lugemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>lugemisoskuse hindamisel on võetud arvesse lugemisteksti keelelist raskust, pikkust ja keerukust, teema tuntust. Samuti tuleb hinnata ka seda, kui suurt iseseisvust on õppijalt ühel või teisel tasemel võimalik oodata (nt kas vajatakse korduvat ülelugemist, sõnaraamatu kasutamist). B1 tasemel suudab õpilane rahuldaval tasemel mõista teksti, mis on seotud tuttava teemaga.</p><p>Nii lugemis- kui ka kuulamisoskuse mõõtmisel hinnatakse selliseid oskusi nagu:</p><ul><li>valikulise info leidmine tekstist;</li><li>teksti detailne mõistmine;</li><li>arusaamine teksti peamisest mõttest;</li><li>järelduste tegemine teksti kohta.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kirjutamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kirjutamisoskuse mõõtmisel hinnatakse neid keeleoskuse komponente, mida kirjutades rakendatakse:</p><ul><li>keeleline korrektsus (õigekiri, kirjavahemärgid, teksti vormistustavad, keelestruktuurid)</li><li>sõnavara ulatuslikkus ja mitmekesisus;</li><li>vormi- ja lausemoodustuse valdamine;</li><li>kontekstile vastav keelekasutus ja loogiline lausestus, liitlausete kasutamine;</li><li>lause/teksti nõutav pikkus ja struktuur;</li><li>suutlikkus koostada seotud teksti, oskus kasutada teksti loogilise ülesehituse ja sidususe vahendeid;</li><li>oskus kirjeldada, selgitada, põhjendada, veenda;</li><li>oskus varieerida keelekasutust olenevalt suhtlusolukorrast (nt isiklik, poolametlik ja ametlik kiri)</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Rääkimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>rääkimisoskuse mõõtmisel hinnatakse rääkimisel rakendatavaid keeleoskuse komponente:</p><ul><li>kõne on piisavalt sujuv ja hästi mõistetav, kuid esinevad suulisele kõnele omased tavalised takerdused;</li><li>sõnavara mitmekesisus;</li><li>fraasi struktuur ja pikkus;</li><li>kõne arusaadavus;</li><li>väljenduse loogilisus;</li><li>argumenteerimisoskus;</li><li>oskus reageerida erinevates suhtlusolukordades;</li><li>oskus valida olukohaseid keelelisi vahendeid;</li><li>parafraseerimisoskus;</li><li>grammatika korrektne kasutamine.</li></ul>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

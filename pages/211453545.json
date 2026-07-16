@@ -1,0 +1,425 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Liikumisoskused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kasutab edasiliikumisoskusi eri keskkondades, harjutustes, liikumismängudes ja tantsus, rütmis ja muusika saatel, koostöös paarilise ning rühmaga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "liigub edasi vahendil harjutustes ja liikumismängudes",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab esmast liikumisvahendi hoidmis- ja hooldusvajadust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "käsitseb vahendit harjutustes, liikumismängudes ja teiste oskuste arendamiseks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab ujuda, sh sukelduda, veepinnal hõljuda, rinnuli- ja seliliasendis kokku 200 meetrit edasi liikuda;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab adekvaatselt oma võimeid vees ja rakendab eakohaseid veeohutusalaseid oskusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hoiab tasakaalu asendites, liikumistel ja nende kombinatsioonides;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "korrigeerib kehahoidu õpetaja juhtimisel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arvestab peamisi turvalisuse ja ohutu liikumise põhimõtteid ning saab aru erinevate liikumisviiside puhul vajaliku turvavarustuse kasutamise põhjustest;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "arvestab tegevustes kaaslasi;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "annab tagasisidet enda liikumisoskuste ja -ohutuse kohta etteantud kirjelduse alusel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid erinevate liikumisoskuste kohta",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Oskuste arendamisel arvestada individuaalsust.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Kõnni- ja jooksuoskus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kõnni-, jooksumängud ja – harjutused. Kõnni ja jooksusammudel põhinevad tantsud, tantsumängud. Kõndimine ja jooksmine sise- ja välistingimustes (sh erinevat tüüpi maastikul). Lühimatk või õppekäik linna- või looduskeskkonnas.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Hüppeoskus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hüppemängud. Hüppeid ja hüpakuid sisaldavad tantsud. Hüppeharjutused ja nende kombinatsioonid, sh hüpped vertikaal- ja horisontaalsuunas. Hüppe- ja jooksukombinatsioonid. Hüpete kasutamine erinevates keskkondades. Hüpitsaharjutused.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ronimisoskus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Ronimine erinevatel vahenditel, üle takistuste, erinevatel tasapindadel, vahendite alt, roomamine. Ohutusega arvestamine ja enda suutlikkuse mõistmine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Edasiliikumisoskuste kasutamine tantsus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Keha liikumine ajas ja erinevates rütmides. Keha liikumine ruumis. Keha liikumine heli ja muusika saatel. Liikumine eneseväljenduse vahendina. Liikumine koostöös teistega.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Edasiliikumisoskuste kasutamine rütmis ja muusikas",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Etteantud rütmi järgi liikumine ja ise rütmi tekitamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Edasiliikumisoskused koostöös paarilise ja rühmaga",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Liikumised paarilise ja rühmaga erinevates suundades, tempos, rütmis.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>Harjutused ja mängud kelkudel. Harjutused tõuke- ja jalgrattal. Harjutused uiskudel. Harjutused rulal. Harjutused suuskadel (murdmaa, mäesuusk, lumelaud). Harjutused vahenditel liikumiseks vees (nt sõudepaat). Võimalus rakendada nn jalgrattaveerandi ideed (vahendil liikumise oskuse arendamine), sh vigurelemendid, jalgratturikoolituse toetamine (olemas õppematerjalid ja osaleda projektides).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Vahend, millele keskendutakse valitakse kooli poolt ja sellest sõltub ka tehnilisele ABC-le keskendumise vajadus vastavalt vahendi eripärale. Näiteks: Jalgratta, suuskade hoidmisasendid. Ülevaade sellest, mida jälgida jalgratta tehnilise seisukorra puhul: keti õlitamine, rehvide tugevus, sadula kõrgus. Suuskade (lumelaua) puhul teadmine, et põhjasid on vaja hooldada libisemiseks, suuskadel pidamisala määramine ja määrimine klassikalise sõidustiili puhul.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Viske- ja püüdmisoskus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Vahendi hoidmine: vahendi hoidmine erinevate kehaosadega, üksi ja mitmekesi, erinevates kehaasendites, tasapindadel, erinevatel viisidel liikudes. Viske- ja püüdmisega liikumismängud. Viske- ja püüdmisharjutused: viskamine erinevalt kauguselt, ülaltkäe vise täpsusele, veeretamine täpsusele ja esemete alt, veereva palli püüdmine, enda ja paarilise visatud palli püüdmine, viskamine üle võrgu, individuaalharjutused palliga, viskamine üles ja püüdmine (variatsioonid), viskamine seina vastu ja püüdmine, viskamine horisontaalsesse (nt rõngas, kast) või vertikaalsesse märklauda (nt tähis seinal).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Põrgatamisoskus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Põrgatamisharjutused ja erinevad kombinatsioonid, põrgatamine parema ja vasaku käega, põrgatamine ja püüdmine, põrgatamine säilitades asukohta, põrgatamine liikumisel.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Palli löömisoskus käega",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Palli löömine üles, ette-üles, üle takistuse (võrk, nöör), harjutused kergete pallidega (nt. õhu- või rannapallid), palli löömine erinevate kehaosade; palli löömine säilitades enda asukohta ja liikumisel.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Palli löömisoskus jalaga",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Harjutused ja liikumismängud. Seisva ja liikuva palli löömine kaaslasele ja täpsusele. Palli vedamine ja peatamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Palli löömisoskus vahendiga (reketiga, hokikepiga)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kerge palli löömine õhku, edasi, üle takistuse (võrk) reketiga. Palli löömine seina vastu, üles, palli viskamine üles ja selle löömine, palli löömine altkäega peale põrget. Juurdeviivad harjutused reketi- ja hokimängudele. Palli vedamine, löömine, peatamine, söötmin, hokikepiga.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Vahendi abil teiste oskuste arendamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kehatunnetuse, koordinatsiooni, tasakaalu, koostöö, rütmitunnetuse harjutused vahendite abil.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "link",
+              "href": "https://oppekava.innove.ee/oppeprotsesside-kirjeldused/kehaline-kasvatus/",
+              "title": "Eraldi õppeprotsessi kirjeldus"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kool korraldab ujumise algõpetuse nii, et õpitulemuseni jõuab õpilane 3.klassi lõpuks.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://oppekava.innove.ee/oppeprotsesside-kirjeldused/kehaline-kasvatus/",
+              "title": "Eraldi õppeprotsessi kirjeldus"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kool korraldab ujumise algõpetuse nii, et õpitulemuseni jõuab õpilane 3.klassi lõpuks.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Tasakaalu hoidmine asendites",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tasakaaluasendid erinevate kõrguste ja laiustega toepindadel; kehakujud (sümmeetrilised, mittesümmeetrilised) nii üksi kui ka koostöös. Toengud erinevate kehaosade peal. Lihtsamad ümberpööratud asendid. Maandumine. Rippumine. Kehatunnetuse ja kehahoiu harjutused paigal.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tasakaalu hoidmine liikumisel",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Liikumised erinevate kõrguste ja laiustega toepindadel. Lihtsamad pöörlemised. Erinevad veered. Kehatunnetuse ja kehahoiu harjutused liikudes.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tasakaalu hoidmine asendite ja liikumiste kombinatsioonides",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Asendite ja liikumiste kombinatsioonid (nt harjutuste kombinatsioonid: liikumine-tasakaaluasend; takistusrajad jne); kehahoid erinevates liikumistes. Kombinatsioonide koostamine (sh nt enda harjutuste seeria joonistamine) ja sooritamine. Kehakontroll tantsides (asendi hoidmised, pöörlemised, hüpped, maandumised, tasakaaluharjutused jne, nii individuaalselt kui paaristantsus).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kehahoid vastavalt liikumis- ja igapäevasele tegevusele. Selle korrigeerimine õpetaja juhendamisel.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Tervis ja ohutus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Läbiv teema liikumisoskuste valdkonnas Läbiv teema “Tervis ja ohutus” keskendub ohutusega seotud teemadele (tinglikult jaotades ohutusõpetuseks ning riskikäitumise ennetamiseks). Liikumisega seonduvatest õpitulemustest saab liikumisoskuste valdkonnas toetada järgmiste õpitulemuste saavutamist: turvalisust ja ohutust suurendavate vahendite kasutamine; õpilase enda ja kaaslaste käitumise jälgimine ja analüüsimine, ohutu ja ohtliku liikluskäitumise eristamine; ohutu teekonna kavandamine erinevaid liikumisviise ja abivahendeid kasutades. Konkreetsed õpitulemused koos toetavate õppeülesannetega on kirjeldatud ohutusteemalistes õpetajaraamatutes.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Turvalisuse ja ohutu liikumise põhimõtete arvestamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õppesisu näited edasiliikumisoskustes Soojendus enne liikumistegevust, riietuse valik vastavalt tegevusele, keskkonnale, ilmale. Erinevate liikumisviiside puhul ohutuse tagamine nii linna- kui maakeskkonnas (enda nähtavaks tegemine). Teekonna kavandamine, ilmastikutingimusi ja liikumisviisi arvestavalt. Seos läbiva teema &quot;Tervis ja ohutus&quot; liiklusalaste õpitulemustega: põhjendab ja kasutab vajalikku turvavarustust liikumisviisi silmas pidades (kiiver, enda nähtavaks tegemine - need seonduvad ka tervisespordiga).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Vahendil liikumises",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Turvavarustuse kasutamine: kiiver, kaitsmed, helkur, erksavärvilised riided jne. Liiklusohutus ohutu liikluskäitumise eristamine ohtlikust, oma käitumise analüüsimine. Liiklusreeglitega arvestamine vahendil (rula, tõukeratas, jalgratas jne) liikudes linna- või maakeskkonnas. Kaaslasega arvestamine vahendil liikumisel.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Vahendi käsitsemisoskustes",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Vahendite otstarbekas kasutamine; arvestamine keskkonna ja kaaslastega. kehakontrollioskustes asendites ja liikumisel Ohutuse arvestamine. Kehahoiu arvestamine asendites. veeohutusalased oskused Ujumisoskus; oma võimete hindamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilane annab etteantud skaalal hinnangu, kuidas on ta arvestab kaaslase või kaaslastega liikumistegevuses.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilase tagasiside andmine toimub etteantud oskuste alusel, kust ta saab valida kuidas ta antud oskuse on omandanud ja kuidas ta arvestab ohutusega.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Liikumisoskuste nimetamine oma igapäevaste liikumisviiside kirjeldamine</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kõnni- ja jooksuoskus, hüppeoskus, ronimisoskus, edasiliikumisoskuste kasutamine tantsus; edasiliikumisoskuste kasutamine rütmis ja muusikas; edasiliikumisoskused koostöös paarilise ja rühmaga; liikumised vahendil (liikumisvahend (ratas, suusk, uisk, kelk jne); vahendi käsitsemine; kehakontrolli oskus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>annab tagasisidet enda liikumisoskuste ja -ohutuse kohta etteantud kirjelduse alusel; ujumise kompleksharjutus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Liikumisoskused on olulised, et inimene saaks ja oskaks olla kehaliselt aktiivne erinevates liikumistegevustes. Oskuste omandades tunnetab ta ennast liikumistegevustes kompetentsena ja see on otseselt seotud ka kehalise aktiivsuse harjumustega. Seega liikumisoskused ja kehaline aktiivsus on vastastikuses seoses. Oluline on tegeleda kõikide liikumisoskustega erinevate liikumistegevuste ja keskkondade kaudu, et saaksid kujuneda mitmekülgsed liikumisoskused:</p><p>1) Edasiliikumisoskused maal ehk kõndimis-, jooksmis-, hüppamis-, ronimisoskus ja nende rakendamine liikumisharrastuses, spordialades, rütmis ja muusika saatel, tantsus ja koostööd tehes Edasiliikumisoskus vees ehk ujumisoskus.</p><p>2) Oskus liikuda vahendil. Oskus on seotud igapäevase liikumisega, harrastus- ja sportlikku tegevusega, kus edasiliikumiseks kasutatakse vahendit.</p><p>3) Oskus käsitseda vahendit ehk oskus visata, püüda, põrgatada ja lüüa vahendit käe, jala ja vahendiga.</p><p>4) Oskus kontrollida keha asendites, liikumisel ja nende kombinatsioonides.</p><p>Valdkonna õpitulemused on tihedalt seotud ka läbiva teemaga „Tervis ja ohutus“ ja üldpädevustest sotsiaalne- ja enesemääratluspädevus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>õpetaja poolt juhitud arutelu; õpilaste erinevate oskuste ja võimetega arvestamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilase tegevused, mis tagavad aine, <a href=\"https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa4.pdf\">valdkonna</a>* ning <a href=\"https://www.riigiteataja.ee/akt/108032023005\">üldpädevuste</a>** saavutamise:</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Eesti keel - suuline ja kirjalik eneseväljendus, liikumissõnavara</li><li>Sotsiaalained - tervislikuks eluviisiks vajalikud oskused, teadmised ja hoiakud</li><li>Matemaatika - ruumilised mõisted (ees, taga, kõrval jne), tempo</li><li>Tööõpetus - endale liikumisvahendi valmistamine (nt endale palli tegemine)</li><li>Võõrkeel - võõrkeelne liikumissõnavara</li><li>Loodusõpetus - liikumine erinevates keskkondades, sh maastikel</li><li>Inimeseõpetus - riietumine, erinevate harjutuste toime tunnetamine</li><li>Muusika - muusikaline liikumine erineval viisil, rütm</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453545/Liikumisoskus_Ika_pdf.pdf?version=1&modificationDate=1706621631486&api=v2",
+              "title": "PDF fail"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453545/Liikumisoskus_Ika.docx?version=1&modificationDate=1706621631492&api=v2",
+              "title": "WORD fail"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/valdkonnad/liikumisoskused/",
+              "title": "Liikumisoskused"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/?mf_material-cat=23&mf_material-level=13",
+              "title": "Liikumisoskuste materjale"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/9443-Labiva-teema-Tervis-ja-ohutus-ohutuse-alateema-opetajaraamat",
+              "title": "Tervise ja ohutusega seotud õpitulemused"
+            },
+            {
+              "kind": "link",
+              "href": "https://ujumiskursus.ee/1-oskuste-analuus/",
+              "title": "Ujumisoskuse eneseanalüüsi võimalust"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.terviseinfo.ee/et/tervise-edendamine/koolis/olulised-abimaterjalid/toitumine-ja-liikumine/opetajaraamat/liikumise-aktiivtoeoed",
+              "title": "Liikumisega seotud aktiivtööd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

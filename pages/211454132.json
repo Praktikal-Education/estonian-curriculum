@@ -1,0 +1,741 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Orgaaniliste ühendite struktuuri kujutamine; alkaanid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab erinevaid molekuli koostise ja ehituse kujutamise viise: lihtsustatud struktuurivalem, tasapinnaline ehk klassikaline struktuurivalem, molekuli graafiline kujutis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib ühendi struktuurivalemis sisalduvat teavet",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab süstemaatilise nomenklatuuri põhimõtteid alkaanide näitel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Süsinikuühendite struktuur ja selle kujutamise viisid. Alkaanid, nomenklatuuri põhimõtted, isomeeria.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>isomeeria, alkaan ehk küllastunud süsivesinik.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>süsivesinike ja nende derivaatide molekulimudelite ja struktuurivalemite koostamine ja uurimine, sh digitaalses keskkonnas.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selle teema käigus omandatakse vajalik baaskirjaoskus orgaaniliste ühendite tundmaõppimiseks. Teema on vundamendiks kursuse kõikidele järgmistele teemadele. Enamik maailmas tuntud ühenditest on orgaanilised ühendid (süsinikuühendid), orgaaniliste ühendite omaduste mõistmisel on kesksel kohal nende molekulide ehitus ehk <strong>struktuur</strong>.</p><p>Kui orgaanilist keemiat õpitakse gümnaasiumis vaid ühe kursuse raames, siis tutvutakse põhjalikumalt orgaaniliste ühendite nomenklatuuriga alkaanide näitel. Orgaanilise ühendi nimetus peab olema koostatud selliselt, et selles oleva info põhjal on võimalik koostada üks ja ainult üks vastav struktuurivalem.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpingute aluses on soovitatav meenutada süsinikuühendite tähtsust looduses ja argielus ning põhikoolis omandatut: süsiniku aatomitele on iseloomulik moodustada neli kovalentset sidet; hapniku aatomitele kaks ning vesiniku aatomitele üks kovalentne side. Orgaaniliste ainete molekulides moodustavad lämmastiku aatomid üldjuhul kolm kovalentset sidet.</p><p>Kasulik on kujutada ühe ja sama molekuli ehitust tasapinnalise ja lihtsustatud struktuurivalemiga ning graafilise kujutisega. Nomenklatuuri õppimisel sobib kujutada 2-metüülpentaani ja 3-metüülpentaani ning arutleda kohanumbrite tarviduse üle. Õpilased võiksid kasutada vähemalt üht vabavaralist arvutiprogrammi või veebikeskkonda, näiteks ACD/ChemSketchi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>koostab vabavaralise arvutiprogrammi abil või veebikeskkonnas lihtsamate orgaaniliste ainete, sh alkaanide struktuurivalemeid ja graafilisi kujutisi (suhtluspädevus, digipädevus, LT 2);</li><li>viib kaaslasega läbi ajurünnaku orgaaniliste ainete tähtsusest looduses ja argielus (suhtluspädevus, LT 1).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selle teema õpitulemused lõimuvad kõige tugevamalt geograafiaga, sh geograafia gümnaasiumi kursuse „Loodusvarade majandamine ja keskkonnaprobleemid“ teemaga „Energiamajandus ja keskkonnaprobleemid“.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppimise jooksul on õpetajal võimalik kujundavalt hinnata läbiviidud praktilise töö kokkuvõtet ning muid töölehti. Õpilase eelteadmisi aitavad välja selgitada küsimused, testid ja virtuaalsed keskkonnad, näiteks <a href=\"http://quizizz.com/\">quizizz.com</a>, <a href=\"http://quizlet.com/\">quizlet.com</a>, kahoot (<a href=\"https://create.kahoot.it/auth/login\">https://create.kahoot.it/auth/login</a>) ja <a href=\"http://learningapps.org/\">learningapps.org</a>. Teema võib lõpetada kontrolltöö/testiga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227816",
+              "title": "Süsinikuühendite struktuuri kujutamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227818",
+              "title": "Alkaanid ja nende nomenklatuur"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227824",
+              "title": "Isomeeria"
+            },
+            {
+              "kind": "link",
+              "href": "https://orgaanilinekeemia.ee/",
+              "title": "Orgaanilise keemia digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://orgaanilinekeemia.ee/toovahendid/",
+              "title": "Orgaanilise keemia digiõpiku töövahendid, sh molekulide konstrueerija"
+            },
+            {
+              "kind": "link",
+              "href": "https://olympiaadid.haridus.ee/",
+              "title": "Keemiaolümpiaadi ülesanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eko.ut.ee/",
+              "title": "Keemiaolümpiaadi ülesanded"
+            },
+            {
+              "kind": "file",
+              "src": "https://olympiaadid.haridus.ee/failid/2021_2022_KV_11_%C3%9Clesanded_EK.pdf",
+              "title": "Näide 1. keemiaolümpiaadi 2021.–2022. õa Tallinna koolivooru ülesanne nr 3"
+            },
+            {
+              "kind": "file",
+              "src": "https://olympiaadid.haridus.ee/failid/2022_2023_KV_11_%C3%9Clesanded.pdf",
+              "title": "Näide 2. keemiaolümpiaadi 2022.–2023. õa Tallinna koolivooru ülesanne nr 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Asendatud alkaanid, nende füüsikalised omadused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "seostab alkoholide, halogeeniühendite ja primaarsete amiinide süstemaatiliste nimetuste eesvõi lõppliiteid vastavate aineklassidega, määrab molekuli struktuuri või nimetuse põhjal ühendi aineklassi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab aine struktuuri põhjal aine lahustuvust eri lahustites ja keemistemperatuuri",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Asendatud alkaanide (halogeeniühendite, alkoholide, primaarsete amiinide) füüsikaliste omaduste sõltuvus struktuurist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            { "kind": "text", "html": "<p>asendatud süsivesinik</p>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>molekulidevaheliste jõudude tugevuse uurimine aurustumissoojuse võrdlemise teel;</li><li>hüdrofiilsete ja hüdrofoobsete ainete vastastiktoime veega uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Asendatud alkaanide teema põhifookus on funktsionaalrühmadega tutvumisel ning funktsionaalrühmade mõju orgaaniliste ainete <strong>füüsikalistele</strong> omadustele mõistmine. Molekulidevaheliste vastastiktoimete tundmaõppimine võimaldab omaduste erinevust mõista ning orgaanilisele ainele iseloomulikke füüsikalisi omadusi prognoosida.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Asendatud alkaanide tundmaõppimisel on soovitatav alustada nende seosest alkaanidega ehk nendest kui alkaanide derivaatidest. Kasulik on välja selgitada polaarsete sidemete olemasolu ning õppida hindama molekulide võimet moodustada vesiniksidemeid. See määrab suuresti ainete keemistemperatuuride erinevuse ning vees lahustuvuse.</p><p>Rakenduslikud järeldused võib sõnastada rühmatööna arvandmete põhjal, võrreldes lähedase molaarmassiga ainete keemistemperatuure ja lahustuvust vees.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>otsib andmeid erinevate asendatud alkaanide keemistemperatuuridest ja lahustuvusest vees, analüüsib neid andmeid, esitab andmeid graafiliselt (õpipädevus, suhtluspädevus, digipädevus, LT 1, 5);</li><li>hindab probleemülesannetes ainete lahustuvust vees (ja teistes lahustites), valib aine lahustamiseks sobiva lahusti (LT 4).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selle teema õpitulemused lõimuvad kõige tugevamalt füüsikaga, sh füüsika gümnaasiumi kursusega „Mikro- ja megamaailma füüsika“.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppimise jooksul saab kujundavalt hinnata täidetud töölehti, praktilise töö aruannet ja enesetestimise võimalusi, näiteks <a href=\"http://quizizz.com/\">quizizz.com</a>, <a href=\"http://quizlet.com/\">quizlet.com</a>, <a href=\"https://create.kahoot.it/auth/login\">kahoot</a> ja <a href=\"http://learningapps.org/\">learningapps.org</a>.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227826",
+              "title": "Asendatud alkaanid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227839",
+              "title": "Asendatud alkaanide füüsikalised omadused"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227902",
+              "title": "Süsivesinikud ja nende derivaadid looduses ja tööstuses"
+            },
+            {
+              "kind": "link",
+              "href": "https://orgaanilinekeemia.ee/",
+              "title": "Orgaanilise keemia digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://orgaanilinekeemia.ee/toovahendid/",
+              "title": "Orgaanilise keemia digiõpiku töövahendid, sh molekulide konstrueerija"
+            },
+            {
+              "kind": "link",
+              "href": "https://olympiaadid.haridus.ee/",
+              "title": "Keemiaolümpiaadi ülesanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eko.ut.ee/",
+              "title": "Keemiaolümpiaadi ülesanded"
+            },
+            {
+              "kind": "file",
+              "src": "https://olympiaadid.haridus.ee/failid/2021_2022_KV_11_%C3%9Clesanded_EK.pdf",
+              "title": "Näide 1. keemiaolümpiaadi 2021.–2022. õa Tallinna koolivooru ülesanne nr 2"
+            },
+            {
+              "kind": "file",
+              "src": "https://olympiaadid.haridus.ee/failid/2022_2023_KV_11_%C3%9Clesanded.pdf",
+              "title": "Näide 2. keemiaolümpiaadi 2022.–2023. õa Tallinna koolivooru ülesanne nr 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Küllastumata ja aromaatsed süsivesinikud, nende keemilised omadused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "võrdleb küllastunud, küllastumata ja aromaatsete süsivesinike keemilisi omadusi, koostab lihtsamaid reaktsioonivõrrandeid alkaanide, alkeenide ja areenide halogeenimise ning alkeenide hüdrogeenimise ja katalüütilise hüdraatimise reaktsioonide kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab tähtsamate süsivesinike ja nende derivaatide rakendusi argielus ning kasutamisega kaasnevaid ohtusid, seostab neid ainete omadustega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujutab alkeenist tekkivat polümeeri lõiku",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Küllastumata ja aromaatsete süsivesinike ning alkaanide keemiliste omaduste võrdlus. Liitumispolümerisatsioon. Süsivesinikud ja nende derivaadid looduses ning tööstuses.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>küllastumata süsivesinik, aromaatne ühend, liitumispolümerisatsioon.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selle teemaga kujuneb ettekujutus molekulide ehituse mõjust orgaaniliste ainete <strong>keemilistele</strong> omadustele. Käsitletakse alkeenidele iseloomulikke liitumisreaktsioone ning aromaatsetele ühenditele iseloomulikke asendusreaktsioone.</p><p>Liitumispolümeeride saamine alkeenidest aitab mõista plastikmaterjalide kasutamisega kaasnevat keskkonnaprobleemi ja selle leevendamise võimalusi: ümbertöötlemist, korduvkasutust, materjalikulu vähendamist ning biolagunevaid alternatiive.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Soovitatav on alustada küllastumata süsivesinike ja aromaatsete ühendite põhimõttelise ehituse tundmaõppimisest, keskendudes alkeenidele ning benseenile ja selle derivaatidele. Keemiliste omaduste erinevust on kasulik alustada halogeenidega reageerimise võrdlemisest.</p><p>Küllastumata süsivesinike puhul käsitletakse täiendavalt ühinemisreaktsiooni vesinikuga ehk hüdrogeenimist ning happekatalüütilist ühinemisreaktsiooni veega ehk hüdraatimist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>koostab lühiülevaate peamiste polüalkeene sisaldavate plastide kasutusvaldkondadest argielus (LT 5, suhtluspädevus);</li><li>korraldab struktureeritud arutelu või väitluse polüalkeene sisaldavate plastide kasutamise piiramisvõimalustest ning alternatiivsete lahenduste kasutuselevõtust (sotsiaalne ja kodanikupädevus, õpipädevus, suhtluspädevus, LT 7);</li><li>viib läbi ajurünnaku plastide kasutuselevõtu mõjust inimeste igapäevastele tarbimisharjumustele ning argimugavustele, hindavad ühekordselt kasutatavate plastnõude kasutamise piiramise mõju enda igapäevaelule (sotsiaalne ja kodanikupädevus, enesemääratluspädevus, suhtluspädevus, LT 4, 6).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selle teema õpitulemused lõimuvad kõige tugevamalt geograafiaga, sh geograafia gümnaasiumi kursuse „Loodusvarade majandamine ja keskkonnaprobleemid“ teemaga „Energiamajandus ja keskkonnaprobleemid“.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppimise jooksul on võimalik kujundavalt hinnata täidetud töölehti, osalemist arutelus/väitluses ja enesetestimist. Hindamismudeleid (<a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">Vt näiteid</a>) saavad õpilased kasutada nii enese kui kaaslaste hindamiseks. Näiteks <a href=\"http://quizizz.com\">quizizz.com</a>, <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"https://create.kahoot.it/auth/login\">kahoot</a> ja <a href=\"http://learningapps.org\">learningapps.org</a>.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227874",
+              "title": "Küllastumata ühendid ja nende keemilised omadused"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227883",
+              "title": "Aromaatsed ühendid ja nende keemilised omadused"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227885",
+              "title": "Süsivesinike keemiliste omaduste võrdlus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227887",
+              "title": "Liitumispolümerisatsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19627-3-1-Susivesinikud-ja-nende-derivaadid/227902",
+              "title": "Süsivesinikud ja nende derivaadid looduses ja tööstuses"
+            },
+            {
+              "kind": "link",
+              "href": "https://orgaanilinekeemia.ee/",
+              "title": "Orgaanilise keemia digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://orgaanilinekeemia.ee/toovahendid/",
+              "title": "Orgaanilise keemia digiõpiku töövahendid, sh reaktsioonide andmebaas ja videod"
+            },
+            {
+              "kind": "link",
+              "href": "https://olympiaadid.haridus.ee/",
+              "title": "Keemiaolümpiaadi ülesanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eko.ut.ee/",
+              "title": "Keemiaolümpiaadi ülesanded"
+            },
+            {
+              "kind": "file",
+              "src": "https://olympiaadid.haridus.ee/failid/2023_11_%C3%9Clesanded.pdf",
+              "title": "Näide 1. keemiaolümpiaadi 2023.–2024. õa Tallinna koolivooru ülesanne nr 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Aldehüüdid, karboksüülhapped ning karboksüülhapete funktsionaalderivaadid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "määrab aine struktuuri põhjal aldehüüdi, karboksüülhappe, karboksüülhappe soola, asendatud karboksüülhappe, estri ja amiidi kuuluvuse vastavasse aineklassi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab olulisemate karboksüülhapete omadusi ja tähtsust argielus ning looduses",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib ja selgitab seost alkoholide, aldehüüdide ja karboksüülhapete vahel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib karboksüülhapete keemilisi omadusi, võrdleb karboksüülhapete ja anorgaaniliste hapete keemilisi omadusi ning koostab vastavate keemiliste reaktsioonide võrrandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab alkoholijoobega seotud keemilisi protsesse organismis, analüüsib alkoholi liigtarbimisest põhjustatud sotsiaalseid probleeme",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb estrite tekke- ja hüdrolüüsireaktsioone ning koostab vastavate keemiliste reaktsioonide võrrandeid, valmistab lihtsama estri",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aldehüüdid kui alkoholide oksüdeerumissaadused. Asendatud karboksüülhapped (aminohapped, hüdroksühapped) ja karboksüülhapete funktsionaalderivaadid (estrid, amiidid).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>asendatud karboksüülhape, karboksüülhappe funktsionaalderivaat, hüdrolüüs.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>alkoholi ja aldehüüdi oksüdeeruvuse uurimine ning võrdlemine;</li><li>karboksüülhapete omaduste uurimine ja võrdlemine teiste hapetega;</li><li>estri süntees;</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemaga õpitakse nägema <strong>seoseid</strong> orgaaniliste ühendite aineklasside vahel ning vastavaid sünteesijadu: alkoholi oksüdeerumist aldehüüdiks, aldehüüdi oksüdeerumist karboksüülhappeks, estri saamist ja estri hüdrolüüsi. Käsitletakse alkoholi liigtarbimise kahjulikke tagajärgi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Olulisel kohal on praktilised eksperimentaalsed tööd. Igal õpilasel võiks olla võimalik valmistada vähemalt üht orgaanilist ainet; selleks sobib estri süntees etaanhappest ja isoamüülalkoholist, kasutades katalüsaatorina kontsentreeritud väävelhapet. Tuleb hoolikalt kinni pidada ohutusnõuetest.</p><p>Uurimusliku praktilise tööna on hea võrrelda sama molaarse kontsentratsiooniga etaanhappe ja soolhappe lahuse omadusi. Alkoholi liigtarbimise käsitlemisel peaks põhifookus olema selle kahjulikel tagajärgedel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>koostab statistiliste andmetega varustatud lühiülevaate alkoholi liigtarbimise negatiivsest mõjust inimesele ja ühiskonnale, vormistab selle korrektselt (sotsiaalne ja kodanikupädevus, enesemääratluspädevus, õpipädevus, suhtluspädevus, digipädevus, LT 2, 4, 5, 7);</li><li>viib paaristööna läbi uurimusliku eksperimentaalse töö karboksüülhapete keemilistest omadustest ja/või karboksüülhappe ja anorgaanilise happe tugevuse võrdlusest (õpipädevus, suhtluspädevus, LT 2, 3);</li><li>sünteesib paaristööna estri, tutvub suuremas rühmas erinevate sünteesitud estrite omadustega, uurib välja vastava estri kasutusvõimalused argielus (suhtluspädevus, ettevõtlikkuspädevus, LT 3, 8);</li><li>viib läbi ajurünnaku karboksüülhapete rollist toidutehnoloogias ning erinevates rahvusköökides, sh marineerimine konserveerimisvõttena ning erinevate toiduainete hapendamine, hindab nende toitude rolli rahvuskultuuris, analüüsib ennast kultuurikandjana, struktureerib ja esitab ajurünnaku tulemused (kultuuri- ja väärtuspädevus, enesemääratluspädevus, suhtluspädevus, LT 1, 6).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selle teema õpitulemused lõimuvad kõige tugevamalt bioloogiaga, sh bioloogia gümnaasiumi kursuse „Molekulaarsed protsessid“ õpitulemusega „toob käärimise rakendusbioloogilisi näiteid“. Alkoholi liigtarbimise kahjulike tagajärgede analüüsimine lõimub inimeseõpetuse ja ühiskonnaõpetusega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppimise jooksul on võimalik kujundavalt hinnata täidetud töölehti, praktilise töö aruannet ja ülevaadet alkoholi kahjulikust mõjust. Hindamismudelid (<a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">Vt näiteid</a>) ja enesetestimise keskkonnad, näiteks <a href=\"http://quizizz.com\">quizizz.com</a>, <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"https://create.kahoot.it/auth/login\">kahoot</a> ja <a href=\"http://learningapps.org\">learningapps.org</a>, toetavad õppimist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19628-3-2-Orgaanilised-ained-meie-umber/227904",
+              "title": "Aldehüüdid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19628-3-2-Orgaanilised-ained-meie-umber/227922",
+              "title": "Karboksüülhapped ja nende omadused"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19628-3-2-Orgaanilised-ained-meie-umber/227942",
+              "title": "Estrid kui karboksüülhapete funktsionaalderivaadid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19628-3-2-Orgaanilised-ained-meie-umber/227980",
+              "title": "Amiidid kui karboksüülhapete funktsionaalderivaadid"
+            },
+            {
+              "kind": "link",
+              "href": "https://olympiaadid.haridus.ee/",
+              "title": "Keemiaolümpiaadi ülesanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eko.ut.ee/",
+              "title": "Keemiaolümpiaadi ülesanded"
+            },
+            {
+              "kind": "file",
+              "src": "https://olympiaadid.haridus.ee/failid/[8916221]2020_KV_12_EK.pdf",
+              "title": "Näide 1. keemiaolümpiaadi 2020.–2021. õa Tallinna koolivooru ülesanne nr 1"
+            },
+            {
+              "kind": "file",
+              "src": "https://olympiaadid.haridus.ee/failid/2022_2023_KV_12_%C3%9Clesanded.pdf",
+              "title": "Näide 2. keemiaolümpiaadi 2022.–2023. õa Tallinna koolivooru ülesanne nr 1"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.ki.ee/publikatsioonid/valmis/Alkoholi_Aastaraamat_2022.pdf",
+              "title": "Alkoholi liigtarbimise erinevad kahjulikud tagajärjed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Polükondensatsioon ja orgaanilised ained organismides",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kujutab lähteühendite struktuurivalemite põhjal tekkiva kondensatsioonipolümeeri lõiku",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab rasvhapete, rasvade, sahhariidide, aminohapete ja valkude ehitust ning uurib nende omadusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Polükondensatsioon. Orgaanilised ühendid organismides: rasvad, sahhariidid, valgud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [{ "kind": "text", "html": "<p>polükondensatsioon.</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kondensatsioonipolümeeri süntees ja omaduste uurimine;</li><li>sahhariidide hüdrolüüsi uurimine;</li><li>valkude omaduste uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selle teemaga toetatakse ettekujutuse <strong>organismide</strong> jaoks ülioluliste ainete ehitusest ja omadustest kujunemist. Teema on olemuslikult lõimitud bioloogiaga. Õpitakse tundma rasvhapete ja aminohapete ehitust, rasvhapetest rasvade ja aminohapetest valkude moodustumist ning sahhariidide ehitust.</p><p>Omandatakse üldine ettekujutus kondensatsioonipolümeeridest ja polükondensatsioonist. Polüestreid kasutatakse pakendite ja tekstiilmaterjali valmistamiseks, polüamiidist kiud on suure vastupidavusega ning ka valgud kujutavad endast polüamiide.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Oluline on õppida eristama molekuli ehituse põhjal erinevaid biomolekule: mono-, oligo- ja polüsahhariide, amino- ja rasvhappeid, rasvu ja lõike valkude ahelatest. Molekulide ehitusest tehakse järeldusi vastavate ainete omaduste kohta.</p><p>Polükondensatsiooni käsitlemisel on tähtis toetuda estri moodustumisele karboksüülhappe karboksüülrühma ja alkoholi hüdroksüülrühma reageerimisel ning tuua fookusesse funktsionaalrühmade reageerimisel vee eraldumine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>viib läbi ajurünnaku sahhariidide / rasvade / valkude rollist toidutehnoloogias ning erinevates rahvusköökides, hindab nende toitude rolli rahvuskultuuris, analüüsib ennast kultuurikandjana, struktureerib ja esitab ajurünnaku tulemused (kultuuri- ja väärtuspädevus, enesemääratluspädevus, suhtluspädevus, LT 1, 6);</li><li>koostab lühiülevaate toiduainetehnoloogia valdkonna edasiõppimise võimalustest ning toiduainetehnoloogide karjäärivõimalustest (enesemääratluspädevus, LT 8);</li><li>lahendab probleemülesandeid mitmekesisest toitumisest, pöörates tähelepanu asendamatutele aminohapetele ning rasvhapetele (nt oomega-3-rasvhapetele); planeerib menüüd, et tagada vastavate ainete sisaldus toidus (ettevõtlikkuspädevus, LT 1, 4, 7).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selle teema õpitulemused lõimuvad kõige tugevamalt bioloogiaga, sh bioloogia gümnaasiumi kursuse „Rakud ja organismid“ õpitulemusega „seostab süsivesikute, lipiidide ja valkude ehitust nende ülesannetega“. Teema lõimub ka inimeseõpetuse tervislike eluviiside kujundamisega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppimise jooksul on võimalik kujundavalt hinnata täidetud töölehti, esitlust või kokkuvõtet ajurünnaku tulemustest ja ülevaadet toiduainetetehnoloogia erialdest. Hindamismudeleid (<a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">Vt näiteid</a>) ning keskkondi <a href=\"http://quizizz.com\">quizizz.com</a>, <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"https://create.kahoot.it/auth/login\">kahoot</a> ja <a href=\"http://learningapps.org\">learningapps.org</a> saab kasutada õppimise toetamiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19628-3-2-Orgaanilised-ained-meie-umber/227982",
+              "title": "Polükondensatsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19628-3-2-Orgaanilised-ained-meie-umber/227962",
+              "title": "Rasvad"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19628-3-2-Orgaanilised-ained-meie-umber/227984",
+              "title": "Sahhariidid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19628-3-2-Orgaanilised-ained-meie-umber/227986",
+              "title": "Valgud"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19628-3-2-Orgaanilised-ained-meie-umber/227988",
+              "title": "Kokkuvõte orgaanilistest ainetest organismides"
+            },
+            {
+              "kind": "link",
+              "href": "https://orgaanilinekeemia.ee/",
+              "title": "Orgaanilise keemia digiõpik"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

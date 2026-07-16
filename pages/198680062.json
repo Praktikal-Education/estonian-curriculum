@@ -1,0 +1,112 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Käsitööd iseloomustab loov käeline tegevus, mis on oluline õpilase arengus.</p><p>Tööülesannete valikul lähtutakse eesmärgist arendada õpilaste vaimseid ja füüsilisi võimeid: motoorikat, tähelepanu, ruumitaju, kujutlusvõimet jne.</p><p>Käsitöös tutvub õpilane kutseõppe võimalustega, kujuneb valmisoleku elada ja töötada tänases ja tuleviku muutvas tehnoloogiamaailmas.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "III kooliastme soovituslik õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>on jagatud klasside kaupa, kuid õpetaja saab õppesisu valida õpilastest lähtuvalt, arvestades diferentseeritud lähenemist, õpilaste individuaalseid vajadusi ja võimeid.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu kirjeldus teemaplokkida järgi",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Materjalid, töövahendid, töötlemisviisid",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Materjalid",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<ul><li>Tehislike ja sünteetiliste tekstiilmaterjalide liigid, saamine ja omadused.</li><li>Erinevad käsitööniidid ja -lõngad, nende <em>sobivus</em> töövahendi, materjali ja esemega.</li><li>Materjalide valiku ning sobivuse põhimõtted lähtuvalt kasutusalast, töövahenditest ning esemest.</li><li>Erinevate materjalide kombineerimine tervikuks.</li></ul>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Töövahendid",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<ul><li>Töövahendite (käärid, nõelad, märkimis- ja mõõtmisvahendid, vardad, heegelnõelad vms) käsitsemine.</li><li>Materjalide masintöötlemine: õmblus-, tikkimismasina vms kasutusvõimalused ja käsitsemine, hooldamine.</li><li>Töövahendite ja masinate ohutu käsitsemine.</li><li>Digitaalsed vahendid- erinevad veebipõhised platvormid ja rakendused.</li></ul>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Töötlemisviisid",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<ul><li>Rahvakunstiga seonduvate tehnikate (tikkimine, kudumine, heegeldamine) traditsiooniline ja stiliseeritud rakendamine praktikas.</li><li>Õmblustehnoloogia kaasaegsed ja tulevikku vaatavad võimalused.</li><li>Erinevate kaasaegsete ja uuenduslike materjalide töötlemine praktikas.</li><li>Töövahendite ja tehnoloogiate valimine olenevalt materjalist ja valmistatavast esemest <em>(nt rõivaese, tarbeese vms) .</em></li></ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tööprotsess (ideest teostuseni)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Idee ja kavandi eseme valmistamisel, kompositsiooni.</li><li>Ideede hankimine tänapäeva teabelevist (internet, erialane kirjandus).</li><li>Proportsioonipõhimõtted rõivaste kujundamisel.</li><li>Töö planeerimine üksi ja rühmas töötades: töö etappide järjestamine ja aja planeerimine.</li><li>Suulise ja kirjaliku juhendamise järgi töötamine, sh jooniste kasutamine, skeemide mõistmine .</li><li>Eseme kaunistamine ja viimistlemine.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Rahvakunst",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Märgid, sümbolid ja ornamendid eesti rahvakunstis.</li><li>Rahvarõivad.</li><li>Teiste rahvaste etnograafia inspiratsiooni allikana.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Eneseanalüüs ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Töö- ja loomeprotsessi etappide eristamine, järjestamine ja kirjeldamine.</li><li>Materjali, töövahendite, tehnoloogia sobivus ja valik.</li><li>Ideede ja töö tulemuse esitlemine suulisel, kirjalikul, graafilisel või digitaalsel kujul.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppeaine rakendumine igapäevaelus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Tarbimise suunad ühiskonnas ja selle mõju inimesele. Vastutustundlik säästlik tarbimine.</li><li>Parandustööd.</li><li>Tekstiilide hooldamine ja hoiustamine.</li><li>Jätkusuutlikkus. Ringmajandamine materjalidega <em>(nt rõivatööstus, materjalide taaskasutamine).</em></li><li>Isikupära kujundamine läbi loomise/tehnoloogia.</li><li>Käsitöö kui hobi ja elukutse.</li></ul>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

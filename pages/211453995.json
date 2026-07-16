@@ -1,0 +1,327 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppesisus rõhutatakse keele rolli tänapäeva ühiskonnas, teadvustatakse keele ja kultuuri seoseid, aga ka vene keele eripära võrreldes teiste keeltega. Kursus annab võimaluse mõista keele arengut ajas ning selle staatust ja seisundit tänapäeval. Tähelepanu pööratakse keele varieerumisele ja erinevatele keelekihtidele sotsiaalsetes praktikates. Kursus arendab õpilase kriitilist ja loomingulist mõtlemist, keeletunnetust ja -teadlikkust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väärtustab vene keelt, tunneb selle eripära, teab vene kirjakeele kujunemislugu;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib keele rolli, funktsioone ja tähendust ühiskonnas ning suhtluses;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab ja analüüsib vene keele muutuste olemust ja arendamise peamisi suundi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib suulise ja kirjaliku keele norme ning etiketti;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "teadvustab allkeelte ja keele varieerumise olemust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab eesmärgistatult eri keeleallikaid ja teabekeskkondi.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Keel ja ühiskond, keel ja isiksus. Emakeel ja identiteet. Riigikeel. Võõrkeel. Keele ja mõtlemise seos. Keelekasutuse valdkonnad ning sotsiaalsete rühmade erikeeled. Keelekasutuse ealised ja soolised erinevused.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Verbaalsed ja mitteverbaalsed suhtlusvahendid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Keele funktsioonid. Keel kui vaimsete väärtuste väljendaja ning kultuuri kandja. Keel kui märgisüsteem.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Maailma keeled. Keelkonnad ja keelerühmad. Rahvuskeel. Elav ja surnud keel. Loomulikud ja tehiskeeled. Euroopa Liidu ja ÜRO töökeeled. Keelte teke ja kujunemine. Kirja tekkimine. Tähestik. Slaavi kiri. Kirill ja Mefodi kui slaavi tähestiku loojad.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Keel ja kõne. Suuline ja kirjalik kõne. Sõnaraamatute, entsüklopeediate, meedia- ja tarbetekstide keel.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Keelte ja kultuuride vastastikused mõjud. Vene keel Eestis. Muutused tänapäeva vene keeles.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Metoodilised soovitused, sh soovitused õppekeskkonna kujundamiseks ja õppe diferentseerimiseks",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Темы для изучения",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Язык и общество, язык и личность. Родной язык и идентитет. Государственный язык. Иностранный язык. Связь языка и мышления. Области использования языка и языки социальных групп. Возрастные и гендерные различия в использовании языка. Вербальные и невербальные средства общения.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Функции языка. Язык как средство выражения духовных и культурных ценностей.</p>"
+            },
+            { "kind": "text", "html": "<p>Язык - знаковая система.</p>" },
+            {
+              "kind": "text",
+              "html": "<p>Языки мира. Языковые семьи и группы. Национальный язык. Живой и мертвый язык. Естественные и искусственные языки. Искусственный интеллект. Европейский Союз и рабочие языки ООН.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Возникновение и развитие языков. Возникновение письменности. Алфавит. Славянское письмо. Кирилл и Мефодий - создатели славянской письменности.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Язык и речь. Устная и письменная речь. Язык словарей, энциклопедий, публицистических и деловых текстов.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Взаимосвязь языка и культуры. Русский язык в Эстонии. Изменения в современном русском языке.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Формы и методы работы",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Работа в группах: мозговой штурм о том, что обозначают понятия &quot;язык, общество, культура&quot;, &quot;личность&quot;, как они связаны между собой. Представление результатов работы группы классу. Важно! При раскрытии задания необходимо привести примеры, подтверждающие взаимосвязь понятий. Беседа о взаимосвязи языка, общества и культуры. Анализ ситуации: хватило ли вам личного словарного запаса для раскрытия темы?</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Понятия: Языковое общение в эволюции человека. Беседа о связи языка и мышления. Практическая работа. Знакомство с работами психологов. Функциональное чтение текстов, составление опорного конспекта на основе прочитанного. Сообщение выводов в классе. Работа с текстами.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Выступление учеников с сообщениями о языках разных социальных, возрастных и культурных групп. Язык субкультур. Работа с диаграммами по возрастным и гендерным различиям в языке. Обучение толкованию статистических данных.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Творческая работа с диалектными словами.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Знакомство с понятиями: вербальный и невербальный язык, жестикуляция, мимика, искусственные знаковые системы. Семиотика. Творческая работа. Просмотр короткометражного фильма В.Дэфо «Человек-улыбка». Творческая интерпретация увиденного на основе знаний, полученных на уроках о невербальных средствах общения. Подготовленные учениками выступления об особенностях невербальных средств общения у разных народов. Беседа о том, для чего необходимо изучать культурные традиции страны, в которую собираетесь ехать.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Составление опорного конспекта по классификации функций языка. Подтверждение этих классификаций текстами.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Введение понятий естественных и искусственных знаков. Путем практической работы выявление того, что язык - универсальное средство общения. Определение языка в системе знаков.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Повторение языковых уровней текста. Введение понятий: мировые языки, праязык, живые и мертвые языки. Знакомство с индоевропейской языковой семьей, классификацией мировых языков. Изучение языкового древа. Национальный язык.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Выступления учеников с презентациями языковых групп. Ученики рассказывают о составе языковой группы, демонстрируют образцы письменной и устной речи. Беседа о национальном своеобразии языка и культуры.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Связь лексики с культурой народа. Фольклор. Пословицы. Поговорки. Сфера применения, многозначность и глубина высказывания. Сообщения учеников об искусственных языках: эсперанто, волапюк, идо, интерглоса и др. Практическая работа: попытка в группе создать свой искусственный язык, представить его одноклассникам. Вывод о том, почему искусственные языки никогда не вытеснят естественные языки.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Разговор о том, каковы рабочие языки Евросоюза и ООН, чем объясняется такой выбор.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Введение понятий: рисуночное, иероглифическое, фонетическое письмо. Разновидности фонографического письма. Буквенное письмо, греческое, латинское письмо, кириллица, глаголица.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Практическая работа: запись небольшого текста каллиграфическим почерком. Работа над оформлением текста.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Выступление учеников на темы: &quot;Славянская письменность. Кирилл и Мефодий как создатели славянской азбуки.&quot;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Работа со словарями и энциклопедиями: особенности построения словарной статьи.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Практическая групповая работа: составление словаря современной молодежной лексики. Состояние русского языка на данный момент. Проблемы, которые испытывает язык. Работа со статьями Михаила Кронгауза &quot;Русский язык на грани нервного срыва&quot;. Несколько вариантов работ: группы работают с разными статьями, а потом представляют свои выводы классу. В конце ученики делают обзор того, о чем прочитали.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõimingunäited teema käsitlemise seostamiseks üldpädevuste, läbivate teemade ja teiste õppeainetega",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Возможна интеграция со следующими предметами:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Биология.</em> Мозг человека, особенности мышления. Процесс мышления. Взаимосвязь развития человека и языка. Физиологические особенности мышления женщины и мужчины.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Литература.</em> Пьеса Б. Шоу &quot;Пигмалион&quot; - свидетельство того, что через изменение речи и культуру можно изменить человека.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Иностранные языки.</em> Почему в языках возникают заимствования слов, как это влияет на основной язык. Английский, немецкий и эстонский языки, их языковые группы и семьи.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Искусство, история.</em> Создание письменностей разных народов. Каллиграфическое письмо. Шрифты для создания разных документов.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Эстонский язык.</em> Особенности русского языка в Эстонии, отмечены в т.ч. в <a href=\"https://sonaveeb.ee/\">https://sonaveeb.ee/</a></p>"
+        },
+        {
+          "kind": "section",
+          "title": "Сквозные темы",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Культурный идентитет.</p><p>Ценности и нравственность.</p><p>Окружающая среда и устойчивое развитие.</p><p>Информационная среда.</p><p>Технологии и инновации.</p><p>Обучение в течение всей жизни и планирование карьеры.</p><p>Гражданская инициатива и предприимчивость.</p><p>Здоровье и безопасность.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Viited vabavaralisele õppevarale",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://arzamas.academy/likbez/ruslang",
+          "title": "Академия \"Арзамас\", краткий видеообзор истории русского языка."
+        },
+        {
+          "kind": "link",
+          "href": "https://studfile.net/preview/8960011/page:101/",
+          "title": "Взаимосвязь языка и мышления."
+        },
+        {
+          "kind": "link",
+          "href": "https://rahvaloendus.ee/ru/novosti/perepis-naseleniya-76-naseleniya-estonii-vladeet-kakim-libo-inostrannym-yazykom",
+          "title": "Перепись населения Эстонии 2021."
+        },
+        {
+          "kind": "link",
+          "href": "http://ord-corpus.spbu.ru/SocialStudies/p_02_002.html",
+          "title": "Проект \"Один речевой день\"."
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=a2vDug7xCc0"
+        },
+        {
+          "kind": "link",
+          "href": "https://studbooks.net/2150415/literatura/tipy_znakov_estestvennye_iskusstvennye",
+          "title": "Естественные и искусственные знаки - статья."
+        },
+        {
+          "kind": "link",
+          "href": "https://old.bigenc.ru/linguistics/text/2349930",
+          "title": "Генеалогическая классификация языков."
+        },
+        {
+          "kind": "link",
+          "href": "https://cyberleninka.ru/article/n/znakovyy-harakter-yazyka-estestvennye-i-iskusstvennye-yazyki/viewer",
+          "title": "Естественный и искусственный характер языков."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.un.org/ru/our-work/official-languages",
+          "title": "Официальные языки ООН."
+        },
+        {
+          "kind": "link",
+          "href": "https://news.un.org/ru/audio/2018/06/1331771",
+          "title": "М. Kронгауз о современном состоянии языка."
+        },
+        {
+          "kind": "file",
+          "src": "https://uploads.philology.by/logo/krongauz2008.pdf",
+          "title": "М. Кронгауз \"Русский язык на грани нервного срыва\"."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.calameo.com/read/00646156441c44d2d1da0",
+          "title": "М. Крогнауз (ред.) \"Словарь языка интернета\"."
+        },
+        {
+          "kind": "link",
+          "href": "https://www.stud24.ru/literature/yazyk-subkultur/59371-197923-page1.html",
+          "title": "Язык субкультур."
+        },
+        {
+          "kind": "link",
+          "href": "https://venekeelest.weebly.com/",
+          "title": "Русский язык в Эстонии."
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kontroll ja hindamine",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=1553767116",
+          "title": "Критерии оценивания письменных и устных ответов."
+        },
+        {
+          "kind": "text",
+          "html": "<p>Учителем оценивается:</p><ul><li>выполнение самостоятельных и групповых заданий;</li><li>умение составлять планы ответа на вопросы по изучаемым темам;</li><li>способность учащегося создавать связные тексты устных и/или письменных ответов;</li><li>степень активности учащегося во время учебного занятия, его готовность сотрудничать с остальными участниками процесса (учителем, одноклассниками);</li><li>умение отвечать на вопросы сверстников и самому задавать вопросы;</li><li>грамотность речи в ходе устных ответов. Формирующее оценивание.</li><li>Итогом урока может стать лист самооценки с указанием своих сильных и слабых сторон, т.е. рефлексия со стороны ученика.</li><li>На некоторых этапах возможна взаимная оценка учениками друг друга с аргументированным пояснением того, что было хорошо в ответе/ работе одноклассника, а что не удалось в полной мере или частично.</li></ul>"
+        },
+        {
+          "kind": "section",
+          "title": "Обратная связь",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Может предоставляться учеником или группой учеников систематически, то есть по окончании каждого урока или серии/цикла уроков по теме в форме отзыва на происходящее с указанием пожеланий что-то изменить или улучшить, т.е. положительная обратная связь.</li><li>Обратная связь может существовать в форме небольшого по объёму письменного и/или устного ответа, в котором могут быть как положительные, так и отрицательные оценки происходящего, т.н. отрицательная обратная связь, которая в итоге способствует прогрессу в обучении.</li></ul>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

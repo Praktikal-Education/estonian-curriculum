@@ -1,0 +1,178 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursus \"Tarkvaraarendus\"",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse „Tarkvaraarendus“ valimise eelduseks on kursuse „Programmeerimine“ varasem läbimine. „Tarkvaraarenduse” kursus sobib neile õpilastele, kellel on huvi täiendada ja süvendada teadmisi ja programmeerimisoskust. Kursuse käigus loob õpilane tarkvararakenduse prototüübi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursusel käsitletakse tarkvara loomise erinevaid etappe, mille käigus loob õpilane endale huvipakkuvat ülesannet lahendava rakenduse prototüübi. Tarkvararakendused võivad olla erinevat laadi. Õpilane tutvub lähemalt nende vahenditega, mis on olulised tema rakenduse seisukohalt (spetsiaalsed moodulid vms).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursusel/kursuse kaudu süvendatakse ka programmeerimise põhimõistetega seotud teadmisi ja oskusi, mis ei pruugi konkreetse loodava tarkvaralahendusega otseselt seotud olla. Näiteks käsitletakse erinevaid andmestruktuure (sh kahemõõtmelisi) ning kahekordset tsüklit. Põgusalt tutvutakse rekursiooniga.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursus põhineb ühel konkreetsel programmeerimiskeelel, mis on tarkvara-arenduses kasutusel (nt Python) ja mis võib kooliti erineda. Üldjuhul kasutatakse sama programmeerimiskeelt, mis kursusel „Programmeerimine”.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja kasutab programmi elemente (andmestruktuurid, kahekordne tsükkel, rekursioon jne) ühes programmeerimiskeeles",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib programmikoodi ilma seda käivitamata",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib ülesannet, mille lahendamiseks tarkvararakendust hakkab looma ning valib selleks sobiva algoritmi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "samuti analüüsib ülesannet, mille lahendamiseks valib sobiva algoritmi ja tulemusena loob tarkvararakenduse",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob koostöös teistega tarkvararakenduse toimiva prototüübi, mis lahendab etteantud ülesande",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob tarkvararakenduse prototüübi jaoks vajalikud lisad (nt sobiva struktuuriga andmebaas, liidestumine seadmetega vms)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kohandab tarkvararakenduse kasutajaliidest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab lähtekoodist vead, silub lähtekoodi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "haldab koostöös teistega programmeerija tööülesandeid ja lähtekoodi versioonihalduse keskkonnas.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "LÕIMING TEISTE AINETEGA",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tarkvaraarenduse kursus on mõeldud programmeerimise kurusse jätkuna. Kuna kursus sisaldab programmeerimisest, aga minnakse teemadesse sügavuti, siis on ka Tarkvaraarenduse kursust võimalik edukalt siduda teiste õppeainetega ülesannete kaudu. Näidisülesanded (saadaval koos automaatkontrollidega keskkonnas <a href=\"http://lahendus.ut.ee\">lahendus.ut.ee</a>) sisaldavad teemasid matemaatikast (kaalumine, maatriks, dissonantne järjekord, maksimaalne rida, sudoku), kehalisest kasvatusest (lauatennis, kalorsus), kirjandusest (anagramm, kohustuslik kirjandus) jne</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Parim viis õpilaste loomingulise lõimingu näitamiseks on individuaal- või rühmatööna valminud projektid, kus siin kursusel saab teha projekte koos kasutajaliidese, statistikamootori või veebirakendusega. Projektid võivad olla näiteks statistikaprogramm, mis võtab failist andmed ja töötleb neid ja kuvad vastavalt kasutaja valikutele ekraanile, simulatsioon turniiride või haiguse leviku simuleerimiseks, mäng näiteks täringumängu või rollimängu põhjal, tekstirobot vastamaks küsimustele erinevatel teemadel, viktoriin huvitava temaatika kohta, õppeprogramm testiga, tekstitöötluse programm tekstist otsingu või krüpteerimise kohta.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "ÜLDPÄDEVUSTE KUJUNDAMINE",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Eelmainitud ülesanded ja projekt annavad võimalusi ka kultuuri- ja väärtuspädevuse arendamiseks nii paaris- kui ka rühmatöös. Projektide võimalus ennast teostada annab võimaluse arendada ka sotsiaalset ja kodanikupädevust. Ülesannete lahendamisel valikuvõimalus ja ka projektitöö võimaldavad leida just õpilase tasemele sobivaid väljakutseid arendades enesemääratluspädevust. Ümberpööratud klassiruumi kasutamine koos projektiga võimaldab arendada suutlikkust organiseerida õppekeskkonda individuaalselt ja rühmas ehk arendab õpipädevust. Ümberpööratud klassiruumi aktiivsed tunnitööd koos projektiga arendavad suutlikkust ennast selgelt, ajakohaselt ja viisakalt väljendada ehk suhtluspädevust. Programmeerimisülesanded on naturaalne viis arendamaks matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevust. Projektitöö on hea näide ettevõtlikkuspädevuse arendamisest, kus on olulisel kohal suutlikkus ideid luua ja ellu viia, kasutades omandatud teadmisi ja oskusi. Programmeerimise ja ka rühma projekti läbiviimisel areneb ka digipädevus.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "LÄBIVATE TEEMADE KÄSITLUS",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tarkvaraarenduse õpetamisel on olulisel kohal ka edasiõppimisvõimaluste ja IT-ametite tutvustamine, mis panustab elukestva õppe ja karjääri kujundamisele. Programmeerimisülesanded sageli toetuvad algoritmide koostamisele, mis põhinevad automatiseerimist ja efektiivseima lahenduse leidmist- need on otseseks mõjuteguriks keskkonna ja jätkusuutliku arengu põhiprintsiipide käsitlemisel. Kursusel tutvutakse tarkvaraarenduse etappidega, kus enda tarkvaraprototüübi loomine õpilaste või laiemalt ühiskonna probleemide lahendamiseks käsitleb ka kodanikualgatust ja ettevõtlikkust. Rahvus ja rahvusvahelise temaatikat puudutavad ülesanded ja projektid käsitlevad kultuurilise identiteedi teemat.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lehekülg <a href=\"https://startupestonia.ee/startup-database/\">https://startupestonia.ee/startup-database/</a> annab ülevaate Eesti startupidest. Selleks, et õpilased saaks laiema pildi IT-valdkonna võimalusest ja nõutud oskustest, oleks soovitatav suunata neid ka teabekeskkonna ja meediakasutuse teemal lugema tehnoloogia ja startupinduse arenguga seotud uudiseid. Sellega seondub naturaalselt ka tehnoloogia ja innovatsiooni teema.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Informaatikatundides on oluline juba varakult kokkuleppida arvutiklassi reegleid ja selgitada ergonoomilise istumise ja liikumispauside olulisust. Probleemide lahendamisel tuleks suunata õpilasi üksteist aitama ja toetama käsitledes nii väärtuste ja kõlbluse teemat.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "ÕPPEMEETODID ja -VÕTTED",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kuna gümnaasiumi tarkvaraarenduse kursus on kaetud sihtgrupile sobiva õppemateraliga, saab siin kasutada erinevaid õppemeetodeid- olgu selleks siis traditsiooniline tund või ümberpööratud klassiruumi metoodika.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tarkvaraarjenduse kursuse õppematerjal toetab nii traditsioonilise tunni andmist, kus tunnis tutvustatakse uut teemat ja lahendatakse õpetaja abiga siis ülesandeid kui ka ümberpööratud klassiruumi metoodikat, kus õpilastel on võimalik kodus iseseisvalt tutvuda materjaliga ja lahendada tagasisidet kohest tagasisidet andvaid automaatkontrollidega varustatud ülesandeid. Viimasel juhul saab õpetaja tunni alguses teha kordava minitesti ja tunnis jooksvalt aidata õpilastel minna süvitsi keerukamate programmeerimise nüanssidega kasutades erinevaid aktiivõppe meetodeid. Näiteks saavad õpilased töölehti kasutades paarides arutada, kuidas parandada vigaseid programme, ennustada programmide tööd ja seejärel kontrollida tulemust, täita lüngad programmides, koostada programme vastavalt plokkskeemidele jne. Programmeerimise kursuse õpetajamaterjalid sisaldavad tundide läbiviimiseks vajalikke teste, töölehti ja vajadusel ka näidiskontrolltöid.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "HINDAMINE",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tarkvaraarenduse kursuse hindamine võib olla arvestuslik- sellisel juhul saab nõuda soovitud ulatuses iseseisvate tööde tegemist teatud tasemel.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindelise kursuse puhul saab õpetaja otsustada, kuidas hinne kujuneb näiteks ülesannete, testide, paaristööde, projekti ja kontrolltöö punktide summana. Soovitaks vähemalt pooled hindelise kursuse punktid anda kontrollitud oludes sooritatud tööde nagu näiteks kontrolltöö eest.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "LISAMATERJALID",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://web.htk.tlu.ee/digitaru/tarkvara2/",
+          "title": "Gümnaasiumi informaatika valikkursuse “Programmeerimine” õpik"
+        },
+        {
+          "kind": "link",
+          "href": "https://web.htk.tlu.ee/digitaru/tarkvara2/chapter/opetajamaterjalid/",
+          "title": "Ja õpiku õpetajamaterjal (sisaldab ainekava infot, teste, paaristöid)"
+        },
+        {
+          "kind": "link",
+          "href": "https://lahendus.ut.ee",
+          "title": "Automaatkontrollide kasutamiseks ja loomiseks on olemas keskkond Lahendus"
+        },
+        {
+          "kind": "link",
+          "href": "https://didaktika.cs.ut.ee/lahendus-kasutusjuhend-opetajale/",
+          "title": "kasutusjuhend õpetajale"
+        },
+        {
+          "kind": "link",
+          "href": "mailto:tauno.palts@ut.ee",
+          "title": "parooli saab küsida tauno.palts@ut.ee"
+        }
+      ]
+    }
+  ]
+}

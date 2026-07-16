@@ -1,0 +1,110 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on harjutada toimetulekut välitingimustes nii üksikisiku ku meeskonna tasandil.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppetöö käigus õpitakse rajama välitingimustes majutus- ja hügieenialasid, korraldama toitlustust ning kasutama otstarbekalt individuaal- ja allüksuse varustust. Samuti harjutatakse orienteerumist erineval maastikul kaardi ja kompassi abil nii valgel kui ka pimedal ajal. Praktilise esmaabi osas harjutatakse tegutsemist simuleeritud õnnetuspaigal, keskendudes elupäästva ja jätkuva esmaabi andmisele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "rajab välitingimustes majutus-, söögi- ja hügieenialad;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib välitingimustes toitlustamise ja hügieeni reegleid;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab välitingimustes valmistada sooja toitu (sh kasutada kuivtoidupakki);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb meetmeid, kuidas ära hoida reostust looduses ning metsatulekahjude teket;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab välitingimustes hakkamasaamiseks vajalikku üksikisiku ja meeskonna varustust  otstarbekohaselt ja õigesti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "orienteerub üksi ja mitmekesi kaardi ja kompassi järgi vähe- ja keskmiselt liigendatud  maastikul valgel ja pimedal ajal;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb öist orienteerumist piiravaid tegureid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab üldiseid esmaabivõtteid erakorralise haigestumise, mürgistuse või õnnetusjuhtumi korral;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb erinevaid kannatanu transportimise võtteid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab käepäraseid ja meditsiinilisi abivahendeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib relva ja laskemoonaga ümberkäimise ohutuseeskirju ja -nõudeid;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "käitub lasketiirus turvaliselt laskmiskäskluste järgi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võtab iseseisvalt laskeasendeid ja kasutab õiget päästmistehnikat;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sooritab ohutult tiirulaskmise praktilisi harjutusi juhendaja kontrolli all.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Õppesisu</th><th>Kirjeldus</th></tr></thead><tbody><tr><td><strong>Välilaagri rajamine ja eluolu välitingimustes, sh toitlustamine, keskkonnakaitse</strong></td><td>Harjutatakse majutuse ja toitlustuse korraldamist välitingimustes koos telkide, söögi- ja hügieenialade püstitamise ning sooja toidu valmistamisega.</td></tr><tr><td><strong>Individuaal- ja allüksuse varustus</strong></td><td>Õpitakse tundma individuaal- ja allüksuse varustuse otstarvet ning seda õigesti kasutama</td></tr><tr><td><strong>Topograafia ja liikumine maastikul</strong></td><td>Harjutatakse kaardi ja kompassi kasutamist vähe- ja keskmiselt liigendatud maastikul, oma asukoha ja kauguste määramist ning objektidele osutamist erineval maastikul ja erinevas valguses. Erinevad liikumisviisid.</td></tr><tr><td><strong>Esmaabi välitingimustes</strong></td><td>Harjutatakse üldiseid esmaabivõtteid, erinevaid kannatanu transportimise võtteid ja käepäraste abivahendite valmistamist ja kasutamist.</td></tr><tr><td><strong>Laskeõpe</strong></td><td>Relva- ja laskeõpe viiakse läbi juhul, kui koolil on võimalik korraldada õppekäik lasketiiru või praktilise õppe raames välilaagris. Harjutatakse tsiviilrelva või mittesõjarelva ja laskemoona ohutut käsitsemist ning erinevaid laskeasendeid juhendaja kontrolli all.</td></tr></tbody></table>"
+        }
+      ]
+    }
+  ]
+}

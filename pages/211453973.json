@@ -1,0 +1,732 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "2. koolistme rõhuasetuste selgitus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Teise kooliastme temaatiline kese on eetika ning moraalsed valikud, seda nii religioonides kui ka noore inimese enda elus. Väärtuste üle arutamiseks sobivad köitvad ja empaatiat arendavad lood inimestest erinevatest maailmavaatelistest traditsioonidest, andes õpilastele võimaluse mõista erinevaid vaatenurki.</p><p>Väärtuste üle mõtlemisel on oluline roll nii loogilisel kui ka intuitiivsel mõtlemisel, mõlemad lähenemised täiendavad üksteist, aidates inimestel kujundada selgeid ja sügavaid väärtushinnanguid. Õpilasi julgustatakse väärtuste üle arutelude juures argumenteerima, kaaluma eri argumentide veenvust ning seost maailmavaatega. Loogiline mõtlemine on protsess, kus inimene kasutab selget ja järjekindlat loogikat, et analüüsida, põhjendada ja süstematiseerida oma mõtteid. See aitab väärtuste üle mõelda süstemaatiliselt, tuues välja põhjus-tagajärg seosed, analüüsides eri väidete aluseks olevaid eeldusi, argumenteerides ning kujundades loogilisi järeldusi. Loogiline mõtlemine on eriti kasulik keerukamate eetiliste dilemmade lahendamisel ja väärtuste hierarhia kujundamisel. Väärtuste üle mõtlemisel on aga loogilise mõtlemise kõrval sama oluline ka intuitiivne. Intuitsioon aitab luua sügavaid emotsionaalseid ühendusi väärtuste ja isikliku identiteediga.</p><p>Loovad ülesanded suunavad õpilasi mitte ainult õpitut mõistma, vaid ka arutlema ning seostama õpitu oma igapäevaeluga, tugevdades seeläbi nende praktilisi teadmisi ja väärtuste mõistmist ning pakub uusi vaatenurki ning tasakaalu analüütilise mõtlemise ja emotsionaalse kaasatuse vahel. Oluline on üksteist austava hoiakute ja oskuste kujundamine väärtuseid puudutavates aruteludes.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused ja õppesisu II kooliastmes",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb nn kuldset reeglit ning suuremates maailmareligioonides sõnastatud tähtsamaid eetilisi printsiipe (austa elu, teist inimest ja omandit, ära tunnista valet)",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid nende toimimise kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab käsitletud voorusi ning oskab neid lahti mõtestada, tuues näiteid vooruste avaldumise kohta inimeste käitumises",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid väärtuste ja moraalinormide rolli kohta üksikinimese elus ning ühiskonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab näiteid tuues, kuidas mõjutab religioon või sekulaarne maailmavaade inimeste väärtusi, valikuid ja otsuseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab enda jaoks olulisi väärtusi ja kirjeldab õpitu valguses, kuidas need tema toimimist kujundavad ning valikuid mõjutavad",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub lugupidavalt erinevatesse maailmavaatelistesse tõekspidamistesse, tunneb igapäevases elus ära mõningaid maailmavaatelistel erinevustel põhinevaid diskrimineerimise juhtumeid",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "pakub välja konstruktiivseid toimimisvõimalusi, et lahendada lihtsamaid väärtuskonflikte.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Teemade metoodiline lahtikirjutus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppematerjalid on usundiõpetuse II kooliastme õpikus “Kohtumised. Väärtused ja valikud”.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eetika alused (usundites ja enda elus)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "toob näiteid väärtuste ja moraalinormide rolli kohta üksikinimese elus ning ühiskonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab näiteid tuues, kuidas mõjutab religioon või sekulaarne maailmavaade inimeste väärtusi, valikuid ja otsuseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb nn kuldset reeglit ja suuremates maailmausundites sõnastatud olulisemaid eetilisi printsiipe (austa elu, teist inimest ja omandit, ära tunnista valet)",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid nende toimimise kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab käsitletud voorusi (õiglus, vaprus, enesedistsipliin (mõõdukus), (elu)tarkus ning usk, lootus ja armastus) ning oskab neid lahti mõtestada, tuues näiteid vooruste avaldumise kohta inimeste käitumises",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub lugupidavalt erinevatesse maailmavaatelistesse tõekspidamistesse ning tunneb igapäevaelus ära mõningaid maailmavaatelistel erinevustel põhinevaid diskrimineerimise juhtumeid.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Temaatilised rõhuasetused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Kust me teame, mis on hea ja õige?",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kuidas me teame, mismoodi on õige käituda? Õige käitumise mõõdupuuks võivad olla riigis kehtivad seadused, kogukonnas kehtivad kirjutatud ja kirjutamata reeglid, usulised tõekspidamised, inimese südametunnistus ja eeskujud.</p><p>Tund algab erinevate käitumist reguleerivate reeglite defineerimises. Mis on reeglid, seadused, eelnõud, religioon ehk usund ja südametunnistus. Defineerimisel võib otsida informatsiooni internetist. Sellele järgnev erinevate vooruste tutvustamine ja nende üle arutlemine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Judaism",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Algus: arvatavasti üle 3000 aasta tagasi</p><p>Järgijaid: 14 miljonit</p><p>Judaism on üks vanimaid monoteistlikke religioone. Judaismi rajajaks peetakse Aabrahami, kelle Jumal pärimuse kohaselt valis oma rahva esiisaks ja kelle mõjul hakati uskuma ühe jumala olemasolu. Judaismi alus on pühakirjaks peetav toora, mida meil tuntakse Viie Moosese raamatu nime all. Selles on juutide jaoks olulised lood ja Jumala käsud.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kristlus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Algus: 1. sajand</p><p>Järgijaid: üle 3 miljardi (u kolmandik maailma rahvastikust)</p><p>Kristlased jagavad juutidega usku ühte Jumalasse. Jeesus oli juut, nõnda on kristluse aluseks judaism. Kristlust eristab teistest monoteistlikest religioonidest usk, et Jeesus on Jumala poeg. Kristlased usuvad, et pärast ristilöömist tõusis Jeesus kolmandal päeval surnuist. Seda sündmust nimetatakse ülestõusmiseks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Islam",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Algus: 7. sajand</p><p>Järgijaid: üle 2 miljardi (u veerand maailma rahvastikust)</p><p>Araabia keeles tähendab islam Jumalale alistumist ja rahu. Ka islam on monoteistlik usk – islamiusulised usuvad ühte jumalasse, kes on kõige looja. Muhamedi peetakse prohvetitest kõige olulisemaks, sest tema on viimane prohvet ning Jumala sõnumitooja, kellele ilmutati koraan.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Hinduism",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Algus: arvatavasti üle 3000 aasta tagasi</p><p>Järgijaid: u 1,2 miljardit (umbes kuuendik maailma rahvastikust)</p><p>Hinduism hõlmab paljusid eri uskumuste ja elulaadide kogumeid, mis põhinevad Indias levinud aastatuhandete- vanustel traditsioonidel. Hinduismis püüeldakse inimese hinge ehk atmani ühtesulandumise poole maailmavaimu brahmaniga.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Budism",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Algus: 6. saj eKr</p><p>Järgijaid: u 500 miljonit</p><p>Budismile pani aluse Siddhārta Gautama. Budismis usutakse, et elu on kannatus ning sellest saab vabaneda, arendades oma mõtlemist ja keskendumist.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://eetika.ee/et/sisu/opilaste-mang-vaartuste-avastajad",
+              "title": "Mäng “Väärtuste avastajad”"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.kialo-edu.com/debate-topics-and-argumentative-essay-topics",
+              "title": "Digikeskkond arutelu poolt- ja vastuargumentide koostamiseks"
+            },
+            {
+              "kind": "file",
+              "src": "https://ejc.ee/media/pdf/646/meIV6466254.pdf",
+              "title": "Ülevaade judaismist Eesti Juudi keskuse kodulehelt"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ejc.ee/",
+              "title": "Juutide kommetest, pühadest ja elutsüklist"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.p4panorama.com/panos/holyland-jerusalem-360-virtual-tour/",
+              "title": "Virtuaalne tuur Jeruusalemmas"
+            },
+            {
+              "kind": "link",
+              "href": "https://jewish.ee/meie-kogukond/sunagoog/",
+              "title": "Tallinna sünagoog"
+            },
+            {
+              "kind": "link",
+              "href": "https://contrib.pbslearningmedia.org/WGBH/sj14/sj14-int-religmap/index.html",
+              "title": "Interaktiivne kaart kristluse leviku kohta"
+            },
+            {
+              "kind": "link",
+              "href": "https://quizizz.com/admin/quiz/5fac3bcac016dd001bf3a72a/kristluse-kokkuvote?fromSearch=true&amp;source=",
+              "title": "Quizziz kristluse kohta"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.gapminder.org/dollar-street?topic=homes&amp;media=all",
+              "title": "Dollar Street"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.taskutark.ee/islam-ja-kalifaat/",
+              "title": "Ülevaade islamist"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/kohtumised/islam",
+              "title": "Kohtumine Eestis elava moslemiperega"
+            },
+            {
+              "kind": "link",
+              "href": "https://ethicallinks.org/araabiamaad/ptk1-1/",
+              "title": "Õppematerjal stereotüüpide kohta"
+            },
+            {
+              "kind": "link",
+              "href": "https://ethicallinks.org/araabiamaad/ptk2-6/",
+              "title": "Islami stereotüübid"
+            },
+            {
+              "kind": "link",
+              "href": "https://artsandculture.google.com/story/JQURIFerj9RUIQ",
+              "title": "Islami teadust tutvustav programm"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=bhsYyRtRzkA"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/Y2nRK6Z_OWw"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.pbs.org/thestoryofindia/gallery/",
+              "title": "Fotogalerii hinduismist"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hinduamerican.org/teaching-resources",
+              "title": "Videod hinduismi ja jooga tutvustamiseks"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ek3coC3ej2U"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=veNXu4L8Zr0"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=fFjhR9Xyxnc"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.budism.ee/dharma/%C3%B5petustekstid/buddha-%C3%B5petus",
+              "title": "Neli õilsat tõde ja kaheksaosaline tee"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/kohtumised/budism",
+              "title": "Õppevideo budismist"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=qiLUqlDpxGw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Väärtused, mina ja teised inimesed (usundites ja enda elus) ja eetika keskseid küsimusi",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kaks järgnevat teemaplokki “Väärtused, mina ja teised inimesed (usundites ja enda elus)” ja “eetika keskseid küsimusi” on lõimitud tervikuks. Iga vooruse jaoks on 3-4 tundi.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab enda jaoks olulisi väärtusi ja kirjeldab õpitu valguses, kuidas need tema toimimist kujundavad ning valikuid mõjutavad",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab õpitud eetikamõisteid konteksti arvestavalt ja asjakohaselt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub lugupidavalt erinevatesse maailmavaatelistesse tõekspidamistesse",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "pakub konstruktiivseid toimimisvõimalusi, et lahendada lihtsamaid väärtuskonflikte.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid väärtuste ja moraalinormide rolli kohta üksikinimese elus ning ühiskonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab näiteid tuues, kuidas mõjutab religioon või sekulaarne maailmavaade inimeste väärtusi, valikuid ja otsuseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub lugupidavalt erinevate maailmavaateliste tõekspidamistega inimestesse",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "otsib teavet usundite eetiliste seisukohtade kohta ja hindab allikate sobivust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab enda jaoks olulisi väärtusi ning kirjeldab õpitu valguses, kuidas need tema toimimist kujundavad ja valikuid mõjutavad",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab andestuse olulisust ning oskab andeks paluda.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Temaatilised rõhuasetused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õiglus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õigluse- jumalanna Maat. Anne Frank. Malala Yousafzai.</p><p>Õiglus on seotud inimeste õigustega. Üks üldtunnustatumaid inimese õiguste kogumikke on ÜRO inimõiguste deklaratsioon. Nagu teised kardinaalvoorused, nii on ka õiglus kättesaadav kõigile. See areneb inimeses seda enam, mida enam teeb ta õiglasi tegusid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Vaprus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Neitsi Maarja. Mahatma Gandhi. Suurim julgus - kiusamisele vastu seismine.</p><p>Julgus on võime ületada raskusi või hirmutavaid olukordi.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Enesedistsipliin",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Islam. Louis Braille’. Gerd Kanter.</p><p>Enesedistsipliin tähendab oskust ennast piirata, et saavutada suuremaid sihte. Iga usundiga kaasneb pühendumine. Suurema vaimse keskendumise ja pühendumise eesmärgil eri usundite inimesed mõnikord paastuvad. Vabatahtlik loobumine paljust harjumuspärasest nõuab enesedistsipliini ja ühtlasi harjutab seda. See on korra toomine oma ellu – me ei liialda millegagi ega lase endal ka liiga laisaks muutuda. See aitab kontrollida oma käitumist ja valitseda tundeid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tarkus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Judaism. Newton. Dalai Laama.</p><p>Läbi aegade ja kõigis kultuurides on hinnatud tarkust ja arukust. Targad inimesed oskavad toimida keerulistes olukordades ning leida sobivaid lahendusi. Eesti keeles väljendavad tarkust veel sõnad arukus, arusaamine, elutarkus, mõistlikkus, praktiline mõistus, kaalutlemisoskus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Usk",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Siddharta Gautama. Lepitaja hip-hop. Nick Vujicic.</p><p>Usk on koos lootuse ja armastusega teoloogiline voorus ehk Jumala kingitus inimestele. Usklik olemine ei ole iseloomujoon ega loomuomadus. Usk on inimese suhe sellega, mida peetakse pühaks, vaimseks või jumalikuks. Kuigi usulised kombetalitused on nende järgijatele sarnased, on usk väga isiklik asi. Igal usklikul on Jumala või Loojaga ainulaadne kogemus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lootus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Laozi. Helen Keller. Loodushoid.</p><p>Lootus on samuti teoloogiline ehk jumalik voorus. See on usk, et halvad ajad lähevad paremaks ja ka kõige raskematest olukordadest on olemas väljapääs. See on usk sellesse, et unistused võivad täituda.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Armastus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Ema Teresa. Mondo.</p><p>Uues testamendis nimetatakse armastust kõige suuremaks vooruseks. Ent mis on üldse armastus?</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Andestus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Louis Zamperini.</p><p>Andestamine on raske, sest see on alati seotud ülekohtuga. Siiski on andestamine oluline ja muudab paremaks nii nende elu, kes on vea teinud, kui ka nende oma, kes on ülekohtu osaks saanud ja annavad andeks.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "http://usundiopetus.weebly.com/voorused.html",
+              "title": "E-õppe materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://et.wikipedia.org/wiki/Maat",
+              "title": "Maatist Wikipedias"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18626-2-Egiptus/216640",
+              "title": "Egiptuse religioonist"
+            },
+            {
+              "kind": "link",
+              "href": "https://dailydish.co.uk/the-42-laws-of-maat/",
+              "title": "Maati 42 seadust ja süütuse deklaratsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.humanrightsestonia.ee/tegevus/oppematerjalid_naitus/oppematerjalid/",
+              "title": "Holokausti-teemaline õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://futuclass.com/et-ee/school/",
+              "title": "VR-tund Anne Frankist"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.imdb.com/title/tt10360772/",
+              "title": "My Best Friend Anne Frank"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.canva.com/create/movie-maker/",
+              "title": "Canva keskkond filmide tegemiseks"
+            },
+            {
+              "kind": "link",
+              "href": "https://malala.org/malalas-story",
+              "title": "Malala lugu"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.imdb.com/title/tt0762121/",
+              "title": "Film “Sündimise lugu”"
+            },
+            {
+              "kind": "link",
+              "href": "https://etv2.err.ee/1608724891/ajalugu-viie-minutiga",
+              "title": "Lugu Mahatma Gandhist"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/playlist?list=PLYjFFi5dwG1oet4BKRg61TFBLOK4jA09M",
+              "title": "“Suurim julgus” videod küberkiusamise vastu"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.targaltinternetis.ee/wp-content/uploads/2019/06/K%C3%BCberkiusamine-II.-Tunnikava-5.-7.-klass.pdf",
+              "title": "Küberkiusamise vastane tunnikava"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.targaltinternetis.ee/opetajatele/tunnikavad/",
+              "title": "Targalt internetis tunnikavad"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.targaltinternetis.ee/opetajatele/oppemangud/",
+              "title": "Targalt internetis õppemängud"
+            },
+            {
+              "kind": "link",
+              "href": "https://laps.targaltinternetis.ee/netilambad/",
+              "title": "Targalt internetis õppevideod “netilambad”"
+            },
+            {
+              "kind": "link",
+              "href": "https://argument.ee/et",
+              "title": "Eesti Väitlusselts"
+            },
+            {
+              "kind": "file",
+              "src": "https://media.voog.com/0000/0041/4838/files/arutlev_haridus_opik-1.pdf",
+              "title": "Väitlust toetav õpik õpetajatele"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=og0YLV6kCV8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=gd0CSEi67_s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=cyfxQ6sdaIE"
+            },
+            {
+              "kind": "link",
+              "href": "https://pimedateliit.ee/punktkiri-2/",
+              "title": "Punktkirjast"
+            },
+            {
+              "kind": "link",
+              "href": "https://ppy.ee/est/meiepakume/kogemusuritus/",
+              "title": "Kogemusüritused elust pimedana"
+            },
+            {
+              "kind": "link",
+              "href": "https://raulrebane.ee/toode/gerd-kanter-15-sammu-voiduni/",
+              "title": "Gerd Kanteri raamatu sisukord"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.mindonmap.com/et/blog/create-venn-diagram-in-word/",
+              "title": "Juhis Venni diagrammi tegemiseks Wordis"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.piibel.net/",
+              "title": "Piibel netis"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=khv90SH1Hpo"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.koolibri.ee/et/raamatud/isaac-newtoni-imeaastad/7439",
+              "title": "Raamat Newtoni elust"
+            },
+            {
+              "kind": "link",
+              "href": "https://forte.delfi.ee/artikkel/30999311/eksperdid-selgitasid-valja-mis-on-tarkus",
+              "title": "Mis on tarkus?"
+            },
+            {
+              "kind": "link",
+              "href": "https://tsitaadid.ee/quote/2693/249",
+              "title": "Dalai-laama tsitaat"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.imdb.com/title/tt0120102/",
+              "title": "Film “7 aastat Tiibetis”"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.imdb.com/title/tt0119485/",
+              "title": "Film “Kundun”"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.imdb.com/video/vi540853017/",
+              "title": "Film dalai-laama ja Desmond Tutu sõprusest"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.google.com/search?q=%C3%B5nne+retsept&amp;tbm=isch&amp;ved=2ahUKEwiR3vfwiLSCAxVT_bsIHUR9BWwQ2-cCegQIABAA&amp;oq=%C3%B5nne+retsept&amp;gs_lcp=CgNpbWcQAzIFCAAQgAQ6BAgjECc6BwgAEBgQgAQ6BggAEAUQHjoGCAAQCBAeUMYMWIUVYMQWaABwAHgAgAFKiAGwBJIBATiYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&amp;sclient=img&amp;ei=JFJLZZE80_rv9Q_E-pXgBg&amp;bih=868&amp;biw=1745#imgrc=wgPXKwQ8hguWHM",
+              "title": "Õnnelikkuse retsepti näidised"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.budakoda.ee/sissejuhatus-budismi/buddha/",
+              "title": "Siddharta Gautama elu"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=1wUh3E9PSbI"
+            },
+            {
+              "kind": "link",
+              "href": "https://tanenbaum.org/about-us/tanenbaum-resources/visiting-religious-homes/",
+              "title": "Juhised religioossete inimeste kodude külastamiseks"
+            },
+            {
+              "kind": "link",
+              "href": "https://kjt.ee/2012/11/usulisest-kirjaoskusest/",
+              "title": "Usulisest kirjaoskusest"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=6P2nPI6CTlc&amp;t=9s"
+            },
+            {
+              "kind": "link",
+              "href": "https://vikerraadio.err.ee/784846/hiina-lood-laozi-ja-taoism",
+              "title": "Taoism ja Laozi"
+            },
+            {
+              "kind": "link",
+              "href": "https://helen.edu.ee/koolielu/kooli-ajalugu/kes-on-helen-keller/",
+              "title": "Helen Keller Tallinna Heleni kooli kodulehel"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.ead.ee/371375",
+              "title": "Helen Keller Eesti Kurtide Liidu kodulehel"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.pimekurdid.ee/viipleme-koos-teavet-taktiilse-viipekeele-kohta_est",
+              "title": "Kogemuslood Eesti Pimekurtide Liidu kodulehelt"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=8ch_H8pt9M8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ERbcoJ5V8Ow"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=u8TlpEd5ovA"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.thriftbooks.com/a/helen-keller/246838/",
+              "title": "Helen Kelleri kirjutatud raamatud"
+            },
+            {
+              "kind": "link",
+              "href": "https://elfond.ee/tegevus/haridus-ja-teavitus/valjaanded",
+              "title": "ELF väljaanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.elfond.ee/osale",
+              "title": "Loodushoiu projektid"
+            },
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/3631",
+              "title": "Võimalused liikide kaitsmiseks"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.nhm.ac.uk/discover/ten-animals-we-have-saved-from-extinction.html",
+              "title": "Loomaliigid, mis on tänu inimese sekkumisele säilinud"
+            },
+            {
+              "kind": "link",
+              "href": "https://wwf.panda.org/",
+              "title": "Maailma Looduse Fond"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=69vFAHLkAlI"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=OAG0-aT-2wc&amp;embeds_referring_euri=https%3A%2F%2Fmondo.org.ee%2F&amp;source_ve_path=OTY3MTQ&amp;feature=emb_imp_woyt"
+            },
+            {
+              "kind": "link",
+              "href": "https://mondo.org.ee/paevikud/",
+              "title": "Mondo vabatahtlike päevikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.imdb.com/title/tt1809398/",
+              "title": "Film Louis Zamperinist"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.imdb.com/title/tt1057500/",
+              "title": "Film Nelson Mandelast"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.imdb.com/title/tt2304771/",
+              "title": "Film Nelson Mandelast"
+            },
+            {
+              "kind": "link",
+              "href": "https://jamboard.google.com/",
+              "title": "Google Jamboard"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=IW-XC8gcOJM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

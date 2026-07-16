@@ -1,0 +1,1013 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Koolikirjandus. Lugemistekstide valik põhikoolis",
+      "children": [
+        { "kind": "text", "html": "<p>Andrus Org</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (5.–6. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb laste- ja noortekirjandusteoseid nii eesti kui ka maailmakirjandusest, sealhulgas vähemalt kaheksa tervikteost.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (7.–9. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb eri liiki ja žanris kirjandusteoseid, sealhulgas tüvitekste, või nende katkendeid nii eesti kui ka maailmakirjandusest, analüüsib ja tõlgendab vähemalt kahteteist loetud tervikteost.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb eesti kultuuri erijooni ning vahendab oma kultuurikogemust, väärtustab nii oma- kui ka maailmakultuuri ja selle mitmekesisust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab ilukirjanduse põhiliike ja peamisi žanre, nimetab nende tunnuseid ja toob näiteid.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Lugemishuvi kujundamine ja lugemisoskuse arendamine põhikooli kirjandusõpetuses",
+      "children": [
+        { "kind": "text", "html": "<p>Andrus Org</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (5.-6. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb ladusalt ja mõtestatult eri žanris luule-, proosa- ja draamatekste, kasutab õpetaja juhendamisel põhilisi lugemisvõtteid ja -viise, jälgib ja hindab oma lugemist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tutvustab loetud raamatut ja selle autorit ning jagab oma lugemiskogemust.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (7.-9. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb ladusalt ja mõtestatult, kasutab iseseisvalt lugemise eesmärgist ja teksti liigist lähtuvaid lugemisviise ja -mudeleid, hindab oma lugemisoskust ning juhib oma lugemisprotsessi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab endale sobivat lugemisvara, põhjendab oma valikut, tutvustab loetud raamatut ja selle autorit, jagab oma lugemiskogemusi;",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Proosatekstide käsitlemine põhikooli kirjandusõpetuses",
+      "children": [
+        { "kind": "text", "html": "<p>Andrus Org</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (5.–6. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "nimetab teose teema, arutleb tegelastega seotud probleemide ja väärtushoiakute üle, sõnastab teose peamõtte;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab ja võrdleb tegelasi, kirjeldab nendevahelisi suhteid ja hindab tegelaste käitumist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "järjestab loo sündmused ning põhjendab toimumisaja ja -koha valikut.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (7.–9. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "nimetab teose teema, arutleb selle põhisündmuste, kesksete probleemide, põhjuse ja tagajärje seoste üle, sõnastab teose peamõtte;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb kokkuvõtte teose süžeest, põhjendab loo tegevusaja ja -koha valikut, iseloomustab ja võrdleb tegelasi, analüüsib tegelastevahelisi suhteid ja nende väärtushoiakuid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib kirjandusteose vormivõtteid ja kompositsiooni, seostab neid teose sisuga.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teabetekstide käsitlemine põhikooli kirjandusõpetuses",
+      "children": [
+        { "kind": "text", "html": "<p>Ivika Hein, Andrus Org</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (5.–6. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb kirjandusvaldkonnaga seotud aime- ja meediatekste, kasutab teabe hankimiseks sobivaid allikaid ja keskkondi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab otstarbekalt eri allikatest ja keskkondadest hangitud teavet, eristab oma ja laenatud teksti, nimetab ja märgib kasutatud allikad;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (7.–9. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb kultuurivaldkonnaga seotud aime- ja meediatekste, leiab, hindab kriitiliselt ja kasutab otstarbekalt eri allikates ja keskkondades pakutavat teavet, arvestab teabe kasutamise ja avaldamise head tava ning õiguslikke sätteid;",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Sõnavaratöö ja kirjandusmõistete käsitlemine põhikooli kirjandusõpetuses",
+      "children": [
+        { "kind": "text", "html": "<p>Ivika Hein, Andrus Org</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (5.–6. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "rikastab oma sõnavara, otsib teavet tundmatute sõnade ja väljendite kohta;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab tekstianalüüsis õigesti kirjanduse põhimõisteid.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (7.–9. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "rikastab oma sõnavara, otsib teavet tundmatute sõnade ja väljendite ning loetu tausta kohta;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab tekstianalüüsis õigesti kirjanduse põhimõisteid.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kirjutamisoskuse ja loovkirjutamise arendamine põhikooli kirjandusõpetuses",
+      "children": [
+        { "kind": "text", "html": "<p>Andrus Org, Ivika Hein</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (5.–6. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "koostab proosa- või draamateksti kohta kava küsimuste, väidete või märksõnadena, kirjutab kokkuvõtte;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab eri žanris omaloomingulisi töid, sealhulgas kirjeldavaid ja jutustavaid tekste.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (7.–9. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjutab erinevaid omaloomingulisi töid, sealhulgas kirjeldavaid, jutustavaid ja arutlevaid tekste;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab suulises ja kirjalikus väljenduses korrektset keelt ning järgib nii käsikirjaliste kui ka digitaalsete tekstide vormistusnõudeid;",
+              "outcomeType": "attitude"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Suulised tegevused põhikooli kirjandusõpetuses",
+      "children": [
+        { "kind": "text", "html": "<p>Kirsi Rannaste, Anu Kell</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (5.–6. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "osaleb arutelus, avaldab ja põhjendab oma arvamust, valib kirjandusteosest rääkides tekstist sobivaid näiteid, teeb koostööd;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "esitab (peast) luuletuse, lühikese proosa- või rolliteksti, taotleb esituse ladusust, selgust ja tekstitäpsust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõtestab lahti esitatud teksti tähendused, annab tagasisidet enda ja teiste esitusele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "jutustab mõttelt sidusa tervikliku ülesehitusega selgelt sõnastatud loo, tugineb kirjanduslikule tekstile, tõsielusündmusele või oma fantaasiale;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "jutustab tekstilähedaselt või kokkuvõtvalt kavapunktide järgi, märksõnade abil või piltteksti põhjal.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (7.–9. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "osaleb arutelus, väljendab selgelt ja sobival viisil oma põhjendatud seisukohti, annab ja kuulab tagasisidet, võtab arvesse teiste seisukohti, teeb koostööd;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab ja esitab loetud teose, mõne kultuurinähtuse või oma kultuurikogemusese põhjal ettekande, kasutab selleks esitlustarkvara;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "esitab (peast) luule-, proosa- või draamateksti, taotleb esituse ladusust, selgust ja tekstitäpsust, põhjendab teksti valikut, seletab selle tähendust.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Draamatekstide käsitlemine ja draamaõpetuse võtted põhikooli kirjandusõpetuses",
+      "children": [
+        { "kind": "text", "html": "<p>Ivika Hein</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused II kooliastmes (5.–6. klass). Õpilane:",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb ladusalt ja mõtestatult eri žanris luule-, proosa- ja draamatekste, kasutab õpetaja juhendamisel põhilisi lugemisvõtteid ja -viise, jälgib ja hindab oma lugemist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "õpib tundma kultuuri eri ilminguid, sealhulgas teatri- ja filmikunsti, pärimus- ja muuseumikultuuri;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab proosa- või draamateksti kohta kava küsimuste, väidete või märksõnadena, kirjutab kokkuvõtte;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab teose teema, arutleb tegelastega seotud probleemide ja väärtushoiakute üle, sõnastab teose peamõtte;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab ja võrdleb tegelasi, kirjeldab nendevahelisi suhteid ja hindab tegelaste käitumist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "järjestab loo sündmused ning põhjendab toimumisaja ja -koha valikut;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb arutelus, avaldab ja põhjendab oma arvamust, valib kirjandusteosest rääkides tekstist sobivaid näiteid, teeb koostööd;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "esitab (peast) luuletuse, lühikese proosa- või rolliteksti, taotleb esituse ladusust, selgust ja tekstitäpsust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõtestab lahti esitatud teksti tähendused, annab tagasisidet enda ja teiste esitusele.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused III kooliastmes (7.–9. klass). Õpilane:",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb eri liiki ja žanris kirjandusteoseid, sealhulgas tüvitekste, või nende katkendeid nii eesti kui ka maailmakirjandusest, analüüsib ja tõlgendab vähemalt kahteteist loetud tervikteost;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab ilukirjanduse põhiliike ja peamisi žanre, nimetab nende tunnuseid ja toob näiteid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab teose teema, arutleb selle põhisündmuste, kesksete probleemide, põhjuse ja tagajärje seoste üle, sõnastab teose peamõtte;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb kokkuvõtte teose süžeest, põhjendab loo tegevusaja ja -koha valikut, iseloomustab ja võrdleb tegelasi, analüüsib tegelastevahelisi suhteid ja nende väärtushoiakuid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib kirjandusteose vormivõtteid ja kompositsiooni, seostab neid teose sisuga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb kirjandusteost ja selle põhjal valminud lavastust või filmi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "esitab (peast) luule-, proosa- või draamateksti, taotleb esituse ladusust, selgust ja tekstitäpsust, põhjendab teksti valikut, seletab selle tähendust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab tekstianalüüsis õigesti kirjanduse põhimõisteid.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Rahvaluule žanrite ja tänapäeva pärimuse käsitlemine",
+      "children": [
+        { "kind": "text", "html": "<p>Maris Põkka, Andrus Org</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (5.–6. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "eristab ilukirjanduse ja rahvaluule põhiliike ning olulisemaid žanre, nimetab nende tunnuseid ja toob näiteid.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (7.–9. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "tunneb eesti kultuuri erijooni ning vahendab oma kultuurikogemust, väärtustab nii oma- kui ka maailmakultuuri ja selle mitmekesisust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab pärimuse olemust, toob näiteid mineviku ja tänapäeva pärimuskultuurist ning oma kodukohast;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab rahvaluule elemente suulises ja kirjalikus tekstiloomes.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Luuleteksti käsitlemine põhikoolis",
+      "children": [
+        { "kind": "text", "html": "<p>Joosep Susi</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (5.–6. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "toob esile luuletuse temaatilisi ja lüürilisi erijooni, märkab keele- ja vormikasutuse iseärasusi, mõtestab lahti luuletuse kujundlikkust ja avab selle tähendusi;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (7.–9. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "toob esile luuletuse temaatilisi ja lüürilisi erijooni, märkab keele- ja vormikasutuse iseärasusi, mõtestab lahti luuletuse kujundlikkust ja avab selle tähendusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab kirjandusteosele omast keelekasutusviisi, tunneb ära peamised kõne- ja lausekujundid, sh epiteet, isikustamine, võrdlus, metafoor, kordus ja siire, tõlgendab kujundite tähendust ja rolli tekstis ning kasutab neid tekstiloomes;",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kirjandus- ja kultuuriloo käsitlemine põhikoolis",
+      "children": [
+        { "kind": "text", "html": "<p>Joosep Susi</p>" },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (5.–6. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "väärtustab nii paikkondlikku kui ka kogu Eestit ühendavat eripärast paljutahulist kultuuri.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused (7.–9. klass). Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "tunneb eesti kultuuri erijooni ning vahendab oma kultuurikogemust, väärtustab nii oma- kui ka maailmakultuuri ja selle mitmekesisust.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikad ja lisamaterjalid",
+      "children": [
+        {
+          "kind": "link",
+          "href": "http://kirjandusjakeel.blogspot.com/2009/03/terminisonastikke-veebis.html",
+          "title": "Terminisonastikke veebis"
+        },
+        {
+          "kind": "link",
+          "href": "http://literarycharacters.eu/",
+          "title": "Literary Characters"
+        },
+        {
+          "kind": "link",
+          "href": "http://peeter.eki.ee:5000/valence",
+          "title": "Valentsisõnastik"
+        },
+        {
+          "kind": "link",
+          "href": "http://portaal.eki.ee/",
+          "title": "Eesti Keele Instituut"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.folklore.ee/Graffiti/",
+          "title": "Graffiti"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.kirjanikemuuseumid.ee/",
+          "title": "Kirjanike muuseumid"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.looming.ee/arhiiv/alguparase-noortekirjanduse-tuumi-ja-veeri/",
+          "title": "Algupärase noortekirjanduse tuumi ja veeri"
+        },
+        {
+          "kind": "link",
+          "href": "https://antiik.ut.ee/tolked/aristoteles/index.html",
+          "title": "Aristoteles"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/audio/vaata/kooliraadio-kooliraadio-aabitsast-lugemikuni",
+          "title": "Aabitsast lugemikuni"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/audio/vaata/laste-ooulikool-rasmus-puur-rahvalaul-ja-meie",
+          "title": "Rahvalaul ja meie"
+        },
+        {
+          "kind": "link",
+          "href": "https://artiklid.elnet.ee/search~S1*est",
+          "title": "ARTIKLID"
+        },
+        {
+          "kind": "link",
+          "href": "https://blog.erm.ee/?p=16012",
+          "title": "ERM blogi"
+        },
+        {
+          "kind": "link",
+          "href": "https://dea.digar.ee/article/AKlooming/2022/07/0/23",
+          "title": "Looming"
+        },
+        {
+          "kind": "link",
+          "href": "https://dspace.ut.ee/home",
+          "title": "DSpace"
+        },
+        {
+          "kind": "link",
+          "href": "https://dspace.ut.ee/items/1d6347e2-d68b-461a-95de-641f1e138fb9",
+          "title": "DSpace materjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/22952-LINNALEGEND#280899-LINNALEGEND",
+          "title": "LINNALEGEND"
+        },
+        {
+          "kind": "link",
+          "href": "https://elk.ee/lastekirjandus/raamatusoovitused/",
+          "title": "Raamatusoovitused"
+        },
+        {
+          "kind": "link",
+          "href": "https://elk.ee/opetajale/konkursid-lastele-ja-noortele/arvustusvoistlus-kapsas/",
+          "title": "Arvustusvõistlus Kapsas"
+        },
+        {
+          "kind": "link",
+          "href": "https://epl.delfi.ee/artikkel/51293424/luule-ettelugemise-peen-kunst",
+          "title": "Luule ettelugemise peen kunst"
+        },
+        {
+          "kind": "link",
+          "href": "https://folklore.ee/ebaas/",
+          "title": "Eesti ballaadide andmebaas"
+        },
+        {
+          "kind": "file",
+          "src": "https://haridus.ut.ee/sites/default/files/inline-files/edukoraamatkaanega_0.pdf",
+          "title": "edukoraamatkaanega_0.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://haridus.ut.ee/sites/default/files/inline-files/oppimine_ja_opetamine_3_kooliastmes_1.pdf",
+          "title": "oppimine_ja_opetamine_3_kooliastmes_1.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://healaps.ee/?cat=13",
+          "title": "Hea Laps"
+        },
+        {
+          "kind": "link",
+          "href": "https://healaps.ee/Omalooming/",
+          "title": "Hea Laps: Omalooming"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee",
+          "title": "Jupiter"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/1038311/eki-keelekillud",
+          "title": "EKI keelekillud"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/raadioteater",
+          "title": "Raadioteater"
+        },
+        {
+          "kind": "link",
+          "href": "https://keeljakirjandus.ee/ee/archives/24627",
+          "title": "Keel ja Kirjandus"
+        },
+        {
+          "kind": "file",
+          "src": "https://keeljakirjandus.ee/wp-content/uploads/2023/11/M.UDAMJ_.SUSIM_.MERISTO.pdf",
+          "title": "M.UDAMJ_.SUSIM_.MERISTO.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://keskraamatukogu.ee/ester/",
+          "title": "ESTER"
+        },
+        {
+          "kind": "link",
+          "href": "https://kommagentuur.ee/tag/kuulamisoskus/",
+          "title": "Kuulamisoskus"
+        },
+        {
+          "kind": "link",
+          "href": "https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?table=Books",
+          "title": "Ajatelje materjalid"
+        },
+        {
+          "kind": "link",
+          "href": "https://kultuur.err.ee/",
+          "title": "ERR Kultuur"
+        },
+        {
+          "kind": "link",
+          "href": "https://kultuur.err.ee/1608454223/uutes-laste-ooulikooli-vestlustes-arutletakse-loomingu-ja-loomise-ule",
+          "title": "Laste Ööülikool"
+        },
+        {
+          "kind": "link",
+          "href": "https://kunst.edu.ee/malutreening-luuletustega/",
+          "title": "Mälutreening luuletustega"
+        },
+        {
+          "kind": "file",
+          "src": "https://lahtisedallikad.files.wordpress.com/2009/10/etlemine.pdf",
+          "title": "etlemine.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://lasteekraan.err.ee/1609091372/eesti-lastekirjanduse-keskus-ootab-lugusid-sten-roosi-muinasjutuvoistlusele",
+          "title": "Sten Roosi muinasjutuvoistlus"
+        },
+        {
+          "kind": "link",
+          "href": "https://lugemiselamused.keskraamatukogu.ee/2015/02/07/mart-poom-indrek-schwede-mart-poom-minu-lugu/",
+          "title": "Lugemiselamused"
+        },
+        {
+          "kind": "link",
+          "href": "https://lugudevestja.inspiratsioon.ee/",
+          "title": "Lugude vestja"
+        },
+        {
+          "kind": "link",
+          "href": "https://luulelonks.weebly.com/poeetiline-tekst.html",
+          "title": "Poeetiline tekst"
+        },
+        {
+          "kind": "link",
+          "href": "https://luulelonks.weebly.com/saame-meistriks.html",
+          "title": "Saame meistriks"
+        },
+        {
+          "kind": "file",
+          "src": "https://maailmakool.ee/wp-content/uploads/2023/09/Loovad_harjutused_-WoW_juurde.pdf",
+          "title": "Loovad harjutused"
+        },
+        {
+          "kind": "link",
+          "href": "https://merikerand.wordpress.com/7-jutustamisoskus/",
+          "title": "Jutustamisoskus"
+        },
+        { "kind": "link", "href": "https://mirko.ee/", "title": "MIRKO" },
+        {
+          "kind": "file",
+          "src": "https://narva.ut.ee/sites/default/files/2023-03/TY_l6imimine_a4.pdf",
+          "title": "TY_l6imimine_a4.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://oppekava.ee/kirjanduse-lugemine/",
+          "title": "Kirjanduse lugemine"
+        },
+        {
+          "kind": "link",
+          "href": "https://oppekava.ee/lugemine-lugemisstrateegiad-ja-nende-kujundamine/",
+          "title": "Lugemine ja lugemisstrateegiad"
+        },
+        {
+          "kind": "link",
+          "href": "https://podcastid.ee/juhtimiskvaliteet-on-konkurentsieelis/piret-paar-lugudega-luuakse-maailma-ja-juttudega-juhitakse/",
+          "title": "Lugudega luuakse maailma"
+        },
+        {
+          "kind": "link",
+          "href": "https://portaal.eki.ee/sonaraamatud.html",
+          "title": "Sõnaraamatud"
+        },
+        {
+          "kind": "file",
+          "src": "https://rahvakultuur.ee/wp-content/uploads/2020/03/Jutupank.pdf",
+          "title": "Jutupank.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://rahvakultuur.ee/wp-content/uploads/2022/03/VKP-to%CC%88o%CC%88lehtede-komplekt.pdf",
+          "title": "VKP töölehtede komplekt"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/keeleylesanded/avaleht",
+          "title": "Keeleülesanded"
+        },
+        {
+          "kind": "file",
+          "src": "https://sisu.ut.ee/sites/default/files/metoodika/files/oppemeetodid_mari_karm.pdf",
+          "title": "Õppemeetodid"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/teadustoo_alused/plagiaat-ehk-loomevargus",
+          "title": "Plagiaat ehk loomevargus"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/wp-content/uploads/sites/460/oppemeetodid_korgkoolis.pdff",
+          "title": "Õppemeetodid kõrgkoolis"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/site/loovkirjutamisest/loovkirjutamine?authuser=0",
+          "title": "Loovkirjutamine"
+        },
+        { "kind": "link", "href": "https://sonaveeb.ee", "title": "Sõnaveeb" },
+        {
+          "kind": "file",
+          "src": "https://sorimistore.files.wordpress.com/2015/04/suvi-luulekava.pdf",
+          "title": "suvi-luulekava.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://support.microsoft.com/et-ee/office/p%C3%B5hitoimingud-powerpointi-esitluse-loomiseks-efbbc1cd-c5f1-4264-b48e-c8a7b0334e36",
+          "title": "PowerPointi esitluse loomine"
+        },
+        {
+          "kind": "link",
+          "href": "https://teater.ee/naitekirjandus/naidendid/loomise-monu/",
+          "title": "Loomise mõnu"
+        },
+        {
+          "kind": "link",
+          "href": "https://va.ee/rubriigid/kriitika/",
+          "title": "Vikerkaare kriitika"
+        },
+        {
+          "kind": "link",
+          "href": "https://vikerraadio.err.ee/1608775078/vanasonad-kes-ees-see-mees-piret-voolaid",
+          "title": "Vanasonad"
+        },
+        {
+          "kind": "link",
+          "href": "https://vikerraadio.err.ee/1608970046/miniturniir-saue-kool-3",
+          "title": "Miniturniir"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.apollo.ee/raamatud/eestikeelsed-raamatud/biograafia-ja-memuaarid",
+          "title": "Biograafia ja memuaarid"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.apollo.ee/raamatud/eestikeelsed-raamatud/biograafia-ja-memuaarid/sportlased",
+          "title": "Sportlaste biograafiad"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.digar.ee/arhiiv/et/perioodika?id=1624",
+          "title": "DIGAR perioodika"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.digar.ee/arhiiv/et/perioodika?id=9434",
+          "title": "DIGAR perioodika"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.digar.ee/arhiiv/et/raamatud/14239",
+          "title": "DIGAR raamatud"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eki.ee/books/ekk09/index.php?link=L_45",
+          "title": "Eesti keele käsiraamat"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eki.ee/dict/frs/index.cgi",
+          "title": "Fraseoloogiasõnaraamat"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.emakeeleselts.ee/omakeel/2014_1/OK_2014-1_10.pdf",
+          "title": "Oma Keel 2014/1"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.emakeeleselts.ee/omakeel/2014_2/OK_2014-2_10.pdf",
+          "title": "Oma Keel 2014/2"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.emakeeleselts.ee/omakeel/2018_1/OK-1-2018_06.pdf",
+          "title": "Oma Keel 2018/1"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.emakeeleselts.ee/omakeel/2019_1/OK-1-2019_11.pdf",
+          "title": "Oma Keel 2019/1"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.emakeeleselts.ee/valjaanne/oma-keel-number-37-sugis-2018/",
+          "title": "Oma Keel"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.folklore.ee/Keerdkys/",
+          "title": "Keerdküsimused"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.folklore.ee/Reebus/",
+          "title": "Reebus"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.folklore.ee/Sonamang/",
+          "title": "Sõnamäng"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.folklore.ee/era/pub/files/Viru_lastem.pdf",
+          "title": "Viru_lastem.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.folklore.ee/era/teema/kohad.htm",
+          "title": "Kohad"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.folklore.ee/justkui/sonastik/",
+          "title": "Justkui sõnastik"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.folklore.ee/moistatused/",
+          "title": "Mõistatused"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.folklore.ee/rl/date/robotid/leht1.html",
+          "title": "Robotid"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.folklore.ee/rl/pubte/ee/cf/mjap/juri.html",
+          "title": "Jüri"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.folklore.ee/tagused/nr76/kuperjanov.pdf",
+          "title": "kuperjanov.pdf"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.loodusmetafoorid.ee/metafoorideolemus",
+          "title": "Metafooride olemus"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/465",
+          "title": "Opiq"
+        },
+        { "kind": "link", "href": "https://www.rara.ee/", "title": "RaRa" },
+        {
+          "kind": "link",
+          "href": "https://www.researchgate.net/publication/321510886_Effective_Practices_for_Developing_Reading_Comprehension",
+          "title": "Effective Practices for Developing Reading Comprehension"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.taskutark.ee/homonuumid/",
+          "title": "Homonüümid"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.taskutark.ee/metafoor/",
+          "title": "Metafoor"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.vikerkaar.ee/archives/12667",
+          "title": "Mis on luule?"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.wikiwand.com/et/Metafoor",
+          "title": "Metafoor"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/channel/UCIk21_XTaWmc4X7k6k_Xq7w",
+          "title": "YouTube kanal"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=WPU6WX3pOzA"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=evRKWDyV2P0"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=iFt4iVA9Ero&t=46s"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=nPBqOFchuOw"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=pNtbH-1eMQM"
+        },
+        {
+          "kind": "link",
+          "href": "https://www2.kirmus.ee/erni/muu/teor.html#al",
+          "title": "Kirjandusteooria"
+        },
+        {
+          "kind": "link",
+          "href": "https://xgis.maaamet.ee/xgis2/page/app/parandkultuur",
+          "title": "Pärandkultuuri kaardirakendus"
+        },
+        { "kind": "video", "src": "https://youtu.be/tDVQA0JSWYw" },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453492/kirjandus_pk_opitulemused_vordlus.pdf?version=1&modificationDate=1707294719050&api=v2",
+          "title": "kirjandus_pk_opitulemused_vordlus.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453492/kirjandus_vene_pk_opitulemused_vordlus.pdf?version=1&modificationDate=1707294739055&api=v2",
+          "title": "kirjandus_vene_pk_opitulemused_vordlus.pdf"
+        }
+      ]
+    }
+  ]
+}

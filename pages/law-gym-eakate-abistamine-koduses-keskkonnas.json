@@ -1,0 +1,106 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse koostamisel on lähtutud kutsestandardis „Hooldustöötaja, tase 4“ kompetentsidest (abistamine elamistoimingutes ja hooldustegevuste läbiviimine, majapidamistööde korraldamine, töö eakatega) ja kutsehariduse 4. taseme kutseõppe õppekavast „Hooldustöötaja“, piiritledes käsitlust eaka toetamisega väärika vananemise teekonnal koduses keskkonnas.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursus on mõeldud gümnaasiumiõpilastele, et tutvustada hooldustegevusi eakaga ning kujundada õpilastes oskused, toetamaks eakat väärika vananemise teekonnal koduses keskkonnas.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse jooksul tutvuvad õpilased vananemisega seotud protsessidega, õpivad teostama lihtsamaid hooldustoiminguid koduses keskkonnas, lähtudes eaka individuaalsetest vajadustest ja füüsilisest seisundist, mõistavad eaka sotsialiseerumise vajadust ja panustavad loovalt eaka aktiviseerimisse.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursus koosneb seitsmest suuremast teemaplokist. Iga uus teema algab teoreetilise sissejuhatusega, millele järgneb arutelu, praktiline ja/või iseseisev töö omandatud teadmiste kinnistamiseks. Rühmatööna koostavad meeskonnad eelnevalt loengutes läbitud teemade (nt vananemisega seotud muutused; eetika (sh suhtlemine) ja konfidentsiaalsus) põhjal eetilised põhimõtted eakaga suhtlemiseks ning esitavad selle ettenähtud tähtajaks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse käigus omandatut on võimalik edasi arendada, jätkates õpinguid erinevatel sotsiaaltöö ja nõustamise valdkonna erialadel (nt hooldustöötaja, tegevusjuhendaja) kutseõppeasutustes.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpetusega taotletakse, et õpilased mõistavad vananemisprotsessi, oskavad juhendada ja toetada eakat igapäevaelu toimingutes ning sooritada lihtsamaid hooldustoiminguid koduses keskkonnas.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "kavandab ja viib läbi eakale sobivaid ja jõukohaseid aktiviseerivaid tegevusi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõik teemad algavad teoreetilise sissejuhatusega, millele järgneb arutelu gruppides, praktiliste ülesannete lahendamine grupis ja/või iseseisvalt.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>vananemisega seotud füüsilised, psüühilised ja sotsiaalsed muutused ning nende mõju igapäevaelus toimetulekule (2 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>a- ja antiseptika põhimõtted (sh kätepesu, käte antiseptika, pindade puhastamine ja desinfitseerimine); isikukaitsevahendid, nende kasutamise põhimõtted ja tingimused (2 tundi),</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>eaka aktiviseerimine (2 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>eetika (sh suhtlemine) ja konfidentsiaalsus (2 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>eaka abistamine ja juhendamine (sh märkamine) tervise ja toimetuleku probleemidest lähtuvalt (sh hooldustoimingud) (2 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>eaka terviseedenduse võimalused (2 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>ergonoomika ja abivahendid, nende kasutamise põhimõtted (2 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>praktilised harjutusülesanded erinevate teemade põhiselt (14 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>õppekäigud hooldekodusse ja/või eakate päevakeskusesse (2 tundi);</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>iseseisev töö (5 tundi).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

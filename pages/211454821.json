@@ -1,0 +1,811 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "iseloomustab Eesti usulisi olusid käsitletud ajastuil",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab Eesti usuelu reguleerivate peamiste õigusaktide põhisisu",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb usundite klassifitseerimise viise ning analüüsib klassifitseerimisega kaasnevaid väärtushinnanguid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab Eestis levinud suuremaid usundeid ning eristab suuremaid konfessioone ja usulisi rühmitusi:",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb Eestis levinud usundite ja kirikute sümboolikat",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab nende õpetuslikki põhiseisukohti ning võrdleb õpitud usundite ja kristlike konfessioonide üldisi erinevusi ning sarnasusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb erinevate usundite avaldumisvorme",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab näha religiooni rolli ühiskonnaelus ja inimsuhetes:",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab religiooni mõju ühiskonnale",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab oma tegevuses arvestada inimeste usuliste tõekspidamistega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub erinevatesse usulistesse tõekspidamistesse lugupidavalt ja sallivalt, kuid vajaduse korral ka kriitiliselt",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "reflekteerib oma hoiakute ja suhtumiste üle enda omast erinevasse (usulisse või sekulaarsesse) maailmavaatesse",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab oma maailmavaate põhijooni ning võrdleb enda maailmavaatelisi tõekspidamisi käsitletud usundite ja konfessioonide omadega.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "1. töökava näide",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>I Sissejuhatavad teemad (2x45 minutit)</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursus võiks alata vaba vestlusega kodulinna või maakonna usulisest taustast: missugused kirikud tegutsevad, kas on joogakooli, kas on praktiseerivat nõida või ennustajat jne. Eesmärgiks on õpilastes huvi äratada ja teemat ettevaatlikult tutvustada.</p><p>Sissejuhatavates tundides selgitatakse religioonide kohta Eesti Vabariigi seadusandlust ning usundid ja kirikud võib jagada õpilaste või õpilaste rühmade vahel ettekannete tegemiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjal",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Reet Hiiemäe „Usundid ja vaimsed õpetused Eestis“ Varrak 2019</li><li>Ilmo Au, Ringo Ringvee „Usulised ühendused Eestis“ Allika 2007</li><li>Marju Kõivupuu „Eesti mütoloogia algajale“ Tänapäev 2023</li><li>Priit Rohtmets „Riik ja usulised ühendused“ EV Siseministeerium 2018</li></ul>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=gTSH2w24W-s&list=PLnxuvGFPMWQplxav-O1z4MHmVAESUUTyy"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/L2pVQDpekjA?si=68Cyi3de5UNS2mqP"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.timetoast.com/timelines/eesti-kiriku-ja-kultuuriloo-ajajoon",
+              "title": "Ajatelg"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sissejuhatavad teemad on seotud sotsiaalse ja kodanikupädevusega ning ühiskonnaõpetusega, sest vaadeldakse usuliste organisatsioonide rolli Eesti riigis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esimestes tundides peaksid õpilastele antama signaal, et tunnis kaasa töötamine kajastub ka hilisemas hindes.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Usuliste olude kujunemine Eestis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "nimetab suuremaid konfessioone ning usundeid Eestis ning võrdleb erinevate statistiliste tulemuste saamise põhjusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab käsitletud ajastute Eesti usulisi olusid, nimetades põhijooni ja erinevusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab näidete varal religiooni ja kultuuri vastastikust mõju.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Muinasaeg, ristiusustamine, reformatsioon, pietism ja ratsionalism, venestamine, Eesti Vabariigi aeg, nõukogude okupatsioon, religioossus tänapäeva Eestis, sekulariseerumine. Eesti usuline kaart.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Usundid, konfessioonid, usulised liikumised ja sekulaarsed maailmavaated",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab Eestis levinud suuremaid konfessioone ja usulisi rühmitusi:",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb Eestis levinud usundite ja kirikute sümboolikat",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab nende õpetuslikki põhiseisukohti, võrdleb õpitud usundite ja kristlike konfessioonide üldisi erinevusi ning sarnasusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb erinevate usundite avaldumisvorme igapäevaelus (sealhulgas noorte elus)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab individuaalse religioossuse ja uusvaimsuse avaldumisvorme",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb mittereligioossete maailmavaadete aluseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib lihtsamaid religioosseid tekste",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab näha religiooni rolli ühiskonnaelus ja inimsuhetes:",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib religiooni mõju ühiskonnale ja ühiskonna mõju religioonile",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab oma tegevuses arvestada inimeste usulisi tõekspidamisi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub erinevatesse usulistesse tõekspidamistesse lugupidavalt ja sallivalt, kuid vajaduse korral ka kriitiliselt, reflekteerib oma hoiakute ja suhtumiste üle endast erinevasse (usulisse või sekulaarsesse) maailmavaatesse",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab oma maailmavaate põhijooni ning võrdleb enda maailmavaatelisi tõekspidamisi käsitletud usundite ja konfessioonide omadega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Eestis ajalooliselt pikemalt tegutsenud kristlikud konfessioonid: roomakatoliku kirik, õigeusu kirik, vanausulised; luteri kirik, sh vennastekogudused;</li><li>valik teisi Eestis esindatud kristlikke konfessioone;</li><li>muinas- ja rahvausund, taara- ja maausulised;</li><li>valik Eestis esindatud teisi usundeid;</li><li>individuaalne religioossus, uusvaimsus ja eneseabipraktikate usulised juured;</li><li>sekulaarsed maailmavaated Eestis</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "II Eesti muinasusk, maa – ja taarausk (4x45 minutit)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilaste olemasolevatele seisukohtadele ja teadmistele pakutakse raami Eesti muinasusundi ja rahvausundi põhiliste seisukohtade kaudu. Muinasusundit, rahvausku ning taara- ja maausku võib käsitleda selles järjekorras, kasutada ühiseid arutelusid ja arheoloogiliste leidude näiteid ning pöörata tähelepanu rahvausundi ja kristluse ühistele vormidele, näiteks ristipuudele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjal ja filmid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/usundiopetus/maausulised",
+              "title": "Marietta ja Rauno Alliksaare õppematerjal"
+            },
+            {
+              "kind": "file",
+              "src": "https://keeljakirjandus.ee/wp-content/uploads/2021/01/T.JONUKSA.REMMEL.pdf",
+              "title": "Tõnno Jonuks, Atko Remmel „Metsarahva kujunemine“"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.maavald.ee/",
+              "title": "Maavalla koja koduleht"
+            },
+            {
+              "kind": "link",
+              "href": "https://rahvakultuur.ee/2020/03/28/vana-voromaa-matusekombestik/",
+              "title": "Vana-Võromaa matusekombestik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.efis.ee/et/filmiliigid/film/id/7110",
+              "title": "Veelinnurahvas"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.efis.ee/et/filmiliigid/film/id/3775/",
+              "title": "Linnutee tuuled"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.efis.ee/et/filmiliigid/film/id/3014/",
+              "title": "Kaleva hääled"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608732757/kaleva-haaled",
+              "title": "Kaleva hääled"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.efis.ee/et/filmiliigid/film/id/6720/",
+              "title": "Toorumi pojad"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608732760/toorumi-pojad",
+              "title": "Toorumi pojad"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=fV2633Ctamw"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.efis.ee/et/filmiliigid/film/id/231",
+              "title": "Malev"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608437144/malev",
+              "title": "Malev"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemad on seotud kultuuri- ja väärtuspädevuse, suhtluspädevuse, kirjanduse ja ajalooga. Õpilaste teadmistest ja arusaamadest ülevaate saamiseks sobivad suulised vestlused või lühiessee kirjutamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "III Kristlikud usulised ühendused Eestis (10x45 minutit)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kristlikke ühendusi käsitletakse plokkide kaupa: katoliiklus ja õigeusk, luterlus koos vennastekogudusega ning baptism, metodism, adventism ja nelipühilus. Võrreldakse kirikute sarnasusi ja erinevusi, sümboleid, identiteeti, naiste rolli ja usu mõju tervisekäitumisele; õppimist võib täiendada õppekäiguga lähedalasuvasse kirikusse.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjal ja filmid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/usundiopetus/alliksaar",
+              "title": "Marietta Alliksaare õppematerjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.digar.ee/arhiiv/nlib-digar:41981",
+              "title": "Toomas Jürgenstein „Usundite kohtumine“"
+            },
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/video/ajalik-ja-ajatu",
+              "title": "ERR arhiiv, Ajalik ja ajatu"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1149965/vello-salo-igapaevaelu-mustika",
+              "title": "Igapäevaelu müstika"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608095227/kolme-katku-vahel",
+              "title": "Kolme katku vahel"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kokkupuuted on kultuuri- ja väärtuspädevuse, enesemääratluspädevuse, kunsti- ja muusikaõpetuse, ajaloo ning ühiskonnaõpetusega. Teadmisi võib kontrollida suulise vastamise või eri kirikute kohta tehtava testiga.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "IV Muud usulised ühendused ja liikumised Eestis (10x45 minutit)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Enne Eesti koguduse tutvustamist tehakse vastava usundi seisukohtadest kiire meeldetuletus. Käsitluses hoitakse tasakaalu, võrreldakse sarnaseid usundeid ning analüüsitakse aktuaalseid religiooniga seotud juhtumeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjal ja filmid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.efis.ee/et/filmiliigid/film/id/4121",
+              "title": "Milarepa laulud"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608103195/milarepa-laulud",
+              "title": "Milarepa laulud"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Eax95JaKMtM&t=95s"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemal on seosed kultuuri- ja väärtuspädevuse, sotsiaalse ja kodanikupädevuse, kultuurilise identiteedi, ajaloo, kunsti ja muusikaõpetusega. Teadmisi võib hinnata suuliste ettekannete või testi kaudu.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "V Mittereligioossed maailmavaated Eestis (4x45 minutit)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Meenutatakse klassikalisi argumente Jumala või kõrgema jõu olemasolu vastu ning seotakse need ateistlike, agnostiliste ja mitteusklike maailmavaadetega. Arutletakse väite üle, et Eesti on Euroopas kõige vähem religioosne maa.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjal ja film",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://arvamus.postimees.ee/3436579/atko-remmel-eestlased-on-ateistid-usu-moga-meid-ei-koida",
+              "title": "Atko Remmel „Eestlased on ateistid“"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.efis.ee/et/filmiliigid/film/id/3734",
+              "title": "Lihtsad küsimused"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=8nAos1M-_Ts&t=480s"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemad puudutavad sotsiaalset ja kodanikupädevust, enesemääratluspädevust, teabekeskkonda, meediakajastust, filosoofiat, kirjandust ja ajalugu. Õpilane võib teksti analüüsis põhjendada, kas tegemist on ateistliku või agnostilise tekstiga.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "VI Kokkuvõte (5x45 minutit)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab Eesti usuelu reguleerivaid peamisi õigusakte, analüüsib nende valgel usuvabaduse järgmist ja aktuaalseid religiooniga seotud küsimusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida ja hinnata allikaid religiooniga seotud informatsiooni kohta, koostab lühiuurimuse ühest olulisest Eesti usulisest mõtlejast või kultuuritegelasest.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti usuelu korraldus, usuvabadusega seotud küsimused tänases Eestis ühiskonnas. Olulisi usulisi mõtlejaid ja kultuuritegelasi Eestis, nt prohvet Maltsvet, Jakob Hurt, paljasjalgne Tõnisson, piiskop Platon, Uku Masing, Arthur Võõbus, Toomas Paul, Ain Kalmus (Evald Mänd), Hugo Lepnurm, Fanny de Sievers, Linnart Mäll, Laine Villenthal, Anu Raud, Sven Grünberg, Jüri Arrak, Urmas Sisask ja Arvo Pärt.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpetaja juhitud arutelud ja rühmatööd aitavad kursuse kokku võtta. Kokkuvõtteks sobivad õpilaste esitlused olulistest usulistest mõtlejatest loovesitlusena.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "http://usundiopetus.weebly.com/uploads/7/6/8/2/7682621/meritsyvingloputoo.rtf",
+          "title": "Merit Süving: lühiuurimus „Eesti usu- ja kultuuritegelased“"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "2. töökava näide, kus see on põimitud maailmareligioonide kursusega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "oskab usundeid klassifitseerida ja nimetada maailma erinevates osades enam levinud usundeid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab Eestis levinud suuremaid usundeid, eristab suuremaid konfessioone ja usulisi rühmitusi",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab olulisemaid eesti rahvausundi põhijooni ning toob näiteid selle avaldumisest tänapäeval",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab käsitletud usundite õpetuse ja eetika põhiseisukohti ning tunneb nende usundite teket, tähtsamaid suurkujusid, usulisi rituaale ja nende väljendumist kultuuris",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab seoseid usu väljendumisvormide ja vastava usundi põhiideede vahel",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab olulisemaid kristlikke pühi ning toob näiteid kristluse tähendusest Eesti kultuurile ja ühiskonnale nii ajaloos kui ka kaasajal",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb erinevaid religioone, analüüsib näiteid tuues erinevate maailmavaadete mõju inimese ning ühiskonna elus nii positiivsete kui ka probleemsete ilmingutena",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib religioossete konfliktide põhjusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära eelarvamusliku ja sildistava suhtumise",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "pakub võimalusi erinevate religioossete vaadetega inimeste dialoogiks ning koostööks",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sõnastab oma maailmavaate mõningaid jooni",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib enda maailmavaatelisi tõekspidamisi käsitletud usundite ja maailmavaadete valguses",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "otsib teavet usundite kohta ja hindab allikate sobivust.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "I Sissejuhatavad probleemid (4x45 minutit)",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppemeetod",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kursus algab vaba vestlusega religioonidest, õpilaste kokkupuudetest religiooniga ning nende küsimustest. Õpitakse religioonide üldist jaotust ning võib korraldada silmaringi kontrolliva viktoriini.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjal ja filmid",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://arhiiv.err.ee/video/ajalik-ja-ajatu",
+                  "title": "ERR arhiiv, „Ajalik ja ajatu“"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=d2Fl9UcJkBA&t=181s"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=ok8NYX1ddM8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II Hinduism ja budism (7x45 minutit)",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppemeetod",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hinduismi ja budismi käsitlemisel kasutatakse vastavat usku kandvate inimeste tekste, filmilõike, arutlevaid ülesandeid ning õpitavate usundite lühikokkuvõtteid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjal ja filmid",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://sisu.ut.ee/usundiopetus/budism",
+                  "title": "Marietta ja Raul Alliksaare õppematerjal"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sisu.ut.ee/usundiopetus/muu",
+                  "title": "Õppematerjal: krišnaiidid"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.eao.ee/tekstid/klassika/dhammapada/",
+                  "title": "Dhammapada"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://jupiter.err.ee/1608103195/milarepa-laulud",
+                  "title": "Milarepa laulud"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III Hiina ja Jaapani usundid (4x45 minutit)",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppemeetod",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Valitakse Hiina või Jaapani usundite käsitlus. Keskendutakse Tao või Dao, Yin-Yangi ideaali, Lao-zi ja Konfutsiuse tekstide ning šinto tundmaõppimisele.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Filmid, telesaated, klipid",
+              "children": [
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=Ig6MV5G1Hqk"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=hzuR-FU0p68"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "IV Monoteistlikud usundid (12x45 minutit)",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppemeetod",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Judaistlikku, kristlikku ja islami usundit vaadeldakse eraldi ning võrreldakse nende seoseid ja pingekohti. Käsitletakse stereotüüpe, pühakirju, Iisraeli ajalugu, kristluse kolmainsust, eri kirikuid, islami viit sammast ning religioonide suhteid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjal ja filmid",
+              "children": [
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=1D80oi4gmzU&list=PLAcQerlDX93gJxjpLThm6ZJxFlPxTyYqc&index=3"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sisu.ut.ee/usundiopetus/judaism",
+                  "title": "Alliksaare õppematerjalid: Judaism"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sisu.ut.ee/usundiopetus/islam",
+                  "title": "Alliksaare õppematerjalid: Islam"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@eknharidus9519/videos",
+                  "title": "Mitmete kristlike kirikute videod"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://youtu.be/1D80oi4gmzU?si=IV3UqnCQaoSYsNLc"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sisu.ut.ee/kohtumised",
+                  "title": "Õppevideod „Kohtumised“"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://jupiter.err.ee/1609072523/kalifaat",
+                  "title": "Kalifaat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "V Eesti rahvausund (4x45 minutit)",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppemeetod",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilaste olemasolevaid seisukohti ja teadmisi seotakse Eesti muinasusundite ja rahvausundi põhiliste seisukohtadega. Käsitletakse usundi muutumist, ristipuid ja kaasaegseid vorme, näiteks muinasrokki „Peko“.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjal ja filmid",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://dspace.ut.ee/items/d62fd0b8-d356-4630-a7af-c0a902715e15",
+                  "title": "Tõnno Jonuks „Eesti muinasusund“"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://retopea.eu/s/et/page/docutubes",
+                  "title": "Õpilaste loodud lühifilmid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "VI Kokkuvõte (4x45 minutit)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kokkuvõtteks sobivad õpetaja juhitud arutelud ja rühmatööd, religioonide koostöö ning konflikti võimaluste käsitlemine ja arutelud Eesti ajakirjanduse religiooniga seotud päevakajalistel teemadel.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/usundiopetus/alliksaar",
+              "title": "Alliksaarte õppematerjal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

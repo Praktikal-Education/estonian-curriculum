@@ -1,0 +1,340 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Motoorsete oskuste arendamine on tihedalt seotud teiste tegevusvaldkondadega.</p><ul><li>Painduvuse, koordinatsiooni, tasakaalu, peenmotoorika arendamine aitab kaasa söömis- ja riietumisoskuse kujunemisele.</li><li>Oma kehaosade, liigutuste teadvustamine on osa kognitiivsest arengust.</li><li>Motoorsed oskused - nii liikumiseks eeldatav üldmotoorika kui ka haaramiseks ja esemete kompimiseks eeldatav peenmotoorika - on aluseks tähelepanule, vaatlusele, mis omakorda mõjutab tunnetusprotsesside arengut.</li><li>Liikumisharjutused aitavad tasakaalustada meeli. Vajadusel saab läbi liikumise last aktiviseerida või rahustada.</li><li>Liigutuste täpsuse arendamine on toeks lihtsustatud viibete omandamisele.</li><li>Liikumisharjutused toetavad ruumisuhete tajumist.</li><li>Paljud liikumistegevused on sotsiaalse iseloomuga, õpetavad arvestama kaaslasega (nt palli veeretamine, riisikoti edasiandmine).</li><li>Õpilase arusaamine oma kehast ja selle funktsioonidest moodustab põhja, millel rajaneb &quot;mina&quot; käsitlus. Positiivse pildi loomine oma kehast on tähtis ka väga vähese füüsilise suutlikusega õpilastele.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane suudab kognitiivsele tegevusele keskenduda lühiajaliselt, vaimset pingutust nõudvad tegevused peavad vahelduma liikumisharjutuste, rütmikaga. Hea võimaluse vaimsest tegevusest puhkuseks, kuid samas mõtestatud sisuliseks tegevuseks annab töövahendite jagamine, koristamine, paigutamine.</p><p>Vahenditega sooritatavad harjutused võivad toimuda rütmisalmide, laulude, muusika saatel.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Üles-alla, ette-taha,<br>vaata, et ei kukuks maha!<br>Mina sulle, sina mulle,<br>lase lendu kui sa julged!</em></p><p>Liikumisele saab lisada verbaalse selgituse <em>„üles-alla“</em>.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Rütmikaharjutused erinevate vahenditega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Riisikott",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>riisikoti tasakaalus hoidmine erinevatel kehaosadel, istudes, seistes, liikudes, kehaosade nimetamine;</li><li>riisikoti laualt maha lükkamine, nõusse pillamine;</li><li>riisikoti ühest käest teise kätte asetamine (kaarena üle pea, ringi ümber keha, jala alt läbi istudes või seistes);</li><li>riisikoti edasiandmine kaaslasele;</li><li>riisikoti viskamine anumasse, rõngasse, kaaslasele.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kõlapulgad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>2 kõlapulga otste kokku löömine horisontaalselt (käsi pöörates), vertikaalselt (ülemist ja alumist kätt vahetades);</li><li>kõlapulka otstest hoides paela kerimine, pöörates ühte või mõlemat rannet („ketramine“);</li><li>mööda pikemat kõlapulka või lühemat võimlemiskeppi vahelduvate kätega üles „ronimine“. Üles jõudes käte mööda pulka alla libistamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Rätik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>väikese siidist (või muu kerge materjal) rätiku hoidmine 2 käega, sujuvalt üles-alla lehvitamine;</li><li>rätiku asetamine erinevatele kehaosadele;</li><li>rätiku ühest käest teise andmine (kaarena üle pea, ringi ümber keha, jala alt läbi);</li><li>rätiku viskamine-püüdmine üksi või paarilisega.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lina",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>suurema siidlina tõstmine-langetamine paaris või rühmas;</li><li>tõstetud lina alt läbi minek, lina all olemine;</li><li>õpilase kiigutamine teki või lina sees.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimlemisrõngas",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>läbi rõnga pugemine (horisontaalselt, vertikaalselt);</li><li>rõnga liigutamine/tõstmine erinevates suundades.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tegevusrõngad - kummist 16,5 cm läbimõõduga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>rõngaste lükkimine enda, kaaslaste kätele;</li><li>rõnga nihutamine jalaga (istudes, seistes) erinevates suundades.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimlemislint",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>lindi horisontaalne ja vertikaalne liigutamine;</li><li>erineva suurusega ringide sooritamine (käsi liigub õlast, randmest).</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Harjutused pallidega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Villapall, tennisepall",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>(vt rütmikaharjutused - harjutused riisikotiga).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õhupall",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>õhupalli või teiste kergesti liikuvate esemete tõukamine/löömine käte või jalgadega.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Iluvõimlemise pall (18cm)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>palli hoidmine kahe käega, liigutamine üles-alla;</li><li>palli hoidmine ühe käega, asetamine teise kätte;</li><li>palli veeretamine paarilisega;</li><li>palli veeretamine kurikate vms pihta „bowling“;</li><li>palli veeretamine kaldrennis (neile, kes ei oska pallile hoogu anda ega suunata);</li><li>palli põrkega viskamine-püüdmine täiskasvanuga paaris (istudes, seistes);</li><li>palli põrkega maha viskamine ja ise uuesti kinni püüdmine;</li><li>palli viskamine-püüdmine täiskasvanuga paaris;</li><li>palli õhku viskamine ja ise püüdmine.</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Iluvõimlemise pall on haaramiseks hea pinnaga ja põrkab hästi. Tegevuse ajal võib loetleda klassikaaslaste, nädalapäevade, kuude nimesid, numbreid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Raskuspallid (komplektis 5 ühesuurust palli raskustega 500-1300g, läbimõõt 9,5 cm)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>erineva raskusega pallide asetamine kehaosadele, kehaosade nimetamine;</li><li>erineva raskusega pallide tõstmine, võtmine, andmine, rütmikaharjutuste sooritamine;</li><li>palli puudutamine vahelduva jalaga rütmikaharjutuses.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Topispall",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>tõstmine, tassimine, viskamine, kaaslasele edasiandmine, veeretamine, läbi rõnga panek.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Suur võimlemispall",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>tasakaaluharjutuste sooritamine pallil;</li><li>palli tõstmine, viskamine, veeretamine, põrgatamine.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Vahendid üldmotoorika arendamiseks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Kontrollitud müramine, mille käigus õpilane saab end keerata, roomata, käpuli käia.</li></ul>"
+        },
+        {
+          "kind": "section",
+          "title": "Kummilint",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>lindi peal seistes ja linti otstest hoides „suusatamine“, „lendamine“;</li><li>tooli küljes oleva kummilindi jalgadega venitamine/surumine;</li><li>keha/rinna/puusade ümber oleva kummilindi surumine (täiskasvanu hoiab „ohjest“).</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kummilint on hea vahend, mis aitab tunnetada vastupanu liigutustele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Stepipink",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>pingile ja maha astumine samast jalast;</li><li>üle pingi minek pingile astumisega;</li><li>üle pingi astumine;</li><li>pingilt maha hüppamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Madal poom",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>poomile ja maha astumine;</li><li>poomil kõndimine juurdevõtu- ja vahelduvsammuga;</li><li>poomil liikumine külg ees, risti-rästi astumine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tasakaalukivid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>märgile astumine peatusega (mõlemad jalad märgil);</li><li>märkidele astumine vahelduvsammuga.</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tasakaalukivid on erineva suuruse, materjali (jäigad, pehmed), pinnaga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimlemistoru",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>võimlemistoru läbimine roomates või käpuli;</li><li>tasakaalu tunnetamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kiiged",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>erinevate kiikudega kiikumine.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Tegevused ja vahendid peenmotoorika arendamiseks",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Paberitööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>rebimine, kortsutamine, voltimine, lõikamine, liimimine.</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tasub mõelda, kas lapsel on potentsiaali kääride <strong>sihipäraseks</strong> kasutamiseks või on eesmärk ainult peenmotoorika arendamine. Viimasel juhul võivad uue oskuse tulemuseks olla lõigutud riided, kardinad, juuksed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lükkimine, põimimine, õmblemine, tikkimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>erineva suurusega puidust, plastist helmeste lükkimine pulgale, nöörile;</li><li>põimimine - kingapaela põimimine läbi plastist kujundis olevate aukude;</li><li>nõelast haaramine, läbi kartongi, kanga tõmbamine koostöös täiskasvanuga;</li><li>nõela läbi kanga, kartongis oleva augu suunamine koostöös täiskasvanuga;</li><li>mittejuhtiva käega nõelast haaramine, läbi kanga tõmbamine, nõela teise kätte asetamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Joonistamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>vormide kõndimine põrandal (sirge, ring);</li><li>vormide joonistamine sõrmega, pulgaga liiva sisse;</li><li>kritseldamine kriidiga tahvlile;</li><li>sihipärase kujutise tekitamine (kriips, ring) kriidiga tahvlile;</li><li>kritseldamine erinevate vahenditega (plokk-kriit, pulkkriit, pliiats, vildikas) paberile;</li><li>sihipärase kujutise tekitamine paberile;</li><li>käe- ja jalajälgede joonistamine/&quot;trükkimine&quot; paberile.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Maalimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>pintsli kasutamine maalimiseks;</li><li>sihipärane paberi katmine värviga;</li><li>erinevate vahenditega (tempel, vatitikk) &quot;trükkimine&quot;.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Voolimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>tükikeste eraldamine voolimismassist;</li><li>tükikeste ühendamine tervikuks;</li><li>massi veeretamine alusel, pihkude vahel;</li><li>massi rullimine laual, pihkude vahel;</li><li>taina sõtkumine, rullimine taignarulliga;</li><li>käe- ja jalajälgede vajutamine pehmesse savisse, vahasse.</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Voolimiseks saab kasutada erinevaid masse - savi, plastiliin, vaha, soolataigen, pärmitaigen jne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Liiv, kineetiline liiv, vesi",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>käega liiva asetamine vormi, vormist välja kummutamine;</li><li>kühvli, lusika kasutamine liiva, kuivainete tõstmiseks;</li><li>liiva, kuivainete, vedelike valamine ühest anumast teise.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kastid, purgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>erinevate kastide/purkide avamine ja sulgemine;</li><li>väiksemate kastide/purkide asetamine suuremate sisse;</li><li>erinevate esemete asetamine kasti/purki ja välja võtmine;</li><li>üllatuskast (kastis on õpilasele meeldivad esemed, kast on kaetud linaga).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Toidu valmistamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>leivale võide määrimine;</li><li>lillkapsast õisikute, hiina kapsa lehtede rebimine;</li><li>noa hoidmine serviti, pehme toidu (nt kartuli) tükeldamine taldrikul;</li><li>ettevalmistatud ribast tükkide lõikamine (nt kurk, paprika, õun);</li><li>porgandist, kurgist rataste lõikamine;</li><li>porgandi koorimine koorijaga;</li><li>segamine - salati, taina segamine kausis;</li><li>valamine - joogi valamine kannust, pakist, pudelist tassi;</li><li>tõstmine - toidu, toiduainete tõstmine lusikaga, kulbiga.</li></ul>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

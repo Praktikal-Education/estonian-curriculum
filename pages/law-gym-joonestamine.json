@@ -1,0 +1,122 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Joonestamisel on praktilise tähtsusega koht õpilaste mõtlemise ja ruumikujutlusvõime arendamisel ning tehnika- ja tehnoloogiaalase graafilise kirjaoskuse kujunemisel. Kursus tugineb varasematele matemaatika, osaliselt ka kunsti ja tööõpetuse kohustuslikel kursustel omandatud teadmistele, oskustele ning hoiakutele. Luuakse süsteemne ülevaade joonestamiseks vajalikust mitmekesisest teabest. Kinnistuvad kursuse jooksul omandatud sõnavara ja teadmised ruumigeomeetriast, süvenevad õpilaste oskused lahendada probleemülesandeid graafiliselt. Kujunevad välja teadmised joonestamisega seotud rakendustest ja hoiakud, mis toetavad õppijate karjääriplaneerimist ning elukutsevalikut.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppe vältel õpitakse analüüsima ruumigeomeetrilisi objekte ning lahendama probleemülesandeid graafiliselt. Omandatakse erinevate, sh elektroonsete teabeallikate kasutamise ja neis leiduva teabe tõepärasuse hindamise oskus. Kõige sellega kujundatakse õpilaste joonestamisteadmisi ja -oskusi, mis võimaldavad neil analüüsida, mõista, selgitada ning lahendada ruumigeomeetrilisi probleeme. Seejuures kujundatakse positiivne hoiak joonestamise kui matemaatikateaduse rakendusliku osa suhtes, mis aitab kaasa uue kavandamisele ja loomisele ning arvestab probleeme lahendades teaduslikke, majanduslikke, sotsiaalseid, eetilis-moraalseid aspekte ja õigusakte.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>tunneb huvi tehnika, tehnoloogia ja/või disaineri loova töö vastu, saab aru selle rakenduslikust tähtsusest ning on motiveeritud iseseisvalt õppima;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>arendab ruumikujutlusvõimet, mõtlemist, tähelepanu, graafilist kirjaoskust, loovust ja täpsust;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>on omandanud süsteemse ülevaate ruumigeomeetrilistest objektidest ja probleemülesannete graafilistest lahendusmeetoditest ning kasutab korrektset joonestamissõnavara;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>suhtub lugupidavalt ja vastutustundlikult kaasinimeste loomingusse ning väärtustab võimet ja oskust ise uut luua; väärtustab töö läbimõeldust, korrektsust ning praktilisust;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>kasutab iseseisvalt erinevaid, sh elektroonilisi teabeallikaid joonestamisteabe leidmiseks ning hindab kriitiliselt neis sisalduvat teavet;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>rakendab ruumigeomeetrilisi probleeme lahendades teaduslikku meetodit;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>saab ülevaate joonestamisteabe rakendamisega seotud elukutsetest ning kasutab joonestamiskursusel omandatud teadmisi ja oskusi karjääri plaanides ning oma edaspidises elus;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>võtab vastu igapäevaeluga seotud kompetentseid otsuseid, tuginedes teaduslikele, majanduslikele, eetilis-moraalsetele seisukohtadele ja õigusaktidele, ning prognoosib otsuste tagajärgi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "on omandanud süsteemse ülevaate jooniste vormistamise, projekteerimise, jooniste saamise meetodite ja ruumigeomeetriliste objektide kohta ning nimetab objektide määramisandmed;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "analüüsib ning kirjeldab joonise järgi objektide kuju ja suurust, objekti osade vastastikust asendit ja asukohta ruumis tasandiliste kujutiste abil ning loeb jooniselt infot objekti kuju, suuruse ja tema osade vastastikuse asendi kohta;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "analüüsib ning hindab projektsioonide lihtsust, mõõdetavust ja piltlikkust ning vormistab joonised tavakohaselt;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "on omandanud arenenud ruumikujutluse, tähelepanu ja iseseisva mõtlemise võime;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "toob näiteid joonestamise rakendusvaldkondade kohta ning selgitab joonestamisteadmiste ja -oskuste osa tehnikateaduses ning tehnoloogias, disaini jt rakenduslike loovtööde jaoks ning igapäevaelus;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Joonistele esitatavad nõuded: normkiri, jooned, joonise formaat, kirjanurk ja raamjoon.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Geomeetrilised konstruktsioonid: paralleel- ja ristsirgete joonestamine, sirglõigu, ringjoone ja nurga jaotamine osadeks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Projekteerimine ja selle liigid: tsentraal- ja paralleelprojekteerimine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Jooniste saamise põhilised meetodid. Kvooditud ristprojektsiooni meetodi olemus. Monge'i meetodi olemus. Punkt: koordinaadid; kaks- ja kolmvaade. Sirge: määramisandmed, jälgpunktid; kaks- ja kolmvaade. Sirge asend ekraanide suhtes: üld- ja eriasend. Eriasendiline sirge: horisontaal, frontaal, profiilsirge. Kahe sirge vastastikune asend: paralleelsed, lõikuvad ja kiivsed sirged. Sirglõigu pikkuse ja kaldenurga tuletamine. Tasand: määramisandmed. Tasandi asend ekraanide suhtes: üld- ja eriasend.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tasandilise objekti tõelise suuruse tuletamine. Aksonomeetria meetodi olemus. Liigid. Ristisomeetria teljestiku konstrueerimine, punkti ristisomeetriline kujutis.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Geomeetrilised kehad: liigid (tahk- ja pöördkehad) ja jaotus (korrapärane, mittekorrapärane, sümmeetriline, ebasümmeetriline); kehade kaks- ja kolmvaated. Punkt geomeetrilisel kehal: punkti puuduva projektsiooni tuletamine. Geomeetriliste kehade tasandilised lõiked. Geomeetriliste kehade pinnalaotused.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

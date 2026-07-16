@@ -1,0 +1,1012 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Matemaatika 9. klassi õppekirjeldus",
+      "children": [
+        { "kind": "text", "html": "<p>140 tundi (4 tundi nädalas)</p>" },
+        {
+          "kind": "section",
+          "title": "III kooliastme õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "otsib, loeb ja mõistab iseseisvalt õppematerjalides olevaid tekste",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab elulise (nt finantsvaldkonna) probleemi väljendamiseks sobiva matemaatilise mudeli, koostab võrrandi või võrrandisüsteemi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab eakohaseid ning elulisi probleemülesandeid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab uurimuslikku meetodit probleemide lahendamiseks matemaatika abil",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab protsentarvutust otsuse tegemiseks ja põhjendamiseks (nt laen, hoius, intress, maksud, investeerimine)",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab (igapäevaelu) ülesannete lahendamisel otstarbekat osamäära esitusviisi (protsent, harilik murd, kümnendmurd)",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab protsentarvutuse elulisi kasutusvõimalusi ning absoluut- ja/või suhtarvude sobivust informatsiooni",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab tõenäosuse tähendust, arvutab eluliste juhtude sündmuse tõenäosuse (sh mündivise, täringu veeretamine, kaardimäng, loosimine)",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab hüpoteesi, eeldust, väidet ja tõestust, selgitab mõne teoreemi tõestuskäiku, vajaduse korral tuletab lihtsamaid valemeid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "sõnastab oma tõlgendusi ja põhjendusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "reflekteerib oma tegevust matemaatika õppijana.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Tunni eesmärgistamine ja tagasisidestamine, hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Diagnostilise hindamise käigus selgitatakse välja õpilaste eelteadmiste ja oskuste tase, ainealased väärarusaamad ja spetsiifilised õpiraskused, et kavandada järgnevat õppimist ja õpetamist. Õppeprotsessi käigus rakendatakse kujundavat hindamist, kus õpilane saab nii suulist kui ka kirjalikku tagasisidet oma õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Arvu ruutjuur",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab arvu ruutjuure tähendust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ruutjuure mõistet ja arvu ruutjuure tähendust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab peast või taskuarvutil ruutjuure",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab arvu ruutjuure kümnendlähendi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida ruutjuurt korrutisest ja jagatisest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab tuua tegurit juuremärgi ette ja viia tegurit juuremärgi alla.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab oma tõlgendusi ja põhjendusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab kriitiliselt saadud tulemusi.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvu ruutjuur. Ruutjuur korrutisest ja jagatisest. Teguri toomine juuremärgi ette ja teguri viimine juuremärgi alla.</p><p><strong>Põhimõisted:</strong> arvu ruut, ruutjuur, arvuhulk, irratsionaalarv, kümnendlähend.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ruutvõrrand",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "lahendab täielikke ja mittetäielikke ruutvõrrandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab ruutvõrrandit teistest võrranditest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ruutvõrrandi liikmed ja nende kordajad",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "viib ruutvõrrandeid normaalkujule",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru, mis tingimustel on ruutvõrrand täielik või mittetäielik",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "taandab ruutvõrrandi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab mittetäielikke ruutvõrrandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab taandamata ja taandatud täielikke ruutvõrrandeid lahendivalemitega, kasutab sh Viete´i teoreemi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kontrollib ruutvõrrandi lahendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ruutvõrrandi lahendite arvu sõltuvust diskriminandist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab eakohaseid ning elulisi probleemülesandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab ja lahendab tekstülesandeid, mis lahenduvad ruutvõrrandi abil",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab oma tõlgendusi ja põhjendusi",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ruutfunktsioon",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab ruutfunktsiooni nullkohtade ja haripunkti tähendust ja omavahelist seost, leiab need valemist ning jooniselt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab lineaarfunktsiooni ja ruutfunktsiooni ning nende graafikuid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ette antud ruutfunktsiooni ruutliikme, lineaarliikme ning nende kordajad ja vabaliikme",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ruutliikme kordaja ja vabaliikme geomeetrilist tähendust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab nullkohad parabooli graafikult",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab ette antud ruutfunktsiooni nullkohad",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonestab etteantud funktsiooni graafiku (sirge, hüperbooli, parabooli) nii käsitsi kui ka arvutiprogrammiga ning loeb graafikult funktsiooni ja argumendi väärtusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab arvutiga tehtud dünaamilisi jooniseid kasutades funktsiooni graafiku asendi ja kuju sõltuvust funktsiooni avaldises olevatest kordajatest (ruutfunktsiooni korral ainult ruutliikme kordajast ja vabaliikmest)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "otsib, loeb ja mõistab iseseisvalt õppematerjalides olevaid tekste",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab oma tõlgendusi ja põhjendusi.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Algebralise murru taandamine, korrutamine, jagamine ja astendamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "üldistab harilike murdude arvutusreeglid algebralistele murdudele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab hariliku murru ja algebralise murru põhiomadust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tegurdab ruutkolmliikme vastava ruutvõrrandi lahendamisega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "taandab ja laiendab algebralist murdu ning liidab, lahutab, korrutab ja jagab kaht algebralist murdu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "korrutab, jagab ja astendab algebralisi murde positiivse täisarvulise astendajaga.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb iseseisvalt ja mõistab õppematerjalides olevaid tekste.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Algebralise murru laiendamine, liitmine ja lahutamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "üldistab harilike murdude arvutusreeglid algebralistele murdudele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "laiendab algebralisi murde",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "taandab ja laiendab algebralist murdu ning liidab, lahutab, korrutab ja jagab kaht algebralist murdu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "liidab ja lahutab kaht algebralist murdu.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb iseseisvalt ja mõistab õppematerjalides olevaid tekste.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ratsionaalavaldiste lihtsustamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "lihtsustab kahetehtelisi ratsionaalavaldisi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb iseseisvalt ja mõistab õppematerjalides olevaid tekste.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Pythagorase teoreem",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab ja rakendab Pythagorase teoreemi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tõestab Pythagorase teoreemi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab korrapärase hulknurga ümbermõõdu ja pindala (ruut, võrdkülgne kolmnurk, korrapärane kuusnurk)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab Pythagorase teoreemi, vajadusel Thalese teoreemi geomeetriaülesannete lahendamisel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab geomeetrilise sisuga probleemülesandeid (sh kasutades korrapärase hulknurga omadusi, Thalese teoreemi)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab probleemülesannete lahendamiseks hulknurkade sarnasust (nt maa-alade plaanistamine)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab tasandiliste kujundite (korrapärane hulknurk, kolmnurk, rööpkülik, romb, trapets, ring) joonelemendid, ümbermõõdu, pindala",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab IKT-vahendeid geomeetriliste seaduspärasuste avastamiseks või kontrollimiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab oma algebra- ja geomeetriateadmiste elulisi rakendusvõimalusi.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Täisnurkse kolmnurga trigonomeetria",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "leiab täisnurkse kolmnurga joonelemendid (sh kasutades trigonomeetrilisi seoseid)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab kalkulaatoriga teravnurga trigonomeetriliste funktsioonide väärtusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab geomeetrilise sisuga probleemülesandeid (sh kasutades korrapärase hulknurga omadusi, Thalese teoreemi)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab tasandiliste kujundite (korrapärane hulknurk, kolmnurk, rööpkülik, romb, trapets, ring) joonelemendid, ümbermõõdu, pindala",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab IKT-vahendeid geomeetriliste seaduspärasuste avastamiseks või kontrollimiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab oma algebra- ja geomeetriateadmiste elulisi rakendusvõimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab oma tõlgendusi ja põhjendusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ülesannete lahenduskäiku",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "otsib, loeb ja mõistab iseseisvalt õppematerjalides olevaid tekste",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Püramiid, silinder, koonus, kera",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "arvutab ruumiliste kujundite (püramiid, silinder, koonus, kera) joonelemendid, pindala ja ruumala",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab ja nimetab korrapärase püramiidi põhitahu, külgtahud, tipu; kõrguse, külgservad, põhiservad, püramiidi apoteemi, põhja apoteemi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab püramiidi pindala ja ruumala",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonestab püramiidi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, kuidas tekib silinder",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab silindri pindala ja ruumala",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, kuidas tekib koonus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab koonuse pindala ja ruumala",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, kuidas tekib kera",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab mõisteid sfäär ja kera.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab IKT-vahendeid geomeetriliste seaduspärasuste kontrollimiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab eakohaseid ning elulisi probleemülesandeid",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kordamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "oskab sooritada tehteid ratsionaalarvudega, lihtsamatel juhtudel astendada ja juurida",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kasutada protsendi mõistet ülesandeid lahendades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kasutada abivalemeid avaldiste lihtsustamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab lahendada lineaar- ja ruutvõrrandit",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab arvutada sündmuse toimumise klassikalist tõenäosust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida käsitletud planimeetriliste kujundite ümbermõõte ja pindalasid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab rakendada Pythagorase teoreemi ülesandeid lahendades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab arvutada püstprisma, püramiidi, silindri, koonuse ja kera pindala ning ruumala",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppevara ja viited",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://opetaja.edu.ee/hindamismudelid/",
+          "title": "Hindamismudelid"
+        },
+        {
+          "kind": "file",
+          "src": "https://haridus.ut.ee/sites/default/files/inline-files/edukoraamatkaanega_0.pdf",
+          "title": "Õppimine ja õpetamine I ja II kooliastmes"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisu.ut.ee/opikasitus/6-hindamine-n%C3%BC%C3%BCdisaegses-%C3%B5pik%C3%A4situses",
+          "title": "Hindamine nüüdisaegses õpikäsituses"
+        },
+        {
+          "kind": "link",
+          "href": "https://hev.edu.ee/30-2/",
+          "title": "Matemaatika tööraamat"
+        },
+        {
+          "kind": "link",
+          "href": "http://matemaatika.edu.ee/",
+          "title": "Matemaatika põhivara"
+        },
+        {
+          "kind": "link",
+          "href": "https://matematerjale.weebly.com/9-klass.html",
+          "title": "Materjale 9. klassile"
+        },
+        {
+          "kind": "link",
+          "href": "https://photomath.net/en/",
+          "title": "PhotoMath"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/31614-Algebralise-murru-laiendamine-ja-taandamine",
+          "title": "Esimene digitund"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/32088-Algebraliste-murdude-korrutamine",
+          "title": "Teine digitund"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/32180-Algebraliste-murdude-jagamine",
+          "title": "Kolmas digitund"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/32188-Uhenimeliste-algebraliste-murdude-liitmine-ja-lahutamine",
+          "title": "Neljas digitund"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/32207-Erinimeliste-algebraliste-murdude-liitmine-ja-lahutamine",
+          "title": "Viies digitund"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/32208--Kahetehteliste-ratsionaalavaldiste-lihtsustamine",
+          "title": "Kuues digitund"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis",
+          "title": "EIS"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/testid/9240",
+          "title": "EISi test"
+        },
+        {
+          "kind": "link",
+          "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/pohikooli-lopueksamid#materjalid",
+          "title": "Lõpueksamite materjalid"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.quia.com/rr/322874.html?AP_rand=1610170186&playHTML=1",
+          "title": "Miljonimäng mõistete kohta"
+        },
+        {
+          "kind": "link",
+          "href": "https://testidtg.wordpress.com/desmos/9-klass/?fbclid=IwAR2FOjxTfrSiGuAHKpT_OKkVCxHDhYlm6b-9Gtsq1SQ75PkWAwSaTj2V3Ck",
+          "title": "Desmos Teacher õppematerjalid"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.liikumakutsuvkool.ee/",
+          "title": "Liikuma kutsuv kool"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.hindamisvahendidmatemaatikas.ee/",
+          "title": "Hindamisvahendid matemaatikas"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=mbc3_e5lWw0"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=mX91_3GQqLY"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisuloome.e-koolikott.ee/node/21354",
+          "title": "Digiõppevaramu"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/61f3d61473e66a2c0d93ad46?collections=5e882307868c491ccadccbca"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/taxonomy/term/2377?page=1",
+          "title": "Ruutvõrrandi lahendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/kogumik/19372-Ruutvorrandid",
+          "title": "Ruutvõrrandid"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.mathopenref.com/quadraticexplorer.html",
+          "title": "Quadratic Explorer"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/15841-Ruutfunktsiooni-graafik",
+          "title": "Ruutfunktsiooni graafik"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5f8352fcc59da569773b0a5f?lang=et"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5f835de00a044d0d0fb8c903?lang=et"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/18045-Ratsionaalavaldiste-lihtsustamine-TEOORIA-NAITED",
+          "title": "Ratsionaalavaldiste lihtsustamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/16751-Pythagorase-teoreem",
+          "title": "Pythagorase teoreem"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=lanEc7tnFZo"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.ahora.ee/trigonomeetria/",
+          "title": "Trigonomeetria testid"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/61c5e4e8ffb0a2090894aabb"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5f8352fcc59da569773b0a5f?lang=et"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5f835de00a044d0d0fb8c903?lang=et"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/604c65e9876e4b51d58bf0c9?lang=et"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/603602d0c0f23b42f4b39f91"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/61e29506797c6db674b9ea72"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/24950-Geomeetrilised-kehad",
+          "title": "Geomeetrilised kehad"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.mathopenref.com/tocs/solidtoc.html",
+          "title": "Ruumilised kehad"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Ijuq3wjpZxs"
+        },
+        {
+          "kind": "link",
+          "href": "http://kehad.weebly.com/",
+          "title": "Ruumilised kehad"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=YCEo_pYbyOs"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=rMmyga0OzHc"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=i-d8qgNusrA"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=mPUZYHs3wGk"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5f6254356c59ef0ca6445c0b"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5fa448692bf4d70ccaff6206"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5fb189d22351dd0b9c24d1fc"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/61c82745a02d2e0aa0413ba4"
+        },
+        {
+          "kind": "embed",
+          "src": "https://teacher.desmos.com/activitybuilder/custom/5eddd1a125ef086edb499c03"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/ruumilisedkehad/avaleht",
+          "title": "Õpilastöö ruumiliste kehade kohta"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/ruumilisedkehad/koonus",
+          "title": "Koonuste joonised"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=rCNNjllk0Ws"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=YCEo_pYbyOs&t=18s"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=w50KzNDwCW4"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=aouVg5tQRNk"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=hLBeT9DTI_I"
+        },
+        {
+          "kind": "link",
+          "href": "https://testidtg.wordpress.com/desmos/pohikool-desmos/",
+          "title": "Põhikooli Desmos"
+        },
+        {
+          "kind": "link",
+          "href": "http://passyworldofmathematics.com/sydney-harbour-bridge-mathematics/",
+          "title": "Sydney Harbour Bridge mathematics"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/hindamisvahendidmatemaatikas/9-klass",
+          "title": "Hindamisvahendid 9. klassile"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.geogebra.org",
+          "title": "GeoGebra"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.desmos.com/",
+          "title": "Desmos"
+        },
+        { "kind": "link", "href": "http://thatquiz.org", "title": "ThatQuiz" },
+        { "kind": "link", "href": "http://quizizz.com", "title": "Quizizz" },
+        {
+          "kind": "link",
+          "href": "https://quizizz.com/admin/quiz/5d8bb505f0b804001ae29850/ruutfunktsioon",
+          "title": "Ruutfunktsioon"
+        },
+        { "kind": "link", "href": "http://99math.com", "title": "99math" },
+        {
+          "kind": "link",
+          "href": "https://passyworldofmathematics.com/sydney-harbour-bridge-mathematics/",
+          "title": "Sydney Harbour Bridge mathematics"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.guggenheim.org/artwork/1924",
+          "title": "Guggenheimi kunstiteos"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.youtube.com/playlist?list=PL70HIWp0tGWDvYAaiP-cUoCDPeK1tNrBU",
+          "title": "YouTube esitusloend"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/mat-digitund/2022-aastal-valminud-digitunnid-ja-%C3%BCldised-soovitused",
+          "title": "Matemaatika digitunnid"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/h5p/embed/5861",
+          "title": "E-koolikoti H5P materjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/h5p/embed/5850",
+          "title": "E-koolikoti H5P materjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisuloome.e-koolikott.ee/node/7858",
+          "title": "E-koolikoti materjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/32207-Erinimeliste-algebraliste-murdude-liitmine-ja-lahutamine/295366#295370-Matemaatilise-tulemuse-tolgendamine-Aktsia-hinna-maaramise-olukord",
+          "title": "Matemaatilise tulemuse tõlgendamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://nrich.maths.org/",
+          "title": "NRICH"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/node/3029",
+          "title": "E-koolikoti materjal"
+        },
+        {
+          "kind": "file",
+          "src": "https://welovemath.ee/wp-content/uploads/2017/08/%C3%9Clesannete-n%C3%A4idislahendused_Geomeetria.pdf",
+          "title": "Ülesannete näidislahendused geomeetrias"
+        },
+        {
+          "kind": "link",
+          "href": "https://bestmaths.net/online/index.php/year-levels/year-10/year-10-topics/pythagoras-theorem/test/",
+          "title": "Pythagorase teoreemi test"
+        },
+        {
+          "kind": "link",
+          "href": "https://opik.fyysika.ee/index.php/book/section/1923#/section/1923",
+          "title": "Füüsika õpik"
+        },
+        {
+          "kind": "link",
+          "href": "https://opik.fyysika.ee/index.php/book/section/9506#/section/9506",
+          "title": "Füüsika õpik"
+        },
+        {
+          "kind": "link",
+          "href": "https://ojs.utlib.ee/index.php/EHA/article/view/eha.2021.9.1.09",
+          "title": "Õpistrateegia"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/Valemid%209_kl.pdf?version=1&modificationDate=1736162986031&api=v2",
+          "title": "Valemid 9. klass"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesannete joonised",
+      "children": [
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddav11f342a58fdc3b4e3f97b21cf7b6aff6.png?version=1&modificationDate=1736162986102&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddavb35ecbae8b5037da4490466b5865ac76.png?version=1&modificationDate=1736162986098&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddav17bbde0e1636bb0f08781b53d81940a6.png?version=1&modificationDate=1736162986093&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddavaedcb75674e57fe85d7a3f6b33e501f3.png?version=1&modificationDate=1736162986090&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddav5de47b18ad76bbe0adddf0a5f2616496.png?version=1&modificationDate=1736162986086&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddav11799df2bad14139338e2457951f5af6.png?version=1&modificationDate=1736162986083&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddavb9bdc61c6a7876d38728cbfa24709a34.png?version=1&modificationDate=1736162986079&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddava1c5eb1b2a45109b1b2635a18174c307.png?version=1&modificationDate=1736162986075&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddavef74933d254a96a4e13683ef41cf26ab.png?version=1&modificationDate=1736162986066&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddav3000b06ffc2071c8c9243b0754806d3a.png?version=1&modificationDate=1736162986071&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddav5a1438c11f2ea77e25d77267a7e3e68a.png?version=1&modificationDate=1736162986062&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddav558c6faab6c09be27071ea62e41e24e1.png?version=1&modificationDate=1736162986057&api=v2"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/267884079/worddavbb5253815a0f4eadc870df0fd486d52c.png?version=1&modificationDate=1736162986043&api=v2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Teema: Metallid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "hindab metallide keemilist aktiivsust ja prognoosib keemilisi omadusi, lähtudes vastava elemendi asukohast perioodilisustabelis ja pingereas, koostab selle põhjal reaktsioonivõrrandeid vastava metalli reageerimisest mittemetalliga, veega, lahjendatud hapete ja soolade lahustega;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "uurib ja võrdleb praktiliselt metallide keemilist aktiivsust, kasutades selleks metallide reageerimist veega ning hapete ja soolade lahustega;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab õpitud metallide ja nende sulamite rakendamise võimalusi praktikas, seostades neid materjalide omadustega;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab levinumaid metallide looduslikke ühendeid ja nende rakendusi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab metallide saamise põhimõtet metalliühendite redutseerimisel ning korrosiooni metallide oksüdeerumisel;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab korrosiooni ja metallide tootmisreaktsioonide energeetilist efekti, põhjendab nende vastassuunalisust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "uurib korrosiooni, valib ja põhjendab esemete korrosioonikaitseks sobivaid võimalusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib metallidega seotud redoksprotsesside toimumise üldisi põhimõtteid elektrolüüsi, korrosiooni ja keemilise vooluallika korral;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "lahendab arvutusülesandeid reaktsioonivõrrandite järgi, arvestades saagise- ja kaoprotsenti ning lisandeid;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ülevaade metallide iseloomulikest füüsikalistest ja keemilistest omadustest. Metallide keemilise aktiivsuse võrdlus; metallide pingerida. Metallid ja nende ühendid igapäevaelus ning looduses. Metallidega seotud redoksprotsessid: metallide saamine maagist, elektrolüüs, korrosioon, keemilised vooluallikad. Saagise- ja kaoprotsendi ja lisandite arvestamine moolarvutustes reaktsioonivõrrandi järgi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>maak, elektrolüüs, korrosioon, keemiline vooluallikas, saagis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>metallide füüsikaliste omaduste ja keemilise aktiivsuse võrdlemine;</li><li>metallide korrosiooni mõjutavate tegurite ning korrosioonitõrje võimaluste uurimine ja võrdlemine;</li><li>metallide tootmise, elektrolüüsi ja keemilise vooluallika uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Metalle, metallisulameid ja metalliliste elementide ühendeid kasutatakse praktiliselt igal pool: konstruktsioonimaterjalina ehituses, liiklusvahendite, seadmete ja tööriistade valmistamiseks, vooluallikates jne. See teema keskendubki metallidele: metallide füüsikalistele ja keemilistele omadustele, metallide tootmisele ning metallide kasutamisele, sh elektrotehnikas. Tähelepanu pööratakse metallide kasutamisega seotud probleemidele, sh metallide tootmisprotsesside keskkonnaaspektidele ning korrosioonile.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>On oluline märgata, et kursuses ei käsitleta metallilisi elemente rühmade kaupa, vaid võrdlevalt. Kõrvutatakse erinevate metallide keemilist aktiivsust, toetudes enda läbi viidud katsetele ning seostatakse nende tulemusi metallide elektrokeemilise aktiivsuse reaga (pingereaga), tehes ühtlasi järeldusi metalli keemiliste omaduste kohta pingerea põhjal. Teema teine mõtteline pool on väga tugevasti seotud tööstuskeemiaga: metallurgia on oluline tööstusharu.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selle teema õppimisel ning õppe planeerimisel on oluline leida hea tasakaal konkreetsete näidete (metallide ja protsesside) ning üldiste printsiipide tundmaõppimise vahel. Ühelt poolt on oluline vältida liigsetesse detailidesse laskumist, st ei ole otstarbekohane õppida metallilisi elemente tundma rühmade kaupa, vaid keskenduda võrdlevale käsitlusele ning üldprintsiipide tundmaõppimisele. Teisalt on aga põhimõtetest arusaamiseks uurida konkreetseid näiteid ja rakendusvõimalusi, kusjuures sel juhul võiks eelistada näidete valimisel olulisemaid (rohkem kasutatavaid) metalle.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Oluline on suunata õpilasi märkama metallide ja metallisulamiste rakendusi argielus: kuidas ja milleks kasutatakse rauasulameid terast ja malmi; alumiiniumit ja alumiiniumisulameid; vaske ja vasesulameid, tsinki jm. Kuna põhikooliõpingutes on samuti tutvutud olulisemate metallidega, siis toetub käsitlus varasematele teadmistele. Metallide tootmist ning korrosiooni, rääkimata elektrokeemiaga seotud teemadest aga põhikoolis sellisel kujul käsitletud ei ole. Esiplaanil peaksid olema õpitust tehtavad argieluliste rakendusvõimaluste ja otsustega seotud küsimused.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Arvutusülesannete lahendamine saagise- ja kaoprotsendi ja lisandite arvestamisega on mõistlik siduda metallide tootmise temaatikaga.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ainetundides on tähtis anda piisavalt aega praktilisteks töödeks, näiteks:</p><ul><li>uurida erineva aktiivsusega metallide reageerimise suhtelist kiirust sama kontsentratsiooniga soolhappe lahusega; võrdlemiseks sobivad hästi magneesium, alumiinium (pinda katab oksiidikiht, keemilise reaktsiooni algus mõnevõrra &quot;viibib&quot;), tsink, raud, vask;</li><li>uurida erineva aktiivsusega metallide reageerimist veega ja moodustuvaid saadusi; nt võrrelda kaaliumi (näitkatse), naatriumi, kaltsiumi ja magneesiumi reageerimist veega; tulemuste interpreteerimiseks kasutada kursuses &quot;Keemia alused&quot; omandatud teadmisi aatomi ehitusest;</li><li>uurida erinevate metallide ja vastavate metalliliste elementide soolalahuste vahelisi keemilisi reaktsioone; seda on sobiv teha avastusõppe formaadis;</li><li>uurida kontakti aktiivsema ja vähemaktiivsema metalliga mõju terasest naela korrosiooni kiirusele; selleks on hea kasutada kergelt happelise keskkonnaga lahust, millesse on lisatud punast veresoola (värvub raud(II)-ioonide moodustumisel siniseks); üks terasest nael viiakse kontakti nt alumiiniumiga, teine nt vasega ja kolmas jääb võrdluseks; seda tööd saab üles ehitada mitmel viisil, sh anda õpilastele ülesanne katse ise disainida;</li><li>uurida erinevate metalliliste elementide soolade vesilahuste elektrolüüsi saaduseid; nt kõrvutada naatriumkloriidi ja vask(II)kloriidi lahuse elektrolüüsi või naatriumnitraadi ja plii(II)nitraadi lahuse elektrolüüsi; efektne on kindlasti ka kaaliumjodiidi vesilahuse elektrolüüs; nende praktiliste tööde puhul pöörata olulist tähelepanu sellele, mis on vaadeldavad muutused ja saadused kindla laenguga elektroodil (st jälgida, kumma vooluallika poolusega elektrood ühendatud on); elektroodina saab kasutada pliiatsite täitesütt;</li><li>valmistada ise keemilist vooluallikat; koostöös füüsikaõpetajaga annab see teema võimalusi väga erinevate vooluallikate koostamiseks ja nende töö uurimiseks; lihtsama vooluallika saavad õpilased kombineerida puhastatud vaskmüntide, alumiiniumfooliumist lõigatud rataste, papitükkide ja äädikhappe lahuse abil - sellega saab süüdata punase LEDi; multimeetriga on võimalik mõõta erinevate galvaanielementide elektromotoorjõudu (nullvoolupotentsiaali), komplekteerides erinevaid galvaanielemente nt magneesiumi, tsingi, nikli, raua ja vase ning vastavate soolade abil, soolasillana saab kasutada kaaliumnitraadi immutatud paberit.</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Metallide keemiliste omaduste tundmaõppimist seostada varasemate teadmistega: põhikoolis omandatuga redoksreaktsioonidest ning kursuses &quot;Keemia alused&quot; omandatust keemiliste reaktsioonide kohta, sh ioonsel kujul. Muundumisi käsitleda nii makro-, mikro- kui ka sümboltasandil, seejuures vastavaid seoseid märgates, kuid neid tasandeid selgelt eristades.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>sooritab paaristööna või suuremates rühmades uurimuslikke praktilisi töid metallide keemiliste omaduste võrdlemisest ja korrosioonist ning elektrolüüsist; kogub katsete käigus andmeid, analüüsib ning esitab neid, sh graafiliselt (õpipädevus, suhtluspädevus, digipädevus, LT 1, 2, 3, 5);</li><li>koostab lühiülevaate ühe metalli ja selle sulamite tootmisest, tootmisprotsessi keskkonnamõjudest (ja nende leevendamisest) ning kasutusvõimalustest, vormistab ülevaate korrektselt (õpipädevus, sotsiaalne ja kodanikupädevus, suhtluspädevus, digipädevus, LT 1, 2, 5, 6, 7, 8);</li><li>arutlevad paaristööna, kuidas on metallide ja metallisulamite kasutuselevõtt muutnud ühiskonda ja inimeste igapäevast elu; arutelu saab kitsendada erinevatele ajaperioodidele, nt muinas- ja antiikaeg või tööstuspöörde periood (kultuuri- ja väärtuspädevus, suhtluspädevus, LT 1, 6);</li><li>komplekteerib paaristööna või rühmas keemilise vooluallika ning kasutab seda, nt LEDi süütamiseks (suhtluspädevus, ettevõtlikkuspädevus, LT 1, 2, 4, 6);</li><li>loeb ja analüüsib (populaarteaduslikku) artiklit või teksti, mis käsitleb &quot;rohemetalle&quot; / metalle, mis on tarvilikud 21. sajandi energiavaldkonna väljakutsete lahendamiseks (sotsiaalne ja kodanikupädevus, õpipädevus, LT 5, 6, 7, 8);</li><li>osaleb ajurünnakus rauasulamite korrosioonikaitse võimalustest, mille rakendamisega on ise argielus kokku puutunud; valib erinevate esemete kaitsmiseks sobiva korrosioonikaitse viisi ja põhjendab oma valikut (suhtluspädevus, ettevõtlikkuspädevus, LT 3, 4, 6).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>See teema lõimub kõige tugevamini põhikooli ja gümnaasiumi füüsikaga (elektrivoolu toimed, elektrivool metallides ja vedelikes) ning geograafiaga (loodusvarade majandamine).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema õppimise käigus on õpetajal võimalik (kujundavalt) hinnata õpilaste uurimuslike tööde aruandeid, disainitud keemilist vooluallikat ning selle esitlemist, ülevaateid jm. Hindamine peaks kajastama õpilase teadmisi, oskusi ja hoiakuid ning suunama teda edasistele õpingutele. On oluline, et õpilased mõistaksid hindamise eesmärke. Nende mõistmist toetavad mitmesugused hindamismudelid (<a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">Vt näiteid</a>), mida õpilased saavad kasutada nii enese kui kaaslaste hindamiseks. Õpilast abistavad ka mitmesugused enesetestimise võimalused, mis annavad sooritusele kohest tagasisidet. Sellised keskkonnad on näiteks <a href=\"http://quizizz.com\">quizizz.com</a>, <a href=\"http://quizlet.com\">quizlet.com</a>, kahoot (<a href=\"https://create.kahoot.it/auth/login\">https://create.kahoot.it/auth/login</a>), wizer.me, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Teema võib lõpetada kontrolltöö/testiga. Õpetaja võib suunata õpilasi ka ise teste koostama ja neid lahendama. Õppimise jooksul kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panemiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema on kaetud e-koolikotis järgmise õppevaraga, mis sisaldavad teooriat ning mitmel tasemel harjutusülesandeid (suur osa enesekontrolli võimalusega):</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229128",
+              "title": "Metallide keemilised omadused"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229130",
+              "title": "Metallide füüsikalised omadused"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229132",
+              "title": "Metallidele iseloomulikud keemilised reaktsioonid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229137",
+              "title": "Metallid looduses"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229139",
+              "title": "Tuntumad metalliühendid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229141",
+              "title": "Metallide tootmine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229143",
+              "title": "Metallid ja nende sulamid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229145",
+              "title": "Metallide korrosioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229147",
+              "title": "Elektrolüüs"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229149",
+              "title": "Keemiline vooluallikas"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19762-2-1-Metallid/229167",
+              "title": "Arvutusülesanded saagise ja kaoga"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eestikeelsed õppevideod (eriti kordamiseks), näiteks:</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=CGAeWeG2Kus"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=EwiL-4H361U"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Veebis on heade selgitustega (ingliskeelsed) õppevideod metallide tootmisest ja elektrolüüsist, näiteks:</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=4x2ZCSr23Z8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=NW1k4wNEq14"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=iTytvWs5nV8"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilastele, kes soovivad lahendada enam nuputamist nõudvaid ülesandeid ja/või süveneda põhjalikumalt, on heaks õppevaraks keemiaolümpiaadi ülesanded - nii Tallinna koolivooru kui ka piirkonnavooru ja lõppvooru ülesanded.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://olympiaadid.haridus.ee/",
+              "title": "Keemiaolümpiaadi ülesanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eko.ut.ee/",
+              "title": "Keemiaolümpiaadi ülesanded"
+            },
+            {
+              "kind": "file",
+              "src": "https://olympiaadid.haridus.ee/failid/2022_2023_KV_10_%C3%9Clesanded.pdf",
+              "title": "Näide 1. keemiaolümpiaadi 2022.-2023. õa Tallinna koolivooru ülesanne metallidest ja nende tootmisest - ülesanne nr 4"
+            },
+            {
+              "kind": "file",
+              "src": "https://olympiaadid.haridus.ee/failid/2023_10_%C3%9Clesanded.pdf",
+              "title": "Näide 2. keemiaolümpiaadi 2023.-2024. õa Tallinna koolivooru ülesanne metallide ja nende ühendite keemilistest omadustest - ülesanne nr 2"
+            },
+            {
+              "kind": "file",
+              "src": "https://olympiaadid.haridus.ee/failid/[8916221]2020_KV_11_EK.pdf",
+              "title": "Näide 3. keemiaolümpiaadi 2020.-2021. õa Tallinna koolivooru ülesanne metallide elektrokeemilisest aktiivsuset - ülesanne nr 4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Mittemetallid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "seostab tuntumate mittemetallide ning nende tüüpühendite keemilisi omadusi vastava elemendi asukohaga perioodilisustabelis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "uurib õpitud mittemetallide ja nende ühendite iseloomulikke omadusi ning koostab vastavate keemiliste reaktsioonide võrrandeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab õpitud mittemetallide ja nende ühendite tähtsust looduses ja/või rakendamise võimalusi praktikas, seostades seda vastava keemilise elemendi ja ainete omadustega.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ülevaade mittemetallide füüsikalistest ja keemilistest omadustest olenevalt elemendi asukohast perioodilisustabelis. Mittemetallide keemilise aktiivsuse võrdlus. Mõne mittemetalli ja tema ühendite käsitlus (vabal valikul, looduses ja/või tööstuses kulgevate protsesside näitel).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [{ "kind": "text", "html": "<p>allotroopia.</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>mittemetallide ja/või nende iseloomulike ühendite saamine, omaduste uurimine ning võrdlemine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema on oluline, et vastavalt õpetaja valikule saab õpilane ülevaate erinevatest mittemetallidest ning nende ühendistest. Mittemetallid moodustavad mitmesuguseid erinevaid aineringeid, mille olemust käsitletakse erinevates loodusteadustes ning mille mõju tunnevad inimesed enda igapäevaelus. Üha suuremat rõhku pöörame meid ümbritsevale kliimale ja tootmisprotsesside käigus loodusesse tulvavatele ühenditele. Eeltoodud protsesside mõistmine annab aluse mõista, kuidas ja miks on vaja hoida meid ümbritsevat keskkonda.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esmased teadmised antud teemast on õpitud juba põhikoolis nii keemia- kui teiste loodusainete tundides. Antud teemaplokis on õpetajal teemade valikuks suur autonoomia. Õpetajal on võimalus valida, milliste elementide ühendeid õpitakse tundma ning kui sügavuti neid tundma õpitakse. On oluline, et õpilased mõistaksid mittemetalliliste elementide ühiseid omadusi (nt: võivad omada nii positiivset kui negatiivset oksüdatsiooniastet jmt).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Antud teemat on hea õpetada analüüsides erinevaid ainete ringeid. Kuna õpilased tegelevad järgmisel aastal süsinikuühenditega, siis oleks pigem soovituslik analüüsida lämmastiku-, väävli- ja fosforiringet. Vaadata võiks nende elementide sattumist looduskeskkonnast (nt maavaradest, atmosfäärist vmt) inimeste igapäevaellu, millist mõju avaldavad ühendid elusorganismidele ning millel põhineb nende ringe looduses.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Võib analüüsida ka halogeene ning mõtestada, millistes protsessides halogeenühendid osalevad või vesinikku, hapnikku ja süsinikuühendeid.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teema oskuslikul planeerimisel on võimalus lasta õpilastel luua rühmatööna plakat/ mõiste/idee/mõttekaart erinevate loosiga võetud aineringete kohta (sellisel juhul on soovituslik anda ette, millised reaktsioonid ja ühendid peavad plakatil kajastuma). Kui klassis on mitmeid rühmi, siis sama ringe plakati koostajad korduvad. Plakatitest võiks anda ülevaate kogu klassile- näiteks teised õpilased teevad märkmeid erinevate ainete valemite ja neile iseloomulike reaktsioonide kohta. Plakateid võivad esitada ka kõik sama elementi käsitlenud rühmad koos. Samas võib plakatid panna ka klassiruumis laiali ning anda õpilastele tööleht, millel on ainete nimed ning üldised kokkuvõtted, mida peaks saama antud plakatidelt. Eeltoodu innustaks õpilasi teiste loodud kokkuvõtteid vaatama ja ka hindama. Õpilastele tuleb toonitada, et alati tuleb olla info suhtes kriitiline ning kui plakatil olev info ei tundu tõene, siis tuleks erinevaid samal teemal põhinevaid plakateid võrrelda ning leida korrektne vastus. Kõikide ringete läbimisel võiks vaadata õpilastega elementide oksüdatsiooniastmete muutusi.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Antud teemavaldkonnas on võimalik teha ka praktilisi tegevusi. Näiteks:</p><ol><li>Väävliringet tutvustades saab tutvustada lihtainena väävlit, seda põletada ning juhtida vette, millesse on lisatud pH-meeter või indikaator. Seejuures saab tutvustada vulkaaniliselt aktiivsete keskkondade probleeme või tuua näide, et kütuste põlemisel paiskub atmosfääri vääveldioksiidi.</li><li>Fosforiringet tutvustades on võimalik näidata fosforit lihtainena, seda põletada. Näidata, kuidas fosforhape reageerib mõne aluse/metalliga.</li><li>Lämmastikuringe juures võiks veelkord meenutada õpilastele ammooniumiühendite aluselisust (seejuures sobib demonstratsioonkatseks ammoniaagi purskkaevu katse). Kuna tööstusprotsessidest paiskub õhku lämmastikdioksiidi, mis võib moodustada kõrgema temperatuuriga linnades Los Angelese sudu, siis võiks näidata kontsentreeritud lämmastikhappe ja vase vahelist reaktsiooni ning näidata protsessi käigus moodustuvad rebasesabagaasi, mille juhtimisel vette muutub vesi happeliseks (seda saaks määrata pH-meetri või indikaatoriga). Võib tuua ka näite vase iooni ja ammoniaagi vahelisest kompleksist, millel on väga intensiivne sinine värvus.</li></ol>"
+            },
+            {
+              "kind": "section",
+              "title": "Diferentseerimisvõimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Diferentseerimise vajalikkus sõltub sellest, kuidas õpilastega teema läbitakse ning millised eesmärgid õpilastele seatakse. Kui teemat läbitakse rühmades, siis leiavad aeglasemad õpilased tuge neist, kes liiguvad antud valdkonnas kiiremini.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Võimalikud väärarusaamad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Väärarusaamade teke sõltub taas sellest, kuidas tööprotsessi läbi viiakse. Kui õpilased töötavad ainult rühmades ning õpetaja ei oma ülevaadet, millega õpilased hetkel tegelevad, siis võivad nad leida erinevate allikate põhjal erinevat infot, millest osa võib olla väärinfo. Avastusõppe läbiviimisel on oluline see, et õpilaste tekitatud teadmised oleksid korrektsed ning toetaksid nende järgnevaid õpinguid. Väärarusaamu on raske muuta.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>toob näiteid erinevatest mittemetallidest ning nende omadustest (õpipädevus; LT 2, 3);</li><li>toob näiteid erinevatest mittemetallide ringetest ning selgitab nende mõju inimestele ning keskkonnale (õpipädevus, LT pädevus 1, 2, 3, 7);</li><li>selgitab erinevate aineringete ja ühendite rolli igapäevaelus (LT 1, 2, 3, 7);</li><li>planeerib katsed, et uurida erinevate mittemetallide ja nende ühenditega seotud keemilisi reaktsioone (õpipädevus, LT 4);</li><li>uurib erinevaid mittemetallide ja nende ühenditega seotud keemilisi reaktsioone (LT pädevus 4);</li><li>koostab infootsingu põhjal aineringet iseloomustava mõiste/idee/mõttekaardi või plakati (sotsiaalne ja kodanikupädevuspädevus, suhtluspädevus, õpipädevus, kultuuri- ja väärtuspädevus, LT 5, 6);</li><li>külastab näiteks veepuhastusjaama või pakendisorteerimiskeskust, kus mõtestab looduskaitse vajalikkust (kultuuri- ja väärtuspädevus, LT 8);</li><li>tutvub erinevate ametitega, mis on seotud looduskaitsega (näiteks mõne ettevõtte külastamisel) (LT 2, 6, 8, enesemääratluspädevus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>antud teemaga on seostatud erinevad loodusteaduslikud ained (bioloogia, geograafia, inimeseõpetus), aga ka ühiskonnaõpetus ja ajalugu. Mittemetallid on mõjutanud ja mõjutavad ka edaspidi kogu elusloodust (sh inimkonda tervikuna). Selleks, et osata hinnata ning mõista meid ümbritsevat keskkonda ning inimmõju keskkonnale on vajalik mõista erinevate mittemetalliliste ainete aineringeid. Samuti omandatakse antud teemaplokis üldised teadmised mittemetallides, mida rakendatakse edasi orgaanilise keemiaga seotud kursuses.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema õppimise käigus on õpetajal võimalik (kujundavalt) hinnata õpilaste aineringete kohta koostatud kokkuvõtteid, praktiliste tööde aruandeid, disainitud keemilist vooluallikat ning selle esitlemist, ülevaateid jm. Hindamine peaks kajastama õpilase teadmisi, oskusi ja hoiakuid ning suunama teda edasistele õpingutele. On oluline, et õpilased mõistaksid hindamise eesmärke. Nende mõistmist toetavad mitmesugused hindamismudelid (<a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">Vt näiteid</a>), mida õpilased saavad kasutada nii enese kui kaaslaste hindamiseks. Õpilast abistavad ka mitmesugused enesetestimise võimalused, mis annavad sooritusele kohest tagasisidet. Sellised keskkonnad on näiteks <a href=\"http://quizizz.com\">quizizz.com</a>, <a href=\"http://quizlet.com\">quizlet.com</a>, kahoot (<a href=\"https://create.kahoot.it/auth/login\">https://create.kahoot.it/auth/login</a>), wizer.me, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Teema võib lõpetada kontrolltöö/testiga. Õpetaja võib suunata õpilasi ka ise teste koostama ja neid lahendama. Õppimise jooksul kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panemiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19832-2-2-Mittemetallid",
+              "title": "Teoreetiline ja täiendav materjal ja ülesanded e-Koolikotis ülesanded"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teoreetline ja täiendav materjal ning ülesanded Tartu ülikooli lehelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisu.ut.ee/huvitavkeemia/book/5-mittemetallid",
+              "title": "Teoreetline ja täiendav materjal ning ülesanded Tartu ülikooli lehelt"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Vaatamiseks sobivad erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele videote valikul pöörata tähelepanu ka aine korrektsusele. Tundides on kasutatud näiteks videoid:</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=WYL7o61DKb4"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Bn41lXKyVWQ"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=AbyqVFcLsBE"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=uip4Q6t7yfQ"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=3CafICEol0A"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=M5hE6-_wSSM"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mitmeid huvitavaid katsete selgitusi ning videoid on toodud keskkonnas:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@FlinnScientific",
+              "title": "FlinnScientific"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=QwCK9Mx4Noc"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mitmeid kasulikke videoid keemia õpetamiseks leidub youtube keskkonnas:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@crashcourse",
+              "title": "crashcourse"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=leHy-Y_8nRs"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@Cognitoedu",
+              "title": "Cognitoedu"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ScY_Yb1V8AY"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@TEDEd",
+              "title": "TEDEd"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=WIdWjqZsGgg"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@fuseschool",
+              "title": "fuseschool"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=vZ9b5c8BOT4"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mitmeid väga kasulikke juhiseid ja näpunäiteid leidub kõikidele teemadele keskkonnast Royal Society of Chemistry.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.rsc.org/",
+              "title": "Royal Society of Chemistry"
+            },
+            {
+              "kind": "link",
+              "href": "https://edu.rsc.org/experiments/precipitation-reactions-of-lead-nitrate/515.article",
+              "title": "Royal Society of Chemistry õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://edu.rsc.org/download?ac=12621",
+              "title": "Lämmastikuringe"
+            },
+            {
+              "kind": "link",
+              "href": "https://edu.rsc.org/download?ac=12614",
+              "title": "Fosfori ja väävliringed"
+            },
+            {
+              "kind": "link",
+              "href": "https://edu.rsc.org/experiments/some-reactions-of-sulfur-dioxide/534.article",
+              "title": "SO₂ saamine laboris"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Täiendavaid teemakohaseid materjale keemia teadmisi kiiremini omandavale õpilasele võib leida:</p><p>4) erinevaid ülesandeid keemiast enam huvitatud õpilastele on võimalik leida olümpiaadide lehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://olympiaadid.haridus.ee/",
+              "title": "Olümpiaadide ülesanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eko.ut.ee/",
+              "title": "Olümpiaadide ülesanded"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

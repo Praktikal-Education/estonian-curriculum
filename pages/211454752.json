@@ -1,0 +1,262 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "1. KURSUS    ARVUHULGAD JA AVALDISED",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>korrata ja teadvustada arvude maailma ning arvutamise maailma põhimõisteid;</li><li>laiendada seda ratsionaal- ja irratsionaalavaldistele.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika kasutamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt;</li><li>suutlikkus põhjendada ja tõestada oma mõttekäike ning luua üksikteadmistes süsteemi;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks suunata õpilast esitama iseendale küsimusi: mida ma teen; miks ma nii teen; milleni ma olen jõudnud ning kas tulemus on õige ja kontrollitav.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>põhikooli õppekavas kirjeldatud teadmised algebrast.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ARVUHULGAD",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "leiab hulkade ühendi, ühisosa ja antud hulga osahulga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab naturaalarvude hulga N, täisarvude hulga Z, ratsionaalarvude hulga Q, irratsionaalarvude hulga I ja reaalarvude hulga R omadusi ja nende hulkade kuuluvusseoseid, märgib arvteljel reaalarvude piirkondi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hulk, hulga element, osahulk, tühi hulk, hulkade ühend ja ühisosa.</p><p>Naturaalarvude hulk N, täisarvude hulk Z, ratsionaalarvude hulk Q, irratsionaalarvude hulk I, reaalarvude hulk R, nende omadused ja kuuluvusseosed. Reaalarvude piirkonnad arvteljel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Soovitus on alustada arvuhulkadest N, Z, Q, I, R; vaadelda võiks hulkade omadusi aritmeetiliste tehete suhtes.</p><p>Käsitleda, et iga ratsionaalarv avaldub lõpmatu perioodilise kümnendmurruna ja vastupidi – iga lõpmatut perioodilist kümnendmurdu saab esitada hariliku murruna.</p><p>Korrata jäägiga jagamist ning jaguvustunnuseid. Rõhutada, et jaguvust käsitletakse täisarvude hulgas, jäägiga jagamist ning paaris- ja paarituid arve naturaalarvude hulgas.</p><p>Täisarvude korral peaks tutvustama arvu vastandarvu mõistet, et oleks üheselt arusaadav, miks $-(-45)=45$. Märkida võiks ka arvuga 0 jagamist kui sellist, mida ei ole võimalik sooritada.</p><p>Tähelepanu tuleb pöörata sellele, et iga kahe ratsionaalarvu vahel leidub veel ratsionaalarve.</p><p>Reaalarvude piirkondade teema on hädavajalik, et edaspidi tekstist aru saada ja ühesugust märgistust kasutada. Käsitletakse mõisteid lõik, (lõpmatu) poollõik, (lõpmatu) vahemik; hulkade ühend, ühisosa ja vahe. Tähelepanu võiks juhtida järgmisele:</p><ol><li>kui $A=\\{x\\mid-4\\leq x\\leq 3\\wedge x\\in Z\\}$, siis mis tahes lause on tõene: $-4\\in A; 3\\in A; 1,5\\not\\in A;$</li><li>$x\\in R$ on samaväärne $x\\in(-\\infty;\\infty)=]-\\infty; \\infty[;$</li><li>$B=]-2;3]=(-2;3];$</li><li>$x\\in(-\\infty;2)\\cup[5;\\infty)=R\\setminus[2;5)$.</li></ol><p>Hulgasümboolikat tuleb õpetada samal ajal reaalarvude piirkondadega, kuna põhikoolis hulgateooriat ei õpetata.</p><p>Reaalarvu absoluutväärtuse puhul tuleb kõiki püstitatud probleeme lahendades lähtuda alati definitsioonist ja graafilisest tõlgendusest.</p><p>$\\vert-5\\vert=-(-5)=5,$</p><p>või</p><p>$\\vert x-3\\vert=\\begin{cases} -(x-3), &amp; x-3&lt;0\\\\ x-3, &amp; x-3\\geq 0 \\end{cases}$</p><p>Oluline on kindlasti käsitleda tehteid arvu 10 astmetega ning arvu viimist standardkujule, see toetab füüsikat ja keemiat.</p><p>Arvuhulkade õpetamise kõrvalt saab iseseisvaks kordamiseks lahendada protsentülesandeid.</p><p>Võimekamad õpilased võiksid naturaalarvude hulga juures peatuda arvuhulga järgnevuse omadusel ning käsitleda tõestusmeetodina täielikku matemaatilist induktsiooni. See võimaldab tõestada erinevaid teoreeme, mis on seotud naturaalarvude hulgaga, ning annab oskuse püstitada hüpoteesi ja seejärel see tõestada.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "embed",
+              "src": "https://teacher.desmos.com/activitybuilder/custom/5e9ad0e6fadc2416999c94ee?lang=et#preview/85a7f8bf-721c-41d9-9e90-11a1354cdd65"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19316-Taisarvude-hulk/224827",
+              "title": "Jaguvuse tunnused"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19376-Reaalarvude-piirkonnad/225404",
+              "title": "Reaalarvude piirkonnad"
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadiks"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p><p>Õppimist toetavast hindamisest täpsemalt: <a href=\"https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/\">https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/</a></p><p><em>Vt näiteülesandeid lehekülje allosas</em></p><p>Ülesannete raskusaste:</p><p><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</p><p><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</p><p><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvu standardkuju, arvu 10 astmed - füüsika, keemia</p><p>Protsentülesannete lahendamine seob keemia, füüsika, bioloogia, geograafia, majandusõpetuse jne matemaatikaga.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Üldpädevuste toetamine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "AVALDISED",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "esitab arvu juure ratsionaalarvulise astendajaga astmena ja vastupidi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sooritab tehteid astmete ning võrdsete juurijatega juurtega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teisendab lihtsamaid ratsionaal- ja irratsionaalavaldisi (kaks tehet ja sulud);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näeb ja lahendab arvutuste ja teisenduste abil lahenduvaid reaalelulisi ja teaduslikke probleeme (sh protsentülesanded). Tõlgendab ja esitleb saadud tulemusi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Astme mõiste üldistamine. Arvu juur. Juurte omadused.</p><p>Arvu juure esitamine ratsionaalarvulise astendajaga astmena ja vastupidi.</p><p>Tehted astmete ja võrdsete juurijatega juurtega.</p><p>Rühmitamisvõte. Irratsionaalsuse kaotamine nimetajast.</p><p>Ratsionaal- ja irratsionaalavaldiste lihtsustamine (kaks tehet ja sulud).</p><p>Reaalelulised probleemid, mis on lahendatavad arvutuste ja avaldiste teisenduste abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Põhikoolis on käsitletud negatiivset astendajat üksnes arvu 10 astendamisel.</p><p>Põhikoolis õpitud tegurdamisvõtetele lisandub rühmitamisvõte.</p><p>Lihtsustamisülesannetes võib võrreldes põhikooliga olla rohkem tehteid ja avaldised võivad sisaldada ruutjuuri.</p><p>Erilise tähelepanu peaks saama tegurdamine: sulgude ette toomine, algebra korrutamisvalemite kasutamine, ruutkolmliikme tegurdamine, rühmitamine.</p><p>Kuupide summa ja vahe valemeid kasutatakse geomeetrilist jada õpetades. Kaksliikme kuubi valemeid kasutatakse Newtoni binoomvalemit tutvustades.</p><p>Irratsionaalsuse kaotamist nimetajast peab käsitlema, et õpilane mõistaks erineval kujul antud vastuste võrdsust.</p><p>Avaldise lihtsustamise tulemus peab olema taandatud kujul ja võib sisaldada irratsionaalsust nimetajas. Irratsionaalavaldisi lihtsustades peaks näitama erinevaid võimalusi: teisendused juurtega, nimetajast irratsionaalsuse kaotamine, asendamine.</p><p>Juuravaldiste korral tuleb pöörata tähelepanu juuravaldise määramispiirkonnale.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sobivaid Desmos töölehti võib leida <a href=\"https://docs.google.com/spreadsheets/d/1js3DEOlIlLNrQmJtL6SBAvtQPX7EIZjRRgIsFaONxlw/edit#gid=2027870988\">siit lingilt</a></p><p>Kordamiseks võib kasutada Videoõpsi videosid youtube keskkonnas. Näiteks</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=mFJQrnuBI0A"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee//wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuse"
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadiks."
+            },
+            {
+              "kind": "link",
+              "href": "https://shorturl.at/jsxQ1",
+              "title": "Riigieksami materjalid"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em></p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://6ppimisttoetavhindamine.wordpress.com/category/aineopetajale/matemaatika/",
+              "title": "Hindamine"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Üldpädevuste toetamine"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ainesisene lõiming põhikoolis omandatud algebra teadmistega.</p><p>valemitest muutujate avaldamisele.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454752/LAI_MATEMAATIKA_1.%20kursus%20na%CC%88iteu%CC%88lesanded.docx?version=1&modificationDate=1706621740874&api=v2",
+          "title": "LAI_MATEMAATIKA_1. kursus näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454752/LAI_MATEMAATIKA_1.%20kursus%20na%CC%88iteu%CC%88lesanded.pdf?version=1&modificationDate=1706621740865&api=v2",
+          "title": "LAI_MATEMAATIKA_1. kursus näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

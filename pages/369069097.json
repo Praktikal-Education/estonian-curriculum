@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus viiakse läbi praktilise tegutsemisena kogukonnas, kus harjutatakse 1. ja 2. kursuse jooksul õpitut. Kriisides käitumine mängitakse läbi piirkonna eripärast lähtuvalt. Väljas liikudes arvestatakse võimalike oludega. Kavandatakse tegutsemine välitingimustes koos ööbimisega kas varjumiskohas, naaberkoolis või mujal, et õpilasetel oleks võimalik õpitud teadmisi proovile panna. Simuleeritud kriisid koolis, kooli ümbruses ja kogukonnas seotakse kooli kriisiplaaniga.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hinnatakse mitteeristavalt õpilaste osalemist ja praktilise tegutsemise oskust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Käitub õpisituatsioonis simuleeritud kriisides asjakohaselt ja kasutab psühholoogilise esmaabi võtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab ja hindab kriisiolukorda, tegutseb vastavalt olukorrale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab võimalusi kriisiolukorras infot saada ja edastada;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "aitab võimalusel abivajajaid ennast ohtu seadmata;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tegutseb elutähtsate teenuste katkemise korral eelnevalt omandatud teadmiste põhjal;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab otstarbekalt varusid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib vastavalt vajadusele sobiva varjumiskoha ja m uudab selle varjumiskindlamaks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "evakueerub tulenevalt ohust ja panustab vastavalt oma oskustele evakuatsiooni korraldamisse.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>simuleeritud kriisid koolis, kooli ümbruses ja kogukonnas nt elektrikatkestus, sidekatkestus, vee- ja kanalisatsioonikatkestus, õnnetusjuhtum kemikaalidega, õhusaaste jne</li><li>otsib ja jagab infot simuleeritud kriisiolukorras,</li><li>valib sobiva riietuse, et välitingimustes toime tulla.</li><li>evakuatsioonikoti pakkimine ja kasutamine</li><li>orienteerumine maastikul navigatsioonivahendeid (kaart, kompass, GPS, maastikumärgid) kasutades</li><li>toidu valmistamine välitingimustes sh söödavad ja mürgised taimed</li><li>puhta vee leidmine, vee puhastamine</li><li>riskide hindamine: kaardirakenduste kasutamine</li><li>varjumiskoht, kerksuskeskus, võimalikud evakuatsioonikohad jne</li><li>toimetulek kriisiolukorras: elektrikatkestus, sidekatkestus, ETO katkestus</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovitused praktiliseks õppeks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Simuleeritakse erinevaid rolle (vigastatud, psühholoogilist esmaabi vajavad kannatanud, teise kultuuri ja usundi esindaja jt) ja kasutatakse psüholoogilise esmaabi andmise võtteid.</li><li>Võimalikud õppuse harjutused (sidekatkestus, varjumine, ulatusliku evakuatsiooniga seotud tegevused jne)</li><li>Võimalikud koostööpartnerid: Naiskodukaitse evakuatsioonirühm, Päästeamet, Kaitseliit jt.</li></ul>"
+        }
+      ]
+    }
+  ]
+}

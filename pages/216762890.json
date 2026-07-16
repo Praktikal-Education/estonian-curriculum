@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Süntaks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><em><strong>Süntaks</strong></em> tegeleb keele lineaarse struktuuriga, püüdes seletada, kuidas sõnade (<em>süntaksi</em> vähimate ühikute) koostoimes vormub lause (<em>süntaksi</em> suurim ühik).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li><strong>Süntaksiküsimus</strong> – küsimus, mis esitatakse <strong>põhisõnast lähtuvalt koos põhisõnaga</strong> (<em>jooksis kuhu?</em>). Süntaksiküsimusele vastatakse alati koos põhisõnaga (<em>jooksis metsa</em>). Sobivaid vastuseid võib süntaksiküsimusele olla rohkem kui üks.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Süntaksiküsimuse esitamise ja vastamise põhieesmärk on sõnaühendi või lause koostamine, lause laiendamine. Teiseks eesmärgiks on sõnade vahelise seose tuvastamine lauses, põhisõna ja laiendi seose teadvustamine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Morfoloogia",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong><em>Morfoloogia</em></strong> on keeleteaduse haru, mis käsitleb sõnade välist vormi ja seda, kuidas see seostub sõnade tähendusega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li><strong>Morfoloogiaküsimus</strong> ehk grammatiline küsimus ehk käände-/pöördeküsimus. Morfoloogiaküsimus esitatakse <strong>sõnavormi kohta</strong> ja vastuseks on seesama sõna, mille kohta küsimus esitati.<br>Näiteks: <em>lauale – millele? – lauale</em>.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Morfoloogiaküsimuse eesmärgiks on sõnavormi koostise analüüs, käände määramine. Soovitatav on kirjutada morfoloogiaküsimus sõnavormi kohale, nii et sõnaosad (morfeemid) paikneksid kohakuti.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Näiteks: <em>mille/<strong>ga</strong></em>?<br>saba/<strong>ga</strong></p>"
+        }
+      ]
+    }
+  ]
+}

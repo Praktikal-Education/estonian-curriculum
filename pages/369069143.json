@@ -1,0 +1,262 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus keskendub <strong>tiimitööle treening- ja võistluskeskkonnas</strong>. Õpilane mõtestab enda rolli tiimis, analüüsib tiimidünaamikat ning selle mõju nii individuaalsele sooritusele kui ka tiimi toimimisele. Kursusel käsitletakse ka turvalise ja toetava keskkonna kujundamist, sealhulgas suhtlemist, heaolu ning <a href=\"https://liikumisopetus.ee/kiusamisvaba-liikumisopetus/\">kiusuennetamist</a> ja märkamist spordikeskkonnas.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Käesoleva kursuse raames mõistetakse tiimi all sportlast, tema treenerit ning teisi asjakohaseid isikuid, kes on seotud sportlase treeningtegevusega.</p><p>Õppimine toimub juhendatult mitme treening- ja/või võistlusnädala jooksul. Kool toetab õpilast kursuse eesmärkide, eneseanalüüsi ja dokumenteerimise osas. Õpitegevustes arvestatakse õpilase spordiala ja tiimitüübi eripära. Õpilane töötab juhendamisel välja enda spordialast lähtuvalt sobiva dokumenteerimise vormi (nt päevik, tabel, digitaalne keskkond vms), mida kasutab kursuse jooksul.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse sihtrühm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus on suunatud gümnaasiumiõpilastele, kes osalevad regulaarselt juhendatud sporditreeningutel ning soovivad mõtestada enda rolli tiimis ja analüüsida tiimidünaamika mõju tiimi toimimisele ja individuaalsele sooritusele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on arendada õpilase tiimitööoskusi ning oskust mõtestada enda rolli ja vastutust treening- ja võistluskeskkonnas. Kursus toetab õpilase teadlikkust tiimidünaamika, heaolu ja turvaliste suhete olulisusest spordis.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse maht on 35 akadeemilist tundi, millest kuni 25 tundi moodustab õpilase osalemine treening- ja võistluskeskkonnas, kus ta kogeb ja analüüsib tiimitööd ning koostööd, ning vähemalt 10 tundi on kavandatud kogemuse dokumenteerimiseks, analüüsimiseks ja kursuse lõpus toimuvaks kokkuvõtvaks aruteluks koolis.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "tiimitöö põhimõtted",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "sõnastab tiimitöö peamised põhimõtted treening- ja võistluskeskkonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "vaatleb tiimitööd treeningutel ja võistlustel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab tiimi eesmärke, rolle ja koostööviise;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid heast ja ebatõhusast koostööst enda kogemuse põhjal;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab, kuidas turvaline ja toetav keskkond mõjutab tiimitööd ja õppimist.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "roll ja vastutus tiimis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõtestab enda rolli ja vastutust tiimis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "analüüs\u200bib ja mõtestab end\u200ba ülesandeid ja panust tiimis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab olukordi, kus tema tegevus toetas või takistas tiimi toimimist;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab ja mõtestab oma rolli tiimi eesmärkide ja eripärade kontekstis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kohandab enda rolli mõtestamist vastavalt oma spordialale ja tiimi eripärale.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "suhtlus ja koostöö tiimis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib suhtluse ja koostöö mõju tiimi toimimisele ja sooritusele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjelda\u200bb ja analüüsib s\u200buhtlussituatsioone treening- ja võistluskeskkonnas;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib, kuidas tagasiside, koostöö ja usaldus mõjutavad tiimi toimimist ja sooritust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/oppimine-ja-motivatsioon/tagasisideandmine/",
+              "title": "tagasiside"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid, kuidas suhtlus mõjutas tiimi tegevust ja sooritust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib konfliktide, pingete ja võimaliku kiusukäitumise mõju tiimi toimimisele.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "link",
+              "href": "https://kiusamisvaba.ee/kiusamine-ja-abi/abiks-opilasele/",
+              "title": "kiusukäitumise"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "tiimidünaamika erinevates olukordades",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib tiimidünaamikat ja selle muutumist erinevates olukordades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "jälgib ja analüüsib tii\u200bmi toimimist erinevates treening- ja võistlusolukordades;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "a\u200bnalüüsib, kuidas pinge, vastutus ja emotsioonid mõjutavad tiimidünaamikat ja tema enda sooritust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab tiimidünaamikat heaolu ja turvatunde kujunemisega spordikeskkonnas.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "eneseanalüüs tiimitöös",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "rakendab eneseanalüüsi ja dokumenteerimist, et mõtestada tiimitöö kogemust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "rakendab eneseanalüüs\u200bipäevikut tiimitööga seotud kogemuste kirjeldamiseks ja analüüsimiseks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "link",
+              "href": "https://reflection.ed.ac.uk/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle",
+              "title": "eneseanalüüs"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb kursuse lõpus kokkuvõtte enda arengust tiimiliikmena;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sõnastab järeldused ja võimalikud edasised arengusuunad;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib enda rolli tiimis seoses koostöö, heaolu ja turvalise käitumisega;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "töötab enda spordialast ja tiimitüübi eripärast lähtuvalt välja sobiva dokumenteerimise vormi, mida kasutab kursuse jooksul eneseanalüüsi ja õpikogemuse tõendamiseks.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine, sh mitteformaalõppes läbitud kursuste hindamise alused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursust hinnatakse mitteeristavalt (arvestatud/mitte arvestatud).</p><p>Arvestuse saamise eeldused on:</p><ul><li>eneseanalüüsi päeviku esitamine</li><li>osalemine kursuse lõpus toimuval kokkuvõtval arutelul.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamisel lähtutakse õpilase oskusest mõtestada tiimitööd, enda rolli ja koostööd treening- ja võistluskeskkonnas ning analüüsida nende mõju sooritusele. Sportlikku taset ega tulemusi hindamisel ei arvestata. Hindamisel pööratakse tähelepanu ka õpilase teadlikkusele tiimisuhete, heaolu ja turvalise käitumise olulisusest.</p>"
+        }
+      ]
+    }
+  ]
+}

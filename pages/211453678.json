@@ -1,0 +1,365 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Sissejuhatus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Muusikaõpetuse õppeprotsesside kirjeldused on loodud muusikaõpetajate-praktikute poolt abiks õpetajale õppetöö kavandamisel ning toeks kooli õppekava uuendamisel. Ainekava rakendusdokument on soovituslik ning pakub ühe versiooni, kuidas muusikaõpetuse õppeprotsessi üles ehitada. Rakendusdokumendis on ühendatud info RÕKi määruse lisast 3 ja töörühma soovitused.</p><p>Kooliastmete esilehtedele on koondatud RÕKi määrusest kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud ning õpitulemused osaoskuste (laulmine, pillimäng, muusikaline liikumine, omalooming, muusika kuulamine) kaupa. Iga osaoskuse juures on välja toodud:</p><ul><li>kooliastmele vastavad metoodilised soovitused osaoskuse kujundamiseks ja arendamiseks;</li><li>õppevara õpilasele;</li><li>artiklid õpetajale lugemiseks ja materjalid inspiratsiooniks (raamatud, artiklid, videod, rakendused jms).</li></ul><p>Kooliastmete esilehtedel on kirjeldatud ka lõiminguvõimalusi läbivate teemade ja teiste õppeainetega. Lõiming üldpädevustega, hindamine ja õppeprotsessi tagasisidestamine on kirjeldatud muusika õppeaine avalehel.</p><p>Õppesisu ja õpitulemused on esitatud klassiti osaoskuste – laulmine, pillimäng, muusikaline liikumine, omalooming ja muusika kuulamine – kaupa. Klasside leheküljed pakuvad õpetajale ideid õppesisu valikuteks, praktilisteks töödeks, klasside töökavade ja kooli õppekava loomiseks.</p><p>Rakenduskavast saab oma esimestel tööaastatel lähtuda alustav õpetaja ning sellest leiab inspiratsiooni ja tuge kooli õppekava uuendamisel ka kogenud pedagoog.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeaine õpetamise eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Üldhariduskooli muusikaõpetuse eesmärk on tekitada õppijas huvi muusika ja musitseerimise vastu ning kujundada harmoonilist ja loovat isiksust. Muusikaõpetuses lähtutakse eesti koolimuusikas välja kujunenud traditsioonidest ja põhimõtetest (Riho Päts, Heino Kaljuste), mis toetuvad Zoltán Kodály ja Carl Orffi pedagoogika adapteeritud käsitlusele ning tänapäeva pedagoogika teadmusele ja kogemusele.</p><p>Muusikaõpetuse taotlus on luua muusikateadmiste, -oskuste ja -kogemuste süsteem, mille kujunemist toetavad ainekavas kirjeldatud osaoskuste (laulmine, pillimäng, muusikaline liikumine, omalooming, muusika kuulamine) õpitulemused kõikides kooliastmetes. Eesti ja maailma muusikakultuuri tutvustamise kaudu kujundatakse õpilaste sotsiaalkultuurilisi väärtushinnanguid ja muusikamaitset.</p><p>Muusikaõpetuse kaudu luuakse võimalused muusikaoskuste arenguks, avatakse ja avardatakse muusikaga tegelemise viise ning toetatakse elukestva muusikaharrastuse teket.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus (määruse lisast 3)",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Muusikal kui universaalsel suhtlusvahendil on läbi aegade olnud tähtis osa laste ja noorte vaimsel, moraalsel ning esteetilisel kasvatamisel. Muusikaõpetuse taotlus on luua muusikateadmiste, -oskuste ja -kogemuste süsteem. Üldhariduskooli muusikaõpetuse eesmärk on tekitada huvi muusika ja musitseerimise vastu ning kujundada harmoonilist ja loovat isiksust. Muusikaõpetuses lähtutakse eesti koolimuusikas väljakujunenud traditsioonidest ja põhimõtetest (Riho Päts, Heino Kaljuste), mis toetuvad Zoltán Kodály meetodile ja Carl Orffi pedagoogika adapteeritud käsitlusele ning tänapäeva pedagoogika teadmusele ja kogemusele.</p><p>Muusikaga tegelemine rikastab tundeelu, kujundab esteetilisi hoiakuid ja kultuurilisi tõekspidamisi. Muusikaõpetuse kaudu luuakse võimalused muusikaoskuste arenguks, avatakse ja avardatakse muusikaga tegelemise viise ning toetatakse elukestva muusikaharrastuse teket. Eesti ja maailma muusikakultuuri tutvustamise kaudu kujundatakse õpilaste sotsiaalkultuurilisi väärtushinnanguid ja muusikamaitset.</p><p>Muusikaõpetuses tähtsustatakse:</p><ol><li>ühislaulmist kui rahvusliku kultuuritraditsiooni olulist väljendust ja edasikandjat;</li><li>loomingulist eneseväljendust;</li><li>õpilase loova ja kriitilise mõtlemise arengu toetamist;</li><li>õpilase isiklikku suhet muusikaga ning muusikalise suhtlemise rolli vaimse, füüsilise ja emotsionaalse tasakaalustamise võimalusena;</li><li>muusika osa tasakaalustatud isiksuse eetilis-esteetiliste väärtushinnangute kujunemisel;</li><li>õppija huvi ja isikupära.</li></ol>"
+        },
+        {
+          "kind": "section",
+          "title": "Muusika õppeaine sisuks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>on musitseerimine (laulmine, pillimäng, muusikaline liikumine, omalooming), muusika kuulamine ja muusikalugu, muusikaline kirjaoskus ning õppekäigud.</p><p>Muusikaõpetuse kaudu kujundatakse ja arendatakse õpilastes järgmisi osaoskusi:</p><ol><li>laulmine,</li><li>pillimäng,</li><li>muusikaline liikumine,</li><li>omalooming,</li><li>muusika kuulamine.</li></ol><p>Muusikaõpetuse lahutamatu osa on muusikaline eneseväljendus, millega arendatakse õpilase isikupära, omandatakse oskused ja teadmised üksi ning koos musitseerimiseks ja loominguliseks eneseväljenduseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Musitseerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>on keskne tegevus muusikateadmiste ja -oskuste omandamiseks ning loova ja harmoonilise isiksuse kujunemiseks. Rühmas või üksi õppides arendatakse suhtlemis- ja koostööoskust, üksteise kuulamise oskust, ühtekuuluvustunnet, hoolivust, paindlikkust ja tundetarkust ning juhitakse õpilaste enesehinnangut ja õpimotivatsiooni.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ühislaulmise ning koorilauluga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>arendatakse sotsiaalseid oskusi ning kujundatakse rahvuslikku eneseteadvust ja isamaa-armastust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Omalooming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>on seotud lihtsate kaasmängude, saadete, rütmilis-meloodiliste improvisatsioonide, muusikalise liikumise ja tekstide loomisega, mille käigus luuakse võimalused muusikalise eneseväljenduse ja esinemisjulguse kujunemiseks ning arenemiseks. Omaloomingulises tegevuses rakendatakse ja kinnistatakse muusikateadmisi ja -oskusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Muusika kuulamisega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>arendatakse kuulamisoskust, tähelepanu, analüüsivõimet ja võrdlusoskust.</p><p>Muusikaloos tutvustatakse muusika väljendusvahendeid, stiile, heliloojaid ja interpreete ning omandatakse kultuuriloolisi teadmisi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Muusikalise kirjaoskuse",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>all mõistetakse ainekavas sisalduvat elementaarset noodikirja lugemise oskust, mida omandatakse musitseerides ja mis loob eeldused muusika teadlikumaks mõistmiseks. Muusika võimaldab osaleda kultuuris mitmel viisil ja kujundada elukestvat harrastust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekäigud",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>(sh virtuaalsed) kontserdipaikadesse, teatritesse ning muuseumidesse kujundavad õpilaste silmaringi ja muusikamaitset, teadmisi kohalikust, oma riigi ja maailma kultuuripärandist ning nende rollist maailmas ja peamistest kultuurisaavutustest (sh popkultuurist).</p><p>Muusikaõpetuse lahutamatu osa on <strong>kooli kontserdielus osalemine</strong>, et õpilased omandaksid kogemusi nii esineja, kuulaja kui ka korraldajana. Muusikaõpetust kavandades ja korraldades leitakse tunnivälise loometegevuse võimalusi (koorilaul, solistid, ansamblid, orkestrid, kontsertide jm esinemiste kavandamine, töötoad jms)</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeprotsessi tagasisidestamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamise eesmärk muusikas on toetada õpilaste arengut, innustada õpilasi leidma isikupäraseid ideid ja loovaid lahendusi ning suunata neid sihikindlalt õppima; suunata õpilaste enesehinnangu kujunemist, tekitada neis muusika- ja kultuurihuvi ning luua alus elukestvale muusikaharrastusele; juhtida ja toetada õpilasi haridustee valikul muusika valdkonnas. Hindamine annab tagasisidet õpilaste individuaalse arengu kohta ning on lähtekohaks järgnevat õpet kavandades. Hinnates lähtutakse kooli õppekavas kirjeldatud põhimõtetest ja nõuetest.</p><p>Õppetegevuse käigus motiveeritakse õpilase arengut vahetu suulise tagasiside kaudu, tuues välja soorituse positiivsed küljed ning andes edasiviivat nõu. Õpilastele võimaldatakse eri viise eneseanalüüsiks ja kaaslastelt tagasiside saamiseks.</p><p>Õpitulemusi hinnatakse vastavalt kooli hindamisjuhendile eristavalt, mitteeristavalt või sõnaliste hinnangutega. Õpilased peavad teadma, mida ja millal hinnatakse ning mis on hindamise kriteeriumid. Hindamisel tagatakse õpilasele võimalikult toetav keskkond.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Osaoskus: laulmine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitud repertuaari esitamisel hinnatakse laulu esituse rütmilist täpsust ja võimetekohast intoneerimist, laulusõnade omandamist ja diktsiooni, väljendusrikkust, püüdlikkust ja õiget kehahoidu. Hindamisel saab arvestada lisaks muusika ainekavas kirjeldatud õpitulemustele:</p><ol><li>aktiivset osavõttu ühislaulmisest;</li><li>õpilase arengut üksi ja/või rühmas lauldes;</li><li>muusikalise kirjaoskuse ja oskussõnade mõistmist ning rakendamist lauldes;</li><li>õpilase osalemist koolikooris, esinemist kooliüritustel ning kooli esindamist konkurssidel, võistlustel, muusikaolümpiaadil, laulupäevadel ja laulupeol.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Osaoskus: pillimäng",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisel saab arvestada lisaks muusika ainekavas kirjeldatud õpitulemustele:</p><ol><li>aktiivset osavõttu pillimängust;</li><li>õpilase arengut üksi ja/või rühmas pilli mängides;</li><li>muusikalise kirjaoskuse ja oskussõnade mõistmist ning rakendamist pillimängus;</li><li>õpilase osalemist instrumentaalansamblis või -orkestris, esinemist kooliüritustel ning kooli esindamist konkurssidel, muusikaolümpiaadidel, laulupäevadel ja laulupeol.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Osaoskus: muusikaline liikumine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisel saab arvestada lisaks muusika ainekavas kirjeldatud õpitulemustele:</p><ol><li>aktiivset osavõttu muusikalisest liikumisest</li><li>üksi ja/või rühmas muusikalist liikumist, lähtudes õpilase võimetest ning nende arengust;</li><li>kaasatöötamist tunnis;</li><li>muusika oskussõnade mõistmist ning rakendamist muusikalises liikumises;</li><li>esinemist kooliüritustel.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Osaoskus: omalooming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisel saab arvestada lisaks muusika ainekavas kirjeldatud õpitulemustele:</p><ol><li>aktiivset osavõttu loovtegevustest;</li><li>üksi ja/või rühmas töötamist, lähtudes õpilase võimetest ning nende arengust;</li><li>õigete pillimänguvõtete rakendamist loovtegevustes;</li><li>eneseväljendusoskust;</li><li>muusikalise kirjaoskuse ja oskussõnade mõistmist ning rakendamist omaloomingus;</li><li>osalemist kooliüritustel.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Osaoskus: muusika kuulamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisel saab arvestada lisaks muusika ainekavas kirjeldatud õpitulemustele:</p><ol><li>väljendus- ja arutlusoskust kuulatud muusikast vesteldes;</li><li>üksi ja/või rühmas töötamist, lähtudes õpilase võimetest ning nende arengust;</li><li>muusikalise kirjaoskuse ja oskussõnade mõistmist ning rakendamist muusikat kuulates.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppekäigud",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisel saab arvestada lisaks muusika ainekavas kirjeldatud õpitulemustele:</p><ol><li>väljendus- ja arutlusoskust kuulatud muusikast vesteldes;</li><li>muusikalise kirjaoskuse ja oskussõnade mõistmist ning rakendamist muusikat kuulates.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Artiklid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "http://oppekava.innove.ee/hindamisest-muusikaopetuses/",
+              "title": "Hindamisest muusikaõpetuses. Karolina Sepp, Aive Skuin (2010)."
+            },
+            {
+              "kind": "link",
+              "href": "http://koolielu.ee/info/readnews/106547/kujundav-hindamine-kui-voimalus",
+              "title": "Kujundav hindamine kui võimalus. Leelo Tiisvelt (2011)."
+            },
+            {
+              "kind": "link",
+              "href": "http://www.oppekava.ee/index.php/Motiveeriv_hindamine",
+              "title": "Motiveeriv hindamine"
+            },
+            {
+              "kind": "link",
+              "href": "http://oppekava.innove.ee/motiveeriv-hindamine-2/",
+              "title": "Motiveeriv hindamine. Anne Susanna Lindström (2010)."
+            },
+            {
+              "kind": "link",
+              "href": "https://hindaminekoolikeskkonnas.weebly.com/otildeppimist-toetav-hindamine-kui-osa-koolikultuurist.html",
+              "title": "Õppimist toetav hindamine. Maria Jürimäe (2012)."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.digar.ee/arhiiv/et/raamatud/54753",
+              "title": "Kujundav hindamine kui õppimist toetav hindamine. Maria Jürimäe, Anita Kärner, Leelo Tiisvelt (2014)."
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/11556-KUJUNDAVA-HINDAMISE-KASIRAAMAT-2018",
+              "title": "Kujundava hindamise käsiraamat (2018)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine (määruse lisast 3)",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamine kunstiainetes suunab ja julgustab õpilasi õppima ning tekitab ja hoiab huvi kunsti ja muusika vastu. Hindamise aluseks on põhikooli riikliku õppekava üldosas sätestatu, kunsti ja muusika ainekavas esitatud õpitulemused ning kooli kehtestatud hindamisjuhised. Hindamise nõuded ja korraldus, sh mittenumbrilise hindamise kasutus ja kooliõppekava väliselt, sh mitteformaalhariduses omandatud teadmiste ja oskuste arvestamine täpsustatakse kooli õppekavas.</p><p>Hindamise käigus saavad õpilased mitmekülgset tagasisidet oma töökultuuri ja töö ning individuaalse arengu kohta, millega toetatakse nende kujunemist positiivse minapildi ja adekvaatse enesehinnanguga ennastjuhtivaiks õppijaiks. Hindamisega luuakse õpilastele võimalusi õppe vältel oma edusamme esile tuua, julgustades neid enda tugevaid külgi kasutama ja uusi oskusi arendama. Õpilastele võimaldatakse eri viise eneseanalüüsiks ja kaaslastelt tagasiside saamiseks ning selle aktseptimiseks. Õpetaja saab hindamise kaudu teavet oma õpetamise tulemuslikkuse kohta ning sisendit nii õppe kui ka iseenda pädevuste arendamiseks.</p><p>Alates esimesest kooliastmest kaasatakse õpilane nii oma tööd hindama kui ka kaasõpilastele tagasisidet andma.</p><p>Õpilasele on õppeühiku (õppetegevuste kogum, mis on suunatud samade õpitulemuste saavutamisele) alguses teada, mida ja millal hinnatakse, mis hindamisvahendeid kasutatakse ning mis on hindamiskriteeriumid.</p><p>Õpilast suunatakse õppe käigus oma õppimist ja seatud eesmärkide saavutamist analüüsima ning reflekteerima.</p><p>Aineteadmiste ja -oskuste kõrval antakse tagasisidet üldpädevuste arengu ning väärtushoiakute ja -hinnangute kujunemise kohta. Hoiakute kujunemise kohta antakse tagasisidet suunavate ja toetavate sõnaliste hinnangutega. Õpilase seisukohtadele ühiskonnas ja maailmas toimuva kohta antakse sõnalist kirjeldavat tagasisidet. Kirjalikke ülesandeid hinnates arvestatakse eelkõige töö sisu, kuid pööratakse tähelepanu ka õpilase keelekasutusele, sh kunsti- ja muusikaterminite õigele kasutusele ning õigekirjale, mida arvestatakse hindamisel ülesande eesmärgi ja kokkulepitud hindamiskriteeriumide põhjal.</p><p>Hindamisel lähtutakse õppimisele seatud eesmärgist ja hinnatakse seda, mida on õpetatud, rakendades nii diagnostilist, kujundavat kui ka kokkuvõtvat hindamist, mida esitatakse nii sõnaliste hinnangute kui ka numbriliste hinnetena. Diagnostiliselt hinnates selgitatakse välja õpilaste eelteadmiste ja oskuste tase, ainealased väärarusaamad ning eriomased õpiraskused, et kavandada edasist õppimist ja õpetamist.</p><p>Erineva keerukusastmega teadmiste, oskuste ja hoiakute hindamise võimaldamiseks kasutatakse mitmekesiseid hindamisviise ja -vorme. Hindamisvahendi ja -viisi valik sõltub seatud õppe-eesmärkidest ning eeldatavast õpitulemusest.</p><p>Kunstiainete valdkonnapädevuse omandamisel on õppe jooksul oluline roll kujundaval hindamisel, mis toetab õpilase eneseusku ja innustab teda oma võimeid arendama. Kujundava hindamise kaudu saab õpilane temale arusaadaval viisil esitatud suulist ja kirjalikku tagasisidetoma õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta.</p><p>Kujundava hindamise rakendamist toetab õppeolukorras tehtud tööde õpilasepoolne dokumenteerimine näiteks kavandite, jooniste, õpimapi, blogina vms.</p><p>Kunstiainetes väärtustatakse harjutamist. Õpitulemuste saavutamise toetamise kõrval keskendutakse kujundava hindamise vältel järgmistele aspektidele:</p><ol><li>loovuse arengu toetamine (probleemide märkamine, mõtete voolavus ja paindlikkus, originaalsus, probleemilahendamisoskused, refleksioon);</li><li>huvi ja nii õppest kui ka kunsti- ja kultuurielust aktiivse osavõtu toetamine;</li><li>isikliku sideme loomine ainega ja isikupärase väljenduslaadi otsimine;</li><li>sallivuse areng ja silmaringi avardumine.</li></ol><p>Kooli õppekavas kehtestatud hindamisjuhiste järgi võib arvestada tunnist osavõtu aktiivsust ja tunnivälist muusikategevust (nt osalemine koolikooris, orkestris, ansamblis, esinemine kooliüritustel, kooli esindamine konkurssidel/võistlustel, sh muusikaolümpiaadil).</p><p>Kokkuvõtvalt hinnatakse üldjuhul õppeperioodi või mahuka õppeteema lõpul, lähtudes õppest kui tervikust ja taotletavatest õpitulemustest, seejuures arvestatakse, et hinnetel võib olla sõltuvalt töö mahust erinev kaal. Hindamiskriteeriumid loob õpetaja õpilasi kaasates kooli kehtestatud hindamisjuhiste põhjal.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming üldpädevustega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Kultuuri- ja väärtuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Muusikas rõhutatakse kultuuriteadmisi ja nende väärtustamist õppija identiteedi osana. Tegevustes väärtustatakse individuaalset ning kultuurilist mitmekesisust. Esimeses kooliastmes keskendutakse eesti kultuuriloole: tähtpäevad ja pühad, eesti heliloojate looming ja olulised kultuurisündmused (näiteks laulu- ja tantsupidu). Teises kooliastmes lisandub Eesti naaberriikide kultuurilugu, kus õppijaid suunatakse märkama ja võrdlema, mis on sarnane ja mis on erinev võrreldes Eestiga. Kolmandas kooliastmes laieneb kultuuripilt teistele mandritele, tutvustatakse erinevaid usundeid ja nende peegeldumist eesti heliloojate loomingus. Käsitletavate teemade, analüüsitavate muusikateoste ja -sündmuste kaudu toetatakse eetiliste ning esteetiliste väärtushoiakute kujunemist. Praktiline loominguline tegevus ja selle üle arutlemine õpetavad teadvustama muusikat eneseväljenduse vahendina, hindama erinevaid ideid, seisukohti ja probleemilahendusi ning austama autorsust. Kasvatatakse teadlikku ja kriitilist suhtumist kõikidesse infokanalitesse. Kultuuri- ja väärtuspädevust kujundavad eeskätt ühislaulmine (ühislaulud ühendavad omavahel erinevaid põlvkondi), koorilaul ja osalemine laulupidudel. Laulmine koorides tagab ühe meie olulisema traditsiooni laulupeo kestvuse. Ka muusika kuulamine ning õppekäigud kultuuriloolistesse paikadesse, kontsertidele ja muusikaetendustele aitavad kaasa kultuuri- ja väärtuspädevuse kujunemisele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sotsiaalne ja kodanikupädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koostöövalmidust kujundavad ning üksteise toetamist aitavad väärtustada uurimuslikud ja praktilised rühmatööd, loovtööd, arutlused ja esitlused, ühislaulmine, pillimäng, õppekäigud, koorilaagrid, kontsertreisid, ühistes valdkondlikes ja valdkondadeülestes õppeprojektides osalemine. Kultuurisündmustel osalemine aitab kujundada kultuurilist ühtsustunnet (meie-tunne, mis tekib osalejate endi ja osalejate-pealtvaatajate vahel). Ühislaulmine, sh esivanemate lauluvara tundmine tugevdab põlvkondade vahelist sidet, kujundab koostöövalmidust ja väärtustab üksteise toetamist. Muusikateoste üle arutledes harjuvad õpilased oma seisukohti kaitsma ning teiste arvamustest lugu pidama.</p><p>Sotsiaalset pädevust kujundatakse kõikide muusikaliste tegevuste kaudu. Sotsiaalse kunsti põhimõtete ja tehnikate kasutamine (nt muusikapalade otsimine, mille sõnad vihjavad sotsiaalsemat laadi probleemidele; heategevuslikel eesmärkidel muusikaga seotud ürituste planeerimine) võimaldab õpilastega arutleda ühiskonnas asetleidvate sotsiaalsete probleemide üle ning julgustab õpilasi midagi ette võtma, et nendele teemadele enam tähelepanu pöörata.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Enesemääratluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tagasiside andmine ja eneseanalüüsi oskuse arendamine aitavad tundma õppida oma huve ja võimeid ning kujundada adekvaatset minapilti. Muusikatundides saab õppija tagasisidet nii õpetajalt kui ka klassikaaslastelt enda erinevatele tegevustele (laulmine, pillimäng, tantsimine, käitumine jne), mille kaudu on õppijal võimalik muuta enda sooritust või käitumist. Saadud tagasiside toetab õppija muusikaliste võimete/oskuste arengut. Erinevate muusikastiilide kuulamine võib toetada õppija enesemääratlust ja kuuluvustunnet mingisse sotsiaalsesse rühma, nagu ka esinemised kooliüritustel, osavõtt muusikaolümpiaadidest ja -konkurssidest. Ühislaulmine, sh esivanemate lauluvara tundmine tugevdab põlvkondade vahelist sidet, kujundab koostöövalmidust ja väärtustab üksteise toetamist.</p><p>Kultuuri- ja sotsiaalteemade käsitlemine (kontserdid ja muusikaetendused, muusikapalade ainestik ja sõnumid jne) ning omalooming aitavad kaasa algatusvõime kasvatamisele, loovkriitilisele mõtlemisele, uuenduslike lahenduste leidmisele ning õppija personaalse ja sotsiaalse identiteedi kujunemisele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Muusikas kujundatakse õpipädevust eriilmeliste ülesannete, õppemeetodite ja töövormide kaudu (sh digitaalsed muusikaõppemängud), mis võimaldavad õpilastel teadvustada ning kasutada oma õpistiili. Nii individuaalselt kui ka rühmas lahendatavad uurimis- ja probleemülesanded, loov- ja uurimuslikud tööd eeldavad info hankimist, selle analüüsimist ja tõlgendamist ning õpitu kasutamist uudsetes olukordades. Muusikas saavad õpilased ise jõukohaseid ülesandeid luua, oma valikute sobivust kontrollida, uusi oskusi katsetada ning järjekindlalt harjutada. Õpipädevust muusikas arendatakse kultuurisündmustes osalemise ja musitseerimise kaudu: õpilane võtab muusikasündmustest järjepidevalt osa, laulab kooris ja/või ansamblis, musitseerib üksi või muusikakollektiivis, esineb koolis ja esindab kooli erinevatel tasemetel, kavandab ja külastab teatrietendusi ja kontserte. Tagasiside ja eneseanalüüs (vaatluse, vestluste, arvustuste kaudu) aitavad järjest suurendada õppija rolli oma õpitegevuse juhtijana.</p><p>Muusikateemaliste loov- ja rühmatööde koostamine eeldab oskust mõista teabetekste ning suunab kasutama mitmesuguseid info esitamise viise (tekst, joonis, skeem, tabel, graafik jms).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Suhtluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Muusikas on tähtsal kohal heliteostest, kunstistiilidest, -ajastutest jms rääkimine, kasutades kirjelduses nii korrektset emakeelt kui ka ainespetsiifilist terminoloogiat. Tööde esitlemine ning aruteludes erinevate seisukohtade võrdlemine ja kaitsmine toetavad väljendusoskust ning ainealase oskussõnavara kasutamist. Muusika tõlgendamise puhul on alati võimalik lähtuda erinevatest vaatepunktidest ja ootustest. Isiklik kogemus kasvatab kogemuse tähenduslikkust õpilase jaoks. Suhtluspädevus ilmneb valmisolekus saada ja anda vajalikku informatsiooni läbi suhtlemise, oskuses esitada viisakalt ja argumenteeritult oma arvamust ning samal ajal aktsepteerida teiste inimeste väärtusi ja eriarvamusi.</p><p>Muusikaõpetuses tutvutakse muusika kui kommunikatsioonivahendiga, õppides tundma selle eriomast mitteverbaalset keelt ning „tõlkides” sõnumeid ühest keelest teise. Suhtlemine toimub ka muusika ettekandmisel publiku, interpreedi ja esitaja(te) vahel, muusikateose kuulamise, mõtestamise, kunstilise kujundamise ja esitamise kaudu, kus heliteos on ühtaegu nii suhtluse objektiks kui ka vahendiks. Suhtluspädevuse kujunemisele aitab kaasa aktiivne osalemine kooli-, kodukoha ja üleriigilistes koorides, ansamblites ja orkestrites.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ettevõtlikkuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vajalike oskuste kujunemist toetavad muusikas individuaal- ja rühmatöö, uurimuslikud ning probleemipõhised ülesanded ja õpitava sidumine igapäevaeluga. Muusikas väärtustatakse uuenduslikke ning loovaid lahendusi. Praktiline loovtegevus, näiteks bänd, omalooming (muusikaline liikumine, dramatiseering, muusika kuulamine jne), lubab katsetada erinevaid ideede väljendamise ja esitlemise võimalusi, valides leidlikult sobivaid meetodeid ning rõhutades oma tugevaid külgi. Õpitakse tegevust planeerima ja analüüsima, vastutama töö ja tulemuse eest. Muusikas kujundatakse ettevõtlikkust ka esinemisoskuse kaudu. Eduka esinemise tagavad muusikateose valik vastavalt õpilase muusikavõimetele, isikupärane tunnetamine ja oskus anda publikule edasi muusikateose/helilooja mõtet. Tutvutakse ka valdkonnaga seotud elukutsete ning institutsioonidega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Matemaatika-, loodusteaduste ja tehnoloogiapädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Muusikas rakendatavate ülesannete lahendamiseks tuleb sõnastada probleeme, arutleda lahendusteede üle, põhjendada valikuid ja analüüsida tulemusi. Ülesannete lahendamise kaudu arendatakse oskust infot mõista ja valida: eristada olulist ebaolulisest, leida (tekstist jm) probleemi lahendamiseks vajalikud andmed. Arvamust ja arvustust sõnastades arendatakse oskust oma mõtteid selgelt ja täpselt väljendada. Õpitakse kasutama erinevaid mõisteid (kompositsioon, struktuur, rütm, taktimõõt jne), võrdlema ja liigitama erinevate nähtuste tunnuseid ning kasutama sümboleid.</p><p>Loodusteaduste pädevus aitab näha (kuulda) ja väärtustada looduse ilu, mõista looja (autori, interpreedi) ja ühiskonna toimimist. Kujundab oskust mõista keskkonna mõju inimesele, nt müra ja mürataseme mõju inimese tervisele, elanikkonna vanuse, haridustaseme, kultuuriliste huvide, usuliste tõekspidamiste, rahvusliku koosseisu, migratsiooni, eetiliste hoiakute mõju kultuuri arengule. Loodusteaduslik pädevus aitab teha teadlikke valikuid, toimida kõlbelise ja vastutustundliku ühiskonnaliikmena ning isiksusena (nt rahvapärandi säilitamine ja populariseerimine).</p><p>Loovülesandeid lahendades õpitakse kasutama tehnoloogiavahendeid (pillide ja näitlike õppevahendite valmistamine) ning uuenduslikke lahendusi, mõistma teaduse ja tehnoloogia rolli muusika arengus. Õpitakse hindama uudseid ja isikupäraseid lähenemisi ning märkama toodete disaini funktsionaalsust ja seoseid kunstiloomingu ning kultuuritraditsioonidega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Digipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digipädevus on suutlikkus lahendada (õppe)töös ettetulevaid probleeme digitehnoloogia abil ehk teadmised, oskused ja hoiakud, mida me iga päev digikeskkondades või digivahendeid kasutades rakendame. Õppija digipädevusmudel <a href=\"https://digipadevus.ee/oppija-digipadevusmudel/\">https://digipadevus.ee/oppija-digipadevusmudel/</a> koosneb viiest pädevusvaldkonnast:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "info- ja andmekirjaoskus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õppijat suunatakse sõnastama oma teabevajadust (info heliloojast, ajastust, muusikastiilist, mänguvõttest pillil, nootide asukohast noodijoonestikul jne) ja seejärel, kuidas rakendada selleks sobivaid infootsingu võtteid. Samuti on õpetatakse hindama leitud allikate usaldusväärsust (Beethoven – kas helilooja või koer). Õppija vanuse ja kogemuste kasvades muutub õpetajapoolne suunamine ja juhendamine üha väiksemaks;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "suhtlus ja koostöö digikeskkonnas",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>rühmatööde (infootsing, uute ideede genereerimine, arutelud, esitlused, plakatid jne) tegemiseks õpitakse töötama nendes keskkondades, mis võimaldavad ühistööd ja mõistma, et igal liikmel on vaja panustada ühise eesmärgi nimel. Suhtlemisel ja koostöö tegemisel digikeskkonnas kehtivad samad suhtlus- ja käitumisnormid, mis füüsilises maailmas;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "digisisu loomine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õppijat suunatakse looma (näiteks omalooming, esitlus) ja toimetama digisisu erinevates formaatides: noodigraafika programm MuseScore võimaldab sisestatud partituuri avada samas programmis, printimiseks salvestada noot PDF-formaadis või kuulamiseks audiofailiks. Heaks tavaks on järgida autoriõiguse põhimõtteid nii oma loomingu jagamisel ning kui ka teiste loomingu kasutamisel;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "digiturvalisus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õppijatega arutatakse, miks või kelle jaoks on kontodel/rakendustel vanuselised piirangud, kui palju andmeid me ise vabatahtlikult internetis jagame, kas internet lubab meil unustada midagi, mida oleme ise seal jaganud, kas tehisaru teeb arukaks või arutuks jms;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "probleemilahendus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>tehnoloogiliste valikute paljusus sunnib meid tegema otsuseid, kuidas lahendada ettetulevat probleemi. Näiteks muusikalist omaloomingut saab salvestada või noodistada (üks võimalus on ka mitte kumbagi valikut teha):</p><ul><li>salvestamisel saab kasutada oma nutiseadme salvestamisvõimalust või kasutada arvutisse installeeritud Audacity programmi;</li><li>muusikapala noodistamiseks on võimalik kasutada noodigraafika programmi MuseScore (vaja arvutisse installeerida) või veebipõhist Noteflighti (vaja teha kasutajakonto ja tasuta versioonis saab luua 10 faili) või kirjutada käsitsi noodipaberile.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>Muutuvas ühiskonnas saab muusika õpetus- ja kasvatuseesmärkide saavutamisel rakendada uuenevaid tehnoloogiasuundi: hankida ja säilitada infot, hinnata selle adekvaatsust; kasutada muusikat luues ja õppides erinevaid digikeskkondi ning olla teadlik nendes peituvatest ohtudest. Käsitletakse intellektuaalse omandi ja internetiturvalisusega seotud teemasid oma loomingu jagamisel ning teiste loomingu kasutamisel digikeskkonnas. Ollakse teadlik digivahendite kasutamisega kaasneda võivatest terviseriskidest. Loomingu jagamisel internetis tegutsetakse vastutustundlikult.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "I kursus: Arvuhulgad. Avaldised. Võrrandid ja võrratused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>korrata ja teadvustada arvude maailma ning arvutamise maailma põhimõisteid;</li><li>laiendada seda ratsionaal- ja irratsionaalavaldistele.</li><li>mõista ja rakenda kursuses käsitletud matemaatilisi meetodeid ning protseduure;</li><li>arutleda loogiliselt ja loovalt, formaliseerida lihtsamaid matemaatilisi mõttekäike;</li><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>tunda ära matemaatikas õpitud mudelite abil lahenduvad reaalelulised probleemid ning esitab tuttava reaalelulise situatsiooni matemaatilise mudeli (1–2 sammu);</li><li>tõlgendada ja hinnata saadud matemaatilist tulemust vastavas kontekstis.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika kasutamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt;</li><li>suutlikkus põhjendada ja tõestada oma mõttekäike ning luua üksikteadmistes süsteemi;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks suunata õpilast esitama iseendale küsimusi: mida ma teen; miks ma nii teen; milleni ma olen jõudnud ning kas tulemus on õige ja kontrollitav.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisalugemist",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Lisalugemist"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Hindamisel saadakse ülevaade õpitulemuste saavutatusest ja õpilase individuaalsest arengust ning toetatakse selle kaudu õpilase kujunemist positiivse minapildi ja adekvaatse enesehinnanguga ennastjuhtivaks õppijaks.</li><li>Hindamise tulemusena/abil saab õpilane tagasisidet oma edenemise kohta õppimisel ja õpistrateegiate valikuteks.</li><li>Õpetaja saab teavet õpilase teema omandamise tulemuslikkuse kohta ning sisendit õppetegevuse arendamiseks.</li><li>Hindamisel rakendatakse nii diagnostilist, kujundavat kui ka kokkuvõtvat hindamist, mida esitatakse nii sõnaliste ja kirjalike hinnangute kui ka numbriliste hinnetena.<ol><li>Diagnostilise hindamise käigus selgitatakse välja õpilaste eelteadmiste ja oskuste tase, ainealased väärarusaamad ja spetsiifilised õpiraskused, et kavandada järgnevat õppimist ja õpetamist.</li><li>Õppeprotsessi käigus rakendatakse kujundavat hindamist, kus õpilane saab suulist ja kirjalikku tagasisidet oma õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta.</li><li>Kokkuvõttev hindamine toimub üldjuhul õppeperioodi või mahuka õppeteema lõpul, et kontrollida nii õppetöös püstitatud eesmärkide kui ka riikliku õppekavaga sätestatud õpitulemuste saavutatust.</li></ol></li><li>Õpilasele on õppeprotsessi alguses teada, mida ja millal hinnatakse, milliseid hindamisvahendeid kasutatakse ning millised on hindamise kriteeriumid.</li><li>Kirjalikke ülesandeid hinnates arvestatakse eelkõige töö sisu, kuid pööratakse tähelepanu ka õpilase keelekasutusele, sh erialaste terminite õigele kasutusele ja õigekirjale, mis üldjuhul ei mõjuta tööle antavat hinnangut ja hinnet.</li><li>Õpet kavandades ning sellest tulenevalt ka hinnates võetakse aluseks tunnetuslikud protsessid: 1) faktide, protseduuride ja mõistete teadmine (meenutamine, äratundmine, info leidmine, arvutamine, mõõtmine, klassifitseerimine/järjestamine jmt); 2) teadmiste rakendamise oskus (meetodite valimine, matemaatilise info eri viisidel esitamine, modelleerimine, rutiinsete ülesannete lahendamine jmt); 3) arutlemisoskus (põhjendamine, analüüs, süntees, üldistamine, tulemuste hindamine jmt).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>põhikooli õppekavas kirjeldatud teadmised algebrast.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>A – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;<br>B – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;<br>C – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ARVUHULGAD",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "leiab hulkade ühendi, ühisosa ja antud hulga osahulga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab arvuhulki N; Z; Q; I ja R, selgitab nende kuuluvusseoseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "märgib arvteljel reaalarvude piirkondi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada, mis arvuhulka konkreetne arv kuulub;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab reaalarve järjestada ja arvteljel kujutada;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kujutada etteantud reaalarvude piirkonda (lõik, vahemik, poollõik, lõpmatu vahemik, lõpmatu poollõik) arvteljel ning arvteljel kujutatud piirkonna põhjal välja kirjutada tundmatut rahuldavaid tingimusi (ettevalmistus võrratuste lahendamiseks);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kordab tehteid ratsionaalarvudega, leiab arvu absoluutväärtuse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvuhulgad: naturaalarvude hulk <strong>N</strong>, täisarvude hulk <strong>Z</strong>, ratsionaalarvude hulk <strong>Q</strong>, irratsionaalarvude hulk <strong>I</strong> ja reaalarvude hulk <strong>R</strong>. Reaalarvude piirkonnad arvteljel. Arvu absoluutväärtus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks (eelteadmised, kõige olulisem, mis on vajalik õpilasele edasi liikumiseks, metoodilised soovitused)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Alustuseks või meelde tuletuseks veidi lugemist selle kohta <strong>kuidas matemaatikat õppida</strong> – <a href=\"https://miinor.wordpress.com/kuidas-matet-oppida/\">https://miinor.wordpress.com/kuidas-matet-oppida/</a></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Hulgateoreetilised tähistused ja tehted hulkadega (ühend, ühisosa) on õpilase jaoks uus teema, seega tuleks sellega arvestada ja võtta aega, et näiteks illustratiivselt neid mõisteid õpilastele selgitada (näiteks mis vahe on lõigul ja vahemikul). Arvuhulki käsitletakse neisse kuuluvate arvude loetlemise või kirjeldamise kaudu. Arvuhulkade vaheline seos saab selgemaks, kui illustreerida seda joonisega. Tähelepanu pööratakse märkide $\\geq$ (suurem või võrdne) ja $\\leq$ (väiksem või võrdne) tähendusele. Arvu absoluutväärtuse definitsioon valemi kujul esitatakse, kuid rõhutatakse arvu absoluutväärtust kui selle kaugust arvtelje nullpunktist. Arvutamisel on väga oluline on üle korrata/meelde tuletada astmete omadused ja abivalemid põhikoolist, et õpilastel tekiks arusaam, et ka arvutamisel saab neid omadusi kasutada. Tähelepanu korrutustabeli ja erinevate arvude (2, 3, 5, 7) astmete peast teadmisel.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Harjutamise eesmärgil on hea kasutada varasemate aastate riigieksamite ülesandeid, sest need on (tavapärasest) pikema tekstiga ning neis on sageli kombineeritud erinevate kursuste teadmisi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19391-Arvuhulgad",
+              "title": "Arvuhulgad"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19395-Reaalarvude-piirkonnad-arvteljel",
+              "title": "Reaalarvude piirkonnad arvteljel"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19397-Taisarvuline-astendaja",
+              "title": "Täisarvuline astendaja"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19398-Tehted-juurtega",
+              "title": "Tehted juurtega"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19417-Astme-moiste-uldistamine",
+              "title": "Astme mõiste üldistamine"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine (k.a näidisülesanded või kirjeldused õpitulemuste erineval tasemel saavutamisest), A, B, C tasemed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+              "title": "Õppimist toetavast hindamisest täpsemalt"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong><em>Vt lisaks näiteülesandeid lehekülje allosas</em></strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hulgateoreetiliste tähistuste kasutamine on oluline selgeks saada nii võrratuste lahendihulkade kirja panemiseks kui ka V ja VI kursuses vajalike piirkondade kirjeldamiseks.</p><p>Leida see aeg, et lugeda õpilastega ka pikema tekstiga ülesandeid. Ei peagi neid lahendama, vaid lugeda, mida õigupoolest öeldakse/küsitakse.</p><p><strong>Läbivad teemad:</strong> tehnoloogia ja innovatsioon (digivahendite kasutamine); elukestev õpe ja karjääri kujundamine (abstraktse ja loogilise mõtlemise areng); kultuuriline identiteet (matemaatika ajalugu); väärtus ja kõlblus (süstemaatilisuse, püsivuse, täpsuse, korrektsuse ja kohusetunde arendamine).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "AVALDISED",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "sooritab tehteid astmete ja juurtega (teine kuni neljas juur), teisendades viimased ratsionaalarvulise astendajaga astmeteks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teisendab lihtsamaid (kaks tehet ja sulud) ratsionaal- ja irratsionaalavaldisi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kordab tehteid astmetega. Negatiivse astendajaga aste. Arvu $n$-es juur. Murrulise astendajaga aste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab ratsionaalarvulise astendajaga astme teisendada juureks ja vastupidi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab vähemalt taskuarvutiga mis tahes arvu astme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab tehteid ratsionaalarvulise astendajaga astmetega. Teeb lihtsamaid tehteid võrdsete juurijatega juurtega (teine kuni neljas juur), kasutades valemeid $\\sqrt[n]a\\cdot\\sqrt[n]b=\\sqrt[n]{ab}$ ja $\\sqrt[n]{\\dfrac{a}{b}}=\\dfrac{\\sqrt[n]a}{\\sqrt[n]b}$",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lihtsustab ratsionaal- ja irratsionaalavaldisi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ratsionaalavaldised. Arvu <em>$n$</em>-es juur. Astme mõiste üldistamine: täisarvulise ja ratsionaalarvulise astendajaga aste.</p><p>Arvu juure esitamine ratsionaalarvulise astendajaga astmena.</p><p>Tehted astmetega ja võrdsete juurijatega juurtega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks (eelteadmised, kõige olulisem, mis on vajalik õpilasele edasi liikumiseks, metoodilised soovitused)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tuleb arvestada, et põhikoolis õpetatakse ainult arvu kümme negatiivse astendajaga astmeid, seega käsitletakse negatiivset astendajat gümnaasiumis esimest korda.</p><p>Põhilisi võtteid juurtega töötades on nende teisendamine murrulise astendajaga astmeks ning astmete omaduste rakendamine koos saadud vastuse kirjutamisega juurena. Lihtsamatel juhtudel võib kasutada ka juurte omadusi.</p><p>Harjutamise eesmärgil on hea kasutada varasemate aastate riigieksamite ülesandeid, sest need on (tavapärasest) pikema tekstiga ning neis on sageli kombineeritud erinevate kursuste teadmisi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19414-Ratsionaalavaldised",
+              "title": "Ratsionaalavaldised"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19416-Irratsionaalavaldised",
+              "title": "Irratsionaalavaldised"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine (k.a näidisülesanded või kirjeldused õpitulemuste erineval tasemel saavutamisest), A, B, C tasemed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+              "title": "Õppimist toetavast hindamisest täpsemalt"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong><em>Vt lisaks näiteülesandeid lehekülje allosas</em></strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ainete lõimimise huvides on vaja korrata arvu standardkuju koos mõningate standardkujul antud arvudega tehtavate korrutamis- ja jagamistehete näidetega.</p><p>Leida see aeg, et lugeda õpilastega ka pikema tekstiga ülesandeid. Ei peagi neid lahendama, vaid lugeda, mida õigupoolest öeldakse/küsitakse.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "VÕRRANDID JA VÕRRATUSED",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab võrdust, samasust, võrrandit ja võrratust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab ühe tundmatuga lineaar- ja ruutvõrrandeid ning -võrratusi, samuti lihtsamaid murdvõrrandeid (maksimaalselt 2 murdu) ning ühe tundmatuga lineaarvõrratuste süsteeme",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab lihtsamaid reaalelulise kontekstiga probleeme võrrandite ja võrrandisüsteemide abil.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab lahendada elulisi protsentülesandeid (hinnamuutus protsentides, mingi aine sisaldus protsentides);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab lihtsamaid elulisi tekstülesandeid, mis taanduvad kas lineaar-, ruut- või murdvõrrandi, lineaarvõrrandisüsteemi, lineaar-, ruut- või lineaarvõrratussüsteemi lahendamisele.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võrdus, võrrand, samasus.</p><p>Lineaar-, ruut- ja murdvõrrandi lahendamine.</p><p>Võrratuse mõiste ja omadused. Lineaar- ja ruutvõrratuste lahendamine.</p><p>Lihtsamate, sealhulgas tegelikkusest tulenevate, tekstülesannete lahendamine võrranditega. Võrrandite, võrratuste, võrrandi- ja võrratusesüsteemide lahendamine.</p><p>Võrrandite, võrratuste, võrrandi- ja võrratusesüsteemide lahendhulkade leidmine ja kontrollimine digivahendite abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks (eelteadmised, kõige olulisem, mis on vajalik õpilasele edasi liikumiseks, metoodilised soovitused)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vaadatakse ka lineaarvõrrandeid, kus lahendid puuduvad või lahendiks on reaalarvude hulk. Ruutvõrrandeid lahendades rõhutatakse, et ruutvõrrandil on:</p><ol><li>kaks erinevat reaalarvulist lahendit;</li><li>kaks võrdset reaalarvulist lahendit</li></ol><p>või</p><ol start=\"3\"><li>reaalarvulised lahendid puuduvad.</li></ol><p>Murdvõrrandit lahendades võib võrrandi läbi korrutada ühise nimetajaga tingimusel, et nimetaja ei ole null. Lahendatavate murdvõrrandite keerukus võiks olla piiratud peamiselt tekstülesannete lahendamisel tekkivate murdvõrranditega. Kuna murdvõrrandit lahendades võib tekkida võõrlahendeid, tuleb kindlasti teha kontroll.</p><p>Võrrandisüsteeme lahendades tuleks piirduda sellistega, kus üks võrrand on ruutvõrrand ja teine lineaarvõrrand, aga niisuguste kordajatega, kus mistahes muutuja avaldamise korral jääks samuti täisarvulised kordajad – ei mingeid kolmandikke jne. Selliste süsteemide lahendamist korratakse 3. kursusel, kus on vaja leida joonte lõikepunktid.</p><p>Kuna põhikoolis enam võrratusi ei lahendata, on mõistlik algul lineaarvõrratusi ja nende põhiomadusi tutvustada koos arvuhulkade kui võrratuste lahendite kujutamisega arvteljel. Hiljem tullakse teema juurde tagasi lineaarvõrratuste käsitluse süvendamisega ruutvõrratuste ja lineaarvõrratuste süsteemide käsitlemise eel. Võrratuste ja eriti nende süsteemide lahendamisel on oluline kujutada nende lahendihulki arvteljel. Ruutvõrratusi lahendatakse neile vastavate paraboolide skitseerimise kaudu. Paraboolide skitseerimisel võib mõistlikkuse piires kasutada ka arvutiprogramme.</p><p>Murdvõrratusi gümnaasiumi kitsa ainekava järgi ei käsitleta.</p><p>Et süvendada probleemülesannete lahendamise strateegiaid, tuleb võtta ja leida aega, et LUGEDA erinevaid tekste. Tekstülesannete käsitlemist võiks alustada tekstide üheskoos lugemisega.</p><p>Kogu kitsa matemaatika kursuses peab olema erilisel kohal ning pideva tähelepanu all reaalsete kontekstidega protsentülesannete lahendamine. Vaadeldavas kursuses lisanduvad neile uue ainekava järgi põhikoolis mittekäsitletavad murdvõrrandite ning võrrandisüsteemide lahendamise oskust nõudvad lihtsamad tekstülesanded (sinna alla ei kuulu koostööülesanded jne).</p><p>Harjutamise eesmärgil on hea kasutada varasemate aastate riigieksamite ülesandeid, sest need on (tavapärasest) pikema tekstiga ning neis on sageli kombineeritud erinevate kursuste teadmisi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19419-Vorrandid",
+              "title": "Võrrandid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19420-Kahe-tundmatuga-lineaarvorrandisusteemid",
+              "title": "Kahe tundmatuga lineaarvõrrandisüsteemid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19421-Tekstulesannete-lahendamine",
+              "title": "Tekstülesannete lahendamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19438-Lineaarvorratused",
+              "title": "Lineaarvõrratused"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19439-Lineaarvorratuste-susteemid",
+              "title": "Lineaarvõrratuste süsteemid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19440-Ruutvorratused",
+              "title": "Ruutvõrratused"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine (k.a näidisülesanded või kirjeldused õpitulemuste erineval tasemel saavutamisest), A, B, C tasemed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Alustada võiks nö lihtsamatest protsentülesannetest: suuruste muutumine ja suuruste võrdlemine - mitu protsenti on üks suurus teisest väiksem vs mitu protsenti on üks suurus teisest suurem.</p><p>Õpilaste jaoks kõige keerulisemateks osutuvad pika tekstiga ülesanded ja ülesanded, mille lahendamiseks tuleb koostada murdvõrrand (teepikkust, kiirust ja aega siduvad ülesanded).</p><p>Tähelepanu tuleks pöörata tekstülesannete vastuste tõlgendamisele: kas on realistlikud, miks negatiivne arv ei sobi, miks mõlemad lahendid sobivad?</p><p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+              "title": "Õppimist toetavast hindamisest täpsemalt"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong><em>Vt lisaks näiteülesandeid lehekülje allosas</em></strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Leida see aeg, et lugeda õpilastega ka pikema tekstiga ülesandeid. Ei peagi neid lahendama, vaid lugeda, mida õigupoolest öeldakse/küsitakse. Suurepärane võimalus õpipädevust kujundada ja arendada.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Füüsika",
+              "children": [
+                { "kind": "text", "html": "<p>Liikumisülesanded.</p>" }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Keemia",
+              "children": [
+                { "kind": "text", "html": "<p>Aine sisaldus protsentides.</p>" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454342/kitsas_mat_I_kursus_n2iteyl.docx?version=1&modificationDate=1706621732587&api=v2",
+          "title": "kitsas_mat_I_kursus_n2iteyl.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454342/kitsas_mat_I_kursus_n2iteyl.pdf?version=1&modificationDate=1706621732591&api=v2",
+          "title": "kitsas_mat_I_kursus_n2iteyl.pdf"
+        }
+      ]
+    }
+  ]
+}

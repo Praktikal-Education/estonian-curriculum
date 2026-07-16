@@ -1,0 +1,148 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Teemavaldkonnad",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Teemavaldkonnad on ühised nii B1- kui B2-keeleoskustasemega võõrkeeltele. Kuus teemavaldkonda on igapäevaelus omavahel läbi põimunud ning nii käsitletakse neid ka keeleõpetuses.</p><ul><li>Inimene ja ühiskond</li><li>Inimene ja keskkond</li><li>Eesti ja maailm</li><li>Kultuur ja looming</li><li>Haridus ja töö</li><li>Teadus ja tehnoloogia</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Keeleteadmised",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Keeleteadmiste tabel näitab, millisel kooliastmel mingit keeleteadmist õpetama hakatakse, mitte selle omandamist.</li><li>Keeleteadmiste tabel ei kajasta keelepädevuse kujunemist.</li><li>Keeleteadmisi tuleb vaadelda keeleoskustasemete kontekstis, lähtudes sellest, milliseid grammatika komponente mingil tasemel kirjeldatud keeletoiminguteks võiks vaja minna.</li><li>Keelestruktuurid on esitatud kooliastmeti ja need on seotud sellel kooliastmel saavutatava keeleoskustasemega, seega tuleb neid käsitleda koos kooliastmete õpitulemustega osaoskustes.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Inglise keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Keeleteadmised: inglise keel</strong> Keelepädevus põhineb keeleteadmistel.</p><p><strong>Sulgudes olevad näited ei ole ammendav loetelu</strong></p>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>LAUSEÕPETUS</td><td>Tähestik; suur ja väike täht nimedes; lihtlause; lihtsad küsimused ja küsisõnad; korraldused; viisakas sooviavaldus; rinnastavad sidesõnad.</td><td>Õigekiri; algustäht; kirjavahemärgid; sõnajärg; rindlaused; rinnastavad ja alistavad sidesõnad; kaudne kõne; kõrvallaused; tingimuslausete 0 ja I tüüp.</td><td>Põimlaused; fraaside ja lausete ühendamine; alistavad sidesõnad; it/there lause algul; tingimuslaused 0–III; kaudne kõne; kokku- ja lahkukirjutamine; defineerivad ja mittedefineerivad kõrvallaused; küsijätke kasutamine.</td><td>Õigekirjasüsteemi tajumine; teksti sidusus; kirjavahemärgid; sõnade poolitamine; mitmesuguseid kõrvallauseid alustavad sidesõnad; tingimuslausete segavormid; kaudsed küsimused; lauserõhk.</td></tr><tr><td>TEGUSÕNA</td><td>Present Simple, Present Continuous, Past Simple, going-to tulevik, can ja tegevusnimed.</td><td>Future Simple, Past Continuous, Present Perfect; tuleviku väljendamine; reegli- ja ebareeglipärased tegusõnad.</td><td>Harvemini esinevad ebareeglipärased tegusõnad; isikuline tegumood.</td><td>Isikuline ja umbisikuline tegumood; unreal past; tegusõna mittepöördelised vormid; infinitiiv ja gerundium; modaaltegusõnad minevikus.</td></tr></tbody></table>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>NIMISÕNA</td><td>Ainsus ja reeglipärane mitmus; omastav kääne; umbmäärane ja määrav artikkel.</td><td>Ebareeglipärane mitmus; aluse ja öeldise ühildumine; artikli puudumine.</td><td>Ainsuslikud ja mitmuslikud nimisõnad; liitnimisõnad; artikli kasutamine nimedega.</td><td>Kahekordne omastav kääne; ainsuse ja mitmuse erijuhud; laensõnade erandlik mitmus; nimisõnalised fraasid.</td></tr><tr><td>OMADUSSÕNA</td><td>Üldlevinud omadussõnad.</td><td>Võrdlusastmed ja võrdlemine.</td><td>Rahvuse ja kodakondsuse väljendamine; eritüvelised võrdlusastmed.</td><td>Sõnajärg mitme täiendsõna puhul.</td></tr><tr><td>ASESÕNA</td><td>Isikulised ja omastavad asesõnad.</td><td>Siduvad, omastavad, enesekohased ja umbmäärased asesõnad.</td><td>Umbmäärased asesõnad.</td><td></td></tr></tbody></table>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>EESSÕNA</td><td>Enam kasutatavad eessõnad koha- ja ajamäärustes.</td><td>Aja-, koha- ja viisimääruste eessõnad; eessõnalised väljendid.</td><td>Eessõnalised väljendid ja eessõnad viisimäärustes.</td><td>Nimi-, tegu- ja omadussõnalised fraasid eessõnadega.</td></tr><tr><td>ARVSÕNA</td><td>Põhiarvud 1–20; telefoninumbrid.</td><td>Põhi- ja järgarvud; lihtmurrud; kuupäevad ja aastaarvud.</td><td>Protsent; aritmeetilised põhitehted; kümnendmurrud.</td><td>Mõõtühikud.</td></tr><tr><td>MÄÄRSÕNA JA SÕNATULETUS</td><td>Levinumad aja-, koha-, hulga- ja määramäärsõnad.</td><td>Määrsõnade moodustamine; sagedus- ja viisimäärsõnad; tuletusliited.</td><td>Määrsõnade liigid ja võrdlemine; liitsõnad ning ees- ja järelliited.</td><td>Mitmetähenduslikud määrsõnad; ees- ja järelliited sõnamoodustuseks.</td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Saksa keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Keeleteadmised: saksa keel</strong></p><p>Keelepädevus põhineb keeleteadmistel.</p><p><strong>NB! Kaldkirjas olevad näited ei ole ammendav loetelu</strong></p>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>LAUSEÕPETUS</td><td>Lihtlause ning rinnastavate sidesõnadega liitlause.</td><td>Liitlause alistavate sidesõnadega.</td><td>Asesõnaliste sihitiste järjekord; kaudne küsimus; kõrvallaused ja võrdluslause.</td><td>Rind- ja põimlaused erinevate sidesõnadega.</td></tr><tr><td>TEGUSÕNA</td><td>Präsens, Perfekt, Präteritum; modaal- ja abitegusõnad; käskiv kõneviis.</td><td>Perfekt, Präteritum, Konjunktiv II, enesekohased tegusõnad.</td><td>Futur I, Konjunktiv II, Passiv ja infinitiiv.</td><td>Passiv, Plusquamperfekt, Konjunktiv II ja infinitiiv.</td></tr><tr><td>NIMISÕNA, OMADUSSÕNA, ASESÕNA, EESSÕNAD, ARVSÕNA, SIDESÕNA, SÕNATULETUS</td><td>Sugu, mitmus, käänamine, põhilised artiklid, asesõnad, eessõnad, arvsõnad, sidesõnad ja liitsõnad.</td><td>Käänamine, võrdlusastmed, asesõnad, eessõnalised väljendid, arvsõnad, alistavad sidesõnad ja tuletusliited.</td><td>Genitiiv, rektsioon, siduvad asesõnad, eessõnad, rinnastavad ja alistavad sidesõnad ning konversioon.</td><td>Keerukamad käänded, asesõnad, eessõnad, sidesõnad ning nimi-, omadus- ja tegusõnade tuletusliited.</td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Prantsuse keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Keeleteadmised: prantsuse keel</strong></p><p>Keelepädevus põhineb keeleteadmistel.</p><p><strong>NB! Kaldkirjas olevad näited ei ole ammendav loetelu</strong></p>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>LAUSEÕPETUS</td><td>Lihtlause, eitus ja küsimus; sidesõnad et ja mais; liesoon ja elisioon.</td><td>Liht- ja liitlause; eitus; lihtsamad sidesõnad; küsi- ja eitavad küsimused.</td><td>Liitlause konstruktsioonid; loogiliste seoste, aja ja tingimuse väljendamine; otse- ja kaudsihitis; kaudne kõne.</td><td>Topelteitus, tingimuslaused ja kaudne kõne olevikus ning minevikus.</td></tr><tr><td>TEGUSÕNA</td><td>Reeglipärased ja ebareeglipärased tegusõnad; présent.</td><td>Présent, passé composé, imparfait, futur simple, futur proche ja passé immédiat; käskiv kõneviis.</td><td>Kindla ja tingiva kõneviisi ajad, passiiv, gérondif, subjonctif présent ja aegade ühildumine.</td><td>Passé antérieur, futur antérieur, conditionnel ja subjunktiivi ajad; mineviku ajad ja ühildumine.</td></tr><tr><td>NIMISÕNA, ARTIKLID, OMADUSSÕNA, ASESÕNA, EESSÕNA, ARVSÕNA, MÄÄRSÕNA</td><td>Sugu ja mitmus; määravad ning umbmäärased artiklid; ühildumine; isikulised asesõnad; põhiarvud ja levinumad määrsõnad.</td><td>Soo ja mitmuse erandid; artiklid; võrdlusastmed; näitavad, küsivad ja siduvad asesõnad; kohamäärused ning järgarvud.</td><td>Sõnamoodustus; artiklite süsteem; erandlikud võrdlusastmed; sihitise asesõnad; loogilisi seoseid väljendavad eessõnad ja määrsõnade moodustamine.</td><td>Liitsõnad; determinantide süsteem; umbmäärased ja topeltasesõnad; eessõna rektsioon; määrsõna koht lauses.</td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Vene keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Keeleteadmised: vene keel</strong></p><p><strong>NB! Kaldkirjas olevad näited ei ole ammendav loetelu</strong></p>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>KIRI JA HÄÄLDUS</td><td>Vene tähestik, siduskiri, nimede kirjutamine, häälikute tähendus ja sõnarõhk.</td><td>Sõnarõhu ja häälikuvahelduste muutumine.</td><td>Sõnarõhu muutumine nimisõnade käänamisel.</td><td>Häälikuvaheldused imperfektiivse aspekti moodustamisel.</td></tr><tr><td>NIMISÕNA, OMADUSSÕNA JA TEGUSÕNA</td><td>Grammatiline sugu, mitmus, omadussõnade lõpud ning tegusõnade pööramine olevikus.</td><td>Käänded, omadussõnade käänamine ja võrdlusastmed, ajavormid, enesekohased ja liikumisverbid.</td><td>Mitmuse käänded, verbirektsioon, modaalverbid, käskiv ja tingiv kõneviis ning verbi aspekt.</td><td>Käändkonnad, sõnamoodustus, verbi aspekt ja aspektipaarid, eesliited ning kesksõnad.</td></tr><tr><td>ASESÕNA, MÄÄRSÕNA, ARVSÕNA, ABISÕNAD JA LAUSE STRUKTUUR</td><td>Isikulised ja omastavad asesõnad; hinnangut väljendavad määrsõnad; põhiarvsõnad; sidesõnad; lihtlaused.</td><td>Asesõnade käänamine; määrsõnade moodustamine; järgarvsõnad; eessõnad ja alistavad sidesõnad; lause põhiliikmed.</td><td>Omastavate asesõnade käänamine; määrsõnade võrdlusastmed; keerukamad eessõnad ja sidesõnad; lauselaiendid.</td><td>Possessiivsus, hulgasõnad, vastandusseos ning keerukam lausestruktuur.</td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soome keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Keeleteadmised: soome keel</strong></p><p>Keelepädevus põhineb keeleteadmistel.</p><p>NB! Sulgudes olevad näited ei ole ammendav loetelu.</p>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>HÄÄLDAMINE</td><td>Tähestik; pikad ja lühikesed vokaalid; klusiilid, sõnarõhk ning eesti ja soome häälduse võrdlus.</td><td>Pikad ja lühikesed vokaalid ja konsonandid.</td><td></td><td></td></tr><tr><td>TEGUSÕNAD. AJAD</td><td>Lihtsamad tegusõnad, olla-verbi pööramine ning oleviku jaatav ja eitav kõne.</td><td>Verbitüübid I–IV, astmevaheldus, olevik, lihtminevik ja nud-kesksõna.</td><td>Verbitüübid I–IV, minevik, täis- ja enneminevik, täytyy- ja minen-vorm.</td><td>Verbitüübid I–VI, kõik ajavormid, rektsioon, tta/ttä-verbid ning ma-infinitiiv.</td></tr></tbody></table>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th><th>B2-keeleoskustase</th></tr></thead><tbody><tr><td>TEGUMOED. KÕNEVIISID</td><td>Kindel kõneviis ja käskiva kõneviisi sina-vorm.</td><td>Kindel, käskiv ja umbisikuline tegumood.</td><td>Umbisikuline tegumood ning tingiv kõneviis.</td><td></td></tr><tr><td>KÄÄNDSÕNA, ASESÕNA JA MUUTUMATUD SÕNAD</td><td>Nimisõna fraasides, mitmus ja osastav; algvõrre; põhiarvsõnad; isikulised ja küsivad asesõnad; sagedased side-, ees- ja tagasõnad.</td><td>Käänamine, kohakäänded ja nimisõnatüübid; võrdlusastmed; järgarvud; näitavad ja siduvad asesõnad; sidesõnad ja määrsõnad.</td><td>Käänamine ainsuses ja mitmuses; omadussõnade käänamine; arvsõnade käänamine; umbmäärased asesõnad; ühendsidesõnad.</td><td></td></tr><tr><td>AJAVÄLJENDAMINE JA LAUSEÕPETUS</td><td>Nädalapäevad, kellaaeg, kuud, aastaajad ja küsimussõnad.</td><td>Ajaväljendite kasutamine; küsimussõnade ja vastuse seos.</td><td>Keerulisemad lausekonstruktsioonid küsimussõnadega.</td><td></td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hispaania keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Keeleteadmised: hispaania keel</strong></p><p>Keelepädevus põhineb keeleteadmistel.</p><p><strong>NB! Sulgudes olevad näited ei ole ammendav loetelu</strong></p>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th></tr></thead><tbody><tr><td>NIMISÕNA</td><td>Mees- ja naissoost nimisõnad ning mitmuse moodustamine.</td><td>Erandlikud nimisõnad ja ebareeglipärane mitmus.</td><td>Sõnade moodustamine tuletiste abil.</td></tr><tr><td>ARTIKKEL, OMADUSSÕNA JA ARVSÕNA</td><td>Umb- ja määravad artiklid; omadussõnade sugu, mitmus, paiknemine ja ühildumine; põhiarvsõnad.</td><td>Artiklite valik ja erandid; omadussõnade võrdlusastmed; järgarvud ja arvsõnade ühildumine.</td><td>Neutraalne artikkel lo; sõnamoodustus ja superlativo absoluto; primero ja tercero lühenemine.</td></tr><tr><td>ASESÕNA, EESSÕNA JA MÄÄRSÕNAD</td><td>Isikulised, enesekohased, omastavad ja näitavad asesõnad; levinud eessõnad ning määrsõnad.</td><td>Asesõnade eessõnalised ja rõhulised vormid, umbmäärased ja siduvad asesõnad; verbide eessõnad; mente-lõpulised määrsõnad.</td><td>Otse- ja kaudsihitise kooskasutus; umbmääraste sõnade ühildumine.</td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Rootsi keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Keeleteadmised: rootsi keel</strong> Keelepädevus põhineb keeleteadmistel.</p>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th></tr></thead><tbody><tr><td>LAUSEÕPETUS</td><td>Lihtlausete, eitava ja küsiva lause, lühivastuse ning lihtsa liitlause moodustamine.</td><td>Pealause, käskiv kõneviis, kõrvallause ja kaudne kõne.</td><td>Sõnajärg pea- ja kõrvallauses, tingimuslaused, hüüdlaused ja s-passiiv.</td></tr><tr><td>TEGUSÕNAD JA NIMISÕNAD</td><td>Tegevusnimi, olevik, modaal- ja enesekohased tegusõnad; artikkel, nimisõna vormid ja mitmus.</td><td>Ajavormid, depoonens- ja partikkelverbid; nimisõna ja omadussõna ühildumine.</td><td>Retsiprooksed ja depoonensverbid, s-passiiv ning ebareeglipärased nimisõnad.</td></tr><tr><td>ASESÕNAD, OMADUSSÕNAD, MÄÄRSÕNAD, EESSÕNAD, SIDESÕNAD JA ARVSÕNAD</td><td>Isikulised, omastavad ja näitavad asesõnad; omadussõna ühildumine; lihtsad määrsõnad, eessõnad, sidesõnad ja arvsõnad.</td><td>Enesekohased, näitavad ja hulka tähistavad asesõnad; võrdlusastmed; määr-, ees- ja sidesõnade kasutamine; järgarvud.</td><td>Siduvad asesõnad, kesksõnad, keerukamad määr- ja eessõnad, ühendsidesõnad ja murdarvud.</td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Läti keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Keeleteadmised: läti keel</strong></p><p>Keelepädevus põhineb keeleteadmistel.</p><p><strong>NB! Sulgudes olevad näited ei ole ammendav loetelu</strong></p>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Valdkond</th><th>A1-keeleoskustase</th><th>A2-keeleoskustase</th><th>B1-keeleoskustase</th></tr></thead><tbody><tr><td>RÕHK JA HÄÄLDAMINE</td><td>Tähestik, pikad vokaalid, palataliseeritud konsonandid, konsonantide hääldus ja sõnarõhk.</td><td></td><td></td></tr><tr><td>NIMISÕNA, OMADUSSÕNA JA ARVSÕNA</td><td>Sõnalõputunnused, käändkonnad, mitmus, algvõrre ja põhiarvsõnad.</td><td>Seitse käänet, omadussõnade võrdlusastmed, järgarvud ja arvsõnade ühildumine.</td><td>Nimisõnade tuletamine ja deminutiivid, omadussõnade käänamine, järgarvude käänamine.</td></tr><tr><td>ASESÕNA, KAASSÕNAD, MÄÄRSÕNAD JA SIDESÕNAD</td><td>Isikulised, näitavad ja omastavad asesõnad; ees- ja tagasõnad; määr- ja sidesõnad.</td><td>Asesõnade mitmuse vormid, nimisõna ja omadussõna koos kaassõnaga, määrsõnade võrdlusastmed.</td><td>Asesõnade käänamine ja instrumentaali käände kasutamine.</td></tr><tr><td>TEGUSÕNA, TEGUMOED JA LAUSEÕPETUS</td><td>Ebareeglipärased tegusõnad, olevik, minevik ja tulevik; kindel ning käskiv kõneviis; sõnajärg ja liitlaused.</td><td>Kolm konjugatsiooni, ajavormid ja kesksõnad; isikuline tegumood ja tingiv kõneviis; küsilaused ja põimlaused.</td><td>Täis- ja enneminevik, tegusõna kõigis konjugatsioonides; tingiv kõneviis; keerulisemad lausekonstruktsioonid.</td></tr></tbody></table>"
+        }
+      ]
+    }
+  ]
+}

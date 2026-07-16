@@ -1,0 +1,851 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Ajaloo õpitulemused ja õppesisu III kooliastmes",
+      "children": [
+        { "kind": "text", "html": "<p>Keskaeg ja varauusaeg</p>" },
+        {
+          "kind": "section",
+          "title": "Maailm keskajal 476–1492",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Keskaja mõiste, üldiseloomustus ja perioodiseerimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Teema kaudu kujundatakse õpilasel oskust orienteeruda ajas, analüüsida ja mõista seoseid ning mõtestada ajaloolise keskkonna kujunemist.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Seisused, läänikord ja eluolu",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "iseloomustab seisuslikku ühiskonda: nimetab seisused ja ülesanded, selgitab jumala tähtsust keskaja inimese maailmapildis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab läänikorda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab kontekstis mõistet senjöör ja vasall ja truudus, feodaal",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab feodaalset hierarhiat, selgitab seoseid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab läänimeeste elulaadi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab keskaegset linnust,",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib linnuselu vooruseid ja puuduseid keskaja inimese seisukohast",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ristiusk, kirik ja kultuur",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "iseloomustab kiriku rolli keskaja ühiskonna ja üksikisiku elus;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab kiriku struktuuri,",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab mõne näite põhjal, mil moel võivad ehitised, kunstiteosed ja muud esemed anda teavet keskaegse inimese maailmapildi kohta.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb kirjalike tekstide või kunstiteoste põhjal lihtsamaid järeldusi, hinnates autori taotlusi ja veendumusi ajaloolises kontekstis.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ja nimetab romaani ja gooti stiili arhitektuuris (ümarkaar/ teravkaar, hoone üldilme, akende suurus ja hulk,detailid);",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab kunstiteoste toel keskaja kujutavat kunsti (temaatika, kujutamisviis, kunstniku staatus, eesmärgid).",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    { "kind": "topic", "title": "Euroopa riigid varakeskajal", "children": [] },
+    { "kind": "topic", "title": "Linnad ja linnaelu", "children": [] },
+    { "kind": "topic", "title": "Euroopa riigid kõrgkeskajal", "children": [] },
+    {
+      "kind": "topic",
+      "title": "Keskaegse Euroopa naabrid: araablased, Bütsants, viikingid, Vana-Vene riik",
+      "children": []
+    },
+    { "kind": "topic", "title": "Ristisõjad", "children": [] },
+    {
+      "kind": "topic",
+      "title": "Haridus, ülikoolid ja teadus",
+      "children": []
+    },
+    { "kind": "topic", "title": "Eesti keskajal", "children": [] },
+    {
+      "kind": "section",
+      "title": "Maailm varauusajal 1492–1600",
+      "children": []
+    },
+    {
+      "kind": "topic",
+      "title": "Maadeavastused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Selgitab Christoph Kolumbuse rolli Ameerika avastajana eurooplaste jaoks;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid hispaanlastest ja portugallastest kolonisaatorite eesmärkidest ja tegevusest Ameerikas.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Märgib kaardile maadeavastajate retked. Kirjeldab retkesid oma sõnadega kasutades geograafia termineid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab eurooplaste kolonialismi põhjuseid ja tagajärgi Uues Maailmas;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid hispaanlaste ja portugallaste tegevusest Uue Maailma avastus- ja vallutusretkedel;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab hinnangu eurooplaste kolonisatsioonile Uues Maailmas kolonistide, põliselanike ja tänapäeva seisukohast.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Reformatsioon ja vastureformatsoon",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid reformatsiooni eesmärkidest, levikust ja mõjust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab vastureformatsiooni põhjuseid ja tagajärgi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib ja tutvustab mõne keskajal elanud inimese võimalusi ja valikuid Marthin Lutheri ja tema mõttekaaslaste näitel",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Renessanss ja humanism",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "võrdleb skolastikat ja humanismi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid humanistide, maadeavastajate ja renessansiajastu õpetlaste tegevusest ja selgitab nende tegevuse mõju teadusliku maailmapildi kujunemisele.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, kuidas teadusliku maailmapildi kujunemine hiliskeskajal on mõjutanud inimeste suhtumist loodusesse.",
+          "outcomeType": "knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppematerjali viited",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://learning-corner.learning.europa.eu/system/files/2021-12/disinformation-booklet_et.pdf",
+          "title": "disinformation-booklet_et.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.emakeeleselts.ee/omakeel/2011_2/OK_2011-2_03.pdf",
+          "title": "OK_2011-2_03.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://olympiaadid.haridus.ee/failid/AJOLTLN_16.01.2018_PK_8kl_%C3%9CLESANDED.pdf",
+          "title": "AJOLTLN_16.01.2018_PK_8kl_ÜLESANDED.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://olympiaadid.haridus.ee/failid/Ajalugu_%C3%BCles_7_kl_E_05_06.pdf",
+          "title": "Ajalugu_üles_7_kl_E_05_06.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://olympiaadid.haridus.ee/failid/ajoltln_16.01.18_PK_8kl_VASTUSED.pdf",
+          "title": "ajoltln_16.01.18_PK_8kl_VASTUSED.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.ra.ee/wp-content/uploads/2016/10/DuginAleksandr_Kaks_humanismi_TUNA2001_1.pdf",
+          "title": "DuginAleksandr_Kaks_humanismi_TUNA2001_1.pdf"
+        },
+        { "kind": "video", "src": "https://youtu.be/GIXjpFp9YRo" },
+        { "kind": "video", "src": "https://youtu.be/IzppIYVi3dA" },
+        { "kind": "video", "src": "https://youtu.be/RryZFrOcf6U" },
+        { "kind": "video", "src": "https://youtu.be/revbFZVUHJg" },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=2ddm4k4_KaY"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=5KnS5wfZits"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=LtGoBZ4D4_E&t=7s"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=ORfLgV6jpig"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=QUB_BrVj-bI"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=QhyUl3H2qqA"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=XyY4-W05ztQ"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Zhgxb7dsacw&list=PLH55BK1JEw-p280MvUwzjFTR0y-z4OCgi&index=18"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=bQ8A5gRe_Dw&list=PLA5NP5n9YwGU8-W_Ghthb7E9QTNdfWONS"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=e6qV4R04BWg"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=eiT6Euy8SvA"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=jaiyv0dU6D8"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=k89-yAUayPo"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=weMhSSYoRi4"
+        },
+        { "kind": "embed", "src": "https://learningapps.org/10722776" },
+        { "kind": "embed", "src": "https://learningapps.org/1680386" },
+        { "kind": "embed", "src": "https://learningapps.org/18314245" },
+        { "kind": "embed", "src": "https://learningapps.org/18752864" },
+        { "kind": "embed", "src": "https://learningapps.org/2255202" },
+        { "kind": "embed", "src": "https://learningapps.org/2255255" },
+        { "kind": "embed", "src": "https://learningapps.org/23234789" },
+        { "kind": "embed", "src": "https://learningapps.org/3985185" },
+        { "kind": "embed", "src": "https://learningapps.org/3985218" },
+        { "kind": "embed", "src": "https://learningapps.org/8956880" },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/display?v=p3vfq1e2t19"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/display?v=p6g72f6v521"
+        },
+        {
+          "kind": "link",
+          "href": "http://keskaegnekirik.weebly.com/ristisotildejad.html",
+          "title": "Ristisõdijad"
+        },
+        {
+          "kind": "link",
+          "href": "http://tarbija24.postimees.ee/2606480/keskaegne-toidulaud-tallinnas-ohtralt-soola-ja-olut",
+          "title": "Keskaegne toidulaud Tallinnas"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.eestikirik.ee/uskmatu-tooma-usust/",
+          "title": "Uskmatu Tooma usust"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.piritaklooster.ee/birgitiinid-pirital/",
+          "title": "Birgitiinid Pirital"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.travelandlifestylediaries.com/2014/02/panoramic-medieval-views-of-old-town.html",
+          "title": "Panoramic medieval views"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/audio/seeria/keskpaevatund-puha-vaimu-kirikus",
+          "title": "Keskpäevatund Püha Vaimu kirikus"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/audio/vaata/ajalootund-r2-s-ajalootund-r2-s-1200-aastat-tagasi-krooniti-karl-suur-keisriks",
+          "title": "Ajalootund R2"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/video/vaata/minemine-haiiti-140759",
+          "title": "Minemine: 12 Haiiti"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/video/vaata/reformatsioon-500-1",
+          "title": "Reformatsioon 500"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/video/vaata/reisile-minuga-fecamp-bayeux",
+          "title": "Reisile minuga: Fécamp–Bayeux"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/video/vaata/salme-viikingid-4",
+          "title": "Salme viikingid"
+        },
+        {
+          "kind": "link",
+          "href": "https://artsandculture.google.com/story/JQURIFerj9RUIQ",
+          "title": "Arts & Culture"
+        },
+        {
+          "kind": "link",
+          "href": "https://dea.digar.ee/?a=d&d=postimeesew18911026.2.13&e=-------et-25--1--txt-txIN%7ctxTI%7ctxAU%7ctxTA-------------",
+          "title": "Postimees 26. oktoober 1891"
+        },
+        {
+          "kind": "link",
+          "href": "https://dea.digar.ee/cgi-bin/dea?a=d&d=postimeesew19421012.2.40&e=-------et-25--1--txt-txIN%7ctxTI%7ctxAU%7ctxTA-------------",
+          "title": "Postimees 12. oktoober 1942"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/192IRGOMXjR0gg8dpOxfbzIbpRcsqgOQk/view",
+          "title": "Google Drive õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/1SyZapvyIiwnnd15j76uaL1aTV408u_aU/view",
+          "title": "Google Drive õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/1hIf0VXfz9hGs01Ci5kvTaQgacvyf5Zt-/view",
+          "title": "Google Drive õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/1kxWiKiqQRvZnnNtfLq8VABh1WYHYyptF/view",
+          "title": "Tööleht"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/1mi32Q-PxMZJMxWFO9wdldioX6EagqjSC/view",
+          "title": "Google Drive õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/1pa9Mt23y5Ekd1foaexbMhxX2_V1Dq0hP/view",
+          "title": "Google Drive õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/1sSMFTTia4L37a2EBfNcUqp_wvKiNi-Ig/view",
+          "title": "Google Drive õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/1sSMFTTia4L37a2EBfNcUqp_wvKiNi-Ig/vie",
+          "title": "Google Drive õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/en/oppematerjal/18866-Keskaegne-linn-ja-kaubandus-haridus-ja-teadus-Euroopa/220605",
+          "title": "Keskaegne linn ja kaubandus"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/12258-7-klass-Ajalugu-Keelekumblus-1-66-toolehte",
+          "title": "7. klass. Ajalugu. Keelekümblus"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/12618-Ajalugu-keelekumbluse-toolehed-7-klassile/215090",
+          "title": "Ajalugu keelekümbluse töölehed 7. klassile"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/12618-Ajalugu-keelekumbluse-toolehed-7-klassile/215092",
+          "title": "Ajalugu keelekümbluse töölehed 7. klassile"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13714-Keskaegsed-linnad",
+          "title": "Keskaegsed linnad"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13772-Eesti-keskaegsete-linnade-valitsemine-Raad",
+          "title": "Eesti keskaegsete linnade valitsemine"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/13783-Ristisojad-Kaart-1",
+          "title": "Ristisõjad: kaart"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/18835-Seisused-keskaja-Euroopas/220180",
+          "title": "Seisused keskajal"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/18835-Seisused-keskaja-Euroopas/220183",
+          "title": "Läänikord"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/18835-Seisused-keskaja-Euroopas/220190",
+          "title": "Keskaja Euroopa"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/18835-Seisused-keskaja-Euroopas/220194",
+          "title": "Läänipüramiid"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/18866-Keskaegne-linn-ja-kaubandus-haridus-ja-teadus-Euroopa/220594",
+          "title": "Keskaegne linn ja kaubandus"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/19070-Seisused-Vana-Liivimaal-moisnikud-talupojad-ja-vaimulikud/222447",
+          "title": "Seisused Vana-Liivimaal"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/26211-Tunnikonspekt-Renessansiajastu-selfie",
+          "title": "Tunnikonspekt: Renessanssiajastu selfie"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/4848#262681-AJALOOTUNNI-KAVA-Leonardo-da-Vinci-Puha-ohtusoomaaeg",
+          "title": "Ajalootunni kava: Leonardo da Vinci"
+        },
+        {
+          "kind": "link",
+          "href": "https://eelk.ee/et/kirik/vabaduse-teetahised/istutame-ounapuu/",
+          "title": "Istutame õunapuu"
+        },
+        {
+          "kind": "link",
+          "href": "https://juunior.postimees.ee/7392533/millist-elu-elasid-lapsed-keskaegses-tallinnas",
+          "title": "Lapsed keskaegses Tallinnas"
+        },
+        {
+          "kind": "link",
+          "href": "https://kultuur.err.ee/1064673/hirmud-keskajal-ja-hirmud-kaasajal",
+          "title": "Hirmud keskajal, hirmud kaasajal"
+        },
+        {
+          "kind": "link",
+          "href": "https://kuressaarecastle.ee/",
+          "title": "Kuressaare linnuse virtuaalne tuur"
+        },
+        {
+          "kind": "link",
+          "href": "https://linnaarhiiv.wordpress.com/2017/10/31/reformatsioon/",
+          "title": "Tallinna Linnaarhiivi materjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://linnamuuseum.ee/linnaelumuuseum/haridus/pohikool-ja-gumnaasium/",
+          "title": "Tallinna Linnamuuseum"
+        },
+        {
+          "kind": "link",
+          "href": "https://mapsontheweb.zoom-maps.com/post/162393086281/map-of-the-crusades-1096-1204-the-crusades-were",
+          "title": "Ristisõdade kaart"
+        },
+        {
+          "kind": "link",
+          "href": "https://maritsillamagi.wixsite.com/kunstiajalugu/about1-cwba",
+          "title": "Kunstiajalugu"
+        },
+        {
+          "kind": "link",
+          "href": "https://mitteformaalne.ee/methods/dispuut/",
+          "title": "Dispuut"
+        },
+        {
+          "kind": "link",
+          "href": "https://moodle.ag.tartu.ee/mod/book/view.php?id=4744&chapterid=402",
+          "title": "Moodle materjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://moodle.ag.tartu.ee/mod/book/view.php?id=4744&chapterid=408",
+          "title": "Moodle materjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://muuseum.ut.ee/et/sisu/kirik-ja-keskaja-inimene",
+          "title": "Kirik ja keskaja inimene"
+        },
+        {
+          "kind": "link",
+          "href": "https://narvamuuseum.ee/est/ekskursioonid/ekskursioonide-valik/#ekskursioon-linnuses-narva-linnuse-ajalugu",
+          "title": "Narva linnuse ajalugu"
+        },
+        {
+          "kind": "link",
+          "href": "https://nigulistemuuseum.ekm.ee/niguliste-muuseum/pusiekspositsioon/",
+          "title": "Niguliste muuseum"
+        },
+        {
+          "kind": "link",
+          "href": "https://novaator.err.ee/1020188/mang-millega-keskaja-inimesed-meelt-lahutasid",
+          "title": "Mäng, millega keskaja inimesed meelt lahutasid"
+        },
+        {
+          "kind": "link",
+          "href": "https://novaator.err.ee/906591/ameerikate-koloniseerimine-andis-hoogu-vaikesele-jaaajale",
+          "title": "Ameerikate koloniseerimine"
+        },
+        {
+          "kind": "link",
+          "href": "https://novaator.er",
+          "title": "Ameerikate koloniseerimine"
+        },
+        {
+          "kind": "link",
+          "href": "https://objektiiv.ee/unustatud-ajalugu-islami-invasioon-alpidesse/",
+          "title": "Unustatud ajalugu"
+        },
+        {
+          "kind": "link",
+          "href": "https://olympiaadid.haridus.ee/?objID=313",
+          "title": "Ajaloo olümpiaad"
+        },
+        {
+          "kind": "link",
+          "href": "https://olympiaadid.haridus.ee/?objID=493",
+          "title": "Ajaloo olümpiaad"
+        },
+        {
+          "kind": "link",
+          "href": "https://quizizz.com/admin/quiz/5fac3bcac016dd001bf3a72a/kristluse-kokkuvote?fromSearch=true&source=",
+          "title": "Kristluse kokkuvõte"
+        },
+        {
+          "kind": "link",
+          "href": "https://quizizz.com/admin/quiz/60c0a18793008600200c5c58/ajalugu-frangi-riik-ja-karl-suur",
+          "title": "Frangi riik ja Karl Suur"
+        },
+        {
+          "kind": "link",
+          "href": "https://quizlet.com/34021341/ajalugu-frangi-riik-kt-flash-cards/",
+          "title": "Ajalugu: Frangi riik"
+        },
+        {
+          "kind": "link",
+          "href": "https://raekoda.tallinn.ee/ru/exhibitions/raekoda-kui-kohtumaja/",
+          "title": "Raekoda kui kohtumaja"
+        },
+        {
+          "kind": "link",
+          "href": "https://simplemind.eu/",
+          "title": "SimpleMind"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/christoph-kolumbus?authuser=0",
+          "title": "Christoph Kolumbus"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/martin-luther?authuser=0",
+          "title": "Martin Luther"
+        },
+        {
+          "kind": "link",
+          "href": "https://teadus.postimees.ee/4129095/kusimus-ajaloost-miks-poletati-prantsuse-rahvuskangelane-jeanne-d-arc-tuleriidal",
+          "title": "Jeanne d’Arc"
+        },
+        {
+          "kind": "link",
+          "href": "https://upload.wikimedia.org/wikipedia/commons/7/71/Septem-artes-liberales_Herrad-von-Landsberg_Hortus-deliciarum_1180.jpg",
+          "title": "Septem artes liberales"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/h5p/embed/3103",
+          "title": "H5P õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/h5p/embed/4307",
+          "title": "H5P õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/h5p/embed/5361",
+          "title": "H5P õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/h5p/embed/5730",
+          "title": "H5P õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/h5p/embed/5974",
+          "title": "H5P õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/taxonomy/term/3121",
+          "title": "Reformatsioon"
+        },
+        {
+          "kind": "link",
+          "href": "https://voru.eelk.ee/leerikursus/reformatsioonist.htm",
+          "title": "Reformatsioon"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.ajakiri.ut.ee/artikkel/4016",
+          "title": "Ajakiri Universitas Tartuensis"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.ajakiripooning.ee/loomad-keskaja-linnas/",
+          "title": "Loomad keskaja linnas"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eays.edu.ee/%C3%B5ppematerjalid/ajalugu#h.3f41i6c8va5b",
+          "title": "Ajaloo õppematerjalid"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eays.edu.ee/%C3%B5ppematerjalid/ajalugu/audiovisuaal-i",
+          "title": "Audiovisuaalne õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.efis.ee/et/filmiliigid/film/id/20523",
+          "title": "Apteeker Melchior"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.efis.ee/et/filmiliigid/film/id/814/",
+          "title": "EFIS film"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eoc.ee/opetus/puha-apostel-toomas/?v=a57b8491d1d8",
+          "title": "Püha apostel Toomas"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.erm.ee/et/content/ajarannakud",
+          "title": "Ajarännakud"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.etera.ee/zoom/9884/view?page=1&p=separate&search=maret%20aasa&tool=search&view=0,0,2480,3509",
+          "title": "Ajalooõpik"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.etera.ee/zoom/9884/view?page=102&p=separate&search=maret%20aasa&tool=search&view=0,0,2480,3509",
+          "title": "Ajalooõpik"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.etera.ee/zoom/9884/view?page=131&p=separate&search=maret%20aasa&tool=search&view=0,0,2480,3509",
+          "title": "Ajalooõpik"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.etera.ee/zoom/9884/view?page=136&p=separate&search=maret%20aasa&tool=search&view=0,0,2480,3509",
+          "title": "Ajalooõpik"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.etera.ee/zoom/9884/view?page=52&p=separate&search=maret%20aasa&tool=search&view=0,0,2480,3509",
+          "title": "Sissejuhatus keskaega"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.etera.ee/zoom/9884/view?page=62&p=separate&search=maret%20aasa&tool=search&view=0,0,2480,3509",
+          "title": "Ajalooõpik"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.etera.ee/zoom/9884/view?page=71&p=separate&search=maret%20aasa&tool=search&view=0,0,2480,3509",
+          "title": "Rüütlid ja linnused"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.etera.ee/zoom/9884/view?page=75&p=separate&search=maret%20aasa&tool=search&view=0,0,2480,3509",
+          "title": "Rüütlid ja rüütlikultuur"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.etera.ee/zoom/9884/view?page=96&p=separate&search=maret%20aasa&tool=search&view=0,0,2480,3509",
+          "title": "Ajalooõpik"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.gapminder.org/dollar-street?topic=homes&media=all",
+          "title": "Dollar Street"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.imelineajalugu.ee/mida-kujutatakse-bayeux-vaibal/",
+          "title": "Bayeux’ vaip"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.katoliku.ee/index.php/et/uudised/eesti/500-pueha-aquino-thomasest",
+          "title": "Püha Aquino Thomas"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.kih.edu.ee/istutasime-kooliaeda-ounapuu/",
+          "title": "Istutasime kooliaeda õunapuu"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.mentimeter.com/",
+          "title": "Mentimeter"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.ohtuleht.ee/tervis/677507/christoph-kolumbuse-vastuoluline-lugu",
+          "title": "Christoph Kolumbuse vastuoluline lugu"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.raamatukoi.ee/cgi-bin/isik?883",
+          "title": "Gravett: Keskaegse rüütli maailm"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.readingmuseum.org.uk/collections/britains-bayeux-tapestry",
+          "title": "Bayeux tapestry"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.sirp.ee/s1-artiklid/c21-teadus/uhiskondlikult-vaarkoheldud-kasvatus/",
+          "title": "Kasvatus keskajal"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.sirp.ee/s1-artiklid/c9-sotsiaalia/reformatsiooni-saadikud/",
+          "title": "Reformatsiooni saadikud"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.slideshare.net/Jarveotsaajalugu/frangi-riigi-tus",
+          "title": "Frangi riik"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.slideshare.net/nataljadovgan/keskaegse-euroopa-kujunemine",
+          "title": "Keskaegse Euroopa kujunemine"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.slideshare.net/nataljadovgan/vanaliivimaa",
+          "title": "Vana-Liivimaa"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.sutori.com/en/story/keskaja-kultuur--8FyJuhgzPGotG9kGxtGGKrKV",
+          "title": "Keskaja kultuur"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.tlu.ee/opmat/ka/opiobjekt/keskaeg/keskaeg_exe/keskaja_pedagoogika_kujunemine.html",
+          "title": "Keskaja pedagoogika"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.tlu.ee/opmat/ka/opiobjekt/keskaeg/keskaeg_exe/rtli_kasvatamine.html",
+          "title": "Rüütli kasvatamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://xn--snaveeb-10a.ee/",
+          "title": "Sõnaveeb"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "content": [
+    {
+      "kind": "outcome",
+      "text": "eristab polaarseid ja mittepolaarseid aineid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab ensüümkatalüüsi iseärasusi võrreldes tavaliste katalüütiliste reaktsioonidega;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "kirjeldab mingi füüsikalis-tehnoloogilise probleemi parajasti kasutuses olevat lahendust ning analüüsib selle eeliseid ja puudusi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "mõistab ning väärtustab GISi vajalikkust ja tõhusust ruumi haldamises ning plaanimises;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab kompleksühendite ehitust;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "nimetab lihtsamaid kompleksühendeid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "valmistab kompleksühendeid ja uurib nende omadusi.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "tasakaalustab redoksreaktsioonide võrrandeid elektronbilansi meetodil;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "rakendab Hessi seadust;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab katalüüsi põhimõtet, eristab homogeenset ja heterogeenset katalüüsi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "uurib eksperimentaalselt katalüsaatorite toimet;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "analüüsib keemilise reaktsiooni kiiruse võrrandis sisalduvat infot;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "avaldab keemilise reaktsiooni tasakaalukonstanti ning aine lahustuvuskorrutist;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "uurib soolade hüdrolüüsi vees;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "põhjendab reaktsioonivõrrandi abil hüdrolüüsuva soola lahuse keskkonda;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "arvutab tugevate ja nõrkade hapete ning aluste lahuste pH-d;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab puhverlahuste toimimise põhimõtet ning nende tähtsust eluslooduses ja tehnoloogilistes protsessides;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "valmistab puhverlahuse ja uurib selle omadusi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab puhverlahuste põhimõtet ning nende rolli tehnoloogilistes protsessides ja eluslooduses;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb ära elektrofiilsed ja nukleofiilsed tsentrid ning mõtestab selle alusel asendusreaktsioone;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab alkeenide ja karbonüülühendite liitumisreaktsioone, lähtudes elektrofiilsuse ja nukleofiilsuse mõistest;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "eristab σ- ja π-sidet;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "seostab molekulide ruumilist kuju hübriidsete orbitaalide ning sidemete suunaga;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "eristab stuktuuriisomeere (ahela-, asendi- ja funktsiooniisomeere) ja stereoisomeere ning koostab nende struktuurivalemeid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "määrab geomeetriliste ja optiliste isomeeride konfiguratsiooni;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab aatomite vastastikmõju molekulis, seostades sideme polaarsust elektrofiilsete ja nukleofiilsete tsentrite tekkega molekulis ning sideme delokalisatsiooni ja laengu delokalisatsiooni ainete reaktsioonivõimega ja happelis-aluseliste omadustega;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab kovalentse sideme katkemisvõimalusi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "eristab radikaale, nukleofiile ja elektrofiile.",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "eristab SN1 ja SN2 mehhanismi nukleofiilses asendusreaktsioonis;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "analüüsib nende reaktsioonide mehhanisme, kasutades vastavat terminoloogiat (reaktsioonitsenter, ründav osake, lahkuv rühm);",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "uurib erinevate nukleofiilide tugevust;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab aromaatses tuumas kulgeva elektrofiilse asenduse mehhanismi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "rakendab Markovnikovi reeglit;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "analüüsib nukleofiilse liitumise mehhanismi polaarsele kaksiksidemele;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab bioloogia alus- ja rakendusuuringute seoseid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab raku- ja embrüotehnoloogia tegevusvaldkondi ning toob nende kohta näiteid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "analüüsib probleeme, mis seostuvad geneetiliselt modifitseeritud organismide kasutamisega inimtoiduks;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "topic",
+      "title": "Elementide keemia",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keemia valikkursus tugineb gümnaasiumi kohustuslikes keemiakursustes omandatud teadmistele, oskustele ja hoiakutele ning lõimub teistes loodusainetes õpitavaga, toetades teiste õppeainete õpet. Valikkursus süvendab gümnaasiumi kohustuslikes keemiakursustes omandatud teadmisi, oskusi ja vilumusi, võimaldab sügavamalt mõista keemiliste protsesside üldisi seaduspärasusi, avardada silmaringi meie ümber ja meis endis esinevate ainete ning nendega toimuvate keemiliste protsesside kohta. Õpilased saavad süsteemse ülevaate tähtsamate keemiliste elementide ja nende ühendite omadustest, keemia tulevikusuundumustest ning keemiaga seotud elukutsetest, mis aitab neil valida ka elukutset.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1) tunneb huvi keemia ja teiste loodusteaduste vastu, mõistab keemia tähtsust ühiskonna arengus, tänapäeva tehnoloogias ja igapäevaelus ning on motiveeritud elukestvaks õppeks;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>2) lahendab keemiaprobleeme teaduslike meetoditega, rakendades süsteemset loogilist mõtlemist, analüüsi- ja järelduste tegemise oskust ning loovust;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>3) on omandanud sügavama arusaama keemia põhimõistetest ja keemiliste protsesside üldistest seaduspärasustest;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>4) mõistab looduse, tehnoloogia ja ühiskonna vastastikuseid seoseid ning saab aru nende mõjust elukeskkonnale ja ühiskonna jätkusuutlikule arengule;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>5) suhtub vastutustundlikult elukeskkonnasse ning väärtustab tervislikku ja säästvat eluviisi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>6) langetab kompetentseid otsuseid, tuginedes teaduslikele, majanduslikele, eetilis-moraalsetele seisukohtadele ja õigusaktidele, ning hindab oma tegevuse võimalikke tagajärgi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>7) on omandanud ülevaate keemiaga seotud elukutsetest ning rakendab keemias omandatud teadmisi ja oskusi karjääri plaanides.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aatomi elektronkihid ja alakihid, elektronvalemid. Kokkuvõte keemilise sideme tüüpidest: mittepolaarne ja polaarne kovalentne side, iooniline side, metalliline side, vesinikside. Molekulide vastastikmõju, molekulidevahelised (füüsikalised) jõud. Ainete omaduste sõltuvus keemilise sideme tüübist ja aine struktuurist, kristallivõre tüübid. Põhimõisted: orbitaal, elektronvalem, mittepolaarne ja polaarne kovalentne side, ioonsed ja kovalentsed ühendid, molekulidevahelised (füüsikalised) jõud, kristallivõre. Praktilised tööd ja IKT rakendamine: ainete struktuuri uurimine ja võrdlemine molekulmudelite või arvutiprogrammide järgi.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Metallide ja nende ühendite omaduste võrdlev iseloomustus: aktiivsed metallid (leelis- ja leelismuldmetallid), p-metallid (Al, Sn, Pb), tuntumad d-metallid (Fe, Cr, Cu, Ag, Zn, Hg); nende kasutamise valdkonnad. Metallide reageerimine lämmastikhappe ja kontsentreeritud väävelhappega. Metalliühendid looduses, sh elusorganismides, tähtsamad biometallid. Raskmetalliühendite keskkonnaohtlikkus. Praktilised tööd ja IKT rakendamine: teemakohane uurimuslik eksperimentaaltöö.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mittemetallide ja nende ühendite omaduste võrdlev iseloomustus: halogeenid, hapnik ja väävel, lämmastik ja fosfor, süsinik ja räni. Mittemetallide ja nende ühendite kasutamise valdkonnad. Mittemetallid ja nende ühendid looduses, sh elusorganismides. Süsiniku, hapniku, lämmastiku ja väävli ringkäik looduses. Praktilised tööd ja IKT rakendamine: 1) teemakohane uurimuslik eksperimentaaltöö; 2) erinevatest teabeallikatest leitud materjali põhjal teemakohase lühikokkuvõtte või ülevaate koostamine (võib ka rühmatööna).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Elu keemia",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keemia valikkursus „Elu keemia“ tugineb gümnaasiumi kohustuslikes keemiakursustes omandatud teadmistele, oskustele ja hoiakutele ning lõimub tihedalt gümnaasiumi bioloogias õpitavaga, käsitledes eluslooduses toimuvate bioloogiliste protsesside keemilisi aluseid ning võimaldades bioloogias õpitut sügavamalt mõista.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1) tunneb huvi keemia ja teiste loodusteaduste vastu, mõistab keemia tähtsust ühiskonna arengus, tänapäeva tehnoloogias ja igapäevaelus ning on motiveeritud elukestvaks õppeks;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>2) lahendab keemiaprobleeme teaduslike meetoditega, rakendades süsteemset loogilist mõtlemist, analüüsi- ja järelduste tegemise oskust ning loovust;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>3) on omandanud süsteemse ülevaate elusloodusega seotud keemia põhimõistetest ja keemiliste protsesside seaduspärasustest;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>4) mõistab looduse, tehnoloogia ja ühiskonna vastastikuseid seoseid ning saab aru nende mõjust elukeskkonnale ja ühiskonna jätkusuutlikule arengule;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>5) suhtub vastutustundlikult elukeskkonnasse ning väärtustab tervislikku ja säästvat eluviisi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>6) langetab kompetentseid otsuseid, tuginedes teaduslikele, majanduslikele, eetilis-moraalsetele seisukohtadele ja õigusaktidele, ning hindab oma tegevuse võimalikke tagajärgi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>7) on omandanud ülevaate keemiaga seotud elukutsetest ning rakendab keemias omandatud teadmisi ja oskusi karjääri plaanides.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Geomeetriline isomeeria: cis-transisomeeria, kiraalsus. Biomolekulid. Sahhariidid; monosahhariidid, disahhariidid, struktuursed ja varupolüsahhariidid. Lipiidid: rasvad, fosfolipiidid; rakumembraanid, lipiididega seotud toitumisprobleemid. Valgud: kodeeritavad aminohapped, lihtvalgud, liitvalgud, valkudega seotud toitumisprobleemid. Nukleiinhapped: nukleosiidid, nukleotiidid, nukleiinhapped. Põhimõisted: biomolekul, kiraalsus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Metabolismi skeemid (lihtsustatud skeemidena): glükolüüs, tsitraaditsükkel, hingamisahel, ettekujutus biosünteesist. Ensüümkatalüüs: ensüümid, koensüümid, vitamiinid, ensüümkatalüüsi erijooned. Põhimõisted: metabolism, ensüüm, koensüüm, ensüümkatalüüs.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ainevahetuse energeetika, fotosüntees, biosfääri energeetiline skeem. Elu füüsikaline keemia: keemiline tasakaal ja statsionaarne tasakaal, entroopia, elu füüsikaline olemus, elu tekke probleemidest. Põhimõisted: statsionaarne tasakaal, entroopia.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keemiline info looduses raku tasandil (ATP/AMP näitel, virgatsained jne), organismi tasandil (hormoonid, virgatsained), liigisiseselt (feromoonid) ja liikide vahel (allelomoonid). Põhimõisted: keemiline info, virgatsained.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Füüsika ja tehnika",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikkursus on üles ehitatud õpilasele jõukohaste füüsikalis-tehnoloogiliste probleemide lahendamisele. Õpilane teeb konkreetse probleemiga seonduvaid põhjendatud ja kompetentseid otsuseid, arvestades probleemi loodusteaduslikke, tehnoloogilisi, majanduslikke, sotsiaalseid ja eetilisi dimensioone.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1) oma tõenäolises tulevases tehnilis-tehnoloogilises ametis kasulikke teadmisi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>2) oskuse tuvastada füüsikalis-tehnilisi probleeme tavaelus;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>3) oskuse leida asjakohast ning usaldusväärset teavet meie tehnoloogilises keskkonnas ilmnevate probleemide lahendamise kohta;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>4) loodusteadusliku meetodi, sh uurimusliku käsitlusviisi kasutamise probleeme lahendades;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>5) oskuse teha põhjendatud tehnilis-tehnoloogilisi otsuseid lihtsamates situatsioonides;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>6) loomingulise ja kriitilisel mõtlemisel baseeruva vaate tehnoloogilistele probleemidele;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>7) suulise ja kirjaliku tehnoloogilise kommunikatsiooni oskusi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>8) loodusteaduslikke ja tehnoloogilisi teadmisi väärtustava hoiaku ning valmiduse elukestvaks õppeks;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>9) oskuse hinnata tehnoloogilisi riske ning prognoosida uute tehnoloogiliste lahenduste mõju keskkonnale.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1. Aero- ja hüdrodünaamika. Keskkonna takistusjõud. Teised õhusõidukile mõjuvad jõud. Vedelike voolamine torudes. Inimese ja looma vereringe, diastoolne ja süstoolne vererõhk. Hüdroturbiin.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>2. Elastsuslained. Elastse deformatsiooni energia. Võnkumiste ja lainete energia. Võnkumiste liitumine. Võnkumiste spekter. Doppleri efekt helilainete korral. Helitugevus. Detsibell. Müra ja mürakaitse.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>3. Ebatavalised faasid ja faasisiirded. Gaaside veeldamine. Madalate temperatuuride saamine. Krüovedelikud ja krüogeenika. Allajahutatud ja ülekuumendatud vedelikud. Härmatumine (sublimatsioon), aine sulamistemperatuuri sõltuvus rõhust. Süsihappelumi ja teised mitte-H2O jääd. Lahused ja faasisiirded.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>4. Soojusmasinad ja energiamajandus. Termodünaamika I printsiibi ilmnemine isoprotsessides. Adiabaatiline protsess. Ideaalne soojusmasin. Soojusmasina kasutegur. Ringprotsess. Pööratavad ja mittepööratavad protsessid. Reaalsed soojusmasinad (auruturbiin, ottomootor, diiselmootor, stirlingmootor) ja nende kasutegurid. Energiaallikad, energia muundamine, transport ja salvestamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>5. Entroopia ja negentroopia. Entroopia mõiste käsitlused. Info, energia ja aine entroopiliselt seisukohalt. Maa ja universumi entroopia ning negentroopia. Mittetasakaalulised protsessid. Rakendused: külmuti ja soojuspump.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>6. Kondensaator ja induktiivpool. Plaatkondensaatori mahtuvus. Kondensaatorite ehitus ja liigid. Laetud kondensaatori energia. Kondensaatorite kasutusnäited. Pika ja peenikese pooli induktiivsus. Vooluga induktiivpooli energia. Ülijuhtiva mähisega elektromagnetid ja nende kasutamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>7. Juhid ja dielektrikud. Dielektrikute polarisatsioon. Varjestamine. Aine dielektriline läbitavus. Piesoelektrikud ja ferroelektrikud. Rakendused: piesoelektrilised andurid ja täiturid, elektronk aal, kvartskell.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>8. Ainete magnetilised omadused. Aine magnetiline läbitavus. Dia- ja paramagneetikud. Kõvad ja pehmed ferromagneetikud. Ferromagneetiku domeenstruktuur ja hüsterees. Rakendused: elektromagnetid ja magnetiline infosalvestus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>9. Elektrivool vedelikes ja gaasides. Elektrolüüs. Faraday I seadus elektrolüüsi kohta. Elektrolüüsi rakendusnäiteid. Sõltuv ja sõltumatu gaaslahendus. Kasutusnäited.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>10. Pooljuhtelektroonika. Juhi, pooljuhi ja mittejuhi erinevused tsooniteoorias. Pooljuhtide omajuhtivus ja selle rakendused: termotakisti, fototakisti, pooljuht-kiirgusdetektor. Pooljuhtide legeerimine. Elektronjuhtivus ja aukjuhtivus. pn-siire. Alaldi, fotodiood, valgusdiood, dioodmaatriks, CCD-maatriks, pooljuhtlaser. Päikesepaneelid. Bipolaar- ja väljatransistor. Kiip, selle kasutamine analoog- ja digitaallülitustes.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>11. Vahelduvvoolu kasutamine. Vahelduvvoolu iseloomustavad suurused. Elektriohutus. Kaitsemaandus. Kaitsmed. Aktiiv-, induktiiv- ja mahtuvustakistus vahelduvvooluahelas. Näivtakistus. Kogutakistus. Ohmi seadus vahelduvvooluahela kohta.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>12. Vahelduvvoolumasinad. Alalisvoolumootor ja -generaator. Trafo talitlus, trafode kasutamine. Vahelduvvoolugeneraator ja asünkroonmootor. Vahelduvvoolu võimsustegur. Kolmefaasiline vool. Elektrienergia tootmine, ülekanne ja jaotamine Eesti näitel.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>13. Elektromagnetvõnkumised ja -lained. Võnkering. Elektromagnetlainete tekitamine. Elektromagnetlainete skaala. Raadiolained ja nende levimine. Raadioside põhialused. Raadiolokatsioon ja GPS. Nüüdisaegsed sidevahendid.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>14. Optilised seadmed. Valguskiir. Valguse sirgjooneline levimine. Valguse täielik peegeldumine. Valgusjuhid ja nende kasutamine. Optilised süsteemid (objektiiv, teleskoop, mikroskoop), nende lahutusvõime. Polariseeritud valgus ja selle saamine. Rakendused: polaroidprillid ja vedelkristallekraan.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>15. Fotomeetria. Inimsilma valgustundlikkus. Valgustugevus ja valgusvoog. Valgustatus. Ruuminurk. Ühikud: kandela, luumen ja luks. Luksmeeter. Erinevate valgusallikate valgusviljakused.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Geoinformaatika",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Geoinformaatika valikkursuses tutvutakse geoinfosüsteemide olemusega, saadakse ülevaade maailmas ja Eestis kasutatavatest veebipõhistest geoinfosüsteemidest ning nende rakendustest. Geoinformaatika valikkursuse õppimine tugineb põhikooli ja gümnaasiumi geograafiakursuses omandatud teadmistele ja oskustele ning on tihedalt seotud matemaatikas ja informaatikas õpitavaga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1) huvitub arvutite ja muu nüüdisaegse tehnoloogia kasutamisest geograafias;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>2) saab ülevaate geoinformaatika (GI) valdkonna põhimõistetest ja geoinfosüsteemide (GIS) rakendustest;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>3) oskab leida erinevaid ruumiandmeid ning anda hinnangut nende kvaliteedile;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>4) oskab lõimida ruumiga seotud andmeid maailma ja Eesti kohta;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>5) mõistab ning väärtustab GISi vajalikkust ja tõhusust ruumi haldamises ning plaanimises;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>6) avardab ja mitmekesistab karjääri valikuvõimalusi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>7) arendab graafilist, matemaatilist ja ruumilist mõtlemist;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>8) tõhustab ning mitmekesistab arvuti kasutamise oskust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>GISi mõiste, komponendid ja kasutusvaldkonnad. Geograafilised andmed, nende liigid ja kogumise viisid. Geograafilised andmebaasid. Metaandmete mõiste ja vajalikkus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kaardiprojektsioonid, nende vajalikkus ja valik geoinfosüsteemides. Kaardi mõõtkava, mõõtkava liigid ja vahemaade mõõtmine. Mõõtkava olemus GISis. Geograafilised ja ristkoordinaadid. Koordinaatide süsteem Eestis.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>GISi analüüsid. Päringud ja nende liigid: ruumipäringud ning atribuutpäringud. GISi analüüsitulemuste esitamine. Teemakaartide liigid ja nende vormistamise põhimõtted.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Praktilised tööd ja IKT kasutamine: 1) tutvumine erinevate kaardiserveritega; 2) tutvumine vektor- ja rasterandmetega eri tarkvarade abil; andmete allalaadimine; 3) rist- ja geograafiliste koordinaatide määramine, et mõista nende kasutamist GISis; 4) tutvumine erinevas projektsioonis kaartidega ja nende ühildamine; 5) temaatiliste kaartide koostamine Eesti ning maailma andmete põhjal; 6) erinevate GISi analüüside tegemine koostatud kaartide põhjal.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Keemia alused II",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikkursus süvendab gümnaasiumi kohustuslikus keemiakursuses „Keemia alused“ omandatud teadmisi ja oskusi aine ehitusest, reaktsioonide energeetikast, kiirusest ja tasakaalust ning hapetest ja alustest. Valikkursus on vajalik teiste keemia valikkursuste paremaks mõistmiseks. Aatomi ja aine ehituse põhjalikum tundmaõppimine võimaldab mõista reaktsioonimehhanisme. Reaktsiooni energeetika käsitlemine võimaldab mõista keemiliste ja bioloogiliste protsesside toimumise võimalikkust ja suunda. Hapete ja aluste süvendatud käsitlus aitab paremini aru saada ainete omadustest ja keemilistest protsessidest nii keemias kui eluslooduses.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Elektronkatte ehitus: alakihid ja aatomorbitaalid. Elektronvalemid ja ruutskeemid. s-, p-, d-, ja f-elemendid. Kompleksühendid. Mõisted: elektronvalem, kompleksühend, ligand. Praktilised tööd: kompleksühendi valmistamine ja selle omaduste uurimine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Redoksreaktsioonide võrrandite tasakaalustamine elektronbilansi meetodil. Elektrokeemilised redoksreaktsioonid galvaanielementides ja/või vesilahuste elektrolüüsil. Mõisted: galvaanielement. Praktilised tööd: 1) redoksreaktsioonide uurimine; 2) erinevate galvaanipaaride koostamine ja nende elektromotoorjõu (väljundpinge) võrdlemine; 3) vesilahuste elektrolüüsi saaduste uurimine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keemilise reaktsiooni entalpiamuut, Hessi seadus. Keemilise reaktsiooni kiiruse võrrand. Katalüüs. Tasakaalukonstant ja lahustuvuskorrutis. Mõisted: Hessi seadus, entalpiamuut, homogeenne katalüüs, heterogeenne katalüüs, reaktsiooni kiiruse võrrand, tasakaalukonstant, lahustuvuskorrutis. Praktilised tööd: 1) keemilise reaktsiooni entalpiamuudu määramine; Hessi seaduse rakendamine; 2) katalüsaatorite toime keemilise reaktsiooni kiirusele uurimine; 3) keemilise tasakaalu asendit mõjutavate tegurite toime uurimine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Soolade hüdrolüüs. Nõrkade hapete ja aluste dissotsiatsioonikonstant. pH arvutused. Puhverlahused. Lewisi happed ja alused. Mõisted: (soola) hüdrolüüs, dissotsiatsioonikonstant (Ka ja Kb), puhverlahus, Lewisi hape, Lewisi alus. Praktilised tööd: 1) soola lahuse keskkonna uurimine; 2) kindla kontsentratsiooniga happe või aluse lahuse valmistamine ja selle pH määramine; 3) puhverlahuse valmistamine ja selle omaduste uurimine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Keemiliste protsesside seaduspärasused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keemia valikkursus tugineb gümnaasiumi kohustuslikes keemia valikkursustes omandatud teadmistele, oskustele ja hoiakutele ning lõimub teistes loodusainetes õpitavaga, toetades samaaegu teiste õppeainete õpet. Valikkursus süvendab gümnaasiumi kohustuslikes keemiakursustes omandatud teadmisi, oskusi ja vilumusi, võimaldab sügavamalt mõista keemiliste protsesside üldisi seaduspärasusi ja kulgemise erinevaid mehhanisme ning annab ettekujutuse keemilistes protsessides avalduvatest kvantitatiivsetest seostest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1) tunneb huvi keemia ja teiste loodusteaduste vastu, mõistab keemia tähtsust ühiskonna arengus, tänapäeva tehnoloogias ja igapäevaelus ning on motiveeritud elukestvaks õppeks;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>2) lahendab keemiaprobleeme teaduslike meetoditega, rakendades süsteemset loogilist mõtlemist, analüüsi- ja järelduste tegemise oskust ning loovust;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>3) on omandanud sügavama arusaama keemia põhimõistetest ja keemiliste protsesside üldistest seaduspärasustest;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>4) mõistab looduse, tehnoloogia ja ühiskonna vastastikuseid seoseid ning saab aru nende mõjust elukeskkonnale ja ühiskonna jätkusuutlikule arengule;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>5) suhtub vastutustundlikult elukeskkonnasse ning väärtustab tervislikku ja säästvat eluviisi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>6) langetab kompetentseid otsuseid, tuginedes teaduslikele, majanduslikele, juriidilistele ja eetilis-moraalsetele seisukohtadele, ning hindab oma tegevuse võimalikke tagajärgi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>7) on omandanud ülevaate keemiaga seotud elukutsetest ning rakendab keemias omandatud teadmisi ja oskusi karjääri plaanides.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keemilise sideme energeetiline põhjendus, ekso- ja endotermilised reaktsioonid, keemilise reaktsiooni soojusefekt. Keemilise reaktsiooni suunaga seotud probleemid keemiatööstuses, looduses ja igapäevaelus. Põhimõisted: ekso- ja endotermiline reaktsioon, reaktsiooni soojusefekt.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Reaktsiooni kiiruse sõltuvus temperatuurist. Reaktsiooni energiaskeem, ettekujutus reaktsiooni aktiveerimisenergiast. Reaktsioonide aktiveerimise võimalused. Katalüüsi põhimõte, homogeenne ja heterogeenne katalüüs (tutvustavalt), katalüüsi rakendamine keemilises tehnoloogias. Ensüümkatalüüs, selle tähtsus organismides toimuvate protsesside reguleerimises. Keemiline tasakaal, pöörduva keemilise reaktsiooni tasakaalu nihkumine (Le Chatelier’ printsiip), keemilise tasakaalu iseloomustamine tasakaalukonstandi abil (tutvustavalt). Keemilise reaktsiooni kiiruse ja tasakaaluga seotud probleemid keemiatööstuses, looduses ning igapäevaelus (reaktsioonide kiirendamine või aeglustamine, tasakaalu nihutamine). Põhimõisted: reaktsiooni aktiveerimisenergia, katalüüs, ensüümkatalüüs, keemiline tasakaal, tasakaalukonstant.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Hapete ja aluste tänapäevane käsitlus. Tasakaalud nõrkade hapete ja aluste lahustes, hapete ja aluste dissotsiatsioonimäära mõjutavad tegurid, lahuste pH. Hapete ja aluste tugevuse kvantitatiivne iseloomustamine (dissotsiatsioonikonstant, pK). Happelised oksiidid jt aprotoonsed happed. Puhverlahused, nende roll tehnoloogias ja eluslooduses kulgevates keemilistes protsessides (tutvustavalt). Põhimõisted: happe või aluse dissotsiatsioonikonstant, pK, aprotoonne hape, puhverlahus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kovalentse sideme katkemise viisid: radikaaliline, iooniline. Radikaalid, elektrofiilid, nukleofiilid. Reaktsioonivõrrandi analüüsimine: reaktsioonitsenter, ründav osake, lahkuv rühm. Aatomite vastastikmõju molekuli struktuuris: sideme polariseeritus, sideme delokalisatsioon, laengu delokalisatsioon (karboksüülhape, fenool). Reaktsioonitüübid: radikaaliline asendus, nukleofiilne asendusreaktsioon ja nukleofiilne liitumine polaarsele kaksiksidemele, elektrofiilne liitumine kaksiksidemele ning elektrofiilne asendus aromaatses tuumas, estri ja amiidi reaktsioonid. Põhimõisted: radikaal, radikaalreaktsioon, nukleofiil, elektrofiil, reaktsioonitsenter, lahkuv rühm, delokalisatsioon, aromaatne tsükkel.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Orgaaniline keemia II",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikkursus süvendab gümnaasiumi kohustuslikus keemiakursuses „Orgaanilised ained“ omandatud teadmisi ja oskusi orgaanilistest ainetest ning nendevahelistest reaktsioonidest. Valikkursus avardab arusaama orgaaniliste ainete paljususest: tutvutakse täiendavate aineklassidega ning käsitletakse põhjalikumalt isomeeriat. Reaktsioonimehhanismide tundmaõppimine aitab mõista, kuidas kulgevad keemilised reaktsioonid orgaaniliste ainetega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Süsivesinike liigitamine, hübridisatsioon. Süsivesinike derivaatide liigitamine. Süstemaatilise nomenklatuuri põhimõtted. Mõisted: hübridisatsioon, σ-side, π-side, alküün, alkoholaat, eeter, nitriil, ketoon, fenool, happe anhüdriid, happe halogeenderivaat.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Struktuuriisomeeria ja stereoisomeeria. Aatomite vastastikmõju molekulis. Orgaaniliste ainete happelis-aluseliste omaduste tugevuse võrdlemine. Mõisted: struktuuriisomeeria, stereoisomeeria, geomeetriline isomeeria, optiline isomeeria, radikaal, nukleofiil, elektrofiil, nukleofiilne tsenter, elektrofiilne tsenter, sideme delokalisatsioon, laengu delokalisatsioon. Praktilised tööd: 1) geomeetriliste ja optiliste isomeeride molekulimudelite koostamine ja võrdlemine, sh arvutiprogrammi abil; 2) alkoholi ja fenooli happelisuse võrdlemine; alküülamiini ja aminobenseeni aluselisuse võrdlemine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kovalentse sideme katkemine; radikaalid, nukleofiilid ja elektrofiilid. Reaktsioonimehhanismi analüüsimine. Radikaaliline asendusreaktsioon. Nukleofiilne asendusreaktsioon. Elektrofiilne asendusreaktsioon. Elektrofiilne liitumisreaktsioon. Nukleofiilne liitumisreaktsioon. Mõisted: radikaaliline asendusreaktsioon, nukleofiilne asendusreaktsioon, ründav osake, lahkuv rühm, katkev side, elektrofiilne asendusreaktsioon, elektrofiilne liitumisreaktsioon, Markovnikovi reegel, nukleofiilne liitumisreaktsioon. Praktilised tööd: 1) vee ja leelise toime halogeeniühendile võrdlemine; nukleofiilse asendusreaktsiooni uurimine; 2) benseeni, fenooli ja aminobenseeni omaduste uurimine; 3) elektrofiilse liitumisreaktsiooni uurimine; eteeni saamine ja reageerimine broomiveega.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Rakendusbioloogia",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Valikkursuse kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rakendusbioloogial on oluline koht õpilaste loodusteaduste- ja tehnoloogiaalase kirjaoskuse kujunemises. Valikkursus tugineb bioloogia kohustuslikes kursustes saadud teadmistele, oskustele ja hoiakutele ning seostub gümnaasiumi keemias, geograafias, füüsikas, matemaatikas ja teistes õppeainetes õpitavaga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe- ja kasvatuseesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1) arendab loodusteaduste- ja tehnoloogiaalast kirjaoskust, loovust ning süsteemset mõtlemist;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>2) tunneb huvi bioloogia ja teiste loodusteaduste vastu, saab aru nende tähtsusest igapäevaelus ning on motiveeritud elukestvaks õppeks;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>3) saab süsteemse ülevaate elusloodusest ja selle tähtsamatest protsessidest ning kasutab korrektset bioloogiasõnavara;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>4) suhtub vastutustundlikult elukeskkonnasse, väärtustab bioloogilist mitmekesisust ning vastutustundlikku ja säästvat eluviisi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>5) kasutab bioloogiainfo leidmiseks erinevaid, sh elektroonilisi teabeallikaid, ning hindab kriitiliselt neis sisalduvat teavet;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>6) rakendab bioloogiaprobleeme lahendades loodusteaduslikku meetodit;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>7) langetab igapäevaeluga seotud kompetentseid otsuseid, tuginedes teaduslikele, majanduslikele, eetilis-moraalsetele seisukohtadele ja õigusaktidele, ning prognoosib otsuste tagajärgi;</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>8) on omandanud ülevaate bioloogiaga seotud elukutsetest ning rakendab bioloogias saadud teadmisi ja oskusi karjääri plaanides.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rakendusbioloogia eesmärk ja seos bioloogiaga ning teiste loodusteadustega. Rakendusbioloogia ajalooliselt väljakujunenud valdkonnad põllumajanduses (nt sordi- ja tõuaretuses), toiduaine- ja ravimitööstuses ning energeetikas, nende osa majanduses ja igapäevaelus. Bioloogia alus- ja rakendusuuringute seosed. Loomade, taimede ja seente klassikalised ning nüüdisaegsed rakendusbioloogilised võimalused. Bakterite rakendusbioloogiline tähtsus, nende kasutamine tööstuses ja igapäevaelus. Ülevaade raku- ja embrüotehnoloogia tegevusvaldkondadest ning meetoditest: meristeempaljundus, embrüosiirdamine, kloonimine, tüvirakkudel põhinev rakuteraapia. Rakendusbioloogia seos säästva arenguga. Praktilised tööd ja IKT rakendamine: uuring rakendusbioloogia seostest toiduainetööstusega vabalt valitud toiduainerühma näitel.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Geenitehnoloogia rakendusvaldkonnad, selles kasutatavad meetodid. Viiruste ja bakterite geenitehnoloogilised kasutusvõimalused. Geenitehnoloogia rakendamine taimedel ja loomadel, sellega kaasnevad riskid. Geenitehnoloogia seos meditsiiniga ning sellega seotud eetilis-moraalsed aspektid. Geneetiliselt modifitseeritud organismide kasutamine toiduks. Geenitehnoloogiaga kaasnevad teaduslikud, majanduslikud, õiguslikud ja eetilis-moraalsed aspektid. Rakendusbioloogia Eestis ning valdkonnaga seotud elukutsed. Praktilised tööd ja IKT rakendamine: 1) geenitehnoloogilistest meetoditest ülevaate saamine, sh arvutimudeli abil; 2) geenitehnoloogiline uurimistöö arvutikeskkonnas.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa8.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 8"
+        }
+      ]
+    }
+  ]
+}

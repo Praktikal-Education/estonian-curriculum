@@ -1,0 +1,199 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "14. KURSUS    MATEMAATIKA RAKENDUSED, REAALSETE PROTSESSIDE UURIMINE",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid ning kergemaid mitterutiinseid ülesandeid lahendades õppekavas kirjeldatud oskused ja seob need tervikuks;</li><li>arendada õpitegevuse kaudu üld- ja ainepädevusi nii, et õpilane suudaks luua ülesannete lahendamiseks mudeleid, mis võimaldavad õppekavas kirjeldatud teadmisi ja oskusi rakendada väga heal tasemel.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>suutlikkus kasutada elulisele ülesandele vastava matemaatilise mudeli keelt, sümboleid ning meetodeid. Selleks nõuda eneseväljenduses distsiplineeritult mõistete ja keelesümboolika rakendamist ning oma lahenduskäikude põhjendamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt ning leida mudeli lahendamiseks sobivad strateegiad. Selleks käsitleda ülesannete lahendamise üldisi strateegiaid;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks saab kasutada õpilaste tehtud vigu, nende vigade analüüsimist ja vea tekkimise põhjuste leidmist;</li><li>süstemaatilisuse, püsivuse, täpsuse, korrektsuse ja kohusetunde arendamine kujundab väärtus- ja kõlbluspädevust;</li><li>ülesannete lahendamine erinevatel meetoditel, valiku tegemine ning otsustamine kujundavad enesemääratluspädevust ja õpipädevust;</li><li>rühma- ja paaristöö ning koostööoskuste arendamine kujundavad kodanikualgatust ja ettevõtlikkust.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kõik eelnevad laia matemaatika kursused.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Matemaatika rakendused, reaalsete protsesside uurimine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab matemaatilise modelleerimise ning selle protseduuride üldist olemust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb lihtsamate mudelite koostamiseks vajalikke meetodeid ja funktsioone;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab mõningaid loodus- ja majandusteaduse olulisemaid mudeleid ning meetodeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab tekstülesandeid sobivalt valitud strateegia abil;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab reaalse maailma valdkondade mõningaid matemaatikamudelitega kirjeldatavaid seaduspärasusi ja seoseid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab kergesti modelleeritavate reaalsuse nähtuste matemaatilisi mudeleid ning kasutab neid tegelikkuse uurimiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab digivahendeid ainealaseid ja -väliseid probleeme lahendades.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatilise mudeli tähendus, nähtuse modelleerimise etapid, mudeli headuse ja rakendatavuse hindamine.</p><p>Ainealaste ja reaaleluliste probleemide lahendamine matemaatiliste mudelite abil, kasutades kõigi eelnevate kursuste teemasid.</p><p>Tulemuste kontrollimine digivahenditega.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatiline mudel on objekti või nähtuse lihtsustatud esitlus, mis kasutab matemaatika keelt. Mudeli koostamist nimetatakse matemaatiliseks modelleerimiseks. Modelleerimise etapid:</p><ol><li>ülesandest arusaamine ja küsimuse sõnastamine;</li><li>matemaatilise mudeli valimine;</li><li>mudeli koostamine;</li><li>mudeli (matemaatikaülesande) lahendamine;</li><li>saadud lahendite selekteerimine, lähtudes ülesandest;</li><li>lahendite kontroll esialgse elulise ülesande järgi;</li><li>vastuse sõnastamine esialgsele ülesandele.</li></ol><p>Mudeli headuse ja rakendatavuse hindamiseks tuleb arutada ühiselt läbi õpikus toodud näited ning püüda lisaks leida materjale internetist.</p><p>Elulisi ülesandeid lahendades peab jälgima jõukohasust ja probleemist arusaadavust.</p><p>Sellel kursusel on vaja käsitleda kaht laadi ülesandeid:</p><ol><li>ülesanded, mis on n-ö matemaatika enese jaoks ning mille lahendamise tehnilised võtted võivad olla keerukamad;</li><li>tekstülesanded, mis on elulise taustaga või teisest ainevaldkonnast pärit ning kus valdkonna põhiseostele on vihjatud.</li></ol><p>Lahendada võiks kinnisvara rendi ja müügi, ostukorvi, kokanduse, tervisliku toitumise, astronoomia, arvuteooria, liikumise, töötegemise, panganduse, planeerimise, metsanduse, optimeerimisülesanded, ettevõtte tootlikkust käsitlevad ülesanded, maavarade tarbimine, haiguste levik, maakera rahvaarvu muutumine jne ülesandeid.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Matemaatika rakendused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Korrata tuleks järgmisi teemasid: algebraliste avaldiste lihtsustamine; juur-, eksponent-, logaritm- ja absoluutväärtust sisaldavad võrrandid; võrratused ja võrratussüsteemid, vektor nii tasandil kui ka ruumis (tehted, pikkus, kollineaarsus, ristseis, nurk kahe vektori vahel); joonte võrrandid tasandil(sirge, parabool, hüperbool, ringjoon); joonte lõikepunktid; trigonomeetrilised avaldised, võrrandid ja funktsioonid; planimeetria ja stereomeetria; tõenäosus ja statistika; funktsiooni tuletise ja integraali leidmist, funktsiooni uurimist (ka tuletise järgi), puutuja võrrandi leidmist, ekstreemumülesande tähendust ja lahendamist; joontega piiratud kujundi pindala ja pöördkeha ruumala, sirgete või parabooli võrrandite koostamine, kehade lõiked; pöördfunktsiooni, perioodilise funktsiooni, paaris- ja paaritu funktsiooni tähendusega seonduv.; aritmeetilist, geomeetrilist ning hääbuvat geomeetrilist jada. Sellel kursusel saab keerukamaid stereomeetria ülesandeid lahendada .</p><p>Osa ülesande etappe saab lahendada digivahenditega, et võita aega mudelite koostamise harjutamiseks. Tuleb tähelepanu pöörata lahenduskäikude korrektsele kirjalikule vormistamisele.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppematerjal",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120",
+          "title": "Õppekirjanduse ülevaade"
+        },
+        {
+          "kind": "link",
+          "href": "https://teacher.desmos.com/?lang=et",
+          "title": "Desmos materjale võib otsida"
+        },
+        {
+          "kind": "link",
+          "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+          "title": "Matemaatika õhtuõpik"
+        },
+        {
+          "kind": "link",
+          "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+          "title": "Riigieksamite materjalid"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/taxonomy/term/2296",
+          "title": "E-koolikoti materjalid"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeprotsessi diferentseerimine, hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p><p>Õppimist toetavast hindamisest täpsemalt: <a href=\"https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/\">https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/</a></p><p><em>Vt näiteülesandeid lehekülje allosas</em></p>"
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üldpädevuste toetamine, lõiming",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Sellel kursusel seotakse nii põhikoolis kui ka gümnaasiumis õpitud oskused. Siin on võimalik õpilaste teadmisi ühtlustada ja õppimises tekkinud lünki täita. Lõiming teiste ainetega saavutatakse ülesannete temaatikaga ning loodavate mudelitega.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Üldpädevuste toetamine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454748/LAI_MATEMAATIKA_14.kursus%20Na%CC%88iteu%CC%88lesanded.docx?version=1&modificationDate=1706621740546&api=v2",
+          "title": "LAI_MATEMAATIKA_14.kursus Näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454748/LAI_MATEMAATIKA_14.kursus%20Na%CC%88iteu%CC%88lesanded.pdf?version=1&modificationDate=1706621740539&api=v2",
+          "title": "LAI_MATEMAATIKA_14.kursus Näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

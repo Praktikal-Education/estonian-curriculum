@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://praktikal.ee/schema/estonian-curriculum/page.schema.json",
+  "title": "Estonian curriculum (per-page IR)",
+  "description": "One source page extracted into an ordered content tree (pages/<pageId>.json).",
+  "type": "object",
+  "required": ["content"],
+  "additionalProperties": false,
+  "properties": {
+    "content": { "type": "array", "items": { "$ref": "#/$defs/contentNode" } }
+  },
+  "$defs": {
+    "outcomeType": { "enum": ["knowledge", "skill", "attitude", "competence"] },
+    "contentNode": {
+      "oneOf": [
+        {
+          "type": "object",
+          "required": ["kind", "title", "children"],
+          "additionalProperties": false,
+          "properties": {
+            "kind": { "enum": ["topic", "section"] },
+            "title": { "type": "string" },
+            "children": {
+              "type": "array",
+              "items": { "$ref": "#/$defs/contentNode" }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": ["kind", "text"],
+          "additionalProperties": false,
+          "properties": {
+            "kind": { "const": "outcome" },
+            "text": { "type": "string" },
+            "outcomeType": { "$ref": "#/$defs/outcomeType" }
+          }
+        },
+        {
+          "type": "object",
+          "required": ["kind", "html"],
+          "additionalProperties": false,
+          "properties": {
+            "kind": { "enum": ["text", "table"] },
+            "html": { "type": "string" }
+          }
+        },
+        {
+          "type": "object",
+          "required": ["kind", "src"],
+          "additionalProperties": false,
+          "properties": {
+            "kind": { "const": "image" },
+            "src": { "type": "string" },
+            "alt": { "type": "string" }
+          }
+        },
+        {
+          "type": "object",
+          "required": ["kind", "src"],
+          "additionalProperties": false,
+          "properties": {
+            "kind": { "enum": ["file"] },
+            "src": { "type": "string" },
+            "title": { "type": "string" }
+          }
+        },
+        {
+          "type": "object",
+          "required": ["kind", "href"],
+          "additionalProperties": false,
+          "properties": {
+            "kind": { "const": "link" },
+            "href": { "type": "string" },
+            "title": { "type": "string" }
+          }
+        },
+        {
+          "type": "object",
+          "required": ["kind", "src"],
+          "additionalProperties": false,
+          "properties": {
+            "kind": { "enum": ["video", "embed"] },
+            "src": { "type": "string" }
+          }
+        }
+      ]
+    }
+  }
+}

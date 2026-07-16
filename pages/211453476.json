@@ -1,0 +1,213 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valdkonnapädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Keele ja kirjanduse valdkonna õppeainete õpetamise eesmärk põhikoolis on kujundada õpilastes eakohane keele- ja kirjanduspädevus, mis tähendab suutlikkust tajuda keelt ja kirjandust kui rahvusliku, riikliku ja iseenda identiteedi alust, mõista erinevaid kirjandustekste ning nende tähtsust Eesti ja maailma kultuuriloos. Keele- ja kirjanduspädevus hõlmab teadmisi ja oskusi, kujundamaks keele- ja kultuuriteadlikku inimest, kes käitub nii suulises kui ka kirjalikus suhtluses verbaalsele ja sotsiaalsele kontekstile vastavalt.</strong></p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Keele- ja kirjandusõpetusega taotletakse, et põhikooli lõpuks omandab õpilane järgmised valdkonnapädevused:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "austab keelt kui kultuuri kandjat ja vahendajat, hindab seda kui avaliku suhtluse vahendit, väärtustab eesti rahvuskirjandust ja rahvapärimust ning keelelist ja kultuurilist mitmekesisust",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "saavutab keeleteadlikkuse, arvestab kultuuris välja kujunenud keelekasutus- ja suhtlustavasid, teadvustab keeleoskust õpioskuste alusena ning identiteedi osana",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb, esitab ning kirjutab eri tüüpi ja liiki tekste, analüüsib tekstide keelekasutust, ülesehitust ja vormistust, väljendab end selgelt ja asjakohaselt nii suuliselt kui ka kirjalikult",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab, hindab kriitiliselt ning kasutab eri allikates ja keskkondades pakutavat teavet, austab intellektuaalomandit",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab ilukirjandusteose kunstilisi väärtusi, analüüsib ja tõlgendab eri tüüpi ning eri žanris tekstide ülesehitust, väljendust ja sisu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "omandab lugemisharjumuse, väärtustab lugemist, kujundab loetu põhjal oma esteetilisi hoiakuid ja eetilisi tõekspidamisi, rikastab mõtte- ja tundemaailma, täiendab enda keele- ja kultuuriteadmisi",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa1.pdf",
+          "title": "Põhikooli riikliku õppekava lisa 1 \"Ainevaldkond \"Keel ja kirjandus\"\""
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ainevaldkonna kirjeldus ja eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Keele ja kirjanduse valdkonnapädevuste väljatöötamisel on lähtutud järgmistest keele- ja kirjandusõpetuse aluspõhimõtetest ehk ainevaldkonna nn vaiadest:</strong></p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ol><li>Õpilase isiksuse kujundamine, tema huvide, võimete ja vajadustega arvestamine. Keele- ja kirjandusõpetus kujundab õpilase lugemisharjumusi, -oskusi ja -vilumust, seeläbi ka tema identiteeti ja maailmapilti.</li><li>Tegelemine väärtuskasvatusega. Keele- ja kirjandusõpetus kujundab õpilase esteetilisi hoiakuid ja eetilisi tõekspidamisi, arendab tema mõtte-ja tundemaailma.</li><li>Suhtlemis- ja väljendusoskuse arendamine. Keele- ja kirjandusõpetus arendab õpilase sotsiaalseid ja kommunikatiivseid oskusi, suulist ja kirjalikku väljendusoskust.</li><li>(Kirjandus)tekstide sisu, väljenduse ja vormivõtete analüüsimine, tõlgendamine ja mõistmine. Keele- ja kirjandusõpetus aitab õpilasel mitmekülgsemalt ja sügavamalt tundma õppida (kirjandus)tekstide ehitust ja tähendust, mõista kujundlikku keelekasutust ja väärtustada sõna- ja tekstiloomet.</li><li>Loominguline eneseväljendamine. Keele- ja kirjandusõpetus arendab õpilase loovvõimeid ja loomingulist eneseväljendust nii suulises kui ka kirjalikus vormis eri laadis ja žanris tekstide kaudu.</li><li>Kultuuripärandi väärtustamine, keele- ja kirjandusteadmiste omandamine. Keele- ja kirjandusõpetus võimaldab tundma õppida rahvuskultuuri, aga ka teiste kultuuride pärandit ning omandada elulistes praktikates vajalikke keele- ja kirjandusteadmisi.</li></ol>"
+        },
+        {
+          "kind": "image",
+          "src": "https://projektid.edu.ee/download/attachments/211453476/KKvpadevus.jpg?version=1&modificationDate=1716198004794&api=v2"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Keele- ja kirjandusõpetuse valdkondlikud üldpõhimõtted on järgmised:</strong></p><ul><li>tegeletakse eluliste suhtlussituatsioonidega probleemipõhiselt ja kogemuslikult nii suulises kui ka kirjalikus vormis;</li><li>loetakse ja käsitletakse eri tüüpi ja liiki tekste ea- ja jõukohasuse ning valikulisuse ja huvidele vastavuse põhimõttel;</li><li>kujundatakse õpilase keeleteadlikkust, keeleressursside ja -allikate teadlikku kasutamise oskust;</li><li>arendatakse ilukirjandustekstide vaba ja loovat analüüsi-, tõlgendamis- ja mõistmisoskust;</li><li>arendatakse loovvõimeid verbaalse tekstiloome, sealhulgas omaloomingulise kirjutamise kaudu;</li><li>tegeletakse tekstiloome ja -esitlusega digivahendite abil ja veebikeskkondades;</li><li>kasutatakse keele- ja kirjandusõppe e-allikaid, näiteks tekstikorpusi, veebisõnaraamatuid, e-õpistsenaariume jm;</li><li>rakendatakse mitmekesiseid ja kombineeritud õppemeetodeid, rakendatakse aktiivsust ja reflektsiooni soodustavaid õpitegevusi;</li><li>kujundatakse üldinimlikke, ühiskondlikke ja kultuurilisi väärtusi ning üld- ja valdkonnapädevusi õppesisu ning õpitulemuste kaudu;</li><li>käsitletakse õppekava läbivaid teemasid ja lõimitakse keele- ja kirjandusõpetust nii teiste õppeainete kui ka eluliste valdkondadega.</li></ul>"
+        },
+        {
+          "kind": "section",
+          "title": "Lugemist",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://www.emakeeleselts.ee/wp-content/uploads/2023/04/Org_ok_2023_1-1.pdf",
+              "title": "Kas siis selle maa keel ja selle rahva kirjandus…? Ajakohastatud valdkonna- ja ainekavade rõhuasetusi (emakeeleselts.ee)"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2023/03/KeelKirjandus_21032023.pdf",
+              "title": "Keele ja kirjanduse valdkonnakava muudatused (PowerPoint esitlus (oppekava.ee))"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ainevaldkonna kirjeldus ja valdkonnasisene lõiming",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Põhikooli keele- ja kirjandusõpetust ühendab eesmärk tundma õppida, osata ja vallata loomulikku keelt, mis on mõtete ja tunnete vahendaja, kultuurilise, riikliku ja iseenda identiteedi kandja ning rahvuskultuuri vundament. Keeleoskus kõnes ja kirjas on inimese mõtlemis- ja tundevõime kujunemise, intellektuaalse arengu ja sotsialiseerumise alus. Eesti keele valdamine Eestis on hariduslik vajadus, mis on eduka ja jätkusuutliku õppimise eeldus kõikides õppeainetes. Vene keele valdamise eesmärk vene õppekeelega klassis on hoida sidet emakeelse kultuuripärandiga.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ainevaldkonna õppeainetes omandab õpilane keele- ja kirjandusteadmisi, arendab lugemis-, kirjutamis- ja suhtlusoskusi, et kasvada põhikooli lõpuks teadlikuks, aktiivseks ja vastutustundlikuks lugejaks, kirjutajaks ja suhtlejaks. Ainevaldkonna õppeained toetavad õpilase keele- ja kirjanduspädevuse kujunemist, identiteediloomet ning sotsiaalset ja kultuurilist arengut. Õpilane on võimeline eetilisi norme, olusid ja partnerit arvestades suhtlema, motiveeritult ja teadlikult õppima ja tegutsema.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>1.–4. klassis arendatakse eesti / vene keele õppes kõiki keeleõpetuse osaoskusi, esmajoones suhtlus-, lugemis- ja tekstiloomeoskust ning õigekeelsust eri tekstiliikide, sealhulgas ilukirjandustekstide lugemise, jutustamise ja kirjutamise kaudu. Alates 5. klassist on eesti / vene keel ja kirjandus eri õppeained, mida seob tekstikeskne ja žanriteadlik käsitlusviis ning kõikide keeleõpetusoskuste mitmekülgne ja tasakaalustatud arendamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Eesti keele kui teise keele õpe lähtub Euroopa keeleõppe raamdokumendi ja selle lisade põhimõtetest ning nendes kirjeldatud keeleoskustasemetest. Eesmärk on õpilaste toimetulek eestikeelses ühiskonnas, sh suutlikkus jätkata õpinguid ja siseneda tööturule.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ainevaldkonnasisese lõimingu põhialus on tekstikeskne keele- ja kirjandusõpetus, kus tekstikäsitlus hõlmab erinevaid tekste ja tekstitoiminguid. Tekstide kaudu õppides täieneb õpilase tekstikogemus ning kujuneb žanri- ja kontekstitunnetus. Keeleõppe tekstivalikus on eeldatavalt esindatud erinevad autentsed ühiskonnas toimimiseks vajalikud tekstitüübid ja -liigid, nii suulised kui ka kirjalikud tekstid, mis peegeldavad suhtlustavasid ja -olukordi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Oskust tekste mõista ja luua arendatakse lõimitud aine- ja tekstiõpetuse kaudu, mis seotakse ortoloogia, grammatika ja leksika õpetamisega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kirjandusõppes soodustatakse õpilase kirjandushuvi, arendatakse tema lugejavõimeid, mõtteja tundemaailma, kujundatakse eetilisi tõekspidamisi ja esteetilisi hoiakuid, vaadeldakse sõnakunsti poeetikat ja kujundikeele olemust ning edendatakse väljendusoskust nii kõnes kui ka kirjas. Kirjandustekstide lugemise ja uurimise eesmärk on avardada õpilase kultuurikogemust, rikastada tema keeletunnetust, pakkuda inspiratsiooni ning toetada isiksuslikku arengut. Keele- ja kirjandusõpetusse lõimitakse audiovisuaalseid väljendusviise (pilt, film, video jm).</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Võimalusi valdkonnaüleseks lõiminguks, üldpädevuste arengu toetamiseks ja õppekava läbivate teemade käsitlemiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keele ja kirjanduse valdkonna ained lõimuvad valdkonnaüleselt kõikide õppeainetega ja toetavad pädevuste saavutamist teistes ainevaldkondades. Keeleoskus loob eeldused kõigi õppeainete edukaks omandamiseks ja toimetulekuks nii isiklikus kui ka avalikus elus. Kõikide valdkondade õppeained arendavad omakorda keelekasutuse põhipädevusi: sõnavara tundmist ja rakendamist, tekstimõistmist ja -loomet, pädevust suuliselt ja kirjalikult suhelda. Valdkonnaülene lõiming tähendab, et kõikides õppeainetes tuleb ainekirjaoskuse saavutamiseks tegeleda tekstitoimingutega, st eri liiki tekstidega, ning tähelepanu juhtida ortograafia- ja grammatikareeglite normipärasele rakendamisele. Õpilaste funktsionaalne ja kriitiline kirjaoskus kujuneb välja mitte üksnes eesti / vene keele, vaid kõigi õppeainete õppimise tulemusel, mis eeldab pidevat koostööd aineõpetajate vahel. Keele- ja kirjandusõpetuse eriosa on tõsta õpilaste keeleteadlikkust, st anda teadmisi keele kohta, mis tagab tõhusa suhtluspädevuse, arusaamise keele varieerumisest žanriti ning grammatikast kui tähendusloome vahendist.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keele ja kirjanduse valdkonna õppeainete kaudu kujundatakse ja arendatakse õpilastes kõiki riiklikus õppekavas kirjeldatud üldpädevusi ja läbivaid teemasid. Seejuures on väga oluline aineõpetajate süsteemne ja järjepidev koostöö kogu õpilase õppeaja vältel, kuid oluline roll on ka teistel tugivõrgustikel, sh kodusel toetusel ja lapsevanema vastutusel. Üldpädevusteni jõutakse eri allikatest teavet hankides ja seda kriitiliselt hinnates, eri liiki tekste lugedes, nende üle arutledes ja väideldes, erilaadseid tekste funktsionaalselt koostades ja kirjutades.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Üldpädevuste kujundamisel kasutatakse erinevaid koostöövorme, õppemeetodeid ja -keskkondi, sh digivahendeid ja -võtteid, veebi- ja e-õppekeskkondi, analüüsitakse ja lahendatakse elulisi probleemolukordi ja väärtuskonflikte, arvestatakse õpilaste isikupära ja andelaadi. Üldpädevuste saavutamist toetab valdkonnaüleselt õppeainete eesmärgipärane lõimimine teistesse valdkondadesse kuuluvate õppeainetega ning läbivate teemade õpilase jaoks tähenduslik käsitlemine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Läbivad teemad toetavad õpilase suutlikkust oma teadmisi ja oskusi erinevates olukordades rakendada, väärtusnorme, -hoiakuid ja -hinnanguid kujundada ning võimaldavad luua ettekujutuse ühiskonna kui terviku arengust. Läbivad teemad kui ühiskonnas tähtsustatud aineteülesed valdkonnad on üld- ja valdkonnapädevuste, õppeainete ja ainevaldkondade vahelise lõimingu vahendiks, neid on oluline arvestada emakeele ja kirjanduse õppesisu ja õpitulemuste kavandamisel, kooli õppekava koostamisel ja koolikeskkonna kujundamisel. Läbivate teemade käsitlemist toetavad projekt- ja probleemõpe, uurimis- ja loovtegevused, lugemis-, kirjutamis- ja suhtlusülesanded ning mitmekülgne info- ja digikirjaoskus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Valdkonnasisese ja -ülese lõimingu võimalusi, kõigi üldpädevuste kujundamist ja läbivate teemade käsitlemist kirjeldatakse kooli õppekava üldosas, nende rakendamist täpsustatakse valdkonnakavas.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe kavandamine ja korraldamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valdkondlikku õppetegevust kavandades ja korraldades:</p><ol><li>lähtutakse õppekava alusväärtustest, üld- ja valdkonnapädevustest, kooliastme lõpuks taotletavatest teadmistest, oskustest ja hoiakutest ning õpitulemustest ja kooli õppekavas sätestatud õppesisust, kooliastmete õppe ja kasvatuse rõhuasetustest ning lõimingust teiste õppeainete ja läbivate teemadega;</li><li>arvestatakse didaktika nüüdisaegsete käsituste ja ainevaldkonnas toimunud arenguga, võetakse arvesse kohalikku eripära ning muutusi ühiskonnas;</li><li>toetatakse lõimingut valdkonna sees, õppeainete vahel ja õppekava läbivate teemadega, arendatakse õpilaste teadmisi, oskusi ja hoiakuid;</li><li>rakendatakse mitmekesiseid ja kombineeritud õppemeetodeid ning aktiivsust, loovust, koostööd ja tagasisidet soodustavaid õppetegevusi, kujundatakse õpiharjumusi ja -oskusi;</li><li>arvestatakse õpilaste eelteadmisi, huvisid, individuaalseid eripärasid ja -võimeid, kasutatakse diferentseeritud sisu ja sobivat pingutust nõudvaid ülesandeid, mille sisu ja raskusaste toetavad individualiseeritud ja õpilasele tähenduslikku käsitlust, reageeritakse õpiraskustele ning pakutakse õpiabi;</li><li>taotletakse mõõdukat ja ühtlaselt jaotuvat õpikoormust, mis soodustab motivatsiooni ning jätab aega puhkuseks ja huvitegevuseks;</li><li>tegeldakse probleemikeskselt ja kogemuspõhiselt eluliste nähtuste ja olukordadega, seostatakse oskusi igapäevaelu ja jätkuõpingutega;</li></ol>"
+        },
+        {
+          "kind": "section",
+          "title": "Õppekeskkond",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kool koostöös aineõpetajatega korraldab keele ja kirjanduse valdkonna õppeainete õpet:</p><ol><li>viisil, kus luuakse üksteist austav, vastastikku hooliv ja toetav, turvaline, kiusamis- ja vägivallavaba õppekeskkond, mis rajaneb usalduslikel suhetel, sõbralikkusel ja heatahtlikkusel ning kus märgatakse ja tunnustatakse õpilase pingutusi ja õpiedu;</li><li>ruumis, kus saab kasutada digitehnoloogiat, -keskkondi ja -materjale, et arendada info-, meedia- ja digikirjaoskust;</li><li>ruumis, kus on võimalik liikumist eeldavateks tegevusteks inventari ümber paigutada (nt rühmatööd, õppemängud, draamaõppe ülesanded);</li><li>eesti keel teise keelena õppetunnis rühmades, mille soovitatav suurus on kuni 15 õpilast;</li><li>väljaspool kooliruume, et rakendada õppimist toetavaid ja mitmekesistavaid õppevorme (nt projekt-, õues- ja reisiõpe) ja -tegevusi (nt õppekäik teatrisse, muuseumisse, raamatukokku, kohtumised kirjanike ja tõlkijatega, osavõtt olümpiaadidest ja konkurssidest, valdkondlikud teemapäevad ja -nädalad).</li></ol>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Pädevuste peamiste komponentide – teadmiste, oskuste ja hoiakute – kujundamisel on kandev roll õpetajal, kes loob sobiva õppekeskkonna ja toetab väärtuskasvatust, ning koolil, kus normide, väärtuste, rituaalide, sümbolite ja lugude kaudu edendatakse omanäolist koolikultuuri.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ainevaldkonna õppeainete arvestuslik maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Ainevaldkonna kohustuslikud õppeained on eesti / vene keel, kirjandus ja eesti keel teise keelena. Eesti / vene keelt õpitakse 1.–9. klassis, kirjandust 5.–9. klassis. Ainevaldkonna õppeainete nädalatundide maht on kooliastmete kaupa järgmine:</p>"
+        },
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Õppeaine</th><th>I kooliaste</th><th>II kooliaste</th><th>III kooliaste</th></tr></thead><tbody><tr><td>Eesti keel</td><td>19</td><td>11</td><td>6</td></tr><tr><td>Vene keel (vene õppekeelega klassis)</td><td>13</td><td>8</td><td>3</td></tr><tr><td>Kirjandus</td><td></td><td>4</td><td>6</td></tr><tr><td>Eesti keel teise keelena</td><td>12</td><td>15</td><td>15</td></tr></tbody></table>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ainevaldkonna õppeainete nädalatundide jaotus kooliastmete sees ja õppesisu klasside kaupa määratakse kindlaks kooli õppekavas arvestusega, et eesti / vene keele ja kirjanduse õpitulemused ning kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud oleksid saavutatavad.</p><p>Eesti ja vene keele tundide maht on erinev, kuna vene (või muu õppekeelega) koolis õpitakse alates esimesest klassist eesti keelt teise keelena. Õpitulemused on koostatud arvestusega, et kooli õppekeelest lähtuvalt on eesti / vene keel rakendatud lisaks keeletundidele ka ainetundides. Eesti / vene keele ainekava on koostatud arvestusega, et II kooliastmes on õpitulemused saavutatavad 9–11 ja III kooliastmes 6 nädalatunniga. Kirjanduse ainekava puhul aga II kooliastmes 4–6 ja III kooliastmes 3–6 nädalatunniga.</p><p>Eesti keele teise keelena ainekava alusel õpitakse muu õppekeelega klassis või erandjuhul individuaalse õppekava alusel tasemeni, kus õpilane on võimeline õppima täies mahus eesti keele ainekava alusel.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa1.pdf",
+          "title": "Allikas: Riigi Teataja – Põhikooli riikliku õppekava lisa 1"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Keele ja kirjanduse valdkonna õppeainete hindamise eesmärk on saada ülevaade õpitulemuste saavutatusest ja õpilase individuaalsest arengust ning kasutada seda teavet õppe tulemuslikumaks kavandamiseks ja ennastjuhtiva õppija kujundamiseks. Hinnatakse õpitulemuste saavutatust, mis on kooskõlas õppesisu ja -tegevustega ning vastavuses ainealaste teadmiste, oskuste ja hoiakutega. Hoiakute hindamisel (nt mõistab, kujundab, tähtsustab, väärtustab) antakse õpilasele suunavaid ja toetavaid sõnalisi hinnanguid.</p><p>Hinnatakse nii õppeprotsessi vältel kui ka õppeteema lõpus. Selleks rakendatakse nii diagnostilist, kujundavat kui ka kokkuvõtvat hindamist, mida väljendatakse nii sõnaliste hinnangute kui ka numbriliste hinnetena. Diagnostilise hindamise käigus selgitatakse välja õpilaste eelteadmiste ja oskuste tase, ainealased väärarusaamad ja spetsiifilised õpiraskused, et kavandada järgnevat õppimist ja õpetamist.</p><p>Õppeprotsessi käigus rakendatakse kujundavat hindamist, kus õpilane saab suulist ja kirjalikku tagasisidet oma õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta. Kokkuvõttev hindamine toimub üldjuhul õppeperioodi või mahuka õppeteema lõpul, et kontrollida nii õppetöös püstitatud eesmärkide saavutamist kui ka riikliku õppekavaga sätestatud õpitulemuste saavutatust. Kokkuvõttev hinne võib kujuneda õppeperioodi jooksul toimunud hindamise tulemusena, seejuures arvestatakse, et hinnetel võib sõltuvalt töö mahust olla erinev kaal.</p><p>Alates esimesest kooliastmest kaasatakse õpilane hindamisprotsessi nii oma töö hindamisel kui ka kaasõpilaste tagasisidestamisel. Õpilasele on õppeprotsessi alguses teada, mida ja millal hinnatakse, milliseid hindamisvahendeid kasutatakse ning millised on hindamise kriteeriumid. Õpilast suunatakse õppeprotsessi käigus oma õppimist ja püstitatud eesmärkide saavutamist analüüsima ja reflekteerima.</p><p>Eesti / vene keele õppimisel I kooliastmes hinnatakse õpilase 1) suulist keelekasutust, s.o kõnelemist ja kuulamist, 2) lugemist, s.o lugemistehnikat, kirjandus- ja muude tekstide tutvustamist, analüüsi ja mõistmist, 3) kirjutamist, s.o kirjatehnikat, õigekirja ja tekstiloomet.</p><p>Eesti / vene keele õppimisel II ja III kooliastmes hinnatakse õpilase 1) suulist ja kirjalikku suhtlust, 2) tekstide vastuvõttu, s.o analüüsi ja mõistmist, 3) tekstiloomet, s.o eri tüüpi ja liiki tekstide kirjutamist, 4) keeleteadmisi, s.o õigekeelsuse ja keelehoolde põhimõtete rakendamist ning keelevalikute teadvustamist. Keeleõpetuses on suurem osakaal erinevate kirjalike tekstide hindamisel, sest kirjalik keel on peamine keeleoskuse näitaja. Õigekeelsust ja keeleteadlikke valikuid hinnatakse üldjuhul tekstiloome osana tekstiliigi eripära ja kirjutamise eesmärgi kontekstis.</p><p>Eesti / vene keeles hinnatakse peamiselt eri tüüpi ja liiki kirjalikke tekste. I kooliastmes hinnatakse jutustavaid tekste, näiteks suulisi ja kirjalikke ümberjutustusi, kirjalikku jutustust pildi, pildiseeria või muu alusteksti põhjal, jutustusi enda elust. II kooliastmes hinnatakse jutustavaid, kirjeldavaid ja põhjendavaid tekste, sealhulgas kirjalikku jutustust alusteksti põhjal, jutustavat kirjandit, arvustust. Teabetekstidest hinnatakse kirjeldust, iseloomustust, kokkuvõtteid, kultuuriainelisi lühiuurimusi, nende põhjal loodud esitlusi ja ettekandeid ning e-kirja kirjutamist. III kooliastmes hinnatakse ka arutlevat kirjandit, selle ülesehitust, teksti vastavust teemale, asjakohaseid näiteid, võrdlemise, seoste loomise ja järelduste tegemise oskust ning isikliku suhtumise väljendamist põhjendatud argumentide toel. III kooliastmes hinnatakse teabetekstidest kindlal eesmärgil kirjutatud ülevaateid ja kultuuriainelisi lühiuurimusi, nende põhjal loodud esitlusi ja ettekandeid ning avaliku suhtluse žanre, nagu näiteks avaldus. Peale selle hinnatakse oskust kirjutada levinumaid meediažanre.</p><p>Tekstide hindamisel seatakse hindamiskriteeriumid, mis arvestavad tekstiliigile omaseid tunnuseid ja õpilase keelelist arengut. Hindamiskriteeriumid puudutavad tekstide sisu ja ülesehitust, konteksti sobivat lausestust ja sõnastust, õigekirja ja vormistust.</p><p>Kirjanduse õpitulemusi hinnatakse eesti / vene keele õpitulemustest eraldi alates 5. klassist. II ja III kooliastmes hinnatakse kirjanduse õppimisel 1) tervikteoste ja tekstikatkendite lugemist ja tutvustamist, 2) tekstide jutustamist ja esitamist, 3) kirjandustekstide analüüsi, tõlgendamist ja mõistmist, 4) omaloomingulisi töid, 5) kirjandusteadmisi (nt kirjandusmõistete ja kirjandusloolise konteksti tundmist).</p><p>Eesti / vene keele ja kirjanduse õpitulemuste kontrolli ja hindamise vormid peavad olema mitmekesised. Need peavad hõlmama suulisi ja kirjalikke tegevusi, ühe- ja mitmeotstarbelisi sooritusi, nagu individuaalsed, paaris- ja rühmatööd, rakenduslikud testid ja harjutused, ainealased kontrolltööd, analüüsi- ja tõlgendusülesanded, lugemispäeviku pidamine ja õpimapi koostamine. Hindamiseks sobivad veel mitmesugused oskusi edendavad sooritusülesanded, nagu luule-, proosa- ja draamateksti esitamine, arutleva kirjandi kirjutamine, uurimis- või praktilise töö tegemine, projekti koostamine ja elluviimine, ettekande loomine ja esitlemine, avalik esinemine. Lugemiskontrollile, mis piirdub sisu meenutavate faktiküsimustega, tuleb eelistada arutlusele suunavaid analüüsi- ja tõlgendusküsimusi, mõttevahetust teksti väärtuste ja sõnumi üle.</p><p>Kirjanduse hindamisel pole alati (nt loovtöödes ja tekstitõlgendustes) võimalik täpselt määratleda teadmiste ja oskuste standardit, mistõttu on hindamise skaala võrdlemisi paindlik. Hinnates omaloomingulisi töid, võib tunnustada idee ja teostuse originaalsust, iseseisvust, üldistavust või muud vaatenurka. Arutluste (nt arutlevate kirjandite) puhul hinnatakse arvamuste ja seisukohtade veenvust, argumenteeritust, seostatust. Õpilase seisukohtadele ühiskonnas ja maailmas toimuva kohta antakse sõnalist kirjeldavat tagasisidet. Kõikides kirjalikes töödes tähistab aineõpetaja keelevead, kuid hindamisel arvestab soorituse väärtusi vastavalt ülesande eesmärgile ja kokkulepitud hindamiskriteeriumidele.</p><p>Eesti keele kui teise keele aines hinnatakse saavutatud õpitulemusi, mis põhinevad Euroopa keeleõppe raamdokumendi vastava taseme kirjeldustel. Eesti keele kui teise keele õppes käsitletakse keelevigu õppimise loomuliku osana ning neid parandatakse ja arvestatakse hindamisel vastavalt õppetegevuse eesmärgile.</p><p>Keele ja kirjanduse valdkonna ainete hindamisel lähtutakse vastavatest põhikooli riikliku õppekava üldosa sätetest, hindamise nõuded ja korraldus, sh mittenumbrilise hindamise kasutamine ja mujal õpitu arvestamine täpsustatakse kooli õppekavas.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa1.pdf",
+          "title": "Allikas: Riigi Teataja – Põhikooli riikliku õppekava lisa 1"
+        }
+      ]
+    }
+  ]
+}

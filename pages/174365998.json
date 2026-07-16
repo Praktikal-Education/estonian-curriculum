@@ -1,0 +1,449 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Oodatavad õpitulemused 6. klassi lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi oma perekonna ajaloo ja sellega seotud minevikusündmuste vastu;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et kodukoht ja elutingimused on ajaloo käigus muutunud;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tajub mineviku ja oleviku seoseid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab ajalist järgnevust ajateljel, omab üldist ettekujutust kodukoha ajaloo perioodidest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kohustuslik aine maht üks tund nädalas.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Määruses fikseeritud õpitulemused on lähtuvalt käsitletavast õppesisust konkretiseeritud.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Antons, K., Hallik, T. (2015). <em>Eesti ajaloo õpik 5. klassile. Pääsukese lend läbi ajaloo.</em> Tartu: Maurus.</li><li>Piir, M. M. (2022). <em>Ajaloo õpik 5. klassile. Inimesed ajas, I osa</em>. Tallinn: Avita.</li><li>Piir, M. M. (2020). <em>Eesti inimesed ajas. Ajalugu 5. klassile</em>. Tallinn: Avita.</li><li>Värä, E., Adamson, A. (2014). <em>Ajalugu. 5. klass</em>. Tallinn: Argo.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Ajalugu ja eesti keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arendatakse lugemis- ja kirjutamisoskust.</li><li>Arendatakse info leidmise oskust.</li><li>Arendatakse eneseväljendusoskust.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja matemaatika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpetatakse mõistma sündmuste järgnevust, kasutades ajatelge (mõisted <em>enne</em> ja <em>pärast</em>).</li><li>Toetudes matemaatilistele oskustele arvutatakse sündmuste toimumisaega ja sellest möödunud aega.</li><li>Kinnistatakse teadmisi ajaühikutest (kuupäev, aasta, aastakümme, sajand, aastatuhat).</li><li>Õpetatakse Rooma numbritega aastatuhandete märkimist.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja loodusõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Käsitletakse inimeste suhteid loodusega erinevatel ajaperioodidel.</li><li>Korraldatakse temaatilisi õppekäike.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja inimeseõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Käsitletakse inimese tervisekäitumist läbi aegade.</li><li>Käsitletakse toidu- ja joogikultuuri muutumist läbi ajaloo.</li><li>Käsitletakse inimsuhete ja eluviiside muutust läbi aegade.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja kunstiained",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Võrreldakse eri aegade eluasemeid ja tarbeesemeid.</li><li>Näituste ja muuseumide külastamine, filmide vaatamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ajalugu ja tööõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvustatakse tööriistade ja -võtete arengut ning eri materjalide kasutuselevõttu.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Sissejuhatus (7 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mis on ajalugu? (2 tundi)</p><p>Ajaarvamine (1 tund)</p><p>Mida me minevikust mäletame? (1 tund)</p><p>Suguvõsa ajalugu (1 tund)</p><p>Minu suguvõsa (2 tundi)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab, et ajalugu on lugu erinevatest aegadest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, et ajatelg kujutab aja kulgemist ning oskab sellele märkida oma sünniaja ning käesoleva aasta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab perepilte ja räägib oma pereliikmetest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab oma lähisugulasi ja teab nende ameteid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada seiku oma lapsepõlvest ja räägib oma kodust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab oma pere sugupuu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab eluliste näidete varal aru mõistete \"sugupuu\", \"põlvkond\" ja \"esivanemad\" tähendusest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "peab oluliseks põlvkondade vahelisi sidemeid ja hindab teadmisi oma sugulaste kohta;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, et möödunud sündmused nii tema enda elus kui ka ümbritsevas maailmas ongi ajalugu.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Töö töölehega (lihtsustada ja näitlikustada teksti ja mõisteid, tegelda sõnaseletusega);</li><li>ajatelje joonistamine;</li><li>õppekäik kodukohas;</li><li>perepiltide vaatamine ja esitlus;</li><li>Kristo Siig: 5. klassi ajalugu: video 1 Mis on ajalugu ja miks seda vaja on? (soovitame õpilastele näitamiseks kasutada kiirust 0,75).</li></ul>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=bQa0UmPoXWg&list=PLH55BK1JEw-p280MvUwzjFTR0y-z4OCgi"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ajatelg;</li><li>Jeesus Kristus, mõisted eKr ja pKr;</li><li>aastakümme, -sada (sajand), -tuhat;</li><li>perekond;</li><li>põlvkond;</li><li>sugupuu;</li><li>esivanemad;</li><li>sugulased ja hõimlased;</li><li>ajalugu.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Sugupuu koostamine vanemate või õpetaja abiga.</li><li>Ühistöö koos õpetajaga: internetiotsing kodukoha ajaloo kohta.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Meenutused kui ajalooallikad (8 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vanemate (ema, isa) lapsepõlve aegne elu maal (1 tund)</p><p>Vanemate lapsepõlve aegne elu linnas (1 tund)</p><p>Vanavanemate elu maal nende noorusajal (1 tund)</p><p>Vanavanemate elu linnas nende noorusajal (1 tund)</p><p>Kool läbi aegade (2 tundi)</p><p>Toit inimeste elus eri aegadel (1 tund)</p><p>Eri ajastute inimeste rõivad (1 tund)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Oskab nimetada sarnasusi ja erinevusi enda vanemate ning vanavanemate lapsepõlve vahel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada sarnasusi ning erinevusi linna- ja maainimeste elus tänapäeval ja minevikus;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab võrrelda koolielu tänapäeval ja minevikus;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab võrrelda inimeste toitumis- ja riietumisvõimalusi minevikus ja tänapäeval.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Töö töölehega (lihtsustada ja näitlikustada teksti ja mõisteid, tegelda sõnaseletusega);</li><li>Kristo Siig 5. klass ajalugu: video 3 Ajaloo uurimine ja ajalooallikad (uus versioon) - YouTube</li><li>ajateljele enda ja oma pereliikmete sünniaegade kandmine;</li><li>oma vanemate ning vanavanemate lapse- ja nooruspõlve kohta info kogumine ja selle jagamine klassiga;</li><li>vanade fotode ühine uurimine ja nende üle arutlemine;</li><li>filmi \"Kevade\" vaatamine ja ühine arutelu.</li></ul>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=DXnDMvXyqHg&list=PLH55BK1JEw-p280MvUwzjFTR0y-z4OCgi&index=3"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>lapsepõlv;</li><li>minevik ja tänapäev.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>vanemate ja vanavanemate küsitlemine vastavalt õpetaja antud ülesandele;</li><li>vana foto/pildi leidmine ja selle uurimine vastavalt õpetaja antud ülesandele;</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kirjalikud ja esemelised ajalooallikad (12 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vanad asjad jutustavad minevikust (2 tundi)</p><p>Muuseum (2 tundi)</p><p>Kirjalikud ajalooallikad, arhiiv (1 tund)</p><p>Vanad ehitised jutustavad minevikust (2 tundi)</p><p>Rehetare (1 tund)</p><p>Ajaloo jäljed maastikul ja maapõues (1 tund)</p><p>Raamatud räägivad ajaloost (1 tund)</p><p>Filmid räägivad ajaloost (2 tundi)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Uurib ja iseloomustab mõnd vana eset ning võrdleb seda tänapäevasega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab olulisemaid Eesti/kodukoha muuseume;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, milleks on muuseumid vajalikud ja mida seal eksponeeritakse;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ja eristab ajalooallikaid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, milleks arhiivid on vajalikud ja mida seal säilitatakse;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab kodukoha vanemaid hooneid/linnamägesid/kalmistuid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb tänapäevaseid ja vanu hooneid ning elamistingimusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et maapõuest võib leida esemeid, ehitisi ja säilmeid, mis annavad ajaloo kohta teavet;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada mõningaid eesti filme ja raamatuid, mis käsitlevad ajaloosündmusi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Töö töölehega (lihtsustada ja näitlikustada teksti ja mõisteid, tegelda sõnaseletusega);</li><li>kaasa võetud esemete ühine uurimine, oluliste tunnuste väljatoomine, võrdlemine kaasaegsete analoogidega;</li><li>olulisemate Eesti ja kodukoha muuseumide tutvustamine (nt PowerPoint esitluste ja veebi abil);</li><li>arhiivide, nende tegevuse ja olulisuse tutvustamine (nt PowerPoint esitluste, piltide ja veebi abil);</li><li>Kristo Siig, 5. klassi ajalugu, video 4: Kirjalikud ajalooallikad ja arhiivid;</li><li>Kristo Siig, 5. klassi ajalugu, video 5: Esemelised ajalooallikad, muuseumid, arheoloogia ja muinsuskaitse 1/3;</li><li>eri ajastute hoonete võrdlemine, mõne kohaliku arhitektuurimälestise külastamine;</li><li>elamistingimuste võrdlemine: linn/maa, minevik/tänapäev, jõukamad/vaesemad;</li><li>arheoloogi töö tutvustamine piltide/videote abil;</li><li>võimalusel mõne arheoloogiamälestise külastamine (vana kalmistu, asulakoht, kalme, linnamägi jne);</li><li>Eesti ajaloost kõnelevate raamatute tutvustamine, mõne filmi või filmikatkendite vaatamine.</li></ul>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=62SNFtqiCf8&list=PLH55BK1JEw-p280MvUwzjFTR0y-z4OCgi&index=4"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=dWaNedAa83Y&list=PLH55BK1JEw-p280MvUwzjFTR0y-z4OCgi&index=5"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>muuseum ja arhiiv;</li><li>ajalooallikas;</li><li>rehetare;</li><li>arheoloog;</li><li>kalmistu ja kalme;</li><li>linnamägi.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>muuseumitund;</li><li>õppekäik;</li><li>filmikatkendite vaatamine.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kodukoht läbi aegade (8 tundi)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esimesed märgid inimasustusest Eesti aladel (1 tund)</p><p>Kodukoht muinasajal (1 tund)</p><p>Kodukoht keskajal (1 tund)</p><p>Kodukoht vanavanemate lapsepõlves (1 tund)</p><p>Eluolu kodukohas kaasajal (2 tundi)</p><p>Kordamine (2 tundi)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, millised leiud viitavad esmasele inimasustusele;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab üldist inimeste eluolust eri ajastutel (elukoht, eluviis, tegevused);",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab võrrelda tänapäevast ja vanavanemate lapsepõlveaegset kodukohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Töö töölehega (lihtsustada ja näitlikustada teksti ja mõisteid, tegelda sõnaseletusega);</li><li>vanavanemate küsitlemine õpetaja antud ülesande alusel;</li><li>kodukoha elanike tänapäevase ja mineviku eluolu (nt tegevusalad) võrdlemine piltide ja meenutuste alusel;</li><li>Google Street View' kasutamine erinevate Eesti ajalooliste objektide vaatlemiseks;</li><li>Kodukohta kujutavate vanade fotode leidmine internetist (nt <a href=\"https://ajapaik.ee/?page=1\">https://ajapaik.ee/?page=1</a>);</li><li>Kodukoha mälestiste kohta info otsimine <a href=\"https://register.muinas.ee/\">https://register.muinas.ee/</a>.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>jääaeg, muinasaeg, keskaeg, uusaeg, uusim aeg;</li><li>inimasustus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde loetelu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>õpetaja antud ülesandega mõne kodukoha ajaloolise objekti vaatlemine.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lugemissoovitusi õpetajale",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Jonuks, T. (2022). <em>Eesti muinasusundid.</em> Tallinn: Postimees Kirjastus OÜ.</p><p>Kriiska, A. (2020). <em>Eesti ajalugu. I, Eesti esiaeg.</em> TÜ ajaloo ja arheoloogia instituut.</p>"
+        }
+      ]
+    }
+  ]
+}

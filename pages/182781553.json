@@ -1,0 +1,440 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>1 ainetund nädalas</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused 6. klassis",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://www.riigiteataja.ee/aktilisa/1080/3202/3004/18m_pohi_liht_lisa1.pdf",
+          "title": "määrusest (4.8.3)"
+        },
+        {
+          "kind": "outcome",
+          "text": "laulab peast 5–6 laulu, sealhulgas Eesti hümni;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "laulab vaba ja kõlava tooni ning selge diktsiooniga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab kuulamise järgi marssi, valssi ja polkat;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb levinumaid rahvalaule, rahvalaulu liike;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "laulab regilaulu, teab regilaulu esitamise traditsioone;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb eesti olulisemaid rahvapille nii välimuse kui ka kõla järgi, teab nende nimetusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab mõningaid olulisemaid fakte eestlaste laulu- ja tantsupeost;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "on tutvunud erinevate kooriliikidega;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab abivahenditele toetudes kõrget ja madalat mees- ja naishäält;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mis on häälemurre, tunneb häälehoiu põhimõtteid ja rakendab neid häälemurde perioodil.",
+          "outcomeType": "knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Määruses fikseeritud õpitulemused on lähtuvalt käsitletavast õppesisust konkretiseeritud.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Osaoskus LAULMINE",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "laulab peast 5–6 laulu, sealhulgas Eesti hümni;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "laulab vaba ja kõlava tooni ning selge diktsiooniga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mis on häälemurre, tunneb häälehoiu põhimõtteid ja rakendab neid häälemurde perioodil.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb levinumaid rahvalaule, rahvalaulu liike;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "laulab regilaulu, teab regilaulu esitamise traditsioone;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Laulmine ja laulutehnika.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Lauldakse loomuliku kehahoiu ja sügava/laululise hingamisega, vaba tooni ja selge diktsiooniga. Pööratakse tähelepanu meloodia puhtale intoneerimisele. Laulu valikul arvestada hääle isikupära ja sobivat tessituuri. Lauldakse <em>a cappella</em> ja saatega, koos, ansamblis ja ka üksi (vastavalt võimalustele ja võimekusele). Püütakse edasi anda laulu meeleolu ja sõnumit, kasutatakse dünaamika võimalusi esitada laulu väljendusrikkalt.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Repertuaar.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Lauldakse eesti vanemat ja uuemat rahvalaulu vastavalt nende esitusvõtetele. Lauldakse ühe- ja kahehäälseid laule, kaanoneid. Laulude valikul arvestatakse õpilaste kõne mõistmise taset ning võimalikke hääldusprobleeme, välditakse ülikiiret artikuleerimist vajavaid laule.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Repertuaari valikusse võiks kaasata õpilasi, valikul arvestatakse eesti rahvakalendri ja riiklike tähtpäevadega. Tutvustatakse laulu autoreid, luuakse seos kirjandustundides õpituga. Väärtustatakse ühislaulmist, lauldakse peast II kooliastme ühislaule: Eesti hümn, „Kui Kungla rahvas“, „Majakene mere ääres&quot;.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Muusikaline kirjaoskus.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Laulu õppimisel kasutatakse ja kinnistatakse õpitud võtteid ja mõisteid. Vajadusel selgitatakse erinevaid laulu noodikirja/ülesehituse variante (sõnade paigutused noodikirjas ja noodiridade all jms).</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd (valik ideid õpetajale)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tähelepanu pööramine hääle tekitamisele - loomulik kehahoiak, laululine hingamine (kiire ja sügav, kahinata sissehingamine, aeglane väljahingamine/õhu vabastamine laulmisel), vaba toonitekitamine, selge hääldus, võimalikult puhas intonatsioon/kõlapuhtus, ilmekus esitusel.</li><li>Hääleharjutused, lahtilaulmine tunni alguses/ enne laulmist, hääleulatuse ja -tugevuse arendamine, helikõrguste tunnetamine laulmisel.</li><li>Õpitud laulude kordamine, eakohaste ühislaulude, eesti ja teiste rahvaste laulude laulmine.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Osaoskus PILLIMÄNG",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "rakendab varem õpitud pillimänguvõtteid ning kasutab pillimängu laulude saadetes või vahemängudes;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Plokkflöödi mängus kinnistatkse õpitud mänguvõtteid viie noodi ulatuses ( G, A, H, C, D), õpitakse juurde parema käe sõrmede lisamisel uued noodid E, FIS ja D. Uute nootide omandamisel on võimalik õppida lugusid nii G kui D duuris, mis on plokkflöödi õppes lihtsad helistikud.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Väikekandle või plokkflöödi mängimisel kasutatakse õpitud mänguvõtteid, harjutatakse lihtsamate laulude saatmist pillidega. Keha-, rütmi- ja plaatpille mängitakse nii orkestris, ansamblis kui ka üksi.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Musitseerimisel kasutatakse õpitud rütme, rütmifiguure ja pause. Noodist mängimisel kinnistatakse absoluutset noodisüsteemi. Paigutatakse absoluutsed helikõrgused (tähtnimetused) klaviatuurile (süntesaator/klaver/erinevad rakendused) ja mängitakse lihtsamaid meloodiaid plaatpillidel/klaviatuuril.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd (valik ideid õpetajale)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Rütmi improviseerimine kehapillil ja rütmipillidel.</li><li>Rütmi ja meloodia esitamine või improviseerimine plaatpillidel.</li><li>Keha-, rütmi- ja plaatpillidel <em>ostinato</em>'de, kaas-, eel- ja/või vahemängude mängimine.</li><li>Musitseerimine väikekandlel või plokkflöödil, kasutades õpitud mänguvõtteid.</li><li>Klahvpillimäng - Youtubest leiab näidis- ja õppevideosid, kus tähtnimetuste ja eri pikkustega ristkülikute (märgib helivältust) abil saab õppida klahvpillimängu. Video seadetest saab valida eri kiirusega esitusi - õppimiseks saab valida aeglasema versiooni. Eri värvidega on märgistatud parema käe meloodia ja vasaku käe saatepartii. Oma nutitelefoni ja/või kooli nuhvli (visuaal) ja kõrvaklappidega (enda mäng) saab igaüks iseseisvalt harjutada.</li><li>Veebirakenduste kasutamine pilliõppes (virtual piano jt). Lihtsamate meloodiate esitamine klahvpillidel või erinevatel digitaalsetel rakendustel.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Osaoskus MUUSIKA KUULAMINE",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab abivahenditele toetudes kõrget ja madalat mees- ja naishäält;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on tutvunud erinevate kooriliikidega;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab mõningaid olulisemaid fakte eestlaste laulu- ja tantsupeost;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb levinumaid rahvalaule, rahvalaulu liike;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab regilaulu esitamise traditsioone;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb eesti olulisemaid rahvapille nii välimuse kui ka kõla järgi, teab nende nimetusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab kuulamise järgi marssi, valssi ja polkat;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Hääl.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kuulatakse ja võrreldakse hääleliike, selgitatakse hääle tekkimist, häälemurret.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kuulatakse ja võrreldakse kooriliike. Kirjeldatakse oma koolis või kodukohas tegutsevaid koore - mis liik/liigid, kui suur koosseis, kes seal laulavad, mida esitavad, kus on neid kuulda/näha olnud. Kuulatakse laulupeo esitusi tuttavatest lauludest. Arutletakse laulupeo kogemuse ja tähenduse üle.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Eesti rahvamuusika.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kuulatakse ja eristatakse vanemat ja uuemat rahvalaulu (meloodia, sisu/tekst, esitusviis); rahvamuusikat ja seda esitavaid rahvapille; rahvatantse ja laulumänge.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Euroopa rahvaste muusika.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvutakse valikuliselt Soome, Rootsi, Norra, Läti, Leedu, Poola, Saksamaa, Austria, Suurbritannia, Venemaa muusikatraditsioonidega. Arutelude ja vestluste käigus võrreldakse õpitud rahvaste muusikat eesti rahvamuusikaga, nt leitakse erinevusi ja sarnasusi eesti rahvapillidega (pillirühm, kuju, kõla).</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kinnistatakse kontserdikülastaja hea käitumise tavasid. Kirjeldatakse ja analüüsitakse kogetud muusikaelamusi ning avaldatakse nende kohta arvamust eakohaselt suuliselt või kirjalikult muusika oskussõnavara kasutades või muul looval viisil.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd (valik ideid õpetajale)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Liikumismäng hääleliikidest <a href=\"https://www.liikumakutsuvkool.ee/haaleliigid-1/\">https://www.liikumakutsuvkool.ee/haaleliigid-1/</a></li><li>Pane käed kaelale ja tee erinevaid häälitsusi. Pane tähele, millisel kaelapiirkonnal sa heli tunned ja seda, milline see heli tundub. Võta käed kaelalt ära ja pane need vastu rinda: millises piirkonnas sa heli kõige paremini tunned, kui laulad kõrge või madala häälega?</li><li>Proovi erinevates ruumides heli tekitada – kasuta oma katseks klassiruumi, koridori, suurt saali/aulat, võimlat, dušikabiini ja välitingimusi. Kuidas su hääl nendes erinevates ruumides kõlab? Mil moel madala ja kõrge hääle poolt tekitatav kaja erineb?</li><li>Suru oma nägu vastu täispuhutud õhupalli ja püüa siis rääkida. Miks sa nüüd heli oma sõrmeotstes tunned?</li><li>Räägi jogurtitopsi sisse, püüa oma häält mööda nööri edasi anda. Kinnita nööri üks otsa jogurtitopsi põhja külge ja teine täispuhutud õhupalli külge. Anna õhupall oma sõbra kätte. Palu sõbral seejärel nöör pingule tõmmata ja õhupalli vastu üht oma kõrva hoida. Räägi midagi jogurtitopsi sisse. Millise kõlaga jogurtitopsi räägitud hääl on?</li><li>Esitlused/plakatid pillidest, hääleliikidest, autoritest, erinevate maade kultuuridest jne.</li><li>Intervjuu laulupeol osalenud tuttava isikuga (üheskoos ettevalmistatud küsimustega).</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://stuudium.link/?link=https%3A%2F%2Flearningapps.org%2F5474642&sp=c2NsPWthYXJlJnN0cD1jb250ZW50OnRlcmE&ssig=240331-cf9c3c39deb96e11aa659e897685ae600c978218",
+              "title": "LearningApps ülesanne 5474642"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/5474642"
+            },
+            {
+              "kind": "link",
+              "href": "https://stuudium.link/?link=https%3A%2F%2Flearningapps.org%2F2852059&sp=c2NsPWthYXJlJnN0cD1jb250ZW50OnRlcmE&ssig=240331-732681ee4d6059fe7f8ebbe6c73a2450086ab32c",
+              "title": "LearningApps ülesanne 2852059"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/2852059"
+            },
+            {
+              "kind": "link",
+              "href": "https://stuudium.link/?link=https%3A%2F%2Flearningapps.org%2F2873240&sp=c2NsPWthYXJlJnN0cD1jb250ZW50OnRlcmE&ssig=240331-db50d3abd0e2c0d269cb547d414bb5c8a916a846",
+              "title": "LearningApps ülesanne 2873240"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/2873240"
+            },
+            {
+              "kind": "link",
+              "href": "https://stuudium.link/?link=https%3A%2F%2Flearningapps.org%2F4150805&sp=c2NsPWthYXJlJnN0cD1jb250ZW50OnRlcmE&ssig=240331-ce85eb0be741b78c5423cf6ed0fb62f132f97a7f",
+              "title": "LearningApps ülesanne 4150805"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/4150805"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Osaoskus MUUSIKALINE LIIKUMINE",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab kuulamise järgi marssi, valssi ja polkat;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab mõningaid olulisemaid fakte eestlaste laulu- ja tantsupeost;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Muusikaline taju:",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>muusika rütmi, tempo ja dünaamika tunnetamine, erinevate rütmikujundite tuvastamine ning nende väljendamine liikumiste/liigutuste kaudu; oma liikumiste kohandamine vastavalt muusika iseloomule.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kuulatakse eriilmelisi tantse - marss, valss, polka. Püütakse liikuda muusika iseloomule vastavalt, võimalusel kasutatakse liikumisel valsi ja polka põhisamme.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ruumiteadlikkus ja koordinatsioon:",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>keha tunnetuse ja koordinatsiooni arendamine; liikumistegevuste kaudu enda ja teiste tunnetamine, arvestamine paiknemisega ruumis ja liikumistrajektooridega; kehakeele kasutamine, arvestades ruumi võimalusi ja muusika iseloomu.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Grupisisene suhtlus:",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>tegevusi võib läbi viia üheskoos, rühmades ja ühekaupa tegutsedes, arvestades osalejate vajaduste, oskuste ja võimalustega; teistega arvestamine, grupisisese suhtluse ja koostöö arendamine, luues üheskoos liikumismustreid ja -kavasid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Eneseväljendus ja loovus:",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>muusika, kehakeele ja liikumise kasutamine, et väljendada oma mõtteid ja emotsioone; loovuse arendamine, väljendades ennast isikupärasel viisil läbi liikumise</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd (valik ideid õpetajale)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Meetrumi/taktimõõdu tunnetamine ja väljendamine liigutuste või liikumistega</li><li>Rütmi-ostinatod kehapillile</li><li>Rütmi ja dünaamika väljendamine liigutuste või liikumistega</li><li>Muusikapaladele/lauludele liigutuste loomine - loovliikumine, tantsuline omalooming</li><li>Pärimuslikud laulumängud, ringmängud</li><li>Folkloorsed ja rahvatantsud, teiste rahvaste tantsud</li><li>Laste-zumbad jms videotes - eeskuju järgi liikumine</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Osaoskus MUUSIKALINE OMALOOMING",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Turvalise ja loomisvabadust toetava keskkonna kujundamine, kus hinnaliseks peetakse ka eksimusi ning õpitakse ebaõnnestunud katsetustest. Lugupidav suhtumine kaasõpilaste loomingusse.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Loomine võiks alata väiksematest katsetustest õppijale tuttaval viisil (üminad, rütmikompositsioonid, helid ja kooskõlad jms), kasutades keha, häält ja olemasolevaid pille. Tutvutakse muusikateose interpreteerimisvõimalustega (töötlus, orkestratsioon, remiks, kaver, rahvalaulu originaalesituse kasutamine kaasaegses loos).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Omaloomingut luuakse ja esitatakse üksi, ansamblis ja/või üheskoos. Katsetatakse ideedega, kasutades muusikalisi osaoskusi (laulmine, pillimäng, muusikaline liikumine) nii eraldi kui ka lõimitult. Luuakse kaasmänge keha-, rütmi- või plaatpillidel, loovliikumisi, improvisatsiooni.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Muusikaloomet võib katsetada erinevates veebikeskkondades (Incredybox)</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

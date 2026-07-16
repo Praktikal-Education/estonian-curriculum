@@ -1,0 +1,89 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus ja eesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Ajaloo õpetamine põhikoolis kujundab õpilastes huvi ajaloo vastu. See hõlmab arusaamist sündmustest ja muutustest oma lähikonna ning inimkonna ajaloos ja aja kulgemise seaduspärasustest. Õpetus algab õpilase ja tema pere elukäigu seostamisest kodukoha ja Eesti ajalooga. Aine käsitlemine aitab luua teadmist, et iga inimene on osa ajaloost ning et ajalugu mõjutab igaüht. Õpetamine põhineb kontsentrilisuse printsiibil, toetudes ajateljele ning lähtudes varemõpitust.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õppeaine eesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppeaine eesmärgid on:</p><ul><li>tekitada huvi oma pere, kodukoha ja kodumaa mineviku vastu;</li><li>laiendada ainealaseid teadmisi;</li><li>suunata aduma inimeste eluolu muutumist läbi aja;</li><li>suunata mõistma aja kulgemise seaduspära;</li><li>arendada lugemis- ja kirjutamisoskust;</li><li>laiendada sõnavara;</li><li>arendada oskust küsida vajadusel abi ja selgitusi;</li><li>õpetada mõistma enda kui kodaniku rolli ühiskonnas ning oma õigusi ja kohustusi.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpetuse eesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Ajalooõpetusega taotletakse, et põhikooli lõpuks õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi mineviku vastu",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et minevik on olnud muutuv ja väga mitmekesine",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "omab üldist ettekujutust Eesti ajaloost ja sellega seoses üldjoontes kogu maailma ajaloost",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab abivahendite toel olulisi ajaloosündmusi, inimeste eluviisi ja tegevusalasid õpitud ajastutel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et maailmas toimunud sündmused on otseselt või kaudselt mõjutanud nii Eestis kui ka mujal Euroopas toimunud sündmusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et poliitikal on suur roll maailma riikide omavahelistes suhetes",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab oma põhiõigusi ning kohustusi Eesti Vabariigi kodanikuna, kirjeldab Eesti riigi valitsemiskorda",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja väärtustab kombeid ning traditsioone oma kultuuris",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab kultuurilist mitmekesisust ning määratleb end oma rahva liikmena",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab infot eri teabeallikatest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab hinnata erinevate teabeallikate usaldusväärsust",
+          "outcomeType": "skill"
+        }
+      ]
+    }
+  ]
+}

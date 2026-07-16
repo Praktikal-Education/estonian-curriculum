@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursusel „Praktiline eesti keel III“ keskendutakse suhtlemisoskuse arendamisele, eri liiki tekstide vastuvõtule ja loomisele, sh arutluse, kokkuvõtte ja lühiuurimuse kirjutamisele ning õigekeelsusküsimuste kordamisele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab keelt vastavalt suhtluseesmärgile ja -kontekstile",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "argumenteerib ning kaitseb oma seisukohti suuliselt ja kirjaliku arutleva teksti vormis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab levinumaid meediatekste, sh kommentaari ja arvamusloo",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab mitme alusteksti põhjal kindlal eesmärgil kokkuvõtte või resümee",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab erinevate alustekstide põhjal kindlasse suhtlusolukorda sobiva arutleva teksti",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab eri allikatest leitud infot oma tekstides",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "parandab ja kinnistab oma õigekirja- ja kirjakeeleoskust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru keeruka struktuuriga tekstidest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb erinevaid tekste, arendab oma kirjaoskust ja rikastab sõnavara.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Teksti suhtlustähenduse ja eesmärgi mõistmine eri toiminguis. Suhtluspartneri mõistmine dialoogis.</p><p>Suuline esinemine ja suhtlus eri tüüpi olukordades. Argumenteerimine, veenmine, väitlemine, emotsionaalsus, toon.</p><p>Tarbetekstide kirjutamine ja vormistamine: elulookirjeldus, avaldus, taotlus, motivatsioonikiri, e-kiri jt.</p><p>Kokkuvõtte ja arutleva teksti koostamine mitme eri tüüpi alusteksti põhjal.</p><p>Liitotsingud erinevatest allikatest.</p><p>Õigekirja- ja õigekeelsusküsimuste kordamine. Keeleallikate teadlik kasutamine.</p><p>Keeruka struktuuriga tekstid. Süstemaatiline sõnavaraarendus: harvem esinevad sõnad, sõnamoodustus, käsitletavate teemadega seotud sõnavara.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Praktilise kursuse teemade järjekorra soovitus on üks võimalus, kuidas neid teemasid läbida ehk kuidas tekstide loomiseni jõuda. See tähendab, et esmalt peab õppija lugema tekste (“Vastuvõtt: lugemine ja kuulamine”), seejärel õppima tekste allikana kasutama (“Allikad”) ja lõpuks (sarnaseid ja teistsuguseid) tekste ise koostama (“Kirjalike ja suuliste tekstide koostamine: kirjutamine ja rääkimine”).</p><p>Vaata <a href=\"https://projektid.edu.ee/display/OKMV/G+Eesti+keel#GEestikeel-Eestikeelekursustel%C3%B5imimine\">praktilise eesti keele kursuste lõimimist sisukursustega.</a></p>"
+        }
+      ]
+    }
+  ]
+}

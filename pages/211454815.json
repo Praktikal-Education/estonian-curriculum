@@ -1,0 +1,605 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Filosoofia ainevaldkond",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Esimese kursuse ainevaldkonnaspetsiifilise teema eesmärk on anda esmane ülevaade filosoofia ainevaldkonnast ja sellele iseloomulikust käsitluslaadist. Teema moodustab kursuse mahust kuni neljandiku.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            { "kind": "text", "html": "<p>Kursuse lõpus õpilane:</p>" },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab filosoofia ainevaldkonda ja filosoofilist käsitlusviisi, eristades seda teaduste jt eluvaldkondade omast",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab filosoofia valdkondi ja arutleb neile omaste küsimuste üle",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab filosoofia ajaloo perioode mõningate neile omaste käsitluste, mõistete ja autorite kaudu.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Filosoofia valdkonnad. Filosoofilised küsimused ja nende eripära. Filosoofia ajaloo periodiseering. Perioodidele iseloomulikud filosoofilised küsimused ja valdkonnad ning neid küsimusi esitavad ja valdkondi käsitlevad filosoofid. Filosoofilise mõtlemise algus ja selle tähendus. Mõtlemise ja filosoofia roll inimelus, kultuuris ning ajaloos. Filosoofia ning teadus, religioon, kirjandus ja elu. Filosoofilise mõtlemise ja käsitletavate arutlusteemadega seonduvad olulised mõisted, mõtteliinid ning filosoofid koos oma iseloomulike väidetega.</p><p>Käsitletavad mõtteliinid:</p><ol><li>antiikfilosoofia ja filosoofilise mõtlemise kujunemine;</li><li>keskaja filosoofia ja mõtlemise rakendamine usu teenistusse;</li><li>uusaja filosoofia ning eksperimentaalse loodusteaduse sünd;</li><li>uusaja filosoofia ja indiviidi/subjekti esile kerkimine;</li><li>uusaja filosoofia ning valgustusmõtlemine.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Filosoofiline mõtlemine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Filosoofilise mõtlemise osa eesmärk on tutvuda filosoofiale iseloomuliku keelega, õppida tundma vajalikku terminoloogiat ning harjutada selle kasutamist. Filosoofilist mõtlemist harjutatakse, kasutades selleks kesksete arutlusteemade õppesisu. Filosoofiline mõtlemine moodustab kuni poole kursuse mahust.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            { "kind": "text", "html": "<p>Kursuse lõpus õpilane:</p>" },
+            {
+              "kind": "outcome",
+              "text": "tunneb mõningaid tähtsamaid arutlus- ja tõlgendustehnilisi termineid ning märkab nende rakendamise kohti filosoofilises arutluses",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb filosoofilise arutluse häid tavasid ning märkab nende rakendamise kohti lugemises, kõnelemises, väitluses ja kirjutamises",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "sõnastab korrektseid filosoofilisi küsimusi ning arutleb vastuste üle, jäädes filosoofilisele arutlustasandile ja järgides argumentatsioonireegleid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb filosoofilist teksti ning koostab juhendamisel lihtsama filosoofilise essee.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keel. Teaduskeel, loomulik keel, filosoofia keel. Lause, otsustus, väide ja argument. Mõiste ja definitsioon. Eeldused ning varjatud eeldused.</p><p>Järeldamine, korrektsus ja tõesus. Argumendi kehtivus. Tõlgendus ja kontekst. Põhjendus ja seletus. Kooskõla ning vasturääkivus. Tähendus ja tõde.</p><p>Küsimus, filosoofiline küsimus ning küsimuste korrektsus. Argumentatsioon ja retoorika. Filosoofilise arutelu head tavad. Mõtlemine ja väljendamine. Essee kirjutamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Arutlusteemad filosoofilistest küsimustest",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Arutlusteemade eesmärk on eelkõige harjutada filosoofilist mõtlemist. Nende üksikasjalikum ja süsteemsem avamine võib jääda teise kursuse osaks. Soovi korral võib esimesel kursusel keskenduda põhjalikumalt ainult ühele arutlusteemale ning võtta selle jaoks osa õppesisu teisest kursusest. Säärasel juhul tuleb esialgu kõrvalejäetu teisel kursusel kompenseerida. Kursuse mahust moodustavad arutlusteemad kuni neljandiku.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            { "kind": "text", "html": "<p>Kursuse lõpus õpilane:</p>" },
+            {
+              "kind": "outcome",
+              "text": "arutleb teadmisviiside, väärtuste ning ühiskonna ja keskkonna lihtsamate filosoofiliste küsimuste üle, eristades filosoofilist arutelu tavaarutelust",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "väärtustab filosoofilist arutlust ja selle tulemusi, kuid annab endale aru tulemuste suhtelisusest, st nende seotusest eri käsitlusviiside ning aluseeldustega.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teadmisviisid. Teadmise olemus, tunnetusteooria. Teadmise ja tunnetusviiside ning võimete eristus. Teadmise seos uskumuse ja õigustusega. Seosed õppeainete ja eluvaldkondadega.</p><p>Väärtused ja normatiivsed süsteemid (moraal, religioon, õigus). Väärtuste olemus, aksioloogia. Väärtuste ja tegude kooskõla. Väärtuse ja fakti erinevus. Väärtuste universaalsus ning suhtelisus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeprotsessi kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Käesoleva õppeprotsessi kirjelduse aluseks on 2011. aastal valminud näidis valikkursuste kavade autoritelt, kuidas võiks kavu rakendada. Kirjeldust on 2023. aastal täiendatud ja kohendatud lähtudes vahepeal tehtud muudatustest riiklikus õppekavas. Kirjeldatud on kõige universaalsemat õppeprotsessi, mis ei võta arvesse kooli, klassi vms eripärasid ja võiks sellisena sobida üldiseks mudeliks. Õpetaja on õigustatud seda õppeprotsessi kirjeldust mugandama oma parima äranägemise järgi seni, kui see järgib valikkursuste kavades väljatoodud üldisi printsiipe ja proportsioone. Kavade väljatöötajad on püüdnud jätta õpetajale selle jaoks võimalikult suure vabaduse.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "1. Metoodilised juhtnöörid",
+          "children": [
+            {
+              "kind": "section",
+              "title": "1.1. Õpetamisviisi valik",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Filosoofia õppimiseks gümnaasiumis on sobivaim eelkõige võimalikult arutluslik ja iseseisvat mõtlemist esile kutsuv õpetamisviis. Seejuures tuleb õpilast süstemaatiliselt harjutada filosoofiale omase käsitlusviisi rakendamisega. Oluline on, et õpilased mõistaksid filosoofilise arutelu lähtumist vormilistest printsiipidest ega arvaks, et filosoofias võib arvata mida ja kuidas tahes.</p>"
+                },
+                {
+                  "kind": "section",
+                  "title": "1.1.1. Didaktiline lihtsustamine",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Filosoofiline materjal on iseenesest keeruline ja sellest arusaamine nõuab suurt vaimset pingutust. Seega tuleb gümnaasiumiastmes seda oluliselt lihtsustada. Lihtsustada tuleks seda nii ulatuse kui süvenemise osas.</p><p>Kui õpetajale tundub, et materjali koondub ühte õppetundi liiga palju, siis tasub alati proovida:</p><ol><li>ainult kõige olulisema käsitlemist võimalikult rahulikus tempos;</li><li>käsitluse filosoofilise sügavuse vähendamist ja keskendumist selle käsitluse praktilisele sisule;</li><li>õpilase poolse aktiivsuse tõstmist nt käsitletava seostamise kaudu tema enda olemasoleva kogemusega jne.</li></ol>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://projektid.edu.ee/download/attachments/211454815/I%20kohtumisel%20l%C3%A4biviidav%20k%C3%BCsitlus.pdf?version=1&modificationDate=1710417756146&api=v2",
+                      "title": "I kohtumisel läbiviidav küsitlus"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://projektid.edu.ee/download/attachments/211454815/Lugemistest.pdf?version=1&modificationDate=1710417765373&api=v2",
+                      "title": "Lugemistest"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://projektid.edu.ee/download/attachments/211454815/Test_loogika%20arutlus.pdf?version=1&modificationDate=1710417989074&api=v2",
+                      "title": "Test loogika arutlus"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "1.1.2 Harjutused ja rühmatööd",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Õpilased peavad arutlemist harjutama. Hea on anda õpilastele lühikesi ja kiiresti tagasisidestatavaid ülesandeid. Ülesannete aluseks võivad olla lühikesed tekstid, näiteolukorrad, arutluskäigud. Õpilastele tuleb anda selge eesmärk ja enne töö alustamist tuleks selgitada, mis laadi tulemust oodatakse ning kuidas seda töö lõpetamisel esitletakse.</p><p>Õpilastel on lihtsam arutleda paarikaupa või väikeses rühmas. Rühmas toetavad õpilased üksteist ja hoiavad koos ära suuremaid eksimusi. Rühmad ei tohi olla liiga suured, 3-5 inimest on optimaalne.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "1.1.3 Visuaalmaterjali kasutamine õppetöös",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Üheks võimaluseks tundide mitmekesistamisel on filmide ja filmilõikude kasutamine. Filmilõike saab vaadata arutelude aluseks, õpitu kinnistamiseks, kokkuvõtteks ning inspiratsiooniks, mis ärgitaks õpilaste kirjeldatud probleemi või filosoofiaga edasi tegelema.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "1.1.4 Uurimuslik õpe",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Filosoofiast süvitsi huvituvate õpilaste jaoks võib pärast põhiliste mõtlemisoskuste omandamist korraldada õppeprotsessi läbivalt uurimuslikult. Uurimusliku õppe korral on õppeprotsessi lõpptulemuseks õpilase koostatud lühiuurimus, nt filosoofiaolümpiaadi essee, millest võib välja kasvada ka gümnaasiumiastme kohustuslik uurimistöö.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "1.1.5 Hindamine",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Hinnata tuleb eelkõige kätteõpitud arutlusoskust ja mitte keskenduda formaalselt teadmiste hindamisele. Sestap sobivad arutluse puhul hindamismeetodid, mis hindavad õpilase töö samm-sammulist arengut.</p><p>Olulisemad hindamise viisid filosoofia kursuste raames on näiteks:</p><ul><li>Harjutuslikud ja loovad tunnikontrollid mõtlemise tehnikate valdamise kohta;</li><li>Essee koostamine;</li><li>Kujundav hindamine;</li><li>Kokkuvõttev hindamine;</li><li>Iseseisvad loovad tööd filosoofia vallas;</li><li>Argumentide ja selgituste hindamine vestluses.</li></ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "1.2 Õppeprotsessi komponendid/käsitlusalad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Arutlusvõime arendamiseks õpitakse filosoofilise mõtlemise termineid ja tehnikaid. Filosoofia ainevaldkond hõlmab ainevaldkonnale spetsiifilisi teemasid, keskseid arutlusteemasid ja lõimimist teiste õppeainetega.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "1.3 Õppevahendid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Pole kirjutatud õpikut praegu kehtiva õppekava jaoks, mis sisaldaks nii filosoofia põhiprobleeme, ajaloolisi mõtteliine kui ka mõtlemistehnikate õpetamist.</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://oppekava.ee/filosoofia/",
+                  "title": "Filosoofia (metoodilised abimaterjalid)"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee/wp-content/uploads/2017/01/Religioon_ja_filmikunst._%c3%95ppemetoodilisi_juhtn%c3%b6%c3%b6re.pdf",
+                  "title": "Religioon ja filmikunst. Õppemetoodilisi juhtnööre"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee//wp-content/uploads/2017/01/Religioon_ja_filmikunst._%c3%95ppemetoodilisi_juhtn%c3%b6%c3%b6re.pdf",
+                  "title": "Religioon ja filmikunst. Õppemetoodilisi juhtnööre"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "2. Esimene kursus: Sissejuhatus filosoofilisse mõtlemisse",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Esimene filosoofia kursus (35 tundi) juhatab sisse filosoofilisse mõtlemisse andes esmase ülevaate filosoofia kui distsipliini ajaloost, iseloomust ja rollist ning harjutades filosoofilise mõtlemise tehnikaid ja praktiseerides selle häid tavasid arutluses iseloomulikumate filosoofiliste küsimuste üle.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "2.1 Õpitulemused",
+          "children": [
+            { "kind": "text", "html": "<p>Kursuse läbimise järel õpilane</p>" },
+            {
+              "kind": "outcome",
+              "text": "Iseloomustab filosoofia ainevaldkonda ja filosoofilist käsitlusviisi eristades seda teaduste jt eluvaldkondade omast;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Eristab filosoofia valdkondi ja arutleb neile omaste küsimusepüstituste eripärade üle;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Iseloomustab filosoofia ajaloo perioode mõningate neile omaste käsitluste, mõistete ja autorite kaudu;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Tunneb olulisemaid arutlus- ja tõlgendustehnilisi termineid ning märkab nende rakendamise kohti filosoofilises arutluses;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Koostab iseseisvalt lihtsamaid väiteid, definitsioone ja argumente ning mõtestab neid kriitilise mõtlemise vahenditega;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Tunneb filosoofilise arutluse häid tavasid ning märkab nende rakendamise kohti lugemisel, kõnelemisel, väitluses ja kirjutamisel;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Sõnastab korrektseid filosoofilisi küsimusi ning arutleb vastuste üle, jäädes filosoofilisele arutlustasandile ja jälgides argumentatsioonireegleid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Loeb filosoofilist teksti ja koostab juhendamisel lihtsama filosoofilise essee;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Arutleb lihtsamate teadmisviise, väärtusi ning ühiskonda ja keskkonda puudutavate filosoofiliste küsimuste üle, eristades filosoofilist arutelu tavaarutelust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Väärtustab filosoofilist arutlust ja selle tulemusi, kuid annab endale aru tulemuste suhtelisusest, st nende seotusest eri käsitlusviiside ning aluseeldustega.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2.2 Õppeprotsess",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Järgnevas õppeprotsessis on õppesisu esitatud teemaplokkide kaupa, mõistagi ehitab õpetaja kursuse üles vastavalt oma nägemusele, lähtudes ennekõike õpilaste vajadustest.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454815/N%C3%A4idis%20kursusekava%201.pdf?version=1&modificationDate=1710417630954&api=v2",
+              "title": "Näidis kursusekava 1"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454815/N%C3%A4idis%20kursusekava%202.pdf?version=3&modificationDate=1710419723701&api=v2",
+              "title": "Näidis kursusekava 2"
+            },
+            {
+              "kind": "section",
+              "title": "1. Filosoofiline mõtlemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvumine filosoofia valdkondade ja filosoofiale omaste küsimustega.</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://antiik.ut.ee/eelsokraatik/",
+                  "title": "Zenon, Achilleus"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://www.indrekmeos.xyz/e_raamat/Meos_I_Filos_pohiprobleemid.pdf",
+                  "title": "Indrek Meos „Filosoofia põhiprobleemid. Õpik gümnaasiumile“"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://digiriiul.sisekaitse.ee/handle/123456789/337",
+                  "title": "Jüri Eintalu „Filosoofia põhiküsimusi“"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://filosoofialugemine.weebly.com/",
+                  "title": "Leo Luks „Filosoofilise teksti lugemine ja mõistmine“"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "2. Filosoofia periodiseering ja mõtteliin: antiikfilosoofia iseloom (2 tundi)",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Materjalid",
+                  "children": [
+                    {
+                      "kind": "video",
+                      "src": "https://www.youtube.com/watch?v=1RWOpQXTltA&t=158s"
+                    },
+                    {
+                      "kind": "video",
+                      "src": "https://www.youtube.com/watch?v=d2afuTvUzBQ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "3. Filosoofilise mõtlemise viisid ja vahendid (3 tundi)",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Materjalid",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "https://filosoofia.indrekmeos.xyz/opikud.php",
+                      "title": "Indrek Meos „Loogika. Argumentatsioon. Mõtlemiskultuur“"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "4. Mõtteliin: keskaja filosoofia iseloom (1 tund)",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://projektid.edu.ee/download/attachments/211454815/T%C3%B6%C3%B6leht_Thomase%20t%C3%B5estuse%20argumentatsioon.pdf?version=1&modificationDate=1710417558212&api=v2",
+                  "title": "Tööleht Thomase tõestuse argumentatsioon"
+                },
+                {
+                  "kind": "section",
+                  "title": "Materjalid",
+                  "children": [
+                    {
+                      "kind": "file",
+                      "src": "https://www.indrekmeos.xyz/e_raamat/Meos_I_Uusajafilosoofia.pdf",
+                      "title": "Indrek Meos „Uusaja filosoofia : peatükke filosoofia ajaloost“"
+                    },
+                    {
+                      "kind": "video",
+                      "src": "https://www.youtube.com/watch?v=5g_sjPhrPBo&t=9231s"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://jupiter.err.ee/1218025/marju-lepajoe-paevade-sonad?fbclid=IwAR1ONGjjyTWc0uoWRMAt1Kex63QQ0clSNpkiXiPuWctR9WQvWS2Ow5ngAu0",
+                      "title": "Film „Päevade sõnad“"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "5. Filosoofia keel ja loogiline argumentatsioon (8 tundi)",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Materjalid",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "https://filosoofialugemine.weebly.com/",
+                      "title": "Leo Luks „Filosoofilise teksti lugemine ja mõistmine“"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://filosoofialugemine.weebly.com/uumllesanne12-struktureeritud-kokkuvotildete.html",
+                      "title": "Struktureeritud kokkuvõtete ülesanne"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://p6drad-teel.net/~p6der/",
+                      "title": "Märt Põder"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://ut.ee/sites/default/files/2022-01/1901-ut_kutse_filosoofiasse_2021.pdf",
+                      "title": "Sander Vaus „Levinud arutlusvigu“"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.indrekmeos.xyz/e_raamat/Meos_I_Loogika.pdf",
+                      "title": "Indrek Meos „Loogika. Argumentatsioon. Mõtlemiskultuur“"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "6. Essee kirjutamise õppimine (4 tundi)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvumine essee kirjutamise printsiipidega. Näidisessee kirjutamine klassis ja selle analüüs. Essee kirjutamisele eelneva protsessiga tutvumine, filosoofilise teksti lugemise meetoditega tutvumine, essee kirjutamise juhendi tutvustamine ja läbiarutamine.</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://p6drad-teel.net/~p6der/essee/",
+                  "title": "Märt Põdra essee kirjutamise soovitused"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://projektid.edu.ee/download/attachments/211454815/Struktuur_konspekt.pdf?version=2&modificationDate=1710418719715&api=v2",
+                  "title": "Struktuur konspekt"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://projektid.edu.ee/download/attachments/211454815/Essee%20hindamisjuhend.pdf?version=1&modificationDate=1710417294259&api=v2",
+                  "title": "Essee hindamisjuhend"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://projektid.edu.ee/download/attachments/211454815/Essee%20hindamisjuhend_20p.pdf?version=1&modificationDate=1710417350676&api=v2",
+                  "title": "Essee hindamisjuhend 20p"
+                },
+                {
+                  "kind": "section",
+                  "title": "Materjalid",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "http://filosoofiakirjutamine.weebly.com/",
+                      "title": "Leo Luks „Filosoofilise lühiessee kirjutamine“"
+                    },
+                    {
+                      "kind": "video",
+                      "src": "https://www.youtube.com/watch?v=_k2XKfh6yag&t=29s"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "2.2.2 Filosoofilised küsimused",
+              "children": [
+                { "kind": "text", "html": "<p>vt Näidis kursusekava 2</p>" },
+                {
+                  "kind": "file",
+                  "src": "https://projektid.edu.ee/download/attachments/211454815/N%C3%A4idis%20kursusekava%202.pdf?version=3&modificationDate=1710419723701&api=v2",
+                  "title": "Näidis kursusekava 2"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "1. Mõtteliin: uusaja filosoofia iseloom - eksperimentaalne looduseuurimine (1 tund)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvuda uusaja filosoofiaga eksperimentaalse loodusteaduse tekkimise aspektist, sh uusaja filosoofiale iseloomulike tunnetusteoreetiliste positsioonidega. Õppida uusaja filosoofiat paigutama ajaloolisse konteksti koos humanismaja- ja renessansimõtlemisega ning seostama oluliste momentidega teadusajaloos.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "2. Teadmisviiside käsitlemine filosoofias (3 tundi)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvuda teadmisviiside käsitlemisega filosoofias ning tunnetusteooria põhimõistetega. Seostada teadmisviise arutluses erinevate teadmis- ja eluvaldkondadega.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "3. Mõtteliin: uusaja filosoofia iseloom - indiviid ja tema teadvus (1 tund)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvuda uusaja filosoofia inimesekäsitlusega (nt sobib mõtteliin René Descartes, David Hume, Sigmund Freud — mõtlevast ja endast täielikult teadlikust minast kuni teadvustamata tungideni).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "4. Väärtuste käsitlemine moraalifilosoofias (4 tundi)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvuda väärtuste ja väärtusküsimuste käsitlemisega filosoofias ning seostada seda oma kogemusega.</p>"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://www.indrekmeos.xyz/e_raamat/Meos_I_Antiikfilosoofia.pdf",
+                  "title": "Indrek Meos „Antiikfilosoofia“"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://www.eetika.ee",
+                  "title": "Eetikaveeb"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "5. Mõtteliin: Uusaja filosoofia - ühiskond ja valgustusfilosoofia (1 tund)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvuda ratsionalistliku ühiskonnafilosoofiaga läbi valgustuse nähtuse (Voltaire ja Immanuel Kant).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "6. Ühiskonna, keskkonna ja elukeskkonna käsitlemine filosoofias (2 tundi)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvuda ühiskonna, keskkonna ja elukeskkonna küsimuste käsitlemisega filosoofias ning seostada neid käsitelusid oma seisukohtade ning kogemustega nendes küsimustes.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

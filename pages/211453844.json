@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Matemaatika 6. klassi õppe kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tehnilistel põhjustel on materjalid hetkel esitatud failidena.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453844/VI_klass.docx?version=1&modificationDate=1710794253746&api=v2",
+          "title": "VI_klass.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453844/VI_klass.pdf?version=1&modificationDate=1706621645254&api=v2",
+          "title": "VI_klass.pdf"
+        }
+      ]
+    }
+  ]
+}

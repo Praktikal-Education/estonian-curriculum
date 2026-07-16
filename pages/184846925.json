@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Ajalugu ja eesti keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Arendatakse lugemis- ja kirjutamisoskust.</li><li>Arendatakse info leidmise oskust.</li><li>Arendatakse eneseväljendusoskust.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ajalugu ja võõrkeeled",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Õpetatakse korrektselt hääldama ja kirjutama võõrapäraseid nimesid ja sõnu.</li><li>Tutvustatakse teiste rahvaste ajalugu ja kultuuri.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ajalugu ja matemaatika",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Õpetatakse mõistma ajalooliste sündmuste järgnevust, kasutades ajatelge.</li><li>Toetudes matemaatilistele oskustele arvutatakse sündmuste toimumisaega ja sellest möödunud aega.</li><li>Kinnistatakse teadmisi ajaühikutest (kuupäev, aasta, aastakümme, sajand, aastatuhat).</li><li>Kinnistatakse teadmisi Rooma numbritest.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ajalugu ja loodusõpetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Käsitletakse liikide arengut läbi aegade.</li><li>Õpetatakse taime- ja loomaliikide ning loodusvarade kasutuselevõttu läbi ajaloo.</li><li>Käsitletakse inimeste suhteid loodusega erinevatel ajaperioodidel.</li><li>Käsitletakse loodusteaduste arengut läbi aegade.</li><li>Korraldatakse temaatilisi õppekäike.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ajalugu ja inimeseõpetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Käsitletakse inimese tervisekäitumist läbi aegade.</li><li>Käsitletakse toidu- ja joogikultuuri muutumist läbi ajaloo.</li><li>Käsitletakse inimsuhete ja eluviiside muutust läbi aegade.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ajalugu ja kunstiained",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Tutvustatakse tuntud heliloojaid ja kunstnikke ning nende teoseid läbi aegade.</li><li>Tutvustatakse eri ajastute muusikat.</li><li>Käsitletakse ehituskunsti muutumist ja arengut aegade jooksul.</li><li>Korraldatakse kunstiteemalisi õppekäike (näituste ja muuseumide külastamine, filmide vaatamine).</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ajalugu ja kehaline kasvatus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Tutvustatakse tuntud sportlasi ja nende saavutusi läbi aegade.</li><li>Tutvustatakse antiikolümpiamänge.</li><li>Korraldatakse õppekäike (näituste ja muuseumide külastamine, filmide vaatamine).</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ajalugu ja tööõpetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Tutvustatakse tööriistade ja -võtete arengut ning eri materjalide kasutuselevõttu.</li><li>Tutvustatakse tehnika ajalugu ja kuulsaid leiutajaid.</li></ul>"
+        }
+      ]
+    }
+  ]
+}

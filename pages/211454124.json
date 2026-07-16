@@ -1,0 +1,122 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Geograafial on oluline panus õpilaste loodusteadusliku kirjaoskuse ning kõigi üldpädevuste arendamisse. Õppes tuginetakse põhikoolis omandatud teadmistele, oskustele ja hoiakutele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Geograafia loob head eeldused nii valdkonnaüleseks õppimiseks kui ka loodus- ja sotsiaalainete lõimimiseks, aidates õpilastel näha seoseid matemaatikas, füüsikas, bioloogias, keemias ning ajaloos ja ühiskonnaõpetuses õpitava vahel.</p><p>Geograafiat õppides saavad õpilased süsteemse ülevaate looduses ja ühiskonnas toimuvatest nähtustest ning protsessidest, nende ruumilisest levikust ja vastastikustest seostest. Õpilastel kujuneb arusaam Maast kui tervikust ning keskkonna ja inimtegevuse vastastikustest seostest nii isiklikul, kohalikul kui ka globaalsel tasandil. Maailma eri piirkondadega tutvumine võimaldab õpilastel mõista iga koha unikaalsust ja samas kohtade üleilmset seotust, mis tähendab, et ühed ja samad protsessid võivad eri kohtades toimida erinevalt, sõltudes koha looduslikest, majanduslikest või sotsiaalsetest oludest. Geograafiat õppides arenevad õpilaste ruumilise mõtlemise ja ruumianalüüsi oskused.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Geograafiatundides saavad õpilased arutleda aktuaalsetel ja olulistel ühiskondlikel teemadel, mis aitavad neil oma aineteadmisi mõtestada. See loob eeldused, et kujuneksid aktiivsed ja teadlikud ühiskonnaliikmed, kes märkavad igapäevaelu probleeme ning oskavad neile põhjendatud lahendusi pakkuda. Õpingute käigus areneb oskus hinnata oma otsustuste või tegevuse otseseid ja kaudseid tagajärgi.</p><p>Infoühiskonnas on järjest tähtsamad infotehnoloogia kasutamise ja kriitilise mõtlemise oskused. Geograafiatundides õpivad õpilased kasutama eri teabeallikaid, sh kaardirakendusi ja andmeportaale, ning kriitiliselt hindama teabe usaldusväärsust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppes lähtutakse uurimuslikust õppest, mille käigus arenevad õpilaste probleemilahendamis ja uurimisoskused. Õpitakse probleeme nägema, hüpoteese ja uurimisküsimusi sõnastama, uuringut plaanima ja tegema, samuti andmeid koguma vaatlusi, mõõdistamisi, küsitlusi või intervjuusid korraldades, ent ka teisestest allikatest, nagu kaartidelt ja satelliidifotodelt, andmeportaalidest jm. Andmeid töödeldes arenevad õpilaste analüüsimise ning üldistuste ja järelduste tegemise oskused ning uurimistulemusi tõlgendades, esitades ja esitledes kirjalik ning suuline väljendusoskus, sh korrektse loodusteadusteksti koostamine ja ainesõnavara kasutamine.</p><p>Geograafiat õppides hakatakse mõistma geograafiateaduse olemust ning olulisust igapäevaelus ja ühiskonna arengus. Õpitakse nägema ruumilisi seoseid ning mõistma nüüdisaegsete tehnoloogiasuundade võimalusi nii loodust kui ka ühiskonnaprotsesse jälgides ja modelleerides ning tulevikustsenaariume luues.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Geograafia panustab õpilaste väärtushinnangute ja hoiakute kujunemisesse. Maailma looduse, rahvastiku ja kultuurigeograafia seostatud käsitlemine on alus mõistvale ning sallivale suhtumisele teiste maade ja rahvaste kultuurisse ning traditsioonidesse. Eesti geograafia õppimine loob aluse kodumaa looduse, ajaloo ja kultuuripärandi väärtustamisele. Nii loodus- kui ka ühiskonnageograafiat õppides areneb õpilaste keskkonnateadlikkus, rõhutatakse elurikkuse, kultuurilise mitmekesisuse ja kestliku majanduse tähtsust ning väärtustatakse säästvat ja vastutustundlikku eluviisi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilaste sisemise õpimotivatsiooni kujunemiseks ja hoidmiseks esitatakse õppematerjal võimalikult probleemipõhiselt ning õpilase igapäevaelu ja kodukohaga seostatult. Geograafias on tähtsal kohal välitööd, mis võimaldavad uurida kohalikke olusid ja probleeme ning kaasata õpilasi kogukonna projektidesse, kus õpitakse teoreetilisi teadmisi seostama praktiliste oskustega. Õppes lähtutakse õpilaste individuaalsetest iseärasustest ja võimete mitmekülgsest arendamisest. Kasutatakse mitmekesiseid õppemeetodeid: projektõpet, arutelusid, ajurünnakuid, rollimänge, õuesõpet, õppekäike, muuseumides käimist jne. Kõigis õppeetappides rakendatakse nüüdisaegseid meedia- ja infotehnoloogiavahendeid.</p><p>Geograafiaharidus annab hea ettevalmistuse paljude elukutsete ja karjäärivõimaluste jaoks, kus on vaja teadmisi nii loodusest kui ka ühiskonnast, oskust ruumiandmeid analüüsida ning näha vastastikuseid seoseid nende ajalises muutumises.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kooliastme teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi geograafia ning teiste loodus- ja sotsiaalteaduste vastu ning mõistab nende tähtsust igapäevaelus ja ühiskonna arengus",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab loodusainetes omandatud teadmisi ja oskusi keskkonna objektide, nähtuste ja nendevaheliste põhjuse-tagajärje seoste selgitamiseks ning analüüsimiseks, kasutades loodusteadustele omast keelt ning loodusteaduslikke mudeleid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab, sõnastab ja lahendab igapäevaelu probleeme, langetab põhjendatud otsuseid, kasutab loovat ja kriitilist mõtlemist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab loodusteadustega seotud uurimisküsimusi, kavandab ja korraldab uuringut, järgides ohutusnõudeid, ning teeb tõenduspõhiseid järeldusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab geograafiainfo nii eesti- kui ka võõrkeelsetest allikatest ja hindab selle usaldusväärsust; kasutab õppimiseks ning koostööks meedia- ja tehnoloogiavahendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab teaduse olemust, olulisust ja piiranguid, loodusteaduste ja tehnoloogia seoseid ning riske",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab elurikkust ja kultuurilist mitmekesisust ning jätkusuutlikku arengut",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "on omandanud ülevaate geograafiaga seotud elukutsetest ja karjäärivõimalustest ning on motiveeritud elukestvaks õppeks"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on õppe osa, mille kaudu toetatakse õpilase õppimist ja arengut. Hindamine peaks muutma õppimise nähtavaks ehk see peaks andma ülevaate õpitulemuste saavutatusest ja õpilase isikupärasest arengust ning toetatama tema kujunemist positiivse minapildi ja adekvaatse õppijaks. Hindamise tulemusega saab õppija tagasisidet oma edenemise kohta õppimisel ja õpistrateegiate valikuteks. Õpetaja saab teavet oma õpetamise tulemuslikkuse kohta ning sisendit nii õppe kui ka iseenda pädevuste arendamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilast hinnatakse õppimise eel diagnostiliselt ja kestel kujundavalt. Õppimise protsessi käigus kogutakse tõendeid õpilase õpitulemuste saavutamise kohta. Õpilast hinnatakse kokkuvõtvalt kursuse ning kooliastme lõpus. Hindamine peaks olema kooskõlas taotletavate õpitulemustega, mida aitavad tagada mitmekesised hindamismeetodid, et toetada õpilase loodusteadusliku pädevuse (teadmised, oskused, hoiakud), arengut.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Diagnostiliselt hinnates selgitab õpetaja kursuse või teema alguses välja õpilase teemakohased eelteadmised, sh loodusteaduslikud väärarusaamad ning spetsiifilised õpiraskused, et kavandada edasist õpetamist. Diagnostiliseks hindamiseks sobib nii õpilaste suuline kui kirjalik küsitlemine, õpilaste enesehindamise küsimustikud, mis aitavad neil välja selgitada oma eelteadmisi ja ootusi õppeaine suhtes ning viktoriinid ja testid kasutades näiteks vastavaid veebikeskkondi, et saada kiiret tagasisidet. Kiiret tagasisidet õpetajale pakub ka õpilase koostatud mõistekaart, mis toob visuaalselt kergesti haaratavalt välja õpilase arusaamise taseme teema põhimõistete ja nendevaheliste seoste kohta. Selleks sobivad hästi ka mõned veebikeskkonnad (nt <a href=\"https://coggle.it/\">https://coggle.it/</a>, <a href=\"https://www.mindmaster.io/\">https://www.mindmaster.io/</a> jt.). Diagnostilisi aineteste pakub Eksamite Infosüsteem (<a href=\"https://eis.ekk.edu.ee/eis/lahendamine\">https://eis.ekk.edu.ee/eis/lahendamine</a>).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppe ajal saab õpilane suulist või kirjalikku sõnalist tagasisidet oma õppimise edenemise kohta. Kirjaliku tagasiside annab õpetaja jooksvalt suuremahulise töö, näiteks õpimapi, essee, uurimistöö jne edasiarendamiseks. Tagasiside peaks kirjeldama ära nii saavutatud taseme kui ka mis jääb saavutatust puudu ning mida peaks õpilane tegema, et see saavutada. Nii tagasiside andmist kui ka kokkuvõtva hindamise muudavad läbipaistvamaks hindamiskriteeriumid ning hindamismudelid. Need on eriti vajalikud avatud ja/või loovat mõtlemist nõudvate õppeülesannete edukaks sooritamiseks (uurimistööd, ettekanded, esseed, vaatmikud, õpilaste koostatud loodusteaduslikud mudelid, videod, postrid jms). <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">Vt näiteid siit</a>. Hindamismudeli kriteeriumid võivad hõlmata nii protsessi, õppimise saadust (nt uurimistöö aruanne) kui ka otseselt õpilase teadmisi, oskusi ja hoiakuid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamismudelid muudavad õpilasele arusaadavamaks õpetaja ootused, võimaldavad tal enda õppimist juhtida ning anda edasiviivat tagasisidet kaaslastele, mida tuleks vaadelda samuti õppimise osana, kuna selle käigus õpivad õpilased oma vigu märkama ja neid analüüsima. Lisaks aitavad need õpetajal panna kokkuvõtvat hinnet, kui töö on valmis, ning õpilane saab paremini aru, kuidas hinne kujunes.</p><p>Hindamise osana võib käsitleda ka õpilaste enese- ning rühmarefleksiooni. Näiteks arutlevad õpilased iseseisvalt, rühmas või koos õpetajaga oma õppimise üle – mis läks töös hästi ja mida saaks järgmisel korral paremini teha. E-keskkondade, klassiarutelu vms kaudu annab õpilane tagasisidet õpetajale selle kohta, kuidas tal läheb ning pakub välja võimalusi, kuidas muuta õppimist tõhusamaks. Refleksiooni soodustavad küsimused nagu:</p><ul><li>Missune osa meie tänasest materjalist jäi Sulle kõige segasemakas?</li><li>Mis oli täna õpitud materjalis Sulle kõige raskem? Kõige kergem?</li></ul><p>Rühmaprotsesside ning koostöö suunamiseks:</p><ul><li>Kas ma olin hea kuulaja? Kas ma arvestasin teisi või tahtsin oma arvamuse läbi suruda?</li><li>Milline oli minu panus rühmatöösse?</li><li>Kas kõigil oli võimalik anda oma panus rühmatöösse?</li><li>Mida saaks järgmisel korral teha teisiti, et koostöö oleks tõhusam?</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamisviiside ja -vormide valikul arvestatakse seda, et gümnaasiumis suureneb keerukamate ning suuremat pingutust nõudvate ning kõrgemat järku kognitiivset mõtlemist nõudvate teadmiste ja oskuste osakaal. Nii kujundavalt kui kokkuvõtvalt hinnatakse probleemide lahendamise, analüüsimise, järelduste, üldistuste ja otsuste tegemise ning põhjendamise oskust jms. Lisaks testidele ja kontrolltöödele hinnatakse kokkuvõtvalt esitlust, vaatmikku, uurimistöö aruannet, esseed, koostatud loodusteaduslikku mudelit, sh mõistekaarti, kollektsiooni, videot, õpimappi, projektitöö käigus väljatöötatud disaini või lahendust vm. Ka hinnatakse uurimisoskusi, milleks on uurimisküsimuse esitamine või katse kavandamine etteantud situatsiooni või katsevahendite põhjal, järelduste tegemine etteantud andmete alusel, korraldatud katse kvaliteedi ja tulemuste kriitiline hindamine, ettepanekute tegemine katsetulemuste usaldusväärsuse tõhustamiseks ning kehtivate järelduste saamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hoiakute ning väärtushinnangute kujundamisel on tähtsal kohal õpilase enesehindamine. Õpilase hoiakud ja väärtushinnangud ei ole otseselt kokkuvõtva hindamise objektiks. Küll aga saab kokkuvõtvalt hinnata õpilase oskust väärtusi mõtestada, st nende üle arutleda, neid põhjendada ning õigustada isiklikust või teiste vaatenurgast lähtudes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Probleemülesannete (vt <a href=\"https://docs.google.com/document/d/1zHRw0igiM9VHgrduYt7ayALNxzxsi8Fp85wbxB7LEeg/edit?usp=sharing\">probleemülesannete tüüpe ja näiteid siit</a>) korral on hindamise kriteeriumiteks näiteks lahenduse otstarbekohasus ja põhjenduste arv ning sotsiaalsete, eetiliste, majanduslike jm aspektide esiletoomine, originaalsus, loogilisus ja korrektse loodusteadusliku sõnavara kasutamise määr ning sügavus. Loodusteadusliku essee puhul on hindamise kriteeriumiteks näiteks probleemiseade selgus, näidete ja põhjenduste arv ning loogilisus, korrektsete loodusteaduslike mõistete kasutamise määr, järelduste kehtivus, teksti osade üldine sidusus ning autori mõtete originaalsus (<a href=\"https://drive.google.com/file/d/1rRtGDNB3VB3ONMTYRlDgbvYRB3z-LUne/view?usp=sharing\">Vt hindamismudeli näidet</a>). Kognitiivselt erineval tasemel koostatud ülesannete, sh probleemilahenduse, uurimuslike ning kommunikatsioonioskusi hindavate ülesannete näiteid võib leida Haridus- ja Noorteameti kodulehelt (loodusteaduste IV kooliastme e-tasemetöö kirjelduse alt: IV kooliastme testi materjalid: loodusteadusliku kirjaoskuse komponendid ja tasemed koos näidisülesannetega).</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454124/geograafia_PK_G_vordlus.pdf?version=1&modificationDate=1707297789691&api=v2",
+          "title": "geograafia_PK_G_vordlus.pdf"
+        }
+      ]
+    }
+  ]
+}

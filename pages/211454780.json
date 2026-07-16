@@ -1,0 +1,454 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "8. kursus EKSPONENT- JA LOGARITMFUNKTSIOON",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid ning kergemaid mitterutiinseid ülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>arendada õpitegevuse kaudu üld- ja ainepädevusi nii, et õpilane suudaks lahendada keerukamaid ülesandeid, mis võimaldaksid õppekavas kirjeldatud teadmisi ja oskusi rakendada väga heal tasemel.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika rakendamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt, leida ülesande lahendamiseks sobivad strateegiad. Selleks käsitleda ülesannete lahendamise üldisi strateegiaid;</li><li>suutlikkus põhjendada ja tõestada oma mõttekäike, kusjuures tõestada mitte niivõrd väite tõesuse näitamiseks, kuivõrd aitamaks luua üksikteadmistes süsteemi;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ning soodustada erinevate lahendusteede otsimist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks peaks õpilane esitama iseendale küsimusi: mida ma teen; miks ma nii teen; milleni ma olen jõudnud ning kas tulemus on õige või vale ja kontrollitav.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>I kursus (tehted astemete ja juurtega);</p><p>VII kursus (funktsiooni määramis- ja muutumispiirkond, nullkohad, positiivsus- ja negatiivsuspiirkond, kasvamis- ja kahanemispiirkond).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "LIITPROTSENDILINE KASVAMINE JA KAHANEMINE",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab liitprotsendilise kasvamise ja kahanemise olemust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab reaalelulisi liitprotsendilise kasvamise ja kahanemise probleeme, hindab kriitiliselt saadud tulemusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Liitprotsent</p><p>Liitprotsendiline kasvamine ja kahanemine.</p><p>Reaalelulised ja probleemülesanded</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursuse algul korratakse tehteid astmetega. Tuletatakse liitprotsendilise kasvamise (kahanemise) valem. Vajab selgitamist lihtintressi ja liitintressi erinevus. Saab rääkida hoiustest, investeerimisest, kiirlaenudest jms.</p><p>Õpilane peab oskama rakendada liitprotsendilise kasvamise (kahanemise) valemit tekstülesandeid lahendades (nt võib ülesanded siduda biomassi kasvamisega, hoiustega pangas, inimeste arvuga Maal jne).</p><p>Soovitatav on lasta õpilastel koostada ja lahendada reaalelulisi ülesandeid. Huvitavamaid ülesandeid saab esitleda ka kaasõpilastele.</p><p>Õpetaja võib otsustada, kas käsitleb liitprotsendilise kasvamise ja kahanemise valemeid või geomeetrilise jada valemeid nende ülesannete lahendamisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120&sort=publisher_az",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee//wp-content/uploads/2016/09/Eksp_logf_velsker.pdf",
+              "title": "Eksponent- ja logaritmvõrrandite õpetamisest"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18920-Eksponent-ja-logaritmfunktsioon",
+              "title": "Laia matemaatika 8. kursuse \"Eksponent- ja logaritmfunktsioon\" sisukord, sisaldab 6 kogumikku."
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/viii-kursus-eksponent-ja-logaritmfunktsioon",
+              "title": "Õpetajaraamat - VIII kursus „Eksponent- ja logaritmfunktsioon” (google.com)"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1js3DEOlIlLNrQmJtL6SBAvtQPX7EIZjRRgIsFaONxlw/edit#gid=2027870988",
+              "title": "Sobivaid eestikeelseid Desmose töölehti võib leida"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@Videoops",
+              "title": "Kordamiseks võib kasutada Videoõpsi videosid youtube keskkonnas"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p><p>Õppimist toetavast hindamisest täpsemalt: <a href=\"https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/\">https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/</a></p>"
+            },
+            {
+              "kind": "section",
+              "title": "Tugevamatele võib soovitada",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://varamu.eu/",
+                  "title": "Ettevalmistus olümpiaadideks"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Huvilistele sobib",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+                  "title": "Matemaatika õhtuõpik"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em>.</p><p>Ülesannete raskusaste:</p><p><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</p><p><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</p><p><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Lõiming teiste ainetega",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Teema võimaldab lahendada ülesandeid erinevatest valdkondadest. Mõned näited.</p><p><strong>Pangandus</strong> (hoiused, tähtajalised hoiused jm), investeerimine, laenud, kiirlaenud. Intressimäär ja intress.</p><p><strong>Bioloogia</strong> – biomassi kasvamine, nakkushaiguste levik, raku pooldumine jms.</p><p><strong>Ühiskonnaõpetusõpetus</strong> – inimeste arv Maal, elanikkonna kasv ja kahanemine, linnastumine jms.</p><p><strong>Geograafia</strong> - metsamassi muutumine jms.</p><p><strong>Ajalugu</strong> – vanad ülesanded nt Mesopotaamia savitahvlitel.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee//wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "EKSPONENT- ja LOGARITMFUNKTSIOON",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kirjeldab eksponentfunktsiooni, sh funktsiooni $y=e^x$ omadusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab arvu logaritmi mõistet ja selle omadusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "logaritmib ning potentseerib lihtsamaid avaldisi, vahetab logaritmi alust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab logaritmfunktsiooni ja selle omadusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida eksponent- ja logaritmfunktsiooni pöördfunktsiooni;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonestab paberil ja digilahenduste abil eksponent- ja logaritmfunktsiooni graafikuid ning loeb graafikult funktsioonide omadusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab lihtsamaid eksponent- ja logaritmvõrrandeid ning -võrratusi ($\\log_af(x)$ suurem/väiksem kui $\\log_ag(x)$);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära ainealased ja reaalelulised probleemid, mis on kirjeldatavad ja lahendatavad eksponentsiaalsete ja/või logaritmiliste mudelite abil. Tõlgib need matemaatika keelde, lahendab matemaatiliselt ning tõlgendab, hindab ja esitleb saadud tulemusi.",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eksponentfunktsioon, selle graafik ja omadused.</p><p>Arvu logaritm, kümnendlogaritm, naturaallogaritm.</p><p>Korrutise, jagatise ja astme logaritm.</p><p>Logaritmimine ja potentseerimine.</p><p>Üleminek logaritmi ühelt aluselt teisele.</p><p>Logaritmfunktsioon, selle graafik ja omadused.</p><p>Eksponent- ja logaritmfunktsiooni pöördfunktsiooni leidmine.</p><p>Eksponent- ja logaritmvõrrand, nende lahendamine.</p><p>Eksponent- ja logaritmvõrratus, nende lahendamine.</p><p>Ainealaste ja reaaleluliste probleemide kirjeldamine ja lahendamine eksponentsiaalsete ja/või logaritmiliste mudelite abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane peab oskama skitseerida eksponentfunktsiooni $y=a^x$ graafikut ning leidma määramis- ja muutumispiirkonna. Peab teadma, et eksponentfunktsiooni $y=a^x$ graafik läbib punkti $(0;1)$ ning funktsioon on kasvav, kui $a&gt;1$ ja kahanev, kui $0&lt;a&lt;1$.</p><p>Õpilane peab oskama skitseerida logaritmfunktsioonide $y=\\log_ax$, $y=\\log x$ ja $y=\\ln x$ graafikut ning leidma määramis- ja muutumispiirkonna. Peab teadma, et logaritmfunktsiooni $y=\\log_ax$ graafik läbib punkti $(0;1)$ ning funktsioon on kasvav, kui $a&gt;1$ ja kahanev, kui $0&lt;a&lt;1$.</p><p>Tuleb näidata, et logaritmfunktsioon ja eksponentfunktsioon on teineteise pöördfunktsioonid. Tuleks teha ka vastav joonis ning näidata peegeldust sirgest $y=x$.</p><p>Graafikuid tuleb joonestada paberil ja digivahenditega ning korrata seejuures teisendusi graafikutega.</p><p>Logaritmi definitsioon peab väga hästi selgeks saama. Alustada tuleks lihtsatest näidetest, nt $2^3=8$ ja $3=\\log_28$. Õpilane peab aru saama, et logaritmi abil leitakse astendajat. Näiteks kui $2^x=9$, siis saab astendaja $x$ leida logaritmi definitsiooni järgi $x=\\log_2 9$, aga ka logaritmimise kaudu: $log_2 2^x=\\log_2 9$(kui on juba õpitud logaritmi omadused).</p><p>Tuleb harjutada logaritmi arvutamist kalkulaatoril ning peast.</p><p>Õpilane peab oskama avaldisi logaritmida ja potentseerida, kasutades korrutise, jagatise ja astme logaritmi omadusi ning üleminekut logaritmi ühelt aluselt teisele.</p><p>Väga oluline on logaritmfunktsiooni määramispiirkonna leidmine.</p><p>$y=\\log_aN, \\begin{cases}N&gt;0\\\\a&gt;0\\\\a\\not=1\\end{cases}$</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Eksponentvõrrandeid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilane peab oskama lahendada <strong>eksponentvõrrandeid</strong> järgmiste võtetega:</p><ol><li>teisendab võrrandi kujule, kus võrrandi mõlemad pooled on ühe ja sama arvu astmed;</li><li>tunneb ära ruutvõrrandi või teisendab võrrandi ruutvõrrandiks, kasutades abimuutujat;</li><li>teguriteks lahutamise võte;</li><li>logaritmimisvõte.</li></ol>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Logaritmvõrrandeid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilane peab oskama lahendada <strong>logaritmvõrrandeid</strong> järgmiste võtetega:</p><ol><li>kasutab logaritmi definitsiooni või omadusi;</li><li>tunneb ära ruutvõrrandi või teisendab võrrandi ruutvõrrandiks, kasutades abimuutujat;</li><li>kasutab erinevate logaritmi alustega logaritmvõrrandites üleminekut uuele alusele.</li></ol><p>Logaritmvõrrandi lahendamisel saadud tulemusi peab kontrollima või leidma võrrandi määramispiirkonna ja kontrollima, kas leitud lahendid kuuluvad määramispiirkonda.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Eksponent- ja logaritmvõrratusi",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Eksponent- ja logaritmvõrratusi</strong> lahendades kasutatakse eksponent- ja logaritmfunktsiooni omadust (kasvab või kahaneb).</p><p>$3^{2x-1}\\leq 3^{x+4} \\Leftrightarrow 2x-1\\leq x+4$</p><p>$\\log_{0,5}(8-2x)&gt;\\log_{0,5}3 \\Leftrightarrow \\begin{cases}8-2x&lt;3\\\\8-2x&gt;0\\end{cases}$</p><p>Logaritmvõrratuste puhul on oluline, et leitakse kindlasti ka määramispiirkond ning võetakse lahendamisel saadud tulemuse ja määramispiirkonna ühisosa.</p><p>Tuleb osata ka teksti järgi koostada matemaatilist mudelit (graafik, võrrand või võrratus).</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120&sort=publisher_az",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18920-Eksponent-ja-logaritmfunktsioon",
+              "title": "Laia matemaatika 8. kursuse \"Eksponent- ja logaritmfunktsioon\" sisukord, sisaldab 6 kogumikku."
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/viii-kursus-eksponent-ja-logaritmfunktsioon",
+              "title": "Õpetajaraamat - VIII kursus „Eksponent- ja logaritmfunktsioon” (google.com)"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/09/Eksp_logf_velsker.pdf",
+              "title": "Eksponent- ja logaritmvõrrandite õpetamisest (artikkel)"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1js3DEOlIlLNrQmJtL6SBAvtQPX7EIZjRRgIsFaONxlw/edit#gid=2027870988",
+              "title": "Sobivaid eestikeelseid Desmose töölehti võib leida siit lingilt"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@Videoops",
+              "title": "Kordamiseks võib kasutada Videoõpsi videosid youtube keskkonnas"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p><p>Õppimist toetavast hindamisest täpsemalt: <a href=\"https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/\">https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/</a></p><p>Võib uurida Johannes Kepleri (esimest korda kasutas sümboleid log ja LOG), John Napieri ja Henry Briggsi (logaritmide tabelite koostajate) elulugu.</p><p><em>Vt näiteülesandeid lehekülje allosas</em>.</p><p>Ülesannete raskusaste:</p><p><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</p><p><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</p><p><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Ainesisene lõiming",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Funktsiooni määramispiirkonna leidmine seotakse võrratuste lahendamisega.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming teiste ainetega",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Eksponent- ja logaritmfunktsiooni rakendused rahvastikuteaduses, füüsikas, bioloogias, geograafias, rahanduses ja muudes eluvaldkondades. Liitprotsendilise kasvamise ja kahanemise rakendamine majanduses, panganduses.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+            },
+            {
+              "kind": "section",
+              "title": "Läbivad teemad",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Elukestev õpe ja karjääri kujundamine.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Abstraktse ja loogilise mõtlemise areng.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Kultuuriline identiteet.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Matemaatika ajalugu, J. Kepler, J. Napier, H. Briggs.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Kodanikualgatus ja ettevõtlikkus.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Rühmatöö ja paaristöö, koostööoskuste arendamine. Demograafia, majandus ja pangandus – liitprotsendiline kasvamine ja kahanemine.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Väärtus ja kõlblus.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Süstemaatilisuse, püsivuse, täpsuse, korrektsuse ja kohusetunde arendamine.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Tehnoloogia ja innovatsioon",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Digivahendite kasutamine õppetöös.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Teabekeskkond ja meediakasutus.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Erinevate andmete leidmine eksponent- ja logaritmfunktsioonide rakendustele erinevates eluvaldkondades.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Tervis ja ohutus.",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Nakkushaiguste leviku uurimine liitprotsendilise kasvamise mudeli järgi erinevate graafikute vaatlemine vastavate andmestike kohta.</p>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454780/LAI_MATEMAATIKA_8%20kursus%20N%C3%A4ite%C3%BClesanded.docx?version=1&modificationDate=1706621742470&api=v2",
+          "title": "LAI_MATEMAATIKA_8 kursus Näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454780/LAI_MATEMAATIKA_8%20kursus%20N%C3%A4ite%C3%BClesanded.pdf?version=1&modificationDate=1706621742462&api=v2",
+          "title": "LAI_MATEMAATIKA_8 kursus Näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

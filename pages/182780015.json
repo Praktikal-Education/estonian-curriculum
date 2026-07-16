@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Hindamise korraldus toimetulekuõppes",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Vastavalt PLRÕK Lisale 2 Toimetulekuõpe lähtutakse toimetulekuõppes põhimõttest, et igaühel peab olema võimalus saada haridust vastavalt oma võimetele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Toimetulekuõppe õppekorralduses ja õppesisu valikul lähtutakse iga õpilase arengutasemetest õppeainete kaupa valdkonniti, arvestatakse õpilase potentsiaalseid võimeid ja teisi individuaalseid iseärasusi (vt <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=182780010&amp;src=contextnavpagetreemode\">Mõiste &quot;arengutase&quot; kasutamine toimetulekuõppes.</a>).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpetamine toimub iga õpilase arengutasemete ja arenguvõimaluste hindamise alusel. Õpilase arengutasemed kõikide õppeainete erinevates valdkondades määratakse pedagoogilis-psühholoogilise hindamise tulemuste alusel.</p><p>Hindamisel ja otsuse koostamisel õpilase arengutasemete kohta õppeainetes valdkonniti osalevad kõik õpilasega tegelevad spetsialistid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lähtudes põhikooli- ja gümnaasiumiseaduse § 46 lõikest 7 koostatakse igale toimetulekuõppel õpilasele individuaalse arengu jälgimise kaart (IAJK). Individuaalse arengu jälgimise kaardis olev teave õpilase oskuste ja teadmiste taseme kohta põhineb pedagoogilis-psühholoogilise hindamise tulemustel.</p><p>Toimetulekuõppel õpilastele koostatakse igal õppeaastal individuaalne õppekava (IÕK), mille koostamisel lähtutakse individuaalse arengu jälgimise kaardil olevast teabest.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Loe lisaks:",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://oppekava.ee/wp-content/uploads/2023/02/pohikoollihtsustatud_lisa2.pdf",
+          "title": "PLRÕK lisa 2"
+        },
+        {
+          "kind": "link",
+          "href": "https://projektid.edu.ee/pages/viewpage.action?pageId=182780023",
+          "title": "IÕK koostamise põhimõtted toimetulekuõppes"
+        },
+        {
+          "kind": "link",
+          "href": "https://projektid.edu.ee/pages/viewpage.action?pageId=187214807&amp;src=contextnavpagetreemode",
+          "title": "IÕK koostamise põhimõtted hooldusõppes"
+        }
+      ]
+    }
+  ]
+}

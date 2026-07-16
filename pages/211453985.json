@@ -1,0 +1,1002 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus „Keel ja ühiskond” sobib gümnaasiumi lõpuklassi, mida võib lõimida kirjanduse, ajaloo ja ühiskonnaõpetusega. Kursusel vaadeldakse keelesugulust soome-ugri ja Euroopa keelte vahel, eesti keele struktuuri ja muutumist ajas, kirjakeele staatust ja ajalugu, erinevaid allkeeli ja nende kasutusvaldkondi, suulise keele eripära, koha- ja sotsiaalmurdeid ning keeleetiketti. Arendatakse oskust sobivatest allikatest ja keskkondadest infot hankida ja praktikas rakendada.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib keele rolli, funktsioone ja tähendust ühiskonnas ning suhtluses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab eesti keele eripära, suulise ja kirjaliku keele norme ning etiketti",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab allkeelte ja keele varieerumise olemust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb eesti keeleallikaid ja korpusi ning kasutab neid eesmärgistatult",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab eesti kirjakeele kujunemislugu",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab eesti keele arenduse peamisi suundi ja põhimõtteid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab keelemuutuste olemust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib ajastuomaseid keelenähtusi.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Keele olemus ja ülesanded",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>infovahetus, suhteloome, identiteedi väljendamine, maailmapildi kujundamine. Keel kui märgisüsteem. Keel ja inimene. Keel rahva ja riigi identiteedi osana. Keele, kultuuri ja ajaloo seosed (ka geneetika ja arheoloogia).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eesti keel ja teised keeled",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti keel soome-ugri keelena. Maailma keeled. Andmebaasid keelte võrdlemiseks (nt Grambank, Ethnologue, WALS). Põliskeeled, keelte hääbumine ja “elustamine”. Keelekontaktid saksa, vene, rootsi, soome, inglise ja teiste keeltega. Keele muutumine, grammatika muutumise olemus (grammatisatsioon). Tähenduse olemus. Tähenduste muutumise üldised, keelesisesed ja ühiskondlikud seaduspärad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eesti keele struktuur teiste keelte taustal",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>häälikusüsteem, muutevormistik, sõnamoodustus, lausetüübid ja sõnajärg. Eesti keeleallikad (nt Sõnaveeb, ÕS), nende funktsioon ja kasutusalad. Korpuste kasutamise algteadmised. Keeleandmete analüüs ja esitamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tänapäeva eesti kirjakeele kujunemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>teiste keelte kirjakeele kujunemise ja maailma ajaloo taustal.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Keele variandid.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keele varieerumise tegurid (suhtluskanal, vanus, piirkond, kasutussituatsioon jne). Keelenorm.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eesti mitmekultuurilise ja mitmekeelse ühiskonnana.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mitmekeelsus. Keeleline tolerantsus. Eesti keelepoliitika: eesti keele staatus ja tulevik.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eesti keele kasutusvaldkonnad ja arendus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>keeletehnoloogia, terminoloogia ja oskuskeel.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Mõisted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Keeleteadlikkus, keele struktuur, keele varieerumine (geograafiline, ealine, situatsiooniline; keele muutumine), mitmekeelsus, keelemaastikud, grammatika, tähendus, sõnaliik, lauseliige</p><p>Tekst, teksti eesmärk, autor ja vastuvõtja, kontekst, intertekstuaalsus, kirjutamistõke, allikas, lugemispäevik, kaaskiri</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Metoodilised soovitused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Ilona Tragel, Kati Käpp",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keele ja ühiskonna sisuliste teemade ja mõistete omandamiseks on soovituslik kursuse jooksul mõtestada uut infot oma keelekogemusest lähtuvalt.</p><p>Näiteid teemadest/ülesannetest, kus õpilane saab oma keelekogemusi allikatele toetudes kirjalikult analüüsida:</p><ul><li>oma keele omandamise ja õppimise kogemuste analüüsimine;</li><li>oma vanemate ja vanavanemate murdetausta uurimine ja nende murdekeelsete üksuste tuvastamine ja analüüs;</li><li>oma kodukoha kohanimede ajaloo ja struktuuri uurimine;</li><li>oma internetikeele (<em>chat</em>id jm) analüüs lähtuvalt suulisele keelele iseloomulikest joontest;</li><li>oma õigekirjavigade analüüs lähtuvalt suulisele keelele iseloomulikest joontest;</li><li>eesti keele struktuuri võrdlemine teiste õpitud keelte struktuuriga;</li><li>avalikus ruumis leiduva keele (nt avalike siltide) kogumine ja analüüsimine;</li><li>keelekasutajatega katse läbi viimine mõne sõna erinevate tähenduste või tähenduse muutumise analüüsiks;</li><li>suulise vestluse salvestamine, transkribeerimine ja analüüsimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kirjutamisprotsess",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Väiksematest teemade analüüsidest võib kokku tulla ka üks pikem terviktekst (keele-elulugu), mida nt terve kursuse jooksul etapiviisiliselt kirjutada. Igasuguse teksti kirjutamise protsess koosneb erinevatest tegevustest, mis kõik on omavahel tihedalt seotud. Üldjoontes võib need tegevused kirjutamisprotsessis jagada põhietappideks, milleks on kavandamine, mustandid, viimistlemine ning esitamine (vt lisa 1). Kuna iga etapp pakub (eriti keeletunnis) võimaluse õppida, siis on mõistlik need erinevad etapid läbida üksteise järel, keskendudes igas etapis just sellele, mis parasjagu käsil. “Keele ja ühiskonna” kursusel võib see välja näha nii, et kõigepealt loetakse ja tehakse lugemispäevikusse* loetu kohta sissekandeid (vt ka <a href=\"https://www.teadustekst.ut.ee/allikatega-tootamine/\">https://www.teadustekst.ut.ee/allikatega-tootamine/</a>) - infot kogutakse eesmärgiga sellest üks terviklik tekst kirjutada. Kui vajalik info on olemas, on aeg panna kirja kavand (<a href=\"https://www.teadustekst.ut.ee/kavandite-kirjutamine/\">https://www.teadustekst.ut.ee/kavandite-kirjutamine/</a>) ja mustandid - st teema läbi kirjutada. Kirjutamise käigus õpib kirjutaja kirjutatava teema kohta, sest kirjutades peab õppija leidma/tekitama seoseid enda kogemuse ja allikatest loetu vahel. Kui erinevatele etappidele annavad kaasõppijad ka tagasisidet, suureneb õppimisvõimalus veelgi (vt peatükki “Tagasiside”). Kirjutamisprotsessi põhimõtet saab kasutada igat tüüpi kirjatööde puhul ning ka väljaspool kooli.</p><p>Olenemata sellest, kas kursusel kirjutatakse keele-elulugu (või mõnd selle osa) või ei, tuleks õpilastel kursuse jooksul lugeda (populaar)teaduslikke keeleteaduse artikleid, teha neist kokkuvõtteid (pidada lugemispäevikut*) ja analüüsida oma keelekasutust tekstidest saadud teadmistele toetudes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lugemispäevik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>*Lugemispäevikusse kirjutab lugeja, mis allikaid (nt artiklid, raamatud, filmid, plakatid) ta on “lugenud” (st ka näinud, kuulnud, kogenud jne), missugust infot neist saanud ja mis mõtted on tekkinud. Loetu kogumine laiendab õpilase silmaringi ning sissekannete kirjutamine arendab kirjaliku eneseväljenduse oskust. Märkmete kogumiseks võib kasutada pabermärkmikku, tavalist tekstidokumenti, tabelifaili vms. Lugemispäevikusse märkmete tegemiseks on mitmeid strateegiaid, kõige olulisem on teha märkmeid pidevalt ja juba teksti lugemise ajal ning märkida korralikult üles kõik allikad (sh eristada selgelt allika mõtted oma mõtetest). (loe lähemalt: <a href=\"https://www.teadustekst.ut.ee/allikate-lugemine/\">https://www.teadustekst.ut.ee/allikate-lugemine/</a>). Lugemispäeviku sissekandeid võivad õpilased ka tundides klassiga jagada ja nende üle koos arutleda.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõimingu võimalused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>geograafia: maailma keeled ja rahvad, ohustatud keeled (nt tutvuda erineva piirkonna vähemtuntud keeltega, koostada ülevaateid ohustatud keeltest üle maailma)</li><li>bioloogia: keele füsioloogilised, neuroloogilised ja geneetilised alused; teiste loomaliikide kommunikatsioon</li><li>füüsika: helisignaalide tekitamine, liikumine, vastuvõtmine</li><li>ühiskonnaõpetus: sotsiolingvistika, keele staatus ühiskonnas, keelemaastikud, vähemuskeeled</li><li>kirjandus: ajaloolised romaanid, geograafiline varieerumine tegelaste kõnes, reisikirjandus</li><li>filosoofia: tähenduse olemus, tähenduse mõtestamine eri koolkondades</li><li>ajalugu: keelte muutumine ajas, keelte genealoogiline sugulus ning selle seotus riikide ja rahvaste ajalooga</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Tagasiside",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lisaks õpetaja tagasisidele on soovituslik kasutada kogu kirjutamisprotsessi jooksul kaasõppija tagasisidet. Kaasõppija tagasisidel on mitu kasutegurit: kaasõppija tagasiside on kohene, seda on arvult rohkem (võrreldes ühe õpetaja tagasisidega) ning see arendab õpilaste kriitilise mõtlemise ja analüüsioskust. Kaasõppijate töid lugedes mõtleb õpilane ka oma töö peale ja saab seeläbi ideid, kuidas enda teksti paremaks muuta. Õpetajal väheneb kaasõppija tagasiside rakendamisel töökoormus. Õpetaja ülesandeks on õpilastele kaasõppija tagasiside meetodi tutvustamine, tagasisideprotsessi jälgimine ja vajadusel suunamine (kuidas tagasisidet anda, milline tagasiside on tõhus, kuidas tagasisidega edasi tegeleda jne). Tagasisidestamisprotsessist saab lähemalt lugeda siit: <a href=\"https://www.teadustekst.ut.ee/tagasiside/\">https://www.teadustekst.ut.ee/tagasiside/</a>.</p><p>Üks võimalus on kasutada kaasõppijate tagasisidet ka laiemas mõttes. Näiteks võiks õpetaja kutsuda töid tagasisidestama ka vanema klassi õpilasi, kes on kirjutanud väga häid tekste ja andnud kaasõppijatele kasulikku tagasisidet. Eri klasside õpilaste kaasamine ühisesse õppeprotsessi loob õpilastest ühtse kogukonna, mis annab kõigile osapooltele lisamotivatsiooni ülesannete õigeaegseks esitamiseks.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Hindamise põhimõtteid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamine ei toimu ühe töö põhjal, vaid kogu kursuse vältel, ning väärtustab ennekõike õppija järjepidevust ning motiveeritust. Näiteks võiks osa punkte töö eest anda õigeaegselt esitatud ülesannete eest. Konkreetse ülesande hindamisjuhendid erinevateks kirjutamisprotsessi etappideks koostab õpetaja koos õppijatega. Sama hindamisjuhendi alusel tagasisidestavad üksteise töid kaasõppijad. Sõnalist tagasisidet ei anta ainult lõpus, vaid kogu protsessi jooksul, sest nii on õpilasel võimalus seda tagasisidet kohe rakendada ning seeläbi efektiivsemalt õppida.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Viited õppevarale",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Materjalid",
+          "children": [
+            {
+              "kind": "section",
+              "title": "1. Kirjutamist toetavad materjalid",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Mustandite kirjutamise vajalikkusest ja nende rollist nii õppimis- kui ka kirjutamisprotsessis",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Jürine, Anni; Ilona Tragel 2018. Mustandi kirjutamise kunst. Oma Keel, 1, 50–55.</p>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/omakeel/2018_1/OK-1-2018_07.pdf",
+                      "title": "Mustandi kirjutamise kunst"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Tagasiside andmisest ja saamisest ning selle seos õppimisega",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Jürine, Anni; Djuddah A. J. Leijen, Ilona Tragel. Tagasiside kirjutamisprotsessis. Oma Keel, 1, 17–24.</p>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2020/06/OK-1-2017_03.pdf",
+                      "title": "Tagasiside kirjutamisprotsessis"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Sisuline töö allikatega kirjaliku töö koostamisel",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Jürine, Anni; Ilona Tragel 2019. Plagiaadist. Ilma vitsata. Oma Keel, 76–83.</p>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2020/06/OK-1-2019_11.pdf",
+                      "title": "Plagiaadist. Ilma vitsata"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Jürine, Anni; Djuddah A. J. Leijen, Ilona Tragel 2017. Kirjutamisoskus kui jalgrattasõit. ERR, 14.12.</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.err.ee/648624/kirjutamisoskus-kui-jalgrattasoit",
+                      "title": "Kirjutamisoskus kui jalgrattasõit"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Protsessikesksest kirjutamisest ja kaasõppija tagasiside võimalikkusest gümnaasiumis",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Käpp, Kati 2021. Mõtestatud kirjutamisprotsess ja kaasõppija tagasiside eesti keele riigieksami teenistuses. Oma Keel, 1, 72-75.</p>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2021/05/Katikapp_OK-2021_1.pdf",
+                      "title": "Mõtestatud kirjutamisprotsess ja kaasõppija tagasiside"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Protsessile suunatud tekstikirjutamise eelistest tulemusele suunatu ees",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Murray, Donald 1972. Teach Writing as a Process not Product. The Leaflet 71 (3), 11–14.</p>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://oira.aua.am/files/2020/02/Teach-Writing-as-a-Process-Not-Product.pdf",
+                      "title": "Teach Writing as a Process not Product"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Kirjutamise kui suhtluspädevuse ühe osaoskuse arendamine protsessikeskse kirjutamise abil",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Hint, Helen; Anni Jürine, Ilona Tragel 2020. Üldpädevused gümnaasiumis. Suhtluspädevus. Koost. Margus Pedaste. Tartu</p>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://haridus.ut.ee/sites/default/files/2022-01/uldpadevused_gumnaasiumis.pdf",
+                      "title": "Üldpädevused gümnaasiumis. Suhtluspädevus"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Uuring protsessikeskse kirjutamise kasulikkusest ning kirjutamisega seotud hoiakutest Eesti gümnaasiumiõpilaste seas",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Hint, Helen, Anni Jürine 2021. Protsessikeskse kirjutamise kasulikkusest gümnaasiumiõpilaste kirjaliku tekstiloome oskuse kui suhtluspädevuse ühe komponendi arendamisel. – Eesti Haridusteaduste Ajakiri 9 (1), 243–273.</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://ojs.utlib.ee/index.php/EHA/article/view/eha.2021.9.1.10",
+                      "title": "Protsessikeskse kirjutamise kasulikkusest"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Akadeemilise teksti kirjutamisest juturobotite ajastul",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Hint, Helen; Helena Lemendik; Djuddah Leijen 2023. Kirjutamisoskus kui jalgrattasõit. Novaator, 03.05.</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://novaator.err.ee/1608966095/chatgpt-korghariduse-voodi-all-kas-paris-koll",
+                      "title": "Kirjutamisoskus kui jalgrattasõit"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Elbow, Peter 1973. Writing without teachers. Freewriting Exercises [<strong>Vabakirjutamisest</strong>]. New York: Oxford UP, 3-11.</p>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://mjreiff.com/ELBOW.pdf",
+                      "title": "Writing without teachers. Freewriting Exercises"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Hint, Helen; Djuddah A. J. Leijen, Anni Jürine 2022. Eestikeelse akadeemilise teksti tunnustest. Keel ja Kirjandus, 4, LXV, 327–353.</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://keeljakirjandus.ee/ee/archives/31037",
+                      "title": "Eestikeelse akadeemilise teksti tunnustest"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Eksamieksperdi blogi sissekanded",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>mis toetavad kirjandi kirjutamist, nt arutleva lõigu kirjutamine, kirjandi stiilist, kirjandi sidususest ja õigekeelsuse pidepunktid</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/eesti-keele-eksam/mottest-vaideteni/",
+                      "title": "Arutleva lõigu kirjutamine"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/eesti-keele-eksam/stiil/",
+                      "title": "Kirjandi stiilist"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/eesti-keele-eksam/mutantkirjand/",
+                      "title": "Kirjandi stiilist"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/eesti-keele-eksam/sidusus/",
+                      "title": "Kirjandi sidususest"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/eesti-keele-eksam/oigekeelsus/",
+                      "title": "Õigekeelsuse pidepunktid"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Eesti keele riigieksami ettevalmistuskursuse rühmajuhendajate kirjutatud kirjandid",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/opetajale-ja-opilasele/meie-kirjandid-2023-esimene/",
+                      "title": "Meie kirjandid 2023: esimene"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/opetajale-ja-opilasele/meie-kirjandid-2022-kuues/",
+                      "title": "Meie kirjandid 2022: kuues"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/opetajale-ja-opilasele/meie-kirjandid-2022-viies/",
+                      "title": "Meie kirjandid 2022: viies"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/opetajale-ja-opilasele/meie-kirjandid-2022-neljas/",
+                      "title": "Meie kirjandid 2022: neljas"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/eesti-keele-eksam/meie-kirjandid-2022-kolmas/",
+                      "title": "Meie kirjandid 2022: kolmas"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/eesti-keele-eksam/meie-kirjandid-2022-teine/",
+                      "title": "Meie kirjandid 2022: teine"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/opetajale-ja-opilasele/meie-kirjandid-2022-esimene/",
+                      "title": "Meie kirjandid 2022: esimene"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/eesti-keele-eksam/meie-kirjandid-2021-neljas/",
+                      "title": "Meie kirjandid 2021: neljas"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/eesti-keele-eksam/meie-kirjandid-2021-kolmas/",
+                      "title": "Meie kirjandid 2021: kolmas"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/opetajale-ja-opilasele/meie-kirjandid-2021-teine/",
+                      "title": "Meie kirjandid 2021: teine"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/opetajale-ja-opilasele/meie-kirjandid-esimene/",
+                      "title": "Meie kirjandid: esimene"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Teadustekst.ut.ee teavik",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "http://Teadustekst.ut.ee",
+                      "title": "Teadustekst.ut.ee teavik"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.teadustekst.ut.ee/kavandamine/",
+                      "title": "Töö kavandamine"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.teadustekst.ut.ee/allikatega-tootamine/",
+                      "title": "Töö allikatega"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.teadustekst.ut.ee/mustandid/",
+                      "title": "Mustandid"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.teadustekst.ut.ee/viimistlemine/",
+                      "title": "Töö viimistlemine"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "2. Materjalid “Keele ja ühiskonna” teemadel",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Keeleteaduslikku elulugu tutvustavad artiklid",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Artiklites olemas konkreetsed õpilastele jagatavad ülesanded ja ka vajalik teoreetiline taust:</p>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2021/12/Teiva-Tragel.pdf",
+                      "title": "Keeleteaduslik elulugu – teadlik ja teaduslik pilk oma keele-elule"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2022/06/Teiva-Tragel.pdf",
+                      "title": "Keeleteaduslik elulugu 2. Kust sa pärit oled?"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2022/12/faster-jt_OK_2022-2.pdf",
+                      "title": "Keeleteaduslik elulugu 3. Nimelood: Mari Tammest HellloKittty'ni"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2023/04/Komissarov_ok_2023_1-1.pdf",
+                      "title": "Keeleteaduslik elulugu 4. Struktuur"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2023/11/kiik-jt.pdf",
+                      "title": "Keeleteaduslik elulugu 5. Tähendused"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://blogs.helsinki.fi/100suomalaista/",
+                      "title": "Soome projekt “Sada soome keeleelulugu”"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "http://publications.tlu.ee/index.php/philologia/article/view/1207",
+                      "title": "Võõrkeele omandamise kogemused eestlaste mälestustes ja arvamustes"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://doi.org/10.22601/PET.2023.08.02",
+                      "title": "Võõrkeele omandamise kogemused eestlaste mälestustes ja arvamustes (DOI)"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Hääldusmõtete sari Oma Keeles",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>mille alusel analüüsida suulist keelt ja suulise keele mõjusid kirjalikule keelele:</p>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2020/06/OK-1-2019_04.pdf",
+                      "title": "Hääldusmõtted 1"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2020/06/OK-2-2019_4.pdf",
+                      "title": "Hääldusmõtted 2"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2020/06/OK-1-2020_1.pdf",
+                      "title": "Hääldusmõtted 3"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2020/11/teras.pdf",
+                      "title": "Hääldusmõtted 4"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2021/05/EvaLiinaAsu_OK-2021_1.pdf",
+                      "title": "Hääldusmõtted 5"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2021/12/Asu.pdf",
+                      "title": "Hääldusmõtted 6"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2022/06/Kolga.pdf",
+                      "title": "Hääldusmõtted 7"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2022/12/teras_OK_2022-2.pdf",
+                      "title": "Hääldusmõtted 8"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2023/04/Malmi_ok_2023_1-1.pdf",
+                      "title": "Hääldusmõtted 9"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2023/11/ermus.pdf",
+                      "title": "Hääldusmõtted 10"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Keeleteaduse Wiki",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>kust leiab keeleteaduslikke mõisteid koos selgitustega, viiteid keeleteaduse andmebaasidele jm. Wiki on abiks nii keeleteadusliku eluloo kirjutamisel kui üldiselt keele ja ühiskonna kursuse mõistete õppimisel.</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://wiki.ilonatragel.ut.ee/w/index.php?title=Esileht",
+                      "title": "Keeleteaduse Wiki"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Horisont 2020 (6) “Sissevaade keeleteadusesse”",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Gümnasistidele jõukohased keeleteaduslikud artiklid lugemiseks, lugemispäeviku täitmiseks, tekstide kirjutamiseks:</p>"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "http://www.horisont.ee/arhiiv-2020/Horisont-6-2020.pdf",
+                      "title": "Horisont 2020 (6) “Sissevaade keeleteadusesse”"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Artiklisari eesti kirjakeele kujunemisest",
+                  "children": [
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2022/06/Prillop-Habicht.pdf",
+                      "title": "Keel kütab kirgi 1. Keeleküpsetajad Aavik ja Veski"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2022/12/prillop-habicht_OK_2022-2.pdf",
+                      "title": "Keel kütab kirgi 2. Kirjakeele käärimise ja muutmise aeg"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2023/04/Prillop-jt_ok_2023_1-1.pdf",
+                      "title": "Keel kütab kirgi 3. Koli-ramatust kooli-raamatuks"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2023/11/prillop-jt.pdf",
+                      "title": "Keel kütab kirgi 4. Kaalul on eesti kirjakeele saatus: kas null, üks või mitu?"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Keelesugulus",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Norvik, Miina; Külli Prillop 2021. Traditsiooniline keelepuu uues kuues. Tartu Ülikooli eesti ja üldkeeleteaduse instituudi ajaveeb, 6.02.</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/horisont/keelepuu/",
+                      "title": "Traditsiooniline keelepuu uues kuues"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Keele omandamisest",
+                  "children": [
+                    {
+                      "kind": "file",
+                      "src": "http://www.emakeeleselts.ee/omakeel/2011_2/OK_2011-2_01.pdf",
+                      "title": "Psühholoogia ja keeleteaduse piirimail – psühholingvistika"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "http://www.emakeeleselts.ee/omakeel/2003_1/OK_2003-1_03.pdf",
+                      "title": "Lastekeelest ja selle uurimisest"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://ojs.utlib.ee/index.php/EA/article/view/11546/6730",
+                      "title": "Eesti laste esimesed sõnad: MacArthuri-Batesi suhtlemise arengu testi tulemused"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Keeleteaduse andmebaasid",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "https://glottolog.org/",
+                      "title": "Glottolog"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Andmebaasi on koondatud paljude maailma keelte (eriti vähem tuntud keelte) andmed ja allikad, kust nende kohta lisainfot saab.</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://grambank.clld.org/",
+                      "title": "GRAMBANK andmebaas"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.eki.ee/knab/linguae.htm",
+                      "title": "Maailma keelte, kirjade ja rahvaste andmebaas"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://phoible.org/",
+                      "title": "PHOIBLE"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>2186 keele häälduse andmed</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://scriptsource.org/cms/scripts/page.php",
+                      "title": "Sciptsource"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://scriptsource.org",
+                      "title": "Sciptsource"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Maailma keelte kirjaviiside andmebaas.</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://wals.info/",
+                      "title": "WALS - World Atlas of Languages Structures"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Maailma keelte ehitust võrdlev andmebaas, milles keeletüpoloogilisest perspektiivist esitatakse tunnuste kaupa 2676 keele andmed, mille saab võrdlevalt kaartidele koondada.</p>"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://glossary.sil.org/term",
+                      "title": "Keeleteaduse metakeel"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://ems.elnet.ee/index.php",
+                      "title": "Eestikeelsed keeleteaduse terminid"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Keeletüpoloogia allikaid",
+                  "children": [
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/omakeel/2005_1/01.pdf",
+                      "title": "Keeletüpoloogiast"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/horisont/mis-on-eesti-keeles-erilist/",
+                      "title": "Mis on eesti keeles erilist?"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/yritused/Kuhu%20kuulub%20eesti%20keel%20Metslang.pdf",
+                      "title": "Kuhu kuulub eesti keel?"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Tähendus",
+                  "children": [
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/omakeel/2002_1/OK_2002-1_01.pdf",
+                      "title": "Kognitiivsest lingvistikast"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/omakeel/2002_2/Oim.pdf",
+                      "title": "Kujundlikust keelekasutusest. Metafoor ja juurikad"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Pajusalu, Renate 2002. Lingvistiline pragmaatika ehk Mida kõike inimene oma keelega teha võib. Oma Keel 2</p><p>Pajusalu, Renate 2010. Teie või sina? Oma Keel 1.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Soome-ugri keeltest",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/uliopilastelt/joe-motiiv-luulekogus-neli-komilannat/",
+                      "title": "Jõe-motiiv luulekogus „Neli komilannat”"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/horisont/keelepuu/",
+                      "title": "Traditsiooniline keelepuu uues kuues"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Keele varieerumine",
+                  "children": [
+                    {
+                      "kind": "section",
+                      "title": "Üldiselt",
+                      "children": [
+                        {
+                          "kind": "file",
+                          "src": "http://www.emakeeleselts.ee/omakeel/2001_2/OK_2001-2_01.pdf",
+                          "title": "New Yorgi kaubamajad ja Mulgi murre ehk Millega tegelevad sotsiolingvistid"
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "section",
+                      "title": "Koodivahetus",
+                      "children": [
+                        {
+                          "kind": "link",
+                          "href": "https://www.blog.keel.ut.ee/uliopilastelt/koodivahetus-igapaevases-kirjalikus-vestluses/",
+                          "title": "Koodivahetus igapäevases kirjalikus vestluses"
+                        },
+                        {
+                          "kind": "link",
+                          "href": "https://www.blog.keel.ut.ee/uliopilastelt/koodivahetus-kulisside-taga/",
+                          "title": "Koodivahetus kulisside taga"
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "section",
+                      "title": "Murded (geograafiline varieerumine)",
+                      "children": [
+                        {
+                          "kind": "link",
+                          "href": "https://www.eki.ee/murded/kiiker/",
+                          "title": "Murdekiiker"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Suulisest keelest",
+                  "children": [
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2020/06/OK-1-2017_04.pdf",
+                      "title": "Suulisest keelest"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://keeleressursid.ee/et/149-transkriptsioonimargid",
+                      "title": "Transkriptsioonimärgid"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.cl.ut.ee/suuline/Tr_naide.php?lang=et",
+                      "title": "Näide transkribeeritud tekstist"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://foneetikakorpus.ut.ee/",
+                      "title": "Tartu Ülikooli Eesti keele spontaanse kõne foneetiline korpus"
+                    },
+                    {
+                      "kind": "text",
+                      "html": "<p>Tartu Ülikooli Eesti keele spontaanse kõne foneetiline korpus, kus saab näha sõnade hääldust loomulikus suulises kõnes.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Nimedest",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "https://www.eki.ee/knab/p_ee_et.htm",
+                      "title": "Eesti kohanimede andmebaas"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.eki.ee/dict/knr/",
+                      "title": "Eesti kohanimeraamat (etümoloogiad)"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.eki.ee/kohanimed/",
+                      "title": "Eesti Keele Instituudi kohanimekartoteek"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://geoportaal.maaamet.ee/est/",
+                      "title": "Maa-ameti geoportaal"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.ra.ee/kaardid/",
+                      "title": "Rahvusarhiivi kaardid"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/omakeel/2016_2/OK-2-2016_02.pdf",
+                      "title": "Kohanimedest sotsio-onomastilisest küljest"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/omakeel/2008_1/OK_2008-1_04.pdf",
+                      "title": "Kohanime muutumine kui nimekasutaja vajadus"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/omakeel/2001_1/OK_2001-1_04.pdf",
+                      "title": "Eestlaste XX sajandi nimemood"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "http://www.emakeeleselts.ee/omakeel/2016_1/04.pdf",
+                      "title": "Perekonnanimede uurimise piirkondlikke eripärasid"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.ra.ee/apps/onomastika/",
+                      "title": "Aadu Musta koostatud perekonnanimede andmebaas"
+                    },
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2021/05/MarikoFaster_HippSaar_OK-2021_1.pdf",
+                      "title": "Eestlaste loomanimedest minevikus ja tänapäeval"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Keelest avalikus ruumis",
+                  "children": [
+                    {
+                      "kind": "file",
+                      "src": "https://www.emakeeleselts.ee/wp-content/uploads/2021/05/IlonaTragel_KulliHabicht_OK-2021_1.pdf",
+                      "title": "Erakorralise aja sildikeel"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/uliopilastelt/lugu-uhe-paeva-markamistest/",
+                      "title": "Lugu ühe päeva märkamistest"
+                    },
+                    {
+                      "kind": "link",
+                      "href": "https://www.blog.keel.ut.ee/uliopilastelt/koroonasildid-berliinis/",
+                      "title": "Me räägiks ka meelsamini millestki muust."
+                    },
+                    {
+                      "kind": "section",
+                      "title": "Kasutatud allikad",
+                      "children": [
+                        {
+                          "kind": "text",
+                          "html": "<p>van Lier, Leo 1995. Introducing Language Awareness. – Penguin English Applied Linguistics.</p>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

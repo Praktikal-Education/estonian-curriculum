@@ -1,0 +1,141 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Gümnaasiumis on informaatika õppimise peaeesmärgiks see, et valdkonna vastu sügavamat huvi tundvad õpilased omandaksid erialased informaatikateadmised ja -oskused, mis loob neile võimalused planeerida enda tulevast tööelu ja karjääri IKT-ga seonduvatel erialadel või ka nutikamal tehnoloogiauuenduste rakendamisel IKT-ga kaudsemalt seotud ametites. Samas annab aine õppimine võimaluse tekitada huvi ja saada esmased teadmised valdkonna karjääri- ja edasiõppimise võimaluste kohta.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Gümnaasiumi informaatikaõppe keskmes on rühmatöö vormis teostatav uurimuslik digilahenduse arendusprojekt, mis on otstarbekas teostada 11. klassis.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Sellises arendusprojektis osalemine eeldab õpilaselt vastavalt tema rollile projektis teatud oskuste omandamist eelnevalt pakutavatel informaatika valikkursustel:</p><ul><li>Programmeerimine</li><li>Tarkvaraarendus</li><li>Tarkvaraanalüüs ja testimine</li><li>Kasutajakeskne disain ja prototüüpimine</li><li>Digiteenused</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lisaks ülalmainitud viiele uuele valikkursusele ja nendega seotud digilahenduse arendusprojektile võivad gümnaasiumid informaatika ainekava osana endiselt pakkuda ka 2011. aastal õppekavasse ilmunud valikkursuseid:</p><ul><li>Robootika ja mehhatroonika</li><li>3D modelleerimine</li><li>Geoinformaatika</li><li>Arvuti kasutamine uurimistöös</li><li>Küberkaitse</li><li>Sissejuhatus asjade internetti</li><li>Digitaalne jalajälg</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "rakendab gümnaasiumis omandatud informaatikateadmisi ja oskusi praktikas;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab anda ülevaate digiühiskonna toimimisest ning informaatika ja küberturvalisuse ajaloost;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab seaduslikke ja ebaseaduslikke tegevusi, toetudes IKT ja kübervaldkonda reguleerivatele seadustele, rakendab täiendavaid ohutus- ja turvameetmeid küberkeskkonnas;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab, selgitab ja kasutab informaatika ja küberkaitse ning küberkuritegevuse valdkonna põhimõisteid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "on kursis IT-valdkonna arenguga ühiskonnas ja oskab kaardistada olemasolevaid digilahendusi ja uuringuid probleemvaldkonnas;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on aktiivne õppija, panustades digilahenduse disaini, arenduse või juurutamise rühmatööprojekti kas arendaja, disaineri, analüütiku, testija, süsteemiadministraatori, projektijuhi või küberspetsialisti rollis;",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "suudab analüüsida digiteenuse sihtrühma probleeme ja vajadusi ning sõnastab seonduva digilahenduse arendusnõuded ning esitleb arendusprotsessi tulemusi eri sihtrühmade tarbeks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab digilahenduse arendusprojektis ja õppetegevuses vajaliku info leidmiseks erinevaid, sh digitaalseid teabeallikaid, analüüsib ning hindab kriitiliselt neis sisalduvat teavet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab märgata, hinnata ja vältida turvariske, mis võivad ilmneda digilahenduse kasutamisel, ning arvestab digitegevustes teiste inimeste privaatsusega ja isikuandmete kaitsega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "langetab digilahenduse loomisel kompetentseid otsuseid, tuginedes teaduslikele, majanduslikele ja eetilis-moraalsetele seisukohtadele, arvestades õigusakte ning prognoosides otsuste tagajärgi ja võimalikke mõjusid;",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "omab ülevaadet informaatikaga seotud erialadest, elukutsetest ja edasiõppimisvõimalustest ning rakendab informaatika õppeaines saadud teadmisi ja oskusi karjääri planeerides.",
+          "outcomeType": "competence"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Informaatika on arvutil põhineva infotöötlusega tegelev teaduse ning tehnika haru. Informaatika valdkonnas on võimalik omandada nii kutse- kui ka kõrgharidust, see on baasdistsipliiniks paljudele erialateadmistele nii info- ja kommunikatsioonitehnoloogia (IKT) sektoris kui ka väljaspool seda. Gümnaasiumi informaatika õppe eesmärgid ja sisu tulenevad tänapäevase digitaliseerunud ühiskonna vajadustest, kus digitehnoloogiaga puututakse kokku igal töökohal ja ka väljaspool tööd. Iga inimene on mingil hetkel kas digilahenduse looja, tellija, kohandaja, juurutaja või kasutaja rollis. Gümnaasium peaks kujundama õpilastes valmisoleku nendes rollides aktiivselt digiühiskonda panustada. Ka siis, kui gümnaasiumi lõpetaja ei vali edasiõppimiseks IKT eriala, peab ta suutma oma erialal IKT-d arukalt ja turvaliselt rakendada, uuendada, analüüsida digilahendustega seonduvaid probleeme ja vajadusi, selgitada neid nn targa tarbija ja tellijana uue digilahenduse arendajale.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Võimalusi lõiminguks, üldpädevuste arengu toetamiseks ja läbivate teemade käsitlemiseks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Digilahenduse arendusprojekti eesmärk on tulevastele digilahenduste loojatele ja tellijatele/kasutajatele vajalike praktiliste IKT oskuste kujundamine. Samas kujundatakse ka õpilaste loovust ja koostööoskusi, disainmõtlemise ning informaatika valdkonnateadmisi ja -oskusi, mida saab üle kanda väljapoole IKT valdkonda. Arendusprojekti metoodika toetub nüüdisaegsele õpikäsitlusele, kuna õppijad on selle kavandamisse ja teostamisse kaasatud ennastjuhtivalt, ettevõtlikult, loovalt ja koostöiselt. Samuti tagatakse arendusprojekti kavandades ja juhendades lõiming teiste õppeainete ja läbivate teemadega ning kõigi üldpädevuste kujundamine. Digilahenduse arendusprojekti võivad õpilased teha kas praktilise töö või arendusuuringuna, mis võimaldaks neil selle projekti tulemuste põhjal kaitsta gümnaasiumi lõpetajalt nõutav uurimistöö. Küberkaitse kursus on seotud ka kodanikukasvatuse, riigikaitse õpetuse, majanduse toimemehhanismide (kahju küberkuritegevusest), inimese ja õigusruumi, psühholoogia teemadega.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppetegevuse kavandamise ja korraldamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppetegevust kavandades ja korraldades:</p><ol><li>lähtutakse õppekava alusväärtustest, üldpädevustest, õppeaine eesmärkidest, õppesisust ja oodatavatest õpitulemustest ning toetatakse lõimingut teiste õppeainete ja läbivate teemadega;</li><li>taotletakse, et õpilase õpikoormus on mõõdukas;</li><li>võimaldatakse õppida üksi ning üheskoos teistega, et toetada õpilaste kujunemist aktiivseteks ning iseseisvateks õppijateks;</li><li>kasutatakse diferentseeritud õppeülesandeid, mille sisu ja raskusaste toetavad individualiseeritud käsitlust ning suurendavad õpimotivatsiooni;</li><li>rakendatakse nüüdisaegseid õpikeskkondi ning õppematerjale ja -vahendeid;</li><li>laiendatakse õpikeskkonda: veebipõhine personaalne õpikeskkond, arvutiklass, kooliõu, muuseumid, näitused, ettevõtted jne;</li><li>tagatakse, et õppe vältel õpitakse headest tavadest lähtuvat veebikäitumist, sealhulgas virtuaalsetes võrgustikes ning ametlikke infosüsteeme (e-kool, e-õppekeskkond, kooli ja omavalitsuse koduleht) kasutades;</li><li>pakutakse valikkursusi kas eraldiseisvate kursustena või kogu kontseptsiooni järgides, mille puhul valivad erinevad õpilased 10. klassis 1-2 kursust ja teevad 11. klassis meeskonnana digilahenduse arendusprojekti;</li><li>võiks kombineerida veebipõhist õpet auditoorse õppega, rakendada ümberpööratud klassiruumi (Flipped Classroom) metoodikat, mille puhul õpilased õpivad e-õpiku abil iseseisvalt uue osa kodus selgeks, tunnis aga tegeldakse juba õpitu praktilise rakendamisega rühmatöö-ülesannete vormis.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamisel lähtutakse gümnaasiumi riikliku õppekava üldosa sätetest. Informaatika õpitulemuste saavutatuse kohta antakse õpilasele tagasisidet õppeprotsessi käigus lähtudes õpilase õpiülesannetest. Kokkuvõtvalt hinnatakse kursuse lõpus. Õpiülesanded võivad olla tehtud kas üksi- või rühmatööna. Hindamiskriteeriumid kirjeldatakse kooli õppekavas.</p><p>Soovitavalt hinnatakse informaatikaõppes:</p><ol><li>õppe plaanipärasust, loomingulisust ja ratsionaalsust;</li><li>õppekavas ettenähtud õpitulemuste saavutamist ning seonduvate pädevuste olemasolu veenvat tõendamist;</li><li>loodud materjalide tehnilist teostust, esteetilisust ja originaalsust;</li><li>õpilasepoolset praktilise tegevuse mõtestamist;</li><li>õpilase isiklikku arengut kursuse jooksul.</li></ol>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamisel võib kasutada kombinatsiooni järgmistest alternatiivsetest hindamisviisidest:</p><ol><li>kujundav hindamine;</li><li>enesehindamine;</li><li>partnerhindamine;</li><li>rühmatöö-ülesannete hindamine (iga rühmaliikme panuse hindamine).</li></ol><p>Kursuse lõpphinne on soovitatav vormistada arvestatud/mittearvestatud kujul, vajaduse korral parimaid õpilasi õpimärkidega esile tõstes.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppekeskkonna kujundamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppekeskkonna kujundamisel tagatakse:</p><ol><li>internetiühendusega arvutite jm digitehnoloogia, projektori, kõlarite, kõrvaklappidega ruum, kus on soovitavalt võimalik laudu, toole ümber paigutada;</li><li>vajaduse korral isikliku sülearvuti või nutiseadme kasutamise võimalus;</li><li>rühmatöötehnikaid toetavad töövahendid ja -materjalid;</li><li>multimeedia salvestus- ja töötlusvahendid ning printeri kasutamise võimalus.</li></ol>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Propositsioonistrateegia",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>– eesmärgiks on lause tähenduse mõistmine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lokaalse sidususe strateegia",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>- eesmärgiks on teksti mõistmiseks oluliste lausete või lauseosade tähenduste seostamine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Makrostrateegia",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>- eesmärgiks on luua tervilik ja üldistatud kujutlus tekstis kirjeldatud sündmus(t)est. Teksti kohta loodud kujutluste tekkele aitavad kaasa teksti pealkiri, temaatiline sõnavara, sissejuhatavad laused ning ka tajuja enda teadmised kirjeldatud valdkonnast.</p>"
+        }
+      ]
+    }
+  ]
+}

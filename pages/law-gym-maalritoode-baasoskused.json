@@ -1,0 +1,111 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse koostamisel on kasutatud ehitusviimistluse eriala kutsekeskharidusõppe õppekava moodulite „Tasandustööd“ ja „Maalritööd“ õpiväljundeid. Ehitusvaldkonnas hariduse ja töökogemuse omandanud hea oskustööline on alati hinnatud ning ehitusobjektidele tööle oodatud. Samas on iga ehitustöö juures oma spetsiifika, mida on kasulik teada tööde tellijana, kuid praktilised oskused tulevad kasuks ka enda tarbeks lihtsamate remonditööde tegemisel.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse eesmärk on tutvustada õpilastele ehituse valdkonna erialasid ja tööde tehnoloogilist järjekorda maalri eriala näitel. Õpitakse tundma ehituses kasutatavaid mõisteid ja termineid, maalritöödel kasutatavaid erinevaid töövahendeid, materjale ja nende kasutustingimusi, samuti töö- ja keskkonnaohutusnõudeid ehitustöödel. Õppe käigus arendatakse ruumilist nägemist ja mõtlemist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursus koosneb kuuest suuremast teemast, mis sisaldavad nii teoreetilist ettevalmistust kui ka praktilisi harjutusülesandeid. Spetsiifilisemaid teemasid käsitletakse ülevaatlikult, keskendudes eelkõige nendele, mis on otseselt seotud praktiliste ülesannetega. Praktiliste harjutusülesannete käigus tehakse tutvust esmaste töövõtetega aluspinna ettevalmistamisel, värvi pinnale kandmisel ja värvitud pinna viimistlemisel. Enne praktilisele tööle asumist toimub tööohutus-alane juhendamine. Valikkursuse lõpuks on õpilane iseseisvalt viimistlenud kvaliteedinõuete kohaselt vesialuselise värviga siseruumis paikneva seinapinna.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Sügavama huvi korral on edasi õppides võimalik omandada ka põhjalikumad teadmised ja oskused ehitusviimistluse või maalri erialal kutseõppeasutustes.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursusega taotletakse, et õpilane tutvub ehituse valdkonna eripäraga, omandab baasteadmised maalritööde tehnoloogilisest järjekorrast, kasutatavatest materjalidest, töövahenditest ning esmastest töövõtetest ja tööohutusnõuetest tööde tegemisel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "omab ülevaadet erinevatest ehituserialadest ja maalri kutse spetsiifikast;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab maalritöö põhietappe (pindade ettevalmistamine, värvi pinnale kandmine, värvitud pindade hooldamine), maalritöödel kasutatavaid materjale, nende liike ja kasutustingimusi, töövahendeid ja tööde tehnoloogilist järjekorda;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "kavandab juhendamisel tööprotsessi, valib materjalid ja töövahendid etteantud tööülesandele vastavalt;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "valmistab juhendamise järgi ette ja viimistleb ruumi sisepinna värviga, järgides maalritööde tehnoloogilist järjekorda ja etteantud kvaliteedinõudeid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "järgib maalritööde tegemisel energiatõhusa ehitamise põhimõtteid ning töötervishoiu, töö- ja keskkonnaohutusnõudeid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "analüüsib juhendamisel oma tegevust siseruumis asuva seinapinna värvimisel.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõik teemad algavad teoreetilise sissejuhatusega, millele järgnevad praktilised harjutusülesanded baasoskuste omandamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>ülevaade ehituse valdkonnast. Ehituses kasutatavad mõisted ja terminid; erineva taseme kutsed ja tööturul vajalikud kompetentsid;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>materjalid ja töövahendid. Krundid, pahtlid, värvid, õlid, lakid, nende liigitus, otstarve ja kasutusvõimalused ruumide siseviimistluses. Värvi koostiselemendid (sideaine, täiteaine, lahusti ja vedeldi, pigment, lisaaine) ja nende ülesanne. Materjalide tootjapoolsed paigaldusjuhendid. Ilmastiku ja keskkonnanõuded viimistlustöödel. Viimistlusmaterjalide ladustamise ja säilitamise põhimõtted. Töövahendid, valikupõhimõtted ja hooldamine;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>aluspinnad. Nõuded erinevatele aluspindadele (mineraalsed pinnad, puitpinnad, metallpinnad). Mõõdistamine. Loodimine. Tasandustööde tehnoloogiline järjekord. Kvaliteedinõuded (Viimistluse RYL 2010 klass 2). Energiatõhusa ehitamise põhimõtted;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>materjalide kulu ja mahu arvutused. Pindala, ruumala ja protsentarvutamise eeskirjad. Materjalide kulunormid. Erialased arvutusülesanded. Tööaja planeerimine;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>tööde tehnoloogiline järjekord. Nõuded töökoha korraldamisele. Mitteviimistletavate pindade kaitsmine, kasutatavad materjalid. Tootjapoolsed paigaldusjuhendid. Materjalide ja töövahendite valimine tehnoloogiale vastavalt, nende ettevalmistamine tööks. Viimistletud pindadele esitatavad kvaliteedinõuded (DIN ja RYL põhjal). Tööde teostamise tehnoloogiline järjekord. Värvitud pinna hooldamine;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>töökeskkonna ohutus ja -tervishoid. Töökeskkonna ja -tervishoiunõuded maalritöödel. Füüsikalised, keemilised, bioloogilised ja füsioloogilised ohutegurid ja meetmeid nende vähendamiseks. Nõuded kemikaalidega töötamisel. Töövahendite tööks ettevalmistamine, hooldamine ja korrashoid. Jäätmete sorteerimine ja utiliseerimine. Isikukaitsevahendid ja nende kasutamise nõuded.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

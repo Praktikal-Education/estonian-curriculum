@@ -1,0 +1,238 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Alternatiivkommunikatsioonivahendi valikul",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>tuleb arvestada mitmete aspektidega.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "1. Vahendi valik lähtub õpilase:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>sensoorsetest võimetest (eelkõige nägemisest). Visuaalsetest võimetest lähtuvalt tuleb mõelda läbi vahendi/sümboli suurus ning kontrastsus (nt mustvalged või värvilised pildid);</li><li>motoorsetest võimetest. Sellest sõltub, kuidas on AAC kasutaja suuteline osutama või klahvile vajutama (labakäega, sõrmega, pilguga jm). Kui kasutatakse viipeid, siis käte liikuvusest sõltub, kas kasutada kurtide viipeid (mis on peenmotoorika seisukohalt keerulisemad) või lihtsustatud viipeid. Õpilase motoorsetest võimetest sõltub ka suhtlusvahendi kaasaskandmise võimalus;</li><li>kognitiivsetest võimetest. Sellest sõltub, millise keerukusega (abstraktsusastmega) sümbolid valida kõne toetuseks või asendamiseks (nt esemed, fotod või graafilised sümbolid; kas üksikpildid, suhtlustahvel või suhtlusraamat.);</li><li>keelelistest võimetest (sh kõne mõistmisest). Sellest sõltub sõnavara maht ja keerukus, mida sümbolitega asendada; kas sümbolitest on võimalik moodustada lauseid.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2. Keskkonna eeldused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>võimalused vastavad õpilase kommunikatsioonivajadustele, sh tugivõrgustik mõistab AAC kasutamise vajadust;</li><li>suhtlusolukordade mitmekesisus, igapäevase suhtlemise võimaldamine AAC vahendiga;</li><li>suhtluspartnerid (õpetajad, juhendajad) oskavad õpilase AAC vahendiga suhelda ja õpilasele suhtlemisel tuge pakkuda.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "3. Kommunikatsioonivahendi eeldused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>vahendi mõistetavus tugivõrgutsikule ning kõrvalistele isikutele;</li><li>meetodi, vahendi kohandatavus AAC kasutaja suhtlemise vajadustele ja võimetele vastavaks.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Alternatiivkommunikatsiooni vahendid ja meetodid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Alternatiivkommunikatsiooni vahendeid ning meetodeid on maailmas väga palju ja erinevaid. Siinkohal on tutvustatud eelkõige neid, mis võiksid sobida hooldusõppe tasemel õppivale õpilasele.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Esemed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suhtlemiseks võib kasutada kolmemõõtmelisi sümboleid, mida saab eristada käegakatsutavate omaduste (nt kuju, tekstuur) alusel ehk kompimise teel. Kolmemõõtmelisi sümboleid kasutatakse tavaliselt nägemis- ja kognitiivse puudega õpilaste puhul, kes ei saa pildist aru. Kolmemõõtmeliste sümbolite hulka kuuluvad nii reaalsed esemed, miniatuursed tähised, osalised tähised ning n-ö kunstlikult seostatud sümbolid ja erineva tekstuuriga sümbolid.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Reaalsed esemed",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>võivad olla konkreetsed esemed, mida igapäevaselt kasutatakse, näiteks hambahari, mida hambapesuks kasutatakse ongi hambapesu tähis. Reaalsed esemed mis on seotud situatsiooni või tegevusega, millele viidatakse, näiteks pesukäsn tähistab nõudepesu.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Miniatuurse tähised",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>võivad olla mõnedes olukordades praktilisemad kasutada kui reaalsed esemed just oma väiksuse tõttu. Samas võivad need olla keerulisemate kognitiivsete puuete puhul raskemini mõistetavad kui kahemõõtmelised sümbolid (nt mudelauto, mis tähistab autoga sõitmist vs foto konkreetsest autost millega sõidetakse igapäevaselt). Miniatuursed tähised võivad olla raskesti mõistetavad seoste loomise seisukohalt ka nägemispuudega õpilastel, näiteks pesemise tähiseks olev vannipart (eeldusel, et sellega mängitakse igal vannitamise korral) annab selgemini tähendust edasi kui miniatuurne pesuvann.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Osalisi tähiseid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>võib kasutada siis, kui reaalne ese on mõõtmetelt liiga suur ja ebapraktiline, näiteks mahlapaki kork tähistab mahlajooki.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kunstlikult seostatud esemed",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>on tähenduslikult tegevusega seotud esemed, kuid nendega otseselt ei tegeleta antud situatsioonis, näiteks söömist tähistav puidust õun.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "erineva tekstuuriga sümbolid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Üks esemelise kommunikatsiooni alaliike on ka erineva tekstuuriga sümbolid. Need on kas otseselt tähistavaga seotud või kokkuleppelised, erinevast materjalist sümbolid. Näiteks tükike võimlemismatti tähistab võimlemist või sametist riidetükike tähistab oodet.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>Esitle eset õpilasele vahetult enne tegevust, et anda visuaalselt ja taktiilselt infot sellest, mis hakkab toimuma. Ese võib olla ka meeldetuletuseks, et toetada mälu. Esemed, mis on õpilasele juba tuttavad, annavad võimaluse osaleda valikute tegemisel ning eneseväljendusel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Viiped",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Viibete abil suhtlemine sobib lisaks kuulmispuudega lastele ka kuuljatele erivajadustega lastele, kes kõne abil mingil põhjusel ei suhtle. Kui laps on võimeline kasutama kurtide viipeid, ei ole põhjust viibet lihtsustada, kuna kurtide viipeid on kordades rohkem kui lihtsustatud viipeid. Lihtsustatud viibete puhul on üksikud viiped laenatud kurtide viipekeelest, kuid viipekeele reeglid ja struktuur jäetakse ära. Viiped on lihtsustatud eelkõige peenmotoorika seisukohalt. Lihtsustatud viibe võib olla ka ainult viipleja keskkonnas kokkuleppeliselt mõistetav, st individuaalselt lihtsustatud ja seda eelkõige motoorika seiskohalt.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Viibete kasutamine on siiski üpris keeruline ja viiplejale teatud tingimusi esitav. See eeldab piisavat kognitiivset taset, matkimisvõimet, viiplemiseks vajalikku käte motoorikat. Lihtsustatud viipekeel on kõnekeelel põhinev viipekeel. See tähendab, et lause sisu jaoks olulisi viipeid kasutatakse lauses kõnekeele loogika alusel. Õppimise alguses viibeldakse lauses vaid üksikuid lihtsustatud viipeid, õpetaja ütleb lause ja viipleb selles esineva tähendust kandva <strong>võtmesõna.</strong> Õpilase oskuste edenedes hakatakse suhtlemisel viipeid kasutama üha enam <strong>keelesüsteemipäraselt.</strong></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Viipeid kasutades on õpetajal oluline meeles pidada, et nendega koos tuleb alati kasutada kõnet, samaaegne kõnelemine ja viiplemine aitab kaasa sõnumi mõistmisele. Viipemärkide õppimist on võimalik füüsiliselt juhendada, mis teeb nii õpetamise kui omandamise lihtsamaks. Viibete miinuseks võib pidada aga seda, et viiped on ajutised, nad kaovad peale viipemärgi sooritamist, vastupidiselt näiteks piltkommunikatsioonile, milles pilt on püsiv ja silma ees.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kommunikaatorid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kõrgtehnoloogilised (ingl. k <em>high tech</em>) AAC seadmed on elektroonilised ning ulatuvad oma keerukuselt alates häälsõnumite salvestamise võimalustega nuppudest (nt <a href=\"https://www.invaru.ee/ee/kommunikaator-bigmack\">Bigmack</a>) kuni väikeste arvutiteni välja (nt <a href=\"https://uk.tobiidynavox.com/products/td-i-110\">Tobii I-110</a>). Sellised kommunikatsiooniseadmed nõuavad õpilaselt nupule vajutamist, puutetundliku ekraani puudutamist, mille tagajärjel kostub seadmest vastav häälsõnum. Selline lahendus pakub õpilasele püsivat verbaalset mudelit (kostub häälsõnum), suurendades AAC kasutaja võimalusi seostada kuuldud sõnu konkreetsete mõistetega. Häälsõnumeid on võimalik kommunikaatoris ise salvestada või digitaalsetes kommunikaatorites kasutada lisaks salvestamisele ka Eesti Keele Instituudi (EKI) poolt loodud eesti keele kõnesünteesi (arvuti loeb maha kirjutatud tekstsõnumi, mis on sümboli kohale kirjutatud).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Suhtlusraamat ja suhtlustahvel, millega on võimalik suhelda lausetasandil",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://tammetriinu.ee/",
+              "title": "Suhtlusraamat"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lausetasandil suhtlemine on palju informatiivsem ning selgem kui üksikpiltidega suhtlemine ja seeläbi ka ümbritsevatele inimestele oluliselt mõistetavam. Selle meetodi puhul koostatakse piltidest lauseid kõnekeele loogika alusel. Esmane kokkupuude suhtlusraamatuga ei eelda õpilaselt lausete moodustamise oskust, piisab piltsümbolite mõistmisest. Suhtlemise areng toimub igapäevase mudeldamise abil, sellisel viisil õpitakse ära raamatus olevad sümbolid ning õpilane näeb, millistest osadest lause koosneb ja kuidas lauseid moodustatakse. Mudeldamine toimub algusest peale lausetasandi suunas ja grammatiliselt õigesti. Kui alguses õpilane väljendab ennast osutades üksikutele piltidele lehel, siis raamatu ja/või suhtlustahvli igapäevane kasutamine soodustab sõnumi laiendamist lauseteks. Sellisel viisil laieneb nii sõnavara kui õpitakse sümbolitest lauseid moodustama. Sümbolid paigutatakse lehel vasakult paremale sõnaliikide alusel. Sümboli taustaks olev värv määrab ära sümboli sõnaliigi. Suhtlemisel moodustub lause vasakult paremale, so lugemise suunas. Suhtlusraamatus või suhtlustahvlil olevad sümbolid annavad ette suhtlemiseks vajaliku sõnavara ja teema, see soodustab vestluses osalemist.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Suhtlusraamatu või suhtlustahvli koostamisel on oluline kasutada sagedamini esinevaid märke kõikide lehekülgede või suhtlustahvlite puhul samades kohtades. See on motoorse planeerimise seisukohalt oluline ning õpilane või õpetaja leiab suhtlemiseks vajalikud sümbolid lehelt kergemini üles.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lisaks on olemas suhtlusraamatuid, mis ei eelda lausetasandil suhtlemist. Mõned võimalikud variandid selleks on järgnevad:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "PECS (ingl k Picture Exchange Communication System)",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://pecsusa.com/pecs/",
+                  "title": "PECS"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>PECS meetodi abil saab suhelda läbi pildivahetuse. Raamatu kasutaja ulatab suhtluspartnerile sümboli/sümbolitest koostatud lauseriba ning saab vastu küsitud eseme või võimaluse teha soovitud tegevust. See on efektiivne vahend <strong>põhisõnavara</strong> ja <strong>baaslausete</strong> omandamiseks.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>PECS süsteemis on 6 taset ning nende õpetamisel on oma kindel struktuur. Enne PECS meetodiga alustamist ei pea õppija teadma sümbolite tähendust. Kõige olulisem on esmalt leida mingi ese/tegevus, mis talle meeldib ning teda motiveerib. Esialgu ei õpetata lapsele/noorele raamatus oleva sümboli tähendust, vaid õpetatakse, kuidas suhelda. Kui see on selge, siis liigutakse edasi sümbolite tähenduse õppimise juurde. Kui laps/noor on selleks võimeline, siis saab talle õpetada lause moodustamist ning lausetasandil kommenteerimist. Tähtis on järjepidevus ning erinevate inimeste kaasamine, st õppija peaks igapäevaselt suhtlema erinevate inimestega ja erinevates keskkondades. Suhtlusraamatus olevate sümbolite arv suureneb vastavalt kasutaja vajadustele ning raamatust pilte ära võtta ei tohiks - kõik, mis sinna lisatud on, on lapse/noore jaoks oluline.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "PODD (ingl k Pragmatic Organization Dynamic Display)",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.assistiveware.com/blog/what-is-podd",
+                  "title": "PODD"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>PODD suhtlusraamatu abil saab rääkida erinevatel teemadel, näiteks avaldada soovi midagi saada või teha, väljendada oma emotsioone, avaldada arvamust jne. PODD raamatu kasutamise eesmärk ei ole lause moodustamine, mistõttu sobib see hästi inimestele, kelle käte motoorne võimekus on limiteeritud. Suhtlust alustatakse alati raamatu esimeselt lehelt, mis sisaldab sõnu ja väljendeid, mida saab kasutada just antud suhtlusolukorras (nt mingi ühine tegevus) ning neid on võimalik tõlgendada seoses partneri eelneva ütlusega (nt veel, teeme midagi muud, tahan midagi öelda). Suhtlusraamatut peaks kasutama erinevates loomulikes situatsioonides, mitte ainult küsimustele vastamiseks või valikute tegemiseks. Kui me pakume raamatu kasutajale võimalust raamatut kasutada vaid juhendaja küsimusele vastamiseks, siis ei õpi kasutaja vestlust algatama, vaid jääb ootama kuni suhtlemiseks tema poole pöördutakse. Oluline on meeles pidada, et suhtlemise käigus peaks juhendaja ka oma kõne raamatu abil mudeldama. See aitab õppijal raamatus olevate sümbolite tähendust ja asukohta paremini kinnistada.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Raamatut koostades peaks sinna lisama sümboleid pigem rohkem, sh ka neid, mille tähendust raamatu kasutaja veel ei tea. See annab talle võimaluse uusi sõnu õppida ja oma sõnavara laiendada. PODD suhtlusraamatus on kõikide sümbolite taustavärv valge, kuid sümboli ümber oleva raami värviga on määratud sõnaliik (nimisõna, tegusõna jne). PODD raamatus on võimalik kasutada ka kahepoolse teibiga kinnitatavaid sümboleid - sümbolile osutamise asemel võetakse see raamatust välja ja hiljem asetatakse raamatus sama koha peale tagasi. Seda varianti kasutatakse juhul kui raamatu kasutaja ei mõista, et sümbolile osutamine tähendab sõna &quot;ütlemist&quot;.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tunnetuslik suhtlemine (ingl k Intensive Interaction)",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.intensiveinteraction.org/",
+                  "title": "Tunnetuslik suhtlemine"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Tunnetuslik suhtlemine on meetod, mis tegeleb kommunikatsiooni baasoskuste arendamisega (nt teise inimesega koosolemine, silmside, miimika, kehakeel, kordamööda tegutsemine jne). Selle peamiseks <strong>eesmärgiks on usaldusliku suhte loomine</strong>. Esialgu on juhendaja ülesandeks jälgida õpilast - mida ta teeb ja kuidas? See annab infot, millele õpilane keskendub, et ümbritsevast keskkonnast aru saada. Kui emotsionaalse kontakti saavutamiseks on sobiv kommunikatsiooniviis leitud, saab juhendaja õpilasega suhtlemisega liituda, jäljendades (peegeldades) õpilase enda kehakeelt ja/või häälitsusi.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Täiskasvanu mitte ainult ei imiteeri, vaid annab õpilasele ilmeka ja mõistva vastuse, mistõttu on olulised nii näo väljendusrikkus kui ka intonatsioon. Samas peab juhendaja tegema valiku, mida ja kui intensiivselt jäljendada.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Juhendaja ülesanne on vaadata ja jälgida, kas ja kuidas suhtlemine areneb – kuidas sekkumine ning vastamine muutuvad. Kui õpilane midagi uut proovib, vastab juhendaja sellele ning lisab ka omalt poolt midagi juurde. Kuid sel juhul peab meeles pidama, et juurde lisatavatel muutustel peab olema midagi sarnast juba olemasolevaga.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Suhtlemise käigus tuleb minna õpilase jaoks sobivasse rütmi, ükskõik kui aeglane see on. Vahel piisab ka lihtsalt koos olemisest. Iga suhtluskord võib olla erineva pikkusega ja tuleb jälgida, millal on õpilase jaoks suhtlemine läbi ja ta soovib lõpetada. Samas võib tekkida olukord, kus õpilasel on raske suhtlemist lõpetada või on suhtlemise aeg piiratud. Sel juhul tuleb juhendaja poolt vähenda suhtlemise intensiivsust kuni see loomulikult vaibub. Tunnetusliku suhtlemise käigus pööratakse õpilase tähelepanu <strong>enesestimulatsioonilt ühistegevusele</strong>.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kui räägime õpilase jaoks sümbolite (nt esemed, viiped, pildid jne) valikust suhtlemise sisuloomeks, siis kõige olulisemad on õpilase enda huvid ja vajadused, ükskõik, mis erivajadusega või vanuses õpilane on. Peamine on tema kommunikatsioonivajadus.</p>"
+        }
+      ]
+    }
+  ]
+}

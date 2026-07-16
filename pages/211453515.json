@@ -1,0 +1,192 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpitulemuste ja õppesisu soovituslik jaotus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "osaleb aktiivselt ja mõtestatult õppeprotsessis",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab helisid, hääli ja häälikuid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "omandab lugemistehnilise vilumuse ja teadliku lugemisoskuse",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb joonis- ja kirjatähti, kasutab õigeid tähekujusid, kirjutab loetava käekirjaga",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sooritab kirja eelharjutusi, arvestab etteantud juhendi ja juhendamisega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab mõtestatud lihtsamaid lauseid ja tekste",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "jutustab kuuldust, nähtust ja loetust, vajaduse korral kasutab juhendi abi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb ja eristab eri liiki tekste, analüüsib teksti ülesehitust, keelekasutust ja sisu, avaldab selle kohta arvamust",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb sobivaid tervikteoseid nii eesti kui ka maailma lastekirjandusest",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "jagab lugemiskogemusi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu teemade kaupa",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Kuulamisoskus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpetaja, kaaslase ja tehnilise vahendiga esitatud teksti kuulamine, suulise juhendi järgi toimimine. Kuuldu ja nähtu kommenteerimine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Suhtlemisoskus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Sobivate kõnetuste (palumine, küsimine, keeldumine, vabandust palumine, tänamine) ja viisakusväljendite valik suhtlemisel. Eri teemadel vestlemine, arutamine paaris ja rühmas. Oma suhtumise väljendamine, kaaslaste arvamuse küsimine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Graafika. Foneetika. Ortoeepia. Tähestik.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Vene keele täis- ja kaashäälikute süsteem, hääliku ja tähe suhe. Tähed Е, Ё, Ю, Я.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kirja eelharjutuste sooritamine, joonis- ja kirjatähtede kirjutamine.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Väikeste ja suurte kirjatähtede õppimine, õiged tähekujud ning seosed, ühtlane kirjarida.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lugemisoskus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Lugemistehnika arendamine õpetaja juhendamisel. Käsikirjalise teksti lugemine tahvlilt ja vihikust. Sõna, lause ja teksti lugemine ning sisu mõistmine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Leksikoloogia",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Sõna kui keeleühik.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ortograafia ja interpunktsioon.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Väike- ja suurtähe kasutamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kirjalik väljendusoskus.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Töö vormistamine. Töö vormistamine paberil loetavas käekirjas. Oma kirjavea parandamine. Kirjutamine näidise järgi.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Jutustamis- ja kirjeldamisoskus, suuline väljendusoskus.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Jutustava ja kirjeldava teksti ning teabeteksti lugemine. Sümbolite, skeemide, kaartide ja tabelite lugemine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tekstiloome.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Sõna ja lause ladumine ning kirjutamine. Lausete moodustamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lugemiskogemus.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Sobiva lugemisvara leidmine lapsevanema ja õpetajate abiga.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Sõnavara arendamine.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Sõna tähendus(t)e selgitamine ja täpsustamine, aktiivse sõnavara laiendamine, lähedase ja vastandtähendusega sõna leidmine. Riimuvate sõnade leidmine.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

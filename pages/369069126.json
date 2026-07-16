@@ -1,0 +1,285 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus keskendub <strong>noorsportlase kui tervikliku isiksuse arengule</strong> ning toetab teadliku ja vastutustundliku sportlase kujunemist. Kursuse käigus mõtestab õpilane oma rolli sportlasena nii treeningkeskkonnas kui ka ühiskonnas laiemalt. Õpilane õpib teadlikult juhtima oma aega, energiat ja motivatsiooni ning mõistab spordieetika, meedia, toitumise ja une rolli sportlikus arengus. Samuti käsitletakse sportlase avalikku kuvandit, spordisüsteemi toimimist, toetajate leidmise põhimõtteid ning sportlaskarjääri võimalikke arenguteid.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse sihtrühm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus on suunatud spordiga aktiivselt tegelevatele ja spordist huvituvale gümnaasiumiõpilastele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on arendada õpilase enesejuhtimisoskust, väärtuspõhist tegutsemist ja sportlase identiteedi kujunemist ning analüüsida ja hinnata topeltkarjääri võimalusi oma sportliku ja akadeemilise arengu kontekstis.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse maht on 35 akadeemilist tundi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse täpsem töökorraldus lepitakse kokku õpilaste ja õpetaja vahel, arvestades treeningkoormust, spordiala eripära ja kooli õppekorraldust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "sportlase roll ühiskonnas",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib sportlase identiteeti, selgitab spordisüsteemi toimimist ning hindab sportlaskarjääri võimalikke arenguteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>sportlase roll ühiskonnas</li><li>spordi juhtimine</li><li>sportlaskarjäär</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Õpilane:</strong></p>"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib sportlase identiteedi kujunemist ja selle mõju enesetajule;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutleb sportlase rolli üle ühiskonnas ja eeskujuna;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab Eesti spordisüsteemi toimimist (klubid, alaliidud, rahastus);",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid erinevatest töö- ja karjäärivõimalustest spordivaldkonnas (nt treener, füsioterapeut, spordipsühholoog);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab topeltkarjääri mõistet ja selle tähtsust sportlase arengus;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib sportlaskarjääri lõpetamisega seotud väljakutseid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb külalisesineja loengus või arutelus;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab kursuse lõpus eneseanalüüsi oma arengust ja sportlase identiteedist.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "taastumine spordis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab ja analüüsib puhkuse, une, toitumise ja taastumise mõju sportlikule sooritusele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>taastumine spordis</li><li>toitumine spordis</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>selgitab puhkuse ja une rolli sportlase taastumisel ja sooritusvõime säilitamisel;</li><li>kirjeldab unetsükleid ja une faase ning nende mõju organismile;</li><li>analüüsib unepuuduse mõju füüsilisele ja vaimsele sooritusvõimele;</li><li>selgitab sportlase toitumise põhialuseid (makro- ja mikrotoitained, energiavajadus);</li><li>kirjeldab toitumise põhimõtteid enne treeningut, treeningu ajal ja pärast treeningut;</li><li>arutleb vedeliku tarbimise ja taastumise tähtsuse üle treeningul ja võistlustel;</li><li>analüüsib kehakuvandi mõju sportlase enesetajule ja seob neid toitumisteooriatega;</li><li>kirjeldab tervisliku toitumiskäitumise põhimõtteid ning teab, kuhu pöörduda abi saamiseks riskikäitumise märkamisel.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "aja planeerimine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib oma ajakasutust ning rakendab enesejuhtimise ja ajaplaneerimise võtteid õppimise, treeningu ja taastumise tasakaalustamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>aja planeerimine</li><li>ennastjuhtiv õpilane/sportlane</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>analüüsib oma ajakasutust kooli, treeningute ja vaba aja vahel;</li><li>koostab isikliku nädala- või treeningperioodi ajaplaani;</li><li>seab lühiajalisi ja pikaajalisi eesmärke sportliku ja akadeemilise arengu jaoks;</li><li>kasutab peamisi motivatsiooni hoidmise ja eneseregulatsiooni võtteid;</li><li>analüüsib sportlase tugivõrgustiku (treener, pere, kool, meeskond) rolli.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "spordieetika",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab spordieetika ja ausa mängu (fair play) põhimõtteid ning rakendab neid sportlikus tegevuses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>spordieetika</li><li>aus mäng spordis</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>selgitab ausa mängu põhimõtteid ja toob näiteid nende rakendamisest treeningul ja võistlustel;</li><li>analüüsib sportlase vastutust ja eetilist käitumist treening- ja võistluskeskkonnas;</li><li>kirjeldab sporditurvalisuse põhimõtteid ning arutleb turvalise treeningkeskkonna kujundamise üle;</li><li>selgitab antidopingu põhimõtteid ja dopingu mõju sportlase tervisele ja karjäärile;</li><li>harjutab ravimite ja toidulisandite lubatavuse kontrollimist vastavast registrist;</li><li>kirjeldab dopinguproovi andmise protseduuri ja sportlase õigusi ning kohustusi;</li><li>analüüsib ebaeetilise käitumise (nt petmine, kiusamine, doping) olukordi spordis.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "sport ja meedia",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib sportlase rolli meedias ja ühiskonnas ning hindab avaliku kuvandi ja digijälje mõju sportlase mainele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>sport ja meedia</li><li>sportlase kuvand ja maine</li><li>digijälg</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>analüüsib spordi kajastamist traditsioonilises meedias (televisioon, ajalehed, veebiväljaanded);</li><li>analüüsib spordi kajastamist sotsiaalmeedias ja selle mõju sportlase mainele;</li><li>selgitab digijälje mõistet ning arutleb selle mõju üle sportlase tulevikuvõimalustele;</li><li>harjutab intervjuu andmist ja avalikku esinemist sportlasena;</li><li>arutleb sotsiaalmeedia kasutamise võimaluste ja riskide üle sportlase jaoks;</li><li>koostab lihtsa persoonibrändi või sotsiaalmeedia kasutamise plaani sportlasele;</li><li>analüüsib näiteid tuntud sportlaste meediakuvandist.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine, sh mitteformaalõppes läbitud kursuste hindamise alused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursust hinnatakse mitteeristavalt (arvestatud/mitte arvestatud).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppimise käigus kasutatakse kujundavat hindamist, mille eesmärk on toetada õpilase arengut, eneseanalüüsi ja teadlikku sportlaseks kujunemist. Õpilasele antakse kursuse jooksul järjepidevalt suulist ja vajadusel kirjalikku tagasisidet tema osalemise, arutelude, ülesannete ja eneseanalüüside kohta.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Arvestuse saamise eeldused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>aktiivne osalemine õppetöös (arutelud, rühmatööd, praktilised ülesanded);</li><li>õpilase panus teadmiste ja oskuste omandamisse;</li><li>erinevate osaoskuste omandamine eraldi ja/või lõimitult (nt analüüs, esinemine);</li><li>individuaalsete ja rühmaülesannete sooritamine;</li><li>oskus analüüsida enda ja kaasõpilaste teadmisi ja oskusi;</li><li>kursuse lõpus esitatav analüüs või kokkuvõttev ülesanne.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mitteformaalõppes läbitud kursuste arvestamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilase (varasemaid) mitteformaalõppes või täienduskoolitustel omandatud teadmisi ja oskuseid (nt spordiorganisatsioonide koolitused, antidopingu koolitus, spordilaagrid, noorteprogrammide õpe) võetakse kursuse osana arvesse, kui:</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>õpilane esitab tõendi koolituse läbimise kohta;</li><li>õpilane seostab omandatud teadmised kursuse õpitulemustega;</li><li>õpilane esitab lühikese analüüsi või esitluse omandatud kogemusest.</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpetaja otsustab arvestamise sobivuse lähtudes kursuse õpitulemustest.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

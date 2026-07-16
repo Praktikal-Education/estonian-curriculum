@@ -1,0 +1,149 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kitsa matemaatika valemileht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>$\\sin^2 \\alpha + \\cos^2 \\alpha=1$</p><p>$\\tan\\alpha = \\dfrac{\\sin\\alpha}{\\cos\\alpha}$</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>$\\sin(-\\alpha)=-\\sin\\alpha$</p><p>$\\cos(-\\alpha)=\\cos\\alpha$</p><p>$\\tan(-\\alpha)=-\\tan\\alpha$</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>$\\sin(90^{\\circ}-\\alpha)=\\cos\\alpha$</p><p>$\\cos(90^{\\circ}-\\alpha)=\\sin\\alpha$</p><p>$\\tan(90^{\\circ}-\\alpha)=\\dfrac{1}{\\tan\\alpha}$</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>$\\sin(\\alpha + n\\cdot 360^{\\circ})=\\sin\\alpha,n\\in \\mathbb{Z}$</p><p>$\\cos(\\alpha + n\\cdot360^{\\circ})=\\cos\\alpha,n\\in \\mathbb{Z}$</p><p>$\\tan(\\alpha + n\\cdot180^{\\circ})=\\tan\\alpha,n\\in \\mathbb{Z}$</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>$\\sin \\left(\\dfrac{\\pi}{2}-\\alpha\\right)=\\cos \\alpha$</p><p>$\\cos \\left(\\dfrac{\\pi}{2}-\\alpha\\right)=\\sin \\alpha$</p><p>$\\tan \\left(\\dfrac{\\pi}{2}-\\alpha\\right)=\\dfrac{1}{\\tan \\alpha}$</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>$\\sin(\\alpha + n\\cdot 2\\pi)=\\sin\\alpha,n\\in \\mathbb{Z}$</p><p>$\\cos(\\alpha + n\\cdot 2\\pi)=\\cos\\alpha,n\\in \\mathbb{Z}$</p><p>$\\tan(\\alpha + n\\cdot \\pi)=\\tan\\alpha,n\\in \\mathbb{Z}$</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>$c^{\\prime} = 0$, kus $c$ on konstant</p><p>$x^{\\prime} = 1$</p><p>$(x^n)^{\\prime}=n x^{n-1}, n \\in \\mathbb{Z}$</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>$(a^x)^{\\prime} = a^x\\ln a$</p><p>$(e^x)^{\\prime} = e^x$</p><p>$(\\log_a x)^{\\prime} = \\dfrac{1}{x\\ln a}$</p><p>$(\\ln x)^{\\prime} = \\dfrac{1}{x}$</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>$(\\sin x)^{\\prime} = \\cos x$</p><p>$(\\cos x)^{\\prime} = -\\sin x$</p><p>$(\\tan x)^{\\prime}=\\dfrac{1}{\\cos^2x}$</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Valemilehe mõiste selgitus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Käesolev dokument selgitab kitsa matemaatika õppekava juurde kuuluva valemilehe koostamise põhimõtteid ja põhjendab tehtud valikuid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valemileht (mida riiklikus õppekavas on nimetatud ka &quot;valemikogu&quot; või &quot;valemitekogu&quot;) on osa riiklikust õppekavast. See koondab teemade kaupa need valemid, mille tundmist ja rakendamist vastava ainekava kohaselt õppijalt eeldatakse. Kui valemilehel mõnda valemit pole, kuid kehtiv õppekava näeb selle valemi rakendamist ette, peab õppija olema võimeline seda valemit iseseisvalt meenutama ja rakendama.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valemilehte ei käsitleta kui ulatuslikku valemikogumikku (nt J. Reimandi ja K. Velskri „Valemeid matemaatikast”), mille on koostanud erinevad autorid ja kirjastused. Valemilehel puuduvad valemite kasutamise reeglid ja eeskirjad ega ülesannete lahendamise juhiseid. Valemilehe eesmärk ei ole asendada õppimist ega õpetamist, vaid toimida abivahendina – meeldetuletava tööriistana, millele õpetaja ja õppija saavad vastava teema käsitlemisel toetuda.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valemilehel esitatud valemitel puuduvad nimetused (nt „taandamisvalemid“, „põhiseosed“ vms), et suunata õppijat keskenduma valemite sisule ja rakendusvõimalustele, mitte vormilistele kategooriatele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kitsa ja laia matemaatika riiklikud ainekavad erinevad nii sisu kui ka käsitluslaadi poolest. Lähtudes sellest, on koostatud eraldi valemilehed vastavalt kummalegi ainekavale.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valemilehes sisalduvad valemid on mõeldud kasutamiseks õppetöös ja hindamissituatsioonides, ilma et õppijalt eeldataks nende meenutamist. Valemite eristamine õppekavade kaupa aitab vältida olukorda, kus kitsa matemaatika valemilehes esitataks valemeid, mida vastava ainekava järgi õppija ei pea valdama ega ole õppetöös käsitlenud.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Selline selge ja sihipärane eristamine toetab õppeprotsessi eesmärgipärast korraldust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Valemite valiku selgitus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Trigonomeetriliste seoste kohta on kitsa matemaatika riiklikus õppekavas öeldud:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "II kursus „Trigonomeetria“",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teisendab lihtsamaid trigonomeetrilisi avaldisi valemitekogu abil (rakenduvad maksimaalselt 3 erinevat trigonomeetrilist seost).",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Selgitus: Trigonomeetrilisi seoseid saab jagada rühmadesse vastavalt nende sisule ja kasutusvaldkonnale. Peamised rühmad on: trigonomeetria põhiseosed, täiendusnurga valemid, negatiivse nurga seosed, kahekordse nurga valemid, kahe nurga summa ja vahe trigonomeetriliste funktsioonide valemid, täisperioodi eraldamise valemid ning taandamisvalemid. Kitsa matemaatika riikliku õppekava kohaselt peab õpilane:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õpilane",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "defineerima mis tahes nurga siinuse, koosinuse ja tangensi, ehk sh täispöördest suurema ja negatiivse nurga",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "lugema trigonomeetriliste funktsioonide graafikuid, ehk sh mõistma funktsioonide perioodilisust ning nägema siinus- ja koosinusfunktsioonide graafikute erinevust $90^{\\circ}=\\frac{\\pi}{2}$ võrra",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teisendama nurki kraadimõõdust radiaanmõõtu ja vastupidi",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Sellest tulenevalt taandamisvalemid, kahe nurga summa ja vahe trigonomeetriliste funktsioonide ning kahekordse nurga valemid on valemilehest välja jäetud, kuna nende valemite sisuline mõistmine ja rakendamine eeldab matemaatilisi oskusi, mis jäävad kitsa matemaatika kursusest välja. Valemid on esitatud nii kraadi- kui ka radiaanmõõdus.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Funktsioonide tuletise leidmise kohta on kitsa matemaatika riiklikus õppekavas öeldud:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "VI kursus „Jadad. Funktsiooni tuletis“",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "leiab funktsioonide tuletisi, kasutades etteantud elementaarfunktsioonide tuletiste tabelit.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Selgitus: Põhilised elementaarfunktsioonid on järgmised funktsioonid: konstantne funktsioon, astmefunktsioon, eksponentfunktsioon, logaritmfunktsioon, trigonomeetrilised funktsioonid ja arkusfunktsioonid. Kitsa matemaatika riikliku õppekava kohaselt käsitletakse neist astmefunktsioone, trigonomeetrilisi funktsioone ning eksponent- ja logaritmfunktsioone. Seetõttu on arkusfunktsioonide tuletiste leidmise eeskiri antud tuletiste tabelist välja jäetud.</p>"
+        }
+      ]
+    }
+  ]
+}

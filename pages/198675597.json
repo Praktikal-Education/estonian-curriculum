@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hooldusõppe tasemel õppinud õpilastel on võimalus jätkata pärast põhikooli õpinguid II taseme kutseõppes. Sagedasetematel juhtudel siirduvad hooldusõppe lõpetanud õpilased järgmistele teenustele (nt tegevus-, päeva- ja perekeskuses).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Riiklikud teenused alates 18. eluaastast",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>igapäevaelu toetamise teenus;</li><li>igapäevaelu toetamise teenus päeva- ja nädalahoiu teenusena;</li><li>igapäevaelu toetamise teenus autismispektrihäirega inimesele;</li><li>ööpäevaringne erihooldus;</li><li>ööpäevaringne erihoolekande teenus äärmusliku abi- ja toetusvajadusega inimesele;</li><li>ööpäevaringne erihoolekande teenus autismispektrihäirega inimesele.</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovitatav kirjandus",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://www.hm.ee/sites/default/files/documents/2023-01/L%C3%B5ppraport%20(1).pdf",
+          "title": "Kallaste, E., Lang, A. jt. (2023) Lisaõppe ja kutsevalikuõppe analüüs. Eesti Rakendusuuringute Keskus Centar."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><em>Õpitulemuste lahtikirjutamisel ja õppesisus võetakse arvesse muutunud ühiskonnast tulenevaid ootusi, arvestades õppekava läbivaid teamasid ja juhindudes OSKA trendikaartidest.</em></p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li><em>Töörühm esitab soovitusliku õppesisu riiklikes õppekavades ja nende lisades kirjeldatud läbivate teemade raamistikus ehk õppesisu kirjeldamisel tuleb näidata seos läbiva teemaga. Õppesisu täpsustamisel tuleb võimalusel juhinduda OSKA trendikaartidel väljatoodud trendidest.</em></li><li><em>Töörühm arvestab õppeprotsesside kirjelduste koostamisel oma valdkonnaga seotud riiklike arengukavadega ja lähtub relevantsete rahvusvaheliste organisatsioonide antud juhistest ja soovitustest oma valdkonnas õppe korraldamiseks.</em></li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "järgib tänapäeva vene kirjakeele ja kõneetiketi norme",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitab oma mõtteid teemale ja suhtlusolukorrale vastavalt suuliselt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab oma mõtteid teemale ja suhtlusolukorrale vastavalt kirjalikult",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib juhendamise abil eesmärgile ja olukorrale vastava suhtluskanali ja -viisi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab õigesti õpitud ortogrammidega sõnu ja kirjavahemärgistab õigesti õpitud punktogrammidega lauseid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab vene keele häälikusüsteemi, eristab sõnaliike ning põhilisi käänd- ja pöördsõna vorme",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab teavet erinevatest kirjalikest allikatest ning kasutab leitud informatsiooni enda tekstides",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab loetu põhjal enda seisukohti ja väärtushoiakuid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib lapsevanema ja õpetajate abiga ja loeb sobivaid tervikteoseid nii eesti kui ka maailma lastekirjandusest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb loetust kokkuvõtte ning annab lugemissoovitusi kaaslastele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb mõtestatult, nimetab teksti teema ja sõnastab lühidalt peamõtte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab teksti kohta küsimusi ja avaldab arvamust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jutustab ja kirjutab loetust, nähtust ning kuuldust, suhtleb kaaslasega ja rühmas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab lihtsamaid probleemülesandeid paaris- ja rühmatöös",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja mõistab eakohaseid õpi- ja elutarbelisi ning huvivaldkondade tekste",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb teabekeskkondi ning visuaalseid ja tekstilisi infoallikaid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab oma tekstide kirjutamist, täiendab ja muudab oma teksti, loeb kirjutatu üle ja teeb parandusi, vormistab korrektse töö nii käsikirjas kui ka arvutis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esineb suuliselt, võtab sõna",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab omandatud keeleteadmisi tekstiloomes ja -analüüsis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab õigekirja kontrollimiseks ja tähenduste leidmiseks trüki- ja digisõnastikke",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu teemade kaupa",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Kirjakeele mõiste.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keelenormi mõiste ja variatiivsus. Kõnekultuur. Vene keele trüki- ja veebisõnastikud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Leksikoloogia ja fraseoloogia.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sünonüümid. Antonüümid. Homonüümid. Mitmetähenduslikud sõnad. Fraseologismid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Morfoloogia ja sõnamoodustus.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Nimisõna: käänduvad nimisõnad. Omadussõna iseloomustus. Omadussõnade täis- ja lühivormid. Isikuliste asesõnade käänamine. Tegusõnade pööramine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Süntaks.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõnaühendi struktuur. Lause. Lause pealiikmed ja kõrvalliikmed. Liht- ja laiendatud laused. Samaliigilised lauseliikmed. Liht- ja liitlause. Üte.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ortograafia ja interpunktsioon.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõna juurmorfeemi õigekiri. Sõnalõppude õigekiri eri sõnaliikidesse kuuluvates sõnades. НЕ kokku- ja lahkukirjutamine tegusõnadega. Samaliigiliste sõnade ja üte eraldamine kirjavahemärkidega. Interpunktsioon liitlausetes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tekst.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tekstiliigid: instruktsioon, käsikirjas kirjatatud teade, SMS-teade, e-kiri, jutustus, luuletus. Kommunikatsioon internetis. Tarbe- ja õppetekstide mõtestatud lugemine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teksti teema ja peamõtte. Dialoog. Monoloog.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara kasutamine erinevates tekstides.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teksti koostamine ja kirjutamine. Lihtsama teksti toimetamine. Omaloomingulise töö kirjutamine (jutt pildi, pildiseeria, küsimuste, skeemi, kaardi või kava põhjal, fantaasiajutt).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lugemiskogemus.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesmärgistatud lugemine, kuulamine, kokkuvõtte tegemine. Raamatust kokkuvõtte ning raamatu kohta lugemissoovituse väljendamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara ja suulise kõne arendamine.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ilukirjanduse teoste leksika aktiviseerimine, sõnavara laiendamine. Oma arvamuse väljendamine.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

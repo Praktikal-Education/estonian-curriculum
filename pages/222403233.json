@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetus loob võimaluse erinevate üldpädevuste kujundamiseks. Õppeprotsessis on selleks kõige parem kasutada igapäevaelu olukordi ja suunata õpilasi probleemülesandeid lahendama. Erinevad pädevused on vajalikud elus toimetulemiseks ja erinevate probleemide lahendamisel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kultuuri- ja väärtuspädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaga tegelemine arendab erinevaid väärtusi: visadus, järjekindlus, täpsus ja ausus.</p><p>Matemaatikas õpetame oma tegevusi ja valikuid põhjendama. Ühele ülesandele eri vaatenurgast lähenemine ja erinevate lahenduste otsimine soodustavad õpilastel samasuguse mõtteviisi ülekandmist elulistesse kontekstidesse, näiteks mõtlema oma käitumisele kaasõpilaste, õpetajate ja teiste inimeste vaatevinklist lähtuvalt.</p><p>Looduse ja ühiskonna protsesse ning nende seaduspärasusi aitab mõista vastava kontekstiga tekstülesannete lahendamine. Õpilasi tuleb suunata otsima lisaandmeid, esitama antud situatsiooni kohta küsimusi ja nendele vastuseid leidma. Õpilased saavad tutvuda eri ajastute ja rahvaste kultuuriga ning tajuda matemaatika rolli selles. Õpilasi tuleks suunata nägema geomeetrias õpitut ümbritsevas looduses ja arhitektuuris.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Sotsiaalne ja kodanikupädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Vastutustundlikku käitumist ühiskonnaliikmena saab matemaatikas kasvatada eeskätt sellesuunaliste tekstülesannete lahendamise kaudu. Õpilased saavad päevakajalisi andmeid otsida ajakirjandusest või internetist ning neid analüüsida ja matemaatiliselt interpreteerida.</p><p>Matemaatika õppimise aspektist on oluline õpilastevaheline koostöö, mille käigus kasvab õpilase julgus küsida selgitusi, esitada oma ettepanekuid ja neid põhjendada, oskus hinnata kaaslaste lahenduste õigsust. Kõige selle kaudu süveneb materjalist arusaamine ja areneb ka oskus ennast matemaatiliselt väljendada.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Enesemääratluspädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilase iseseisvuse väljakujunemine matemaatikas eeldab järjekindlat ja järkjärgulist tööd. Et õpilane saaks hinnata oma tugevusi ja nõrkusi matemaatikas, peab ta saama ülesandeid lahendada ka iseseisvalt, vajadusel õpetajalt abi saades.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpipädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatika eduka õppimise alus on ainest aru saamine. Tunnis peaks kasutama selliseid meetodeid, mis võimaldavad õpilasel uurida seoseid, tuua näiteid, selgitada ja põhjendada oma mõttekäike. Reflekteerides peaks õpilane oskama vastata küsimustele: mida ma teen; milleks ma nii teen; kuidas ma toimin ja milleni jõudsin.</p><p>Üldist õpipädevust arendab eriti nn probleemülesannete lahendamine, mille käigus arenevad analüüsi- ja sünteesioskus, üldistamise ja analoogia kasutamise oskus ning seeläbi oskus õpitut üle kanda uude konteksti.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Suhtluspädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Oma mõtete selge ja lühike esitus, oskus mõista teksti jm infot ning seoste loomine toimub eeskätt tekstülesannete lahendamise kaudu, kus andmete ja otsitavate vaheliste seoste paremaks mõistmiseks kasutatakse erinevaid visualiseerimise võimalusi. Õpilane õpib tundma erinevaid info esitamise viise (tabel, joonis, diagramm, graafik, valem jne) ja nendega ümberkäimist.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikas arendatakse oskusi, mis on aluseks tõenduspõhiste otsuste tegemisel. Õpitakse tundma andmete töötlemise, mõõtmise, võrdlemise, liigitamise, süstematiseerimise meetodeid ja tehnikaid, kasutades matemaatikale omast keelt ning omandatud matemaatilisi, loodusteaduslikke ja/või tehnoloogiaalaseid teadmisi-oskusi ja (abi)vahendeid.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ettevõtlikkuspädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Oskus näha ja sõnastada probleeme, genereerida ideid, eluliste ülesannete lahendamine, ühele ülesandele erinevate lahendusteede leidmine – kõik see arendab ettevõtlikkust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Digipädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Suutlikkus kasutada õppimisel lihtsamaid digikeskkondi ja rakendusi; leida ja säilitada digivahendite abil infot; orienteeruda ja tegutseda infotehnoloogilises maailmas eesmärgipäraselt ja turvaliselt järgides digikeskkonnas üldkehtivaid moraali- ja väärtuspõhimõtteid.</p>"
+        }
+      ]
+    }
+  ]
+}

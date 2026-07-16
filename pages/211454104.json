@@ -1,0 +1,628 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Elektrivool ja selle toimed. Vooluringid. Pooljuhid.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab elektrivoolu tekkemehhanismi metallides, vedelikes ja gaasides mikrotasemel;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab ja teeb katse vooluallika elektromotoorjõu ja sisetakistuse määramiseks ning analüüsib tulemusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib graafiliselt metallide eritakistuse sõltuvust temperatuurist.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib leedlambi takistuse sõltuvust rakendatavast pingest ja polaarsusest ning analüüsib katse tulemusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab pooljuhtseadmete tööpõhimõtet ja rakendusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Elektrivoolu tekkemehhanism. Vedelike ja gaaside elektrijuhtivus. Ohmi seadus. Vooluallika elektromotoorjõud ja sisetakistus. Metalli eritakistuse sõltuvus temperatuurist. Pooljuhtide elektrijuhtivus; pn-siire. Valgusdiood (LED, leed). Fotoelement. Valgusrakk, päikesepaneel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>alalisvool, laengukandjate kontsentratsioon, elektritakistus, vooluallika elektromotoorjõud ja sisetakistus, pooljuht, pn-siire.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Voolutugevuse, pinge ja takistuse mõõtmine multimeetriga.</li><li>Vooluallikate uurimine.</li><li>Tutvumine pooljuhtelektroonikaga (diood, valgusdiood, fotorakk vm).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>„Elektrivool ja selle toimed. Vooluringid. Pooljuhid“</strong> on nii teooria kui ka rakenduste teema. Siin on oluline püüda, et need kaks poolt püsiks tasakaalus. Kus ja kuidas tasakaaluolek tekib, sõltub õpetaja ja õpilaste koostööst. Ühelt poolt see, milline on õpetaja maailmapilt ja kogemus. Teisest küljest, millised on õpilaste huvid ja võimed. Valiku küsimus, kas Teooria (T) või Praktika (P)?</p><p>(T) <strong>Elektrivooluga seostuvat võib mõtestada fundamentaalselt,</strong> käsitledes eelkõige seadusi, reegleid ning lisades arvutused ja graafilise analüüsi.</p><p>(P) <strong>Elekter,</strong> st elektrienergia, elektrivõrk ja elektriseadmed, elektroonika on meie igapäevas nii iseenesestmõistetavalt oluline, et on võimalik terve teema sisustada rakenduste, elektriseadmete ja elektroonika tutvustamise ja uurimisega.</p><p>(T) <strong>Mõõtmine</strong> on kogu füüsikas ja seega ka füüsikaõppes märgilise tähendusega. Elektrimõõtmiste praktilised tööd arendavad üldist arusaama mõõtmisest, mõõtemääramatusest ja mõõtevigadest. <strong>Tehniline kirjaoskus,</strong> sh skeemide joonestamine ja lugemine on eriti oluline insenerihariduses. Nii ka pooljuhtelektroonikaga tutvumine ja selle mõistmine mikrotasandil.</p><p>(P) Kõik ei saa inseneriks, ammugi elektriinseneriks. <strong>Siiski on kõigile oluline ja kasulik tunda põhimõtteid, elektriga seotud suurusi, nende ühikuid.</strong> Vooluringi kokkupanek, põhisuuruste mõõtmine, meisterdamine ja leiutamine, on oluline mõistmaks, mis meie elektrivõrkudes toimub. Mis see elekter on, kuidas see mõjutab ühiskonda ja majandust?</p><p><strong>Sellel teemal on teatud seos nii kohaliku kui ka globaalse energeetika probleemidega.</strong> Elektrivarustus on praeguseks ühiskonna toimimise võtmeküsimus. Seepärast on energeetikal, energiaressursside leidmisel ja kasutamisel väga lai globaalne kontekst. Sama oluline, kui mitte olulisemgi, on elektersidel põhinev kommunikatsioon.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tasub alustada 9. klassis õpitu meeldetuletamisega, kus on omandatud peamised baasmõisted ja -oskused. Näiteks koostada vooluringid jada- ja rööpühendusest, teha multimeetriga erinevaid mõõtmisi. Alles seejärel liikuda antud kursuse teemade juurde.</li><li>Patarei sisetakistuse ja elektromotoorjõu mõõtmiseks kasutada osaliselt tühje patareisid, siis saab 10-amprise mõõtepiirkonnaga ampermeetriga näidata, kuidas kellassepp patareisid kontrollib ja et suure EMJ väärtusega patarei ei ole ilmtingimata täis patarei.</li><li>Päikesepaneelid on üks olulisemaid pooljuhtide rakendusi ja fotoelementide kohta leiab mitmeid häid simulatsioone, aga tasub olla kriitiline, et mitte näidata liigselt lihtsustatud videoid; võiks isegi õpilastega koos analüüsida, milline video paremini päikesepaneelide tööd selgitab ja miks.</li><li>Kooli tingimustes on võimalik suhteliselt lihtsate vahenditega teostada STEM projekt vesiniku tootmise ja kütusena kasutamise kasuteguri määramiseks. Juhtides veest läbi elektrivoolu hakkab katoodil eralduma gaasina vesinik ja anoodil hapnik. Juhtivuse suurendamiseks on hea kasutada elektrolüüti, näiteks NaCl (kehvem variant) või KOH (parem variant). Mõõtes voolutugevuse, pinge ja aja, saame määrata elektrivoolu töö ehk kulutatava elektrienergia. Ajaühikus eralduva vesiniku ruumala järgi saame arvutada elektrolüüsi kasuteguri (Faraday elektrolüüsi seadus ja Clapeyroni-Mendelejevi võrrand). Teine osa katsest on vesiniku põlemisel eraldunud soojuse kasutaine vee soojendamiseks ja kasuteguri määramine. Selle projekti käigus tekib õpilasel ettekujutus, et kõik energeetilised protsessid toimuvad teatava kasuteguriga.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Määratakse patarei sisetakistus ja elektromotoorjõud, graafiliselt. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT4.)</p><p>Superkondensaatori üles- ja mahalaadimisel pinge graafiku uurimine</p><p>Metalli eritakistuse katseline määramine. Takistuse temperatuuriteguri määrmaine. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT4.)</p><p>Laboratoorse päikesepaneeli abil saab uurida väljundpinge sõltuvust valguse langemisnurgast või intensiivsusest mudeldades nii paneeli asukohta ja asendit näiteks koolimaja katusel. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT1, LT4, LT5)</p><p>Päikeseenergia salvestamine ja kasuteguri määramine (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT2, LT3, LT4, LT7.)</p><p>Eksperimendi läbiviimine vesiniku tootmise ja kütusena kasutamise kasuteguri määramiseks.</p><p>Kõik rühmad sooritavad pärast eksperimenti ettekande, kus nad toovad välja katsevahendi konstruktsiooni ja valikute põhimõtted. Esitatakse saadud tulemusi ja järeldusi. (Õpipädevus, suhtluspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT1, LT3, LT4, LT5.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Horisontaalne - tehnikas leedide rakendamise võimalused ja nende eelised/puudused, gaaside elektrijuhtivuse rakendused näiteks kiirgusmõõtjas või suitsuanduris; keskkond ja energiatarbimine - millised on päikesepaneelide eelised ja puudused taastuvenergiaallikatena.</p><p>Vertikaalne - õpilased on elektrivoolu toimeid ja elektrolüütide lahuste juhtivust õppinud 9. klassis füüsikas ja 10. klassis keemias, seega on õpitud mõisteid, mis seotud elektrolüüsiga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Eelnevalt on vaja diferentseerimise vajaduse huvides välja selgitada, millised on õpilaste huvid ja kuivõrd võib neid tuleviku õpingutes füüsikat vaja minna. Soovitav on koostada praktiliste tööde hindamismudel, mis näiteks koosneb kolmest osast: 1) idee ja meetodi arendus (uurimisküsimus, teooria, töökäik muutujate valik jms), 2) mõõtmistulemuste kogumine ja presenteerimine (tabelid, graafikud) ning 3) tulemuste analüüs, järeldused ja kokkuvõte. Hindamismudelit saab vastavalt praktilise töö iseloomule kohandada. Hinnata võib arvestuslikult erinevate ettekannete ja esitluste tegemist, ajatelgede loomist; koostatud plakateid, tunnitegevuse käigus täidetud töölehti; rühmades probleemide lahendamist jmt. Kõige olulisem on, et õpilastele oleksid selged hindamis kriteeriumid ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Hea hindamismudel sisaldab ka viiteid edasistele õpingutele (kus ja miks neid oskusi ja teadmisi edaspidi õppimise käigus vaja on?). Oluline on märkida, et hindamisel ei tohi aineõpetaja unustada enda ajaressurssi. Õpilast abistavad enesehindamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning).</em> Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p><p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas. Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "phet.colorado.edu"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vahelduvvool.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "võrdleb vahelduv- ja alalisvoolu ning analüüsib vahelduvvoolu pinge ja voolutugevuse ajast sõltuvuse graafikuid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab trafo ja generaatori toimimispõhimõtet ja rakendusi vahelduvvooluvõrgus ning elektrienergia ülekandes.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib taastuvenergiaallikate kasutuselevõtuga seotud probleeme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vahelduvvool. Vahelduvvoolu generaator. Elektrienergia ülekanne. Trafod. Vahelduvvooluvõrk. Elektrivoolu töö. Elektriseadmete võimus. Energeetika. Elektriohutus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>elektrivoolu töö ja võimsus, vahelduvvool, trafo, kaitsemaandus, voolutugevuse ning pinge efektiiv- ja hetkväärtused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Vahelduvvooluseadmete võimuse mõõtmine.</li><li>Vahelduvvoolu alaldamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>„<strong>Vahelduvvool“</strong> on teema, kus kirjeldatakse meie elektrivõrkudes tegelikult toimuvat. Kuidas elektrienergiat üle kantakse ja kuidas seda teisteks energialiikideks muundatakse? Kuidas elekter meile kasulikku tööd teeb ja mida tähendab elektriseadmete võimsus? Mis sellest kasu on ja mis see maksab? Vähe sellest. Võib isegi teada saada, mis on kõrgepinge ja miks on see ohtlik. Samuti tasub läbi mõelda taastuvenergia ja elektri salvestamise võimalused.</p><p><strong>Ohutute elektrivõrkude</strong> ja -jaamade projekteerimise ning ehitamise jätame me küll energeetikute hooleks, aga kodus või tööl peame siiski ise oskama mõistlikud ja ettevaatlikud olla. Need teadmised ongi päriselt olulised.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Meelde tuletada ohutus elektriseadmete käsitlemisel, aga ka multimeetriga töötamisel ja et kui oluline on mõõtepiirkonnast kinni pidamine, näiteks kui soovitakse määrata võrgupinge faasi, neutraali või maandusjuhet.</li><li>Elektri tootmise ja jaotusvõrgu osa on väga eluline ja võimaldab detailsemalt arutada, kuidas elektrivõrk töötab, mille eest me täpsemalt maksame ja millised on säästmisvõimalused.</li><li>Varem õpitud ja antud teema baasil saab oluliselt kõrgemal tasemel arutada erinevate energiatootmise viiside eeliseid ja puuduseid ning kujundada kriitilist mõtlemist avaldatud artiklite kohta.</li><li>Juhtida tähelepanu elektrienergia tootmise olulisele nüansile - elektrienergiat tuleb reeglina toota sünkroonis tarbimisega, sest selle salvestamine on kulukas ja mahtusid arvestades ka ebaratsionaalne.</li><li>STEM projekt: elektrivoolu generaatori konstrueerimine kas algkomponentidest või kasutada valmis mikromootorit. Selle projekti eesmärgiks on demonstreerida, et elektrivoolu abil on võimalik muuta elektrienergia mehaaniliseks energiaks ja vastupidi. Mähise pöörlemisel on võimalik mehaaniline energia muuta elektrienergiaks. Saab võrrelda töörühmade pakutud erinevate lahenduste maksimaalset väljundpinget ja -voolutugevust ehk võimsust. Samuti saab hinnata konstruktsiooni töökindlust ja mugavust. Juhul, kui rühmas ei ole ideid, siis võib näidata erinevaid lahendusi, mis on leitavad <em>youtube`is</em>.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rühmatööna uurida, kuidas kujuneb pere elektriarve, selleks tuleks võrrelda erinevaid elektripakette ja võrgutasusid ning koostada pere elektriarve, mis sisaldaks tavapäraste elektriseadmete arvestuslikku võimsusi ja tööaegu. (sotsiaalne ja kodanikupädevus, suhtluspädevus, (LT1, LT4, LT5.)</p><p>Õpetaja range järelvalve all uurida seinakontakti erinevaid klemme ja määrata multimeetriga võrgupinge väärtus, faasijuhe ning 0-juhe ehk neutraal. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT3, LT6.)</p><p>Kõik rühmad sooritavad pärast eksperimenti ettekande, kus nad toovad välja katsevahendi konstruktsiooni ja valikute põhimõtted. Esitatakse saadud tulemusi ja järeldusi. (Õpipädevus, suhtluspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT1, LT2, LT3, LT4, LT5.)</p><p>Võrrelda elektriautode ja sisepõlemismootoriga autode jalajälge (nii tootmise kui ka tarbimise aspektid) (Sotsiaalne ja kodanikupädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT1, LT2, LT5, LT7.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>horisontaalne - tehnikas on teadmised faaside, maanduse, ohutuse kohta väga olulised; majanduses elektri jaotusvõrgu ülesehitus ning elektritarbimise ja -tootmise iseärasused aitavad aru saada elektriarvete eri komponentidest. Matemaatikas on õpitud koosiinus- ja siinusfunktsioone, mis kirjeldavad ka vahelduvvoolu võnkumisi</p><p>Vertikaalne - 9. klassis on õpitud teemas “Elekter kodus” vahelduvvoolu baasmõisteid, aga ainult kvalitatiivselt; mehaanika ja elektromagnetismi kursustes on õpitud mehaanilisi ja elektromgnetvõnkumisi ja -laineid ning nende graafilist kirjeldust. Elektromagnetismis on õpitud elektromagnetilist induktsiooni ja generaatorite töö põhimõtet.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Eelnevalt on vaja diferentseerimise vajaduse huvides välja selgitada, millised on õpilaste huvid ja kuivõrd võib neid tuleviku õpingutes füüsikat vaja minna. Et antud juhul on tegu väga elulise teemaga, tuleks hindamisel keskenduda just praktilise väljundile ja hindelise töö võiks koostada lähtuvalt Eestis kasutava jaotusvõrgu tehnilistest ja majanduslikest andmetest (võrgupinge, tootmis- ja ülekande võimsused, võrgutasud, elektrienergia paketid jne), mis annavad õpitule suurema tähenduse ja annavad teadmisi edaspidiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p><p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas. Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "phet.colorado.edu"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Molekulaarfüüsika.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "nimetab ideaalgaasi mudeli tunnuseid ning seostab mikro- ja makroparameetreid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab ideaalgaasi olekuvõrrandit probleemülesandeid lahendades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab isoprotsesside graafikuid termodünaamiliste protsesside analüüsimiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Siseenergia. Ideaalgaasi mudel. Ideaalgaasi olekuvõrrand. Isoprotsessid. Ideaalse gaasi mikro- ja makroparameetrid, nendevahelised seosed. Molekulaarkineetilise teooria põhialused. Siseenergia muutmise viisid. Termodünaamiline protsess.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>siseenergia, temperatuur, ideaalgaas, olekuvõrrand, avatud ja suletud süsteem, isoprotsess.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Gaasi paisumise uurimine.</li><li>Materjalide soojusjuhtivuse võrdlemine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>„Molekulaarfüüsika“</strong> on huvitav ja tähenduslik teema. Ehk saab just siin selgemaks mõistete <strong>soojus ja temperatuur</strong> erinevus. Samuti saab ära õpitud sõnade <strong>temperatuur ja termomeeter</strong> kasutamine tavakeeles ning füüsikatunnis. <strong>Molekulaarnähtused,</strong> nagu difusioon, osmoos, soojuspaisumine on siin päris head näited. <strong>Gaaside protsesse ja seadusi on muidugi tarvis,</strong> et hiljem soojusmasinate teemast aru saada ja natuke hiilib juba sisse ka <strong>statistiline maailmapilt.</strong> On küll üht-teist olulist selles teemas, et jõuda termodünaamikani.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tunnis võiks arutleda, näiteks kas keemias gaasiülesannetes etteantud reaktsioonides eralduvad või kuluvad gaasid vastavad ideaalse gaasi mudelile ja seega kas gaasi molaarruumala kasutamine on õigustatud, või kas bioloogias kasutatav avatud või suletud süsteemi mõiste on identne füüsikas kasutatavaga.</p><p>Ideaalse gaasi olekuvõrrand aitab aru saada keemias õpitud „müstilisest“ 22,4 dm<sup>3</sup>/mol.</p><p>STEM projekt: kuumaõhupalli konstrueerimine ja selle tõstejõu määramine. Projekti eesmärgiks on konstrueerida võimalikult suure tõstejõuga kuumaõhupall. Tõstejõu mõõtmiseks on mõistlik kasutada reaalajas mõõtvat ja andmeid salvestavat dünamomeetrit, et võimalikult täpselt määrata maksimaalset tõstejõudu. Enne kuumaõhupalli disainimist võiks arutleda, miks ta ülesse liikuma hakkab (tihedam õhk surub) ja kuidas seda valemite abil tõestada. Samuti peavad õpilased kuumaõhupalli disainimisel hindama millised osad soodustavad ja millised pärsivad kuumaõhupalli tõstejõudu. Tõstejõu määramiseks võib kasutada dünamomeetrit mis on kinnitatud kuumaõhupalli külge või kaalu, millel paikneb koormis, mis on kinnitatud kuumaõhupalli külge.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuumaõhupalli konstrueerimine ja selle tõstejõu määramine.</p><p>Kõik rühmad sooritavad pärast eksperimenti ettekande, kus nad toovad välja katsevahendi konstruktsiooni ja valikute põhimõtted. Esitatakse saadud tulemusi ja järeldusi. (Õpipädevus, suhtluspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT2, LT3, LT4.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Horisontaalne - keemias kasutusel olev gaasi molaarruumala väärtus tuleneb ideaalgaasi olekuvõrrandist, kui aluseks võtta standardtingimused; võrrandit ennast keemia tavakursuses ei õpita, aga olümpiaadiülesannetes läheb sageli vaja; bioloogias on olulisteks mõisteteks “avatud ja suletud süsteemid”.</p><p>Vertikaalne - põhikoolis on õpitud 8. kassis rõhku vedelikes ja gaasides, rõhuühiku paskali sisu; 9. klassis aine siseenergiat ja selle komponente - osakeste kineetilist ja potentsiaalset energiat. samuti siseenergia muutmise viise - mehaanilist tööd ja soojusülekannet. Mikro- ja megamaailma kursuses tegeletakse reaalgaasiga ja selle erinevusega ideaalgaast, näiteks olekumuutuste võimalikkusega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilast abistavad põhimõistete omandamisel ja enesehindamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning).</em> Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p><p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas. Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "phet.colorado.edu"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Termodünaamika seadused (printsiibid). Soojusmasinad.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab isoprotsesside graafikuid termodünaamiliste protsesside analüüsimiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb avatud süsteemi ja suletud süsteemi mõistet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab termodünaamika I ja II seadust probleemülesandeid lahendades ning seletab kvalitatiivselt entroopia mõistet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab termodünaamika seadusi soojusmasinate tööpõhimõttega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib taastuvenergiaallikate kasutuselevõtuga seotud probleeme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Termodünaamika I seadus, selle seostamine isoprotsessidega. Avatud ja suletud süsteemid. Adiabaatiline protsess. Soojusmasina tööpõhimõte, soojusmasina kasutegur. Termodünaamika II seadus. Pööratavad ja pöördumatud protsessid looduses. Entroopia. Eesti energiavajadus. Energeetikaprobleemid maailmas ja nende lahendamise võimalused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>soojushulk, adiabaatiline protsess, pööratav ja pöördumatu protsess, soojusmasin, entroopia, energeetika.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Adiabaatilise protsessi uurimine.</li><li>Mehaanilise töö ja soojushulga seoste uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema <strong>„Termodünaamika seadused (printsiibid). Soojusmasinad“</strong> on kõigist koolifüüsika teemadest kõige olulisem. Siin lõimub varem õpitud klassikaline füüsika kaasaegse teadusega. <strong>Mehaanilise energia jäävuse seadus laieneb</strong> mehaanikast soojusnähtustele ja omandab printsipiaalse tähenduse. Soojuse käsitlemisel lisanduvad <strong>siseenergia ja soojushulga mõisted.</strong> Soojusülekande ja soojuse arvel tehtava mehaanilise töö käsitlemisel saavad igas mõttes oluliseks mõisted <strong>soojusmasin ning kasutegur.</strong></p><p>Esmapilgul <strong>juhuslikud ja kaootilised nähtused</strong> saavad ometi seletuse statistiliselt, tõenäosuslikult. Siitkaudu avaneb uus vaade põhjuslikele seostele. Maailmas, looduses, atmosfääris ja maailmameres toimuv paistab tõeliselt globaalses kontekstis.</p><p>See teema valmistab ühtlasi õppureid ette kohtumiseks <strong>aine olemuse teemaga.</strong> Mikromaailma mõistmine tõenäosuslikult innustab tegelema aatomi- ning tuumafüüsika küsimustega, sh tutvuma kvantmehaanikaga.</p><p><strong>Termodünaamikas võib ja saab energiateemaliste arutelude kaudu süveneda keskkonna muutlikusse ning inimtegevuse osasse selles.</strong> Näiteks tulevad siin mängu fossiilkütuste põletamine ja süsinikuringe, kust võib luua selge seose füüsikaseaduste ja keskkonnaprobleemide mõistmise vahel. Leiutushimulised noored, kes rõõmuga uurivad näiteks päikesepaneelide ja tuulikute füüsikat ja insenerilahendusi, saavad ühtlasi jätkusuutliku ja keskkonnasõbraliku ühiskonna võimaluste üle loodusteaduslikult arutleda.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Külmkapi näitel saab seletada soojusmasinate tööpõhimõtet, ka energiasäästlikku käitumist külmkapi kasutamisel saab tähenduslikumaks, kui teada, kuidas külmkapp töötab.</p><p>Tasub juhtida tähelepanu, et küttesüsteemides kasutatavad soojuspumbad vajavad tööks elektrit ja suurte elektrikatkestuste korral vajatakse lisaküttekehi, mis ei baseeru elektrienergial.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teha lihtsaid katsed: a) vees tagurpidi paikneava avatud pudeliga, mida soojendatakse soojade kätega, et näha gaasi paisumisega tekkivaid mulle, b) suuremasse süstlasse asetatud väike kergelt täispuhutud õhupall, mis ruumala muutusest tingitud rõhu muutusest hakkab kas paisuma või surutakse õhupall hoopis kokku. (LT3.)</p><p>Õpilased võiksid uurida gaaside seaduste videoid ja proovida neid järgi teha. (Digipädevus. LT3.)</p><p>Külalisloeng Eesti energeetilisest bilansist. (Ettevõtlikkuspädevus, LT1, LT6, LT7, LT8.)</p><p>Õppekäigud energiatootmise ettevõtetesse (koostööjaamad, katlamajad, elektrijaamad. (Ettevõtlikkuspädevus, LT1, LT5, LT6, LT7, LT8.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>horisontaalne - matemaatikas õpitud võrdeline ja pöördvõrdeline sõltuvus on aluseks isoprotsesside kvantitatiivsele kirjeldamisele. Geograafias gaaside paisumise ja õhurõhu seosed. Keemias on õpitud pöörduvaid ja pöördumatuid reaktsioone, põlemise olemust. Igapäevaelulised rakendused, näiteks, kuidas töötab süstal, gaaside soojuspaisumine ja kokkutõmbumine balloonides, jalgratta pump, gaaside paisumise ekstreemne töö - plahvatus, Tehnikas kõik, mis toimub sisepõlemismootorites; soojuselektrijaamad ja aurutöö; külmkapp ja konditsioneer, maaküte.</p><p>Vertikaalne - mehaanikas õpitud positiivne ja negatiivne töö, energia ja töö omavahelised seosed. Varasemalt on tähelepanu pööratud rohkem mehaanilise energia jäävuse seadusele, siis nüüd on tegemist TD I seaduse näol gaasidele rakenduva jäävuse seadusega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hinnata võib arvestuslikult erinevate ettekannete ja esitluste tegemist näiteks isoprotsesside ja/või soojusmasinate tööpõhimõtete kohta.</p><p>Kuna andud teemas kasutatakse nii isoprotsesside kui ka gaasi töö graafilist kirjeldamist (sh ka soojusmasinate töö), võiks ka kontrolltööd või rühmatööd sisaldada soojusprotsesside graafilist analüüsi.</p><p>Kõige olulisem on, et õpilastele oleksid selged hindamiskriteeriumid ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Hea hindamismudel sisaldab ka viiteid edasistele õpingutele (kus ja miks neid oskusi ja teadmisi edaspidi õppimise käigus vaja on?).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p><p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas. Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "phet.colorado.edu"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Matemaatika valdkonnad",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatika ainekava lihtsustatud õppes haarab viit valdkonda, mida käsitletakse tasakaalustatult kõikides klassides.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "1. Naturaalarvud. Naturaalarvude aritmeetika.",
+          "children": [
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>I arenguperiood<br />(1.-2. klass)</th><th>II arenguperiood<br />(3.-5. klass)</th><th>III arenguperiood<br />(6.-7. klass)</th><th>IV arenguperiood<br />(8.-9. klass)</th></tr></thead><tbody><tr><td>Arvuvald 1-20<br />Hulkade loendamine praktiliselt ja materialiseeritult<br />Hulga, arvu ja numbri seose loomine<br />Juurde- ja äraloendamine</td><td>Arvuvald kuni 1000<br />Arvude moodustamine toetudes tajukujutlustele<br />Neli aritmeetilist tehet</td><td>Arvuvald kuni 100 000<br />Arvude moodustamine toetudes tajukujutlustele<br />Neli aritmeetilist tehet</td><td>Arvuvald kuni 1 000 000<br />Arvude moodustamine toetudes tajukujutlustele<br />Neli aritmeetilist tehet</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2. Suurused. Mõõtühikud ja mõõtmine.",
+          "children": [
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>I arenguperiood<br />(1.-2. klass)</th><th>II arenguperiood<br />(3.-5. klass)</th><th>III arenguperiood<br />(6.-7. klass)</th><th>IV arenguperiood<br />(8.-9. klass)</th></tr></thead><tbody><tr><td>Esemete praktiline võrdlemine ja järjestamine suurustunnuste alusel<br />Hulkade võrdsustamine</td><td>Hulkade ja arvude kahesuunaline võrdlemine järguühikute alusel</td><td>Arvuliste väärtuste kahesuunaline võrdlemine</td><td>Arvuliste väärtuste kahesuunaline võrdlemine</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "3. Murdarvud. Murdude aritmeetika. Protsent.",
+          "children": [
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>I arenguperiood<br />(1.-2. klass)</th><th>II arenguperiood<br />(3.-5. klass)</th><th>III arenguperiood<br />(6.-7. klass)</th><th>IV arenguperiood<br />(8.-9. klass)</th></tr></thead><tbody><tr><td>Terviku ja tema osa võrdlemine – üks ja palju</td><td>Terviku ja tema osa võrdlemine<br />Praktilise tegevuse teel osa leidmine tervikust</td><td>Osa leidmine tervikust skemaatiliselt<br />Osa leidmine arvust<br />Aritmeetilised tehted murdudega</td><td>Murru põhiomadus (praktiliselt ja skemaatiliselt)<br />Terviku leidmine osa järgi<br />Protsendi leidmine arvust<br />Neli aritmeetilist tehet murdudega.</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "4. Geomeetria algkursus.",
+          "children": [
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>I arenguperiood<br />(1.-2. klass)</th><th>II arenguperiood<br />(3.-5. klass)</th><th>III arenguperiood<br />(6.-7. klass)</th><th>IV arenguperiood<br />(8.-9. klass)</th></tr></thead><tbody><tr><td>Kujundite ring, nelinurk, kolmnurk eristamine<br />Joonestamine orientiiride abil<br />Praktiline modelleerimine</td><td>Praktiline mõõtmine<br />Lõikude mõõtmine<br />Kujutlus nurkade liikidest<br />Kujundite joonestamine</td><td>Mõõtkava<br />Hulknurkade ümbermõõdu arvutamine<br />Sümmeetria</td><td>Ringi osad<br />Ümbermõõdu, pindala ja ruumala arvutamine<br />Ruumikujundite praktiline äratundmine, eristamine, nimetamine</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "5. Sotsiaalmatemaatika. Eluliste probleemide praktiline lahendamine.",
+          "children": [
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>I arenguperiood<br />(1.-2. klass)</th><th>II arenguperiood<br />(3.-5. klass)</th><th>III arenguperiood<br />(6.-7. klass)</th><th>IV arenguperiood<br />(8.-9. klass)</th></tr></thead><tbody><tr><td>Matemaatiliste jutukeste koostamine ja lahendamine<br />Ühetehteliste tekstülesannete lahendamine summa ja vahe leidmiseks</td><td>Kahetehteliste tekstülesannete lahendamine</td><td>Kolmetehteliste tekstülesannete lahendamine toetudes lahendusplaanile</td><td>Probleemsituatsioonide põhjal mitmetehteliste tekstülesannete lahendamine</td></tr></tbody></table>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

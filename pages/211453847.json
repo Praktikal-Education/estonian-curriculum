@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Matemaatika 7. klassi õppe kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tehnilistel põhjustel on materjalid hetkel esitatud failidena.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453847/VII_klass.pdf?version=1&modificationDate=1709295062583&api=v2",
+          "title": "VII_klass.pdf"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453847/VII_klass.docx?version=1&modificationDate=1709295053519&api=v2",
+          "title": "VII_klass.docx"
+        }
+      ]
+    }
+  ]
+}

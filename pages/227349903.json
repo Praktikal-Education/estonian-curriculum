@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse koostamise alus on digipädevuste mudel gümnaasiumile ja digipädevuse kirjeldus Euroopa Liidu Nõukogu 22. mai 2018. a soovituses võtmepädevuste kohta elukestvas õppes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Asjade internet, ka nutistu, võrkvärk (inglise keeles Internet of Things, IoT) tähendab seadmeid, mis on mingil moel ühendatud andmesidevõrku ning mis saavad oma ülesande jaoks olulise info kogumise ja vahetamisega iseseisvalt hakkama. Inimese ülesanne on kogutud andmete põhjal õigete järelduste tegemine ning seeläbi vastavate otsuste vastuvõtmine. Selliste seadmete kasutusvõimalused täienevad iga päevaga, alustades personaalsest meditsiinist ja targast kodust ning lõpetades kodumasinate, targa linna ning isejuhtivate sõidukitega. Valikkursus võimaldab õpilastel saada ülevaade asjade internetist, selle olemusest ja toimimisest, neljandast tööstusrevolutsioonist ja sellest, kuidas värkvõrk meie elu muudab (s.o nutikatest lahendustest kodus, tööstuses, põllumajanduses, hariduses, tervishoius ja hoolekandes), aga ka värkvõrgu kasutegurist ja väljakutsetest.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursus algab ülevaatega digitaalsesse transformatsiooni, selgitatakse asjade interneti toimimise põhimõtteid ning tutvustatakse värkvõrgu seoseid suurandmete, masinõppe, tehisintellekti, infovõrkude ja pilveteenustega läbi erinevate värkvõrgu näidete maailmast ja Eestist (nutikad linnad, nutikad kodud, sõidukid, liftid jm).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpitav toetab õpilase arusaama infovõrkudest, nutiseadmetest ning nende koostoimimisest inimese elu hõlbustamiseks. Valikkursus koosneb seitsmest teemat. Iga uus teema algab teoreetilise sissejuhatusega, millele järgneb arutelu ja iseseisev töö omandatud teadmiste kinnistamiseks. Valikkursuse käigus töötatakse grupitööna välja nutilahendi mudel, mida esitletakse kaasõpilastele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse käigus omandatut on võimalik arendada jätkates õpinguid kutsehariduskeskustes erinevatel info- ja kommunikatsioonitehnoloogia erialadel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab värkvõrgu olemust, vajalikkust, komponente ja toimimist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kuidas värkvõrk inimeste igapäevaelu hõlbustab",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "on kursis pilvelahenduste, suurandmete ja tehisintellektiga ning mõistab nende seoseid värkvõrguga",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab värkvõrgu tugevaid ja nõrku külgi ning ohtusid, mõistab värkvõrgu eeliseid ja väljakutseid ühiskonnas",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab värkvõrguga seotud sotsiaalseid ja eetilisi aspekte, väljakutseid ja lahendusi transpordi, turvalisuse, põllumajanduse, moe, tervise ja meelelahutuse valdkondades.",
+          "outcomeType": "knowledge"
+        }
+      ]
+    }
+  ]
+}

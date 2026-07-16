@@ -1,0 +1,419 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Mooduli kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Moodul toetab <strong>noore sportlase topeltkarjääri.</strong> Mooduli aluspõhimõte on, et <strong>treening</strong> on <strong>teadlik õppimisprotsess</strong>, mille kaudu arenevad teadmised, oskused ja hoiakud, mitte üksnes sooritusele suunatud tegevus. Õpilane õpib käsitlema treeningut tervikliku arengukeskkonnana. Lisaks enesejuhtimisoskuse parandamisele ja õppimise mõtestamisele analüüsitakse ka treeneri rolli ja vastutust ning koostööd ja suhteid treening- ja võistluskeskkonnas. Õpilane õpib seostama oma treeningkogemust teoreetiliste teadmistega, mõtestama juhendamise ja tiimitöö mõju oma arengule ning tegema teadlikke valikuid nii sportlase kui õpilasena.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Mooduli sihtrühm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikmoodul on suunatud gümnaasiumiõpilastele, kes tegelevad eesmärgistatult ja regulaarselt juhendatud treeninguga ning osalevad treening- ja võistlusprotsessis.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Mooduli läbimise eelduseks on õpilase regulaarne osalemine juhendatud treeningutel. Treening peab toimuma kvalifitseeritud treeneri juhendamisel vähemalt kutsetase „Treener, tase 5“ (vajadusel saab seda kontrollida siit: <a href=\"https://www.spordiregister.ee/treener\">https://www.spordiregister.ee/treener</a>). Erandjuhtudel võib kool põhjendatud otsuse alusel arvestada ka treeneri juhendamist, kellel puudub vastav kutsetunnistus, kuid kelle erialane pädevus ja juhendamise kvaliteet on dokumentaalselt tõendatud ning hinnatud kooli poolt piisavaks mooduli eesmärkide saavutamiseks. Õpilane osaleb süsteemses sportlikus tegevuses, juhuslikku liikumisharrastust arvesse ei võeta.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Mooduli eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Mooduli eesmärk on lõimida mitteformaalses spordi- ja treeningkeskkonnas toimuv õppimine formaalõppega gümnaasiumis ning kujundada õpilases oskus mõtestada treeningut kui teadlikku, struktureeritud ja eesmärgipärast õppimisprotsessi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Mooduli maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>3 valikkursust</li><li>Iga kursus 35 akadeemilist tundi</li><li>Kokku 105 akadeemilist tundi / 4,5 ainepunkti</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuste täpne töökorraldus lepitakse kokku õpilaste ja õpetaja vahel, arvestades õpilaste treeningkoormust, spordiala eripära ja kooli õppekorraldust.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Mooduli valikkursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Treeningprotsess õppimise ja enesearengu keskkonnana – keskendub treeningu mõtestamisele õppimisena, eesmärkide seadmisele, ajaplaneerimisele, koormuse ja taastumise analüüsile ning eneseregulatsiooni kujundamisele.</li><li>Treeneri roll treeningul – keskendub treeneri juhendamise põhimõtete, vastutuse ja rollipiiride mõtestamisele ning juhendamise mõju analüüsimisele sportlase arengule.</li><li>Tiimitöö treening- ja võistluskeskkonnas – keskendub tiimidünaamikale, suhtlemisele, vastutuse jagamisele, vaimsele heaolule ja turvalise keskkonna kujundamisele.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Võimalusi lõiminguks, üldpädevuste arengu toetamiseks ja läbivate teemade käsitlemiseks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Moodul loob võimalusi lõimida erinevate õppeainete teadmisi õpilase treeningu- ja võistluskogemusega. Õppetegevustes seostatakse sportimise praktiline kogemus enesejuhtimise, õppimise, koostöö, tervise, ohutuse, juhendamise, eetika ja karjäärivalikute teemadega. Lõiming toetab õpilase oskust analüüsida enda kogemust, teha põhjendatud järeldusi ning kujundada teadlikke ja vastutustundlikke valikuid nii õppimises, sportimises kui ka edasise õpitee kavandamises.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Moodul võimaldab sisulist lõimingut mitme õppeainega:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "liikumisõpetus / kehaline kasvatus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>treeningu planeerimine, koormuse ja taastumise jälgimine, liikumispädevus;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "bioloogia",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>treeningu mõju organismile, taastumisprotsessid, une ja energiatasakaalu seosed;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "matemaatika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>andmete kogumine ja analüüs, koormuse arvutamine, tabelite ja graafikute koostamine;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "eesti keel ja võõrkeeled",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>argumenteeritud kirjalik ja suuline eneseanalüüs ning arutelu;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "inimeseõpetus / psühholoogia",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>motivatsioon, eneseregulatsioon, keskendumine, vaimne valmisolek;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ühiskonnaõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>rollid, vastutus, organisatsiooniline toimimine ja spordieetika.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lõiming toetab teadmiste rakendamist reaalses elukontekstis ning seob praktilise kogemuse teoreetilise mõtestamisega.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üldpädevuste arendamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Moodul toetab järgmiste üldpädevuste kujunemist:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "õpipädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane eesmärgistab oma tegevust, valib strateegiaid, analüüsib ja hindab oma tegevust;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "enesemääratluspädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane mõtestab oma rolli, väärtuseid ja arengusuundi;",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "sotsiaalne ja kodanikupädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane teeb koostööd, jagab vastutust ja loob turvalist keskkonda;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "suhtluspädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane väljendub selgelt ja argumenteeritult ning annab ja võtab vastu tagasisidet;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane analüüsib andmeid ja teeb nende põhjal järeldusi;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "digipädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane kasutab digitaalseid analüüsivahendeid ja portfooliot;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "karjääripädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane mõistab topeltkarjääri võimalusi ja teeb teadlikke valikuid.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Läbivad teemad",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Moodulis käsitletakse järgmisi läbivaid teemasid:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "tervis ja ohutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>koormuse ja taastumise tasakaal, ülekoormuse ennetamine, vaimne tervis ja heaolu, riskide teadvustamine ja ennetamine, tervist toetava, ohutu ja turvalise keskkonna kujundamine;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "väärtused ja kõlblus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>aus mäng spordis, vastutus, treenerieetika, hooliv ja lugupidav suhtlemine, kaaslaste arvestamine ning sobiva käitumise kujundamine spordikeskkonnas;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "elukestev õpe ja karjääri planeerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>iseseisev õppimine, vastutus enda arengu eest, eri rollide teadvustamine spordis, enda tugevuste ja arenguvajaduste analüüs ning õpitee ja karjäärivalikute mõtestamine;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "tehnoloogia ja innovatsioon",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>digitaalsete vahendite eesmärgipärane kasutamine treeningu, õppimise ja eneseanalüüsi dokumenteerimisel.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppetegevuse kavandamise ja korraldamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppetegevus tugineb õpilase regulaarsele juhendatud treeningkogemusele ning selle süsteemsele analüüsimisele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppimine toimub kahes seotud keskkonnas:</p><ul><li>spordikeskkonnas omandatakse praktiline kogemus treeningutel ja võistlustel;</li><li>koolikeskkonnas toimub kogemuse struktureeritud analüüs, teoreetiline mõtestamine ja järelduste sõnastamine.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppetegevuse kavandamisel lähtutakse järgmistest põhimõtetest:</p><ul><li>eeltingimus on õpilase osalemine regulaarsetel juhendatud treeningutel;</li><li>õppimine on protsessikeskne ja toetab õpilase autonoomsust;</li><li>treening- ja võistlussituatsioonide analüüsitakse järjepidevalt;</li><li>analüüsitavat (spordi)tegevust dokumenteeritakse süsteemselt ja eesmärgistatult kirjalikult või digitaalselt;</li><li>arvestatakse õpilase individuaalset koormust ja spordiala eripära;</li><li>kooli ja treeneri rollid on selgelt määratletud.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Treener vastutab treeningu kavandamise, läbiviimise ja ohutuse eest. Kool juhendab analüüsi ning vastutab õpitulemuste hindamise eest.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine, sh mitteformaalõppes läbitud kursuste hindamise alused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Mooduli kursuseid hinnatakse mitteeristavalt (arvestatud/mitte arvestatud).</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Arvestuse saamise eeldused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>regulaarne osalemine juhendatud treeningutel;</li><li>nõuetekohane ja järjepidev dokumentatsioon;</li><li>kirjaliku arenguanalüüsi esitamine;</li><li>osalemine suulises arutelus või esitlusel.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mitteformaalses spordikeskkonnas toimunud tegevused arvestatakse juhul, kui",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>tegevus on toimunud kvalifitseeritud treeneri juhendamisel;</li><li>õpilane on tegevuse dokumenteerinud;</li><li>õpilane on analüüsinud kogemust vastavalt kursuse õpitulemustele.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Sportlikku taset ega võistlustulemusi hindamisel ei arvestata.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamise keskmes on õpilase analüüsivõime, argumenteeritus ning suutlikkus luua seoseid kogemuse ja teoreetiliste põhimõtete vahel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppekeskkonna kujundamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Mooduli õpe toimub kahes teineteist täiendavas keskkonnas.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Spordikeskkond on õpilase tavapärane treening- ja võistluskeskkond, kus toimub juhendatud praktiline tegevus. See loob autentse ja vahetu õpikogemuse.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Koolikeskkond toetab spordikeskkonnas saadud kogemuse analüüsi ja mõtestamist. Kool tagab turvalise ja toetava õhkkonna, mis võimaldab ausat dokumenteerimist ning avatud arutelu ja eneseanalüüsi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppekeskkond hõlmab ka digikeskkonda, mis toetab andmete kogumist ja analüüsi koostamist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kool ja treener tegutsevad partneritena, toetades õpilase terviklikku arengut ning tagades selged rollid ja vastutuse.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab treeningut eesmärgistatud õppimis- ja arenguprotsessina;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab treeningkoormuse, õppimise, taastumise ja heaolu omavahelisi seoseid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab treeneri rolli, vastutuse ja juhendamise põhimõtteid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab tiimitöö, suhtluse ja tiimidünaamika mõju sportlikule sooritusele, õppimisele ja heaolule;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab eneseanalüüsi ja enesejuhtimise võtteid enda arengu toetamiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb põhjendatud järeldusi enda kogemuse ja vaatluste põhjal ning väljendab neid selgelt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võtab vastutuse oma õppimise, arengu ja käitumise eest spordikeskkonnas;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab tervist, vaimset heaolu, taastumist ning tasakaalu sportliku ja haridusliku arengu vahel;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub lugupidavalt treenerisse, tiimikaaslastesse ja teistesse spordivaldkonna osalistesse;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab turvalist, toetavat ja eetilist spordikeskkonda ning ausa mängu põhimõtteid.",
+          "outcomeType": "attitude"
+        }
+      ]
+    }
+  ]
+}

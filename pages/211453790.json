@@ -1,0 +1,1356 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Elektriline vastastikmõju",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "seletab kehade elektriseerimist ja elektrilist vastastikmõju",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb elektrilaengu, elementaarlaengu, keha elektrilaengu, elektrivälja, elektrivoolu, vabade laengukandjate, elektrijuhi ja isolaatori mõistet ning rakendab neid loodusnähtusi selgitades.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kehade elektriseerimine hõõrdumisel ja laengu ülekandel. Elektrilaeng. Elementaarlaeng. Elektriväli. Juht. Isolaator. Laetud kehadega seotud nähtused looduses ja tehnikas.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>elektriseeritud keha, kehade elektriseerimine, elektrilaeng, elementaarlaeng, elektriväli, elektrivool, vabad laengukandjad, elektrijuht, isolaator</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kehade elektriseerimise uurimine;</li><li>erinevate materjalide elektrijuhtivuse uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Antud teema laob vundamendi kogu elektriõpetusele. Aatomi ehituse ja elementaarosakeste tundmine ning elektrilaengu ja elektrivälja olemuse mõistmine aitab kaasa kõigi edasistes teemades jutuks tulevate elektrinähtuste mõistmisele. See omakorda võimaldab aru saada ja selgitada, kuidas ja miks toimivad nii väga mitmeid meid ümbitsevad loodusnähtused kui ka erinevad seadmed, mida me igapäevaselt kasutame.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Staatiline elekter on nähtus, millega õpilased on väga palju kokku puutunud. Seega tasub tunnis kasutatavad näited üles ehitada just õpilaste kogemustele ja nende küsimustele seoses kogetuga.</p><p>On mitmeid lihtsate vahenditega tehtavaid demokatseid, mida soovitame tunnis läbi viia (õhupall ja selle hõõrumise mõju juustele; laetud õhupall seina küljes; laetud õhupalli mõju kraanist nirisevale veejoale; laetud klaaspulga või plastjoonlaua mõju kergetele esemetele, nt vahtplastitükikestele; laengu edasi andmine elektrisultanitele või elektroskoobile jms).</p><p>On mitmeid katsevahendeid, mille asemel on võimalik kasutada igapäevaseid esemeid või mida on võimalik õpetajal ja/või õpilastel ise valmistada. Hõõrdeelektri demonstreerimiseks saab kasutada plastjoonlauda, hõõrutava materjalina sobib iga villane riie (müts, kindad vms). Elektroskoobi ehitamiseks läheb vaja klaaspurki, traati ning fooliumribakesi, juhendi taolise elektroskoobi ehitamiseks leiab otsingusõnade &quot;lihtne elektroskoop&quot; või &quot;simple electroscope&quot; abil internetist.</p><p>Kõik eelnevalt kirjeldatud katsed on nähtavad meie nö makromaailmas. Tekkinud nähtuste füüsikaline selgitus peitub aga mikromaailmas, mida “palja silmaga” näha ei ole, aga visualiseerida aitavad seda simulatsioonid nt</p>"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_all.html?locale=et"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kuna antud teema selgitused põhinevad kõik aineosakestel, mida ei ole võimalik õpilastele näidata, soovitame nii siin (kui ka kõikide ülejäänud 9. klassis käsitletavate teemade puhul) nähtuste selgitamiseks kasutada jooniseid.</p><p>Aatomi ehituse meenutamiseks saab kasutada arvutisimulatsiooni:</p>"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_all.html?locale=et"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane</p><ol><li>kasutab arvutisimulatsiooni juba varasemalt õpitud aatomi ehituse meenutamiseks (LT 2; õpipädevus, digipädevus);</li><li>kavandab ja viib läbi praktilise töö, mille käigus uurib võimalusi kehade elektriseerimiseks ning elektriseeritud kehade vastastikmõju, esmalt püstitab hüpoteesi(d), seejärel viib läbi katsed ja teeb kogutud andmete põhjal järelduse(d) (LT 1, 2, 4; õpipädevus, ettevõtlikkuspädevus);</li><li>kasutab laengu olemasolu kindlaks tegemiseks elektroskoopi ning uurib, millised materjalid juhivad elektroskoobile antud laengu sealt minema ja millised mitte. Saadud tulemuste põhjal liigitab ta uuritud materjalid elektrijuhtideks ja isolaatoriteks (LT 1, 2, 4);</li><li>teeb joonised ning selgitab nende kaudu laengu tekkimist ja üle kandumist ühelt kehalt teisele (LT 2; õpipädevus);</li><li>ehitab ise käepärastest vahenditest elektroskoobi ning demonstreerib selle tööd kaasõpilastele, selgitades ühtlasi elektroskoobi tööpõhimõtet (LT 1, 2, 6; õpipädevus, suhtluspädevus, ettevõtlikkuspädevus);</li><li>uurib teatmeteostest ja/või internetist infot erinevate elektrostaatika demokatsete kohta, valib neist ühe ning demonstreerib seda oma klassikaalastele, selgitades ühtlasi selle füüsikalist sisu (LT 1, 2,  5; õpipädevus, suhtluspädevus);</li><li>teisendab laengu mõõtühikuid (LT 2).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            { "kind": "text", "html": "<p>keemia (aatomi ehitus, laeng)</p>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemaga seotud teadmiste, oskuste ja hoiakute hindamise võimalusi on erinevaid ning mitmekesine hindamismetoodika annab õpilasele põhjalikumat tagasisidet tema senisele ainealasele arengule ja edasiminekule.</p><p>Võimalikud hindamise objektid on:</p><ol><li>Läbiviidud katsete ja praktiliste tööde protokollid (mõõdetud/vaadeldud andmete esitamine, andmete analüüs, katsetulemuste kokkuvõte) ning tulemuste esitamine/kaitsmine suuliselt.</li><li>Suuline vastamine/arutelu õpetajaga.</li><li>Kirjalikud tööd (sh tunnikontrollid, kontrolltöö, ülesannete lahendamised, jne).</li></ol><p>Õpitulemused muudab õpilaste jaoks arusaadavamaks hindamismudelite kasutamine (vt näiteid <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">siit</a>).</p><p>Hindamisvõimaluste konkreetsemad näited/soovitused kõnealuses teemas:</p><ol><li>Tööleht mõne keerukama ja harjutamist vajava teema kohta nt elektrivälja mõju laetud kehadele, laengu jagunemine kehade vahel, mõõtühikute teisendamine jms.</li><li>Praktiline töö kehade elektriseerimise uurimiseks.</li><li>Elektroskoobi ehitamine, selle töö demonstreerimine ning tööpõhimõtte selgitamine.</li><li>Ühe elektrostaatilise nähtuse kohta demokatse kavandamine ja läbi viimine ning selle füüsikalise sisu selgitamine.</li></ol><p>Tähelepanuks - kontrolltöö/tunnikontrolli vms puhul soovitame kasutada pigem reaalelulisi ülesandeid, mille konteksti õpilane mõistab. Samuti on soovituslik jälgida, et töö küsimused seaksid fookuse õpitust arusaamisele, mitte faktiteadmiste kontrollile.</p><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/70",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/93",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/105",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Veebis graafikute koostamise rakendus"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_all.html?locale=et"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_all.html?locale=et"
+            },
+            { "kind": "video", "src": "https://youtu.be/PpPWeRNrHmk" },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Raamatu &quot;Huvitav füüsika II&quot; veebiversioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesanded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Elektrivool ja vooluring",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "uurib ja kirjeldab elektrivoolu elektrolüütide vesilahustes ning metallides",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab vooluringi osi ja selgitab nende otstarvet",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab lihtsamaid elektriskeeme",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab elektritarvitite ja elektriliste mõõteseadmete (oommeetri, ampermeetri, voltmeeteri, elektrienergia arvesti) otstarvet ja kasutamise reegleid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kavandab ja teeb katseid voolutugevuse, pinge, elektritakistuse ja eritakistuse mõõtmiseks",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "uurib jada- ja rööpühenduse korral seoseid vooluringi osade pingete, voolutugevuste ning takistuste väärtuste vahel ja analüüsib saadud tulemusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesannete lahendamisel järgmisi seoseid: $I=\\frac{q}{t},\\ U=\\frac{A}{q},\\ R=\\frac{U}{I},\\ R=\\rho\\frac{l}{S},\\ U=U_1+U_2,\\ I=I_1=I_2,\\ U=U_1=U_2,\\ I=I_1+I_2$.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Elektrivool metallides ja ioone sisaldavates lahustes ehk elektrolüütide lahustes. Elektrivoolu soojuslik, magnetiline, keemiline toime. Voolutugevus ja selle mõõtmine. Vooluringi osad ja elektriskeemid. Pinge ja selle mõõtmine, Ohmi seadus. Elektritakistus. Takistuse sõltuvus juhi materjalist ja mõõtmetest. Eritakistus. Takisti. Juhtide jada- ja rööpühendus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>vooluallikas, avatud ja suletud vooluring, elektriskeem, voolutugevus, pinge, elektritakistus, juhtide jada- ja rööpühendus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>elektrolüüdi vesilahuse elektrijuhtivuse uurimine;</li><li>elektrivoolu toimete uurimine;</li><li>voolutugevuse ja pinge mõõtmine digitaalsete ja analoogmõõteriistadega;</li><li>takistuse otsene ja kaudne mõõtmine;</li><li>voolutugevuse, pinge ja takistuse uurimine juhtide jada- ja rööpühenduse korral;</li><li>reostaadi takistuse uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>See teema kujundab õpilases arusaamise elektrivoolu olemusest ja seda nii metallides kui ka elektrolüüdi vesilahustes. Ühes sellega tutvustatakse mitmeid meie igapäevaelus olulisi füüsikalisi suurusi ning nende rolli elektrivoolu tekkimises. Õpilased panevad kokku vooluringe ning õpivad neid analüüsima, tutvuvad jada- ja rööpühendusega ning eri tüüpi vooluringide igapäevaste rakendustega. Kõigel, mida selles teemas käsitletakse, on ühest küljest praktiline igapäevaeluline väljund (tekitatakse arusaamine kodusest elektrivõrgust, pannakse alus edasisteks õpinguteks elektroonika valdkonnas), kuid see arendab ka ruumilist mõtlemist ning õpetab nägema ja analüüsima seoseid. Õpitakse kasutama mitut uut mõõteriista (amper- ja voltmeeter, multimeeter) ning läbi viima elektri-alaseid praktilisi töid ja analüüsima saadud andmeid. Kuna antud teema annab baasülevaate vooluringide ehituse ja üldpõhimõtete ning peamiste mõõteriistade tööst, mis loob seose elektriku, elektri- ja elektroonikainseneri jms erialade ning ametikohtadega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kui koolis on kasutada juhtmed, lambid, lülitid ja patareid, soovitame kõik õpitud seaduspärasused läbi teha praktiliselt. Lisaks ka amper-, volt- ja/või multimeetriga mõõtmised.</p><p>Kui praktiliste tööde tegemise võimalust ei ole, saab õpetaja vooluringe demonstreerida ja õpilased neid kokku panna ning mõõtmisi teostada ka virtuaalselt:</p>"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html?locale=et"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Simulatsioon, mille abil saab õpetaja demonstreerida ja/või õpilane iseseisvalt uurida Ohmi seadust:</p>"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html?locale=et"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Simulatsioon, mille abil saab õpetaja demonstreerida ja/või õpilane iseseisvalt uurida juhi parameetrite mõju juhi takistusele:</p>"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire_all.html?locale=et"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Jada- ja rööpühenduse arvutusülesannete puhul aitab teema mõistmisele kaasa skemaatiline selgitamine (õpilased võiksid iga ülesande esmalt skeemina esitada ja alles siis teha vajalikud arvutused).</p><p>Vooluringite teemat tuleks käsitleda mitmekülgselt, st õpilastega tuleks harjutada nii vooluringide koostamist kui ka olemasolevate vooluringide analüüsimist.</p><p>Et tugevdada teema seoseid igapäevaeluga, võiks õpilastele näidata ka mõnd reaalset elektriskeemi, näiteks koolimaja mõni korrus vms piirkond. Üheskoos võiks analüüsida, mida skeem näitab ja kui palju sellest on antud teemas õpitud teadmiste najal neile loetav.</p><p>Kui mõni lapsevanem peab elektriku, elektroonikainseneri vms ametit või on õpetajal kontakt koolis elektritöid teostavate inimestega, soovitame kutsuda ta/nad õpilastele oma tööd tutvustama. See annab õpilastele vahetu kokkupuute selle eriala esindajatega ning võimaldab ehk lähemalt näha ka nende töövahendeid ja mõõteseadmeid. See omakorda aitab õpilasi nende edasiste õpingusuundade ja karjäärivaliku tegemisel.</p><p>Vooluallika teemat käsitledes soovitame läbi viia puu- ja/või köögiviljapatarei teemalise praktilise töö. Viljad võiks paluda õpilastel endil kodunt kaasa võtta (iga õpilane valib talle sobivaima etteantud nimekirjast: kartul, kaalikas, peet, porgand, banaan, õun, sidrun, apelsin, mandariin, laim vms). Kui õpitud on ka voltmeetri kasutamine, saab korraldada võistluse suurima pingeallika leidmiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane</p><ol><li>joonestab kirjelduse järgi elektriskeeme, kasutades õpitud tingmärke ja vooluringi osade ühendamise reegleid (LT 2);</li><li>analüüsib etteantud elektriskeeme (LT 2);</li><li>kavandab ja viib läbi praktilise töö, mille käigus paneb kokku erinevat tüüpi vooluringe (jada- ja rööpühendus), mõõdab vooluringis olevate juhtide parameetreid (voolutugevus, pinge) ning analüüsib saadud tulemusi, töö alguses püstitab õpilane hüpoteesi(d), seejärel kontrollib nende kehtivust katseliselt ning teeb saadud andmetest järelduse(d) (LT 1, 2, 4; õpipädevus, ettevõtlikkuspädevus);</li><li>kavandab ja viib läbi praktilise töö vooluringi takistuse määramiseks ning reostaadi takistuse uurimiseks ning teeb saadud andmete põhjal järeldused takistuse mõju kohta vooluringi teistele füüsikalistele parameetritele (LT 1, 2, 4; õpipädevus, ettevõtlikkuspädevus);</li><li>kavandab ja viib läbi praktilise töö, mille käigus uurib juhtide jada- ja rööpühenduse mõju voolutugevusele, pingele ning takistusele, töö alguses püstitab õpilane hüpoteesi(d), seejärel kontrollib nende kehtivust katseliselt ning teeb saadud andmetest järelduse(d) (LT 1, 2, 4; õpipädevus, ettevõtlikkuspädevus);</li><li>paneb vooluringe kokku virtuaalselt (kasutades arvutisimulatsiooni), uurib selle abil Ohm`i seadust jada- ja rööpühenduse korral ning teeb saadud info põhjal järeldused voolutugevuse, pinge ja takistuse kohta jada- ja rööpühenduse korral (LT 1, 2, 4; digipädevus);</li><li>uurib arvutisimulatsiooni abil juhi parameetrite (pikkus, pindala, materjal) mõju juhi takistusele ning teeb saadud info põhjal järeldused (LT 1. 2,  4);</li><li>teisendab voolutugevuse, pinge ja takistuse mõõtühikuid (LT 2);</li><li>rakendab Ohm`i seadust ning juhi takistuse valemit probleemülesannete lahendamiseks (LT 1, 2, 3);</li><li>kuulab elektriku või elektroonikainseneri ettekannet oma tööst ning esitab talle küsimusi, hiljem teeb sellest teksti/plakati või mõistekaardi vormis kokkuvõtte (LT 1, 8; enesemääratluspädevus);</li><li>ehitab isiklikust köögi- või puuviljast patarei ning koostöös klassikaaslastega arendab seda, et saavutada võimalikult kõrge pinge (LT 1, 2, 3; õpipädevus, ettevõtlikkuspädevus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>matemaatika (võrdeline ja pöördvõrdeline seos, andmete graafiline esitamine)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemaga seotud teadmiste, oskuste ja hoiakute hindamise võimalusi on erinevaid ning mitmekesine hindamismetoodika annab õpilasele põhjalikumat tagasisidet tema senisele ainealasele arengule ja edasiminekule.</p><p>Võimalikud hindamise objektid on:</p><ol><li>Läbiviidud katsete ja praktiliste tööde protokollid (mõõdetud/vaadeldud andmete esitamine, andmete analüüs, katsetulemuste kokkuvõte) ning tulemuste esitamine/kaitsmine suuliselt.</li><li>Suuline vastamine/arutelu õpetajaga.</li><li>Kirjalikud tööd (sh tunnikontrollid, kontrolltööd, ülesannete lahendamised, jne).</li></ol><p>Õpitulemused muudab õpilaste jaoks arusaadavamaks hindamismudelite kasutamine (vt näiteid <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">siit</a>).</p><p>Hindamisvõimaluste konkreetsemad näited/soovitused kõnealuses teemas:</p><ol><li>Tööleht mõne keerukama ja harjutamist vajava teema kohta nt vooluringide joonestamine ja analüüs, mõõtühikute teisendamine; Ohmi seaduse ja takistuse valemite rakendamine probleemülesannete lahendamisel jms.</li><li>Praktiline töö Ohmi seaduse ning jada- ja rööpühenduse uurimiseks.</li><li>Praktiline töö reostaadi takistuse uurimiseks.</li><li>Kokkuvõtlik ettekanne mõne elektroonika valdkonnas tegeleva inimese töö sisu, võimaluste ja väljakutsete kohta.</li></ol><p>Tähelepanuks - kontrolltöö/tunnikontrolli vms puhul soovitame kasutada pigem reaalelulisi ülesandeid, mille konteksti õpilane mõistab. Samuti on soovituslik jälgida, et töö küsimused seaksid fookuse õpitust arusaamisele, mitte faktiteadmiste kontrollile.</p><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/70",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/93",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/105",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Veebis graafikute koostamise rakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/31780-Vooluringi-uhendusviisid",
+              "title": "Ekoolikoti kogumiku tööleht (praktilise töö juhend) vooluringide ühendusviiside kohta (autor õpetaja Merit Eier)"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/31494-Fuusika-praktikumid-8-12-klassile/292293",
+              "title": "Ekoolikoti kogumiku praktilise töö juhend (autor õpetaja Reivo Maasik)"
+            },
+            {
+              "kind": "link",
+              "href": "https://issuu.com/ingridroigas/docs/pohikooli_toolehed_fyysika",
+              "title": "Põhikooli füüsika ja loodusõpetuse praktiliste tööde kogum (autor õpetaja Ingrid Rõigas)"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html?locale=et"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html?locale=et"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire_all.html?locale=et"
+            },
+            { "kind": "video", "src": "https://youtu.be/sgBK53Bu1gs" },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/iTW4AVMbJvw?si=x-WV239r2dDPWE9H"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/4z9Bly8HQ40?si=dEb0vv1PVOOrxIpc"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/qepUMJxv0C8?si=lbvK5CQNSPMYX5uY"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Raamatu &quot;Huvitav füüsika II&quot; veebiversioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesanded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Elektrivoolu töö ja võimsus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kavandab ja teeb katseid elektrivoolu töö ja võimsuse arvutamiseks ning analüüsib saadud tulemusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "määrab elektritarvitite koguvõimsuse, hindab selle vastavust paigaldatud kaitsmele ning arvutab tarbitud energia väärtuse ja maksumuse",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seletab lühise, kaitse ja kaitsemaanduse mõistet",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesannete lahendamisel järgmisi seoseid: $A=UIt,\\ P=\\frac{A}{t},\\ P=UI$.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Elektrivoolu töö. Elektrivoolu võimsus. Tarviti nimivõimsus ja nimipinge. Elektrisoojendusriistad. Elektriohutus. Lühis. Kaitse. Kaitsemaandus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>elektrienergia tarviti, elektrivoolu töö, elektrivoolu võimsus, lühis, kaitse, kaitsemaandus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>koduste elektriseadmete energiatarbimise uurimine;</li><li>elektritarvitite (mootor, LED, takisti) läbiva voolu töö ja võimsuse määramine;</li><li>küttekeha võimsuse uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Siin teemas keskendutakse suuresti just kodusele elektrivõrgule, mistõttu selle peamine olulisus seisneb selle praktilises väljundis - õpilane mõistab paremini oma koduste elektriseadmete füüsikalisi parameetreid, seadmete tööd mõjutavaid tegureid ning koduse elektrivõrgu tööpõhimõtteid. Õpilane saab ülevaate, mille alusel kujuneb igakuine elektriarve ning kuidas seda (vajadusel) vähendada. Antud teema annab ülevaate elektriohutuse seisukohast olulistest mõistetest ja õpetab elektriga ohutult ümber käima. Õpilane saab teada, kuidas töötavad maandus ja kaitsmed ning mis olukorras need rakenduvad. See kõik aitab aga elektriga seotud ohtlikke olukordi ennetada.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Antud peatükis käsitletavad teemad tuleks võimalikult hästi seostada õpilase igapäevaeluga, st keskenduda elektriohutusele (kodus) ning koduse elektritarbimise temaatikale.</p><p>Soovitame teema käsitlemisel mitte jääda pelgalt arvutusülesannete tasemele, vaid arendada ka arutelu elektriohutuse ning säästva tarbimise teemadel. Selle tulemused võiks vormistada plakati või videona ning õpilased võiksid oma töö tuleusi ka ülejäänud klassile tutvustada.</p><p>Kindlasti soovitame läbi teha koduse elektritarbimise analüüs, kus õpilased jälgivad teatud aja jooksul (päev, nädal vms) kodus toimuvat elektritarbimist, arvutavad energiakulu ning analüüsivad saadud andmeid ja tulemusi.</p><p>Õpilased võiksid analüüsida ka kooli elektrivõrgus telefonide laadimisele kuluva elektrienergia hulka ja hinda.</p><p>Kui mõni lapsevanem peab elektriku ametit või on õpetajal kontakt koolis elektritöid teostavate inimestega, soovitame kutsuda ta/nad õpilastele elektriohutusest rääkima.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane</p><ol><li>arvutab elektriseadmete poolt tarbitava elektrienergia hulka (kWh) (LT 1, 2, 3);</li><li>jälgib ja analüüsib kodust elektritarbimist ning teeb ettepanekud energia säästmiseks (LT 1, 2, 3, 4, 7; õpipädevus, ettevõtlikkuspädevus, sotsiaalne ja kodanikupädevus);</li><li>teeb (kirjaliku, plakati või ettekande vormis vms) ülevaate kodus ja koolis olevate elektriseadmete ja elektrivõrgu ohutust tagavatest seadmetest, mille käigus analüüsib, kas ja mil määral on ohutus tagatud (LT 1, 2, 3, 4, 6; sotsiaalne ja kodanikupädevus, suhtluspädevus);</li><li>kavandab ja viib läbi praktilise töö, mille käigus uurib tarvitit läbiva voolu tööd ja võimsust mõjutavaid tegureid (LT 1, 2, 4);</li><li>kasutab elektrivoolu töö, võimsuse ja soojushulga valemeid probleemülesannete lahendamiseks (LT 1, 2, 3);</li><li>teisendab elektrivoolu töö ja võimsuse mõõtühikuid (LT 2);</li><li>kavandab ja salvestab video või kujundab plakati, kus toob välja peamised elektriga seotud ohud koduses majapidamises (või koolimajas) ning selgitab, kuidas neid ohte vältida (LT 1, 2, 3, 6; sotsiaalne ja kodanikupädevus, suhtluspädevus, digipädevus);</li><li>kuulab elektriohutuse teemalist ettekannet ning esitab küsimusi, hiljem teeb sellest teksti/plakati/video vms vormis lühikese kokkuvõtte (LT 1, 2, 3, 6, 7; suhtluspädevus, õpipädevus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>geograafia (energia tarbimine ja keskkond)</p><p>inimeseõpetus (tervis ja ohutus)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemaga seotud teadmiste, oskuste ja hoiakute hindamise võimalusi on erinevaid ning mitmekesine hindamismetoodika annab õpilasele põhjalikumat tagasisidet tema senisele ainealasele arengule ja edasiminekule.</p><p>Võimalikud hindamisobjektid on:</p><ol><li>Läbiviidud katsete ja praktiliste tööde protokollid (mõõdetud/vaadeldud andmete esitamine, andmete analüüs, katsetulemuste kokkuvõte) ning tulemuste esitamine/kaitsmine suuliselt.</li><li>Suuline vastamine/arutelu õpetajaga.</li><li>Kirjalikud tööd (sh tunnikontrollid, kontrolltööd, ülesannete lahendamised, jne).</li></ol><p>Õpitulemused muudab õpilaste jaoks arusaadavamaks hindamismudelite kasutamine (vt näiteid <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">siit</a>).</p><p>Hindamisvõimaluste konkreetsemad näited/soovitused kõnealuses teemas:</p><ol><li>Tööleht mõne keerukama ja harjutamist vajava teema kohta nt elektrienergia tarbimise arvutamine, mõõtühikute teisendamine jms.</li><li>Praktiline töö tarvitit läbiva voolu töö ja võimsuse määramiseks.</li><li>Koduse energiatarbimise analüüs.</li><li>Kirjalik analüüs ja plakati/video vms vormis ettekanne koduste ja/või koolis olevate elektriseadmete ja elektrivõrgu ohutusest.</li></ol><p>Tähelepanuks - kontrolltöö/tunnikontrolli vms puhulsoovitame kasutada pigem reaalelulisi ülesandeid, mille konteksti õpilane mõistab. Samuti on soovituslik jälgida, et töö küsimused seaksid fookuse õpitust arusaamisele, mitte faktiteadmiste kontrollile.</p><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/70",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/93",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/105",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Veebis graafikute koostamise rakendus"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/PypKU7OPS0Y?si=fRw2dMZsVjw7hAtI"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/nIE6JaXtlxg?si=g_QrsRcr6Qtb9h5a"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/sgBK53Bu1gs?si=E1vNFwWH1GQ6claG"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Raamatu &quot;Huvitav füüsika II&quot; veebiversioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesanded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Magnetnähtused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjeldab magnetite ja magnetvälja omadusi ning seostab neid Maa magnetvälja ja teiste magnetnähtustega",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab elektrivoolu ja magnetnähtusi, kasutades näiteid ja rakendusi tehnikas.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Püsimagnet. Magnetnõel. Magnetväli. Magnetvälja jõujooned. Magnetpoolused. Maa magnetväli. Elektromagnet. Elektrimootor ja elektrigeneraator kui energiamuundurid. Magnetnähtused looduses ja tehnikas.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>püsimagnet, magneti poolused, magnetväli, kompass, elektromagnet, elektrimootor, elektrivoolugeneraator</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>magnetilise vastastikmõju ja magnetvälja jõujoonte uurimine püsimagnetite ja rauapuruga;</li><li>kompassi kasutamine;</li><li>elektromagneti uurimine ja/või valmistamine;</li><li>elektrimootori uurimine ja/või valmistamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Antud teema võimaldab mõista mitmeid loodusnähtusi (Maa magnetväli, virmalised) ning selgitada nende tekkepõhjuseid ja olemust. Õpilane saab ülevaate teda igapäevaselt ümbritsevate seadmete (kompass, generaator, elektrimootor) tööpõhimõttest ja seosest magnetnähtustega. Elektri- ja magnetismi teemade käsitlemine annab võimaluse luua seosed elektromagnetiliste nähtustega tegelevate teadlaste tööga ning tutvustada elektromagnetilisi seadmeid kavandavate ja haldavate või magnet- ja elektromagnetväljade ohutusega tegelevate inseneride ameteid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuna magnetid, millega õpilased igapäevaselt kokku puutuvad, ei näe tihti välja sellised, nagu koolis kasutatavad demonstratsiooniks mõeldud magnetid, soovitame sellele kindlasti tähelepanu juhtida. Eraldi tasub välja tuua ka see, et maailma eri piirkondades on magneti pooluste tähistamiseks kasutusel mitmeid lähenemisi.</p><p>Magnetnähtusi soovitame uurida praktiliselt, st vahendite olemasolul võiksid õpilased magnetite vastastikmõju ja seda mõjutavaid tegureid iseseisvalt uurida. Esile saab manada magnetvälja jõujooni ja uurida nende tihedust, magneti mõju erinevast materjalist kehadele. Kui aega on rohkem, soovitame lasta õpilastel juhendi järgi ehitada elektromootori. Selleks leiab juhendeid internetiotsinguga &quot;<em>lihtne elektrimootor</em>&quot; või &quot;<em>simple electric motor</em>&quot;.</p><p>Kompassi kasutamist soovitame harjutada ja võimalusel teha seda koostöös geograafiaõpetajaga. See annab võimaluse õuesõppe rakendamiseks, võimalik on korraldada orienteerumismäng vms tegevus.</p><p>Elektrimootori- ja generaatori tööpõhimõtte selgitamisel ei ole vaja (tavakoolis) minna väga põhjalikuks, piisab, kui sisse tuua juba õpitud magnetiline toime. Eelkõige on eesmärk õpilastele antud seadmeid tutvustada ja teha kerge sissejuhatus gümnaasiumis antud teemade (põhjalikumaks) käsitlemiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane</p><ol><li>joonestab sirgmagnetit ja U-magnetit ümbritsevaid magnetvälja jõujooni ja kirjeldab nende abil magentvälja tugevust eri piirkondades magneti ümber (LT 2);</li><li>joonestab Maa magnetvälja jõujooni ning kirjeldab Maa magnetvälja tugevust selle eri piirkondades (LT 2);</li><li>kavandab ja viib läbi praktilise töö, mille käigus uurib magnetilist vastastikmõju ja magnetvälja mõju erinevast materjalist kehadele, töö alguses püstitab hüpoteesi(d), seejärel viib läbi katsed ja kogub andmeid ning teeb kogutu põhjal järelduse(d) (LT 1, 4; õpipädevus, ettevõtlikkuspädevus);</li><li>ehitab juhendi järgi elektrimootori ning uurib selle tööd mõjutavaid tegureid, teeb sellest kokkuvõtte ning demonstreerib oma seadet ja kirjeldab selle tööpõhimõtet klassikaaslastele (LT 1, 2, 3, 4, 6; õpipädevus, suhtluspädevus, ettevõtlikkuspädevus);</li><li>kasutab kompassi, et määrata ilmakaari ja maastikul liikuda/orienteeruda (LT 1, 3, 4, 6, 7; õpipädevus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>geograafia (kompass, Maa magnetväli)</p><p>ajalugu (maadeavastused)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemaga seotud teadmiste, oskuste ja hoiakute hindamise võimalusi on erinevaid ning mitmekesine hindamismetoodika annab õpilasele põhjalikumat tagasisidet tema senisele ainealasele arengule ja edasiminekule.</p><p>Võimalikud hindamise objektid on:</p><ol><li>Läbiviidud katsete ja praktiliste tööde protokollid (mõõdetud/vaadeldud andmete esitamine, andmete analüüs, katsetulemuste kokkuvõte) ning tulemuste esitamine/kaitsmine suuliselt.</li><li>Suuline vastamine/arutelu õpetajaga.</li><li>Kirjalikud tööd (sh tunnikontrollid, kontrolltööd, ülesannete lahendamised, jne).</li></ol><p>Õpitulemused muudab õpilaste jaoks arusaadavamaks hindamismudelite kasutamine (vt näiteid <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">siit</a>).</p><p>Hindamisvõimaluste konkreetsemad näited/soovitused kõnealuses teemas:</p><ol><li>Tööleht mõne keerukama ja harjutamist vajava teema kohta nt magnetvälja jõujoonte joonestamine jms.</li><li>Praktiline töö magnetilise vastastikmõju uurimiseks.</li><li>Kompassi kasutamine.</li><li>Juhendi järgi elektromootori ehitamine, selle demonstreerimine ning tööpõhimõtte selgitamine klassikaaslastele.</li></ol><p>Tähelepanuks - kontrolltöö/tunnikontrolli vms puhul soovitame kasutada pigem reaalelulisi ülesandeid, mille konteksti õpilane mõistab. Samuti on soovituslik jälgida, et töö küsimused seaksid fookuse õpitust arusaamisele, mitte faktiteadmiste kontrollile.</p><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/70",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/93",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/105",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Veebis graafikute koostamise rakendus"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/IFyzDflZNDA?si=VUEzJ11BSdC6eukY"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/NWGBRVvVgqg?si=8WPAdsF5nDOhK72o"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/a0WfiEp_EAs?si=aboTQ-OSALsQg1OT"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20632-Kuidas-ehitada-kolarit",
+              "title": "Kõlari ehitamise videoõpetus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20659-Kuidas-ehitada-kompassi",
+              "title": "Kompassi ehitamise videoõpetused"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20706-Kuidas-teha-kaeparastest-vahenditest-kompass",
+              "title": "Kompassi ehitamise videoõpetused"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Raamatu &quot;Huvitav füüsika II&quot; veebiversioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesanded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Aine ehitus. Soojusliikumine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "seostab keha temperatuuri ja kehade soojuspaisumist aineosakeste soojusliikumisega",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab termomeetri otstarvet ja kasutamise reegleid ning erinevaid temperatuuriskaalasid.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aine ehituse mudel ja aine agregaatolekud. Aineosakeste liikumise ja keha temperatuuri seos. Soojusliikumine ja soojusliikumisega seotud nähtused: soojuspaisumine ja difusioon. Termomeetrid ja temperatuuriskaalad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>soojusliikumine, soojuspaisumine</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>vedeliktermomeetri või temperatuurianduri kasutamine temperatuuri (<em>t</em>) ja temperatuuri muutuse (Δ<em>t</em>) määramiseks.</li><li>difusiooni uurimine;</li><li>soojuspaisumise uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Temperatuur on füüsikaline suurus, mis on suur ja oluline osa meie elust. Seetõttu räägitakse sellest palju ja jälgitakse pidevalt selle muutumist- olgu see siis õhu-, toiduainete või hoopis kehatemperatuuri kontekstis. Antud teema annab ülevaate temperatuuri olemusest ning aitab õpilastel mõista selle seost aine ehituse ja aineosakeste liikumisega. Tekib parem arusaamine sellest, mis ja kuidas kehade temperatuuri mõjutab. Õpitakse ka korrektselt kasutama termomeetrit ja tundma erinevat tüüpi temperatuuriskaalasid, millega õpilased oma igapäevaelus võivad kokku puutuda.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuigi aine olekud ja aine ehitus on õpitud juba 7. klassis, tasub alustada selle meenutamisest, sest sellel põhinevad kõik soojusõpetuse teemade juures kõne alla tulevate nähtuste selgitused.</p><p>Soovitame harjutada vedeliktermomeetri korrektset kasutamist, kuna järgnevate teemade juures läheb seda oskust (skaala ja näidu korrektne lugemine jms) palju vaja.</p><p>Selle teema juures on võimalik läbi viia mitmeid lihtsaid demokatseid (vette lisatud värvaine difusioon; metallist keha soojuspaisumine; pudelis oleva õhu soojuspaisumine jms).</p><p>Temperatuuriskaaladest rääkides tuleks kindlasti välja tuua ka Celsiusele lisaks kasutatavad Fahrenheiti ja Kelvini skaalad ning arutleda skaalade loomise/välja mõtlemise ja arengu teemadel. Soovitame näidata ka kaarti, mis ilmestab eri temperatuuriskaalade kasutamis maailma riikides.</p><p>Ajaloos on lisaks mainitud temperatuuriskaaladele kasutusel olnud veel mitmeid skaalasid. Õpilastel võib lasta nende skaalade kohta uurida (teatmeteostest või internetist) ning koostada kokkuvõte või esitlus, kus nad tutvustavad neid skaalasid ning selgitavad, miks ei ole need täna enam kasutusel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane</p><ol><li>võrdleb aineosakeste paiknemist ja liikumist eri aine olekute puhul (koostab võrdlustabeli) (LT 2);</li><li>kavandab ja viib läbi praktilise töö, mille käigus kasutab vedeliktermomeetrit, paneb töö käigus saadud andmed korrektselt kirja, koostab graafiku ning analüüsib saadud andmeid (LT 1, 2, 4, 6; õpipädevus);</li><li>kavandab ja viib läbi praktilise töö, mille käigus uurib difusiooni ja soojuspaisumist, enne katse läbi viimist püstitab hüpoteesi(d), seejärel kogub katse käigus andmed ning teeb nendest järelduse(d) (LT 1, 2, 4; õpipädevus);</li><li>teisendab Celsiuse ja Kelvini skaala mõõtühikuid (LT 2);</li><li>kogub infot ja koostab plakati või lühikese video, kus võrdleb Celsiuse, Fahrenheiti ja Kelvini temperatuuriskaalasid ning tutvustab seda oma klassikaaslastele (LT 1, 2, 4; suhtluspädevus, digipädevus);</li><li>uurib infot varem kasutusel olnud temperatuuriskaalade kohta ning annab leitud infost kirjaliku või suulise ülevaate õpetajale ja oma klassikaaslastele (LT 2, 3, 6; suhtluspädevus, digipädevus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>loodusõpetus (aine olekud),</p><p>keemia (aineosakesed ja aine olekud, temperatuur)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemaga seotud teadmiste, oskuste ja hoiakute hindamise võimalusi on erinevaid ning mitmekesine hindamismetoodika annab õpilasele põhjalikumat tagasisidet tema senisele ainealasele arengule ja edasiminekule.</p><p>Võimalikud hindamise objektid on:</p><ol><li>Läbiviidud katsete ja praktiliste tööde protokollid (mõõdetud/vaadeldud andmete esitamine, andmete analüüs, katsetulemuste kokkuvõte). Lisaks - tulemuste esitamine/kaitsmine suuliselt.</li><li>Suuline vastamine/arutelu õpetajaga.</li><li>Kirjalikud tööd (sh tunnikontrollid, kontrolltööd, ülesannete lahendamised, jne).</li></ol><p>Õpitulemused muudab õpilaste jaoks arusaadavamaks hindamismudelite kasutamine (vt näiteid <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">siit</a>).</p><p>Hindamisvõimaluste konkreetsemad näited/soovitused kõnealuses teemas:</p><ol><li>Tööleht mõne keerukama ja harjutamist vajava teema kohta nt aine olekute iseloomustus mikrotasandil (aineosakeste paiknemine ja liikumine), mõõtühikute teisendamine, graafikute koostamine ja analüüs.</li><li>Praktiline töö termomeetri kasutamise, andmete kogumise ja nende graafilise esitamise harjutamiseks.</li><li>Kokkuvõte (kirjalik, plakati või video vormis vms) ja ettekanne, milles tutvustatakse ja võrreldakse eri temperatuuriskaalasid (Celsius, Fahrenheit, Kelvin).</li></ol><p>Tähelepanuks - kontrolltöö/tunnikontrolli vms puhul soovitame kasutada pigem reaalelulisi ülesandeid, mille konteksti õpilane mõistab. Samuti on soovituslik jälgida, et töö küsimused seaks fookuse õpitust arusaamisele, mitte faktiteadmiste kontrollile.</p><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/70",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/93",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/138",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Veebis graafikute koostamise rakendus"
+            },
+            { "kind": "video", "src": "https://youtu.be/j8LIIvGBWxg" },
+            { "kind": "video", "src": "https://youtu.be/ZjM7W-Sds3s" },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/25490-Konvektsiooni-demokatse",
+              "title": "Konvektsiooni ilmestavate demokatsete videod"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Raamatu &quot;Huvitav füüsika II&quot; veebiversioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesanded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Soojusülekanne",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "eristab loodusnähtuste selgitamisel soojusülekande liike: soojusjuhtivust, konvektsiooni ja soojuskiirgust",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab siseenergia muutumist kehade soojenemisel ja jahtumisel",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "seletab soojushulga ja aine erisoojuse mõistet ning kavandab katse keha erisoojuse määramiseks",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib kehade soojuslike omaduste ja soojusülekande põhiomaduste järgi igapäevaelu- ja loodusnähtuseid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesandeid lahendades seost: $Q=cm\\Delta t$.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keha soojenemine ja jahtumine mikrotasandil. Siseenergia. Soojushulk. Aine erisoojus. Soojusülekanne. Soojuslik tasakaal. Soojusjuhtivus. Konvektsioon. Soojuskiirgus. Energia jäävuse seadus soojusprotsessides. Maa soojuslikku tasakaalu mõjutavad nähtused ja kliima. Aastaaegade vaheldumine. Soojusülekanne looduses ja tehnikas.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>siseenergia, soojushulk, soojuslik tasakaal, soojusjuhtivus, konvektsioon, soojuskiirgus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>soojusülekande uurimine;</li><li>keha erisoojuse määramine kalorimeetriga.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Soojusülekande liikide olemuse mõistmine võimaldab aru saada mitmetest looduses esinevatest nähtustest, ning neid teadmisi saab rakendada ka praktikas (majade soojustamine, külmal ajal õige riietuse valimine, toidu ja vedelike soojas/külmas hoidmine jpm). Antud teema juures tutvutakse ka kalorimeetriga ning õpitakse selle abil soojushulka määrama, st planeeritakse ja viiakse läbi praktilisi töid. Soojushulga valemiga lahendatakse erinevaid probleemülesandeid, mis aitab arendada õpilaste analüüsi ja seoste loomise oskusi. Kuna antud teemas tutvutakse soojusfüüsika aluste ning soojusjuhtivusega, on siin võimalik luua seosed materjaliteadlase, soojustehniku, kütteseadmete ja soojusenergeetika inseneri jms ametikohtade ning erialadega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Soojusülekande liike tutvustades võiks keskenduda meie talvises kliimas olulisele - sooja hoidvad riided, majade soojustusmaterjalid, termose ja termoanumate tööpõhimõte jms. Need on õpilase jaoks relevantsed ja praktiliselt vajalikud teemad/näited.</p><p>Mitmed materjaliteadlased tegelevad just materjalide soojusfüüsikaliste omadustega (kuumus- ja külmakindlus, soojusjuhtivus ja -mahtuvus, viskoossus jms). Võimalusel võiks õpilased viia ülikooli nende erialade esindajate tegevusega tutvuma või kutsuda kooli oma tööd tutvustama mõne soojusfüüsikaga tegeleva ameti (soojustehnik, soojusenergeetika insener, kütteseadmete spetsialist vms) esindaja.</p><p>Praktiliste tööde (soojusülekande uurimine kalorimeetriga, erisoojuse määramine jms) läbi viimine antud teema juures on äärmiselt vajalik. Kui selleks puuduvad kalorimeetrid, on võimalik katsed läbi viia ka tavalises anumas, mis vahtplastiga ümbritsevast keskkonnast isoleeritakse.</p><p>Soovitame soojushulga valemi kasutamisele pöörata võimalikult palju aega ja tähelepanu, sest selles kajastuvate seoste sisuline mõistmine ja korrektne kasutamine on oluline ka järgnevate teemade juures.</p><p>Antud teema raames on hea läbi rääkida Maa soojusliku tasakaalu kehtimise tingimused Maale jõudva ja Maalt lahkuva kiirguse kaudu. Kiirgusliku tasakaalu muudatus liigutab soojuslikku tasakaalupunkti. Võimalus on arutada, millises suunas saab soojuslik tasakaalupunkt liikuda ja millistel tingimustel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane</p><ol><li>võrdleb soojusülekande liike ja seob neid reaaleluliste olukordadega: koostab näidetega võrdlustabeli ning tutvustab seda plakati või esitluse vormis klassikaaslastele (LT 1, 2, 3, 6; suhtluspädevus);</li><li>kasutab õpikus, töövihikus või mõnes muus allikas olevat erisoojuste tabelit materjalile/ainete vastava erisoojuse leidmiseks (LT 4);</li><li>kavandab ja viib läbi praktilise töö, millega uurib soojusülekannet ja mõõdab selle käigus üle kanduvat soojushulka (nt erineva temperatuuriga vedelike kokku segamine kalorimeetris), teeb kindlaks, millised tegurid mõjutavad soojusülekande käigus üle kantava soojuse hulka (LT 1, 2, 4, 6;õpipädevus);</li><li>kavandab ja viib läbi praktilise töö, mille käigus määrab tundmatu metalli erisoojuse, esmalt püstitab hüpoteesi(d), seejärel kogub vajalikud andmed ja teeb nendest järelduse(d) (LT 1, 2, 4; õpipädevus);</li><li>kasutab soojusülekande ja soojusjuhtivuse kohta omandatud teadmisi ning osaleb klassis korraldatud võistlusel, mille käigus ehitab anuma (ette on antud valik erinevaid materjale, nii häid kui halbu soojusjuhte), mis hoiaks võimalikult kaua sügavkülmikust võetud jääkuubiku temperatuuri (LT 1, 2, 3, 4, 6; õpipädevus, suhtluspädevus, ettevõtlikkuspädevus);</li><li>teisendab soojushulga ja massi mõõtühikuid (LT 2);</li><li>arvutab temperatuuri muutu ja kasutab soojushulga valemit probleemülesannete lahendamiseks (LT 1, 2, 3);</li><li>kavandab külmal talvepäeval õues viibimiseks sobiva riietuse, esitab selle pildina ning tutvustab oma valikut koos soojusfüüsikaliste põhjendustega klassikaaslastele (LT 1, 2, 3, 6; ettevõtlikkuspädevus, suhtluspädevus);</li><li>tutvub soojusfüüsikaga seotud eriala esindaja (materjaliteadlane, soojusenergeetika insener, kütteseadmete spetsialist vms) töö sisu, võimaluste ja väljakutsetega, küsib küsimusi ning teeb kuuldust kokkuvõtte, mida tutvustab ka oma klassikaaslastele (LT 1, 2, 3, 4, 6, 8; enesemääratluspädevus, suhtluspädevus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>geograafia (päikesekiirguse jaotumine Maal, aastaajad, ilm ja kliima, soojusliku tasakaalu muutus atmosfääris - kasvuhoonegaaside lisandumine)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemaga seotud teadmiste, oskuste ja hoiakute hindamise võimalusi on erinevaid ning mitmekesine hindamismetoodika annab õpilasele põhjalikumat tagasisidet tema senisele ainealasele arengule ja edasiminekule.</p><p>Võimalikud hindamise objektid on:</p><ol><li>Läbiviidud katsete ja praktiliste tööde protokollid (mõõdetud/vaadeldud andmete esitamine, andmete analüüs, katsetulemuste kokkuvõte) ning tulemuste esitamine/kaitsmine suuliselt.</li><li>Suuline vastamine/arutelu õpetajaga.</li><li>Kirjalikud tööd (sh tunnikontrollid, kontrolltööd, ülesannete lahendamised, jne).</li></ol><p>Õpitulemused muudab õpilaste jaoks arusaadavamaks hindamismudelite kasutamine (vt näiteid <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">siit</a>).</p><p>Hindamisvõimaluste konkreetsemad näited/soovitused kõnealuses teemas:</p><ol><li>Tööleht mõne keerukama ja harjutamist vajava teema kohta nt soojushulga valemi rakendamine probleemülesannete lahendamiseks; mõõtühikute teisendamine; erisoojuse tabeli kasutamine jms.</li><li>Praktiline töö soojusülekande uurimiseks ja/või erisoojuse määramiseks.</li><li>Ettekanne, mille käigus õpilane kirjeldab külmal talvepäeval kandmiseks sobivat riietust ning põhjendab füüsikale toetudes selle valiku tagamaid.</li></ol><p>Tähelepanuks - kontrolltöö/tunnikontrolli vms puhul soovitame kasutada pigem reaalelulisi ülesandeid, mille konteksti õpilane mõistab. Samuti on soovituslik jälgida, et töö küsimused seaksid fookuse õpitust arusaamisele, mitte faktiteadmiste kontrollile.</p><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/70",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/93",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/138",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Veebis graafikute koostamise rakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/31494-Fuusika-praktikumid-8-12-klassile/292296",
+              "title": "Ekoolikoti kogumiku praktilise töö juhend teemal &quot;Kalorimeeter ja erisoojus&quot; (autor õpetaja Reivo Maasik)"
+            },
+            { "kind": "video", "src": "https://youtu.be/2kxWSaYMSiM" },
+            { "kind": "video", "src": "https://youtu.be/sFb_n-oPZ-o" },
+            { "kind": "video", "src": "https://youtu.be/8u6fkc8xn-M" },
+            { "kind": "video", "src": "https://youtu.be/5srtLmFaoiQ" },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Raamatu &quot;Huvitav füüsika II&quot; veebiversioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesanded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Aine oleku muutused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab keha siseenergia muutumist sulamisel, tahkumisel, aurumisel ja kondenseerumisel",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab sulamissoojuse, keemissoojuse ja kütteväärtuse tähendust",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "lahendab ja analüüsib rakendusliku sisuga osaülesanneteks taandatavaid soojusfüüsika kompleksülesandeid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesandeid lahendades järgmisi seoseid: $Q=\\lambda m,\\ Q=Lm$.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sulamine ja tahkumine, sulamissoojus. Aurumine ja kondenseerumine. Keemine. Aurustumissoojus ja keemissoojus. Kütuse kütteväärtus. Soojustehnilised rakendused. Aine oleku muutused looduses.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>sulamissoojus, sulamistemperatuur, keemissoojus, keemistemperatuur, kütuse kütteväärtus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>jää sulamissoojuse määramine kalorimeetriga;</li><li>vee keetmine läbipaistvas klaasanumas - keemisprotsessi uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitakse tundma igapäevaelust tuttavate protsesside/nähtuste (jäätumine, sulamine, aurumine, kondenseerumine, härmatumine, sublimatsioon) füüsikalist sisu ja nende esile kutsumiseks vajalikke tingimusi. See aitab suunata õpilase tähelepanu rohkem looduses (aga ka mujal) toimuvale ja selle mõtestamisele, loob seosed erialade ja ametikohtadega, mis on seotud meteoroloogia ja klimatoloogiaga. Antud teema raames teostatakse ka mõõtmisi ning analüüsitakse saadud andmeid, lahendatakse probleemülesandeid kahe uue seose/valemi abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema alguses tasub kindlasti meenutada (varasemalt õpitud) aine agregaatolekute muutusi ning nende nimetusi. Oleku muutused soovitame rühmitada (energia neeldub, energia eraldub) ning arutleda, millistes protsessides ja miks on energiat vaja juurde anda või ära võtta.</p><p>Õpilaste jaoks on tihti keeruline mõista, et sulamine ja tahkumine (aine oleku muutused) toimuvad samal temperatuuril, sellel tasub pikemalt peatuda ja eraldi selgitada antud nähtuse põhjuseid.</p><p>Probleemülesandeid (eriti selliseid, mis kirjeldavad pikemaid protsesse) lahendades võib olla abi sellest, kui enne lahendamist ülesande sisu skemaatiliselt (etappide kaupa) kirja panna. See aitab õpilasel probleemi väiksemateks alaetappideks lahti võtta ning sellisel moel lahendades on lõppeesmärgi saavutamiseks vajalikud sammud selgemad.</p><p>Enne konstantide (erisoojus, sulamis- ja keemissoojus) kasutamist tuleks nende sisu ja mõte põhjalikult läbi arutada. Eraldi tähelepanu soovitame pöörata ka tabeli kasutamisele (sealt vajalike suuruste leidmisele).</p><p>Kuna antud teema seostub väga tugevalt mitmete ilmastikunähtustega ja looduses toimuvate protsessidega, soovitame kõik probleemülesanded ja praktilised tööd siduda mõne sellise nähtusega. Ka siin teemas võib reaaleluliste seoste loomiseks külastada mõnd ilmavaatlusjaama.</p><p>Sademete aineolekute muutus atmosfääris (vihm, lumi, vesi gaasilises olekus) nõuab samuti energiat. Arutleda, kust olekumuutuseks energia saadakse, milliste protsesside käigus energia vabaneb, jne</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane</p><ol><li>kasutab õpikus, töövihikus või mõnes muus allikas olevat soojusõpetuse konstante (erisoojus, sulamis- ja keemistemperatuur, sulamis- ja keemissoojus) sisaldavat tabelit,, et leida sealt vajalikud suurused ning nende mõõtühikud (LT 2, 4);</li><li>kasutab sulamis- ja keemissoojuse valemeid probleemülesannete lahendamiseks (LT 1, 2, 3);</li><li>joonestab keerukamate probleemülesannete ilmestamiseks selgitavaid jooniseid, mis aitavad lahendatava probleemi etappideks jagada ja seeläbi probleeme paremini lahendada (LT 1, 2, 3; õpipädevus)</li><li>teisendab sulamis- ja keemissoojuse mõõtühikuid (LT 2);</li><li>kavandab ja viib läbi praktilise töö, mille käigus määrab jää sulamissoojuse, võrdleb saadud andmeid jää tegelikul sulamissoojusega ning analüüsib mõõtmise käigus tekkinud vigade ja võimalike kõrvalmuutujate mõju uuringu tulemustele (LT 1, 2, 4; õpipädevus);</li><li>kavandab ja viib läbi praktilise töö, mille käigus uurib vee keemisprotsessi ja selle erinevaid etappe, koostab saadud andmete põhjal vee keemisprotsessi kirjelduse ning tutvustab seda klassikaaslastele (LT 1, 2, 4; suhtluspädevus);</li><li>koostab senistele teadmistele tuginedes postri sademeringluse kohta (aine olekud) atmosfääris lisades juurde energiabilansi (protsess vajab, annab ära energiat), lisada süsteemi ka mõned ühikulised väärtused konkreetse etapi energiakulu kohta. Saadud tulemust tutvustada klassis kaasõpilastele (LT 1, 2, 7; õpipädevus, digipädevus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>geograafia (keemistemperatuur on mägedes madalam, sademe liigid - tahke, vedelik, pilvede, udu teke ja põhjused)</p><p>keemia (aine agregaatoleku muutumine)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ainega seotud teadmiste ja oskuste hindamise võimalusi on erinevaid ning mitmekesine hindamismetoodika annab õpilasele põhjalikumat tagasisidet tema senisele ainealasele arengule ja edasiminekule. Olemuselt ja ülesehituslikult erinevate tööde juures saab kasutada hindamisvõimaluste erinevaid kombinatsioone võttes aluseks eristava, mitteeristava või kujundava hindamise.</p><p>Võimalikud hindamismeetodid õpilase arengu toetaimiseks:</p><ol><li>Läbiviidud katsete ja praktiliste tööde protokollid (mõõdetud/vaadeldud andmete esitamine, andmete analüüs, katsetulemuste kokkuvõte). Lisaks - tulemuste esitamine/kaitsmine suuliselt.</li><li>Suuline vastamine/arutelu õpetajaga.</li><li>Kirjalikud tööd (sh tunnikontrollid, kontrolltööd, hindelised ülesannete lahendamised, jne).</li><li>Täidetud töölehe tagasisidestamine.</li><li>Teemat läbiva tervikuna kattev arvestuslik kirjalik töö.</li></ol><p>Hindamisvõimaluste konkreetsemad näited/soovitused kõnealuses teemas:</p><ol><li>Tööleht mõne keerukama ja harjutamist vajava teema kohta nt aine oleku muutuste kohta probleemülesannete lahendamine, konstante sisaldavate tabelite kasutamine; mõõtühikute teisendamine jms.</li><li>Praktiline töö sulamissoojuse määramiseks.</li><li>Vee keemisprotsessi uurimine ning saadud info põhjal keemisprotsessi kirjeldamine ja tutvustamine kaasõpilastele.</li></ol><p>Tähelepanuks - hindeliste tööde juures soovitame kasutada pigem reaalelulisi ülesandeid, mille konteksti õpilane mõistab. Samuti on soovituslik jälgida, et hindeline töö seab fookuse õpitust arusaamisele, mitte faktiteadmiste kontrollile.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/70",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/93",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/138",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Veebis graafikute koostamise rakendus"
+            },
+            { "kind": "video", "src": "https://youtu.be/nzmr289ShMM" },
+            { "kind": "video", "src": "https://youtu.be/pfuylJoz4Ys" },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Raamatu &quot;Huvitav füüsika II&quot; veebiversioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesanded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tuumaenergia",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "seostab isotoopide koostist, radioaktiivset lagunemist ja tuumareaktsiooni aatomituuma ehitusega",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab kergete tuumade ühinemise ja raskete tuumade lõhustamise praktilist väärtust",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab ning võrdleb α-, β- ja γ-kiirgust",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab loodusliku ioniseeriva kiirguse allikaid ja selgitab sellega seotud ohtusid.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aatomi mudelid. Aatomituuma koostis ja isotoobid. Radioaktiivsus. α-, β- ja γ-kiirgus. Kergete tuumade ühinemine. Raskete tuumade lõhustumine ja ahelreaktsioon. Tuumaenergia. Tuumareaktor. Ioniseeriv kiirgus ja kiirguskaitse. Dosimeeter.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>massi- ja laenguarv, isotoop, tuumajõud, seoseenergia, tuumareaktsioon, ahelreaktsioon, tuumareaktor, kiirgusdoos, radioaktiivne lagunemine, α-, β- ja γ-kiirgus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>dosimeetriga loodusliku kiirguse mõõtmine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimkonna pidevalt kasvav energiavajadus ning sellega kaasnev rohepööre on tuumaenergia ja tuumajaama rajamise teema Eestis aina aktuaalsemaks muutnud. On äärmiselt oluline, et õpilased mõistaksid tuumaenergia olemust ja selle rakendusi, ning nii selle positiivseid kui ka negatiivseid külgi. Antud teema annab võimaluse vaadelda antud teemat füüsikalisest seisukohast, püüdes mõista, kus täpsemalt paiknevad tuumaenergias peituvad ohud ja kasud. Õpilased saavad arutleda ja väidelda tuumaenergeetikat ja tuumajaamasid puudutavates küsimustes ning läbi selle arendada mitmeid vajalikke oskusi (seoste loomine, eneseväljendus, kuulamine, argumenteerimine jms). Kuna antud teemas tutvutakse tuumafüüsika algtõdedega, luuakse siin seosed mitmete selle valdkonna erialade ja ametitega nagu näiteks kiirgusfüüsika, tuumainseneeria, tuumameditsiin ja kiirgusravi, radiomeetria jpm.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema annab hea võimaluse aruteludeks ja analüüsiks (nt tuumajaama rajamise vajalikkus). Soovitame õpilastega läbi viia väitlusi ja/või arutelusid, kirjutada lühiesseesid, arvamusartikleid kooli ajalehte jms.</p><p>Raskete tuumade lagunemist on õpetajal võimalik näidata ja/või õpilastel iseseisvalt uurida arvutisimulatsiooni abil:</p>"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/en/simulations/nuclear-fission"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Soovitame vaadata ERR arhiivis olevaid videoid tuumajaama rajamise ja Tšornobõli tuumakatastroofi kohta. Saade Osoon andis 2023. aasta kevadel kahe saate vältel hea ülevaate Rootsis asuvast Forsmarki tuumajaamast.</p><p>Tuumaenergeetika teemat käsitledes keskenduda kindlasti nii positiivsele kui ka negatiivsele ja püüda vältida emotsioonidel baseeruvaid hinnanguid või arvamusi, mis ei põhine teaduslikel väidetel/füüsikal.</p><p>Õpilaste seas võiks pärast materjali omandamist ja mitme kandi pealt analüüsimist korraldada rahvahääletuse: tuumajaama poolt või vastu?</p><p>Võimalusel soovitame külastada mõne haigla kiirgusraviga tegelevat osakonda, et tutvuda seal kasutavate seadmete ja seal töötavate tehnikute, kiirgusfüüsikute jt taoliste ametite esindajate töö sisu, võimaluste ja väljakutsetega. Kui külastus ei ole võimalik, võib kaaluda mõne spetsialisti kutsumist kooli oma tööst rääkima.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane</p><ol><li>võrdleb α-, β- ja γ-kiirgust ning nende mõju elusorganismidele, koostab võrdlustabeli ja tutvustab seal olevat infot klassikaaslastele (LT 1, 2, 6, 7; õpipädevus, suhtluspädevus);</li><li>teab, mis juhtub isotoobiga, kui see teeb läbi α-, β- või γ-lagunemise ning koostab selle põhjal lihtsamaid tuumareaktsioone (LT 2);</li><li>uurib arvutisimulatsiooni abil raskete tuumade lagunemisprotsessi ning kirjeldab selle protsessi ning ahelreaktsiooni toimumist ja erinevusi tuumareaktoris ning tuumapommis (LT 1, 2, 3, 4, 6; digipädevus);</li><li>vaatab videoid ning loeb artikleid tuumajaamade, tuumapommide ning tuumakatastroofide kohta ja teeb neist kirjalikus vormis (tekst/plakat vms) kokkuvõtte, mida tutvustab ka klassikaaslastele (LT 1, 2, 4, 5, 6; sotsiaalne ja kodanikupädevus, suhtluspädevus);</li><li>arutleb/väitleb klassikaaslastega tuumajaama positiivse ja negatiivse mõju ning vajalikkuse üle (LT 1, 2, 3, 6; kultuuri- ja väärtuspädevus, sotsiaalne ja kodanikupädevus, suhtluspädevus)</li><li>osaleb klassis läbi viidaval minireferendumil, kus hääletab Eestisse tuumajaama rajamise poolt/vastu (LT 1, 2, 3, 5, 6; õpipädevus, sotsiaalne ja kodanikupädevus);</li><li>mõõdab dosimeetriga looduslikku kiirgust (LT 1, 2, 7);</li><li>külastab mõne haigla kiirgusraviga tegelevat osakonda, tutvub sealsete tehnikute töö sisu, võimaluste ning väljakutsetega ning teeb selle põhjal kokkuvõtte (LT 1, 3, 4, 6, 8; enesemääratluspädevus, suhtluspädevus);</li><li>tutvub internetiallikate põhjal mõne tuumafüüsika valdkonna eriala või ametiga (kiirgusfüüsik, tuumainsener, radiomeetria, kiirgusravi jms), koostab saadud info põhjal plakati või video vormis kokkuvõtte ja tutvustab seda oma klassikaaslastele (LT 1, 3,  5, 6; enesemääratluspädevus, suhtluspädevus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>inimeseõpetus (tervis ja ohutus)</p><p>keemia (aatomi ehitus)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ainega seotud teadmiste ja oskuste hindamise võimalusi on erinevaid ning mitmekesine hindamismetoodika annab õpilasele põhjalikumat tagasisidet tema senisele ainealasele arengule ja edasiminekule. Olemuselt ja ülesehituslikult erinevate tööde juures saab kasutada hindamisvõimaluste erinevaid kombinatsioone võttes aluseks eristava, mitteeristava või kujundava hindamise.</p><p>Võimalikud hindamismeetodid õpilase arengu toetamiseks:</p><ol><li>Läbiviidud katsete ja praktiliste tööde protokollid (mõõdetud/vaadeldud andmete esitamine, andmete analüüs, katsetulemuste kokkuvõte). Lisaks - tulemuste esitamine/kaitsmine suuliselt.</li><li>Suuline vastamine/arutelu õpetajaga.</li><li>Kirjalikud tööd (sh tunnikontrollid, kontrolltööd, hindelised ülesannete lahendamised, jne).</li><li>Täidetud töölehe tagasisidestamine.</li><li>Teemat läbiva tervikuna kattev arvestuslik kirjalik töö.</li></ol><p>Hindamisvõimaluste konkreetsemad näited/soovitused kõnealuses teemas:</p><ol><li>Tööleht mõne keerukama ja harjutamist vajava teema kohta nt lihtsamate tuumareaktsioonide koostamine α-, β- või γ-lagunemise põhjal jms.</li><li>Essee mõnel õpetaja poolt valitud tuumajaama või tuumapommi puudutaval teemal, nt &quot;Kas Eestisse tuleks rajada tuumajaam?&quot; või &quot;Tuumapomm - mida on selle loomine inimkonnale andnud?&quot;.</li><li>Väitlus mõnel õpetaja poolt valitud tuumajaama või tuumapommi puudutaval teemal.</li><li>Kokkuvõte ja esitlus, mille käigus õpilane tutvustab ühe vabalt valitud tuumafüüsikaga seotud eriala/ameti esindaja tööd.</li></ol><p>Tähelepanuks - hindeliste tööde juures soovitame kasutada pigem reaalelulisi ülesandeid, mille konteksti õpilane mõistab. Samuti on soovituslik jälgida, et hindeline töö seab fookuse õpitust arusaamisele, mitte faktiteadmiste kontrollile.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/70",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/93",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/138",
+              "title": "Digiõpikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Veebis graafikute koostamise rakendus"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/en/simulations/nuclear-fission"
+            },
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/video/vaata/2020-tuumajaam-eestisse",
+              "title": "ERRi arhiivi video &quot;Tuumajaam Eestisse: 2020?&quot;"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608807106/osoon",
+              "title": "Osooni saade Rootsi tuumajaama kohta"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/1608814471/osoon",
+              "title": "Osooni saade Rootsi tuumajaama kohta"
+            },
+            { "kind": "video", "src": "https://youtu.be/I2_YBJ8kubo" },
+            { "kind": "video", "src": "https://youtu.be/T6PEjqlMS6M" },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/87#/section/57512",
+              "title": "Raamat &quot;Tuuma energia&quot;"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Raamatu &quot;Huvitav füüsika II&quot; veebiversioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://evidence-erasmus.github.io/evidence/et/modules",
+              "title": "Projekti EVIDENCE õppematerjal &quot;Kiirgused&quot;"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

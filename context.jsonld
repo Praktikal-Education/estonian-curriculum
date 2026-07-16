@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "edu": "https://schema.edu.ee/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "id": "@id",
+    "type": "@type",
+    "name": "schema:name",
+    "curriculum": {
+      "@id": "dcterms:isPartOf",
+      "@container": "@set"
+    }
+  }
+}

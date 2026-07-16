@@ -1,0 +1,129 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Gümnaasiumi bioloogia tugineb põhikooli bioloogia õppimise ajal omandatud teadmistele, oskustele ja hoiakutele ning seostub gümnaasiumi keemias, geograafias, füüsikas, matemaatikas ja teistes õppeainetes õpitavaga. Selle kaudu omandab õpilane positiivse hoiaku kõige elava ja ümbritseva suhtes ning õpib väärtustama vastutustundlikku ja säästvat eluviisi. Bioloogias omandatud teadmised, oskused ja hoiakud lõimitult teistes õppeainetes omandatuga on alus sisemiselt motiveeritud elukestvaks õppeks. Bioloogiat õppides saab õpilane probleemülesannete lahendamise kaudu tervikülevaate elu mitmekesisuse, organismide ehituse ja talitluse, pärilikkuse, evolutsiooni, ökoloogia ning keskkonnakaitse ja rakendusbioloogia alustest. Seejuures saab õpilane ülevaate ka bioloogiateaduse peamistest seaduspärasustest, teooriatest ja tulevikusuundumustest ning nendega seotud rakendustest ja erialadest, mis aitab tal valida elukutset.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Bioloogiateadmised ja -oskused omandatakse suurel määral loodusteaduslikule meetodile tuginevate uurimisülesannete kaudu, mille vältel õpilane saab probleemide esitamise, hüpoteeside sõnastamise ja katsete või vaatluste plaanimise ning nende tegemise, tulemuste analüüsi ja tõlgendamise oskused. Olulisel kohal on uurimistulemuste suuline ja kirjalik esitamine, kaasates otstarbekaid verbaalseid ning visuaalseid esitusvorme. Ühtlasi omandab õpilane igapäevaeluga seonduvate probleemide lahendamise ja pädevate otsuste langetamise oskused, mis suurendavad tema toimetulekut loodus- ja sotsiaalkeskkonnas.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppimine on probleemülesannete põhine ja õpilaskeskne ning lähtub õpilase kui individuaalsetest iseärasustest ning tema võimete mitmekülgsest arendamisest. Aktiivõppe põhimõtteid järgiva õppe rõhuasetused on loodusteaduslikule meetodile tuginev uurimuslik käsitlus ning loodus-, tehnoloogia- ja sotsiaalkeskkonda siduvate probleemülesannete lahendamine, millega kaasneb õpilase kõrgemate mõtlemistasandite areng. Kõigis õppeetappides kasutatakse tehnoloogilisi vahendeid ning info- ja kommunikatsioonitehnoloogia (IKT) võimalusi. Selle käigus saavutab õpilane erinevate, sh elektroonsete teabeallikate rakendamise ning neis leiduva teabe tõepärasuse hindamise oskuse. Tähelepanu pööratakse õpilase sisemise õpimotivatsiooni kujunemisele, kasutades mitmekesiseid aktiivõppevorme: probleem- ja uurimuslikku õpet, projektõpet, rollimänge, diskussioone, ajurünnakuid, mõistekaartide koostamist, õuesõpet, õppekäike jne. Kõige sellega kujunevad õpilasel bioloogiateadmised ja -oskused, mis võimaldavad tal erinevaid loodusnähtusi ning protsesse mõista, selgitada ja prognoosida. Seejuures süvendatakse bioloogia kui loodusteaduse ja kultuurinähtuse suhtes positiivset hoiakut, mis võtab igapäevaprobleemide lahendamisel arvesse teaduslikke, majanduslikke, sotsiaalseid ja eetilismoraalseid aspekte ning õigusaktides sätestatut.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kõige selle tulemusel kujuneb õpilasest aktiivne kodanikuühiskonna liige, kes oskab ja tahab keskkonnaprobleeme märgata ning nende lahendamisele adekvaatselt kaasa aidata.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väärtustab bioloogiateadmisi ja -oskusi ning hoiakuid nüüdisaja loodusteaduste, tehnoloogia ja inseneeria tähtsate komponentidena ning saab aru loovuse ja innovatsiooni osast teaduse ja tehnoloogia arengus, nende omavahelistest seostest, piirangutest ja riskidest ning tähtsusest igapäevaelus",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "on omandanud süsteemse ülevaate eluslooduse peamistest objektidest ja protsessidest ning organismide omavahelistest suhetest ja seostest eluta keskkonnaga, kasutab korrektset bioloogiasõnavara",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub vastutustundlikult elukeskkonnasse, väärtustab bioloogilist mitmekesisust, jätkusuutlikku ja vastutustundlikku eluviisi ning säästva arengu põhimõtteid",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab loodusteaduslikku meetodit bioloogiaprobleeme lahendades: oskab sõnastada uurimisküsimusi ja hüpoteese, plaanida vaatlusi ja katseid, ohutusnõudeid silmas pidades korraldada bioloogiauuringuid, analüüsida ja teha korrektseid järeldusi ning esitada saadud tulemusi suuliselt ja kirjalikult",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab langetada loodus- ja sotsiaalkeskkonnaga seotud kompetentseid otsuseid ning prognoosida nende tagajärgi, tuginedes teaduslikele, sotsiaalsetele, majanduslikele, eetilismoraalsetele ja õigusalastele seisukohtadele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab bioloogiainfo erinevaid allikaid, analüüsib ja hindab kriitiliselt neis sisalduva teabe tõenduspõhisust, eristab seda pseudoteaduslikest seisukohtadest ja kasutab teadusinfot loodusprotsesse selgitades ning probleeme lahendades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on omandanud süsteemse ülevaate nüüdisaja bioloogia arengusuundadest ja sellega seotud elukutsetest ning kasutab bioloogiateadmisi ja -oskusi karjäärivalikul",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "on motiveeritud elukestvaks õppeks.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on õppe osa, mille kaudu toetatakse õpilase õppimist ja arengut. Hindamine peaks muutma õppimise nähtavaks ehk see peaks andma ülevaate õpitulemuste saavutatusest ja õpilase isikupärasest arengust ning toetatama tema kujunemist positiivse minapildi ja adekvaatse õppijaks. Hindamise tulemusega saab õppija tagasisidet oma edenemise kohta õppimisel ja õpistrateegiate valikuteks. Õpetaja saab teavet oma õpetamise tulemuslikkuse kohta ning sisendit nii õppe kui ka iseenda pädevuste arendamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilast hinnatakse õppimise eel diagnostiliselt ja kestel kujundavalt. Õppimise protsessi käigus kogutakse tõendeid õpilase õpitulemuste saavutamise kohta. Õpilast hinnatakse kokkuvõtvalt kursuse ning kooliastme lõpus. Hindamine peaks olema kooskõlas taotletavate õpitulemustega, mida aitavad tagada mitmekesised hindamismeetodid, et toetada õpilase loodusteadusliku pädevuse (teadmised, oskused, hoiakud), arengut.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Diagnostiliselt hinnates selgitab õpetaja kursuse või teema alguses välja õpilase teemakohased eelteadmised, sh loodusteaduslikud väärarusaamad ning spetsiifilised õpiraskused, et kavandada edasist õpetamist. Diagnostiliseks hindamiseks sobib nii õpilaste suuline kui kirjalik küsitlemine, õpilaste enesehindamise küsimustikud, mis aitavad neil välja selgitada oma eelteadmisi ja ootusi õppeaine suhtes ning viktoriinid ja testid kasutades näiteks vastavaid veebikeskkondi, et saada kiiret tagasisidet. Kiiret tagasisidet õpetajale pakub ka õpilase koostatud mõistekaart, mis toob visuaalselt kergesti haaratavalt välja õpilase arusaamise taseme teema põhimõistete ja nendevaheliste seoste kohta. Selleks sobivad hästi ka mõned veebikeskkonnad (nt <a href=\"https://coggle.it/\">https://coggle.it/</a>, <a href=\"https://www.mindmaster.io/\">https://www.mindmaster.io/</a> jt.). Diagnostilisi aineteste pakub Eksamite Infosüsteem (<a href=\"https://eis.ekk.edu.ee/eis/lahendamine\">https://eis.ekk.edu.ee/eis/lahendamine</a>).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppe ajal saab õpilane suulist või kirjalikku sõnalist tagasisidet oma õppimise edenemise kohta. Kirjaliku tagasiside annab õpetaja jooksvalt suuremahulise töö, näiteks õpimapi, essee, uurimistöö jne edasiarendamiseks. Tagasiside peaks kirjeldama ära nii saavutatud taseme kui ka mis jääb saavutatust puudu ning mida peaks õpilane tegema, et see saavutada. Nii tagasiside andmist kui ka kokkuvõtva hindamise muudavad läbipaistvamaks hindamiskriteeriumid ning hindamismudelid. Need on eriti vajalikud avatud ja/või loovat mõtlemist nõudvate õppeülesannete edukaks sooritamiseks (uurimistööd, ettekanded, esseed, vaatmikud, õpilaste koostatud loodusteaduslikud mudelid, videod, postrid jms). <a href=\"https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing\">Vt näiteid siit</a>. Hindamismudeli kriteeriumid võivad hõlmata nii protsessi, õppimise saadust (nt uurimistöö aruanne) kui ka otseselt õpilase teadmisi, oskusi ja hoiakuid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamismudelid muudavad õpilasele arusaadavamaks õpetaja ootused, võimaldavad tal enda õppimist juhtida ning anda edasiviivat tagasisidet kaaslastele, mida tuleks vaadelda samuti õppimise osana, kuna selle käigus õpivad õpilased oma vigu märkama ja neid analüüsima. Lisaks aitavad need õpetajal panna kokkuvõtvat hinnet, kui töö on valmis, ning õpilane saab paremini aru, kuidas hinne kujunes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamise osana võib käsitleda ka õpilaste enese- ning rühmarefleksiooni. Näiteks arutlevad õpilased iseseisvalt, rühmas või koos õpetajaga oma õppimise üle – mis läks töös hästi ja mida saaks järgmisel korral paremini teha. E-keskkondade, klassiarutelu vms kaudu annab õpilane tagasisidet õpetajale selle kohta, kuidas tal läheb ning pakub välja võimalusi, kuidas muuta õppimist tõhusamaks. Refleksiooni soodustavad küsimused nagu:</p><ul><li>Missune osa meie tänasest materjalist jäi Sulle kõige segasemakas?</li><li>Mis oli täna õpitud materjalis Sulle kõige raskem? Kõige kergem?</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Rühmaprotsesside ning koostöö suunamiseks:</p><ul><li>Kas ma olin hea kuulaja? Kas ma arvestasin teisi või tahtsin oma arvamuse läbi suruda?</li><li>Milline oli minu panus rühmatöösse?</li><li>Kas kõigil oli võimalik anda oma panus rühmatöösse?</li><li>Mida saaks järgmisel korral teha teisiti, et koostöö oleks tõhusam?</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamisviiside ja -vormide valikul arvestatakse seda, et gümnaasiumis suureneb keerukamate ning suuremat pingutust nõudvate ning kõrgemat järku kognitiivset mõtlemist nõudvate teadmiste ja oskuste osakaal. Nii kujundavalt kui kokkuvõtvalt hinnatakse probleemide lahendamise, analüüsimise, järelduste, üldistuste ja otsuste tegemise ning põhjendamise oskust jms. Lisaks testidele ja kontrolltöödele hinnatakse kokkuvõtvalt esitlust, vaatmikku, uurimistöö aruannet, esseed, koostatud loodusteaduslikku mudelit, sh mõistekaarti, kollektsiooni, videot, õpimappi, projektitöö käigus väljatöötatud disaini või lahendust vm. Ka hinnatakse uurimisoskusi, milleks on uurimisküsimuse esitamine või katse kavandamine etteantud situatsiooni või katsevahendite põhjal, järelduste tegemine etteantud andmete alusel, korraldatud katse kvaliteedi ja tulemuste kriitiline hindamine, ettepanekute tegemine katsetulemuste usaldusväärsuse tõhustamiseks ning kehtivate järelduste saamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hoiakute ning väärtushinnangute kujundamisel on tähtsal kohal õpilase enesehindamine. Õpilase hoiakud ja väärtushinnangud ei ole otseselt kokkuvõtva hindamise objektiks. Küll aga saab kokkuvõtvalt hinnata õpilase oskust väärtusi mõtestada, st nende üle arutleda, neid põhjendada ning õigustada isiklikust või teiste vaatenurgast lähtudes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Probleemülesannete (vt <a href=\"https://docs.google.com/document/d/1zHRw0igiM9VHgrduYt7ayALNxzxsi8Fp85wbxB7LEeg/edit?usp=sharing\">probleemülesannete tüüpe ja näiteid siit</a>) korral on hindamise kriteeriumiteks näiteks lahenduse otstarbekohasus ja põhjenduste arv ning sotsiaalsete, eetiliste, majanduslike jm aspektide esiletoomine, originaalsus, loogilisus ja korrektse loodusteadusliku sõnavara kasutamise määr ning sügavus. Loodusteadusliku essee puhul on hindamise kriteeriumiteks näiteks probleemiseade selgus, näidete ja põhjenduste arv ning loogilisus, korrektsete loodusteaduslike mõistete kasutamise määr, järelduste kehtivus, teksti osade üldine sidusus ning autori mõtete originaalsus (<a href=\"https://drive.google.com/file/d/1rRtGDNB3VB3ONMTYRlDgbvYRB3z-LUne/view?usp=sharing\">Vt hindamismudeli näidet</a>). Kognitiivselt erineval tasemel koostatud ülesannete, sh probleemilahenduse, uurimuslike ning kommunikatsioonioskusi hindavate ülesannete näiteid võib leida Haridus- ja Noorteameti kodulehelt (loodusteaduste IV kooliastme e-tasemetöö kirjelduse alt: IV kooliastme testi materjalid: loodusteadusliku kirjaoskuse komponendid ja tasemed koos näidisülesannetega).</p>"
+        },
+        {
+          "kind": "section",
+          "title": "bioloogia_PK_G_vordlus.pdf",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454040/bioloogia_PK_G_vordlus.pdf?version=1&modificationDate=1707297711735&api=v2",
+              "title": "bioloogia_PK_G_vordlus.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

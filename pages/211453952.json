@@ -1,0 +1,427 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valdkonnapädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Võõrkeeleõppe tulemusena kujuneb õpilastel eakohane võõrkeelepädevus vähemalt kahes võõrkeeles, mis tähendab, et õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab ja vahendab võõrkeeles esitatut",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtleb eesmärgipäraselt ja olukohaselt nii kõnes kui ka kirjas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob ja esitab nii suuliselt kui ka kirjalikult eri liiki tekste",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb õpitavat keelt kõnelevate piirkondade/kogukondade kultuuri",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab oma kultuuri ja teiste kultuuride sarnasusi ja erinevusi ning väärtustab keelelist ja kultuurilist mitmekesisust",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab võõrkeelte oskust ja on motiveeritud keeli õppima",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab võõrkeelseid veebikeskkondi, teadvustades nende võimalikke ohte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "omandab edasiseks keelte õppimiseks vajalikud oskused ja kohandab need enda vajadustele vastavaks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Põhikooli riikliku õppekava lisa 8 \"Ainevaldkond \"Võõrkeeled\"</em></p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.riigiteataja.ee/aktilisa/1080/3202/3001/18m_pohi_lisa8.pdf",
+          "title": "Põhikooli riikliku õppekava lisa 8 \"Ainevaldkond \"Võõrkeeled\""
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ainevaldkondlikud aluspõhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Igal õppekaval on kolm olulist dimensiooni: sisend, protsess, väljund. <a href=\"https://oppekava.ee/voorkeelte-valdkonna-uldosa/#_ftn1\">[1]</a> Võõrkeeleõppe puhul on sisendiks keeleõppe lingvistilise sisu määratlemine, protsessiks keeleõppes kasutatava metoodika valimine ja väljundiks õpitulemuste kirjeldamine. Neid kolme dimensiooni on õppekava luues võimalik käsitleda erinevas järjestuses. Näiteks võib õppekava koostada nii:</p><ol><li>mida õpetada tahetakse (sisend);</li><li>kuidas oleks õige õpetada (protsess);</li><li>mis võiksid olla võimalikud õpitulemused (väljund).</li></ol>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Võõrkeelte ainekavade ülesehitus põhineb nn tagurpidi õppekava loogikal: esmalt määratletakse õpitulemused, mida soovitakse saavutada, ning alles seejärel otsustatakse, mis on õpetuse sisu (õppematerjal) ja kuidas õpetada (protsess). Säärane käsitlus võimaldab järgida Euroopa keeleõppe raamdokumendi põhimõtteid ning toetada võõrkeeleõpetaja professionaalset vabaduse põhimõtet.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em><a href=\"https://oppekava.ee/voorkeelte-valdkonna-uldosa/#_ftn1\">[1]</a> Jack D. Richards, Theodore S. Rodgers. Approaches and Methods in Language Teaching. Cambridge University Press, 2014</em></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ainevaldkonna kirjeldus ja valdkonnasisene lõiming",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Võõrkeelte ainevaldkonna eesmärk on tagada, et õpilastel kujuneks eri keeltes välja suutlikkus mõista, väljendada ja tõlgendada kontseptsioone, mõtteid, tundeid, fakte ja arvamusi nii suuliselt kui ka kirjalikult (kuulamine, rääkimine, lugemine ja kirjutamine) mitmesugustes ühiskondlikes ja kultuurisituatsioonides, lähtudes nende vajadustest ja soovidest. Võõrkeelte ainevaldkonda kuuluvad õppeained avardavad igaüks eraldi ja kõik koos õpilaste suhtlusvõimalusi, aitavad neil mõista ja väärtustada mitmekeelelist ja -kultuurilist maailma ning kujundavad nende suutlikkust võõrkeeleoskust elukestvalt arendada. Valdkonnasisene lõiming toimub erinevate keelte õpetajate koostöös. Õpilasi suunatakse kasutama ühes keeles omandatud oskusi, et õppida teisi keeli ning luua seoseid ja tuua paralleele erinevate keelte vahel.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Võõrkeelte õpe lähtub Euroopa keeleõppe raamdokumendi ja selle sõsarväljaande põhimõtetest ning nendes kirjeldatud keeleoskustasemetest. Võõrkeelte õpitulemusi on raamdokumendile toetudes kirjeldatud ühtsetel alustel. Raamdokumendi põhimõtete rakendamine õppes võimaldab motiveerida õpilasi võõrkeeli õppima, suunata erineva edasijõudmisega õpilasi endale jõukohaseid õpieesmärke seadma ning saada läbipaistvat tagasisidet saavutatu kohta.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Raamdokument näeb keeleõppe eesmärgina õppijate toimetulekut erinevates suhtlusolukordades, suutlikkust end väljendada ja täita eri ülesandeid, st eesmärgiks on suhtluspädevuse kujunemine. Suhtluspädevus hõlmab raamdokumendi järgi kolme komponenti: keelelist, sotsiolingvistilist ja pragmaatilist pädevust. Keele grammatika ja sõnavara omandatakse keelt kontekstis eesmärgipäraselt kasutades ning järk-järgult jõutakse keelereeglite teadliku rakendamiseni. Sotsiolingvistilise pädevuse kaudu areneb õppija keelekasutuse olukohasus (viisakusreeglid, keeleregister jm) ning pragmaatilise pädevuse kaudu tema võime mõista, luua ja vahendada nii suulisi kui ka kirjalikke tekste.</p><p>Raamdokument rõhutab nii mitmekeelsuse kui ka mitmekultuurilisuse olulisust. Seetõttu arendatakse õpilastes oskust võrrelda oma ja teisi kultuure, leida nende sarnasusi ja erinevusi, mõista ning väärtustada kultuuride ja keelte eripära, olla salliv ning vältida eelarvamuslikku suhtumist võõrapärasesse. Suhtluspädevuse ja kultuuriteadlikkuse saavutamiseks suunatakse õpilasi tarbima vastava keele kultuuri ja aidatakse neil leida kontakte õpitava keele kõnelejatega, korraldades nt õppereise ja õpilasvahetusi või virtuaalkohtumisi. Teiste kultuuride tundmine aitab teadlikumalt tajuda oma keele ja kultuuri eripära.</p><p>Võõrkeeleõpe nõuab avatud ning paindlikku metoodilist käsitust, et kohandada õpet õpilaste vajaduste järgi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilaskeskse võõrkeeleõppe tähtsamad põhimõtted on:</p><ol><li>õpilase aktiivne osalemine õppetegevuses, tema teadlik ja loov võõrkeele kasutamine ning oma õpistrateegiate kujundamine;</li><li>õppematerjali sisu vastavus õpilase eale ja huvidele;</li><li>erinevate suhtluspädevust arendavate õppemeetodite rakendamine;</li><li>õpetaja kui õpilase koostööpartner ja nõustaja teadmiste ja oskuste omandamisel;</li><li>õppematerjalide avatus, nende kohandamine ja täiendamine õpilase eesmärkide, vajaduste ja huvide põhjal;</li><li>vigade käsitlemine õppimise loomuliku osana, nende parandamine vastavalt õppe eesmärgile.</li></ol>"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Põhikooli riikliku õppekava lisa 8 ptk 1.3 \"Ainevaldkond \"Võõrkeeled\"</em></p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://www.riigiteataja.ee/aktilisa/1080/3202/3001/18m_pohi_lisa8.pdf",
+          "title": "Põhikooli riikliku õppekava lisa 8 ptk 1.3 \"Ainevaldkond \"Võõrkeeled\""
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Valdkonnasisene ja -ülene lõiming, õppekava läbivad teemad, üldpädevused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Üldpädevuste kujundamine võõrkeelte valdkonnas",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pädevustes eristatava nelja omavahel seotud komponendi – teadmiste, oskuste, väärtushoiakute ja käitumise – õpetamisel on kandev roll õpetajal, kelle väärtushinnangud ja enesekehtestamisoskus loovad sobiliku õpikeskkonna ning mõjutavad õpilaste väärtushinnanguid ja käitumist.</p><p>Võõrkeelte valdkonnapädevuses ja kooliastme lõpuks taotletavates teadmistes, oskustes ja hoiakutes (õpitulemustes) sisalduvad keelepädevus, kultuuridevaheline pädevus (väärtushinnangud, käitumine) ning õpioskused. Võõrkeeli õpetades kujundatakse kõiki üldpädevusi seatud eesmärkide, käsitletavate teemade ning erinevate õpimeetodite ja tegevuste kaudu.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Kultuuri- ja väärtuspädevuse",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>arendamisel suunatakse õpilasi väärtustama inimsuhteid ja tegevusi üldkehtivate moraalinormide ning eetika seisukohalt. Oma kultuuri ja õpitavaid keeli kõnelevate maade kultuuride tundmaõppimise kaudu õpitakse mõistma, aktseptima ja austama erinevaid väärtussüsteeme ning kultuurilist eripära. Õpilast suunatakse teadvustama mitme erineva kultuuri kooseksisteerimist nii klassiruumis kui ka väljaspool, tõhusalt tegutsema mitmekultuurilises keskkonnas ning tajuma enda erinevate keelte oskust tervikliku ja kasulikuna.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Sotsiaalne ja kodanikupädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Igapäevastes suhtlussituatsioonides toimetulekuks nii kodus kui ka võõrsil on sobivate keelendite valiku kõrval vaja teada õpitavat võõrkeelt kõnelevate maade kultuuritausta ja sellest tulenevaid käitumisreegleid ning ühiskonnas kehtivaid tavasid. Seetõttu on sotsiaalne ja kodanikupädevus tihedalt seotud kultuuri-, väärtus- ja suhtluspädevusega. Sotsiaalse ja kodanikupädevuse kujundamisele aitavad kaasa erinevad õpitöövormid (nt rühmatöö, projektõpe, õpiränne, keelelaagrid) ning aktiivne osavõtt õpitava keelega seotud kultuuriprogrammidest või rahvusvaheline vabatahtlik tegevus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Enesemääratluspädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Enesemääratluspädevus areneb võõrkeeleõppes kasutatavate teemade kaudu. Iseendaga ja inimsuhetega seonduvat saab võõrkeeletunnis käsitleda arutluste, rollimängude ning muude õpitegevuste kaudu, mis aitavad õpilastel jõuda iseenda sügavama mõistmiseni. Õpilast toetatakse tema emotsioonide juhtimisel ja viisakusnormide omandamisel (rühma suhtluskeskkonna hoidmisel, konfliktide lahendamisel, toimetulekul esinemise või eksamitega).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õpipädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpipädevust kujundatakse pidevalt erinevaid õpistrateegiaid rakendades (nt teabe otsimine võõrkeelsetest allikatest, sõnaraamatu kasutamine, aktiivse kontakti otsimine sihtkeele kandjate ja kultuuriruumiga, <a href=\"https://web.htk.tlu.ee/opistrateegiad/\">kognitiivsed ja metakognitiivsed strateegiad</a>), eesmärgiga, et õpilane suudaks eakohasel tasemel iseseisvalt töötada ning jätkata keelte õppimist läbi elu. Olulisel kohal on eneserefleksioon ning õpitud teadmiste ja oskuste analüüsimine (nt Euroopa keelemapi põhimõtetest lähtuvalt). Õpilast toetatakse vastutuse võtmisel oma õpingute eest - õppetegevuse osaks on aja planeerimine, oma tegevuste mõtestamine (miks), motivatsiooni hoidmine, enesehindamine ja kaaslaste toetav hindamine. Õpilane on teadlik oodatavatest õpitulemustest ja teda kaasatakse vastavalt vanusele õppetöö eesmärkide seadmisse ja tulemuste kokkuvõtvasse hindamisse.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Suhtluspädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Suhtluspädevus on võõrkeeleõppes keskne. Võõrkeeleõpetuse eesmärgid lähtuvad otseselt suhtluspädevuse komponentidest ning nende sisust. Hea eneseväljendusoskus, teksti mõistmine ja tekstiloome on eduka suhtlemise eeldused võõrkeeltes. Suhtluspädevuse arengu toetamiseks luuakse õpperühmas õppijat toetav turvaline keskkond. Tähelepanu pööratakse tekstiloomele ja vahendamisele, näiteks vestluses osalemise oskustele (vooruvahetus, ettepanekute tegemine ja neile reageerimine, koostöö loomine ja soodustamine).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Matemaatika-, loodusteaduste- ja tehnoloogiaalase pädevusega seonduvad võõrkeeled suhtluspädevuse kaudu. Esmalt õpitakse võõrkeeles nt numbreid ning seejärel vastavalt keeleoskuse arengule mõistma erinevate elu- ja tegevusvaldkondade tekste, sh teabegraafikat või muul viisil visuaalselt esitatud teavet. Õpitakse kasutama tehnoloogilisi abivahendeid eri liiki tekste luues, korrigeerides ja esitades. Digitaalsetest allikatest info otsimine, analüüsimine, allikate, sh tehisintellekti loodud teabe usaldusväärsuse hindamine ning erinevate multimeediavõimaluste kasutamine (nt esitlemisel) toetavad digipädevuse arengut ja õpilaste õpimotivatsiooni.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ettevõtlikkuspädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Ettevõtlikkuspädevus kaasneb eelkõige enesekindluse ja julgusega, mida annab inimesele võõrkeeleoskus. Toimetulek võõrkeelses keskkonnas avardab õppija võimalusi viia ellu oma ideid ja eesmärke ning loob eeldused koostööks teiste sama võõrkeelt valdavate ea- ja mõttekaaslastega. Õppetööd lõimitakse nt. huvitegevuse, õpilaste omaalgatuslike <a href=\"https://proovikivi.ee/\">projektidega</a> (õpilasfirmad, üritused, külaliste vastuvõtmine), õppetöös teadvustatakse keelteoskuse rolli karjääri planeerimisel.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Digipädevus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Digipädevuse arengu toetamine võõrkeeleõppes aitab õppijal kujuneda kohanemisvõimeliseks, elukestvat õpet väärtustavaks ning tööturul toimetulevaks ühiskonna liikmeks, digikodanikuks. Õpilasi suunatakse <a href=\"https://digipadevus.ee/opiraam/\">kasutama digivahendeid</a> esitluste, projektide, õppemängude loomiseks, iseseisvaks keele arendamiseks (keeleõpperakendused), <a href=\"https://digipadevus.ee/\">enesehindamiseks</a>. Võõrkeelses teabekeskkonnas suunatakse õpilast turvaliselt haldama oma identiteeti, järgima küberturvalisuse ja eetika reegleid, hindama teabe usaldusväärsust.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivate teemade rakendamise võimalusi võõrkeelte valdkonnas",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Läbivate teemade (ingl cross curricular themes) all mõistetakse aineülest vaadet. Tegemist on eri õppeaineid puudutavate valdkondadega, mida käsitletakse eri õppeainete, koolikeskkonna korralduse ja huvitegevuse lõimimise kaudu.</p><p>Lähtudes õppekava läbivatest teemadest (elukestev õpe ja karjääri kujundamine; keskkond ja jätkusuutlik areng; kodanikualgatus ja ettevõtlikkus; kultuuriline identiteet; teabekeskkond ja meediakasutus; tehnoloogia ja innovatsioon; tervis ja ohutus; väärtused ja kõlblus), tuuakse võõrkeelte ainekavasse sobivad teemakäsitlused, näited ja meetodid, korraldatakse aineteüleseid, klassidevahelisi ja ülekoolilisi projekte, valitakse loovtöid 3. kooliastmes jne.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kuna läbiv teema ei ole omaette õppeaine, vaid seoste loomise vahend nii valdkonna sees kui ka valdkondade üleselt, siis on läbivad teemad võõrkeelte õppesisusse ja valdkonnapädevustesse teadlikult sisse kirjutatud, et paremini tagada nende lõiming võõrkeelte ainevaldkonnaga. Näiteks on eri kooliastmete õppesisus järgmised märksõnad läbiva teema keskkond ja jätkusuutlik areng kohta: käitumine looduses, looduskaitse, looduslik tasakaal, saasteallikad jne. Põhikooli valdkonnapädevustesse on kirjutatud läbiv teema kultuuriline identiteet järgmiselt: õpilane mõistab oma kultuuri ja teiste kultuuride sarnasusi ja erinevusi ning väärtustab neid. Läbivate teemade lõimimiseks keelõppesse saab soovitusi Tartu Ülikooli haridusuuringute ja õppekavaarenduse keskuse kogumikust <em><a href=\"http://www.curriculum.ut.ee/et/opetajalekoolile/labivad-teemad\">„Läbivad teemad õppekavas”</a> <a href=\"https://oppekava.ee/voorkeelte-valdkonna-uldosa/#_ftn1\">[1]</a></em> ja ÜRO kestliku arengu <a href=\"https://commission.europa.eu/strategy-and-policy/sustainable-development-goals/eu-and-united-nations-common-goals-sustainable-future_et\">eesmärkidest</a> (<a href=\"https://www.pwc.com/\">https://www.pwc.com/</a>):</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/211453952/image-2023-12-5_15-31-29.png?version=1&modificationDate=1706621651955&api=v2",
+              "alt": "ÜRO kestliku arengu eesmärgid"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lisaks otsesele seosele õppesisu ja valdkonnapädevustega võib läbivaid teemasid käsitleda ka konkreetsetes õpitegevustes (nt loovtöid kirjutades võib teema seostada vajaliku läbiva teemaga; läbivast teemast lähtudes saab luua rolli- ja suhtlusmänge; autentset võõrkeelset teksti valides on õpetajal peaaegu piiramatud võimalused läbivat teemat kajastada; mõne läbiva teemaga võib siduda võõrkeeltenädala üritused, kultuurisündmused, jne).</p><p>Kokku võttes võib öelda, et kontekstivaba suhtlus ei ole võimalik, suhtlust raamib alati mingi temaatika. Kuna kõik õppekava läbivad teemad on nii või teisiti seotud võõrkeelte valdkonna olulisima alusdokumendi, Euroopa keeleõppe raamdokumendi nelja suhtlusvaldkonnaga (avalik elu, isiklik elu, haridusvaldkond ja töövaldkond), siis on läbivate teemade kajastamine võõrkeeltes õppe loomulik osa. Seejuures on vaja meeles pidada, et võõrkeelte teemavaldkondade ega ka läbivate teemade puhul ei saa anda ammendavat sõnavara loetelu ning teemade juurde tullakse korduvalt tagasi. Õpetamisel lähtutakse ainekavast, mitte õpikust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teemavaldkonnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võõrkeelte õppimine toetab erinevais kooliastmeis õpilase algatusvõimet, mõtteaktiivsust ning läbivate teemade omandamist, kasutades selleks sobivaid võõrkeelseid (autentseid) alustekste ning erinevaid pädevusi arendavaid töömeetodeid. Eelkõige on läbivad teemad seotud järgmiste <strong>teemavaldkondadega</strong>:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Elukestev õpe ja karjääri kujundamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>„Õppimine ja töö”. Kujundatakse iseseisva õppimise oskus, mis on oluline alus elukestva õppe harjumuste ja hoiakute omandamisel. Erinevate õppevormide kaudu arendatakse õpilaste suhtlus- ja koostööoskusi, mida on muu hulgas vaja tulevases tööelus. Võõrkeelt õppides omandatakse eneseanalüüsiks ja enda tutvustamiseks vajalikku sõnavara ning oskusi, et ennast võõrkeeles esitleda ja oma mõtteid arusaadavalt edasi anda. Õpe võimaldab vahetult kokku puutuda töömaailmaga, nt käivad õpilased ettevõtteis, tutvuvad ainevaldkonnaga seotud ametite, erialade ja edasiõppimisvõimalustega. Keskendutakse erinevate töö- ja õpingutega seotud pädevuste omandamisele. Nii kujuneb oskus koostada õpinguile ja tööle kandideerimiseks vajalikke dokumente, suhelda erinevates töö- ja õppesituatsioonides, läbi viia eakohast uurimis- ja projektitööd, kujundada vajalikud karjääri kujundamise pädevused, jne.</p>"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://harno.ee/sites/default/files/documents/2021-02/Tervik_Karja%CC%88a%CC%88ri_kujundamise_oskuste_mudel_lisa_A4.pdf",
+                  "title": "Karjääri kujundamise pädevused"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Keskkond ja jätkusuutlik areng",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>„Kodukoht Eesti”. Taotletakse õpilase kujunemist sotsiaalselt aktiivseks, vastutustundlikuks ning keskkonnateadlikuks inimeseks, kes hoiab ja kaitseb keskkonda ning, väärtustades jätkusuutlikkust, on valmis leidma vastuseid keskkonna- ja inimarengu küsimustele nii kodus kui maailmas. Selleks sobivad erinevad projektõppe võimalused, kus noored mõõdavad ja muudavad oma ökoloogilist jalajälge, valivad eakohase probleemi oma kogukonnas, millele pakuvad välja lahendusi ning võrdlevad seda sarnaste olukordadega maailmas;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kodanikualgatus ja ettevõtlikkus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>„Mina ja teised“, „Igapäevaelu. Õppimine ja töö“, „Kodukoht Eesti“, „Vaba aeg“. Taotletakse õpilase kujunemist aktiivseks ning vastutustundlikuks kogukonna- ja ühiskonnaliikmeks, kes mõistab ühiskonna toimimise põhimõtteid ja mehhanisme ning kodanikualgatuse tähtsust, tunneb end ühiskonnaliikmena ja toetub oma tegevuses riigi kultuuritraditsioonidele ning arengusuundadele. Selleks vajalike pädevuste kujundamiseks sobivad arutelud ja ühisalgatused (vt. Õppija agentsus ja kaasagentsus), mis võimaldavad eesmärgipäraselt tegutseda ja suunavad õppijaid ühiskonnas edenemise ja edukuse suunas.</p>"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://www.hm.ee/sites/default/files/documents/2022-10/oecd_oppekompass_2030_e_toim_kuj.pdf",
+                  "title": "Õppija agentsus ja kaasagentsus"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kultuuriline identiteet",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>„Kodukoht Eesti”, „Riigid ja nende kultuur”. Taotletakse õpilase kujunemist kultuuriteadlikuks inimeseks, kes mõistab kultuuri osa inimeste mõtte- ja käitumislaadi kujundajana ning kultuuride muutumist ajaloo vältel, kellel on ettekujutus kultuuride mitmekesisusest ja kultuuriga määratud elupraktika eripärast ning kes väärtustab omakultuuri ja kultuurilist mitmekesisust, on salliv ja koostööaldis ning tegutseb tõhusalt mitmekultuurilises ruumis.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Teabekeskkond ja meediakasutus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>„Igapäevaelu. Õppimine ja töö“, „Riigid ja nende kultuur“, „Vaba aeg“. Taotletakse õpilase kujunemist teabeteadlikuks inimeseks, kes tajub ja teadvustab teabekeskkonda, suudab seda kriitiliselt analüüsida ning toimida selles turvaliselt oma eesmärkide ja ühiskonnas omaksvõetud kommunikatsioonieetika järgi;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tehnoloogia ja innovatsioon",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>„Igapäevaelu. Õppimine ja töö“, „Vaba aeg“. Taotletakse õpilase kujunemist uuendusaltiks ja nüüdisaegset tehnoloogiat eesmärgipäraselt kasutada oskavaks inimeseks, kes tuleb toime kiiresti muutuvas tehnoloogilises elu-, õpi- ja töökeskkonnas;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Tervis ja ohutus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>„Mina ja teised”, „Kodu ja lähiümbrus”, „Igapäevaelu. Õppimine ja töö“. Taotletakse õpilase kujunemist vaimselt, emotsionaalselt, sotsiaalselt ja füüsiliselt terveks ühiskonnaliikmeks, kes järgib tervislikku eluviisi, käitub turvaliselt ning aitab kaasa tervist edendava turvalise keskkonna kujundamisele;</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Väärtused ja kõlblus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>„Mina ja teised“, „Kodu ja lähiümbrus“, „Kodukoht Eesti“, „Igapäevaelu. Õppimine ja töö“, „Riigid ja nende kultuur“, „Vaba aeg“. Taotletakse õpilase kujunemist kõlbeliselt arenenud inimeseks, kes tunneb ühiskonnas üldtunnustatud väärtusi ja kõlbluspõhimõtteid, järgib neid koolis ja väljaspool kooli, ei jää ükskõikseks, kui neid eiratakse, ning sekkub vajaduse korral oma võimaluste piires.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppe kavandamine ja korraldamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppekeskkond on õpilasi ümbritseva vaimse, sotsiaalse ja füüsilise keskkonna kooslus, milles õpilased arenevad ning õpivad. Õppekeskkond toetab õpilase arenemist iseseisvaks ja aktiivseks õppijaks, kannab PRÕKi § 2 järgi <a href=\"https://www.riigiteataja.ee/akt/129082014020#para2\">põhihariduse alusväärtusi</a> ja oma kooli vaimsust ning säilitab ja arendab edasi paikkonna ning koolipere traditsioone.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><a href=\"http://oppekava.innove.ee/aktiivset-oppimist-toetava-keskkonna-loomine-voorkeeletundides/\">Õpet toetav keskkond</a> põhineb vastastikusel lugupidamisel ja üksteise seisukohtade arvestamisel ning erinevate osaliste kokkulepetest kinnipidamisel. Ollakse avatud vabale arvamusvahetusele, toetatakse üksteist positiivse tagasiside kaudu ning väärtustatakse nii enda kui ka teiste edusamme.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilasi koheldakse eelarvamusteta, õiglaselt ja võrdselt, austades nende eneseväärikust ning isikupära. Neile luuakse võimalus näidata initsiatiivi, avaldada arvamust, tegutseda nii üksi kui ka koos kaaslastega ning vastutada tööülesannete täitmise eest. Oluline on võimalikult palju õpitavas võõrkeeles suhelda, mis eeldab interaktiivset õppimist (vt. IKAP raamistik).</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453952/Chi%20et%20al%20IKAP%20toimetatud.pdf?version=1&modificationDate=1706621651963&api=v2",
+              "title": "IKAP raamistik"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Võõrkeeleõpe ning <strong>õppekoormus</strong> peavad olema ea- ja jõukohased. Õpet plaanides arvestab õpetaja õpilasrühma keeleoskuse taset ning õpilaste eripära ja vajadusi. Õppe diferentseerimist võimaldab võimetele ja keeleoskustasemetele vastavate ülesannete kasutamine, seejuures tuleb arvestada eri ülesannete mahtu ning nende täitmiseks tegelikult kuluvat aega.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keeleõppes rakendatakse <a href=\"http://oppekava.innove.ee/ikt-labiva-teemana-voorkeelte-oppekavas/\">digitehnoloogiat</a> nii õppe läbiviimisel, suheldes kui ka õpianalüütikat kogudes. Õpilast suunatakse otsima asjakohast usaldusväärset infot muuhulgas digivahenditega ning looma multimeediat. Tööülesannetes kasutatakse usaldusväärseid ja sobivaid digivahendeid ning võtteid, koostööd tehakse erinevates digikeskkondades.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keeleõpe võib toimuda nii klassiruumis kui väljaspool (õuesõpe, muuseum, jne). Keeleõppeklassis on keeleõppe eesmärkide saavutamist toetav ja liikumist võimaldav ruumikujundus vajalike õppematerjalide, sisustuse ja tehniliste abivahenditega. Klassis peab olema võimalik kuulata eri helikandjaid (nt CD-sid, <em>online-</em>helifaile) ning vaadata videoid. Tähtis on Interneti- või Wifi-ühendus ning arvuti(te) ja esitlustehnika olemasolu. Mööblit peab saama klassis ümber paigutada, et teha mitmesuguseid ülesandeid ning töötada rühmas või individuaalselt. Mööblit soetades peab arvestama õpilaste pikkusega. Klassi seintele pannakse nii töö- ja näitmaterjale kui ka õpilaste töid. Õppureil on käepärast (digi)sõnastikud ning muud eakohased ja nüüdisaegsed õppematerjalid. Kooli raamatukogu toetab võõrkeeleõpet võõrkeelse lugemisvaraga.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong>Keeleõppe tõhustamiseks on otstarbekas korraldada tunnid rühmades, mille soovitatav suurus on kuni 15 õpilast</strong> (<em>Põhikooli riikliku õppekava lisa 8 \"Ainevaldkond \"Võõrkeeled\" ptk 1.7 Õppekeskkonna kujundamise põhimõtted</em>).</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa8.pdf",
+              "title": "Põhikooli riikliku õppekava lisa 8 ptk 1.7 Õppekeskkonna kujundamise põhimõtted"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemuste saavutamiseks on mõistlik tagada kooli tunnijaotusplaaniga nii A-võõrkeele kui ka B-võõrkeele <strong>tunnid vähemalt kolm korda nädalas.</strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Põhikooli riikliku õppekava lisa 8 \"Ainevaldkond \"Võõrkeeled\" ptk 1.6</em></p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa8.pdf",
+              "title": "Põhikooli riikliku õppekava lisa 8 ptk 1.6"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Hindamine on õppeprotsessi osa, mille kaudu toetatakse õpilase õppimist ja arengut. Hindamisel saadakse ülevaade õpitulemuste saavutatusest ja õpilase individuaalsest arengust ning toetatakse selle kaudu õpilase kujunemist positiivse minapildi ja adekvaatse enesehinnanguga ennastjuhtivaks õppijaks, tekitatakse huvi võõrkeelte õppimise vastu ning luuakse alus elukestvale võõrkeeleõppele. Hindamise abil saab õppija tagasisidet oma edenemise kohta õppimisel ja õpistrateegiate valikuteks. Õpetaja saab teavet oma õpetamise tulemuslikkuse kohta ning sisendit nii õppetegevuse kui ka iseenda pädevuste arendamiseks. Võõrkeeleõppes lähtub hindamine eesmärgiks seatud keeleoskustaseme oskustest.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Juurdekasvu uskumuse pedagoogika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Samas tuleb meeles pidada ka <a href=\"https://www.tlu.ee/uudised/1-minuti-loeng-kuidas-uskumus-meie-voimeid-mojutab-katrin-poom-valickis\">edendamismõtteviisi</a> (juurdekasvu uskumuse) olulisust õppimisel (prof Carol Dweck) ning seetõttu peaks õpetaja tõlgendama õppijate õppimist, käitumist ning saavutusi lähtudes pigem protsessist kui teistest tunnustest. Juurdekasvu uskumuse pedagoogika (JUP) julgustab õpetajat toetama õppija õppimist neljast aspektist lähtuvalt:</p><ol><li>Individuaalse õpiprotsessi toetamiseks võiks õpetaja (koos õpilasega): analüüsida õpiprotsessi, et välja selgitada individuaalsed tõkked (s.t. puudused õppija õpiprotsessis või lähenemises õppimisse); tunda ära põhjused, miks õpilane ei suuda ülesande kallale asuda (eelteadmiste puudus, harjumatu ülesanne või tehnoloogia, keelebarjäärid, jne); mõista õpilase emotsionaalsete protsesside mõju õppimisele ja psüühikale (s.t. kohandad ülesandeid vastavalt).</li><li>Oluline on keskenduda meisterlikkusele, mitte tulemustele (st. defineerida edu õppimise ja paremaks muutumise, mitte oma üleoleku näitamise ja teistest parem olemise kaudu). Selleks tuleb julgustada väljakutsete vastuvõtmist ning pakkuda sobivaid väljakutseid (edukamatele õpilastele suuremaid); vältida õpilaste võrdlemist ning rõhutada koostööd; seada selged ja mõttekad õpieesmärgid.</li><li>Samuti tuleks hinnata sihikindlust, st toetada seda positiivsete sõnumite ja julgustamisega (õhutada õpilasi edasi pürgima); sealhulgas sihikindlust ka emotsioonide haldamisel, mida toetab arusaam, et õppimine ongi pingutus (st. kogu aeg ei peagi olema kerge ja lõbus, vaid teatud ebamugavus on õppimise puhul isegi vajalik).</li><li>Samuti on oluline toetada õpilastes protsessile keskendumist, st aidata õpilastel hinnata situatsiooni olulisust refleksiooni kaudu (pakkudes rohkem juhendeid õpiprotsessi jälgimiseks, aidates peegeldada meeleseisundit ning arutades, kuidas see võib õppimist mõjutada).</li></ol>"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>Rakendatakse nii diagnostilist, kujundavat kui ka kokkuvõtvat hindamist, mida esitatakse nii sõnaliste hinnangute kui ka numbriliste hinnetena. Diagnostilise hindamise käigus selgitatakse välja õpilaste eelteadmiste ja oskuste tase, ainealased väärarusaamad ja spetsiifilised õpiraskused, et kavandada järgnevat õppimist ja õpetamist. Õppeprotsessi käigus rakendatakse kujundavat hindamist, kus õpilane saab suulist ja kirjalikku tagasisidet nii õpetajalt kui ka kaasõpilastelt oma õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta. Sõnaline hinnang sisaldab juhiseid edasiseks, annab tagasisidet lisaks õpitulemuste saavutatusele väärtushinnangute ja -hoiakute ning õpioskuste saavutamise kohta ning suunab ennast analüüsima. Kokkuvõttev hindamine toimub õppeperioodi või mahuka õppeteema lõpul, et kontrollida õppetöös püstitatud eesmärkide saavutamist ja riikliku õppekavaga sätestatud õpitulemuste saavutatust. Kokkuvõttev hinne võib kujuneda õppeperioodi jooksul toimunud hindamise tulemusena, seejuures arvestatakse, et hinnetel võib sõltuvalt töö mahust ja raskusastmest olla erinev kaal.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Alates esimesest kooliastmest kaasatakse õpilane hindamisprotsessi nii oma töö hindamisel kui ka kaasõpilaste tagasisidestamisel. Õpilasele on õppeprotsessi alguses teada, mida ja millal hinnatakse, milliseid hindamisvahendeid kasutatakse ning millised on hindamise kriteeriumid. Õpilast suunatakse õppeprotsessi käigus oma õppimist ja püstitatud eesmärkide saavutamist analüüsima ja reflekteerima.</p><p>Hindamisel lähtutakse vastavatest põhikooli riikliku õppekava üldosa sätetest, hindamise nõuded ja korraldus, sh mittenumbrilise hindamise kasutamine ja mujal õpitu arvestamine täpsustatakse kooli õppekavas.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võrdlusmaterjal",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453952/voorkeeled_PK_vordlus.pdf?version=1&modificationDate=1707296364478&api=v2",
+              "title": "Võõrkeeled PK võrdlus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

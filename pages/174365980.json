@@ -1,0 +1,531 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Oodatavad õpitulemused 5. klassi lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "näitab ja nimetab näitvahendil inimese elundkondade tähtsamaid elundeid, kirjeldab tugisõnade toel nende ülesandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru lihtsast plaanist, leiab kooliümbruse plaanilt tuttavaid objekte",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab Eesti kaardil oma kodukoha, Eesti suuremad saared, järved, jõed ja linnad",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid oma kodukoha looduslikust mitmekesisusest ja inimeste tegevusest (sh olulisemad asutused ja ettevõtted, inimeste tegevusalad)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob abivahenditele toetudes näiteid organismide vaheliste seoste kohta looduses, koostab lihtsamaid toiduahelaid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ja kirjeldab abivahenditele toetudes maailmaruumi objekte ning nähtusi (Päikesesüsteem, öö ja päeva vaheldumine).",
+          "outcomeType": "knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kohustuslik aine maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kohustuslik aine maht 2 tundi nädalas.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik teemade järjestus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Inimene. Organismide rühmad ja kooselu. Plaan ja kaart. Eesti Vabariik. Maailmaruum ja planeet Maa.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/275",
+          "title": "Loodusõpetus 5. klassile (Lihtsustatud õppekava digiõpik)"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming läbivate teemadega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Elukestev õpe ja karjääri planeerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>elukutsed, loodusteaduslik uurimus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sotsiaalne pädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>koostöö, üksteise kuulamine, kaaslastega arvestamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Digipädevusmudel",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://digipadevus.ee/lok-digipadevusmudel/hindamiskriteeriumid/",
+              "title": "Digipädevusmudel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesti keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>legendid ja muistendid tähtkujudest (Suure ja Väikese Vankri tähtede tähendused rahvajuttudes). Loodusega seotud jutukesed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Matemaatika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>mõõtmine, kaalumine, mõõtühikud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Inimeseõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>inimene ja tervis. Igapäevased suhtlusolukorrad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Liikumisõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>treening, lihaste töö.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kunsti- ja tööõpetus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>erinevate organismide kujutamine (joonistamine, voolimine).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "5. klassi õppesisu, õpitulemused ja soovitused õppetöö läbiviimiseks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Loodusõpetuse sisu on valdavalt suunatud õpilaste praktiliste oskuste ja rakenduslike teadmiste omandamisele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Inimene",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimese välisehitus.</p><p>Elundid ja elundkonnad. Meeleelundid. Tugi- ja liikumiselundid. Hingamiselundid. Vereringe. Seedeelundid. Erituselundid. Paljunemiselundid. Närvisüsteem.</p><p>Elundkondade ülesanded.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamise aluseks olevad õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "näitab ja nimetab näitvahendil inimese elundkondade tähtsamaid elundeid,",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab tugisõnade toel nende ülesandeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "õpilane kaalub kehi (mõõtühikuks kilogramm).",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Inimese välisehituse plakatite koostamine õpetaja ja abimaterjalide toel.</li><li>Kehapikkuse (ja erinevate kehaosade) mõõtmine. Mõõtmistulemuste võrdlemine.</li><li>Kopsumahu testimine (õhupalli ja mõõdulindi abil).</li><li>Hingamissageduse mõõtmine rahulikus olekus ja peale pingutust.</li><li>Pimesikumängud kompimise, kuulmise ja haistmise testimiseks.</li><li>Meelemängud: lõhnavaid esemed haistmise testimiseks (apelsin, lõhnaõli, kaneel), sidrunhape, sool ja suhkur maitsmise testimiseks, kotikesed kompimiseks mõeldud sisuga jms.</li><li>Tervisliku päevamenüü mänguline koostamine.</li><li>Tervislike eluviiside mõtteskeemi koostamine.</li><li>Õppekäik Eesti Tervisemuuseumisse.</li><li>Külalisesinejad: kutsuda tervishoiutöötajaid rääkima oma kogemustest keha eest hoolitsemise tähtsusest.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid/ideed õpetajale",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://elundkonnad.weebly.com/elundkonnad.html",
+              "title": "Inimese elundkonnad (pildimaterjal)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.purposegames.com/game/skelett-quiz",
+              "title": "Mäng skeleti osade äratundmiseks (klassis koos mängimiseks)"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.ampser.ee/index.php?page=2",
+              "title": "Tervisliku toitumise arvesti"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/26393-Tervisliku-paevamenuu-manguline-koostamine-toitumine-ee-keskkonnas",
+              "title": "eKoolikott"
+            },
+            {
+              "kind": "link",
+              "href": "https://kiku.hambaarst.ee/oppetykid/",
+              "title": "Suuhügieen jms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Organismide rühmad ja kooselu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mets. Metsatüübid (okasmets, lehtmets).</p><p>Veekogud (jõgi, järv, meri). Veetaimed, Veeloomastik.</p><p>Soo (elutingimused). Turvas ja selle kasutamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamise aluseks olevad õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "toob abivahenditele toetudes näiteid organismide vaheliste seoste kohta looduses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära ja rühmitab kodukoha levinumaid taime- ja loomaliike;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb looduses/pildil ära kodukohale iseloomuliku looduskeskkonna (mets, soo, põld, veekogu) ning kirjeldab kava alusel selle elustikku;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab lihtsamaid toiduahelaid.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õppekäigul erinevate taimede, putukate, lindude ja loomade tuvastamine õpetaja toel. Leitud organismide paigutamine kuuluvusrühmadesse või elupaikadesse.</li><li>Looduse uurimine välitingimustes (väljasõit lähedalasuvasse looduskeskkonda, näiteks metsa, pargi või tiigi äärde).</li><li>Väikese ökosüsteemi loomine klassiruumi, näiteks akvaarium või terrarium, kus õpilased saavad jälgida mõnda taime ja väikest looma.</li><li>Taime eluring.</li><li>Lihtsate toiduahelate koostamine abimaterjalide toel (pildid).</li><li>Lihtsa ülevaate koostamine ühe kodukoha loomaliigi kohta: välimus, elupaigad, eluviis, toit, järglaste saamine, looduslikud vaenlased.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid/ideed õpetajale",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/meeltematas-oppevahend-looduse-tutvustamiseks-meelte-kaudu",
+              "title": "Meeltemätas (õppevahend raba, salumetsa ja rannaniidu tutvustamiseks meelte kaudu)"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/turbakohver",
+              "title": "Turbakohver (õppevahendite komplekt, mis on koostatud soode, selle elustiku tutvustamiseks ja loodusnähtuste selgitamiseks sisetingimustes)"
+            },
+            {
+              "kind": "link",
+              "href": "https://soo.elfond.ee/filmid/",
+              "title": "Eestimaa Looduse Fondi (ELF) üheksast õppefilmist koosnev seeria „Ah soo!”"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.keskkonnaharidus.ee/et/oppematerjalid/kohtumine-metsloomaga-e-oppematerjal",
+              "title": "Kohtumine metsloomaga (e-õppematerjal)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Plaan ja kaart",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Maakera mudel – gloobus. Leppemärgid sh leppevärvid gloobusel ja kaartidel. Eesti looduskaart.</p><p>Ilmakaared, suundade määramine Eesti kaardil. Põhiilmakaarte määramine kompassi abil ning päikese järgi.</p><p>Pildi ja plaani/kaardi erinevus. Klassi plaan ja kooliümbruse plaan. Enda asukoha määramine plaanil, objektide äratundmine ja nende asukoha (teiste objektide suhtes) kirjeldamine plaanil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamise aluseks olevad õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "saab aru lihtsast plaanist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab kooliümbruse plaanilt tuttavaid objekte;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb Eesti kaardil värvide järgi ära maismaa ja veekogud;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab ja näitab kaardil (abivahendite toel) põhiilmakaari;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab kompassi kasutamise vajadust.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Põhi-ilmakaarte määramine õues kompassi abil ning päikese järgi (õpetaja abiga).</li><li>Lihtsa kompassi ehitamine.</li><li>Eesti kaardiga tutvumine lauamängude või pusle abil.</li><li>Kontuurkaardi täitmine õpetaja toel.</li><li>Lihtsate maastikumudelite loomine (savi, papp vm materjalid).</li><li>Kooliümbruse erinevate paikade iseloomustamine (nt ilus/ohtlik jne koht) ja nende kaardistamine plaanil kokkulepitud värvide abil; värvidega märgistatud plaani võrdlemine kaaslase omaga, oma arvamuse põhjendamine (õpetaja küsimuste toel).</li><li>Orienteerumismäng (mõne lihtsa punktiga), mille käigus saab kasutada kaarti ja kompassi, et leida peidetud &quot;aardeid&quot; või tähistatud punkte.</li><li>Lihtsa plaani koostamine oma kodust või klassiruumist.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid/ideed õpetajale",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://hev.edu.ee/wp-content/uploads/2023/11/Plaan-ja-kaart-1.pdf",
+              "title": "Plaan ja kaart 1"
+            },
+            {
+              "kind": "file",
+              "src": "https://hev.edu.ee/wp-content/uploads/2023/11/Plaan-ja-kaart-2.pdf",
+              "title": "Plaan ja kaart 2"
+            },
+            {
+              "kind": "file",
+              "src": "https://hev.edu.ee/wp-content/uploads/2023/11/Ilmakaared-plaanil-ja-kaardil.pdf",
+              "title": "Ilmakaared plaanil ja kaardil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti Vabariik",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Asulad: linn, alev, küla. Eesti suuremad linnad, pealinn.</p><p>Eesti suuremad saared, järved ja jõed.</p><p>Inimeste tegevus koduasulas: kultuuri- ja teenindusasutused, arstiabi ja päästeteenistus, suuremad ettevõtted ja nende toodang.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamise aluseks olevad õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "leiab Eesti kaardil oma kodukoha, Eesti suuremad saared, järved, jõed ja linnad;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid oma kodukoha looduslikust mitmekesisusest ja inimeste tegevusest (sh olulisemad asutused ja ettevõtted, inimeste tegevusalad);",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodukoha näitamine Eesti kaardil.</li><li>Kodukohta tutvustava plakati koostamine.</li><li>Õppekäik ümbruskonna asutustesse/ettevõtetesse. Võimalusel kohtumised seal töötavate vilistlastega.</li><li>Piltide joonistamine/kollaaži koostamine oma kodukoha erinevate elukutsete esindajatest.</li><li>Loodushoiu põhimõtetega tutvumine (koduümbruse ja Eesti keskkonnaprobleemid). Mõistekaardi loomine (abivahendite ja õpetaja kaasabil).</li><li>Müra kaardistamine - ühistegevusena kodukoha mürarikaste kohtade kaardistamine. Arutlemine müra mõjust inimeste igapäevaelus.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Maailmaruum ja planeet Maa",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tähistaevas, taevakehad: täht (sh Päike), komeet. Maailmaruumi uurimine: pikksilm, binokkel, teleskoop, kosmoselaev, astronaut, astronoom.</p><p>Päike ja planeedid. Maa kaaslane Kuu. Päikesesüsteemi väikekehad: asteroidid, meteoriidid. Meteoor. Võimalikud katastroofid.</p><p>Maa pöörlemine – öö ja päeva vaheldumine. Maa tiirlemine – aastaaegade vaheldumine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamise aluseks olevad õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "nimetab ja kirjeldab abivahenditele toetudes maailmaruumi objekte ning nähtusi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab joonise põhjal (tugisõnade toel) Päikesesüsteemi ehitust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab Päikesesüsteemi planeedid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab lambi ja gloobuse abil öö ja päeva vaheldumist.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Maailmaruumi tutvustus Google Earth taevarakenduse abil (demonstratsioon).</li><li>Planeetide ning nende kaaslaste liikumise (tiirlemise ja pöörlemise) mudeldamine.</li><li>Päikesesüsteemi mudeli ehitamine (klassis või õues).</li><li>Öö ja päeva vaheldumise mudeldamine.</li><li>Aastaaegade vaheldumise mudeldamine.</li><li>Õppekäik Tartu Tähetorni või Observatooriumi.</li><li>Koostöös õpetajaga ühe taevakeha kohta lihtsa ülevaate koostamine. (Digipädevus 3.1)</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid/ideed õpetajale",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/71-2/",
+              "title": "Lisamaterjal. Maa"
+            },
+            {
+              "kind": "file",
+              "src": "https://test.hev.edu.ee/wp-content/uploads/2023/12/Paikesesusteem.pdf",
+              "title": "Lisamaterjal. Päikesesüsteem"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.obs.ee/~erik/eesti_astronoomid.html",
+              "title": "Eesti astronoomid"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=K8Osa_w98XU&ab_channel=Tartuobservatoorium"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/Wr-CRKsTYGs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

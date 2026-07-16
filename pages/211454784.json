@@ -1,0 +1,334 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "9. KURSUS     TRIGONOMEETRILISED FUNKTSIOONID. FUNKTSIOONI PIIRVÄÄRTUS JA TULETIS",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>saavutada õpitulemused nii, et õpilane omandab tüüpülesandeid ning kergemaid mitterutiinseid ülesandeid lahendades ainekava;</li><li>õpilane tunneb trigonomeetriliste funktsioonide graafikuid, oskab lahendada trigonomeetrilisi võrrandeid. Antakse funktsiooni piirväärtuse ja tuletis mõiste. Õpilane teab tähtsamaid tuletise leidmise reegleid;</li><li>õpilane saab aru matemaatilisest keelest ja suudab esitada oma matemaatilisi mõttekäike, arutleb loovalt ning loogiliselt, leiab ülesande lahendamiseks sobivad strateegiad, suudab analüüsida ja esitada alternatiive, oskab teha valikuid ning rakendab omandatud teadmisi uudses olukorras.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika rakendamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt, leida ülesande lahendamiseks sobivad strateegiad. Selleks käsitleda ülesannete lahendamise üldisi strateegiaid;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>matemaatika lai I–V, VII ja VIII kursus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "TRIGONOMEETRILISED FUNKTSIOONID",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab funktsiooni perioodilisuse mõistet ning leiab siinus-, koosinus- ja tangensfunktsiooni perioodi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonestab nii paberil kui ka digivahendite abil siinus-, koosinus- ja tangensfunktsiooni graafikuid ning loeb graafikutelt nende funktsioonide omadusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab algebraliselt lihtsamate trigonomeetriliste võrrandite erilahendid etteantud piirkonnas, kasutades üldlahendi valemit või funktsiooni graafikut.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Funktsiooni perioodilisus ja periood.</p><p>Siinus-, koosinus- ja tangensfunktsiooni graafik ning omadused.</p><p>Mõisted $\\arcsin m, \\arccos m, \\arctan m$.</p><p>Trigonomeetriliste võrrandite erilahendite leidmine etteantud piirkonnas, kasutades üldlahendi valemit või funktsiooni graafikut.</p><p>Graafikute joonestamine paberil ja digiseadmes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Korratakse eelmisel õppeaastal omandatud trigonomeetriliste avaldiste lihtsustamist ja algebraliste võrrandite lahendamise võtteid.</p><p>Võrrandi lahendamiseks on tarvis enne võrrandit lihtsustada, kasutades õppekavaga määratud valemeid. Võrrandite lahendamisel aktsepteeritakse nii algebralisel moel kui ka funktsiooni graafiku järgi saadud lahendeid ning tavaliselt leitakse lahendid etteantud piirkonnas.</p><p>Ruutvõrrandiks taanduv trigonomeetriline võrrand on kõrgeim nõutav tase.</p><p>Soovitame konstrueerida ka funktsiooni $y=\\mid f(x)\\mid$ graafiku ning kirjeldada selle omadusi.</p><p>Soovitame lahendada ka lihtsamaid võrratusi etteantud lõigul graafikut kasutades.</p>"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab leida trigonomeetriliste funktsioonide (nt $y=\\sin kx, y=\\cos kx, y=\\tan kx$) perioodi nii algebraliselt kui ka graafiku järgi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "joonestab õppekavaga määratud funktsioonide graafikuid ning kirjeldab graafiku põhjal funktsiooni omadusi lõigul (muutumispiirkond, määramispiirkond; positiivsus-ja negatiivsuspiirkond; kasvamis-ja kahanemisvahemikud);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab paaris- ja paaritu funktsiooni tunnust.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32047-Perioodilised-funktsioonid",
+              "title": "Perioodilised funktsioonid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32033-Trigonomeetrilised-vorrandid",
+              "title": "Trigonomeetrilised võrrandid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32893-Trigonomeetriline-vorrand-elus-Videoops-MATEMAATIKA-gumnaasiumile-Trigonomeetrilised-funktsioonid-5",
+              "title": "Trigonomeetrilised võrrandid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32030-Siinusfunktsioon-ja-vorrandi-sin-x-m-lahendamine",
+              "title": "Siinusfuntsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32028-Koosinusfunktsioon-ja-vorrandi-cosx-m-lahendamine",
+              "title": "Koosinusfunktsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32034-Trigonomeetrilised-vorratused",
+              "title": "Trigonomeetrilised võrratused"
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadideks"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+              "title": "Õppimist toetavast hindamisest täpsemalt"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em></p>"
+            },
+            {
+              "kind": "section",
+              "title": "Ülesannete raskusaste:",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</p><p><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</p><p><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selles kursuses kasutatakse palju 10. klassis õpitut. See võimaldab õpilaste teadmisi ühtlustada ja õppimises tekkinud lünki täita. Samaaegu on selle kursuse materjal väga tähtis järgmise kursuse õppimisel.</p><p>Perioodilist funktsiooni kasutatakse teisteski ainetes (füüsikas, bioloogias jne).</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Üldpädevuste toetamine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "FUNKTSIOONI PIIRVÄÄRTUS JA TULETIS",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab funktsiooni piirväärtuse ja tuletise mõistet ning tuletise füüsikalist ja geomeetrilist tähendust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitab liitfunktsiooni lihtsamate funktsioonide kaudu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab funktsioonide summa, vahe, korrutise ja jagatise tuletise leidmise eeskirja, leiab funktsiooni esimese ja teise tuletise ning liitfunktsiooni tuletise, kasutades etteantud tuletiste tabelit.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Funktsiooni piirväärtus ja pidevus. Argumendi muut ja funktsiooni muut.</p><p>Hetkkiirus.</p><p>Funktsiooni graafiku puutuja tõus.</p><p>Funktsiooni tuletis.</p><p>Funktsiooni tuletise geomeetriline tähendus. Funktsioonide summa ja vahe tuletis.</p><p>Kahe funktsiooni korrutise tuletis.</p><p>Astmefunktsiooni tuletis.</p><p>Kahe funktsiooni jagatise tuletis. Funktsiooni teine tuletis. Liitfunktsioon ja selle tuletise leidmine.</p><p>Trigonomeetriliste funktsioonide tuletis.</p><p>Eksponent- ja logaritmfunktsiooni tuletis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Piirväärtuse leidmisel ei tohi minna liiga tehniliseks, vaid rõhuda rohkem arusaamisele. Õpilane leiab funktsiooni piirväärtuse, lõpmatu piirväärtuse ja piirväärtuse lõpmatuse kohal.</p><p>Piirväärtuse mõiste on oluline funktsiooni tuletise mõisteni jõudmisel.</p><p>Vaadeldakse piirväärtuse tähendust juba tuntud funktsioonide korral.</p><p>Liitfunktsiooni mõistet on vaja selgitada mõlemat pidi (liitfunktsiooni kokkupanemine ja lahti harutamine). Alles pärast mõiste omandamist saab leida tuletist.</p><p>Oluline on tuletada summa, vahe, korrutise, jagatise ja astmefunktsiooni tuletise leidmise reeglid.</p><p>Funktsiooni tuletiste leidmist tuleb harjutada. Kui tundub, et tuletise leidmine muutub õpilastele igavaks, siis seotakse tuletise leidmine võrrandite või võrratuste lahendamise ning funktsiooni väärtuste arvutamisega etteantud kohal.</p><p>Õpetaja saab otsustada, kas toob teise tuletise leidmise sisse selles kursuses või jõuab selleni alles järgmises kursuses kumerus- ja nõgususpiirkonna leidmisel.</p><p>Tuleks tutvustada liitfunktsioone $y=\\sin 2x, y= \\cos 2x, y=e^{-x}$ ja $y=e^{x-2}$ ning leida nende tuletist. Soovitame leida $y=\\sin 2x$ ja $y=\\cos 2x$ tuletist liitfunktsiooni tuletise reeglit kasutades ning korrutise reegli järgi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/2205",
+              "title": "Astmefunktsiooni tuletis"
+            },
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/2206",
+              "title": "Eksponent-ja logaritmfunktsioonide tuletised"
+            },
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/2211",
+              "title": "Funktsioonide summa ja vahe, korrutise ja jagatise tuletised"
+            },
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/2215",
+              "title": "Liitfunktsiooni tuletis"
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadideks"
+            },
+            {
+              "kind": "link",
+              "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+              "title": "Matemaatika õhtuõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus",
+              "title": "E-koolikott"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p><p>Õppimist toetavast hindamisest täpsemalt: <a href=\"https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/\">https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/</a></p><p><em>Vt näiteülesandeid lehekülje allosas</em></p>"
+            },
+            {
+              "kind": "section",
+              "title": "Ülesannete raskusaste:",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</p><p><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</p><p><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ainesisene lõiming planimeetriaga ja stereomeetriaga. Õpilaste silmaringi laiendaks majandusteaduses kasutatava marginaali kui sisuliselt tuletisfunktsiooni mõiste lühitutvustus.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Üldpädevuste toetamine"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Näiteülesanded",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454784/LAI_MATEMAATIKA_9.kursus%20N%C3%A4iteu%CC%88lesanded.docx?version=1&modificationDate=1706621742580&api=v2",
+              "title": "LAI_MATEMAATIKA_9.kursus Näiteülesanded.docx"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454784/LAI_MATEMAATIKA_9.kursus%20Na%CC%88iteu%CC%88lesanded.pdf?version=1&modificationDate=1706621742572&api=v2",
+              "title": "LAI_MATEMAATIKA_9.kursus Näiteülesanded.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

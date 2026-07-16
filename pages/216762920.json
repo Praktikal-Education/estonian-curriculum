@@ -1,0 +1,112 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kõnesegmendid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Eesti keeles kõneldakse ja häälega loetakse kõnesegmentide haaval.</strong></p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>silp, kõnetakt, foneetiline sõna, süntagma, fraas, lausung, ütlus.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Silp",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>– sõna fonoloogiline üksus, mis koosneb ühest või mitmest häälikust, on väikseim kõnes esinev hääldussegment. Eesti keeles peab <em>silp</em> sisaldama vähemalt ühte täishäälikut.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lahtine silp lõpeb vokaaliga, <em>maa, vee, too.</em></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kinnine silp lõpeb konsonandiga <em>uss, trepp.</em></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kõnetakt",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>– silbirühm, mille piirides realiseeruvad sõnarõhk ja -välde. <em>Kõnetakt</em> algab rõhulise silbiga ning võib koosneda ühest kuni kolmest silbist. Sõna võib koosneda ühest või enamast kõnetaktist.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Näiteks: <em>mets, metsad</em> (1 kõnetakt); <em>metsadesse</em> (2 kõnetakti).</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/216762920/image-2024-3-2_16-43-27.png?version=1&modificationDate=1709391884547&api=v2"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/216762920/image-2024-3-2_16-44-9.png?version=1&modificationDate=1709391884567&api=v2"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Foneetiline sõna",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>– hääldatud täistähenduslik sõna.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Süntagma",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>- kahest (või enamast) grammatiliselt seostatud sõnast koosnev sõnade rühm.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Fraas",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>- terviklik kõnelõik.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lausung",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>- suulise keelekasutuse keskne suhtlusüksus. Üks <em>lausung</em> on pidev kõne, mis algab ja lõpeb selgelt tajutava pausiga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ütlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>– lausung või lausungirühm, mille tunnuseks on väljendatud mõtte terviklikkus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ütlus on ka kindlakskujunenud väljend, kõnekäänd, fraas, ütlemine.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

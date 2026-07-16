@@ -1,0 +1,850 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Õppeaine hõlmab viie valdkonna taotletavaid õpitulemusi, mis toetavad liikumispädevuse omandamist gümnaasiumi lõpuks nii, et gümnaasiumi lõpetaja on saanud positiivse kogemuse liikumisest ja liikumisharjumuse. Ainekava jätab õpetajale autonoomsuse õppesisu valikul tingimusel, et kõigi viie liikumisvaldkonna taotletavad õpitulemused oleksid kooliastme lõpuks saavutatud. Hindamissoovitused on toodud gümnaasiumi riikliku õppekava üldosas, valdkonna ainekavas ja iga valdkonna hindamismaatriksis.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "LIIKUMISOSKUSED",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab teadlikult edasiliikumisoskusi eri keskkondades, liikumisharrastuses, eri spordialadel ja tantsuliikides;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Kõndimine ja jooksmine</strong> kui üks osa igapäevasest liikumisviisist, harrastus- ja treeningvorm: kepikõnd, sportlik kõnd, matkamine, vastupidavusjooks, sörkjooks, tempo valik jooksmisel, ujumine, erinevad tantsud, ronimine, erinevad jooksualad ja hüppealad.</p><p><strong>Hüpete</strong> kasutamine treeninguna, liikumisharrastuses (nt takistusradadel) ja hüppealades (nt kaugushüpe).</p><p><strong>Ronimine</strong> liikumisharrastuse ja treeningvormina erinevates keskkondades: ronimissein, loodus- või tehiskeskkond, kaitseväe treeningrada jne. Ohutusnõuete arvestamine ja enda suutlikkuse hindamine. Ronimisvõtted.</p><p><strong>Kõnni ja jooksusammudel</strong> põhinevad tantsud, tantsumängud, sh linna- ja looduskeskkonnas. Hüppeid ja hüpakuid sisaldavad tantsud.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "liigub vahendil iseseisvalt kehaliste võimete arendamiseks või igapäevases liikumises;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Vahend, millega liigutakse valitakse kooli, õpilaste või paikkonna spordiklubide või huviringidega koostöös. Kasutab vahendil liikumist igapäevases liikumises. Soovitav teha ka vahendil liikumisega matku.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab igapäevaseks liikumiseks või liikumisharrastuseks vajalikke liikumisvahendi hooldusvõtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Vahend, millele keskendutakse valitakse kooli poolt. Sellest sõltub ka hooldusvõtete keskendumise vajadus vastavalt vahendi eripärale. Näiteks: jalgrattal oskab seada sadulat õigele kõrgusele, kontrollib rehvide õhuga täituvust, keti olukorda, oskab rehvi täispumbata ja vahetada.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "käsitseb vahendit erinevates liikumistes;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Gümnaasiumis tegeletakse kõikide vahendi käsitsemisoskustega: viskamine, püüdmine, põrgatamine, vahendi löömine jala, käe ja vahendiga erinevate liikumistegevuste kaudu.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mängib sportmängu reeglite järgi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Sportmäng, mida mängitakse, on koolide valida.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab esmaseid veeohutusalaseid oskusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Oma võimete hindamine; lihtsamad veeohutuse võtted.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib kehaasendite ja liikumiste kombinatsioonide loomist;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane loob ise erinevatest kehaasenditest ja liikumistest kombinatsioone arvestades ette antud juhiseid.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib harjutusi kehahoiu kontrollimiseks ja korrigeerimiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tervislikku kehahoidu toetav harjutusvara. Töötervishoid – harjutuste ja kehahoiu seostamine erinevate elukutsetega.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab olulisemaid kehakontrolli mõjutavaid tegureid ja oskab neid analüüsida;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Juurdeviivad harjutused kehakontrollile. Kehakontrolli mõjutavad tegurid. Näiteks: lihaskond, keskendumine, tasakaal, raskuskese (tunnetus) Analüüs enda video soorituse põhjal.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab turvalisuse ja ohutu liikumise põhimõtteid;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Soojendus enne liikumistegevust, riietuse valik vastavalt tegevusele, keskkonnale, ilmale.</p><p>Erinevate liikumisviiside puhul ohutuse tagamine nii linna- kui maakeskkonnas (enda nähtavaks tegemine). Teekonna kavandamine, ilmastikutingimusi ja liikumisviisi arvestavalt. Seos läbiva teema &quot;Tervis ja ohutus&quot; liiklusalaste õpitulemustega: põhjendab ja kasutab vajalikku turvavarustust liikumisviisi silmas pidades (kiiver, enda nähtavaks tegemine - need seonduvad ka tervisespordiga).</p><p>Turvavarustuse kasutamine: kiiver, kaitsmed, helkur, erksavärvilised riided jne. Liiklusohutus ohutu liikluskäitumise eristamine ohtlikust, oma käitumise analüüsimine. Liiklusreeglitega arvestamine vahendil (rula, tõukeratas, jalgratas jne) liikudes linna- või maakeskkonnas. Kaaslasega arvestamine vahendil liikumisel.</p><p>Vahendite otstarbekas kasutamine; arvestamine keskkonna ja kaaslastega.</p><p>Ohutuse arvestamine. Kehahoiu arvestamine asendites.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab hinnangu enda tegevusele paaris- ja rühmatöös;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hinnangu andmine toimub etteantud juhendi või küsimuste alusel. Hinnangus tuuakse välja ka õpilase roll koostöistes ülesannetes ja tema panus ühistegevusele. Õpilane toob eneseanalüüsis välja, mida ta tegi, et grupp toimiks ja tegutseks ühtse eesmärgi saavutamise nimel.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib ja annab hinnangu enda liikumisoskustele, -ohutusele ja turvavarustuse kasutamisele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hinnangu andmine toimub etteantud juhendi või küsimuste alusel. Hinnang sisaldab analüüsi omandatud oskustest, tehtud pingutusest nende õppimiseks ja edasist oskuste arendamise vajadust. Õpilane seostab enda liikumisoskuseid enda vaba aja harrastusega ja kehalise aktiivsusega.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab erinevate liikumisoskuste toimet heaolule ja töövõimele.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane seostab isiklikku kogemust erinevatest edasiliikumisoskuste kasutamisest igapäevases liiklemises (liikumisviisi valikus), tervisetreeningus ja selle mõjust tema heaolule ja töövõimele.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>valdkonnas kasutatavad spetsiifilised oskussõnad; heaolu; töövõime; liikumisharrastus; turvalisus; ohutus; eneseanalüüs.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>etteantud juhendi või küsimustiku alusel; paaris- ja rühmatöös.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>õpilase kujundamine ennastjuhtivaks õppijaks suunavate küsimuste abil; avatud arutelud; praktilised tegevused individuaalselt ja rühmades.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming üldpädevuste ja läbivate teemadega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>toimub õpetamise protsessi kaudu</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming teiste õppeainetega",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Füüsika: kursus &quot;Füüsika meetod. Kinemaatika&quot; - kinemaatika, ringliikumine,</p><p>Füüsika: kursus &quot;Dünaamika&quot;- mehaanika, impulss</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454002/Liikumisoskus_gymn.docx.pdf?version=1&modificationDate=1706621725006&api=v2",
+              "title": "PDF fail"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454002/Liikumisoskus_gymn.docx?version=1&modificationDate=1706621725041&api=v2",
+              "title": "WORD fail"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/valdkonnad/liikumisoskused/",
+              "title": "Liikumisoskuste kirjeldus"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/?mf_material-cat=23&mf_material-level=12",
+              "title": "Materjalid gümnaasiumi liikumisoskuste arendamiseks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "TERVIS JA KEHALISED VÕIMED",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "leiab endale sobivaid treeninguvõimalusi ja -meetodeid, lähtudes isiklikust eesmärgist;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane püstitab eesmärgi seoses kehaliste võimete arendamisega ja toob välja, milliseid tegevusi (nt. jalgrattaga sõitmine) ja meetodeid (kestvussõit 45 minutit) ta kasutab eesmärgi poole liikumisel.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab erinevaid treenimisvõimalusi ja -meetodeid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane teab, milliste meetoditega arendada tervisega seotud kehalisi võimeid: jõudu, vastupidavust, painduvust. Teab, milliste meetoditega arendada oskustega seotud kehalisi võimeid: koordinatsioon, kiirus, tasakaal. Mõistab tervisliku ja treeniva koormuse erinevust.</p><p>Treenimisvõimalus – milliste tegevuste kaudu saab teatud kehalist võimet arendada.</p><p>Lihtsamad treeningmeetodid – (kestvus-, vaheldus- jne).</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "arendab korrapäraselt enda kehalist võimekust kokkulepitud perioodil, lähtudes testide tulemustest ja koostatud treeningplaanist;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Treeningut planeerides on oluline täpselt läbi mõelda, mida soovitakse treeninguga saavutada ja kuidas selleni jõuda.</p><p>Treeningu planeerimise juures on oluline:</p><ol><li>püstitada eesmärk,</li><li>koostada süstemaatiline treeningplaan,</li><li>täita treeningplaani,</li><li>hinnata treeningplaani täitmist ja teha vajadusel korrektiivid.</li></ol><p>Lähtudes testide tulemustest kasutab õpilane tegevusi/harjutusi, et säilitada/parandada enda kehalist võimekust.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab erinevate kehalise võimekuse testide eesmärki;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane sooritab tervisega seotud kehaliste võimete teste, et saada tagasisidet terviseseisukohalt enda aeroobsele vastupidavusele, painduvusele ja jõule. Testide sooritamine. Erinevatel testidel on erinevad eesmärgid: kaitseväe testid; erinevad kehaliste võimete testid, mis annavad tagasisidet terviseskaalade alusel.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab hinnangu enda kehalistele võimetele ja eesmärgi saavutamisele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane analüüsib tervisega seotud ja kaitseväe testide tulemustest lähtudes enda kehalisi võimeid, nende muutust seoses treeninguga ja annab sellele hinnangu.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib tasakaalustatud liikumise ja toitumise mõju tervisele, seab selle kohta endale lühiajalise eesmärgi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane analüüsib teatud perioodil enda liikumise ja toitumise tasakaalu ja seab selle põhjal eesmärgi, mida ta teatud perioodil püüab täita.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>valdkonnas kasutatavad spetsiifilised oskussõnad; eesmärgistamine; treeningplaan; treeningmeetodid; treeningpulss; toitumine; energiabilanss</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>oma kehaliste võimete mõõtmine, analüüs ja tervisega seostamine (Fitback keskkonna kasutamine); liikumispäevik.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>õpilase kujundamine ennastjuhtivaks õppijaks suunavate küsimuste abil; avatud arutelud; praktilised tegevused individuaalselt ja rühmades; <em>(tutvustada kehaliste võimete teste, mida õpilane saab iseseisvalt tulevikus kasutada (lingid).</em></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming üldpädevuste ja läbivate teemadega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>toimub õpetamise protsessi kaudu</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming teiste õppeainetega",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Bioloogia: kursus „Molekulaarsed protsessid“- hingamine, energia ATP, metabolism, ainevahetus, energiavahetus, assimilatsioon, dissimilatsioon, aeroobne hingamine, anaeroobne hingamine</p><p>Bioloogia: kursus „Inimene ja keskkond“ - füüsilise aktiivsuse mõju inimese talitlusele, sealhulgas südame-veresoonkonna süsteemile ja lihaste funktsioonile</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454002/Tervis_kehalisedv%C3%B5imed_gymn_pdf.pdf?version=1&modificationDate=1706621725015&api=v2",
+              "title": "PDF fail"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454002/Tervis_kehalisedv%C3%B5imed_gymn.docx?version=1&modificationDate=1706621725046&api=v2",
+              "title": "WORD fail"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/kehaliste-voimete-oppematerjal/",
+              "title": "Kehaliste võimete materjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/oskustega-seotud-kehaline-voimekus-ja-sudameloogisagedus/",
+              "title": "Südamelöögisageduse mõõtmine"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/toitumise-ja-liikumise-opetajaraamat/",
+              "title": "Liikumise temaatika"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.fitbackeurope.eu/et-ee/",
+              "title": "Fitback"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.sportest.eu/wp-content/uploads/2017/10/Testide_juhend_R5_2311.pdf",
+              "title": "Toetav juhendmaterjal õpilaste kehaliste võimete mõõtmiseks ja tagasiside andmiseks"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.sportest.eu/et/materjalid/tervis/toitumine/",
+              "title": "Toitumisega seonduv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KEHALINE AKTIIVSUS",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "plaanib ja analüüsib enda liikumisaktiivsust ning peab teatud perioodil liikumispäevikut;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Planeerides liikumisaktiivsust oskab õpilane näha võimalusi liikumiseks, samas arvestada ka võimalikke takistusi. Õpilane oskab lähtuvalt päevakavast (nädalakavast) planeerida sinna igapäevast liikumist. Igapäevane liikumine võib olla aktiivne transport (liikumine ühest kohast teise) näiteks kõndides või jalgrattaga sõites, treening või aktiivne töö. Õpilane fikseerib igapäevaselt kehalise aktiivsuse vabalt valitud vormis.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab erineva liikumisintensiivsuse mõju organismile ja leiab endale sobiva koormuse;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Isikliku tervistava koormuse arvestamine. Sobiliku intensiivsuse leidmine. Teab treenituse, ületreeningu ja väsimuse seost koormuse ja intensiivsusega.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab hinnangu enda kehalisele aktiivsusele, toetudes isiklikele ja/või tehnoloogilistele vahenditele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Subjektiivse hinnangu andmine toimub toetudes näiteks etteantud küsimustele ja igapäevase liikumistegevuse jälgimisele/fikseerimisele; objektiivse hinnangu andmine tehnoloogilistele vahenditele (nt sammulugejad, rakendused jne).</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab liikumiseks ettevalmistavaid ja koormusjärgseid tegevusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Soojenduse ja venituse tegemine vastavalt liikumistegevusele.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab traumade ning haiguste järel sobilikku liikumist ja koormust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Liikumisintensiivsus kerges kuni mõõdukas tsoonis. Taastumist soodustavate harjutuste sooritamine.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "ennetab liikumisega seotud riske ja annab esmast abi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Seostab juurdeviivaid harjutusi ja tegevusi. Oskus saada aru, millal helistada 112 ja millist infot edastada telefoni teel.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>treenitus; ületreening; väsimus; spordivigastused;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [{ "kind": "text", "html": "<p>liikumispäevik</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>õpilase kujundamine ennastjuhtivaks õppijaks suunavate küsimuste abil; avatud arutelud; praktilised tegevused individuaalselt ja rühmades.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming üldpädevuste ja läbivate teemadega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>toimub õpetamise protsessi kaudu</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming teiste õppeainetega",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Bioloogia: kursus &quot;Inimene ja keskkond&quot; - füüsilise aktiivsuse mõju inimese talitlusele, sealhulgas südame-veresoonkonna süsteemile ja lihaste funktsioonile</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454002/Kehaline_aktiivsus_gymn.docx.pdf?version=1&modificationDate=1706621725021&api=v2",
+              "title": "PDF fail"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454002/Kehaline_aktiivsus_gymn.docx?version=1&modificationDate=1706621725053&api=v2",
+              "title": "WORD fail"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/toitumise-ja-liikumise-opetajaraamat/",
+              "title": "Liikumise temaatika"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.sportest.eu/et/materjalid/tervis/spordivigastused/",
+              "title": "Spordivigastused"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "LIIKUMINE JA KULTUUR",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "loob midagi liikumisega seotult, analüüsib loomist ja annab sellele hinnangu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Erinevate liikumist toetavate lahenduste loomine, loomisprotsessi analüüsimine, hinnangu andmine protsessile ja lõpptulemusele</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab hinnangu oma osalemisele ja/või vabatahtliku tegevuse kogemusele liikumisüritusel ning seostab saadud kogemust isikliku üldpädevuste arenguga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane toob hinnangus välja, milliseid üldpädevusi (laiemaid eluks vajalikke oskuseid) ta kasutas või arendas liikumisüritusel. Loob seoseid nende oskustega laiemalt ühiskonnas vajaminevate oskustega – nt suhtlemine erinevate inimestega, probleemide kiire lahendamine jne.</p><p>Seoste loomine erinevate kultuuri valdkondade vahel: liikumisüritused, näitekunst, fotograafia, skulptuur jne.</p><p>Erinevad paikkondlikud kui ka üle-eestilised liikumisüritused – pikkade traditsioonidega üritused ja uuemad liikumiskultuuri mõjutavad üritused – Tartu maraton, olümpiamängud, Simple Session, x-mängud.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab ausa mängu põhimõtteid üldinimlike väärtustega ja erinevate eluvaldkondadega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Toob näiteid, kuidas ausa mängu põhimõtteid (austus, sõprus, võistkonna vaim, aus võistlus, hoolimine) saab üle kanda igapäevastesse elutegevustesse.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab sportlaste ja tantsijate rolli kultuuri mõjutajana;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Sportlaste ja tantsijate elulood. Info otsimine ja seostamine enda harrastatava tegevusega või tuntud sportlase või tantsija tähendusega ühiskonnale.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib liikumistega seotud ohutusnõudeid, isiklikku hügieeni ja annab neile hinnangu;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane seostab ohutusnõudeid erinevate liikumistegevustega; järgib liikumise juurde kuuluvaid hügieeninõudeid – pesemine jne.</p><p>Ohutus – kõrvaklappide kasutamise ohtlikkus liikumistegevuse ajal.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "riietub vastavalt tegevusele ja keskkonna tingimustele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Riietumine vastavalt tegevusele, keskkonnale, ilmastikule; jalanõude valik. Liikumine hämaras, pimedas.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab hinnangu enda liikumiskogemusele looduskeskkonnas;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane toob analüüsi kaudu välja, millise kogemuse on ta saanud looduskeskkonnas liikudes, milliseid liikumisvõimalusi looduskeskkond pakub ja millega peab seal liikudes arvestama. Seostamine erinevate eluvaldkondadega – õues liikumine ilmastikust olenemata.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab hinnangu enda oskustele tulla iseseisvalt toime asukoha ja suuna määramisega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Raja läbimine kaarti ja kompassi kasutades. Tehnoloogiliste vahendite kasutamine. Orienteerumine kui liikumisharrastus. Õpilane analüüsib, milliseid oskuseid ta kasutas ja kuidas tal raja läbimine õnnestus.</p><p>Tuleb toime liikluskeskkonnas orienteerumisega, sh tehnoloogilisi abivahendeid kasutades.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõtestab liikumiskultuuri tantsu kaudu;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tantsualase silmaringi avardamine- lisaks tantsimisele tantsuetenduste/filmide/performance’ite vaatamine, arutelu. Erinevad võimalused liikumiseks läbi tantsu. Tantsu kui liikumiskultuuri mõtestamine eneseväljendusvahendina erinevates kultuurides.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "juhendab kaasõpilasi liikumises.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpetajaga kooskõlastatud liikumistegevuste juhendamine.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>valdkonnas kasutatavad spetsiifilised oskussõnad; liikumine kui kultuuri osa; orienteerumisoskuse kasutamine erinevates keskkondades ja olukordades; aus mäng;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>osalemine ja/või vabatahtliku tegevuse kogemuse saamine liikumisüritusel; saadud kogemuse seostamine ja analüüsimine isikliku üldpädevuste arenguga; kaasõpilaste juhendamine liikumises; liikumisega seotu loomine, loomisprotsessi analüüsimine ja sellele hinnangu andmine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>õpilase kujundamine ennastjuhtivaks õppijaks suunavate küsimustega abil; avatud arutelud; praktilised tegevused individuaalselt ja rühmades.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming üldpädevuste ja läbivate teemadega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>toimub õpetamise protsessi kaudu</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming teiste õppeainetega",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Muusika: kursus „Eesti muusikalugu“ - pärimustants rahvamuusika/rahvapilli saatega</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454002/Liikumine_kultuur_gymn_pdf.pdf?version=1&modificationDate=1706621725027&api=v2",
+              "title": "PDF fail"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454002/Liikumine_kultuur_gymn.docx?version=1&modificationDate=1706621725057&api=v2",
+              "title": "WORD fail"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/valdkonnad/liikumine-ja-kultuur/",
+              "title": "Liikumine ja kultuur"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/?mf_material-cat=90&mf_material-level=12",
+              "title": "Liikumine ja kultuur materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://opleht.ee/2017/10/muutuv-opikasitus-ja-valdkond-liikumine-ja-kultuur-liikumisopetuses/",
+              "title": "Liikumise ja kultuuri õpikäsitus"
+            },
+            {
+              "kind": "link",
+              "href": "https://orienteerumine.ee/orienteerumismangud/",
+              "title": "Orienteerumismängud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "VAIMNE JA KEHALINE TASAKAAL",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "valib teadlikult vaimset ja kehalist tasakaalu soodustavaid tegevusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane koostab endale sobiva individuaalse meelerahu- ja kehatunnetusharjutuste kava. Enda emotsionaalse seisundi reguleerimine meelerahu- ja kehatunnetusharjutuste abil. Nende harjutuste kasutamise vajaduse seostamine erinevate eluvaldkondadega ja olukordadega.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "sooritab iseseisvalt vaimset ja kehalist tasakaalu soodustavaid tegevusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane on võimeline valitud harjutusi iseseisvalt sooritama, oskab valikut põhjendada.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab vaimset ja kehalist tasakaalu soodustavaid tegevusi igapäevaelus toimetulekuks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane omab endale sobivaid meelerahu- ja kehatunnetus harjutusvara, mida ta saab kasutada igapäevaelus. Õpilane märkab ja oskab kirjeldada muutusi, mida meelerahu- ja kehatunnetusharjutused temas esile kutsuvad ja tuua välja igapäevase harjutuste kasutamise võimalusi.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab emotsioonidega toimetulemise viise.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kasutab endale sobivaid emotsioonidega toimetulemisega viise.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>meelerahuharjutused; kehatunnetusharjutused; keskendumisharjutused; tähelepanelikkuseharjutused; emotsioonide juhtimine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>endale sobiva individuaalse meelerahu- ja kehatunnetusharjutuste kava koostamine; eneseanalüüs</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>õpilase kujundamine ennastjuhtivaks õppijaks suunavate küsimustega abil; avatud arutelud; praktilised tegevused individuaalselt ja rühmades.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming üldpädevuste ja läbivate teemadega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>toimub õpetamise protsessi kaudu</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming teiste õppeainetega",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Inimeseõpetus: kursus &quot;Perekonnaõpetus&quot;- enda huvide, hobide ja ettevõtmiste toetav mõju enesearengule ja peresuhetele</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454002/Vaimne_kehaline_gymn.docx.pdf?version=1&modificationDate=1706621725033&api=v2",
+              "title": "PDF fail"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454002/Vaimne_kehaline_gymn.docx?version=1&modificationDate=1706621725063&api=v2",
+              "title": "WORD fail"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/valdkonnad/kehaline-ja-vaimne-tasakaal/",
+              "title": "Vaimne ja kehaline tasakaal"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/lodvestumine-ja-taastumine-meelerahu-ja-kehatunnetusharjutuste-kaudu-opetajale/",
+              "title": "Meelerahu- ja kehatunnetusharjutused õpetajale"
+            },
+            {
+              "kind": "link",
+              "href": "https://vaikuseminutid.ee/vaikuseminutite-harjutused/",
+              "title": "Vaikuseminutite harjutused"
+            },
+            {
+              "kind": "link",
+              "href": "https://peaasi.ee/emotsioonide-vaoshoidmine/",
+              "title": "Emotsioonid"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/?mf_material-cat=84&mf_material-level=12",
+              "title": "Vaimne ja kehaline tasakaal materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/valdkonnad/kehaline-ja-vaimne-tasakaal/",
+              "title": "Vaimne ja kehaline tasakaal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

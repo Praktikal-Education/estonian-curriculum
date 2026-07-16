@@ -1,0 +1,146 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on kujundada õppuril süsteemne arusaam sõjalise kehalise ettevalmistuse põhimõtetest ning arendada füüsilisi võimeid, mis on vajalikud teenistuseks kaitseväes. Kursuse käigus omandab õppur teadmised kehalise treeningu alustest, arendab lihasvastupidavust, üldvastupidavust ja baasjõudu ning õpib rakendama erinevaid treeningrežiime.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tutvustatakse Eesti Kaitseväe spordisüsteemi, sõjaväespordi eripära ning kehaliste võimete kontrolltesti (KVKT) sooritamise põhimõtteid. Õppetöö käigus harjutatakse praktiliselt erinevaid kehalise ettevalmistuse meetodeid, käsivõitluse aluseid ning takistusraja läbimist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursus toetab õppuri valmisolekut täita teenistusülesandeid, arendab enesedistsipliini ja regulaarse füüsilise treeningu harjumust ning suunab õppurit iseseisvalt oma füüsilist vormi arendama ja hindama.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on mitteeristav.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamise aluseks on täidetud treeningpäevik ja kolm sooritatud KVKT.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppematerjal",
+      "children": [
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=C-7heqU2T68"
+        },
+        {
+          "kind": "link",
+          "href": "http://youtube.com",
+          "title": "youtube.com"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Mobiilirakendus SPORDIVÄGI</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse õpitulemused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab kaitseväe kehalise võimekuse kontrolltesti  (KVKT) eesmärki;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arendab korrapäraselt enda kehalist võimekust kokkulepitud perioodil, lähtudes KVKT testi tulemustest ja koostatud treeningplaanist ning toetava vahendina kaitseväe spordirakendust \"Spordivägi\";",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab endale sobivaid treeninguvõimalusi ja -meetodeid, lähtudes isiklikust eesmärgist KVKT testi põhjal;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab erinevaid treenimisvõimalusi ja -meetodeid, et arendada kehalist võimekust KVKT testi tulemusest lähtudes;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, kuidas mõjutab koormus, varustus, ilmastik jms. vigastuste riski",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab hinnangu enda kehalistele võimetele ja eesmärgi saavutamisele lähtudes KVKT testi tulemusest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Sooritab KVKT ja läbib sõjalis-sportliku takistusraja või sarnase takistustega raja",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Liikumisharrastuse arendamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Liikumisharrastuse vajalikkus ja mõju</li><li>Sport Kaitseväes</li><li>Kaitseväe spordiäpp „SPORDIVÄGI“ tutvustus ja kasutamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Vigastuste ennetamine ja lihashooldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Vigastuste riski mõjutavad tegurid</li><li>Lihashooldus</li><li>Ülekoormuse ennetus</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldkehaline ettevalmistus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Lihas- ja jõuvastupidavust treenivad harjutused</li><li>Baasjõutreeningu harjutused</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Militaarspetsiifiline ettevalmistus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kaitseväe kehaliste võimete kontrolltesti spetsiifiline kehaline treening</li><li>Sõjalisspordi takistusrada</li></ul>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

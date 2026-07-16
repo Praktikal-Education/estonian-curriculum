@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpitulemused II kooliastmes",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>6. klassi lõpetaja:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab kuulates aru õpitud sõnadest ja lühikestest lausetest, kui räägitakse aeglaselt, hääldab õigesti õpitud sõnu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "reageerib adekvaatselt väga lihtsatele küsimustele ja juhistele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb dialoogis õpitud lausemallide piires",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb ärakirja õpitud lühikestest tekstidest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab arve",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ja järgib esmaseid viisakusnorme",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "on saavutanud eel-A1 (Pre-A1) keeleoskustaseme.",
+          "outcomeType": "competence"
+        }
+      ]
+    }
+  ]
+}

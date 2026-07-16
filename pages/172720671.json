@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kunstiõpetuse eesmärgiks lihtsustatud õppekaval õppija puhul on eelkõige huvi äratamine kunsti ja visuaalkultuuri vastu ning loomingulise algatusvõime toetamine.",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilane õpib tundma ja kasutama kunstikeelt, arendab vaatlusoskust, kunstilist mõtlemist ja kujutlusvõimet. Kunstiõpetuse tunnid toovad õpilase ellu rõõmu ja mängulusti, millega kaasneb käeliste oskuste ja vilumuste arendamine (treenimine).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kunstiõpetusega taotletakse, et õpilane:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb rõõmu oma kunstilisest tegevusest ja selle lõpptulemusest;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab töövahendeid ja -materjale eesmärgipäraselt, ohutult ja säästvalt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vaatleb ning võrdleb oma ja kaaslaste loomingut, iseloomustab kunstiteoseid, kasutades õpitud teadmisi ja erialast sõnavara;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab oma eelistusi ja selgitab seisukohti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi kunstiteoste ja eesti kultuuripärandi vastu, väärtustab enda ja kaasinimeste loomingut.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kunstiõpetuse tundides luuakse üksteist austav, vastastikku hooliv ja toetav, turvaline, kiusamis- ja vägivallavaba õppekeskkond, mis rajaneb usalduslikel suhetel, sõbralikkusel ja heatahtlikkusel ning kus märgatakse ja tunnustatakse õpilase pingutusi ja õpiedu.",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpetamisel lähtub õpetaja põhimõtetest:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "1) kunste on vaja tõlgendada.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunstide kõne ei ole sõnasõnaline, kunstiteosed pakuvad eri tõlgendusvõimalusi ja tähendusi, mis põhinevad alati maailmavaatel, varasemal elu- ja kunstikogemusel ning on juhitud tunnetest, samuti kogemise kontekstist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2) kunstid toetavad mitmekülgset loovust.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti õppimine kujundab õppija loovust ja isiksuseomadusi, mis annavad eeldused mis tahes inimtegevuse valdkonnas probleeme uut viisi lahendada, et jõuda originaalsete, kasulike, eetiliste ja vähemalt looja jaoks soovitud tulemusteni.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "3) kunstid toetavad esteetilise tundlikkuse kasvu ning inimese heaolu.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja muusika õppimine põhikoolis võimaldab õpilasel ära tunda, emotsionaalselt kogeda ja hinnata enda ümber subjektiivset ilu (kuuldavat, kombatavat, nähtavat, abstraktset) ning nautida seda samavõrra nagu teiste oskusi või meisterlikkust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "4) kunstiaineid õppides arenevad kinesteetilised oskused ja kognitiivsed võimed,",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>mis on lahutamatult seotud loomega – musitseerimise ja visuaalkunsti, ent ka performatiivsete kunstide loomisega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "5) kunstiainete õppimine toetab iseenda mõistmist ja mõtestamist ning üldpädevuste omandamist sisukalt ja terviklikult.",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja muusikaga järjepidev tegelemine toetab õppija eneseusalduse kujunemist ning eneseväärikust. Kunstide kaudu saab tõhusalt arendada kognitiivseid oskusi, nt loovat ja kriitilist mõtlemist, refleksiooni- ja analüüsioskusi, samuti mittekognitiivsed oskusi, nt avatust, otsustusvõimet ja riskijulgust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>(Loe lisaks riikliku õppekava peatükkist <a href=\"https://projektid.edu.ee/x/ZR7SCQ\">&quot;Kunstiained rõhutavad õppe koondumist viie põhimõtte ümber</a>&quot;.)</p>"
+        }
+      ]
+    }
+  ]
+}

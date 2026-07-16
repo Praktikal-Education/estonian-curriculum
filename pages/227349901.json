@@ -1,0 +1,74 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Gümnaasiumi informaatika valikkursus „Arvuti kasutamine uurimistöös“ seab eesmärgiks arendada õpilastes võimekus koguda ja analüüsida andmeid arvuti abil gümnaasiumi uurimistöö kontekstis. Praktiliste tegevuste kaudu tutvuvad õpilased meetodite ning tarkvaravahenditega, mis lihtsustavad uurimisandmete kogumist, töötlemist, analüüsi ja esitlemist.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab info sobivast allikast, hindab selle usaldusväärsust ja koostab korrektse viitekirje;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "viitab allikatele tekstis korrektselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab erinevaid küsimuste tüüpe ja vastuste skaalasid sisaldava veebipõhise küsimustiku;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "korraldab veebipõhise ankeetküsitluse ning esitab küsitluse teel kogutud andmestiku elektroonilise andmetabelina;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kodeerib, sorteerib ja filtreerib andmed andmetabelis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab andmetabeli põhjal risttabeli ja sagedustabeli ning eri tüüpi diagramme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitab kirjeldavad ja statistilised karakteristikud (keskmised, standardhälve, miinimum, maksimum, kvartiilid) koos oma selgitustega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab hüpoteesi üldistatavust valimilt üldkogumile ning nullhüpoteesi kehtivust sobivalt valitud testi abil;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vormistab korrektselt uurimisaruande;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab uurimisaruande põhjal esitluse ning kannab selle ette.",
+          "outcomeType": "skill"
+        }
+      ]
+    }
+  ]
+}

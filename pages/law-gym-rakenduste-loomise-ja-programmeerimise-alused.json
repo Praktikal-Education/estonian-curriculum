@@ -1,0 +1,158 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse käigus tutvustatakse järgmisi põhiteemasid: 1) rakenduste loomise põhimõtted; 2) mudelid ja modelleerimise alused; 3) algoritmimise ja programmimise alused.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teemasid ei läbita järjestikku, vaid sobiva käsitluse valib õpetaja, arvestades kasutatavat programmeerimisvahendit, kursuse suunitlust, oma metoodilisi kogemusi ja eelistusi jmt. Rakenduste loomise põhimõtteid ja põhifaase tutvustatakse praktilise töö kaudu, koostades mõningad projektid, mis sisaldavad modelleerimise, analüüsi ning disaini elemente.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Modelleerimises on peamine koostada ja esitada algoritme unifitseeritud modelleerimiskeele UML abil realiseeritavate programmide jaoks. Klassimudelite olemust võib tutvustada võrdlemisi lühidalt ja üldiselt, arvestades, et õppija oskaks lugeda nendega esitatud süsteemide ja andmete struktuure ning saaks neist aru. Põhiosa ajast kulub programmimise ja algoritmimise aluste omandamisele praktilise töö ja e-õppe materjalide kasutamise kaudu.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse eesmärkide saavutamiseks on tähtis teadvustada programmide ja programmjuhtimise olemust, koostades praktilises töös programme ning realiseerides neid arvutil. Et seda protsessi lihtsustada ja kiirendada ning mitte tekitada õpilastes vastumeelsust aine vastu, peaks esimene või ainus keel olema võimalikult lihtsa süntaksiga, atraktiivne ning multimeedia vahendite kasutamist võimaldav programmimiskeel või -keskkond.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Viimasel ajal on kiiresti arenenud ning levinud spetsiaalsed nn programmeerimise õppimise keeled ja keskkonnad (Scratch, Alice, Game Maker, uue põlvkonna Basic- ning Logo-põhised keeled jm). Need on mõeldud algajaile, eeskätt lastele ja noortele programmeerimise õppeks. Võrreldes traditsiooniliste vahenditega (nt Pascal) võimaldavad need õppijal omandada programmimise ning algoritmimise põhitõed ja -oskused 2–3 korda kiiremini.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Esimeseks keskkonnaks (keeleks) võib olla kiiresti leviv Massachusettsi Tehnoloogia Instituudis (MIT) loodud ja arendatav vabavaraline Scratch. Arvestades kursuse eesmärke ja mahtu, võib Scratchi kõrval lühidalt tutvustada selliseid vahendeid nagu Alice, MS Small Basic, rakenduste arendussüsteem Visual Basic (VBA), Python vm.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>arendab loovust, loogilist, analüütilist ja algoritmilist mõtlemist ning süsteemset käsitlusviisi probleeme ja ülesandeid lahendades;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>teadvustab programmjuhtimisega süsteemide tööpõhimõtet ning info esitamise ja töötlemise põhiprotsesside olemust;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>tunneb rakenduste ja programmide loomise vahendeid ning põhimeetodeid;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>omandab programmide ja algoritmide koostamise ning probleemide lahendamise baasoskused programmjuhtimisega süsteemide abil;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>tutvub objektorienteeritud modelleerimise, analüüsi ja disaini põhimõtetega;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>saab aru objektide ja andmete olemusest, nende omadustest ning nendega täidetavatest tegevustest algoritmides ja programmides;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>omandab algoritmimise ning programmimise põhikontseptsioonid ja mõisted ning oskused kavandada, koostada, siluda ja testida programme, mis koosnevad mitmest koostoimivast üksusest (protseduurist); kasutab objekte, skalaarandmeid ja massiive ning kirjeldab eri liiki protsesse.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "nimetab ja kirjeldab objektorienteeritud modelleerimise, analüüsi ja disaini põhimõisteid ning saab aru unifitseeritud modelleerimiskeeles (UML) esitatud klassi- ja tegevusdiagrammidest;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "eristab ning oskab programmides ja algoritmides kasutada eri liiki andmeid (arve, tekste, tõeväärtusi, graafika- ja heliandmeid) ning on omandanud ettekujutuse nende esitusviisidest arvutis;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab omistamise operatsiooni olemust ning oskab seda kasutada algoritmides ja programmides;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab ja oskab kasutada vahendeid andmete lugemiseks väliskeskkonnast ning kirjutamiseks väliskeskkonda;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "teab graafikaandmete peamisi vorminguid, oskab määrata tegevusi graafikaobjektidega ning kasutada vahendeid ja meetodeid graafiliste kujundite joonestamiseks;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Rakenduste loomise põhimõtted. Rakenduse olemus. Rakenduste loomise meetodid ja vahendid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Üldotstarbelised programmeerimissüsteemid ja -keeled. Rakendusprogrammid ja nende arendusvahendid. Võrgurakenduse loomise vahendid. Rakenduste loomise põhifaasid: ülesande esitus, analüüs, disain, realisatsioon.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Mudelid ja modelleerimise alused. Mudeli olemus. Mudelite liigid. Geomeetrilised, matemaatilised ja füüsikalised mudelid. Matkimismudelid. Objektorienteeritud modelleerimine ja modelleerimiskeel UML.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Objektid ja klassid. Objektide omadused ja tegevused. Sündmused. Seosed objektide ja klasside vahel, klassidiagrammid. Tegevused ja tegevusdiagrammid. Tegevusdiagrammide kasutamine algoritmide esitamiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Algoritmimise ja programmeerimise alused. Programmi olemus. Programmide loomise, töötlemise ja täitmise põhimõtted. Programmeerimiskeeled ja -süsteemid. Laused ning programmiüksused: protseduurid, funktsioonid ja skriptid. Translaatorid: interpretaatorid ja kompilaatorid. Algoritmi olemus.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Algoritmide esitusviisid: tegevusskeemid, algoritmikeeled, programmeerimiskeeled jm.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Objektide ja andmete käsitlemine programmides. Objektide omaduste, meetodite ja sündmuste kasutamine. Andmete liigid ja organisatsioon. Konstandid ja muutujad. Massiivid. Operatsioonid andmetega. Avaldised ja funktsioonid. Omistamine. Andmete lugemine väliskeskkonnast ja kirjutamine väliskeskkonda.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Graafikaandmete kasutamine programmides. Graafikaobjektide importimine. Programmi loodud (joonestatud) graafilised kujundid. Graafikaobjektide põhiomadused ja nende muutmine. Tüüptegevused graafikaobjektidega. Animatsioon.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Protsesside liigid algoritmides ja programmides: järjestikused protsessid (jada), tsüklilised protsessid (kordus), hargnevad protsessid (valik), paralleelprotsessid. Eri liiki protsesside kirjeldamise ja täitmise põhimõtted. Korduste liigid: lõpmatu kordus, etteantud kordamisarvuga kordus, eel- ja järelkontrolliga iteratiivsed kordused. Valik ühest, kahendvalik ja mitmene valik.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Massiivid. Massiivide põhiomadused: nimi, dimensioon, mõõtmed, dünaamilisus. Massiivide määratlemine ja loomine. Viitamine massiivide elementidele. Tüüpalgoritmid massiividega: summade ja keskmiste arvutamine, ekstreemumite leidmine, otsimine, sortimine jmt.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Koostöö ja andmevahetus programmiüksuste vahel. Pöördumised ning teadete saatmine. Globaalsed ja lokaalsed andmed.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kasutajaliidese loomine. Programmide silumine ja testimine. Programmide vormistamine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Kehaline aktiivsus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "hindab oma igapäevast kehalist aktiivsust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "peab liikumispäevikut valitud perioodi vältel, et jälgida enda kehalist aktiivsust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab erineva liikumisintensiivsuse mõju organismile ja leiab endale sobiva koormuse;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab erinevaid tehnoloogilisi ja/või isiklikke vahendeid, et hinnata enda kehalist aktiivsust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab liikumiseks ettevalmistavaid ja koormusjärgseid tegevusi ning mõistab nende olulisust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab traumade ja haiguste järel sobilikku liikumist ning koormust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab lihtsamaid esmaabivõtteid liikumistes saadud vigastuste korral.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane kaardistab ja analüüsib enda igapäevast aktiivsust nii tunnis kui ka vabal ajal.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Vabalt valitud vormis (digitaalne, päevik vm) liikumispäevik igapäevase liikumise fikseerimiseks teatud perioodil tuues välja olulise: aeg, tegevus, intensiivsus, kommentaar.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Indiviidile sobilik koormus, mille järgi seda hinnata nii tegevuse ajal kui ka tegevuse järgselt. Tervistav ja treeniv liikumine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tehnoloogiliste vahendite kasutamine nii tunnis kui ka vabal ajal ja tulemuste tõlgendamine.</p><p>Isiklikud vahendid on subjektiivsed enese aktiivsuse määramise küsimustikud/töölehed, enesetunne, aktiivsuse fikseerimine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Soojendusharjutused/-tegevused ettevalmistavas tegevuses, venitusharjutused koormusjärgses tegevuses.</p><p>Rakendab taastumise põhimõtteid – nt venitused, lõdvestused peale liikumistegevust.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Rakendab sobilikku kehalist tegevust ka peale haigust, vigastuse või erivajaduse korral.</p><p>Taastumist toetavad harjutused.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Olukorra hindamine, käitumine vastavalt sellele, abi kutsumine. Oskus saada aru, millal helistada 112 ja millist infot edastada telefoni teel. Esmaabi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>tervistav ja treeniv liikumine; esmaabi; taastumist toetavad harjutused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>enda kehalise aktiivsuse analüüs (liikumispäevik); soojendustegevused ettevalmistavas tegevuses.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesmärk on, et õpilane on kehaliselt aktiivne tunnis ja vabal ajal arvestades endale sobilikku tegevust, selle intensiivsust, peab liikumispäevikut ja annab hinnangu enda kehalisele ja vaimsele aktiivsusele, sh igapäevastele liikumisviisidele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": []
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>mis tagavad aine, <a href=\"https://www.riigiteataja.ee/aktilisa/1080/3202/3005/18m_pohi_lisa4.pdf\">valdkonna</a>* ning <a href=\"https://www.riigiteataja.ee/akt/108032023005\">üldpädevuste</a>** saavutamise:</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Keeled - võõrkeelsetest allikatest teabe otsimine ja tõlgendamine</li><li>Informaatika - digitaalne liikumispäevik</li><li>Inimeseõpetus - kehaline aktiivsus tervise tugevdajana, sobiva kehalise aktiivsuse valik</li><li>Bioloogia - inimese elundkondade põhiülesanded, luude ja lihaste osa inimese tugi- ja liikumiselundkonnas. Treeningu mõju tugi- ja liikumiselundkonnale.</li><li>Matemaatika - südamelöögisageduse mõõtmine</li><li>Eesti keel - suuline ja kirjalik eneseväljendus; liikumisega seotud sõnavara, loovtöö</li><li>Muusika - liikumine muusika saatel/tants kui kehalise aktiivsuse võimalus</li><li>Füüsika - jõud, raskusjõud..........</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453570/Kehaline_aktiivsus_IIIka.docx.pdf?version=1&modificationDate=1706621632139&api=v2",
+              "title": "PDF fail"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453570/Kehaline_aktiivsus_IIIka.docx?version=1&modificationDate=1706621632145&api=v2",
+              "title": "WORD fail"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/valdkonnad/kehaline-aktiivsus/",
+              "title": "Kehaline aktiivsus"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/?mf_material-cat=79&mf_material-level=15,14",
+              "title": "Kehaline aktiivsus materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.terviseamet.ee/et/tervishoid/inimesele/esmaabi",
+              "title": "Esmaabi"
+            },
+            {
+              "kind": "link",
+              "href": "https://liikumisopetus.ee/materials/koormuse-eneseanaluus-laste-borgi-skaala/",
+              "title": "Laste Borgi skaala"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/playlist?list=PLzpt03er6OIjkxRQEr9eKFnO5VLPGUyLm",
+              "title": "Taastumist toetavad harjutused"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.sportest.eu/et/materjalid/",
+              "title": "Kehalise aktiivsusega seotud materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.terviseinfo.ee/et/tervise-edendamine/koolis/olulised-abimaterjalid/toitumine-ja-liikumine/opetajaraamat/liikumise-aktiivtoeoed",
+              "title": "Liikumisega seotud aktiivtööd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

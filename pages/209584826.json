@@ -1,0 +1,456 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kodundus on õppeaine, mis annab õpilasele elementaarsed oskused toimetulekuks koduste puhastus- ja korrastustöödega, ettekujutuse tervislikust toitumisest, lihtsamate toitude valmistamise oskuse, ettekujutuse pere majandamisest, toiduainete ostmisest jms.</p><p>Kodunduse tundides õpitakse, tasakaalustatud menüü koostamist ning analüüsitakse inimeste tarbijakäitumist, väärtustatakse keskkonnasäästlikku, oma õigusi ning kohustusi teadvat tarbijat.</p><p>Kõike seda õpitakse valdavalt läbi praktilise tegevuse. Kodumasinate ja korrastusvahendite õpetamisel lähtutakse kaasaegsest tehnoloogiast. Õppeköögis töötades järgitakse hügieeni- ja tööohutusnõudeid.</p><p>Kodundusõpe aitab õpilasel kujuneda eluga võimalikult iseseisvalt toimetulevaks isiksuseks, kes suudab ja tahab teha võimetekohast tööd ning on keskkonnasäästlik tarbija.</p><p>Kodundustunnis toimub õpe meeskonnatööna. See loob sobivad võimalused arendada sotsiaalseid oskusi: heatahtlikku ja arvestavat suhtumist kaaslastesse.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Määruse järgi 8. klassi lõpuks õpilane:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "oskab õpetaja juhendamisel etteantud summa piires menüüd ja toidukorvi planeerida",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "juhindub pakendiinfost",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb vahet mõistetel „parim enne“ ja „kõlblik kuni“",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab nimetada Eesti rahvustoite ja oskab mõnda neist valmistada",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "katab laua vastavalt menüüle",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel kasutada kodukeemiat",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel kasutada nõudepesumasinat (programmid, pesuvahendid)",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Heaolu ja tervis toidust",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Toidusäästmine</strong></p><p><strong>\"kõlblik kuni…“ ja „parim enne …“</strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb vahet mõistetel „kõlblik kuni…“ ja „parim enne …“ , oskab tuua näiteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Pöörata tähelepanu toiduraiskamise probleemidele.</li><li>Arutleda, kuidas toiduraiskamist vähendada, lahenduste leidmine, ettepanekud.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>„kõlblik kuni…“- tähtaeg, mis näitab kergesti rikneva toidu realiseerimise ja tarvitamise lõpptähtpäeva ning mida hiljem müüa ei või.</li><li>„parim enne …“ - tähtaeg, mille jooksul toidu valmistaja või pakendaja tagab õigel säilitamisel toidu nõuetekohasuse ning mida võib ka hiljem müüa juhul, kui see on ohutu elule ja tervisele.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Erinevate toiduainete pakendite jm uurimine.</li><li>Rühma- või paaristöö, toiduraiskamise vähendamise võimalused kodus, koolis.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://toitumine.ee/kuidas-tervislikult-toituda",
+              "title": "Õppevara"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li><li>Keskkonnaharidus.ee, digitaalsed õppematerjalid</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/toidujaatmete-vahendamine",
+              "title": "Toidujäätmete vähendamine"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Toitumine ja liikumine. I-III kooliaste. Õpetajaraamat</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://tai.ee/et/valjaanded/toitumine-ja-liikumine-i-iii-kooliaste-opetajaraamat",
+              "title": "Toitumine ja liikumine. I-III kooliaste. Õpetajaraamat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Toidu ohutu valmistamine ja töötlemisviisid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Liha ja lihatooted ja nendest valmistatud ja toidud</li><li>Kala kui väärtuslik toiduaine</li><li>Kalaroad</li><li>Pärmitaigen</li></ul><p><strong>Toidu säilitamise tingimused</strong></p><ul><li>kuivatamine</li><li>konserveerimine</li><li>marineerimine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab erinevaid toite retsepti kasutades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab teha valikuid toiduainete säilitamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Võimalusel tutvuda liha valikuga kohalikus kaupluses või turul.</li><li>Näidata liha vasardamist ja erinevaid paneerimise võimalusi.</li><li>Kalade äratundmismäng (loto või paaride leidmine).</li><li>Tutvustada toidu säilitamise võimalusi ja hügieeninõudeid.</li><li>Õpetajapoolne suunamine aitab õpilast ise oma tegevusele ning töö tulemusele hinnangut anda.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Konserveerimine - toiduainete vm töötlemine nende säilimisaja pikendamiseks; konserviks tegemine.</li><li>Pärm - elusaid pärmseeni sisaldav tahke või vedel toiduaine, mida kasutatakse taigna kergitamiseks.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kotletitaigna valmistamine, küpsetamine ja serveerimine sobivate lisanditega</li><li>Pärmitaignast saiakeste küpsetamine</li><li>Õunte kuivatamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li><li>Retseptid, õppeplakatid</li><li>Töövahendid (nt nõud, jne.)</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li><li>Käsitöö ja kodunduse mõisted 7.-9.klassile (2009) Marje Peedisson</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.kalakasvatajad.ee/?pid=75",
+              "title": "kalaretseptid."
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keskkonnaharidus.ee</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppeprogrammid/kalad-ja-parvesoit-vortsjarvel-iii-kooliaste",
+              "title": "Keskkonnaharidus.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpiobjektid</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://toidufoor.ee/retseptid",
+              "title": "Õpiobjektid"
+            },
+            {
+              "kind": "link",
+              "href": "https://kalafoor.ee/mereannid",
+              "title": "Õpiobjektid"
+            },
+            {
+              "kind": "link",
+              "href": "https://lihafoor.ee/",
+              "title": "Õpiobjektid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Töö organiseerimine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Puhastusvahendite ohutu kasutamine</strong></p><ul><li>Kodukeemia</li></ul><p><strong>Nõudepesumasin</strong></p><p><strong>Toidukorvi planeerimine</strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel kodukeemiat ohutult kasutada",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel kasutada nõudepesumasinat",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel etteantud summa piires menüüd ja toidukorvi planeerida",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li><p>Suunata töövõtteid ja töövahendite kasutamist optimeerima.</p></li><li>Hügieeninõuete järgimine erinevates kodunduse valdkondades (nt toiduhügieen, pesuhügieen jne.)</li><li>Isikliku ja töökoha puhtuse tagamise olulisus, töötamise ajal ja pärast tööd.</li><li>Tutvustada puhastusvahendite ohutut kasutamist ja valikuid, erinevate materjalidele puhastamiseks.</li><li>Koostada lihtne puhastusvahendite kasutusjuhend: pilt - tekst, kus kasutatakse.</li><li>Pakenditelt info lugemine. Erinevate puhastusvahendite võrdlemine/uurimine, millised märgistused pakendil leiduvad.</li><li>Rakendada diferentseeritud lähenemist, arvestades õpilaste individuaalseid vajadusi ja võimeid.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Töö organiseerimine - töö planeerimine, eesmärgistamine, ajakava koostamine, ressursside määramine, tööjaotus jne.</li><li>Hügieen - tervise säilitamiseks vajalikud tegevused, nagu pesemine, puhastamine, desinfitseerimine jne.</li><li>Puhtus - seisund, kus asjad on vabad mustusest, tolmust, bakteritest jne.</li><li>Ohutus - seisund, kus ei ole ohtu tervisele, elule või varale</li><li>Esmaabi - kiire ja ajutine abi andmine vigastatud või haigestunud inimesele</li><li>Puhastusvahendid - toode pindade või kiudmaterjalide pesemiseks.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Paaris-, grupitöö: võrrelda hügieeninõudeid kodus, suurköögis, piknikul.</li><li>Ühe päeva toidukorvi koostamine: hommiku-, lõuna- ja õhtusöögi valmistamiseks. Tulemuste analüüsimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li><li>Käsitöö ja kodunduse mõisted 7.-9.klassile (2009) Marje Peedisson</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.sei.org/projects/kampaania-tarbi-toitu-targalt/",
+              "title": "Õppevara"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Esmaabi video. Karli Kraanat. Õppefilm on loodud Rapla Vesiroosi Gümnaasiumi õpilaste poolt.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=sJyxTPSXWh0"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kodune esmaabi: plaaster ja side. Laine Lindvest</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=gPSsNtsSyKY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti toidukultuur",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Eesti köök</strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab nimetada Eesti rahvustoite ja oskab mõnda neist valmistada",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Näitlikustada Eesti toidu teemat, selgitada mõisteid ja lihtsustada teksti.</li><li>Tutvustada eestlaste traditsioonilisi toiduaineid ning valmistatud toite: sõir, karask, kama, leib.</li><li>Vaadelda erinevate teraviljade jahusid ning nende kasutamist toitude valmistamise (kama, karask).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Sõir - eesti rahvustoit. Piimas keedetud kohupiim nõrutatakse, lisatakse võid ja köömneid ning pannakse riidekotis vajutise alla.</li><li>Karask - odrajahust või täisteranisujahust hapupiima, petipiima või veega segatud ja söögisooda või pärmiga kergitatud taignast küpsetatud toit.</li><li>Kamajahu - keedetud, seejärel kuivatatud ning pruunistatud tera- ja kaunviljast saadud jahu.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Valmistada mõned Eesti rahvuslikud toidud</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Regionaal- ja põllumajandusministeerium. Eesti toit.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://eestitoit.ee/",
+              "title": "Regionaal- ja põllumajandusministeerium. Eesti toit."
+            },
+            {
+              "kind": "link",
+              "href": "https://maablogi.ee/2012/08/21/mis-erinevus-on-kolblik-kuni-ja-parim-enne-toidul/",
+              "title": "Õppevara"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eesti toidutee</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.toidutee.ee/eripakkumised/peakokad-jagavad-retsepte/peakokad-koolides---retseptid-oppevideodega/166",
+              "title": "Eesti toidutee"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.toidutee.ee/rahvustoidud-retseptid",
+              "title": "Eesti toidutee"
+            },
+            {
+              "kind": "link",
+              "href": "https://pagarioppe-pohikursus.innove.ee/toitumistavad/",
+              "title": "Eesti toidutee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Leivategu Võrumaal- Mtü Võrumaa Partnerluskogu</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ktCnRclKiwg"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Leiva ajalugu ja retseptid, Leivaliit.ee</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://Leivaliit.ee",
+              "title": "Leivaliit.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://leivaliit.ee/kutseandmine/tehnoloogilised-juhendid/",
+              "title": "Leiva ajalugu ja retseptid"
+            },
+            {
+              "kind": "link",
+              "href": "http://auneveeb.weebly.com/rukkileib.html",
+              "title": "Õppevara"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpiobjekt. Protokoll ja etikett. Mõdriku Lääne-Viru Rakenduskõrgkool. Laivi Annus-Anijärv</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://hope.tktk.ee/kristiina/proto/index.html",
+              "title": "Õpiobjekt. Protokoll ja etikett"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

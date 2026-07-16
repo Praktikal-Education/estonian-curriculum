@@ -1,0 +1,864 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Oodatavad õpitulemused 2. klassi lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab naturaalarve 1-20",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "vastandab hulgaelemente arvuga (20 piires)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "määrab arvu koha naturaalarvude reas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab ühe- ja kahekohalisi arve, arvus kümnelisi ja ühelisi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "liidab ja lahutab 20 piires järku ületamata",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab kolme arvu liitmise või lahutamise liitülesandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab ajasuhteid eile, täna, homme, üleeile ja ülehomme nädalapäevadega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "määrab aega täistundides",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab mõõtmisel pikkusühikut sentimeeter",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõõdab joonlaua abil lõigu pikkust sentimeetrites",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonestab punktide järgi joonlaua abil kolmnurka ja nelinurka",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab õpitud rahaühikuid ostu-müügitehingute sooritamisel poemängus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab abiga ühetehtelisi tekstülesandeid summa ning vahe leidmiseks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Määruses fikseeritud õpitulemused on lähtuvalt käsitletavast õppesisust konkretiseeritud.</strong></p><p><strong>Kohustuslik aine maht 5 tundi nädalas</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Areng, A. ja Maila, M. (2020). Matemaatika 2. klassile, I-III osa.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/272",
+          "title": "Matemaatika 2. klassile, I osa"
+        },
+        {
+          "kind": "file",
+          "src": "https://astrablobs.blob.core.windows.net/kitcontent/cc8ecb35-3411-4ad8-950a-6752ddc5a99c/30233493-d85f-4842-95f7-9859d07714d4/085c550e-963d-4c33-81e5-7993e43bb096.pdf",
+          "title": "Matemaatika 2. klassile, I osa PDF"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/273",
+          "title": "Matemaatika 2. klassile, II osa"
+        },
+        {
+          "kind": "file",
+          "src": "https://astrablobs.blob.core.windows.net/kitcontent/1bc11203-969c-46ef-880f-ddf1374473cd/1456ed56-f3a8-40e0-ab0e-534a8bdca2a9/e865ff53-2009-4e5f-acf3-b361772521d3.pdf",
+          "title": "Matemaatika 2. klassile, II osa PDF"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/274",
+          "title": "Matemaatika 2. klassile, III osa"
+        },
+        {
+          "kind": "file",
+          "src": "https://astrablobs.blob.core.windows.net/kitcontent/7539739a-92b3-495c-a45c-0ce2bacc3d9d/6a81c370-4cef-47c2-aea8-0cc107ada84e/1ff6bf33-81b5-4f83-8a29-57243abb593f.pdf",
+          "title": "Matemaatika 2. klassile, III osa PDF"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Maila, M. (2018). Põhivara matemaatika õpiabiks I ja II kooliastmes. Jaotvara õpilasele. Studium.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://pood.studium.ee/toode/pohivara-matemaatika-opiabiks-i-ja-ii-kooliastmes-jaotvara-opilasele/",
+          "title": "Põhivara matemaatika õpiabiks I ja II kooliastmes"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Maila, M. (2018). Matemaatika seinatabelid õpiabiks I ja II kooliastmes. Studium.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://pood.studium.ee/toode/matemaatika-seinatabelid-opiabiks-i-ja-ii-kooliastmes/",
+          "title": "Matemaatika seinatabelid õpiabiks I ja II kooliastmes"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Männiksaar, K. (2021). 20 piires liitmise ja lahutamise tehtekaardid. Studium.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://pood.studium.ee/toode/20-piires-liitmise-ja-lahutamise-tehtekaardid/",
+          "title": "20 piires liitmise ja lahutamise tehtekaardid"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Maila, M, Rüütel, K. ja Kontor, A. (2010). Lahendades lahendama. Tekstülesandeid õpiabiks 1.-3. klassile. Studium.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://pood.studium.ee/toode/lahendades-lahendama-tekstulesandeid-opiabiks-1-3-klassile/",
+          "title": "Lahendades lahendama"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik lugemine õpetajale",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Maila, M. (2020). Matemaatika 2. klassile. Metoodilised juhised õppevara kasutamiseks.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://astrablobs.blob.core.windows.net/kitcontent/cc8ecb35-3411-4ad8-950a-6752ddc5a99c/7000313e-ea74-45df-9f84-2091dc3d5738/83722036-18f6-4cef-97f8-8d340725175d.pdf",
+          "title": "Matemaatika 2. klassile. Metoodilised juhised õppevara kasutamiseks"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Lõiming eesti keelega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hulkadega opereerimisel peaks õpilane suutma õpetaja suunamisel eristada ja nimetada 2-3 hulgaelementi eristavat/ühendavat tunnust ning järjestada hulgaelemente ette antud kriteeriumi(te) alusel (nt suuruse järgi kasvavalt/kahanevalt). Õpetaja peaks suunama õpilasi oma tegevust kommenteerima (3–4 lausega) abivahenditele (nt pildiseeriad, skeemid) toetudes. Tekstülesande käsitlemisel tuleks arvestada, et esmalt loeb teksti ette õpetaja, seejärel loetakse tekst läbi koos (lühikeste sõnade ja kõnetaktide kaupa). Ülesande teksti analüüsi käigus vastavad õpilased küsimustele suuliselt õpetaja suunamisel. Ülesande kirjalikul vormistamisel tuleb arvestada, et 2. klassi lõpuks on õpilased suutelised sooritama 3–4-sõnalise lause ärakirja.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming loodusõpetusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hulkadega opereerimisel (vt lõiming eesti keelega) saab kasutada loodusõpetuse aine raames õpitud taimi ja loomi, lähiümbruse eluta looduse objekte ning nähtusi. Õpitud loodusloolistele teadmistele tuginedes saab koostada ühetehtelisi tekstülesandeid summa ja vahe leidmiseks. Läbi aastaringi saab õpitavat seostada aastaajale iseloomulike põhitunnustega, kinnistada abivahendite toel aastaajale vastavate kuude nimetusi, nende järgnevust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming inimeseõpetusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Läbi õppemängude (nt poemäng) saab harjutada õpitud rahaühikute kasutamist ostu-müügitehingute sooritamisel, samuti dialoogi alustamist ja lõpetamist ning igapäevaste viisakusväljendite (nt <em>Tere! Aitäh! Palun! Vabandust! Head aega!</em>) kasutamist. Nädalapäevadega seoses saab kinnistada ajasuhteid <em>eile, täna, homme, üleeile, ülehomme</em> ning mõisteid <em>ööpäev, töö- ja puhkepäevad.</em> Õppetegevuse käigus saab arendada täistundides kellaaja määramise oskust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming muusikaga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Läbi erinevate lastelaulude, liisutuste ja laulumängude saab kinnistada erinevaid õpitud matemaatikaalaseid teadmisi ja oskusi (nt arvu, hulga ja numbri seos, ajasuhted).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming kunsti- ja tööõpetusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Erinevate materjalide (paber, kartong, plastiliin, savi, looduslik materjal jms) kasutamise kaudu saab kinnistada õpitud arvuvalla piires arvu, hulga ja numbri seost. Erinevate objektide ja detailide leidmisel ja võrdlemisel 2-3 tajutava tunnuse (nt värvus, kuju, suurus) alusel kinnistuvad oskused hulkadega opereerida. Joonlaua kasutamisel sirgjoonte tõmbamiseks saab harjutada lõigu pikkuse mõõtmist sentimeetrites. Joonistamisel (vabalt või šablooni järgi), lõikamisel, liimimisel, voltimisel, voolimisel ja täiendamisel kinnistuvad kujutlused õpitud geomeetrilistest kujunditest (kolmnurk ja nelinurk).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming kehalise kasvatusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Liikumismängude õppimise ja erinevate vahendite kasutamise kaudu saab kinnistada erinevaid õpitud matemaatikaalaseid teadmisi ja oskusi (nt arvu, hulga ja numbri seos, võrdlemine, ajasuhted).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "1. Õpilane teab naturaalarve 1–20.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teise kümne arvude moodustamine (järgmise arvu tekitamine eelmisele arvule ühe lisamise (liitmise) teel.</p><p>Arvud 11–20. Arvude 11–20 lugemine ja kirjutamine. Järgarvud 1.–10.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Moodustab järgmise arvu eelmisele arvule ühe lisamise (liitmise) teel.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Loeb ja kirjutab arve 11–20, järgarve 1.–10.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvude õpetamisel tuleb luua kujutlus õpetatavast arvust ja numbrist. Selleks tutvustab õpetaja läbi praktilise tegevuse arvu moodustamist ning näitab selle tähistamist numbriga. Arvude 11–20 õppimisel on oluline läbi praktilise tegevuse selgitada, et arvud koosnevad kümnelisest ja juurde lisatud ühelisest (ühelistest). Kümnelise moodustamine tuleb samuti praktiliselt läbi teha (nt pulkade abil).</p><p>Paralleelselt õpetatakse ka järgarve. Soovitatav on õpitud arvuvalla piires igal võimalusel ka teistes õppeainetes ning igapäevastes situatsioonides lasta õpilastel kasutada kõnes korrektselt järgarve, nt <em>Lahendan kolmeteistkümnendat ülesannet. Täna on üheksas oktoober.</em> jne.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "2. Õpilane vastandab hulgaelemente arvuga (20 piires).",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esemete hulga tajumine. Hulga ja arvu vaheline seos; arvu ja numbri vaheline seos; hulga, arvu ja numbri vaheline seos.</p><p>Arvule vastava hulga moodustamine; numbrile ja arvule vastava hulga moodustamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Seostab hulka ja arvu.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Moodustab arvule vastava hulga.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hulkade tajumiseks tuleb esmalt kasutada reaalseid esemeid (nt pulgad, klotsid jms) seejärel pilte. Oluline on silmas pidada, et igal õpilasel oleksid olemas esemed, millest hulki moodustada ning neid peab igal ühel olema 20 tk. Hulgaelementide loendamisel puudutavad õpilased loendatavat sõrmega, edaspidi loendavad pilguga. Vajadusel võib lasta loendatavaid esemeid ka kätte võtta ning kõrvale lükata. Õpilased võiksid jõuda lõpuks tasemeni, kus nad kahest-kolmest esemest koosneva hulga suuruse haaravad silmaga.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "3. Õpilane määrab arvu koha naturaalarvude reas.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvude rida 1–20 (puuduvate arvude nimetamine, arvu naabrite nimetamine, arvude nimetamine kasvavas ja kahanevas järjekorras).</p><p>Arvude võrdlemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Nimetab ja järjestab arve kasvavas ja kahanevas järjekorras.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Nimetab puuduvaid arve arvureas ja arvunaabreid.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Võrdleb arve (on suurem kui; on väiksem kui; on võrdne).",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvude rea paremaks mõistmiseks on soovitatav moodustada klassi seinale arvutabel, mis aitab õpilastel mõista arvu kohta naturaalarvude reas. Kuna arve õpitakse kuni 20-ni, tuleb teha <em>kaks korda kümme ruutu</em> tabel (esimene rida 1–10, teine rida 11–20). Esimese ja teise rea ühelised peavad olema kohakuti, kümnelised märgitakse teise värviga.</p><p>Samasuguse arvutabeli saab anda ka õpilastele, mida nad saavad igapäevases õppetegevuses kasutada.</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/222403246/image-2023-11-9_8-13-27.png?version=1&modificationDate=1712910893685&api=v2",
+              "alt": "Arvutabel"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Arvu koha kinnistamiseks arvude reas saab anda ülesandeid, kus peab leidma eelneva/järgneva puuduva arvu või arvu naabrid. Oluline on õpitud arvude piires loendada nii kasvavas kui kahanevas järjekorras.</p><p>Võrratuste puhul tuleb seoseid lugeda mõlemas suunas (nt 12 &lt; 14 - <em>Kaksteist on väiksem kui neliteist, neliteist on suurem kui kaksteist</em>).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "4. Õpilane eristab ühe- ja kahekohalisi arve, arvus kümnelisi ja ühelisi.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Kümneline</em> ja <em>üheline</em>, nende koht arvus.</p><p>Ühe- ja kahekohalised arvud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Nimetab arvus ühelisi ja kümnelisi, teab nende kohta arvus.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Eristab ühe- ja kahekohalisi arve.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kui eelnevalt arve õppides on koostatud arvutabel on selle põhjal hea näidata, et arve 1–9 kirjutatakse ühe numbriga ja sellepärast nimetataksegi neid ühekohalisteks arvudeks, arve 10–20 tähistatakse kahe numbriga ja sellepärast nimetatakse neid kahekohalisteks arvudeks.</p><p>Arvude 11–20 õppimisel on oluline selgitada, et arvud koosnevad kümnelisest ja juurde lisatud ühelisest (ühelistest). Oluline on ka selgitada ja praktiliselt läbi teha, kuidas kümneline tekib.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "5. Õpilane liidab ja lahutab 20 piires järku ületamata.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Liitmine ja lahutamine 20 piires järguühikut ületamata konkreetse materjali abil ja arvudega.</p><p>Liitmis- ja lahutamisülesannete lugemine ja kirjutamine sõnadega (<em>pluss, miinus, on</em>) ja märkidega +, –, =.</p><p>Puuduva tehtekomponendi leidmine proovimise teel.</p><p>Liitmise vahetuvusseaduse rakendamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Liidab ja lahutab konkreetse materjali abil ning arvudega 20 piires järguühikut ületamata.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Loeb sõnadega pluss, miinus, on ja kirjutab märkidega + , – , = liitmis- ja lahutamisülesandeid.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Leiab puuduva tehtekomponendi proovimise teel.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Kasutab liitmise vahetuvusseadust.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Liitmist ja lahutamist õpitakse samaaegselt ning paralleelselt arvude õppimisega. Endiselt tuleks kasutada nii näitlikke vahendeid kui sooritada praktilisi tegevusi esemetega (nt pliiatsite, pulkade, tammetõrudega). Seejärel saab arvutamisel abiks nt tõmmata tehtekomponentide kohale kriipsukesi vms.</p><p>Numeratsiooni õppimisel on liitmis- ja lahutamisülesanded iga uue arvu puhul analoogses raskusastmes: 10 + 3; 3 + 10; 13 – 3; 13 – 10.</p><p>Liitmis- ja lahutamisülesannete lugemisel on oluline keeleliselt korrektne väljendus: 10 + 5 = 15 - <em>Kümme pluss viis on viisteist.</em> Kui võrduste lugemisel kasutada sõna <em>võrdub</em>, siis tuleb vastust tähistav arv panna õigesse käändesse, nt <em>Kümme miinus viis võrdub viiega.</em></p><p>Liitmise juures tegeletakse ka vahetuvusseadusega. Läbi praktilise tegevuse näidatakse, et summa ei sõltu liidetavate järjekorrast. Tähelepanu tuleb juhtida ka sellele, kumba avaldist on lihtsam arvutada (nt kas 10 + 2 või 2 + 10).</p><p>Kahekohalise arvu lahutamisel kahekohalisest arvust saab selgitada, et vähendaja koosneb täiskümnest ja ühelistest ning arvutamine toimub osade kaupa.</p><p>Õpilastele võib tutvustada ka teist varianti, kus arvutatakse järkude kaupa:</p><p>Oluline on siinkohal lähtuda kirjaliku arvutamise algoritmi põhimõttest: enne lahutan ühelised, siis kümnelised.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "6. Õpilane lahendab kolme arvu liitmise või lahutamise liitülesandeid.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kahetehteliste avaldiste väärtuse arvutamine: kaks ühesugust (2 + 3 + 1; 8 – 2 – 5; 6 + 4 + 2; 14 – 4 – 2) või kaks erinevat tehet (9 – 5 + 3).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Arvutab kahetehteliste avaldiste väärtuse kahe ühesuguse või kahe erineva tehtega.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Oluline on juhtida tähelepanu, et avaldises on kaks tehet ja mõlemad tuleb ära teha. Kuna praegu tegeletakse samaväärsete tehetega, siis tuleb rõhutada, et tehted tehakse nende esinemise järjekorras. Selgitama ja näitama peab, et kui esimene tehe on tehtud, saab selle vastuse kirjutada tehtemärgi kohale ning teine tehe sooritatakse esimese tehte vastuseks saadud arvuga.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "7. Õpilane seostab ajasuhteid eile, täna, homme, üleeile ja ülehomme nädalapäevadega.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajasuhted: mõistete <em>eile, täna, homme</em> sidumine nädalapäevadega; ööpäevaosade üldistamine sõnaga <em>ööpäev</em>.</p><p>Mõisted <em>üleeile</em> ja <em>ülehomme</em>.</p><p>Ajaühikud: mõiste <em>nädal</em> (puhke- ja tööpäevad, nädala kestus).</p><p>Mõiste <em>aasta</em>, seos 1 aasta = 12 kuud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Seostab mõisteid eile, täna, homme, üleeile ja ülehomme nädalapäevadega.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Üldistab ööpäevaosi sõnaga ööpäev.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Kasutab termineid puhke- ja tööpäevad.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Teab ajaühiku aasta tähendust.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajasuhete õppimine tuleb seostada õpilase isikliku kogemusega, nt <em>Mida sa tegid eile? Mitu tundi sul oli eile? Mitu tundi on homme?</em> Igal hommikul peaks ühiselt läbi rääkima, mis nädalapäev on täna, mis nädalapäev oli eile, mis nädalapäev on homme.</p><p>Teemaga tegeletakse ka inimeseõpetuses ja loodusõpetuses.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/286",
+              "title": "Inimeseõpetus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/501",
+              "title": "Loodusõpetus"
+            },
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/get/647/",
+              "title": "Loodusõpetus 2. kl 1. osa"
+            },
+            {
+              "kind": "file",
+              "src": "https://hev.edu.ee/get/647/Loodusopetus_2_kl_1_osa_sisu_web.pdf",
+              "title": "Loodusõpetus 2. kl 1. osa PDF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "8. Õpilane määrab aega täistundides.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kellaaeg: kella liikide nimetamine ja eristamine; <em>suur</em> ja <em>väike osuti</em>.</p><p>Kellaaja määramine tunnise täpsusega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Eristab ja nimetab kellade liike ning kellaosade nimetusi (suur ja väike osuti).",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Määrab kellaaega tunnise täpsusega.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilastele tuleb näidata erinevaid kellasid (nii analoog kui digitaalseid) ning igal õpilasel peaks olema kellamakett, mille abil kella tundma õppida ja kellaaja määramist harjutada.</p><p>Tunnise täpsusega kellaaja määramisel saab selgitada läbi lastele tuttavate situatsioonide ja tegevuste, kui pikk aeg on üks tund ning mida jõuab selle aja jooksul teha (nt olla matemaatika tunnis ja käia söömas).</p><p>Teema käsitlemisel saab kasutada virtuaalset kella.</p>"
+            },
+            {
+              "kind": "embed",
+              "src": "https://apps.mathlearningcenter.org/math-clock/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "9. Õpilane kasutab mõõtmisel pikkusühikut sentimeeter.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pikkusühikud: <em>sentimeeter</em> (cm); nimetus, tähendus ja kasutamine; mõõtühiku valmistamine (1 cm).</p><p>Mõõtmistulemuste lugemine; joonlaua kasutamine mõõtmisel (alustada 0-st).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Teab pikkusühiku sentimeeter (cm) tähendust.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Oskab lugeda mõõtmistulemusi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema käsitlemise alguses on soovitatav hinnata nt erinevate pliiatsite pikkuseid silma järgi ning jõuda järelduseni, et täpselt pikkust määrata pole võimalik, saab vaid võrrelda, mis on lühemad, pikemad, ühepikkused. Edasi saab teha järelduse, et täpse tulemuse saamiseks on vaja midagi, mille abil mõõta.</p><p>Praktilise mõõtmise juurde jõudes peab näitama ja selgitama, et mõõtmist alustatakse nullist.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "10. Õpilane mõõdab joonlaua abil lõigu pikkust sentimeetrites.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Lõik</em>. Lõigu mõõtmine joonlaua abil sentimeetrites.</p><p>Lõikude võrdlemine (mõõtmistulemuse järgi).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Kasutab mõõtmisel joonlauda (alustades 0-st).",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Mõõdab lõigu pikkust joonlaua abil sentimeetrites.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Võrdleb lõikusid (mõõtmistulemuse järgi).",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mõõtes joonlauaga pikkusi on oluline õpetada, et lõigu alguspunkt peab olema nulliga samas kohas, mitte joonlaua otsaga samas kohas. Oluline on jälgida, et lõikude/esemete pikkused, mida lapsed mõõdavad, on täisarv sentimeetreid.</p><p>Lõikude pikkuste võrdlemisel on soovitatav mõõta erineva nurga all joonestatud lõikusid, et õpilased mõistaksid joonlaua kasutamise vajadust.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "11. Õpilane joonestab punktide järgi joonlaua abil kolmnurka ja nelinurka.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Joonlaua abil kolmnurga ja nelinurga joonestamine etteantud punktide (tippude) järgi.</p><p>Kujundi elementide nimetamine (<em>nurk, külg</em>) ja nende loendamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Joonestab joonlaua abil kolmnurka ja nelinurka etteantud punktide (tippude) järgi.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Nimetab ning loendab kujundi elemente nurk ja külg.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kujundite joonestamisele peab eelnema kujundite meelde tuletamine – kujundi leidmine teiste kujundite hulgast, sarnase kujuga esemete leidmine klassiruumist, kujundi vaatlemine ja iseloomulike tunnuste leidmine. Lisaks tuleb kasutada erinevaid näitvahendeid (nt kujundite mudelid, joonised).</p><p>Joonlauaga kujundeid joonestades tuleb eraldi harjutada joonlaua kasutamist - üks käsi hoiab joonlauda kinni, teine käsi tõmbab pliiatsiga joone joonlaua peal.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "12. Õpilane kasutab õpitud rahaühikuid ostu-müügitehingute sooritamisel poemängus.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rahaühikud: rahatähe vahetamine suuremaks või väiksemateks; vajaliku summa moodustamine rahatähtedest (20 piires); praktilised harjutused rahatähtede ja müntidega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Moodustab müntidest ja rahatähtedest vajaliku summa.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Vahetab münte ja rahatähti suuremaks või väiksemaks.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Uute rahatähtede ning müntide õppimisel on soovitatav näidata õpilastele päris kupüüre ning münte. Kinnistada tuleb teadmist, et numbrid nende peal näitavad rahaühiku väärtust.</p><p>Vajalike summade moodustamisel (mängurahadega) tuleb näidata, et sama summa saab moodustada erinevatest kupüüridest ja müntidest, nt:</p>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/222403246/image-2023-11-9_18-10-25.png?version=1&modificationDate=1712910893657&api=v2",
+              "alt": "Rahatähtedest ja müntidest summa moodustamine"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Poemängus tuleb jälgida, et kõik lapsed saaksid olla nii müüjad kui ka ostjad. Kaupade eest tasumiseks saab kasutada erinevaid rahatähti, raskusastet tõstab raha tagasi andmise/saamise vajadus. Mängu käigus tuleb kasutada ka erinevaid viisakusväljendid (nt <em>Palun! Aitäh! Tere! Head aega</em>!).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "13. Õpilane lahendab abiga ühetehtelisi tekstülesandeid summa ning vahe leidmiseks.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Andmete väljatoomine ja kujutamine esemelis-skemaatiliselt. Lahenduse kirjalik vormistamine (küsimus, võrdus, vastus). Praktiliselt sooritatud kahetehteliste ülesannete lahenduste vormistamine võrdustena (vastus antakse suuliselt).</p><p>Ühetehtelise ülesande lahendamine summa ning vahe leidmiseks (seosed <em>rohkem-vähem, pikem-lühem</em>, teiste suurussuhete kasutamine).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Tajub lihttekstülesannete struktuuri, teab nende lahendamise üldpõhimõtteid ning vormistamisnõudeid.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "Vormistab kirjalikult lahenduse (küsimus, avaldis, vastus).",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Lahendab ühetehtelise ülesande summa ning vahe leidmiseks.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ülesandes kirjeldatud olukord peab olema lapsele tuttav ning eakohane. Andmed peavad olema tõepärased ning arvude suurus peab vastama arvuvallale, mida õpitakse. Ülesande sisu tuleb näitlikustada (pildid, esemed), et aidata mõista esitatud matemaatilist situatsiooni. Teksti on õpilastel lihtsam tajuda kuulmise teel (õpetaja loeb ette).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik teemade jaotus ja tundide arv",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Suurustunnused (õpitud suurustunnuste kinnistamine <em>suur-väike, suurem-väiksem, ühe-suurused, pikk-lühike</em> jne.) (1)</li><li>Ruumisuhted (õpitud ruumisuhete kinnistamine <em>ülal-all, ülemine-alumine, vasak-parem</em> jne) (1)</li><li>Töö hulkadega (kuni 10 elemendi ja 3 tunnusega – värv, kuju, suurus, hulkade moodustamine, võrdlemine, võrdsustamine, samaväärsete hulkade leidmine ja hulgast osahulga eraldamine) (3)</li><li>Hulga, arvu ja numbri seos 1–10 (arvude 1–10 ja 1.–10. nimetus ja tähistamine numbriga, arvu koht naturaalarvude reas, loendamine kasvavas ja kahanevas järjekorras, võrdus ja võrratussuhted arvude ja hulkade vahel) (3)</li><li>Arvu 10 koostis (2)</li><li>Liitmine ja lahutamine 10-piires (ühe- ja kahetehtelistes avaldistes, rakendades liitmise vahetuvusseadust) (5)</li><li>Aeg (mõistete <em>eile, täna, homme</em> sidumine nädalapäevadega; mõisted <em>üleeile</em> ja <em>ülehomme</em>; ööpäevaosade üldistamine sõnaga <em>ööpäev</em>) (3)</li><li>Aeg (<em>puhke</em>- ja <em>tööpäevad</em>) (1)</li><li>Raha (vajaliku summa moodustamine rahatähtedest ja müntidest) (4)</li><li>Geomeetrilised kujundid (<em>ring, nelinurk – ruut, ristkülik, kolmnurk</em>, <em>sirg</em>- ja <em>kõverjoon</em>; nende nimetamine ja eristamine) (4)</li><li>Kümneline (1 kümneline on 10 ühelist; mõisted <em>ühekohaline arv, kahekohaline arv</em>) (3)</li><li>Arv 11 (1); arvurida 1–11 (1); arvu 11 kümnendkoostis (1); hulkade ja arvude võrdlemine 11 piires (1); liitmine ja lahutamine 11 piires (3)</li><li>Arv 12 (1); arvurida 1–12 (1); arvu 12 kümnendkoostis (1); hulkade ja arvude võrdlemine 12 piires (1); liitmine ja lahutamine 12 piires (4)</li><li>Aastas on 12 kuud ja 4 aastaaega (2)</li><li>Kell - <em>täistund</em> (kellade liigid, kella osade nimetused, kellaaja määramine täistundides suuliselt ning kirjalikult) (3)</li><li>Arv 13 (1); arvurida 1–13 (1); arvu 13 kümnendkoostis (1); hulkade ja arvude võrdlemine 13 piires (1); liitmine ja lahutamine 13 piires (4)</li><li>Arv 14 (1); arvurida 1–14 (1); arvu 14 kümnendkoostis (1); hulkade ja arvude võrdlemine 14 piires (1); liitmine ja lahutamine 14 piires (4)</li><li><em>Sirgjoon</em>. <em>Sirglõik</em> (nimetamine, eristamine ja võrdlemine pikem-lühem) (1)</li><li>Pikkusühik <em>sentimeeter</em>. Etteantud lõigu pikkuse mõõtmine joonlauaga sentimeetrites (2)</li><li>Arv 15 (1); arvurida 1–15 (1); arvu 15 kümnendkoostis (1); hulkade ja arvude võrdlemine 15 piires (1); liitmine ja lahutamine 15 piires (5)</li><li>Arv 16 (1); arvurida 1–16 (1); arvu 16 kümnendkoostis (1); hulkade ja arvude võrdlemine 16 piires (1); liitmine ja lahutamine 16 piires (5)</li><li>Arv 17 (1); arvurida 1–17 (1); arvu 17 kümnendkoostis (1); hulkade ja arvude võrdlemine 17 piires (1); liitmine ja lahutamine 17 piires (5)</li><li>Arv 18 (1); arvurida 1–18 (1); arvu 18 kümnendkoostis (1); hulkade ja arvude võrdlemine 18 piires (1); liitmine ja lahutamine 18 piires (5)</li><li>Arv 19 (1); arvurida 1–19 (1); arvu 19 kümnendkoostis (1); hulkade ja arvude võrdlemine 19 piires (1); liitmine ja lahutamine 19 piires (5)</li><li>Arv 20 (1); arvurida 1-20 (1); arvu 20 kümnendkoostis (1); hulkade ja arvude võrdlemine 20 piires (1)</li><li>Liitmine 20 piires järgu ületamiseta (15 + 3; 12 + 5); (5)</li><li>Lahutamine 20 piires järgu ületamiseta (16 – 2) (5)</li><li>Liitülesanded 20 piires järgu ületamiseta (12 + 3 + 1; 18 – 2 – 5; 19 – 5 + 3) (5)</li><li>Liitmine 20-ni (16 + 4; 1 + 19) (3); lahutamine 20-st (20 – 3; 20 – 16) (3)</li><li>Rahaühikud: rahatähe või müntide vahetamine suuremaks või väiksemaks; vajaliku summa moodustamine rahatähtedest või müntidest (5)</li><li>Kolmnurk ja nelinurk. Joonestamine etteantud punktide (tippude) järgi. Kujundite elementide nimetamine (<em>nurk, külg</em>) ja nende loendamine (1)</li><li>Kahekohalisest arvust kahekohalise arvu lahutamine (19 – 15) (5)</li><li>Enne-pärast, varem-hiljem (2); aja määramine tundides (3)</li><li>Nimega arvude liitmine ja lahutamine (teisendamiseta, järku ületamata) (5)</li><li>Liitülesannete lahendamine (9 + 1 + 4; 2 + 8 + 3; 17 – 7 – 2) (5)</li><li>Õpitud materjali kordamine (10)</li></ul>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Eesti keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Võõrkeeleõpetus tugineb eesti keele kui õpilase emakeele oskusele. Ainetundides toimub pidev võrdlus ja kõrvutamine emakeele ning selle reeglitega, alustades tähestike sarnasuste ja erinevustega ning lõpetades hääldamise ja grammatikaga. Tugevasti tuginetakse õpilase eelnevatele teadmistele ja oskustele. Koos inglise keele õppega toimub eesti keele tundides õpitu kinnistamine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Matemaatika",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Inglise keele tundides õpitakse numbreid ja väiksemaid arve nii lugema kui kirjutama. Kirjeldatakse erinevaid geomeetrilisi kujundeid ja nende omadusi. Tegeletakse arvutamise, loendamise, võrdlemise ja mõõtmisega. Inglise keele õppes lahendatakse loogikaülesandeid ja sõnavara õppides arendatakse mälu. Tõlgendatakse erinevaid arvandmeid, analüüsitakse erineval kujul antud infot.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Loodusõpetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Võõrkeeletundides kirjeldatakse loodusõpetusest tuttavaid olendeid, paiku ja nähtusi uues keeles. Õpitakse rääkima loomadest-lindudest ja loodusnähtustest nii Eestis kui välismaal. Oma kodukoha kirjeldamisel tuginetakse tugevasti loodusõpetuse tundides õpitule. Kirjeldatakse aastaaegu ja nende vaheldumist, tegevusi, millega Eestis ja välismaal eri aastaaegadel võimalik tegeleda on.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ajalugu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Inglise keele tundides õpitakse ajaloost tuttavaid paiku ja inimesi õigesti hääldama. Oluline ühistegur on teiste rahvaste mineviku ja kultuuri tundmaõppimine ning analüüs, sarnasuste ja erinevuste võrdlemine, tavade kirjeldamine. Lisaks õpitakse inglise keele tundides ajatelje loomist ja kasutamist.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Inimeseõpetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Keeleõppes on kesksel kohal samad teemad nagu inimeseõpetuses. Õpitakse kirjeldama ja analüüsima iseennast, oma peret ja ümbritsevat keskkonda. Omandatakse teadmised nädalapäevade, kuude ja aastaaegade kohta.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Muusika",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilased tegelevad inglise keele tundides võõrkeelse muusika kuulamise, tõlkimise ja mõistmisega. Arutletakse muusika rolli üle meie eludes ja kirjeldatakse erinevaid muusikastiile ning oma eelistusi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Tööõpetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Võõrkeeleõpe annab võimalused infootsinguga leida uusi tehnoloogilisi lahendusi oma ideede elluviimiseks või tutvuda olemasolevate näidistega (nt tootearendus, arhitektuur, tehnika). Võimalik on teostada retsepte või otsida mustreid. Inglise keele valdamine võimaldab teha rahvusvahelist koostööd. Inglise keel on abiks rahvusvaheliste standardite ja regulatsioonide mõistmisel ja tõlgendamisel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kunstiõpetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Võõrkeeletundides arendatakse verbaalset eneseväljendusoskust, diktsiooni ja infokanalite kasutamise oskust. Tundides kasutatakse õppevahenditena nii pilte, fotosid, muusikat, teatri- kui filmikunsti. Tegeletakse käelise tegevusega nagu postkaartide ja kutsete meisterdamine. Materjalidena kasutatakse ilukirjandust ja luulet.</p>"
+        }
+      ]
+    }
+  ]
+}

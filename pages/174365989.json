@@ -1,0 +1,947 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Oodatavad õpitulemused 9. klassi lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "seostab inimese elundkondi nende põhifunktsioonidega, kasutab elementaarseid esmaabivõtteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid tervislikest eluviisidest ja järgib neid",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab abivahenditele tuginedes Eesti asendit",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid kodukoha tööstus-, teenindusvõi põllumajandusettevõtte tegevuse kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab teabeallikate põhjal Euroopa riigi tutvustuse ja reisiplaani, esitleb seda kaaslastele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "käsitseb ohutult ja otstarbekalt olmeseadmeid, tööriistu ning kodukeemiat",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab nende kasutamise otstarvet ja ohutusnõudeid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja selgitab õpitud nähtuste iseloomulikke tunnuseid ning toob näiteid nende avaldumise kohta igapäevaelus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab internetist vajalikku ja jõukohast loodusteaduslikku infot ning hindab abiga selle usaldusväärsust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab jätkusuutliku, säästva, vastutustundliku eluviisi põhimõtteid ja järgib neid.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Kohustuslik aine maht 4 tundi nädalas</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/280",
+          "title": "Inimese organism — Loodusõpetuse digiõpik. 9. klassile, 1. osa"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/310",
+          "title": "Valguse peegeldumine ja murdumine. Võnkumine ja laine. Rõhumisjõud. Elektriõpetus. Magnetnähtused. Keemia igapäevaelus — Loodusõpetuse digiõpik. 9. klassile, 2. osa"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.opiq.ee/Kit/Details/331",
+          "title": "Maailm. Euroopa. Eesti — Loodusõpetuse digiõpik. 9. klassile, 3. osa"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik teemade järjestus ja tundide arv õppeaasta jooksul",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Inimese organism (46), valguse peegeldumine ja murdumine (8), võnkumine ja laine (6), rõhumisjõud (5), elektriõpetus (5), magnetnähtused (4), keemia igapäevaelus (8), maailm (5), Euroopa ja Eesti (30), reisisiht Euroopa (15)</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Lõiming matemaatikaga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mõõta inimese kehatemperatuuri ning hinnata selle väärtusi (normaalne kehatemperatuur, palavik, alapalavik). Oskus erinevatelt diagrammidelt ja graafikutelt infot lugeda ning seda tõlgendada. Elektri teema juures uurida kodust elektriarvet. Tarbitud elektri (kWh) ning elektrienergia ühiku hinna (euro) järgi arvutada ühes kuus elektrile kulunud summa (euro). Mõõta võnkuva keha amplituuti ja sagedust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming eesti keelega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rikastada ja korrata sõnavara lühikeste loodusvaatluste, objektide ning riikide kirjeldamisel. Lugeda loodusõppe tekste (nt inimese meeled, Euroopa vaatamisväärsused) või teha kokkuvõte koos pildi,- videomaterjaliga õppekäigust. Koostada viktoriine/mälumänge õpitud Euroopa riikide või inimese elundkondade kohta.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming võõrkeelega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Uurida teiste riikide keeli, kultuuri ja traditsioone. Riikide ingliskeelsete nimede erinevus ja sarnasus eesti keelega (nt Sweden - Rootsi; Estonia - Eesti jne). Lugeda ja leida vajalikku lisainfot võõrkeelsest (digi)kirjandusest. Riikide asukoha (nt <a href=\"https://www.geoguessr.com/quiz/seterra\">riigid</a>), inimkeha ja keemiliste elementide nimetuste õppimiseks (nt <a href=\"https://www.geoguessr.com/l/en-an\">inimkeha ja keemilised elemendid</a>) kasutada võõrkeelseid õpikeskkondi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ajalooga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Uurida teaduslikke avastusi ja arenguid minevikus ning mõista nende mõju inimkonnale ja ühiskonnale. Uurida minevikus kasutatud tehnoloogiaid ja vahendeid, näiteks elektromagnetism. Võrrelda Eesti ja mõne teise Euroopa riigi inimasustuse kujunemist, sõdasid, tööstusharude kujunemist. Teha ajalooline lühiülevaade kodukoha tööstus,- teenindus- või põllumajandusettevõttest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming inimeseõpetusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Uurida inimese anatoomiat ja füsioloogiat ning mõista inimese tervise ja heaolu olulisust. Analüüsida isiklike toitumisharjumusi ning tulemuste põhjal teha järeldusi harjumuste tervislikkusest. Läbi viia katsed meeleelundite tundlikkuse määramiseks. Harjutada esmaabivõtteid koostöös kooliõega. Õppida kuidas käsitleda kodukeemiat ohutult ja otstarbekalt.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming kehalise kasvatusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mõõta pulssi ja vererõhku puhkeolekus ning peale füüsilist koormust. Arutleda, millist mõju see kehale avaldab.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming tööõpetusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpetada kuidas käsitleda ohutult ja otstarbekalt olmeseadmeid ning tööriistu. Selgitada olmeseadmete ja tööriistade kasutamise otstarvet ja ohutusnõudeid. Võtta osadeks erinevaid elektroonika ja mehaanika seadmeid ning uurida nende sisemust. Vahetada kella, taskulambi patareisid (vooluallika olulisus).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming muusikaga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tuua näiteid erinevatest heliallikatest. Võrrelda nais- ja meeshäält (kõrgem-madalam). Teadvustada, et vali muusika kuulamine kahjustab kuulmist. Jälgida/kuulata heli ja laine tekkimist keelpilli abil. Võrrelda heli (müra) summutavaid materjale.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Inimese organism",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Seostab inimese elundkondi nende põhifunktsioonidega",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab naha ülesandeid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab joonisel/mudelil inimese skeleti peamisi luid ja lihaseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab luude ja lihaste ülesandeid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab jooniste ja skeemide alusel vereringeelundkonna talitlust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab jooniste/skeemide alusel toidu seedimist ja toitainete imendumist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab neerude, kopsude, naha ja soolestiku osa jääkainete eritamisel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab hingamiselundkonna jooniste/skeemide alusel hingamise olemust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb jooniste alusel naise ja mehe suguelundkonna ehitust ning talitlust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab närvisüsteemi põhiülesandeid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab jooniste/mudelite toel erinevate meeltega seotud organite ehitust ning talitlust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab elementaarseid esmaabivõtteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ja/või demonstreerib esmaabivõtteid luumurdude, lihasevenituste ja -rebendite korral",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ja/või demonstreerib esmaabivõtteid verejooksu korral",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "demonstreerib kunstliku hingamise võtteid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid tervislikest eluviisidest ja järgib neid",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "peab tähtsaks enda tervislikku treenimist",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja väärtustab naha tervishoiuga seotud tervislikku eluviisi",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja väärtustab südant, vereringeelundkonda ja immuunsüsteemi tugevdavat ning säästvat eluviisi",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab tervisliku toitumise põhimõtteid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab hingamiselundite levinumate haiguste tekkepõhjusi ja haiguste vältimise võimalusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab sagedasemate suguhaiguste levimise viise ja neisse haigestumise vältimise võimalusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab erinevate rasestumisvastaseid meetodeid ja hindab nende sobivust raseduse vältimiseks",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja väärtustab meeleelundeid säästva eluviisi põhimõtteid.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "Leiab internetist vajalikku ja jõukohast loodusteaduslikku infot ning hindab abiga selle usaldusväärsust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjeldab jätkusuutliku, säästva, vastutustundliku eluviisi põhimõtteid ja järgib neid",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja väärtustab HIV-iga nakatumist vältivaid tervislikke eluviise",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab ennast ja teisi säästvat seksuaalelu",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub kriitiliselt närvisüsteemi kahjustavate ainete tarbimisse",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub vastutustundlikult oma hingamiselundkonna tervisesse.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Rakud, koed, elundid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Rakud: üherakulised ja hulkraksed elusolendid.</p><p>Inimese rakud, koed ja elundid. Elundkondade põhiülesanded. Naha ehitus ja ülesanded. Hügieeninõuded naha hooldamisel.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Luud ja lihased",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Luustiku osad, luustiku ja lihaste talitluse põhiülesanded. Treeningu mõju tugi- ja liikumiselundkonnale.</p><p>Esmaabi luumurdude, lihasevenituste ja -rebendite korral.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Vereringe",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Südame ehitus ja talitlus. Veri, vere liikumine organismis. Vere osa organismi immuunsüsteemis.</p><p>Immuunsuse kujunemine: lühi- ja pikaajaline immuunsus. Immuunsüsteemi ja vaktsineerimise osa bakter- ja viirushaiguste vältimisel.</p><p>Immuunsüsteemi häired, allergia, AIDS. Treeningu mõju vereringeelundkonnale.</p><p>Inimese sagedasemad südame- ja veresoonkonnahaigused, nende tekkepõhjused.</p><p>Esmaabi verejooksude korral. Doonorlus, veregrupid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Seedimine ja eritamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Inimese seedeelundkonna ehitus ja talitlus. Organismi energiavajadust mõjutavad tegurid.</p><p>Tervislik toitumine, üle- ja alakaalulisuse põhjused ning tagajärjed. Neerude üldine tööpõhimõte.</p><p>Kopsude, naha ja soolestiku eritamisülesanne.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Hingamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Inimese hingamiselundkonna ehitus ja talitlus. Treeningu mõju hingamiselundkonnale.</p><p>Hingamiselundkonna levinumad haigused ning nende ärahoidmine.</p><p>Esmaabi: kunstlik hingamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Paljunemine ja areng",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Mehe ja naise suguelundkonna ehituse ning talitluse võrdlus. Muna- ja seemnerakkude küpsemine.</p><p>Suguelundkonna tervishoid, suguhaiguste levik, haigestumise vältimise võimalused. Munaraku viljastumine, loote areng, raseduse kulg ja sünnitus.</p><p>Pere planeerimine, abordiga kaasnevad riskid.</p><p>Inimorganismi talitluslikud muutused sünnist surmani.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Talitluste regulatsioon",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Närvisüsteemi ehitus ning ülesanded, tervishoid. Refleksikaare ehitus ja talitlus (arvutimudeli abil).</p><p>Peamiste sisenõrenäärmete toodetavate hormoonide ülesanded. Elundkondade koostöö inimese terviklikkuse tagamisel.</p><p>Närvisüsteemi ja hormoonide osa elundkondade talitluste regulatsioonis.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Infovahetus väliskeskkonnaga",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Silma ehitus ja talitlus. Nägemishäirete vältimine ja korrigeerimine.</p><p>Kõrvade ehituse seos kuulmis- ja tasakaalumeelega. Kuulmishäirete vältimine ja korrigeerimine.</p><p>Haistmis- ja maitsmismeelega seotud organite ehituse ja talitluse seosed.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>(Lego)klotside abil raku ja koe moodustamine. Üks klots = rakk. Kaks ja rohkem samasugust klotsi koos = kude.</li><li>Loomsete kudede (luu-, rasv- ja lihaskude) ehituse võrdlemine mikroskoobiga.</li><li>Katsed füüsilise koormuse mõjust pulsile või vererõhule.</li><li>Isikliku toitumisharjumuse analüüs (etteantud kava toel).</li><li>Praktilise tööga või arvutimudeliga kopsumahu, hingamissügavuse ja -sageduse ning omastatava hapniku hulga seoste uurimine.</li><li>Refleksikaare töö uurimine arvutimudeliga (<a href=\"https://mudelid.5dvision.ee/\">Refleks</a>)</li><li>Katsed meeleelundite tundlikkuse määramiseks. Nt pimesi maitse või lõhna ära tundmine. Esemete kompimine ning nimetamine. Muusikariistade nimetamine kuulmise järgi. Pupilli suuruse muutumine pimedas/valguse käes. Optiliste illusioonide uurimine.</li><li>Esmaabivõtete harjutamine. Võimalusel koostöös kooliõega.</li><li>Kehatemperatuuri mõõtmine (digitaalse)kraadiklaasiga.</li><li>Tervislike toiduretseptide uurimine, võimalusel ühiskokkamine või tervislike snäkkide kooli kaasa võtmine ning ühismaitsmine.</li><li>Õppekäik Eesti Tervisemuuseumisse.</li></ul>"
+            },
+            {
+              "kind": "section",
+              "title": "Lisamaterjalid/ideed õpetajale (videomaterjal)",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.ysbf.org/bioanikal/",
+                  "title": "BioAniKal animatsioonid (lihastik, hingamiselundkond, närvisüsteem jne)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://mudelid.5dvision.ee/",
+                  "title": "Loodusteaduslikud mudelid põhikoolile (refleksikaar, südame töö, kuulmine, toitumine)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://teaduskool.ut.ee/et/oppetoo/pimetahn",
+                  "title": "Pimetähn"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://teaduskool.ut.ee/et/oppetoo/juhtsilm",
+                  "title": "Juhtsilm"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://ebu.ee/vabavara/inimene.php",
+                  "title": "EBÜ õppematerjal (inimene)"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://ampser.ee/index.php?page=2",
+                  "title": "Koolinoorte tervisliku toitumise arvesti"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Mida peaks teadma viirustest? (viirushaigused):</p>"
+                },
+                { "kind": "video", "src": "https://vimeo.com/604971623" },
+                {
+                  "kind": "link",
+                  "href": "http://tthkkesmaabi.weebly.com/index.html",
+                  "title": "T. Taimsalu koostatud veebipõhine eestikeelne õpiobjekt „Esmaabi“"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://tervisliktoitumine.ee/category/tervislikud-retseptid/",
+                  "title": "Tervislik toitumine (retseptid)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.ysbf.org/bioanikal/biokalkulaator/",
+                  "title": "Eesti taimede ja viljade mõju inimese tervisele (kasulikud, ohutud või mürgised:"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sites.google.com/tervisemuuseum.ee/tervisemuuseumi-e-pe/avaleht",
+                  "title": "Tervisemuuseumi e-õppe keskkond (meeled, toitumine, vaimne tervis, seksuaalharidus, bakterid) Videod, testid, töölehed, podcast"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Ujumisriiete reegel ja selle tähtsus (kaetud kehaosad):</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=bIUJ81G-OLA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Maailm. Euroopa ja Eesti",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "K irjeldab abivahenditele tuginedes Eesti asendit (manner, maailmajagu, asukoht Euroopas, naaberriigid).",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid kodukoha tööstusettevõtete tegevuse kohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid kodukoha teenindusettevõtete tegevuse kohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid kodukoha põllumajandusettevõtete tegevuse kohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Leiab internetist vajalikku ja jõukohast loodusteaduslikku infot ning hindab abiga selle usaldusväärsust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Maailm",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mandrid, maailmajaod, suuremad riigid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Euroopa ja Eesti",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Rahvastik, asustus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Eesti ja Euroopa rahvaarv ja selle muutumine.</p><p>Rahvastiku soolis-vanuseline koosseis ja rahvastiku vananemisega kaasnevad probleemid.</p><p>Ränded ja nende põhjused. Rahvuslik koosseis. Rahvastiku paiknemine. Linnastumise põhjused.</p><p>Linnastumisega kaasnevad majanduslikud, sotsiaalsed ja keskkonnaprobleemid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Majandus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Euroopa ja Eesti majandusressursid, tööstusharud.</p><p>Eesti energiamajandus, põlevkivi kasutamine (elektri tootmine ja transportimine kasutajateni) ja keskkonnaprobleemid.</p><p>Energiaallikad (sh alternatiivenergia), nende kasutamise eelised ja puudused.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Põllumajandus ja toiduainetetööstus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Põllumajanduse arengut mõjutavad looduslikud tegurid.</p><p>Eri tüüpi põllumajandusettevõtted ja toiduainetööstus Euroopas. Eesti põllumajandus ja toiduainetööstus.</p><p>Põllumajandusega seotud keskkonnaprobleemid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Teenindus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Teenindus ja selle jaotumine. Turism ja selle liigid.</p><p>Eesti turismimajandus; peamised vaatamisväärsused kodulinnas või -maakonnas.</p><p>Euroopa peamised vaatamisväärsused. Turismiga kaasnevad keskkonnaprobleemid.</p><p>Transpordiliigid, nende eelised ja puudused sõitjate ning erinevate kaupade veol. Eesti transport.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Atlasest või internetist vajaliku kaardi leidmine, kohanimede registri kasutamine.</li><li>Kaardil mandrite, maailmajagude ning suuremate riikide näitamine, nende kandmine kontuurkaardile (abivahendeid kasutades).</li><li>Eesti asukoha kirjeldamine. Asukoht mandril, maailmajaos, Euroopas ning naaberriigid.</li><li>Eesti ja mõne teise Euroopa riigi võrdlus kaartide, teabeallikate põhjal.</li><li>Diagrammide ja graafikute lugemisoskuse harjutamine (abistava kava põhjal).</li><li>Lühiülevaate koostamine: elektri tarbimine koduses majapidamises (elektritarvitid, kasutamise aeg, elektriarvesti näit, tarbimise hind, säästlikkuse võimalused).</li><li>Mõistekaart tähtsamatest tööstusharudest ning nende tegevustest (energeetika, metallurgia, masinatööstus, keemiatööstus, kergetööstus, toiduainetööstus, puidutööstus, ehitusmaterjalitööstus). Mõistekaardi võib teha käsitsi paberile või kasutada nende loomiseks digikeskkonda <a href=\"https://www.canva.com/\">Canva</a>.</li><li>Internetist leitud teabe alusel ülevaate koostamine kodukoha tööstusettevõtete, teenindusettevõtete või põllumajandusettevõtete tegevuse kohta.</li><li>Kohaliku tööstus-, teenindus- või põllumajandusettevõtte külastamine. Külastuskäigust jäädvustada pilte/videoid. Laadida materjal digikeskkonda (nt <a href=\"https://padlet.com/\">Padlet</a>) ning seda taasesitada.</li></ul>"
+            },
+            {
+              "kind": "section",
+              "title": "Lisamaterjalid/ideed õpetajale (videomaterjal)",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.geoguessr.com/quiz/seterra",
+                  "title": "Mandrite ja riikide õppimiseks (EST, ENG)"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://www.geoguessr.com/pdf/4004",
+                  "title": "Prinditav materjal (mandrid)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.regio.ee/toode/maailma-poliitiline-kaart/",
+                  "title": "Maailma poliitiline kaart"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://rahvastik.population.city/world/",
+                  "title": "Internetis jälgitav rahvaarvu muutus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.worldometers.info/",
+                  "title": "Internetis jälgitav rahvaarvu muutus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.stat.ee/",
+                  "title": "Eesti kohta käiv statistika"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Reisisiht Euroopa",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Koostab teabeallikate põhjal ühe Euroopa riigi tutvustuse ja reisiplaani.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Esitleb riigi tutvustust ja reisiplaani kaaslastele.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Leiab internetist vajalikku ja jõukohast loodusteaduslikku infot ning hindab abiga selle usaldusväärsust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ühe valitud riigi iseloomustamine: üldandmed, sümboolika, geograafiline asend, loodus, rahvastiku paiknemine, maavarad, majandus ja tööstus, rahvaste kultuur ja traditsioonid. Transpordivõimalused sellesse riiki.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ühe Euroopa riigi kohta (üldandmed, sümboolika, geograafiline asend, loodus, rahvastiku paiknemine, tuntumad vaatamisväärsused, maavarad, majandus ja tööstus, rahvaste kultuur ja traditsioonid) esitluse loomine (nt PowerPoint, Google Drive, Canva) ning esitluse ettekandmine kaaslastele. Õppija analüüsib, võrdleb ja hindab leitud andmeid. Hindab allikate usaldusväärsust.</li><li>Reisisihiks valitud riigi (linna) ja transpordivõimaluste iseloomustamine kaartide ja teabeallikate põhjal, valikute põhjendamine toetudes õpitud teadmistele.</li></ul>"
+            },
+            {
+              "kind": "section",
+              "title": "Lisamaterjalid/ideed õpetajale (videomaterjal)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õppevideo Google Drive esitluse loomiseks -</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=tRrS7jvcmY4"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.canva.com/",
+                  "title": "Esitluse loomise võimalus Canva keskkonnas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Valguse peegeldumine ja murdumine. Võnkumine ja laine. Rõhumisjõud. Elektriõpetus. Magnetnähtused. Keemia igapäevaelus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Kirjeldab ja selgitab õpitud nähtuste iseloomulikke tunnuseid ning toob näiteid nende avaldumise kohta igapäevaelus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab valguse peegeldumist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab Kuu faase",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab erineva kujuga peeglite kasutusvaldkondi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab läätsede kasutusvaldkondi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid võnkuvatest kehadest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid heliallikatest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb nais- ja meeshäält (kõrgem-madalam)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et vali muusika kuulamine kahjustab kuulmist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab rõhu muutmise võimalusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid ujuvate ja uppuvate kehade kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab õpetaja toel vooluvõrku",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab elektritarvitit sildiandmete põhjal (ohutustähised, toitepinge, võimsus)",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb õpetaja toel elektrilisi valgusallikaid säästlikkuse seisukohast",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab magnetite vastastikmõju",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid magnetite kasutamisest.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Käsitseb ohutult ja otstarbekalt olmeseadmeid, tööriistu ning kodukeemiat.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab olmeseadmete, tööriistade ning kodukeemia kasutamise otstarvet ja ohutusnõudeid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Leiab internetist vajalikku ja jõukohast loodusteaduslikku infot ning hindab abiga selle usaldusväärsust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Valguse peegeldumine ja murdumine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Valguse peegeldumise nähtus. Esemete nägemine. Kuu faaside teke. Tasa-, kumer- ja nõguspeeglite kasutamine.</p><p>Valguse murdumise nähtus. Prisma, kumer ja nõgus lääts; nende kasutamine optilistes seadmetes (luup, binokkel, fotoaparaat, mikroskoop jms).</p><p>Kaug- ja lühinägelikkus, prillid.</p><p>Kehade värvus. Valguse neeldumine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Võnkumine ja laine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Võnkumine; võnkumise amplituud, periood, sagedus. Võnkumise levimine - laine.</p><p>Heli, heli kiirus, võnkesageduse ja heli kõrguse seos.</p><p>Heli valjus. Elusorganismide hääleaparaat; abiteenused (hambaravi, logopeed). Müra ja mürakaitse.</p><p>Võnkumiste avaldumine looduses ja rakendamine tehnikas.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Rõhumisjõud",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Rõhk, õhurõhk, baromeeter. Üleslükkejõud. Kehade ujumine. Rõhu avaldumine looduses ja arvestamine tehnikas.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Elektriõpetus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kodune vooluvõrk: vooluallikad, vooluring.</p><p>Lühis, kaitsmed. Kaitsemaandus.</p><p>Elektrivoolu töö ja võimsus. Elektrienergia arvesti.</p><p>Elektritarvitid koduses majapidamises, elektriohutus, säästlikkus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Magnetnähtused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Püsimagnet. Magnetväli. Magnetnähtused looduses ja tehnikas.</p><p>Elektromagnet. Elektromagnetkiirgus: kiirgusallikad meie igapäevaelus, kiirguse mõju inimese tervisele.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Keemia igapäevaelus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Toiduainete koostis. Eluks vajalikud süsinikuühendid (sahhariidid, rasvad, valgud), nende roll organismis.</p><p>Kütused. Tarbekeemia saadused, plastid ja kiudained. Olmekemikaalide kasutamise ohutusnõuded.</p><p>Keemia ja elukeskkond.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Valguse peegeldumise ja murdumise katsete korraldamine ja vaatlemine.</li><li>Kuu faaside vaatlemine.</li><li>Kaug- ja lühinägija prillide võrdlemine ja katsete korraldamine kumer- ja nõgusläätsega.</li><li>Võnkuva keha amplituudi, perioodi ja sageduse määramine.</li><li>Laine ja heli tekkimise jälgimine/kuulamine.</li><li>Lainete tekitamine veepinnal.</li><li>Heli (müra) summutavate materjalide võrdlemine.</li><li>Kuuldepiirkonna määramine (nt helikõrguste programm <a href=\"https://www.szynalski.com/tone-generator/\">Helikõrgus</a>). Õpilased tõstavad käe sellest hetkest, kui nad heli kuulevad ning langetavad selle siis, kui nad enam heli ei kuule.</li><li>Õhurõhu mõõtmine baromeetriga, õhurõhu muutuste fikseerimine, rõhu muutumise ja ilma muutumise seose uurimine.</li><li>Auto või jalgratta rehvide rõhu kontrollimine.</li><li>Lihtsa vooluringi koostamine.</li><li>Kodu/kooli ööpäevase elektrienergia tarbe määramine.</li><li>Katsed püsimagnetitega.</li><li>Olmekeemia pakenditel info lugemine ja seostamine õpituga.</li></ul>"
+            },
+            {
+              "kind": "section",
+              "title": "Lisamaterjalid/ideed õpetajale (videomaterjal)",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://hev.edu.ee/69-2/",
+                  "title": "HEV lisamaterjal: Valgusõpetus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://hev.edu.ee/70-2/",
+                  "title": "HEV lisamaterjal: Mehaanika"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://teaduskool.ut.ee/et/oppetoo/kuidas-tootab-helkur",
+                  "title": "Helkur"
+                },
+                {
+                  "kind": "embed",
+                  "src": "https://phet.colorado.edu/et/simulations/filter?type=html,prototype"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://mudelid.5dvision.ee/",
+                  "title": "Loodusteaduslikud mudelid põhikoolile (valguse peegeldumine ja murdumine, elektrienergia kulu olmes, elektrivool metallides, gaasi rõhk): Mudelid (5dvision)"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Videoõpsi selgitav video (valguse murdumine):</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=9eNf162xH_s"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Videoõpsi selgitav video (lääts):</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=qaJ_F0EY3q0"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Videoõpsi selgitav video (prillid, lühi- ja kaugnägelikkus):</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=CcD4jOttnN0"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Videoõpsi selgitav video (sissejuhatus elektriõpetusse):</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=GESjvv_-j-M"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Videoõpsi selgitav video (elektrivool):</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=iTW4AVMbJvw&list=PL70HIWp0tGWDeSCKtlU5tKpYAf2I7Ctbr&index=3"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://jaaaeg.ee/opetajale/oppematerjalid/",
+                  "title": "Elekter meie elus. Jääaja Keskuse õppematerjalid"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

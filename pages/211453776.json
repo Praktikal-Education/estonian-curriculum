@@ -1,0 +1,751 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Valgus ja valguse sirgjooneline levimine. Valguse peegeldumine ja neeldumine.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb erinevaid valgusallikaid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "liigitab valgusallikaid nende suuruse ja valguse spektraalse koostise järgi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb valguse sirgjoonelise levimise ja peegeldumise seadust ning konstrueerib nende põhjal optilisi nähtusi selgitavaid jooniseid ja korraldab vastavad katsed",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab peegeldunud valguse spektrit esemete värvusega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valgus kui energia. Soojuslikud ja külmad valgusallikad. Valguse sirgjooneline levimine. Valgusvihk. Päike, tähed. Liitvalgus ja valguse spekter. Vari ja varjutused. Kuu faasid. Valguse peegeldumine ja neeldumine. Peegeldumisseadus. Tasapeegel, kumer- ja nõguspeeglid. Mattpind. Mustad, valged ja värvilised esemed. Valgusfilter.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>valge valgus, liht- ja liitvalgus, valguse spekter, valguskiir, punktvalgusallikas, valgusvihk, optiline keskkond, täis- ja poolvari, tasapeegel, mattpind, kumer- ja nõguspeegel, fookus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>täis- ja poolvarju uurimine;</li><li>värvilise valguse uurimine valgusfiltritega;</li><li>peegeldumisseaduse uurimine;</li><li>tasapeeglis tekkiva kujutise uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/36",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/291",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/170",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_all.html?locale=et"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/7517-Valgus-ja-varvid",
+              "title": "Valgus ja värvid"
+            },
+            {
+              "kind": "link",
+              "href": "https://issuu.com/ingridroigas/docs/pohikooli_toolehed_fyysika",
+              "title": "Praktiliste tööde kogum"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/drive/folders/1qizbojYJroTIIcPOjskYv4RpJCBZkZml?usp=sharing",
+              "title": "Hindamismudelite näited"
+            },
+            { "kind": "video", "src": "https://youtu.be/FaUvz9ckl18" },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/rsdnAQAg7HQ?si=IUI8EbE8srLNrj3M"
+            },
+            { "kind": "video", "src": "https://youtu.be/xOLicFThqbc" },
+            { "kind": "video", "src": "https://youtu.be/iphkwx0mhQI" },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/Hx2IlANgs3o?si=HH6KlXN8ShkB49Ra"
+            },
+            {
+              "kind": "link",
+              "href": "https://eclipse.gsfc.nasa.gov/SEatlas/SEatlas.html",
+              "title": "NASA varjutuste kaardid"
+            },
+            {
+              "kind": "link",
+              "href": "https://astro.unl.edu/naap/lps/animations/lps.html",
+              "title": "Kuu faaside animatsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://svs.gsfc.nasa.gov/10395/#section_credits",
+              "title": "NASA animatsioonid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.noaa.gov/jetstream/atmosphere/energy",
+              "title": "Energia bilanss"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hektor.ee/uudised-nouanded-teated/kuidas-valgusallikat-valida/",
+              "title": "Valgusallikate pakendid"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Huvitav füüsika II"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesannete kogumik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Valguse murdumine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "rakendab valguse murdumise seaduspärasust läätse tööpõhimõtte selgitamiseks ja probleemülesandeid lahendades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seletab fookuse, fookuskauguse ja optilise tugevuse mõistet",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb erinevate läätsede omadusi ja seostab kujutiste tekkimist läätsede omadustega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "konstrueerib kiirte käiku kumer- ja nõgusläätses, eristab tõelist ja näivat kujutist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab jooniste järgi erinevate optiliste seadmete tööpõhimõtet",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab silma kui optilise süsteemi tööpõhimõtet ning lühi- ja kaugnägemise põhjuseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades seost: $D=\\frac{1}{f}$",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valguse murdumine üleminekul ühest optilsest keskkonnast teise. Täielik peegeldumine. Liitvalguse lahutamine spektriks. Kumer- ja nõguslääts. Tõeline ja näiline kujutis. Silm ja nägemine. Lühi- ja kaugnägelikkus, prillid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/36",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/291",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/170",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html?locale=et"
+            },
+            {
+              "kind": "link",
+              "href": "https://issuu.com/ingridroigas/docs/pohikooli_toolehed_fyysika",
+              "title": "Praktiliste tööde kogum"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20341-Kuidas-ehitada-kaeparastest-vahenditest-mikroskoopi",
+              "title": "Mikroskoobi ehitamise juhend"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/7515-Silm-ja-nagemine-8-kl-fuusikas",
+              "title": "Silm ja nägemine"
+            },
+            { "kind": "video", "src": "https://youtu.be/9eNf162xH_s" },
+            { "kind": "video", "src": "https://youtu.be/qaJ_F0EY3q0" },
+            { "kind": "video", "src": "https://youtu.be/cmwXUGuUAqg" },
+            { "kind": "video", "src": "https://youtu.be/CcD4jOttnN0" },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20336-Kuidas-ehitada-helkurit",
+              "title": "Helkuri ehitamise õpetus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20340-Kuidas-kaamerasilma-jaoks-noole-suunda-muuta",
+              "title": "Noole suuna muutmine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/31746-Laatsed",
+              "title": "Läätsed"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32278-Optilised-seadmed",
+              "title": "Optilised seadmed"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/1608427889/lugeja-kusib-miks-talvel-laevad-nailiselt-ohku-tousevad",
+              "title": "Miraaži artikkel"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Huvitav füüsika II"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesannete kogumik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Liikumine ja jõud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "uurib ja kirjeldab keha liikumist ning oskab seda graafiliselt analüüsida",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib ja kirjeldab kehade vastastikmõju ning selgitab kehade kiiruse muutumist sõltuvalt kehade massist ja vastastikmõju kestusest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et vastastikmõju tugevust iseloomustab jõud",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades järgmisi seoseid: $v=\\frac{s}{t}$; $\\rho=\\frac{m}{V}$",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ühtlane ja mitteühtlane liikumine. Hetk- ja keskmine kiirus. Liikumise graafiline kirjeldamine. Keha mass ja inertsus. Tihedus. Kehade vastastikmõju. Jõud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/36",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/291",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/170",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Graafikute rakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://issuu.com/ingridroigas/docs/pohikooli_toolehed_fyysika",
+              "title": "Praktiliste tööde kogum"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html?locale=et"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20360-Eva-Maria-Tonson-Tihedus",
+              "title": "Tihedus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32463-Praktiline-too-Keha-aine-maaramine-tiheduse-kaudu",
+              "title": "Keha tiheduse määramine"
+            },
+            { "kind": "video", "src": "https://youtu.be/c6tUI6akUE8" },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/5he-shNYZUE?si=S_cAav4P5YKfDskF"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Huvitav füüsika II"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesannete kogumik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Jõud looduses",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "võrdleb eri kehadele mõjuvat raskusjõudu ja seostab seda keha massiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib hõõrdejõudu ja seletab selle mõju kehade liikumisele, analüüsib graafiliselt hõõrdejõu sõltuvust rõhumisjõust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib elastsusjõudu ja seletab selle tekkimise põhjuseid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kasutada dünamomeetrit erinevate jõudude mõõtmiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades seost: $F=mg$",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Gravitatsioon. Raskusjõud. Hõõrdumine, hõõrdejõud. Kehade elastsus ja plastsus. Deformeerimine, elastsusjõud. Dünamomeetri tööpõhimõte. Kehale mõjuvate jõudude tasakaal.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/36",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/291",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/170",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Graafikute rakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://issuu.com/ingridroigas/docs/pohikooli_toolehed_fyysika",
+              "title": "Praktiliste tööde kogum"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=E43-CfukEgs&t=2s&ab_channel=BBC"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=06-Xm3_Ze1o&t=579s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=N9Ha3gabNk0&ab_channel=TalTechMEKTORY"
+            },
+            {
+              "kind": "link",
+              "href": "https://forte.delfi.ee/artikkel/75828187/vaade-ulevalt-kuidas-kirjeldab-avakosmost-eestit-kulastanud-astronaut",
+              "title": "Astronaudi artikkel"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/friction/latest/friction_all.html?locale=et"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_all.html?locale=et"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Huvitav füüsika II"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesannete kogumik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Rõhumisjõud ja rõhk. Rõhk ja üleslükkejõud vedelikes ja gaasides",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kavandab ja teeb katse rõhu määramiseks, seostab rõhku kokkupuute pindala ning rõhumisjõuga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab rõhu edasikandumist gaasides ja vedelikes (Pascali seadus)",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb katse vedelikes kehadele mõjuva üleslükkejõu uurimiseks ja selgitab katse tulemusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb kehade ujumise ja uppumise tingimusi ning selgitab nende seoseid loodusnähtustega",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seletab õhurõhu, vedelikusamba rõhku ja üleslükkejõu mõistet ning rakendab neid loodusnähtusi selgitades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades järgmisi seoseid: $p=\\frac{F}{S}$; $p=\\rho gh$; $F_ü=\\rho gV$",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rõhumisjõud ja rõhk. Keha kaal. Pascali seadus. Rõhk erinevatel sügavustel. Õhurõhk, kõrg- ja madalrõhkkond. Üleslükkejõud. Kehade ujumise, uppumise ja heljumise tingimused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/36",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/291",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/170",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Graafikute rakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://issuu.com/ingridroigas/docs/pohikooli_toolehed_fyysika",
+              "title": "Praktiliste tööde kogum"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_all.html?locale=et"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ilmateenistus.ee/ilm/ilmavaatlused/vaatlusandmed/oopaevaandmed/",
+              "title": "Ilmateenistuse vaatlusandmed"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Huvitav füüsika II"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesannete kogumik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Mehaaniline töö, energia ja võimsus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "seletab mehaanilise töö, mehaanilise energia (potentsiaalse ja kineetilise energia), võimsuse ja kasuteguri mõistet",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab lihtmehhanismide otstarvet ja üldist tööpõhimõtet, rakendades mehaanika kuldreeglit",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades järgmisi seoseid: $A=Fs$; $N=\\frac{A}{t}$",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Töö. Võimsus. Energia, kineetiline ja potentsiaalne energia. Mehaanilise energia jäävuse seadus. Lihtmehhanism, kasutegur. Lihtmehhanismid looduses ja nende rakendamine tehnikas. Mehaanika kuldreegel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/36",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/291",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/170",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Graafikute rakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://issuu.com/ingridroigas/docs/pohikooli_toolehed_fyysika",
+              "title": "Praktiliste tööde kogum"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act_all.html?locale=et"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/section/36314#/section/36314",
+              "title": "Vesi-igiliikur"
+            },
+            {
+              "kind": "link",
+              "href": "https://epl.delfi.ee/artikkel/51003142/igiliikuri-poole-puudleb-inimene-igavesti",
+              "title": "Igiliikurite artikkel"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Huvitav füüsika II"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesannete kogumik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Võnkumine ja laine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kirjeldab mudeli toel võnkumist, kasutades amplituudi, perioodi ja sageduse mõistet",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab võnkumist heli tekkimise ja helilainete levimisega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab ja korraldab katsed müra tugevuse mõõtmiseks ning muusikariistade heli kõrguse ja sageduse vahelise seose uurimiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades seost: $v=\\lambda f$",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võnkumine. Amplituud, sagedus ja periood. Heli tekkimine ja levimine. Rist- ja pikilaine. Heli kõrgus ja valjus. Ultra- ja infraheli. Müra ja mürakaitse. Kõrv ja kuulmine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/36",
+              "title": "Veebiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/291",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/170",
+              "title": "Digiõpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.desmos.com/?lang=et",
+              "title": "Graafikute rakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://issuu.com/ingridroigas/docs/pohikooli_toolehed_fyysika",
+              "title": "Praktiliste tööde kogum"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.riigiteataja.ee/akt/163756",
+              "title": "Müranormid"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=9Tlpkdq8a8c&ab_channel=VOXDOC-thevoicedoctor"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Qe17BvlKbx4&ab_channel=TalKatsir"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/54",
+              "title": "Huvitav füüsika II"
+            },
+            {
+              "kind": "link",
+              "href": "https://opik.fyysika.ee/index.php/book/view/44",
+              "title": "Olümpiaadiülesannete kogumik"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

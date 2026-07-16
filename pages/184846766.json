@@ -1,0 +1,181 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Üldpädevuste kujundamine loodusõpetuse aineõppes",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lihtsustatud õppes käsitletakse pädevust kui võimetekohaste teadmiste, oskuste ja hoiakute kogumit, mis tagab suutlikkuse teatud tegevusalal või -valdkonnas loovalt, ettevõtlikult ja paindlikult toimida. Üldpädevused kujunevad kõigi õppeainete kaudu ning tunni- ja koolivälises tegevuses. Üldpädevused on kohandatud lähtuvalt riikliku õppekava § 4 punktist 4.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õpilastel kujundatavad üldpädevused on:",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Kultuuri- ja väärtuspädevus",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "Õpilane tunneb ja järgib üldtunnustatud väärtusi ja kõlbluspõhimõtteid, ei jää ükskõikseks, kui neid eiratakse ning sekkub vajaduse korral oma võimaluste piires.",
+                  "outcomeType": "competence"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Sotsiaalne ja kodanikupädevus",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "Õpilane on aktiivne ja vastutustundlik kodanik, kes on huvitatud oma kooli, kodukoha ja riigi demokraatlikust arengust.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Õpilane teab oma peamisi õigusi ja kohustusi ning oskab nende eest seista, arvestades rühma huvisid ja isiklikku huvi.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Järgib vastutustundlikult ühiselu reegleid, Konflikte lahendades arvestab seadusi ning moraalinorme.",
+                  "outcomeType": "competence"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Enesemääratluspädevus",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "Õpilane mõistab ja väärtustab iseennast ja enda arengut, hindab adekvaatselt oma võimeid ja toimetulekut igapäevaelus.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Juhib oma käitumist erinevates olukordades.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Väärtustab tervislikku eluviisi ja on füüsiliselt aktiivne.",
+                  "outcomeType": "competence"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õpipädevus",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "Õpilane õpib vastavalt oma võimetele, planeerib õppimist, sh enesekontrolli, järgib kavandatut.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Täidab korrektselt jõukohaseid ülesandeid individuaalselt ja rühmas, kasutab sobivaid teabevahendeid.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "On avatud uutele teadmistele ja oskustele.",
+                  "outcomeType": "competence"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Suhtluspädevus",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "Õpilane suhtleb olukorda ja suhtlemispartnereid arvestades, esitab oma soove, selgitab oma seisukohti ning osaleb arutelus.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Loeb, mõistab, kirjutab ja loob tekste iseseisvaks toimetulekuks vajalikul tasemel.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Kasutab teabevahendeid, tuginedes vajaduse korral abivahenditele.",
+                  "outcomeType": "competence"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "Õpilane lahendab elulisi probleemsituatsioone, kasutades omandatud matemaatilisi, loodusteaduslikke ja/või tehnoloogiaalaseid teadmisi-oskusi ning (abi)vahendeid.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Mõistab inimese ja keskkonna vahelisi seoseid, suhtub elukeskkonda vastutustundlikult ja hoolivalt, elab ning tegutseb loodust ja keskkonda säästvalt.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Uurimuslikus õppes õpitakse andmeid analüüsima ja tõlgendama, tulemusi esitama tabelite, graafikute ja diagrammidena.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ettevõtlikkuspädevus",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "Õpilane on tegutsemisaldis, väärtustab praktilist tööd ja on valmis kutse- ja elukestvaks õppeks.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Hindab adekvaatselt oma võimeid.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Püstitab ja täidab endale seatud eesmärke ning võtab vastutuse oma tegude eest.",
+                  "outcomeType": "competence"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Digipädevus",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "Õpilane orienteerub ja tegutseb infotehnoloogilises maailmas eesmärgipäraselt ja turvaliselt.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Otsib ja kasutab infot, tunneb lihtsamaid programme ja keskkondi.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "Järgib digikeskkonnas üldkehtivaid moraali- ja väärtuspõhimõtteid.",
+                  "outcomeType": "competence"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>LÕK kooliastmele vastavad digipädevused leiab <a href=\"https://digipadevus.ee/lok-digipadevusmudel/hindamiskriteeriumid/?fbclid=IwAR3LCU9hQCu3lFQ6Zgs8y4Y0DOAhwMfv1eXm7HZAkg6_fUHnYNq3Ok9Wbzc\">Digipädevuse</a> veebikeskkonnast.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

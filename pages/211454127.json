@@ -1,0 +1,732 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Litosfäär",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "on omandanud ettekujutuse geoloogide tööst ja mõistab geoloogiliste uuringute vajalikkust",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab laamade liikumist ja sellega kaasnevaid geoloogilisi protsesse",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab vulkaani kuju ja purske iseloomu magma omadustega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab maavärina teket ja seismiliste lainete levikut, teab maavärina võimsuse määramist",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab maavärinate ja vulkanismiga kaasnevaid nähtusi ning nende mõju keskkonnale ja inimtegevusele",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab kivimeid, selgitab nende teket ning seostab kivimiringega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab kivimite murenemist eri tegurite mõjul erinevates keskkonnatingimustes, teab murenemise tähtsust looduses.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Maa teke ja areng.</li><li>Geoloogiline ajaarvamine.</li><li>Maa siseehitus.</li><li>Laamtektoonika, laamade liikumisega seotud protsessid.</li><li>Vulkanism.</li><li>Maavärinad.</li><li>Kivimite liigitus tekke alusel ja kivimiringe. Kivimite murenemine ja selle tähtsus looduses.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>geokronoloogiline skaala, eoon, aegkond, ajastu, mandriline ja ookeaniline maakoor, litosfäär, astenosfäär, vahevöö, sise- ja välistuum, ookeani keskahelik, riftiorg, süvik, kurdmäestik, pangasmäestik, vulkaaniline saar, kuum täpp, magma, laava, kiht- ja kilpvulkaan, murrang, maavärina kolle, epitsenter, seismilised lained, seismograaf, seismogramm, Richteri skaala, tsunami, mineraalid, kivimid, sette-, tard- ja moondekivimid, kivimiringe, füüsikaline ja keemiline murenemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Teabeallikate põhjal ülevaate koostamine mõnest seismiliselt aktiivsest piirkonnast.</li><li>Rühmatööna geokronoloogilise ajaskaala koostamine</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesmärgiks on anda õpilasele üldine ettekujutus Maa geoloogilisest minevikust, olevikust ja võimalikust tulevikust.</p><p>Geoloogia teemasid on varasemalt õpitud 7. klassi ja 9.klassi geograafias. Geoloogilise ajaarvamise käsitlemine aitab aru saada, millal ja kui pika aja jooksul erinevad geoloogilised protsessid on toimunud, see aja periodiseerimist tuleks seostada inimajaloo perioodidega, samuti saab luua seosed bioloogias õpitud evolutsiooniga. Maa siseehitust ja laamtektoonikat käsitletakse põhjalikumalt kui põhikoolis ning see aitab paremini mõista maavärinate ja vulkanismi tekkepõhjusi ja esinemisalasid.</p><p>Geoloogia teemade õppimisel on oluline toetuda füüsikas õpitavale, et näha, kuidas füüsikalised protsessid litosfääris avalduvad: nt kivimainese konvektsioon vahevöös, eri tüüpi seismiliste lainete liikumine, kivimite tihedus ja laamade sukeldumine, eri tüüpi laava liikumine jne. Magma ja ka kivimite omadusi saab seostada keemias õpituga. Kuna gümnaasiumis vaadeldakse Maad kui süsteemi, siis on oluline rõhutada litosfääri seoseid teiste sfääridega.</p><p>Kivimite käsitlemine sh kivimiringe aitavad mõista, kuidas geoloogiline ehitus on seotud mullatekke ja omadustega ning see omakorda põllumuldade viljakusega. Õpilased peaks mõistma, kuidas geoloogilised protsessid mõjutavad nende endi elukeskkonda. Litosfääri õppides saavad õpilased ettekujutuse ka mõnedest geoloogias kasutatavatest uurimismeetoditest ja geoloogide töövaldkondadest, seda nii Eestis kui ka mujal maailmas. Teema raames tutvutakse mitmete andmeportaalidega, et leida usaldusväärset infot geoloogiliste protsesside kohta, õpitakse geoloogiaalast infot tõlgendama ja analüüsima.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Rühmatööna on võimalik lasta õpilastel koostada õiges mõõtkavas geokronoloogiline ajaskaala, kuhu on kantud õpilaste poolt valitud või õpetaja poolt etteantud geoloogilise mineviku sündmused. Soovitav on vaadata ka <a href=\"https://dinosaurpictures.org/ancient-earth#750\">mandrite triivi simulatsiooni</a>, et näha, kuidas paiknesid mandrid miljoneid aastaid tagasi.</li><li>Maa siseehitusest, laamade erisuunalisest liikumisest ja kuumast täpist ning kaasnevatest geoloogilistest protsessidest saab parema ettekujutuse, kui vaadata vastavasisulisi animatsioone ning lasta õpilastel nende põhjal koostada selgitustega skeeme ning võrrelda neid kaasõpilaste omadega.</li><li>Filmide vaatamisel vulkanismist ja maavärinatest on soovitav analüüsida nende protsessidega kaasnevate nähtuste mõju keskkonnale ning majandustegevusele.</li><li>Maavärinate ja vulkaanide õppimisel on oluline tutvuda andmeportaalidega, kust saab leida usaldusväärset infot <a href=\"https://www.usgs.gov/programs/earthquake-hazards/earthquakes\">maavärinate</a>, vulkaanipursete, kivimite jm geoloogia alaste valdkondade kohta.</li><li>Eri allikatest leitud geoloogiaalase info põhjal võiks õpilased koostada ülevaate mõnest vulkaanist, tektoonilisest piirkonnast või piirkonna geoloogilisest ehitusest ning esitleda seda kaasõpilastele. Teemakohaste ettekannete põhjal on võimalik võrrelda geoloogiliselt väga erinevaid piirkondi Maal.</li><li>Samuti võib koostada kaardiloo või kaardiajakirja ArcGis Online’i vahendiga mõne seismilise piirkonna iseloomustamiseks.</li><li>Kivimite tundmaõppimisel on oluline uurida, iseloomustada ja võrrelda kivimeid kivimipalade järgi ning selgitada skeemi põhjal kivimiringet ja sellega seotud protsesse. Selleks võib kasutada ka veebimaterjale.</li><li>Õppekäike koos töölehtede ja juhendava õppejõuga võimaldavad Tartu Ülikooli geoloogiamuuseum, Tallinna Tehnikaülikooli geoloogiainstituut ja mäeinstituut, Jääaja Keskus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Koostab rühmatööna geokronoloogilise ajaskaala (arvutis või paberil), kuhu kannab näiteks 10 olulist geoloogilist sündmust ja tutvustab oma tööd kaasõpilastele. (LT 1, 2, õpipädevus, matemaatika, loodusteaduste ja tehnoloogiaalane pädevus, suhtluspädevus)</li><li>Koostab joonise Maa siseehitust ning võrdleb mandrilist ja ookeanilist maakoort jooniste abil. (LT 2, 3, matemaatika, loodusteaduste ja tehnoloogiaalane pädevus)</li><li>Kirjeldab jooniste ja kaartide põhjal geoloogilisi protsesse laamade äärealadel ja kuuma täpi piirkonnas, kasutab korrektselt geoloogia alaseid mõisteid. (LT 2, teabekeskkond ja meediakasutus, tehnoloogia ja innovatsioon)</li><li>Planeerib ja koostab kaardiloo või ülevaate ühest seismilisest piirkonnast, leiab vajaliku info usaldusväärsetest allikatest ja vormistab töö korrektselt. (LT 1, 2, 4, 5, teabekeskkond ja meediakasutus, tehnoloogia ja innovatsioon)</li><li>Kirjeldab ja võrdleb teabeallikate põhjal vulkaane, seostab nende paiknemise laamtektoonikaga ning vulkaani kuju ja purske iseloomu magma omadustega. (LT 2, 4, 5, teabekeskkond ja meediakasutus, tehnoloogia ja innovatsioon, tervis ja ohutus, keskkond ja jätkusuutlik areng)</li><li>Võrdleb geoloogilisi kaarte ning seostab maavärinate esinemise laamtektoonikaga, selgitab maavärinate teket ning iseloomustab jooniste või animatsioonide põhjal seismiliste lainete liikumist. (LT 2, 3, 5, teabekeskkond ja meediakasutus, tehnoloogia ja innovatsioon, tervis ja ohutus, keskkond ja jätkusuutlik areng)</li><li>Analüüsib artiklite põhjal maavärinate ning vulkanismiga kaasnevate nähtuste mõju keskkonnale, inimeste eluolule ja majandustegevusele.(LT 1, 2, 3, 5, 7, õpipädevus, matemaatika, loodusteaduste ja tehnoloogiaalane pädevus, teabekeskkond ja meediakasutus, tehnoloogia ja innovatsioon, tervis ja ohutus, keskkond ja jätkusuutlik areng)</li><li>Iseloomustab ja võrdleb kivimipalasid/näidiseid (lubjakivi, liivakivi, graniit, basalt, marmor ja gneiss) ning seostab need kivimiringega, toob näiteid nende kasutamise kohta lähtuvalt kivimite omadustest. (LT 1, 2, 3, 5, matemaatika, loodusteaduste ja tehnoloogiaalane pädevus, ettevõtlikkuspädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Füüsika: Piki- ja ristlained, lainete levimine erinevates keskkondades, konvektsioon.<br>Keemia: Kivimite keemiline koostis, lahustumine, oksüdeerumine, hüdrolüüs.<br>Bioloogia: Maa areng, evolutsioon, fossiilid.<br>Läbivad teemad<br>Teabekeskkond. Erinevate teabeallikate kasutamine.<br>Tehnoloogia ja innovatsioon. Nüüdisaegsed Maa siseehituse uurimise võimalused.<br>Keskkond ja jätkusuutlik areng. Inimtegevuse ja litosfääri vastastikmõju, maavärinate, vulkaanipursete prognoosimise tähtsus.<br>Elukestev õpe ja karjääri planeerimine. Geoloogiaalased elukutsed ja õppimisvõimalused kõrgkoolides, kõrgkoolide õppematerjalid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Gümnaasiumis on soovitav vähemalt 70% kursusel omandatud teadmistest ja oskustest hinnata eristavalt ja kuni 30% jooksvalt.</p><p>Geokronoloogilise ajaskaala rühmatöö tagasisidestatakse.</p><p>Õpilase koostatud Kaardilugu võib hinnata hindega eelnevalt tutvustatud hindamiskriteeriumide (hindamismudeli) alusel (sisuline õigsus, seoste sõnastamine, vormistamine, viitamine).</p><p>Vulkanismi/maavärinate esitlust võib hinnata hindega eelnevalt tutvustatud hindamiskriteeriumide (hindamismudeli) alusel (sisuline õigsus, seoste sõnastamine, vormistamine, viitamine).</p><p>Enesekontrolliks sobivad e-Koolikoti Maa kui süsteem kursuse e-ülesanded <a href=\"https://e-koolikott.ee/et/oppematerjal/19007-Geograafia-2-kursus-Maa-kui-susteem/221844\">Litosfäär</a>.</p><p>Kokkuvõttev teadmisi ja oskusi kontrolliv arvestustöö hinnatakse hindega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19007-Geograafia-2-kursus-Maa-kui-susteem/221844",
+              "title": "Geograafia kursus Maa kui süsteem: Litosfäär E-Koolikotis"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.nbvm.no/index_est.html",
+              "title": "Geoloogia moodulid"
+            },
+            {
+              "kind": "link",
+              "href": "https://dinosaurpictures.org/ancient-earth#750",
+              "title": "Mandrite triivi simulatsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://earthquake.usgs.gov/earthquakes/map/?extent=19.68397,-129.63867&extent=53.30462,-60.38086",
+              "title": "USA geoloogiateenistuse maavärinate andmekogu"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.volcanodiscovery.com/home.html",
+              "title": "Volcano Discovery"
+            },
+            {
+              "kind": "link",
+              "href": "https://volcano.si.edu/gvp_currenteruptions.cfm",
+              "title": "Vulkaanide andmekogu"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.iris.edu/hq/inclass/search#type%5B%5D=1&language%5B%5D=1",
+              "title": "SAGE geoandmete kogu"
+            },
+            { "kind": "video", "src": "https://youtu.be/gjRGIpP-Qfw" },
+            {
+              "kind": "link",
+              "href": "https://kivid.info/",
+              "title": "Mineraalid, kivimid, maavarad"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.sandatlas.org/",
+              "title": "Sandatlas"
+            },
+            {
+              "kind": "link",
+              "href": "https://sarghaua.info/oppekeskus/",
+              "title": "Tallinna Tehnikaülikooli Särghaua õppekeskuse õppematerjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://natmuseum.ut.ee/et/oppematerjalid",
+              "title": "Tartu Ülikooli loodusmuuseumi geoloogia õppematerjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/details/2a21e7ba-c652-4572-9ea3-d7c5d7006133",
+              "title": "Kahoot: Eesti Geoloogia ja Maavarad Gümnaasiumile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Atmosfäär",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "iseloomustab ilmakaardi põhjal ilma, seostades ilmanäitajad rõhualade ja frontidega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab Maa kiirgusbilanssi ning seostab selle atmosfääri koostise ja ehitusega",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib teabeallikate põhjal mõne piirkonna kliimat ning seostab selle kliimat kujundavate tegurite mõjuga",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab kliimamuutusi põhjustavaid tegureid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutleb kliimamuutuste võimalike tagajärgede ning kliimamuutustega kohanemise võimaluste üle.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Atmosfääri tähtsus, koostis ja ehitus.</li><li>Päikesekiirguse jaotumine Maal, kiirgusbilanss.</li><li>Kasvuhooneefekt ja selle tähtsus.</li><li>Kliimat kujundavad tegurid.</li><li>Üldine õhuringlus.</li><li>Temperatuuri ja sademete territoriaalsed erinevused.</li><li>Õhumassid, tsüklonid ning antitsüklonid.</li><li>Kliimamuutused, selle tagajärjed ning kliimamuutustega kohanemise võimalused.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>atmosfäär, troposfäär, stratosfäär, osoonikiht, kiirgusbilanss, kasvuhoonegaasid, kasvuhooneefekt, üldine õhuringlus, Coriolisi jõud, mussoonid, passaadid, läänevool, tsüklon, antitsüklon, soe ja külm front, troopilised tsüklonid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Võrdleb ilmakaartide põhjal ilma maailma erinevates kohtades, seostades ilmanäitajad rõhualade ja frontidega.</li><li>Võrdleb kliimadiagrammide ja kliimakaartide põhjal maailma erinevate kohtade kliimat, seostades selle kliimat kujundavate tegurite ja kliimavöötmega.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teadmised atmosfäärist, seal toimuvatest protsessidest ja seosed inimtegevusega aitavad mõista mitmeid üleilmseid keskkonnaprobleeme. Atmosfääri seosed teiste sfääridega aitavad mõista, kuidas maailma erinevad osad on omavahel seotud. Õpilaste kliimamuutuste alane teadlikkus on aluseks keskkonnaalaste hoiakute ja väärtushinnangute kujunemisele, mis võimaldab neil saada vastutustundlikeks ja aktiivseteks kodanikeks, kes saavad kaasa aidata jätkusuutlikumale tulevikule. Atmosfääri õppimine geograafias eeldab füüsikas omandatud teadmiste rakendamist uues kontekstis.</p><p>Teema õppimine aitab mõista kliima ja kliimamuutuste uurimise vajalikkust ning tutvustab kliima uurimise nüüdisaegseid võimalusi. Õpilased jätkavad kliimat kujundavate tegurite põhjalikuma õppimist, et mõista, kuidas kujuneb Maa eri piirkondade ilmastik ja kliima ning milline on kliimamuutuste mõju eri piirkondadele. Tähtsal kohal on kliima ja teiste looduskomponentide ning inimtegevuse vaheliste seoste tundmaõppimine. Kujunevad igapäevaeluks vajalikud oskused mõista ilmakaarti ning leida ja analüüsida meteoroloogilist infot. Kujuneb ettekujutus tänapäevasest ilmaprognoosimisest ning sellega seotud elukutsetest ja õppimisvõimalustest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvumine Riigi Ilmateenistuse andmebaasi ja pakutava teabega. Erinevate ilmaportaalide ilmateadete võrdlemine. Ilmakaardi ja satelliidikaardi võrdlemine.</li><li>Atmosfääri ehituse ja koostise õppimisel on oluline rõhutada eelkõige troposfääri, kus kujunevad ilm ja kliima. Atmosfääri koostise käsitlemisel peaks tähelepanu juhtima sellele, mis roll on kasvuhoonegaasidel sh veeaurul või tahketel osakestel, osoonil atmosfääriprotsessides.</li><li>Maa kiirgusbilansist sh kasvuhooneefektist arusaamine eeldab põhjalikumat tööd vastava joonisega. Protsesside paremaks mõistmiseks võiks õpilased vaadata mõnd <a href=\"https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_all.html\">simulatsiooni</a> või videot ning kirjutada ise selgitusi joonisel olevatele nooltele. Vaatamiseks sobib ka kaartide aegrida <a href=\"https://climate.nasa.gov/climate_resources/139/video-global-warming-from-1880-to-2022/\">Üleilmne temperatuuri tõus 1880-2022</a>. Soovitav on tutvuda ka ESERO <a href=\"https://esero.ee/g%C3%BCmnaasium\">õppematerjalidega</a>.</li><li>Soovitav on meelde tuletada 8. klassis õpitud kliimat kujundavad tegurid ning lasta õpilastel paaris või rühmatööna (abi vajavad õpilased kava alusel) kliimadiagrammide, kaartide ja veebipõhiste ilmaandmete põhjal iseloomustada eri kohtade ilma ja kliimat. Selle töö käigus saavad õpilased harjutada kliima seostamist kliimat kujundavate teguritega. Rühmas töötades on õpilastel võimalik üksteist abistada, selgitusi jagada ja teema üle arutleda.</li><li>Oluline on arendada õpilaste oskust teabeallikaid kasutada, saadud infot analüüsida ning järeldusi teha. Internetist otsitakse ilmakaart ning selle põhjal iseloomustatakse ilma mõnes etteantud kohas. Interaktiivsete ilmamudelite ning satelliidilt tehtud ilmapiltide põhjal võib jälgida ja kirjeldada lühema perioodi ilmamuutusi.</li><li>Kliima teema võimaldab arutleda inimtegevuse mõju üle atmosfääri koostisele ja kliimale muutumisele, samuti rahvusvahelise koostöö tähtsusele keskkonnaprobleemide lahendamisel. Selleks sobib rühmatöö, kus koostatakse ülevaade kliimamuutustest ja inimese rollist kliimamuutuste tekkel.</li><li>Kliimamuutuste käsitlemisel on soovitav vaadata Timo Palo kliimamutuste õppetunni videot.</li><li>Tartu Observatoorium Tõraveres pakub aktiivõppeprogramme, õpilastööde juhendamist ning ekskursioone.</li><li>Eksamite infosüsteemi testid, <a href=\"https://eis.ekk.edu.ee/eis/\">https://eis.ekk.edu.ee/eis/</a>; animatsioonidest arusaamine, võimalus harjutada interaktiivsete testide lahendamist</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Kirjeldab jooniste ja diagrammide järgi atmosfääri koostist ja ehitust ning selgitab kasvuhoonegaaside sh veeauru, osooni ja tahkete osakeste rolli atmosfääris. (LT 2, õpipädevus)</li><li>Selgitab joonise põhjal Maa kiirgusbilanssi sh kasvuhooneefekti, kasutab korrektselt loodusteaduslikke mõisteid. (LT 2, õpipädevus)</li><li>Iseloomustab kliimadiagrammi ja kliimakaartide põhjal mõne koha kliimat ning seostab selle kliimat kujundavate teguritega (päikesekiirguse hulk, valitsevad tuuled, ookeanide, sh hoovuste ja pinnamoe mõju) ning majandustegevuste võimalustega. (LT 2, õpipädevus)</li><li>Iseloomustab maailma/Euroopa/Eesti ilmakaardi järgi ilma etteantud kohas (õhurõhk, tuule suund, sademed, soe või külm front) ning seostab ilmaolud tsüklonite ja antitsüklonite ning soojade ja külmade frontide mõjuga. (LT 2, õpipädevus)</li><li>Selgitab jooniste põhjal kliima lühi- ja pikemaajalist muutumist ning selgitab eri tegurite, sh astronoomiliste tegurite rolli kliimamuutustes. (LT 2, õpipädevus)</li><li>Koostab rühmatööna ülevaate kliimamuutustest esitluse, postri, miniloengu vms vormis, hindab kliimamuutustega seotud allikate usaldusväärsust, tõlgendab ja analüüsib infot. Toob näiteid kliimamuutuste põhjustest ja võimalikest tagajärgedest. Pakub lahendusi kliimamuutustega kohanemiseks ning näiteid rahvusvahelisest koostööst ja kokkulepetest. (LT 1, 2, 4, 5, 7, digipädevus, kultuuri-ja väärtuspädevus, sotsiaalne ja kodanikupädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusõpetus: Soojusülekande liigid<br>Füüsika: Valguse peegeldumine ja neeldumine. Õhurõhk, kõrg- ja madalrõhkkond. Maa soojuslikku tasakaalu mõjutavad nähtused ja kliima. Aastaaegade vaheldumine. Soojusülekanne looduses ja tehnikas. Õhuniiskus. Küllastunud ja küllastumata aur. Absoluutne ja suhteline niiskus, kastepunkt. Ilmastikunähtused.<br>Keemia: Atmosfääri keemiline koostis, kasvuhoonegaasid, osoonikiht, happesademed.<br>Matemaatika: Jooniste ja diagrammide analüüs, statistika.<br>Bioloogia: Kasvuhooneefekti süvenemise ja osoonikihi hõrenemise mõju organismidele ning keskkonnale.<br>Läbivad teemad<br>Teabekeskkond. Teabeallikate kasutamine ilma või kliima iseloomustamiseks.<br>Tehnoloogia ja innovatsioon. Nüüdisaegsed atmosfääri uurimise võimalused ja tänapäevane ilmaprognoosimine.<br>Keskkond ja jätkusuutlik areng. Inimtegevuse ja atmosfääri vastastikmõju, kliimamuutuste uurimise vajalikkus.<br>Elukestev õpe ja karjääri planeerimine. Meteoroloogiaalased ning atmosfääriuuringutega tegelevad teadused ning õppimisvõimalused kõrgkoolides</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Gümnaasiumis on soovitav vähemalt 70% kursusel omandatud teadmistest hinnata eristavalt ja kuni 30% jooksvalt.</p><p>Kliimadiagrammi ja kliimakaartide põhjal koostatud koha kliima kirjeldust ja selle seostamise oskust kliimat kujundavate teguritega võib hinnata hindega või tagasisidestada.</p><p>Maailma erinevate piirkondade kliimaerinevuste võrdlus ja erinevuste põhjendamine tagasisidestatakse.</p><p>Ilmakaardi põhjal koostatud ilma kirjeldus ning seostamine tsükloni või antitsükloniga tagasisidestatakse.</p><p>Kliimamuutuste esitlusi hinnatakse hindamismudeli alusel (sisuline õigsus, seoste sõnastamine, vormistamine). Jooksvalt antakse suulist tagasisidet jooniste lugemisoskuse ja kliimamuutuste teemaliste arutluste osas.</p><p>Enesekontrolliks sobivad e-Koolikoti Maa kui süsteem kursuse e-ülesanded <a href=\"https://e-koolikott.ee/et/oppematerjal/19007-Geograafia-2-kursus-Maa-kui-susteem/221849\">Atmosfäär</a></p><p>Kokkuvõttev arvestustöö hinnatakse eristavalt e hindega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19007-Geograafia-2-kursus-Maa-kui-susteem/221849",
+              "title": "Geograafia kursus Maa kui süsteem: Atmosfäär"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_all.html"
+            },
+            {
+              "kind": "link",
+              "href": "https://esero.ee/g%C3%BCmnaasium",
+              "title": "ESERO õppematerjalid gümnaasiumile"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/video.php?v=185406864970957&set=vb.139215659590078&type=2&theat",
+              "title": "Kes teeb Eestis ilma?"
+            },
+            {
+              "kind": "link",
+              "href": "https://astro.unl.edu/naap/motion1/animations/seasons_ecliptic.html",
+              "title": "Aastaaegade tekke simulatsioon"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=M5Ud38T7iyE"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.uttv.ee/naita?id=12343",
+              "title": "Piia Post: Ilm, ilmanähtused, ilmamuutused"
+            },
+            {
+              "kind": "link",
+              "href": "https://evidence-erasmus.github.io/evidence/et/modules",
+              "title": "Kliimamuutused"
+            },
+            {
+              "kind": "link",
+              "href": "https://evidence-erasmus.github.io/evidence/et/tools/reliability-assessment",
+              "title": "Usaldusväärse info otsimise juhend"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ventusky.com/",
+              "title": "Ventusky kaardirakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://climate.esa.int/en/",
+              "title": "ESA Climate Office"
+            },
+            {
+              "kind": "link",
+              "href": "https://weatherspark.com/",
+              "title": "Weather Spark"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.juicygeography.co.uk/animations.htm",
+              "title": "Juicy Geography"
+            },
+            {
+              "kind": "link",
+              "href": "http://geography.uoregon.edu/envchange/clim_animations/",
+              "title": "Global Climate Animation"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.worldclimate.com",
+              "title": "World Climate"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.lightningmaps.org/?lang=en#m=oss;t=3;s=0;o=0;b=;ts=0;",
+              "title": "Reaalaja äikesekaart"
+            },
+            { "kind": "video", "src": "https://youtu.be/CQooD7gInGU" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=CQooD7gInGU"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/kae/",
+              "title": "Kliimamuutuste vastased meetmed"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/kliimakool/",
+              "title": "Hariduslik mäng Kliimakool"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/?c=et,film",
+              "title": "Maailmakooli dokumentaalfilmikogu"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/100045/videoloeng-kas-kliimakriisi-ees-on-koik-vordsed/",
+              "title": "Videoloeng: Kas kliimakriisi ees on kõik võrdsed?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Hüdrosfäär",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "analüüsib veeringe lülisid maailma eri piirkondades, seostab neid kliimaga ja vee kasutamise võimalustega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib teabeallikate põhjal vee omadusi maailmamere eri osades, seostab neid kliimaga ning teiste teguritega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab hoovuste ja loodete teket ning liikumise seaduspära",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib maailmameres toimunud muutusi, seostades neid kliimamuutuste ja inimtegevusega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab rannikuprotsesse ning analüüsib inimtegevuse mõju rannikule mõne piirkonna näitel",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab liustike teket, jaotumist ja tähtsust.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Vee jaotumine Maal ja veeringe.</li><li>Maailmamere tähtsus ning roll kliima kujunemises.</li><li>Hoovused ja looded maailmameres.</li><li>Rannaprotsessid ning erinevate rannikute kujunemine.</li><li>Liustikud, nende teke, levik ja tähtsus.</li><li>Kliimamuutuste ja inimtegevuse mõju maailma veestikule.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>hüdrosfäär, maailmameri, veeringe lülid, soe ja külm hoovus, tõus ja mõõn, mandrilava, rannik, rannanõlv, lainete kulutav ja kuhjav tegevus, rannavall, maasäär, laguun, fjord- ja skäärrannik, mandri- ja mägiliustik, šelfiliustik.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Teabeallikate põhjal ülevaate koostamine mõnest rannikust.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Jätkatakse loodusõpetuses ja põhikooli geograafias omandatud veestiku alaste teadmiste ja oskuste arendamist. Uue teemana lisandub liustike käsitlemine. Olulisel kohal on veestiku ja teiste loodusekomponentide ning inimtegevuse vaheliste seoste tundmaõppimine. Teema õppimine aitab mõista vee ja veekogude uurimise tähtsust. Arusaamine rannaprotsessidest ning erinevate rannikute kujunemisest aitab mõista, kuidas on inimestel võimalik kohaneda rannikualadel esinevate muutustega ja kuidas seeläbi kaitsta rannikukeskkondi.</p><p>Liustike teema mõistmine on oluline, sest liustikud mängivad olulist rolli kliimamuutuste mõistmisel ning veetaseme tõusu ja languse prognoosimisel. Pärast antud teema läbimist saavad õpilased aru, kuidas kliimamuutused ja inimtegevus mõjutavad veevarusid, veekvaliteeti ja ökosüsteeme.</p><p>Õpilased saavad ülevaate veega seotud protsessidest ja nähtustest Maal ning hüdrosfääriga seotud keskkonnaprobleemidest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Sissejuhatuseks tuletatakse meelde veeringe, kuid nüüd tuleks igat veeringe lüli käsitleda põhjalikumalt ning seostada need ka vee oleku muutuste ja energia neeldumise või vabanemisega ehk siis füüsikas õpitud soojuslike protsessidega. Samuti võrreldakse, kuidas veeringe erineb eri kliimaga piirkondades ja kuidas see mõjutab vee kättesaadavust.</li><li>Maailmamere õppimisel on oluline rõhutada selle seost kliimaga. Õpilased peaksid mõistma, et maailmameri on üks osa kliimasüsteemist ja muutused maailmameres mõjutavad kliimat ning vastupidi. Veetemperatuuri ja soolsuse kaartide põhjal saab võrrelda maailmamere eri piirkondade vee omadusi (soolsus, temperatuur) ja seostada need kliimaga. Selle teema juures on kindlasti vaja meenutada füüsikas õpitud seoseid vee temperatuuri, soolsuse ja tiheduse omavahelistest seostest.</li><li>Hoovuste teemat on varasemates klassides vaid põgusalt käsitletud, seega peaks nüüd sellega põhjalikumalt tegelema (hoovuste tekkepõhjused, liigitamine, kulgemine). Oluline on rõhutada hoovuste rolli soojuse ümberjaotamisel Maa väikeste ja suurte laiuste vahel, samuti tuletada meelde sooja Põhja-Atlandi hoovuse mõju Euroopa kliimale. Hoovuste liikumise paremaks mõistmiseks on soovitav vaadata <a href=\"https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=3827\">maailmamere hoovuste mudelit</a>, kus on näha vee keeriseline liikumine hoovustes. Seda võiks võrrelda õhumasside liikumisega.</li><li>Loodete teket saab hästi selgitada kasutades selleks <a href=\"https://youtu.be/3RdkXs8BibE\">videot loodete tekkest</a>, loodete esinemist looduses ja mõju rannikutele võib iseloomustada <a href=\"https://www.dailymail.co.uk/travel/travel_news/article-3005352/Thousands-flock-Mont-Saint-Michel-France-witness-tide-century.html\">piltide</a> või videote abil. Soovitav on loodete teema seostada ka inimeste igapäevaelu (nt laevaliiklus rannikutel) ja majandustegevusega (nt energia tootmine).</li><li>Eriilmelisi rannikuid on maailmas palju, seepärast võiks õpilased paaris-või rühmatööna koostada ülevaate (esitluse, postri, minutiloengu vm vormis) mõnest, kas õpetaja soovitatud või vabalt valitud rannikupiirkonnast. Infot ranniku kohta (rannikutüüp, teke, peamised kivimid, muutumine ajas, inimtegevus jms) tuleks otsida teabeallikatest, aga kindlasti võiks õpilased uurida seda rannikulõiku google kaardirakenduses kasutades ka tänavavaadet ja lisatud pilte. Ülevaadet esitletakse kaasõpilastele.</li><li>Võimalusel võib veekogude ja rannikute uurimise siduda oma kodukohaga ja korraldada rannaprotsesside vaatlemiseks õuesõppepäeva.</li><li>Maa-ameti geoportaali ajalooliste kaartide põhjal saab hästi iseloomustada muutusi Eesti rannikutel.</li><li>Liustike teemat on varasemalt õpitud vaid minevikus esinenud mandrijää kontekstis, peamiselt Eesti näitel. Nüüd tuleks käsitleda liustike teket, mägi ja mandriliustikke, nende levikut maailmas ja liustike tähtsust. Oluline on rõhutada kliimamuutuste mõju liustikele ja nende sulamisega kaasnevaid tagajärgi. Õpilased võiks teabeallikatest otsida andmeid liustike kohta ja jälgida nende muutusi nt satelliidipiltide aegridadelt.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Võrdleb kliimadiagrammide põhjal kliimat ning vee kättesaadavust eri kliimaga piirkondades ja seostab selle veeringega (LT 2, loodusteaduste ja tehnoloogiaalane pädevus)</li><li>Võrdleb kaartide põhjal maailmamere eri piirkondade vee omadusi (vee temperatuur ja soolsus, jääolud), selgitavad vee temperatuuri, soolsuse ja tiheduse omavahelisi seoseid ning seost kliimaga. (LT 2, suhtluspädevus)</li><li>Võrdleb kaartide ja kliimadiagrammide põhjal ida- ja läänerannikute sama laiuse kliimat (nt Aafrika lõunaosa ida- ja läänerannik, Põhja-Ameerika rannikud jne) (LT pädevus 2, loodusteaduste ja tehnoloogiaalane pädevus)</li><li>Koostab teabeallikate ja kaardirakenduste põhjal ülevaate mõnest rannikust. Ülevaates peaks kajastuma rannikul toimuvad protsessid ja inimtegevuse mõjule antud rannikule. (LT 1, 2, 3, 4, 5, 8, loodusteaduste ja tehnoloogiaalane pädevus, kultuuri- ja väärtuspädevus)</li><li>Õuesõppe tunnis (õuesõppepäeval) vaatleb ja kogub infot ühe rannikulõigu sh veekogu kohta (elustik, rannikutüüp, rannamoodustised inimtegevus jne). (LT 1, 2, 3, 7,õpipädevus, suhtluspädevus, matemaatika, loodusteaduste ja tehnoloogiaalane pädevus, kultuuri- ja väärtuspädevus)</li><li>Leiab teabeallikatest näiteid tõusu ja mõõna ulatuse kohta, kirjeldab loodete mõju inimtegevusele ning esitleb oma tööd kaasõpilastele. Võimalusel toob näiteid oma kogemustest, reisidelt ja loodusfilmidest. (LT 1, 2, 3, 4 suhtluspädevus)</li><li>Leiab teabeallikatest sh satelliidipiltidelt infot liustike ulatuse muutuste kohta ning seostab muutused kliimamuutustega. Toob näiteid võimalike tagajärgede kohta. (LT 1, 2, 3, 4, 5, digipädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Füüsika. Energia muundumine veeringes, hoovuste liikumine.<br>Keemia. Maailmamere vee soolsus.<br>Läbivad teemad<br>Teabekeskkond. Teabeallikate ja animatsioonide kasutamine.<br>Keskkond ja jätkusuutlik areng. Rannaprotsesside ja inimtegevuse vastastikmõju, globaalne soojenemine ja liustike sulamine.<br>Väärtused ja kõlblus. Elukeskkonna väärtustamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Gümnaasiumis on soovitav vähemalt 70% kursusel omandatud teadmistest hinnata eristavalt ja kuni 30% jooksvalt.</p><p>Teabeallikate põhjal koostatud ülevaade ühest rannikust. Hinnatakse hindamismudeli alusel (sisuline õigsus, seoste sõnastamine, vormistamine).</p><p>Liustike ulatuse analüüs ja seos kliimamuutustega. Tagasisidestatakse.</p><p>Ülevaade loodete ulatusest mõnel rannikulõigul, seos inimeste elu- ja majandustegevusega. Tagasisidestatakse.</p><p>Ühe rannalõigu vaatlemine ja kirjeldamine õuesõppe päeval. Tagasisidestatakse.</p><p>Enesekontrolliks sobivad e-Koolikoti Maa kui süsteem kursuse e-ülesanded <a href=\"https://e-koolikott.ee/et/oppematerjal/19007-Geograafia-2-kursus-Maa-kui-susteem/221859\">Hüdrosfäär</a></p><p>Kokkuvõttev arvestustöö - eristav hindamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19007-Geograafia-2-kursus-Maa-kui-susteem/221859",
+              "title": "Geograafia kursus Maa kui süsteem: Hüdrosfäär"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.ilmateenistus.ee/",
+              "title": "Riigi Ilmateenistus: Meri, siseveed"
+            },
+            {
+              "kind": "link",
+              "href": "https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=3827",
+              "title": "Maailmamere hoovuste mudel"
+            },
+            { "kind": "video", "src": "https://youtu.be/3RdkXs8BibE" },
+            {
+              "kind": "link",
+              "href": "http://www.grdc.sr.unh.edu/",
+              "title": "UNH/GRDC jõgede äravoolu andmed, hüdrograafid ja animeeritud kaardid"
+            },
+            {
+              "kind": "embed",
+              "src": "http://phet.colorado.edu/et/simulation/glaciers"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.dailymail.co.uk/travel/travel_news/article-3005352/Thousands-flock-Mont-Saint-Michel-Francewitness-tide-century.html",
+              "title": "Pildigalerii tõusust ja mõõnast Mount St Micheli saare näitel"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=jczWkuigeUY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=gXj0bRTrey8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=-QMjE17mBas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Maa süsteemide vahelised seosed",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "analüüsib Maa sfääride vahelisi seoseid mõne bioomi näitel",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab mullatekke tingimusi mulla koostise, ehituse ja omadustega ning toob näiteid mullatüüpide ja mullaprotsesside kohta eri bioomides",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid sündmuste kohta Maa ajaloos ja nende mõju kohta Maa sfääridele.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Maa sfääride vahelised seosed.</li><li>Aine-ja energiaringed.</li><li>Mullatekke tingimuste ja mullaprotsesside mõju mulla ehitusele ning omadustele eri bioomide näidetel.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>litosfäär, atmosfäär, hüdrosfäär, biosfäär, pedosfäär, mullaprofiil, mulla horisont, keemiline ja füüsikaline murenemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Mõistekaardi või põhjus-tagajärg seoseahela koostamine Maa sfääride vaheliste seoste kohta mõnes bioomis või piirkonnas.</li><li>Mulla tekke skemaatiline kujutamine klassi ühistööna paberil või arvutis.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Käesolev teema on oluline, sest nad aitab mõista Maa keerulist ökosüsteemi ja selle komplekssust. Õpilased saavad teada, kuidas erinevad sfäärid omavahel seotud on, kuidas ained ja energia liiguvad ning kuidas mullateke ja -protsessid mõjutavad taimestiku ja teiste elusorganismide paiknemist. Oluline on mõistmine, et ühe sfääri muutused võivad mõjutada kõiki teisi sfääre. Läbi antud teemas saadud teadmiste on võimalik mõista, kuidas inimese tegevus võib mõjutada Maad kui tervikut, näiteks kliimamuutuste, veetaseme tõusu ja loodusõnnetuste kaudu. Oluline on, et läbi antud teema saavad õpilased aru, kuidas hoida Maa sfääride tasakaalu, säilitada mulla kvaliteeti ja toetada säästvat arengut.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpilased toovad näiteid Maa sfääride seoste kohta: iseloomustavad aine ja energia liikumist sfääride vahel ning inimtegevuse mõju erinevates sfäärides. Sfääride vahelisi seoseid võib uurida rühmatööna: slaidi või foto põhjal kirjeldatakse seoseid. Koostatakse ideekaart.</li><li>Analüüsitakse maailmas toimunud aktuaalsete loodusnähtuste mõju Maa sfääridele.</li><li>Mulle teket on võimalik kujutada joonistusena, kus iga õpilane saab lisada mõne mullatekketeguri. Joonise alguses on olemas lähtekivim, millest mullateke algab ja iga õpilane saab lisada ühe teguri, mis mulla teket mõjutab. Hästi sobib kasutamiseks näiteks jamboard keskkond, padlet<a href=\"https://padlet.com/account/setup\">https://padlet.com/account/setup</a> või klassis olev tahvel, kuhu saab ühiselt joonistada.</li><li>Õppekäigud: Jääaja Keskus; TÜ geoloogiamuuseum, Eesti Loodusmuuseum</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Loob visuaalse esitluse (ideekaart, plakat, esitlus), mis kujutab Maa sfääre ja nende omavahelisi seoseid mõne konkreetse bioomi kontekstis.(LT 1,2,3,5 õpipädevus, matemaatika-, loodusteaduste ja tehnoloogiapädevus, digipädevus)</li><li>Leiab teabeallikast andmed mõne toimunud loodusnähtuse kohta, nagu näiteks orkaan, maavärin, vulkaanipurse ja analüüsib selle mõju erinevatele Maa sfääridele ja inimtegevusele. (LT 2, 5,matemaatika-, loodusteaduste ja tehnoloogiapädevus, digipädevus,)</li><li>Kujutab skemaatiliselt rühmatööna/klassi ühistööna mulla teket. Lisab joonisele erinevad mullatekketegurid. (LT 1,õpipädevus, suhtluspädevus)</li><li>Seostab murenemise kivimite omaduste ja kliimaga. Viib omavahel vastavusse mullaprofiili ja bioomi, kus sellist tüüpi muld esineb. (LT 1,2 õpipädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Füüsika. Avatud ja suletud süsteem, energiavood Maa süsteemides.<br>Bioloogia. Maa teke ja areng, evolutsioon.<br>Keemia. Keemilised reaktsioonid, aineringed.</p><p><strong>Läbivad teemad</strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Gümnaasiumis on soovitav vähemalt 70% kursusel omandatud teadmistest hinnata eristavalt ja kuni 30% jooksvalt.</p><p>Kokkuvõttev arvestustöö - eristav hindamine. Hinnatakse hindamismudeli alusel (sisuline õigsus, seoste sõnastamine, vormistamine) praktilisi töid, milleks on ideekaardi koostamine. Mitteeristavalt hinnatakse klassi ühistööna või rühmatööna mulla teket kujutavat tööd. Teabeallikast leitud loodusnähtuse kokkuvõtet saab hinnata hindamismudeli alusel.</p><p>Digitaalsed automaat kontrollitavad ülesanded ja testid E-koolikotis oleva teema juures (<a href=\"https://e-koolikott.ee/et/oppematerjal/14118-Maa-sfaarid\">Maa sfäärid</a>)sobivad hästi enesekontrolliks ja enesehindamiseks;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/14118-Maa-sfaarid",
+              "title": "Geograafia kursus Maa kui süsteem: Maa sfäärid"
+            },
+            {
+              "kind": "link",
+              "href": "https://earthengine.google.com/timelapse/",
+              "title": "Satelliidipildid maastike muutumisest ajas"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaportaal.ee/et/metsa-ja-pollumuldade-seire-kaardilugu",
+              "title": "Metsa- ja põllumuldade seire kaardilugu"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaportaal.ee/et/teemad/muld-ja-maahoive",
+              "title": "Muld ja maahõive"
+            },
+            {
+              "kind": "link",
+              "href": "https://minitorn.tlu.ee/~jaagup/oma/too/16/02/soils/soil_info.html",
+              "title": "Muldade määramise abimees"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://praktikal.ee/schema/estonian-curriculum/curriculum.schema.json",
+  "title": "Estonian curriculum (merged)",
+  "description": "One merged curriculum tree (curricula/<curriculum>.json). The structural grammar (which kinds may parent which) is enforced by the validate step, not by this schema, which fixes the node shape.",
+  "type": "object",
+  "required": ["root"],
+  "additionalProperties": false,
+  "properties": {
+    "root": { "$ref": "#/$defs/node" }
+  },
+  "$defs": {
+    "nodeKind": {
+      "enum": [
+        "curriculum",
+        "schoolLevel",
+        "grade",
+        "subjectGroup",
+        "subject",
+        "course",
+        "topic",
+        "section",
+        "text",
+        "table",
+        "image",
+        "file",
+        "link",
+        "video",
+        "embed",
+        "learningOutcome",
+        "bridge"
+      ]
+    },
+    "outcomeType": { "enum": ["knowledge", "skill", "attitude", "competence"] },
+    "externalRef": {
+      "type": "object",
+      "required": ["source", "externalId"],
+      "additionalProperties": false,
+      "properties": {
+        "source": { "type": "string" },
+        "externalId": { "type": "string" },
+        "url": { "type": "string" }
+      }
+    },
+    "fields": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "title": { "type": "string" },
+        "summary": { "type": "string" },
+        "content": { "type": "string" },
+        "language": { "type": "string" },
+        "imageUrl": { "type": "string" },
+        "externalSrc": { "type": "string" }
+      }
+    },
+    "node": {
+      "type": "object",
+      "required": ["ref", "kind", "fields"],
+      "additionalProperties": false,
+      "properties": {
+        "ref": { "type": "string" },
+        "kind": { "$ref": "#/$defs/nodeKind" },
+        "fields": { "$ref": "#/$defs/fields" },
+        "externalRef": { "$ref": "#/$defs/externalRef" },
+        "children": { "type": "array", "items": { "$ref": "#/$defs/node" } },
+        "outcomeType": { "$ref": "#/$defs/outcomeType" },
+        "secondaryParentRefs": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "bridgeKind": { "enum": ["subjectSchoolLevel", "subjectGrade"] },
+        "secondaryParentRef": { "type": "string" }
+      }
+    }
+  }
+}

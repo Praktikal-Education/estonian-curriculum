@@ -1,0 +1,524 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Füüsika. Teadusmeetod. Mõõtmine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab loodusteadusliku meetodi olemust ja teab, et katsetulemusi üldistades jõutakse mudelini",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "põhjendab mõõteseaduse vajalikkust üldaktseptitavate mõõtmistulemuste saamiseks",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab mõõdetava suuruse ja mõõtmistulemuse suuruse väärtuse erinevust",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab ja rakendab rahvusvahelise mõõtühikute süsteemi (SI) põhisuurusi ning nende mõõtühikuid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab, et korrektne mõõtetulemus sisaldab ka määramatust, ning kasutab mõõtmisega kaasnevat mõõtemääramatust hinnates standardhälvet.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Füüsika kui loodusteadus. Teadusmeetod (loodusteaduslik meetod).<br>Mudelid ja nende piiratus. Füüsikalise mudeli loomine. Mudeli järelduste kontroll ning mudeli areng. Loodusseadused ja üldprintsiibid. Põhjuslikkus ja juhuslikkus füüsikas. Mõõtmine. Mõõtühikud. SI. Mõõtetulemus. Mõõtemääramatus ning selle hindamine. Mõõteseadus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>teadusmeetod, loodusseadus, mikro-, makro- ja megamaailm, füüsika, mõõtmine, mõõtühikute süsteem, mõõtemääramatus, mõõtesuurus, mõõdetava suuruse väärtus, mõõtetulemus, mõõtevahend, taatlemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Juhusliku loomuga nähtuse (palli põrke, heitkeha liikumise, kaldpinnalt libisemise, kukkunud keha lõppkaugus mahakukkumise kohast, ühe klassi õpilaste pikkusete vms) uurimisel saadud mõõtmistulemuste analüüs. Statistiline mõõtemääramatus.</li><li>Keha joonmõõtmete mõõtmine ja korrektse mõõtetulemuse esitamine.</li><li>Mõõtmisest ning andmetöötlusest mudelini jõudmine erinevate katsete põhjal.</li><li>Mudeli piiratuse ja võimekuse näitlikustamiseks võib mõõta erinevate puulehtede pindalasid ning lähendada neid (ehk luua matemaatiline mudel) erinevatele geomeetrilistele kujunditele (ristkülik, ring, romb jne).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema <strong>„Füüsika. Teadusmeetod. Mõõtmine”</strong> on oluline mitte ainult koolifüüsikas, vaid gümnaasiumihariduses üldiselt.</p><p><strong>Selles teema õppimise kaudu arendatakse loodusteadusliku meetodi mõistmist.</strong> Selle juurde kuulub ka teadmine, kuidas valmistatakse ette ja viiakse läbi eksperimente või tehakse vaatlusi. Õpilasele tutvustatakse, kuidas teadlased koguvad andmeid, õppimaks tundma loodusseadusi ja arendamaks teooriaid. Omaseks võiks saada ka arusaam mudelite tähtsusest, pidevast arengust ja paratamatust piiratusest.</p><p><strong>Mõõtmistehnika ja -meetodtitega tutvumine</strong> arendab kriitilist mõtlemist ja probleemide lahendamise oskust. Tähtis on saada algne eksperimendi planeerimise kogemus ja proovida saadud andmete alusel mõistliku järelduse tegemist. Need oskused on olulised loodusteadustes, aga kuluvad ära väga paljudel aladel.</p><p>Teema aitab näidata, et f<strong>üüsika ja teised loodusteadused tuginevad suuresti kvantitatiivsele analüüsile.</strong> On vajalik tutvustada mõõtühikuid, ühikute süsteemi (SI), füüsikalise suuruse ja mõõteriista mõisteid. Nii harjutakse füüsikaliste nähtuste ja protsesside matemaatilise kirjeldamisega.</p><p><strong>Õpilased kohanevad mõõtmistulemuste täpsuse ja mõõtmise ebakindluse mõistetega.</strong> Määramatuse tundmine on vajalik kõigil teaduse ja inseneeria aladel, aga samuti igapäevaelus. Mõõtmise korratavus ja vigade vältimine nii mõõtmisel kui ka tulemuste analüüsil on otsustav usaldusväärse tulemuse saamisel.</p><p><strong>Mõõtmise, st mõõtmistehnika,</strong> -riistade ja ühikusüsteemide ajaloolise arenguga tutvumine <strong>aitab väärtustada teaduslikku mõtteviisi ja teadusuuringute standardiseeritust.</strong> Füüsika meetod ja mõõtmine on teema, mis annab võimaluse mõista ja hinnata infot (sh teadusinfot) kriitiliselt. See on oluline teaduskarjääris, aga tehnoloogilises keskkonnas pea igas karjääris.</p><p>Teema <strong>„Füüsika. Teadusmeetod. Mõõtmine”</strong> varustab õpilasi tähtsate ja tähenduslike oskuste, teadmiste ning kindla alusega teaduslikus metoodikas, luues aluse füüsika ja muude teadusharude õpinguteks, edendades samal ajal ka kriitilist mõtlemist ja probleemide lahendamise oskusi, mida saab rakendada erinevates eluvaldkondades.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpilased, kes alustavad gümnaasiumi füüsikaõpinguid, on väga erineva tausta ja tasemega. Tasub alustada nö leebelt – arutleda, miks füüsikat tasub õppida, seletada kuidas võiks füüsikat õppida, milline on füüsikaliste suuruste ja valemitega ümberkäimise hea tava jms.</li><li>Hea on alustada lihtsamate katsetega, näiteks mõõta rühmatööna klassi ruumala ja klassis oleva õhu mass. Kui suur on nende tulemuste mõõtemääramatus?</li><li>Välise motivatsiooni tekitamiseks (millest hiljem saab areneda välja sisemine motivatsioon) võiks sooritada mõne „ohhoo“ eksperimendi, näiteks magneti langemine vask- või alumiiniumtorus, vaskrõnga leviteerimine või liikumine välises magnetväljas vms. Tasub näidata mõnda ägedat videoklippi, näiteks õhurõhu mõjust, aga oleks hea, kui sellega kaasneks seletus või arvutus nähtu kohta. See võib olla klipi autorilt, aga õpetaja võiks ka ise üht-teist lisada.</li><li>Kohe algusest peale on oluline teha vahet korrektsel terminoloogial ja seletamisel või näitlikustamisel kasutataval kujundlikul tavakeelel.</li><li>Enne eksperimente tasuks meelde tuletada Exceli, <a href=\"http://desmos.com\">desmos.com</a> vm sarnase rakenduse kasutamise baasoskused (aritmeetilise keskmise ja standardhälbe leidmine, graafiku koostamine). Samuti võib olla valik ühtlustada õpilaste arvutusvõimet, kalkulaatorite kasutuskogemusi ja kümne astmetega arvutamist.</li><li>Erinevaid mõõtmisi saab sooritada koolimajast väljas, looduses, kodus. Mitmed mõõtmised eeldavad head meeskonnatööd, eriti kui objekti on ebamugav mõõta.</li><li>Füüsikast kui õppeainest ja füüsikateadusest rääkides ei tasu karta kaasaegset füüsikat: relativismi, kvantmehaanikat, gravitatsioonilaineid, musti auke, kosmoloogiat jms. Teadusuudistele tähelepanu juhtimine on igati mõistlik.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arutlemine teemal – kas füüsika on loodusteadus? Kõigepealt, mis on loodus? Mis on teadus? (Kultuuri- ja väärtuspädevus, suhtluspädevus, LT1, LT2, LT6.)</p><p>Arutlusring pärast loodusteadusliku meetodiga tutvumist, Kas ja kus on see meetod hea, kasulik, vajalik, kohustuslik ja kus ta seda kõike sugugi ei ole? (Kultuuri- ja väärtuspädevus, õpipädevus, suhtluspädevus, LT1, LT3, LT4, LT6.)</p><p>Küsitlus inimtegevuse aladest, olukordadest või juhtumitest, kus teaduse kiire areng võib olla kahjulik või ohtlik ((iga õpilane vähemalt ühe). Rühmatööna tehtud kokkuvõte küsitluse tulemustest. (Kultuuri- ja väärtuspädevus, sotsiaalne ja kodanikupädevus, LT1, LT2, LT4, LT5, LT6, LT7.)</p><p>Mõõtmine ja arvutus (näiteks lihtsa geomeetrilise keha mõõtmine ja ruumala arvutamine) ning mõõtmisprotokolli vormistamine. Hinnang oma tulemusele. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus)</p><p>Tutvumine mõõtühikute süsteemidega õppekirjanduse ja internetiallikate toel. Esitlused erinevatest ühikutest, meetermõõdustiku ja SI ajaloost, ühikusüsteemide perspektiividest. (Õpipädevus, digipädevus, LT2, LT5, LT6.)</p><p>Tutvuse uuendamine kordsete ühikutega ja vastavate eesliidetega, vastavad harjutused, Universumi suuruse ja osakeste väiksuse uurimine, arusaam mikro-, makro- ja megamaailma mõõtudest. (Õpipädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT2, LT5)</p><p>Ise valitud (või välja loositud) nähtuse uurimiseks lihtsa eksperimendi planeerimine. Vaatlus või mõõtmine, tulemise analüüs ja järelduse (mudeli) sõnastamine. (õpipädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus) Mõistlik teha väikestes rühmades. (Suhtluspädevus, LT2, LT3, LT4, LT5.)</p><p>Erinevad mõõtmised ja tulemuste esitamine koos mõõtemääramatusega. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT3.)</p><p>Juhusliku loomuga nähtuse (palli põrge, heitkeha liikumine, kaldpinnalt libisemine vms) uurimine kordusmõõtmistega (näiteks 100 korda). Tulemuste analüüs (keskmine, hälve, standardhälve) ja tulemuse esitamine koos mõõtemääramatusega. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT2, LT3, LT4. LT6.)</p><p>Kodukohas tegutsevatest ettevõtetest, kus on oluline mõõteriistade taatlemine, ülevaate tegemine. Võib teha intervjuu metroloogia spetsialistiga. (Suhtluspädevus, ettevõtlikkuspädevus, digipädevus, LT3, LT5, LT7, LT8.)</p><p>Tutvumine tegevusaladega, kus mõõtmine on oluline. Võiks külastada asutusi, kus mõõdetakse: kaubandus, meditsiin, politsei, tööstus, toitlustus. Kokkuvõtte tegemine, mida mõõdeti, mis ühikuid kasutati, kuidas tulemus vormistati. (Suhtluspädevus, ettevõtlikkuspädevus, LT1, LT5, LT7, LT8.)</p><p>Kokkuvõtte füüsikalistest suurustest, mida õpilased ühe nädala jooksul mõõtsid või nägid mõõdetavat. (Õpipädevus, LT5.)</p><p>Internetiallikate ja kirjanduse toel Rahvusvahelise kaalude ja mõõtude büroo BIPM ja Eesti metroloogia keskasutuse Metrosert tegevusalade ja eesmärkidega tutvumine. (Ettevõtlikkuspädevus, LT5, LT6, LT8.) Võimalusel lähevad õppekäikudele. (suhtluspädevus.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>horisontaalne: mõõtmine, andmete esitlus ja töötlus on aineteülene oskus. Lõimub matemaatika, keemia, sotsiaalteadustega. Praktiliste või andmetöötlust nõudvate uurimistööde vormistamine. Vertikaalne: varem on õpilased õppinud mõõtmiste aluseid (otsene, kaudne mõõtmine, mõõtetulemus, ühiku olulisus) ja määramatuse mõistet 7. klassi loodusõpetuses. Järgmistes kursustes, teistes loodusainetes ja UPT sooritamisel on vaja praktiliste uurimuste sooritamisel rakendada suurt osa selles peatükis õpitust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Eelnevalt on vaja diferentseerimise vajaduse huvides välja selgitada, millised on õpilaste huvid ja kuivõrd võib neid tuleviku õpingutes füüsikat vaja minna. Soovitav on koostada praktiliste tööde hindamismudel (vt näidet siit), mis näiteks koosneb kolmest osast: 1) idee ja meetodi arendus (uurimisküsimus, teooria, töökäik muutujate valik jms), 2) mõõtmistulemuste kogumine ja presenteerimine (tabelid, graafikud) ning 3) tulemuste analüüs, järeldused ja kokkuvõte. Hindamismudelit saab vastavalt praktilise töö iseloomule kohandada.</p><p>Hinnata võib tunnitegevuse käigus täidetud töölehti, rühmades probleemide lahendamist jmt. Kõige olulisem on, et õpilastele oleksid selged hindamiskriteeriumid ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Hea hindamismudel sisaldab ka viiteid edasistele õpingutele (kus ja miks neid oskusi ja teadmisi edaspidi õppimise käigus vaja on?). Õpilast abistavad enesehindamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning).</em> Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p>"
+            },
+            { "kind": "embed", "src": "http://learningapps.org" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, näiteks</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud. Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, näiteks</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET Colorado"
+            },
+            {
+              "kind": "text",
+              "html": "<p>kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas -</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kinemaatika, liikumise kirjeldamine. Vektorid.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab, et keha liikumist iseloomustab kiirus, ning toob näiteid liikumise suhtelisuse kohta",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib teepikkuse, kiiruse ja kiirenduse graafikuid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab skalaarseid ja vektoriaalseid füüsikalisi suurusi ning toob nende kohta näiteid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab füüsikaliste suuruste (kiirus, kiirendus, teepikkus ja nihe) tähendusi ning nende suuruste mõõtmise viise",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Punktmass. Koordinaadid. Taustsüsteem, liikumise suhtelisus. Teepikkus ja nihe. Ühtlane sirgjooneline liikumine. Kiirus. Liikumisvõrrand. Ühtlaselt muutuv sirgjooneline liikumine. Kiirendus. Kiirenduse ühikud. Kiiruse ja läbitud teepikkuse sõltuvus ajast. Liikumisgraafikud.<br>Vaba langemine. Kiiruse ja kõrguse sõltuvus ajast vabal langemisel. Heitkehade liikumine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kulgliikumine, punktmass, taustsüsteem, kinemaatika, skalaarne ja vektoriaalne suurus, teepikkus, nihe, kiirus, hetkkiirus, kiirendus, vaba langemine, heitkeha.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kiiruse ja kiirenduse mõõtmine.</li><li>Langevate kehade liikumise uurimine.</li><li>Kaldrennis veereva kuuli liikumise uurimine.</li><li>Heitkeha liikumise uurimine. Maandumispaiga ennustamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema <strong>„Kinemaatika, liikumise kirjeldamine. Vektorid”</strong> on oluline kivi koolifüüsika alusmüüris. See aitab mõista, kuidas füüsikalise maailma objektid liiguvad ja toimivad.</p><p><strong>Kinemaatika on aluseks mitmetele füüsika teemadele:</strong> näiteks dünaamikale, elektromagnetismile ja isegi kvantmehaanikale ning üldrelatiivsusteooriale. Alustades kinemaatikaga, saab luua sügavamat mõistmist loodusseadustest, millega me kirjeldame maailma toimimist, eelkõige seda, kuidas kehad ruumis ja ajas liiguvad.</p><p><strong>Kinemaatikast algab lugematu arvu pärsielu küsimuste lahendamine.</strong> Kuigi see ei pruugi esmapilgul ilmne olla, algab näiteks autosõidu, heitkeha lennu, kuureisi või taevakehade trajektooride probleemilahedus kinemaatikast, liikumisvõrranditest. Vektorid on aga mugav ja tõhus vahend neid küsimusi näitlikustada ja lahendada.</p><p><strong>Kinemaatika õppimisel arendavad õpilased edasi probleemide lahendamise oskusi.</strong> Harjutatakse, kuidas kasutada sobivat taustsüsteemi, jagada keerukas liikumine komponentideks, rakendatakse võrrandeid ja võrrandisüsteeme, kasutatakse vektorite võimalusi nii suuna kui ka pikkuse mõttes. Need oskused on eriti olulised inseneridele ja tehnoloogidele ning laiemalt kõigil STEM aladel.</p><p><strong>Kinemaatika õpetab ennustama</strong> liikuvate objektide tulevasi asukohti, olgu siin näiteks äikesetorm või sidesatelliit. Nimetades alasid, mis toetuvad kinemaatilisetele mudelitele: transport, robootika, militaarne tehnika, masinate projekteerimine ja käitamine, kosmoseuuringud ja -reisid, sport ja virgestus, meteoroloogia ja ilmaennustus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kinemaatika on matemaatiline, arvutuslik, graafiline ja vektoriaalne. Siin saab üle korrata põhikoolis õpitud arvutusülesannete lahendamise põhitõed: ülesannete vormistamine, valemite ja ühikute olulisus ja seotus, vastuste analüüs.</li><li>Arvutustel tuleb tähelepanu pöörata ühikutele. Näiteks auto pidurdusteekonna arvutamisel on vaja teisendada ühikuid (kiirused, kiirendus, teepikkus) ja mõista, kuidas vastuse ühik saadakse. Oluline on hinnata vastuse reaalsust, mis näiteks kiirenduse korral vajab tublisti harjutamist.</li><li>Kinemaatikas on mõisteid ja teemasid, mis kestavad läbi kõigi füüsika kursuste, näiteks taustsüsteem, koordinaadid, liikumise suhtelisus.</li><li>Vektorsuurused on õpilastele esialgu keerulised. Matemaatikas tegeldakse vektoritega tavaliselt hiljem ja käsitlus on siis teistsugune, nii et füüsikas pole sellest kuigi palju abi. Sellegipoolest tuleb rõhutada, et kinemaatikas on nihke, kiiruse ja kiirenduse käsitlemisel suund oluline.</li><li>Vektorite abil arvutamisel on mõistlik meelde tuletada varasemalt matemaatikas õpitud seosed täisnurkse kolmnurga kohta (Pythagorase teoreem ja trigonomeetrilised seosed) ja rõhutada, et vektorite moodulite (pikkuste) leidmisel võime neid vaadelda kui kolmnurkade külgi.</li><li>Arvutame valemite järgi, aga protsesside mõistmiseks on tihti hea kasutada graafikuid. Analüütilise ja graafilise esitusviisi harjutamine on üks kinemaatika õppimise eesmärkidest.</li><li>Mõistlik on mudelite loomisel ja füüsikaliste suuruste omavahelise sõltuvuse leidmisel kasutada mõnda matemaatika rakendamise programmi, näiteks <a href=\"http://desmos.com/\">desmos.com</a>; Excel jm.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Liiklusvahendite kiirenduste arvutamine ja võrdlemine. Ühikute teisendamine. (Õpipädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT3.)</p><p>Liiklusohutus. Jalg- või tõukeratta pidurdustee mõõtmine erinevatelt algkiirustelt. Algkiiruse ning pidurdustee omavahelise seose leidmine <a href=\"http://desmos.com\">desmos.com</a> abil. (Kultuuri- ja väärtuspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT3, LT4, LT7.)</p><p>Kaldpinnal veereva kuuli või libiseva keha lõppkiiruse ja kiirenduse mõõtmine. Kaldenurga ja liikumisaja vahelise sõltuvuse leidmine <a href=\"http://desmos.com\">desmos.com</a> abil. Võib teha klassikalises variandis mõõtes kaldpinna pikkuse ja veeremise aja (veekellaga) (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT3, LT4.).</p><p>Kukkuva joonlaua püüdmine ja reaktsiooniaja arvutamine. Reaktsiooniaeg liikluses. (Kultuuri- ja väärtuspädevus, suhtluspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT3, LT4, LT7.)</p><p>Vaba langemise demonstratsioon. (Suhtluspädevus, LT6.)</p><p>Vaba langemise (kukkumise) uurimine kiirendusanduri või mobiiltelefoniga. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT4.)</p><p>Videolõigud vabast langemisest vaakumkambris või Kuul. Vastavad arvutused ja seletused. Näiteks: Flipping Physics, Apollo 15 Feather and Hammer Drop või BBC, Brian Cox visits the world's biggest vacuum chamber. (Sotsiaalne ja kodanikupädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus LT2, LT6.)</p><p>Heitkeha trajektoori matemaatiline analüüs ja graafiline kujutamine. (Õpipädevus) Ballistika. (Sotsiaalne ja kodanikupädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus LT2, LT3, LT4, LT7.)</p><p>Kiirused ja kiirendused spordis. Videolõigud erinevatest spordialadest ja vastavad arvutused. (Enesemääratluspädevus, LT5, LT7.)</p><p>Viktoriin: Purjeka mastist kukub ämber. Kui kiiresti peaks laev liikuma, et ämber ei kukuks laevalaele vaid laeva taha merre? Jms küsimusi. (Suhtluspädevus, LT2, LT4.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Horisontaalne - liikluses toimuv, näiteks õige sõidukiiruse valimine, pikivahe hoidmine on aluseks ohutule sõidustiilile; spordis soorituse analüüs; geograafia - liustike liikumiskiiruste muutused seoses kliima soojenemisega.</p><p>Vertikaalne - Õpilased on lahendanud varasemas kooliastmes peamiselt ühtlase sirgjoonelise liikumise ülesandeid, mitteühtlase liikumise korral arvutanud keskmist kiirust. Liikumise kirjeldamisel on kasutatud taustkeha mõistet.</p><p>Kinemaatika teadmisi rakendatakse mehaanika ja elektromagnetismi kursustes ehk siis kehade ja aineosakeste liikumise kvantitatiivsel kirjeldamisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Eelnevalt on vaja diferentseerimise vajaduse huvides välja selgitada, millised on õpilaste huvid ja kuivõrd võib neid tuleviku õpingutes füüsikat vaja minna ja selle põhjal planeerida hindamist ja teadmiste kontrolli. Võimalikud hindeliste tööde variandid on: 1) arvestustöö, 2) kontrolltööd, laboritööd, ettekanded, 3) tunnitööd.</p><p>Praktiliste tööde hindamiseks koostada hindamismudel, mis näiteks koosneb kolmest osast: 1) idee ja meetodi arendus (uurimisküsimus, teooria, töökäik muutujate valik jms), 2) mõõtmistulemuste kogumine ja presenteerimine (tabelid, graafikud) ning 3) tulemuste analüüs, järeldused ja kokkuvõte. Hindamismudelit saab vastavalt praktilise töö iseloomule kohandada.</p><p>Kinemaatikas võiks üks hindelistest töödest kontrollida graafikute lugemise, koostamise ja analüüsi oskusi (liikumisvõrrandid nii ühtlasel kui ka ühtlaselt muutuva liikumise korral; mitteühtlase liikumise graafik).</p><p>Kõige olulisem on, et õpilastele oleksid selged hindamiskriteeriumid ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Hea hindamismudel sisaldab ka viiteid edasistele õpingutele (kus ja miks neid oskusi ja teadmisi edaspidi õppimise käigus vaja on?). Õpilast abistavad enesehindamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning).</em> Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p>"
+            },
+            { "kind": "embed", "src": "http://learningapps.org" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, näiteks</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud. Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, näiteks</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET Colorado"
+            },
+            {
+              "kind": "text",
+              "html": "<p>kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas -</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ringliikumine.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "uurib ühtlast sirgjoonelist liikumist ja ühtlaselt muutuvat sirgjoonelist liikumist ning analüüsib saadud tulemusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib teepikkuse, kiiruse ja kiirenduse graafikuid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "uurib ringliikumist, mõõtes ja arvutades füüsikalisi suurusi: pöördenurk, periood, sagedus, nurkkiirus, joonkiirus ja kesktõmbekiirendus",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tiirlemine ja pöörlemine. Ühtlase ringjoonelise liikumise kirjeldamine. Pöördenurk. Nurga ühikud. Joonkiirus ja nurkkiirus. Periood ja sagedus. Kesktõmbekiirendus. Orbitaalliikumine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>pöördenurk, nurkkiirus, joonkiirus, kesktõmbekiirendus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ühtlaselt liikuva auto ratta pöörlemissageduse ja auto liikumiskiiruse seose uurimine. Teekonna läbimise aja ennustamine ja mõõtemääramatuste hindamine.</li><li>Ringliikumiselt vabastatud keha edasisse trajektoori uurimine. Saab siduda heitkeha liikumisega ja maandumiskoha ennustamisega (teemast Kinemaatika, liikumise kirjeldamine).</li><li>Pöörlemissageduse määramine stroboskoopiliselt.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema <strong>„Ringliikumine”</strong> on teatud moel üleminek liikumise kirjeldamisest (kinemaatika), liikumise muutuste põhjendamisele (dünaamika). Kõigepealt on aga vaja ka kõverjoonelist liikumist sobivate füüsikaliste suurustega kirjeldada. Lihtsamal juhul on tegu ringjoonel või ringjoone kaarel liikumisega.</p><p><strong>Ringliikumine on igapäevaelus ja eriti tehnikas väga tavaline.</strong> Taevamehaanika – Maa ja teiste planeetide pöörlemine ja planeetide tiirlemine ümber Päikese või mõne teise tähe. Transport – ratas, inimkonna suur leiutis, seejärel pea kõik sõidukid ja masinad. Isegi pendli võnkumine ja kiikumine käivad ringjoonel. Seadmed, masinad, ehitised – mootorid, turbiinid, hammasülekanded, hoorattad, tsentrifuugid, aga ka teede, ringradade ja trekkide kurvid. Kaasaegne tehnoloogia – alates fonograafirullist ja grammofoniplaadist, magnetlindi vedamise mootoritest, kuni CD/DVD plaatide ja kõvaketasteni, rääkimata güroskoopidest. Sport – kuulitõuge, kettaheide ja eriti vasaraheide algavad pöörlemisest, uisutajad, jalgratturid, jooksjad võtavad kurve. Teadusuuringud – tsüklotron, ringkiirendi. Militaartehnika – vintrauaga relvad. Lõbustused – karusell ja ameerika mäed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pöördenurga (sh nurga ühikute), raadiuse, kaarepikkuse, nurkkiiruse, joonkiiruse, kiirenduse, sageduse ja perioodi mõistetega harjumiseks on hea vaadelda ja kirjeldada mingit teada-tuntud pöörlemist: kellaosutid, grammofoniplaat, laadakarusell vms.</p><p>Selles teemas on soovitav mõisteid lahti seletada eksperimentide abil: keerutada nööri küljes rippuvat keha, sõita jalgrattaga ringikujulist trajektoori, pöörelda pöördtoolis jne.</p><p>Pöördliikumise kirjeldamiseks on mõistlik kasutada ka simulatsioone, näiteks PhET Colorado: pöörlemine, rotation.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Nööri otsa kinnitatud keha tiirutamine ja tiirlemisperioodi, -sageduse, nurkkiiruse, joonkiiruse ja kesktõmbekiirenduse määramine. (Ettevõtlikkuspädevus, LT2.)</p><p>Pöörelevate kehade leidmine ja vaatlemine: päikesesüsteem, grammofoniplaat, kellaosutid, tuulikud, sõidukite rattad jpm. Kuidas määrata pöörlemissagedust ja kiirust? (Õpipädevus, LT2, LT7.)</p><p>Jalgratta kettülekande teguri uurimine. Eksperimendi planeerimine, et lugeda pedaalipöödeid ja määrata läbitud teepikkus, liikumiskiirus, pöörlevate osade nurk- ja joonkiirused erinevate käikudega sõitmisel. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT3, LT4, LT5.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>horisontaalne: sport, näiteks heite- või reketialades on oluline joonkiiruse ja raadiuse omavaheline seos, et sooritada vajaliku kiirusega heide või löök; sport ja liiklus, näiteks kurvis liikumiskiiruse valik. Majapidamises, näiteks akutrelli, pesumasina pöörete arv.</p><p>Vertikaalne: ringliikumise kinemaatika teadmisi läheb hiljem vaja dünaamika kursuses kesktõmbejõu kirjeldamisel ja sellega seotud nähtuse, näiteks orbitaalliikumise seletamisel. Elektromagnetismis rakendatakse kesktõmbekiirenduse seost magnetväljas tiirleva laetud osakese trajektoori raadiuse, kiiruse või laengu leidmiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Eelnevalt on vaja diferentseerimise vajaduse huvides välja selgitada, millised on õpilaste huvid ja kuivõrd võib neid tuleviku õpingutes füüsikat vaja minna</p><p>Teemat &quot;perioodiliste liikumised&quot; võiks hinnata praktilise kontrolltööga või anda ülesandeks teha miniuurimus, kus uuritakse, kuidas pöörlemissagedus või -periood sõltub näiteks koonilise pendli pikkusest, koormise tiirlemisraadiusest või raskusest. Koostada praktiliste töö hindamismudel, mis näiteks koosneb kolmest osast: 1) idee ja meetodi arendus (uurimisküsimus, teooria, töökäik muutujate valik jms), 2) mõõtmistulemuste kogumine ja presenteerimine (tabelid, graafikud) ning 3) tulemuste analüüs, järeldused ja kokkuvõte. Hindamismudelit saab vastavalt praktilise töö iseloomule kohandada.</p><p>Kõige olulisem on, et õpilastele oleksid selged hindamiskriteeriumid ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Hea hindamismudel sisaldab ka viiteid edasistele õpingutele (kus ja miks neid oskusi ja teadmisi edaspidi õppimise käigus vaja on?). Õpilast abistavad enesehindamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning).</em> Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p>"
+            },
+            { "kind": "embed", "src": "http://learningapps.org" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, näiteks</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud. Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, näiteks</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET Colorado"
+            },
+            {
+              "kind": "text",
+              "html": "<p>kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas -</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,861 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "1. Kunsti ja käelise tegevuse aine õppetegevuse kirjeldus ja õpetuse eesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kunsti ja käelise tegevuse eesmärgiks on õpilases huvi äratamine kunstiliste tegevuste vastu ning tema loomingulisuse toetamine. Kunsti ja käelise tegevuse tundide abil tuuakse õpilase ellu rõõmu ja mängulusti, millega kaasneb käeliste oskuste ja vilumuste arendamine.</p><p>Kujundatakse õpilase soovi ise midagi luua. Õpilast ärgitatakse kunsti ja käelise tegevuse kaudu väljendama oma emotsioone, individuaalsust ja loovust. Arendatakse õpilaste väljendusoskust. Õpilast suunatakse vaatlema ümbritsevat keskkonda ja selles olevaid esemeid ning objekte, märkama olulisi tunnuseid ning nähtut erinevaid tehnikaid ja materjale kasutades kujutama.</p><p>Kunst ja käeline tegevus on lõimitud teiste õppeainete teemadega ning on praktilise ja kõnearendusliku suunitlusega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpitakse ja harjutatakse praktiliseks tööks vajalike liigutuste sooritamist. Kujundatakse arusaamist töö lõpuleviimise tähtsusest. Õpilast suunatakse kasutama töövahendeid ja -materjale eesmärgipäraselt, ohutult ja säästvalt.</p><p>Õpilastega külastatakse näitusi, muuseume ja neile tutvustatakse rahvakunsti.</p><p>Õppe tulemusel kujuneb inimene, kes tunneb rõõmu oma kunstilisest tegevusest ja selle lõpptulemusest, tunneb huvi kunstiteoste ja Eesti kultuuripärandi vastu, väärtustab enda ja kaasinimeste loomingut.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "7. Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://hev.edu.ee/229-2/",
+          "title": "Palgi, K. Elu- ja toimetulekuõppe töölehed Mina. Õpetajamaterjal."
+        },
+        {
+          "kind": "link",
+          "href": "https://hev.edu.ee/196-2/",
+          "title": "Sildnik, K. Aastaajad."
+        },
+        {
+          "kind": "link",
+          "href": "https://hev.edu.ee/153-2/",
+          "title": "Türnpu, M. Elu- ja toimetulekuõppe töölehed \"Inimene I\". Õpetajamaterjal."
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kujutamisõpetus — I arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb rõõmu kunstitegevuses osalemisest",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "värvib kujundit kontuuri järgimata",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonistab/ maalib lihtsa pildi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ja eristab põhivärve",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab tuttavaid joonistamis- ja maalimisvahendeid kunstilises tegevuses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb koostöös juhendajaga ühise kunstitöö",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lõpetab koostegevuses alustatud töö",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koristab koostegevuses abiga oma tööpaiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lihtsate selge kontuuriga piltide värvimine põhivärvidega.</p><p>Lihtsa objekti (pall, õun, päike vms) kujutamine vaatluse järgi.</p><p>Näo osade kujutamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kujutamisõpetus — II arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väljendab oma meeleolu kunsti kaudu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "värvib kontuuri piires",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonistab/ maalib äratuntavaid objekte; lihtsa pildi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ja eristab sekundaarvärve",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab erinevaid joonistamis- ja maalimisvahendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb suunamisel koostöös kaaslastega ühise kunstitöö",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lõpetab suunamisel alustatud töö",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koristab suunamisel oma tööpaiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Olu- ja tegevuspiltide värvimine sobivate realistlike värvitoonidega.</p><p>Inimese kehaosade nimetamine ja kujutamine.</p><p>Eelnevalt analüüsitud lihtsa objekti (õis, puu, lind, loom, maja jms) kujutamine vaatluse järgi</p><p>Geomeetriliste kujundite joonistamine ja nendest tervikliku pildi loomine (maja, auto vms).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kujutamisõpetus — III arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "valib enda väljendamiseks meelepärase kunstivormi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "värvib erinevaid detaile, katab kogu pinna ühtlaselt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonistab/ maalib suunamisel teemakohase pildi, kasutades erinevaid tehnikaid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab sooje ja külmi toone",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib töö jaoks sobivad joonistamis- ja maalimisvahendid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb koostöös kaaslastega ühise kunstitöö",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lõpetab alustatud töö",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koristab tööpaiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mandala värvimine.</p><p>Keha proportsioonide arvestamine inimese/ looma kujutamisel.</p><p>Lihtsate esemete rühma kujutamine vaatluse järgi.</p><p>Teemakohase pildi joonistamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Värvusõpetus — I arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb rõõmu kunstitegevuses osalemisest",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ja eristab põhivärvusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib koostegemisel värvimärkidel põhinevaid ohutusnõudeid.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Põhivärvuste eristamine ja tundmine.</p><p>Põhivärvuste seostamine ümbritseva elu objektidega, loodusega, toiduga vms.</p><p>Soe toon PUNANE ja külm toon SININE praktilises kasutuses (veekraan jms).</p><p>ROHELINE - lubav värvus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Värvusõpetus — II arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väljendab oma meeleolu kunsti kaudu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "segab suunamisel põhivärvidest sekundaarvärve, helestab, tumestab ja toonib värve",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab sooje ja külmi toone elulistes olukordades",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab looduslikke värve loomingus.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Värvide omavahel segamine.</p><p>Uute värvitoonide leidmine.</p><p>Värvide helestamine ja tumestamine koostegevuses.</p><p>Lihtsa toonirea koostamine.</p><p>Soojad ja külmad värvused loodusobjektide näitel.</p><p>Looming looduslike värvidega (lilleõied, lehed, muld jms).</p><p>Meeleolude väljendamine värvuste kaudu.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Värvusõpetus — III arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väljendab enda meeleolu kunsti muusika kaudu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "segab iseseisvalt põhivärvidest sekundaarvärve, helestab ja tumestab ning toonib värve",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab sooje ja külmi toone",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib endale meelepärastes värvitoonides riided, kodutekstiilid, kaunistab ruumi tähtpäevadeks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mõnda looduslikku vahendit, mida saab kasutada esemetele ja toidule värvuse andmiseks.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Värvuse hele ja tume toon.</p><p>Toonirea koostamine värvikaardi abiga</p><p>Soojad ja külmad värvused kunstis ja olmes.</p><p>Looduslike vahendite abil tekstiilidele, toidule jm värvi andmine.</p><p>Kuulatava muusika kujutamine värvuste kaudu.</p><p>Värvide sobitamine omavahel (riietumine, sisustustekstiilid jms).</p><p>Temaatilised värvikombinatsioonid (jõulud, lihavõtted jms).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Materjaliõpetus — I arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb rõõmu kunstitegevuses osalemisest",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "rühmitab erinevaid looduslikke materjale, meisterdab juhendamisel looduslikest materjalidest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "paigutab vaasi lilli, oksi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab esmaseid voolimisvõtteid lihtsamate vormide voolimiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on tutvunud erinevate materjalide ja nende omadustega",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb ruumide kaunistamisel jõukohase ülesandega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koostegevuses loodusliku materjali korjamine ja rühmitamine tajutavate tunnuste alusel.</p><p>Meisterdamine looduslikust materjalist.</p><p>Mudimis/muljumis/kujumuutvad materjalid: voolimissavi, savi, plastiliin, voolimismass, kineetiline liiv, veniv liiv jms. Pehme - kõva. Värvuste segamine</p><p>Muud materjalid: erinevad paberid, tekstiilid, karusnahk, puit, klaas, kivi jms.</p><p>Materjalide tunnetamine, kompimine, tajumine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Materjaliõpetus — II arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väljendab oma meeleolu kunsti kaudu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb juhendamisel kompositsioone looduslikust materjalist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "voolib lihtsa mitmeosalise objekti",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on tutvunud looduslike ja tehismaterjalidega",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rühmitab materjale",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on tutvunud taaskasutuse põhimõtetega",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "meisterdab suunamisel olmejääkidest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab näidise järgi ruumide kaunistamiseks dekoratsioone",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "käsitseb abiga ohutult tuttavaid töövahendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib meeldetuletamisel ohutusnõudeid.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusliku materjali kogumine suunamisel, abiga vajalike töövahendite kasutamine (käärid, oksakäärid vms). Koostegevuses kompositsioonid looduslikest materjalidest.</p><p>Looduslikud ja tehismaterjalid - võrdlemine. Materjalide rühmitamine.</p><p>Taaskasutuse põhimõtted. Meisterdamine olmejääkidest.</p><p>Voolimine, voolimistehnikate õpetamine: pall, uss/vorstike, veeretamine, rulliga rullimine, Lihtsa mitmeosalise objekti voolimine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Materjaliõpetus — III arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "valib enda väljendamiseks meelepärase kunsti- või käsitöövormi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb võimalikult iseseisvalt töid/kompositsioone erinevatest materjalidest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab erinevaid voolimistehnikaid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab erinevaid materjale loomingus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb koostöös ühise kujutava või tarbekunsti töö",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kaunistab ruumi tähtpäevadeks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab materjale säästlikult, taaskasutab ja töötleb materjale",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib ja kasutab lähtuvalt materjalist ja tegevuse eesmärgist sobivaid töövahendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja järgib põhilisi ohutusnõudeid töövahendite kasutamisel.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusliku materjali kogumine, abiga vajalike töövahendite kasutamine (oksakäärid, oksasaag vms). Kompositsioonid looduslikest materjalidest, oaasise kasutamine.</p><p>Materjalide sobivus erinevateks töödeks.</p><p>Materjalide töötlemine, liimimine (parandamine), erinevad liimid PVA, pulgaliim jms.</p><p>Erinevate materjalide ja olmejääkide taaskasutamine praktiliste esemete valmistamisel.</p><p>Detailide ühendamine voolimisel.</p><p>Klaasile maalimine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tarbekunst ja dekoratiivne kompositsioon — I arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "vajutab jäljendeid erinevatele materjalidele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "liimib koostegevuses alusele erinevast materjalist kujundeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "trükib paberile, papile vms vabalt valitud mustreid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb ruumide kaunistamisel jõukohase ülesandega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lihtsate kaheosaliste mustriribade koostamine (ladumine, liimimine, trükkimine).</p><p>Ruumide kaunistamine koostegevuses</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tarbekunst ja dekoratiivne kompositsioon — II arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "trükib näidise järgi lihtsamaid mustreid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "dekoreerib tarbeesemeid või nende kujutisi juhendamisel ja/või iseseisvalt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab näidise järgi ruumide kaunistamiseks dekoratsioone.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ribamustrite koostamine.</p><p>Tarbeesemete ja nende kujutiste dekoreerimine (käpik, sall, linik, vaas, taldrik vms).</p><p>Ruumide kaunistamine verbaalsel suunamisel.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tarbekunst ja dekoratiivne kompositsioon — III arengutaseme lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teostab juhendamisel dekoratiivseid töid eri materjalist alustele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb koostöös ühise kujutava või tarbekunsti töö",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kaunistab erinevaid tarbeesemeid iseseisvalt valitud mustritega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujundab ruume.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ringmustrite koostamine.</p><p>Mustri kujundamine erinevatest detailidest.</p><p>Tarbeesemete valmistamine erinevatest materjalidest ja kaunistamine.</p><p>Kujundustööd klassis ja kodus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "2. Üldpädevuste kujundamine kunsti ja käelise tegevuse aines",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Toimetulekuõppes käsitatakse pädevust kui võimetekohaste teadmiste, oskuste ja hoiakute kogumit, mis tagab suutlikkuse teatud tegevusalal või valdkonnas toime tulla. Kunsti ja käelise tegevuse aine õpetamine toetab õpilastel õppekava läbivate taotletavate kohandatud üldpädevuste kujunemist.</p><p>Kunsti ja käelise tegevuse soovituslikus ainekavas on õpitulemuste saavutamiseks kirjeldatud tegevusi järgmistes teemavaldkondades:</p><ul><li>Kujutamisõpetus.</li><li>Värvusõpetus.</li><li>Materjaliõpetus.</li><li>Tarbekunst ja dekoratiivne kompositsioon.</li><li>Tehnikate õpetus.</li><li>Voolimine.</li><li>Paberi- ja papitööd.</li><li>Tekstiilitööd.</li><li>Muud materjalid.</li><li>Tehniline modelleerimine.</li><li>Temaatilised tööd.</li><li>Ohutusnõuded ja tööpaik.</li></ul><p>Loetletud teemavaldkondade tegevuste lõimimise kaudu õppetegevuses ja igapäevaste tegevuste raames kujunevad õpilastel õppekava läbivad üldpädevused.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Kultuuri- ja väärtuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tegevuse tundides õpivad õpilased loomingus väljendama enda mõtteid ja tundeid. Teiste õpilaste töödega tutvumine kujundab arusaamist inimeste eripäradest, õpilased õpivad kaaslaste tegevusse, sh loomingusse, lugupidavalt suhtuma. Kunsti ja käelise tegevuse tundides tutvuvad õpilased Eesti kultuuripärandiga külastades muuseume ja näitusi. Õpilased õpivad erinevaid vahendeid ja tehnikaid kasutades looma ja kujundama rahvuslikke tarbeesemeid. Õpilased õpivad hindama ja väärtustama nii rahvuslikku kui kaasaegset loomingut.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sotsiaalne ja kodanikupädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ühises loomingus osalemise läbi õpivad õpilased arvestama nii enda kui kaaslaste mõtete ja soovidega. Õpilastes kujundatakse jõukohaseid tööoskusi ja -harjumusi, suunatakse kinni pidama ohutusnõuetest. Õpilased saavad aru alustatud töö lõpuleviimise tähtsusest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Enesemääratluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Individuaal-, paaris- ja rühmatöödes, õppekäikudel jms osaledes kujuneb õpilastel arusaamine iseendast ja kaaslastest. Kunstilise loomingu ja käsitöö kaudu õpivad õpilased mõistma ja aktsepteerima enda ja kaaslaste erinevusi. Praktilistes kunstitegevustes osaledes õpivad õpilased aru saama enda ja kaaslaste abivajadusest, nad õpivad abi küsima ja kaaslasi vajadusel abistama.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilasi kaasatakse võimetekohaselt kunsti ja käelise tegevuse tööde kavandamisse, suunatakse alustatud tööd lõpule viima ja teostama enesekontrolli, nt võrdlema enda tööd näidise või kavandiga. Õpilasi suunatakse kasutama omandatud elulis-praktilisi lugemis- ja kirjutamisoskusi ning matemaatilisi oskusi kunsti ja käelise tegevuse raames.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Suhtluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suhtluspädevuse arengut toetavad kunsti ja käelise tegevuse käigus kujunevad elulised suhtlussituatsioonid. Õpilased õpivad kuulama, mõistma ja järgima õpetajapoolseid juhiseid, selgitusi jms. Ühise kunstitegevuse raames õpivad õpilased suhtlema kaaslastega, väljendama enda soove, tundeid ja mõtteid, küsima ja pakkuma abi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tegevuse tundide raames suunatakse õpilasi vaatlema ümbritsevat keskkonda, loomingu kaudu õpivad nad tundma ja hoidma loodust. Õpilased õpivad tundma ja kasutama nii looduslikke kui tehismaterjale. Õpilasi suunatakse materjale säästlikult kasutama. Tutvustakse taaskasutuse põhimõtteid nii kunstiteoste kui tarbekunsti esemete loomisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ettevõtlikkuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilased tunnevad rõõmu ja saavad eduelamuse huvipakkuvas ja jõukohases kunstilises tegevuses osalemisest. Õpilaste huvidest lähtuvad kunstitööd innustavad tegutsema ja suunavad iseseisvalt ümbritsevat keskkonda avastama ning kogetut loomingus väljendama. Kunsti ja käelise tegevuse tundides omandavad õpilased praktilise töö tegemise kogemused ja oskused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Digipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tegevuse tundide mitmekesistamiseks kasutatakse õpilasele arusaadavaid ja jõukohaseid infotehnoloogilisi vahendeid. Igapäevase õppetegevuse osana suhtlemisvõimaluste loomiseks kasutatakse vajadusel õpilase arengutasemele vastavat kommunikaatorit.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "3. Kunsti ja käelise tegevuse aine lõiming õppekava läbivate teemadega",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppekava läbivad teemad on üld- ja valdkonnapädevuste ning erinevate õppeainete lõimingu vahendiks. Õppekava läbivaid teemasid arvestatakse toimetulekuõppel oleva õpilase eripärasid arvestava ning toimetulekuõppe metoodikast lähtuva kohandatud õppimist ja arengut toetava koolikeskkonna loomisel. Läbivad teemad on aineülesed ja käsitlevad ühiskonnas olulisi valdkondi, misläbi kujuneb õpilasel ettekujutus ühiskonna kui terviku toimimisest ning arengust.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Elukestev õpe ja karjääri kujundamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Huvipakkuva ja jõukohase kunsti ja käelise tegevuse kaudu areneb õpilastes huvi ümbritseva keskkonna esemete ja nähtuste vastu ning soov osaleda erilaadsetes kunstitegevustes. Õpilastel kujuneb positiivne hoiak õppimise ja lihtsa töö tegemise suhtes, kujunevad õpi- ja tööoskused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Keskkond ja jätkusuutlik areng",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema käsitlemine toimub kunsti ja käelise tegevuse raames saadavate kogemuste kaudu. Linnaruumis ja looduskeskkonnas liikudes kogevad õpilased igapäevaelu nähtusi, tehis- ja looduskeskkonda. Õpilasi suunatakse materjale säästlikult kasutama. Olulisel kohal loomingus on taaskasutuspõhimõtete järgimine, nt taaskasutusprojektid loovtööna, kaltsuvaipade kudumine jms.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kodanikualgatus ja ettevõtlikkus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunst ja käelise tegevuse kaudu omandab õpilane oskused kavandada ja teostada enda ideid. Õpilasi suunatakse kaaslastele enda loomingut tutvustama, osalema kunstiprojektides ja neid suunamisel algatama. Kaaslastega koos paaris- ja rühmatöid tehes omandavad õpilased esmased koostööoskused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kultuuriline identiteet",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tegevuse tundides tutvuvad õpilased Eesti kultuuripärandiga. Muuseumitundides õpivad õpilased tundma eestlaste eluolu läbi erinevate ajastute kuni tänapäevani välja. Õpilasi suunatakse looma nii eesti kui teiste rahvuste rahvakunstist inspireeritud kunstitöid ja tarbeesemeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teabekeskkond ja meediakasutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilasi suunatakse leidma ja mõtestama ümbritsevas keskkonnas olevat eelkõige visuaalselt esitatud teavet, sh ruumikujunduselemente, pilte, silte jms. Õpilane õpib kunstilistes tegevustes orienteerumisel ja nende sooritamisel kasutama piltide, siltide, märksõnadena, skeemidena vms esitatud tööjuhiseid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tehnoloogia ja innovatsioon",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Erinevate kunsti ja käelise tegevuse teemavaldkondade raames saab kasutada õppetegevuse mitmekesistamiseks erinevaid õpilaste arengule vastavaid seadmeid, digikeskkondi ja rakendusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tervis ja ohutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Läbivalt toimub kunstilise ja käelise tegevuse raames ohutus- ja hügieeniteemade käsitlemine. Õpilasi suunatakse võimalikult adekvaatselt hindama enda võimeid, ohutult käsitlema kunsti- ja töövahendeid, arvestama vahendite kasutamisel kaaslastega jne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Väärtused ja kõlblus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Toimetulekuõppes on õpilaste õpimotivatsiooni tõstmise seisukohalt määrava tähtsusega õpilase ja õpetaja positiivne ühistegevus. Kunsti ja käelise tegevuse kaudu õpivad õpilased tundma iseennast, märkama enda ja kaaslaste emotsioone ning nende väljendamise võimalusi kunstiliste tegvuste kaudu.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "4. Kunsti ja käelise tegevuse aine lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kunsti ja käelise tegevuse kaudu toimub teistes õppeainetes omandatud oskuste ja teadmiste kinnistamine.</p><p>Õppetsüklite kirjeldusi koos omandatu kinnistamiseks mõeldud kunsti ja käelise tegevuse tööde juhenditega leiab <a href=\"https://hev.edu.ee/229-2/\">siit</a>.</p><p>Kunsti ja käelise tegevuse ainest võib tuleneda õppetegevuse temaatilise planeerimise korral õppetsükli teemavaldkond. Kunsti ja käelise tegevuse tööd võivad olla projektipõhise õppe õpiväljundiks või loovtööks (vt <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=198677725\">Tegevusele suunatud õpetus. Projektipõhine õpe</a>).</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Kunst ja käeline tegevus ja eesti keel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tegevuse aine teemade käsitlemisel ja praktilises tegevuses kasutab õpetaja õpilaste kõnest arusaamise tasemele vastavaid verbaalseid ja alternatiivseid suhtlusvahendeid. Laiendatakse käsitletavate teemavaldkondade kaupa õpilaste passiivset ja aktiivset sõnavara.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kunst ja käeline tegevus ja matemaatika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tegevuse ja matemaatika õpetus on tihedalt lõimunud. Omandatud matemaatikaalaseid oskusi ja teadmisi saavad õpilased kasutada kunstitööde loomisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kunst ja käeline tegevus ja elu- ja toimetulekuõpe",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tegevuse tööde abil kinnistatakse elu- ja toimetulekuõppe aines omandatud teadmised ja oskused. Kunsti ja käelise tegevuse raames õpitakse tundma erinevaid töövahendeid ja nende kasutamisvõimalusi ning ohutusnõudeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kunst ja käeline tegevus ja tööõpe",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tegevuse aines luuakse alus lihtsate tööoskuste ja tööharjumuse kujunemiseks. Tööoskuste järjepidev täiustamine toimub tööõppe aines.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kunst ja käeline tegevus ja kehaline kasvatus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tunde õuesõppetundidena läbi viies on võimalik kunstilist loomingut ja liikumist siduda. Looduses liikudes saavad õpilased ideid kunstitööde loomiseks, saab koguda looduslikku materjali jms.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kunst ja käeline tegevus ja muusika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tegevuse tundides meisterdatakse erinevaid (rütmi)pille. Kunstilise tegevuse läbi saavad õpilased väljendada emotsioone, mis neil tekivad kindlat muusikapala kuulates.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kunst ja käeline tegevus ja rütmika",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kunsti ja käelise tegevuse tundides meisterdatud rütmipille mängides õpivad õpilased tajuma enda keha, areneb rütmitunne. Rütmikatundides õpitud liikumiskavade juurde meisterdavad õpilased kostüüme, maske, loovad dekoratsioone jms.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "5. Kunsti ja käelise tegevuse aine rõhuasetused",
+      "children": [
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>I arengutasemel</th><th>II arengutasemel</th><th>III arengutasemel</th></tr></thead><tbody><tr><td><p>Arendatakse õpilase peenmotoorikat ning silma ja käe liigutuste koostööd.</p><p>Kujundatakse kunsti ja käelise tegevuse osaoskusi.</p><p>Peamiseks töövormiks on koostegemine ja praktiline tegevus eeskuju või näidise järgi.</p><p>Arvestatakse iga õpilase individuaalset käelise tegevuse ja kõne mõistmise taset.</p><p>Õpilasele tutvustatakse eri materjale ja töövahendeid, nende omadusi ja kasutamisvõimalusi.</p><p>Õpilast suunatakse koostegevuses hoidma korras oma töökohta ja -vahendeid.</p><p>Õpilasi innustatakse tegevusest ja valmis tööst rõõmu tundma.</p><p>Koostegevuses lõpetatakse alustatud töö.</p><p>Tegevuses osalemisele antakse positiivne hinnang.</p><p>Õpetaja verbaliseerib õpilaste tegevust.</p></td><td><p>Jätkatakse peenmotoorika ning silma ja käe koostöö arendamist lihtsa kunsti ja käsitöö kaudu.</p><p>Tööd teostatakse eeskuju ja/või näidise järgi etappide kaupa.</p><p>Õpitakse ja harjutatakse osatoimingute järjestamist ning osadest terviku moodustamist. Omandatud toiminguid rakendatakse ahelana korduvates ja osaliselt muutuvates tingimustes.</p><p>Õpilast suunatakse otsima ja kasutama abi.</p><p>Õpilasele tutvustatakse erinevaid materjale, töövahendeid, töövõtteid ja ohutustehnika nõudeid.</p><p>Õpilast suunatakse korras hoidma oma töökohta ja -vahendeid.</p><p>Õpilast julgustatakse väljendama oma positiivseid emotsioone kunsti abil.</p><p>Õpilast suunatakse lõpetama alustatud tööd.</p><p>Õpilase tegevuse tulemustele antakse positiivne hinnang.</p><p>Arendatakse tegevusega kaasnevat suhtlemist. Õpilast suunatakse oma tegevust verbaalselt või alternatiivsete vahenditega kommenteerima</p></td><td><p>Kujundatakse iseseisva kunsti- ja käsitöö oskusi.</p><p>Tööd teostatakse näidise, lihtsate tööjuhiste, skeemide jms järgi.</p><p>Harjutatakse toimingute suunatud planeerimist.</p><p>Õpilane sooritab õpitud ja jõukohaseid tegevusi iseseisvalt nii tuttavates kui ka varieeruvates tingimustes.</p><p>Suunatakse teostama enesekontrolli, valminud tööd võrreldakse näidisega.</p><p>Õpilane õpib leidma ja valima iseseisvalt tööks sobivaid materjale ja töövahendeid ning otsustama töö tegemise viisi.</p><p>Õpilast suunatakse iseseisvalt korras hoidma oma töökohta ja -vahendeid.</p><p>Õpilane hakkab oma tundeid vastavalt võimetele kunstis väljendama.</p><p>Vaadeldakse kaaslaste töid, külastatakse kunstinäitusi ja muuseume. Oluline on enda ja teiste loomingust esteetilise elamuse saamine.</p><p>Taotletakse, et õpilane lõpetab alustatud töö. Õpilast suunatakse andma hinnangut enda ja teiste tegevusele ja valmis tööle.</p><p>Õpilane kommenteerib suunamisel oma tegevust verbaalsete/alternatiivsete vahenditega.</p></td></tr></tbody></table>"
+        }
+      ]
+    }
+  ]
+}

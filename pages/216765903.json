@@ -1,0 +1,144 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpetamine osatoimingute kaupa ehk osaoskuste kujundamine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitoimingu struktuur",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitoimingu keerukuse määrab ära õpitoimingu struktuur (osatoimingute hulk ja järjekord) ning omandatus (omandatud osatoimingute liitumine ja automatiseerumine). Õpetamisel on oluline kujundada osatoiminguid nende loogilises järjekorras. See tähendab, et õpilane omandab osaoskusi, vajades selleks rohket - sobivas mahus ja tempos harjutamist.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Näide",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Selleks, et osata mõõta 7 cm pikkust sirglõiku, tuleb õpilasel omandada järgmised osatoimingud (osaoskused):</p><ul><li>oskus kasutada mõõtmisel joonlauda, sh oskus paigutada joonlaud mõõdetava lõigu juurde nii, et joonlaua alguspunkt ühtiks sirglõigu otspunktiga;</li><li>oskus mõõta joonestatud lõigu pikkust; tajuda õigesti joonlaual kujutatud ühikuid;</li><li>oskus leida mõõtmistulemuse kirjeldamiseks sobiv mõõtühik (antud juhul sentimeeter);</li><li>mõõtmistulemuse kirjalikul fikseerimisel on vajalik ka oskus kirjutada numbreid ning valida/teada mõõtühikute lühendeid.</li></ul><p>Olulised on veel mitmed baasoskused. Näiteks praktiline kujutlus mõõtmistegevusest, mõõtmine sammude või kehaosadega, kujutlus arvureast ning arvudele vastavatest hulkadest jne.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Osatoimingute liitumine õppimise käigus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lihtsustatud õppes on õppimise algetapil oluline õpitava toimingu jaotamine võimalikult suureks hulgaks osatoiminguteks ehk õpetamine-õppimine peab toimuma <strong>väikeste sammude kaupa.</strong> (Erimetoodikas nimetatakse ka <em>hargnenud osatoimingud</em>.) Harjutamise käigus toimub järkjärgult osatoimingute ühendamine, st et õpilane suudab korraga rakendada juba mitut omandatud osaoskust. Õppeprotsessis on oluline pidevalt jälgida, milline osaoskus vajab õpilasel veel kujundamist või harjutamist ning sellest lähtudes tuleb pakkuda vajalikku õpetust või tuge.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Näide",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Osatoimingute liitumine on hästi jälgitav sõnade kirjutamisel. Oskajal kirjutajal on vajalikud osatoimingud automatiseerunud ning ta sooritab neid ühendatult: analüüsib sõna häälikkoostist (st sõnas olevad häälikud ja nende järjekord), eristab häälikute rühmi, fikseerib häälikute pikkused ja kasutab tähekasutusreegleid, kontrollib oma tulemust. Lisaks rakendab oskuslik kirjutaja samal ajal ka teisi õpitud õigekirjareegleid (nt suur algustäht jt).</p><p>Kirjutama õppimise algetapil on vaja osatoiminguid õppida-harjutada esialgu eraldi (ehk hargnenud osatoimingutena) ning vastavalt oskuse kujunemisele neid järk-järgult ühendada. Näiteks hargnenult: 1) õpilane häälib sõna ja laob sümbolitega selle häälikkoostise, 2) häälib sõna uuesti ja asendab eelnevad sümbolid värvilistega, st fikseerib häälikute rühmad. Oskuste arenedes suudab õpilane sooritada samu õpitegevusi ühendatult: häälib sõna ja ning laob koheselt värvilised sümbolid.</p><p>LÕ-õpilastel kestab hargnenud osatoimingute periood palju pikemat aega; see mõjutab õppetundide ülesehitust ning -meetodite valikut. Rohkeks harjutamiseks on vaja jõukohast materjali, olulist rolli mängib seejuures sõnade keerukus (pikkus, häälikkoostis) ning tuttavlikkus.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Keerukuse (raskusastme) täpne reguleerimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mida uudsem või keerulisem on õpitav teema, seda lihtsam ning tuttavam peab olema õpitoiming. See tähendab, et vajalik on kasutada tuttavaid ülesandetüüpe või rakendada juba õpitud osaoskusi.</p><p>Kui aga õppimise käigus on vaja lahendada esmakordselt keerulist tüüpi mitme osatoiminguga ülesannet, siis tuleb jälgida, et õppeaine teema oleks selle ülesande puhul sisuliselt mõistetav või juba omandatud.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Näide",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Korrutamise õppimist alustatakse ühekohaliste arvudega. Tulevikus lisanduvad kahe- ning enamakohalised arvud raskusastme järjestuse kindlatel põhimõtetel, arvutamisel rakendatakse eelnevalt õpitud osaoskusi ehk korrutustabelit. Harjutamiseks valitakse esialgu kõige lihtsamat tüüpi ülesanded, milleks on ühetehteliste avaldiste lahendamine. Alles hiljem lahendatakse mitmetehtelisi avaldisi, kus tuleb kasutada õpitud arvutusoskusi, jälgida tehete järjekorda ning arvestada sulgudega.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mitmeosaliste õpiülesannete sooritamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Mitmeosaliste õpiülesannete sooritamisel on vaja õpetajal jälgida, kuidas on õpilasel omandatud erinevad osaoskused ning missugune on õpilase kognitiivne paindlikkus. Oluline on arvestada, mitut osaoskust suudab õpilane korraga rakendada ning kui suur on seejuures tema iseseisvus. Sellest lähtuvalt varieerub õpetaja osaluse maht ning abivahendite kasutamine.</p>"
+                },
+                {
+                  "kind": "section",
+                  "title": "Näide",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Eesti keele harjutus sisaldab lauseid, milles on tähelünkadega sõnad (tööjuhis: <em>Kirjuta lünka r või rr</em>). Hea lugemis- ja kirjutamisoskusega õpilane suudab korraga sooritada mitu osatoimingut, st ta loeb lause, saab sellest aru, kirjutab lünka tähed ja kontrollib oma tulemust. Näiteks 2.-4. klassi LÕ-õpilasele on jõukohane sooritada sama harjutust osatoimingute kaupa:</p><ol><li>Õpetaja juhendamisel loeb õpilane häälega kõik laused - oluline on saavutada ladus lugemine, mis toetab lause tähenduse mõistmist. Iga lause kohta esitab õpetaja mõistmist toetavaid küsimusi, kujundab/täpsustab õpilase sõnavara.</li><li>Õpetaja suunamisel (vajadusel abiga) loeb õpilane lüngaga sõna, muudab ja määrab hääliku pikkust (sobiva abivahendi toel) ning mälu toetamiseks märgib lünga kohale pikkusmärgid või skeemi numbri. (Selline märkimine toetab tal hiljem iseseisvat tegutsemist abivahendi toel.)</li><li>Õpilane kirjutab lünka sobivad tähed (r või rr).</li><li>Õpilane kontrollib oma tulemust (vajadusel õpetaja suunamisel), nt loeb vastavalt kirjapildile, kontrollib tähekasutust eelnevalt märgitud pikkusmärkide või skeemide järgi.</li></ol>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tugi osatoimingute omandamisel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpetaja ülesanne on pakkuda nii osatoimingute omandamisel kui ka terviktoimingu harjutamisel-kujunemisel õpilasele vajalikku tuge.</p><p>Õpilasi toetavad ülesannete täitmisel samm-sammulised tööjuhised ehk <strong>tööjuhise algoritmiline esitus</strong>. Noorematele õppijatele esitab õpetaja vastavaid juhiseid suuliselt. Õpilaste lugemisoskuse arenedes on võimalik kasutada kirjalikke algoritme. Harjutamise käigus muutuvad juhised järjest kokkuvõtlikumaks, näiteks lõpuks esitatakse tegevusplaan ainult mälu toetavate sümbolitega.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Näide",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Lausetes on vaja kasutada tegusõnu umbisikulise tegumoe mineviku vormis (nt lause: Käsitöötunnis (õmblema) ... ja (kuduma) ... .)</p><p>Õpetamise algetapil harjutatakse sõnavormide moodustamist samm-sammuliselt (vt edasi &quot;Teen nii&quot; ja näited). Taju ja mälu toetamiseks on näidete puhul vajalik kasutada visuaalset tuge, seejuures vajavad erinevad õppijad oluliste detailide rõhutamist erineval viisil (võrdle näide 1 ja näide 2).</p><p>Erinevad õppijad omandavad oskuse erinevas tempos, st järgnevalt tegutsedes vajavad nad erineval tasemel abi.</p><p>A. Õpetaja aitab analüüsida lauset (tegijat ei ole teada, tegusõna on umbisikulise tegumoes) ning esitab sõnavormi küsimuse <em>mida tehti?.</em></p><p>B. Õpilane vajab õpiülesande täitmiseks samm-sammulist juhist: algoritm &quot;Teen nii&quot; koos näidetega.</p>"
+                },
+                {
+                  "kind": "table",
+                  "html": "<table><thead><tr><th>Teen nii</th><th>Näide 1</th><th>Näide 2</th></tr></thead><tbody><tr><td><p>1. Moodustan tegusõnast tud-sõnavormi: <em>mida on tehtud?</em></p><p>2. Eraldan sõnatüve ja tunnuse. (____tud, ____dud)</p><p>3. Sõnatüvele lisan umbisikulise tegumoe tunnuse -ti või -di.</p></td><td><p>on kraabitud       on õmmeldud</p><p>on kraabi/tud     on õmmel/dud</p><p>     kraabi/ti          õmmel/di</p></td><td><p>on kraabitud        on õmmeldud</p><p>on <u>kraabi</u>/<strong>tud</strong>      on <u>õmmel</u>/<strong>dud</strong></p><p>     kraabi/<strong>ti</strong>          õmmel/<strong>di</strong></p></td></tr></tbody></table>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Sobivate õppemeetodite valik",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpetamisprotsessis on õpetajal võimalik valida erinevaid õppemeetodeid. LÕ-õppes kasutatakse palju <strong>otsest õpetamist</strong>, mille puhul toimub õpitu omandamine järgmiste etappide käigus: sissejuhatus ja kordamine, arusaamise kujundamine, harjutamine õpetaja juhendamisel, iseseisev harjutamine.</p><p>Arusaamise kujundamisel sobib LÕ-õpilastele meetod <strong>näide → reegel/üldistus</strong> (mitte vastupidi).</p><ul><li>Õpitava tutvustamine algab praktilise ülesande ehk vaatlusharjutusega, st õpilasele esitatakse näide ja toimub selle analüüs õpetaja juhendamisel. Sel viisil kujundatakse õpilastel praktiline arusaamine õpitavast, mille kokkuvõtteks sõnastatakse või loetakse reegel. Seejuures on vajalik õpetaja tugi, nt aitab oma küsimuste-korraldustega sõnastada kokkuvõtet, suunab küsimustega reegli-teksti analüüsi, st tagab mõistmise.</li><li>Näide (või tegutsemise eeskuju) on oluline ka töötamisel tuttava materjaliga, st varem õpitu meenutamisel. Näiteks eelteadmiste aktiveerimiseks esitab õpetaja küsimuse &quot;Mis on otsekõne?&quot;. LÕ-õpilase jaoks on see liiga verbaalne ega tekita tal oodatud mälukujutlusi. Vajalik on näide ning selle analüüsiks õpetaja küsimused, mis toetavad õpitu meenutamist. Näiteks lause, mis sisaldab otsekõne või võrdlevalt kaks lauset: <em>Ema palus, et ..</em>. ja <em>Ema palus: &quot;...!&quot;</em>); õpetaja küsimused: <em>Mitmendas lauses on otsekõne? Mille järgi tunned ära otsekõne?</em></li></ul><p>Iseseisva töö alustamist on vajalik samuti toetada <strong>praktilise näitega</strong> (nt tegutsemine koostegevuses). Vastavalt õpilase võimekusele on vajalik selliselt üks kuni mitu näidist, seejärel suudab õpilane eeldatavasti ise jätkata sarnasel viisil.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Korduste vajalikkus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>LÕ-õpilaste õpiprotsessis võib sageli ilmneda näiteks järgmine olukord. Õppetunni algul korratakse teemat ning õpilane teeb hindelise töö (oskab vastata). Sellele järgneb uue teema käsitlemine, mille käigus õpetaja suunab pidevalt meenutama eelnevat. Seejuures ilmneb olukord, et õpilane ei oska vastata. Tõenäoliselt pole õpilasel vastavad teadmised siiski veel kindlalt kujunenud, ta oskas neid esitada vaid kindlas olukorras ning kindlal viisil.</p><p>Selleks, et LÕ-õpilasel õpitu automatiseeruks ning õpilane suudaks omandatut rakendada mingis teises olukorras või mõne teise toimingu koosseisus, on vajalik rohke ja järjepidev kordamine ning harjutamine erinevat tüüpi ülesannete lahendamisega. See on vajalik nii ühe õppetunni piires (õpitavat teadmist/oskust laiendatakse järk-järgult sobivas mahus) kui pikema perioodi jooksul.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Näited",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>LÕ-õpilastele ei jää näiteks meelde kuude nimetused ja nende järjekord. Seetõttu on vajalik <strong>järjepidev kordamine</strong>. Näiteks toimub igal hommikul nädalapäeva ja kuu nimetamine. Õppeaasta jooksul (erinevatel ajahetkedel) käsitletakse erinevate aastaaegadega seotud teemasid, kusjuures iga kord korratakse jälle ka kuude nimetusi.</li><li>Terviktoimingu harjutamisel on vaja esmalt <strong>meenutada-korrata selle koostisesse kuuluvaid osatoiminguid</strong>. Näiteks enne kahekohalise arvu kirjalikku liitmist-lahutamist on sama ainetunni kordavas etapis vaja teha arvutamist 20 piires. Seda võib teha nt välkarvutamisena, kus õpilased leiavad tehtekaartidel olevate avaldiste väärtused.</li><li>Lihtsustatud õppes kehtib <strong>kontsentrilisuse</strong> ehk <strong>spiraalsuse põhimõte</strong> - õpetamine toimub kontsentritena; üks ja sama teema kordub mitmel korral õppeaasta jooksul või koguni igal õppeaastal. Seejuures on oluline, et ühe ja sama teema käsitlemise raskusaste tõuseb jõukohaselt:<ul><li>vajalik on muuta õppematerjali, nt järgneval korral valitakse keerulisem ja mahukam materjal, kasutatakse teistsuguseid näitvahendeid;</li><li>sobiva õpetuse tulemusel on võimalik vähendada abistavate võtete kasutamist, mistõttu suureneb õpilaste iseseisvus, õppimise teadlikkus ja õppetegevuse üldistatuse aste (Karlep, <a href=\"https://core.ac.uk/download/pdf/79113963.pdf\">1999</a>, lk 213).</li></ul></li></ul>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

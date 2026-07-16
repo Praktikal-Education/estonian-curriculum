@@ -1,0 +1,66 @@
+{
+  "source": "Verified against the national-curriculum legal act (Riigi Teataja). Every act learning outcome maps to the data (directly, or in reworded/grade-split form counted as partial); outcomes OKMV omitted entirely are backfilled verbatim from the act (tagged riigiteataja). No act outcome is absent.",
+  "method": "exact-text pre-filter + per-subject semantic match + whole-curriculum fuzzy reclassification",
+  "contentCoverage": {
+    "note": "The 2023 reform act is competence-based and prescribes no õppesisu for core subjects (content selection is delegated to the school/teacher). Prescribed õppesisu exists only for the optional courses; for those, the act's course description, aims, õppesisu and assessment are combined onto the course. Each core subject's 'taotletavad teadmised, oskused ja hoiakud' (competence targets) is verified against our material like the outcomes are.",
+    "competenceTargets": {
+      "checked": 610,
+      "covered": 588,
+      "partial": 22,
+      "gap": 0
+    },
+    "fieldGeneralProvisions": {
+      "note": "Each ainevaldkond appendix opens with field-level general provisions (1. Üldalused: valdkonnapädevus, arvestuslik maht, kirjeldus ja valdkonnasisene lõiming, valdkonnaülene lõiming, õppe kavandamine, hindamine, õppekeskkond). Every core ainevaldkond page (põhikool 8 fields, gümnaasium 7) was checked section by section against the act; sections the act prescribes but our material lacked are backfilled verbatim from the act (with an Allikas link). The most common gap was 1.2 arvestuslik maht (the course/lesson-hour tables).",
+      "scope": "põhikool + gümnaasium",
+      "checked": 105,
+      "covered": 59,
+      "partial": 24,
+      "backfilled": 22
+    },
+    "simplifiedGeneralProvisions": {
+      "note": "The simplified curricula (lihtsustatud/LÕK, toimetulek/TÕK, hooldus/HÕK) have no ainevaldkonnad; their general part is a single curriculum-level üldosa (õppe- ja kasvatuseesmärgid, pädevused, taotletavad pädevused arengutasemeti, õppekorraldus, hindamine). Each track's act general part was checked section by section against our üldosa. No section is absent: the descriptive/methodological provisions are present in our OKMV õppeprotsesside kirjelduste üldosa, and the act's staged 'taotletavad pädevused arengutasemeti' are realised through the per-subject/per-tegevusvaldkond õpitulemused, which are themselves verified complete against the act. The remaining differences are our more concise renderings (counted partial).",
+      "scope": "lihtsustatud + toimetulek + hooldus",
+      "checked": 33,
+      "covered": 23,
+      "partial": 10,
+      "backfilled": 0
+    }
+  },
+  "curricula": {
+    "pohikool": {
+      "actOutcomes": 2110,
+      "covered": 2036,
+      "partial": 74,
+      "missing": 0,
+      "backfilled": 28
+    },
+    "gumnaasium": {
+      "actOutcomes": 1700,
+      "covered": 1389,
+      "partial": 311,
+      "missing": 0,
+      "backfilled": 285
+    },
+    "lihtsustatud": {
+      "actOutcomes": 1528,
+      "covered": 1379,
+      "partial": 149,
+      "missing": 0,
+      "backfilled": 104
+    },
+    "toimetulek": {
+      "actOutcomes": 400,
+      "covered": 376,
+      "partial": 24,
+      "missing": 0,
+      "backfilled": 26
+    },
+    "hooldus": {
+      "actOutcomes": 52,
+      "covered": 35,
+      "partial": 17,
+      "missing": 0,
+      "backfilled": 19
+    }
+  }
+}

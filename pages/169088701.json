@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Eesti keele õpetuse peamine ülesanne",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Eesti keele õpetuse peamine ülesanne on toetada õpilaste kõne arengut, rõhutades eriti kõnest arusaamise kujundamist.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Eesti keele õpetamisega taotletakse, et põhikooli lõpuks õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kuulata ja kõnele adekvaatselt reageerida",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb dialoogis ja väljendab oma mõtteid kuulajale arusaadavalt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab oma tegevust kõne abil, kommenteerib ning hindab seda, reguleerib oma ja teiste tegevust vastavalt üldistele käitumisnormidele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb jõukohast teksti, mõistab selle sisu ja mõtet",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab arusaadavalt, teeb märkmeid, mõistab ja koostab tarbekirja",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on omandanud elementaarse ülevaate eesti keele süsteemist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb põhitermineid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab praktiliselt eesti keele lauseehitust, igapäevast sõnavara ja sõnade muutevorme, saab aru sõnade ja lausete otsesest tähendusest ning oma kogemuste piires ka pragmaatilisest tähendusest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab eesti keelt õpitegevuses ja igapäevases elus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tõlgendab igapäevast lihtsat verbaalset teavet",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ilukirjanduslike tekstide liike, omab elementaarset ülevaadet rahvuskirjandusest ja oskab nimetada mõnda kirjanikku",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ja jälgib oma võimete kohaselt üldinimlikke kõlbelisi arusaamu, valdab vastavat tavasõnavara.",
+          "outcomeType": "attitude"
+        }
+      ]
+    }
+  ]
+}

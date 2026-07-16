@@ -1,0 +1,336 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "V kursus: Funktsioonid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>õppida tundma põhilisi elementaarfunktsioone ja nende graafikuid (lineaarfunktsioon, ruutfunktsioon, pöördvõrdeline seos);</li><li>õppida lugema funktsiooni graafikut ja selle põhjal osata kirjeldada funktsionaalset seost;</li><li>saada hakkama funktsiooni graafiku joonestamisega arvutiprogrammiga (sobivad programmid GeoGebra, Desmos, Wiris, Excel jt).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>erinevate funktsioonide graafikute demonstreerimisel ja joonestamisel kujundatakse ilumeelt ning väärtustatakse kunsti;</li><li>õpipädevust arendatakse varem õpitu sidumisega;</li><li>suhtluspädevust arendatakse graafikute ja tabelite lugemise kaudu;</li><li>matemaatikapädevuse arenemiseks lisanduvad uued sümbolid;</li><li>funktsioonide graafikute joonestamisega arvutis areneb digipädevus.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisalugemist",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Hindamisel saadakse ülevaade õpitulemuste saavutatusest ja õpilase individuaalsest arengust ning toetatakse selle kaudu õpilase kujunemist positiivse minapildi ja adekvaatse enesehinnanguga ennastjuhtivaks õppijaks.</li><li>Hindamise tulemusena/abil saab õpilane tagasisidet oma edenemise kohta õppimisel ja õpistrateegiate valikuteks.</li><li>Õpetaja saab teavet õpilase teema omandamise tulemuslikkuse kohta ning sisendit õppetegevuse arendamiseks.</li><li>Hindamisel rakendatakse nii diagnostilist, kujundavat kui ka kokkuvõtvat hindamist, mida esitatakse nii sõnaliste ja kirjalike hinnangute kui ka numbriliste hinnetena.<ol><li>Diagnostilise hindamise käigus selgitatakse välja õpilaste eelteadmiste ja oskuste tase, ainealased väärarusaamad ja spetsiifilised õpiraskused, et kavandada järgnevat õppimist ja õpetamist.</li><li>Õppeprotsessi käigus rakendatakse kujundavat hindamist, kus õpilane saab suulist ja kirjalikku tagasisidet oma õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta.</li><li>Kokkuvõttev hindamine toimub üldjuhul õppeperioodi või mahuka õppeteema lõpul, et kontrollida nii õppetöös püstitatud eesmärkide kui ka riikliku õppekavaga sätestatud õpitulemuste saavutatust.</li></ol></li><li>Õpilasele on õppeprotsessi alguses teada, mida ja millal hinnatakse, milliseid hindamisvahendeid kasutatakse ning millised on hindamise kriteeriumid.</li><li>Kirjalikke ülesandeid hinnates arvestatakse eelkõige töö sisu, kuid pööratakse tähelepanu ka õpilase keelekasutusele, sh erialaste terminite õigele kasutusele ja õigekirjale, mis üldjuhul ei mõjuta tööle antavat hinnangut ja hinnet.</li><li>Õpet kavandades ning sellest tulenevalt ka hinnates võetakse aluseks tunnetuslikud protsessid: 1) faktide, protseduuride ja mõistete teadmine (meenutamine, äratundmine, info leidmine, arvutamine, mõõtmine, klassifitseerimine/järjestamine jmt); 2) teadmiste rakendamise oskus (meetodite valimine, matemaatilise info eri viisidel esitamine, modelleerimine, rutiinsete ülesannete lahendamine jmt); 3) arutlemisoskus (põhjendamine, analüüs, süntees, üldistamine, tulemuste hindamine jmt).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>matemaatika kitsas I, II ja III kursus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>A – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;<br>B – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;<br>C – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "FUNKTSIOONID",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab funktsiooni mõistet ja üldtähist ning funktsiooni käigu uurimisega seonduvaid mõisteid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "skitseerib ainekavaga fikseeritud funktsioonide graafikuid (paberil ning arvutil) ja kirjeldab funktsiooni graafiku järgi funktsiooni peamisi omadusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "section",
+              "title": "Oskuste ja teadmiste täpsustused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "tunneb funktsiooni üldist mõistet kui seost $y=f(x)$, milles iga sõltumatu muutuja väärtusele $x$ vastab üks kindel sõltuva muutuja väärtus $y$;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "oskab lugeda funktsiooni graafikult määramis- ja muutumispiirkonda;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "leiab valemiga esitatud funktsiooni määramispiirkonna;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "oskab graafiku põhjal öelda, kas funktsioon on paaris paaritu või mitte kumbki;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "oskab funktsiooni graafiku põhjal funktsiooni uurida;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "leiab ainekavale vastavate funktsioonide nullkohti, positiivsus- ja negatiivsuspiirkondi.",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "teab, et eksponent- ja logaritmfunktsioon on teineteise pöördfunktsioonid;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "teab arvu logaritmi mõistet ja selle omadusi ning logaritmib ja potentseerib lihtsamaid avaldisi;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "lahendab lihtsamaid eksponent- ja logaritmvõrrandeid astme ning logaritmi definitsiooni ja logaritmi omaduste vahetu rakendamise teel;",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "saab aru liitprotsendilise kasvamise ja kahanemise olemusest ning lahendab selle järgi lihtsamaid reaalsusega seotud ülesandeid;",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "lahendab graafiku järgi trigonomeetrilisi põhivõrrandeid etteantud lõigul.",
+                  "outcomeType": "skill"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Funktsioonid $y=ax+b, \\quad y=ax^2+bx+c, \\quad y=\\dfrac{a}{x}$ (kordavalt).</p><p>Funktsiooni mõiste ja üldtähis.<br>Funktsiooni esitusviisid. Funktsiooni määramis- ja muutumispiirkond.<br>Paaris- ja paaritu funktsioon. Funktsiooni nullkohad, positiivsus- ja negatiivsuspiirkond.<br>Funktsiooni kasvamine ja kahanemine.<br>Funktsiooni ekstreemumkohtade ja -punktide leidmine. Funktsiooni ekstreemumid.</p><p>Funktsioonid $y=ax^n \\quad (n=1, 2, -1, -2)$ ja $y=\\log_a x$.<br>Arvu logaritmi mõiste.<br>Korrutise, jagatise ja astme logaritm.<br>Logaritmimine ning potentseerimine (mahus, mis võimaldab lahendada lihtsamaid eksponent- ja logaritmvõrrandeid).<br>Pöördfunktsioon.<br>Lihtsamad eksponent- ja logaritmvõrrandid.<br>Liitprotsendiline kasvamine ja kahanemine.<br>Näiteid mudelite kohta, milles esineb $e^{ax}$.</p><p>Mõisted $\\arcsin m, \\quad \\arccos m$ ja $\\arctan m$.<br>Lahendab lihtsamaid trigonomeetrilisi põhivõrrandeid graafiku järgi etteantud lõigul.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused õpitulemuse saavutamiseks (eelteadmised, kõige olulisem, mis on vajalik õpilasele edasi liikumiseks, metoodilised soovitused)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Alustuseks või meelde tuletuseks veidi lugemist selle kohta <strong>kuidas matemaatikat õppida</strong> – <a href=\"https://miinor.wordpress.com/kuidas-matet-oppida/\">https://miinor.wordpress.com/kuidas-matet-oppida/</a></p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Funktsioonide käsitlemist alustatakse põhikoolis õpitud lineaar- ja ruutfunktsioonist ning funktsioonist $y=\\dfrac ax$ ja nende graafikutest.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Funktsiooni esitusviisidest vaadeldakse valemit, tabelit ja graafikut. Funktsiooni määramispiirkonna leidmine seotakse võrratuste lahendamisega. Funktsiooni paarsust vaadeldakse selle omadusega konkreetsete funktsioonide graafikutest lähtudes. Kui klassi tase võimaldab, siis võib funktsiooni paarsust määrata ka valemi põhjal.</p><p>Funktsiooni nullkohtade, positiivsus-, negatiivsus-, kasvamis- ja kahanemispiirkondade ning ekstreemumkohtade leidmiseks kasutatakse funktsioonide valmisgraafikuid. Seal, kus võimalik, leitakse vastavad punktid ja piirkonnad ka algebraliselt, lahendades vastavaid võrrandeid ja võrratusi. Funktsioonidest $y=ax^{n}$ on ainekavas mainitud funktsioonide kõrval soovitatav vaadelda lähemalt kuupfunktsiooni. Selle omadusi selgitatakse valmisgraafikute põhjal.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Erilist tähelepanu tuleks pöörata logaritmi mõiste omandamisele.<br>Eksponentfunktsiooni võiks vaadelda liitprotsendilise muutumise käsitlemise kaudu. Kõigist eksponentfunktsioonidest peab pöörama suuremat tähelepanu funktsioonile $y=e^x$. Logaritmfunktsiooni käsitlemise eel on mõistlik esitleda pöördfunktsiooni ja defineerida logaritmfunktsiooni eksponentfunktsiooni pöördfunktsioonina. Matemaatika kitsas kursuses ei ole pöördfunktsiooni muudel juhtudel vaja käsitleda.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Logaritmi definitsioon peab väga hästi selgeks saama. Alustada tuleks lihtsatest näidetest, nt $2^3=8$ ja $3=\\log_2 8$. Õpilane peab aru saama, et logaritmi abil leitakse astendajat. Arvu logaritmi mõiste ja korrutise, jagatise ning astme logaritmimise reeglid võib esitada enne logaritmfunktsiooni käsitlemist. Logaritmitakse ja potentseeritakse avaldisi, millega opereerimise oskust on vaja üksnes lihtsaid võrrandeid lahendades.<br>Liitprotsendilist muutumist ning eksponent- ja logaritmvõrrandeid käsitledes lahendatakse rahandusülesandeid.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mõisted $\\arcsin m, \\quad \\arccos m$ ja $\\arctan m$ on soovitatav tutvustavalt käsitleda kalkulaatori kasutamiseks. Trigonomeetriliste võrrandite lahendeid otsitakse etteantud lõigul, kasutades (arvutil konstrueeritud) joonist. Soovitav on lasta käsitsi joonestada funktsioonide $y=\\sin x, \\quad y=\\cos x, \\quad y=\\tan x$ graafikud, lisaks uurida, mis juhtub graafikutega lihtsamate graafiku teisenduste tulemusel ($y=f(x)+a$ või $y=af(x)$)</p><p>Harjutamise eesmärgil on hea kasutada varasemate aastate riigieksamite ülesandeid, sest need on (tavapärasest) pikema tekstiga ning neis on sageli kombineeritud erinevate kursuste teadmisi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19437-1-Funktsiooni-moiste-ja-esitusviisid",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19437-1-Funktsiooni-moiste-ja-esitusviisid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19448-2-Funktsiooni-maaramis-ja-muutumispiirkond",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19448-2-Funktsiooni-maaramis-ja-muutumispiirkond"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19460-3-Paaris-ja-paaritu-funktsioon",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19460-3-Paaris-ja-paaritu-funktsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19490-4-Funktsiooni-nullkohad-Positiivsus-ja-negatiivsuspiirkond",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19490-4-Funktsiooni-nullkohad-Positiivsus-ja-negatiivsuspiirkond"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19491-5-Funktsiooni-kasvamine-ja-kahanemine",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19491-5-Funktsiooni-kasvamine-ja-kahanemine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19492-6-Funktsiooni-ekstreemumkohad-Funktsiooni-uurimine",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19492-6-Funktsiooni-ekstreemumkohad-Funktsiooni-uurimine"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19494-7-Astmefunktsioonid",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19494-7-Astmefunktsioonid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19504-8-Liitprotseendid",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19504-8-Liitprotseendid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19506-10-Eksponentfunktsioon",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19506-10-Eksponentfunktsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19507-11-Arvu-logaritm",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19507-11-Arvu-logaritm"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19508-12-Logaritmfunktsioon-eksponentfunktsiooni-poordfunktsioonina",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19508-12-Logaritmfunktsioon-eksponentfunktsiooni-poordfunktsioonina"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19509-13-Lihtsamaid-logaritmvorrandeid-Rakendusulesanded",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19509-13-Lihtsamaid-logaritmvorrandeid-Rakendusulesanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19510-14-Lihtsamaid-eksponentvorrandeid-Rakendusulesanded",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19510-14-Lihtsamaid-eksponentvorrandeid-Rakendusulesanded"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19568-15-Arkussiinus",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19568-15-Arkussiinus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19569-16-Arkuskoosinus",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19569-16-Arkuskoosinus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19572-19-Lihtsamaid-trigonomeetrilisi-vorrandeid",
+              "title": "https://e-koolikott.ee/et/oppematerjal/19572-19-Lihtsamaid-trigonomeetrilisi-vorrandeid"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine (k.a näidisülesanded või kirjeldused õpitulemuste erineval tasemel saavutamisest), A, B, C tasemed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p><p>Õppimist toetavast hindamisest vt lähemalt <a href=\"https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/\">https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/</a></p><p><strong><em>Vt lisaks näiteülesandeid lehekülje allosas</em></strong></p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ainesisene lõiming: funktsiooni määramispiirkonna leidmine seotakse võrratuste lahendamisega.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>majandus, pangandus (liitprotsendiline kasvamine ja kahanemine). Eksponent- ja logaritmfunktsiooni rakendused rahvastikuteaduses, füüsikas, bioloogias, geograafias, rahanduses ja muudes eluvaldkondades. Liitprotsendilise kasvamise ja kahanemise rakendamine majanduses, panganduses.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Läbivad teemad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>tehnoloogia ja innovatsioon (digivahendite kasutamine); tervis ja ohutus (erinevate graafikute vaatlemine vastavate andmestike kohta); kodanikualgatus ja ettevõtlikkus (demograafia, majandus ja pangandus – liitprotsendiline kasvamine ja kahanemine); elukestev õpe ja karjääri kujundamine (abstraktse ja loogilise mõtlemise areng); kultuuriline identiteet (matemaatika ajalugu); väärtus ja kõlblus (süstemaatilisuse, püsivuse, täpsuse, korrektsuse ja kohusetunde arendamine); teabekeskkond ja meediakasutus (erinevate andmete leidmine eksponent- ja logaritmfunktsioonide rakendustele erinevates eluvaldkondades).</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454358/kitsas_mat_V_kursus_n2iteyl.docx?version=1&modificationDate=1706621733450&api=v2",
+          "title": "kitsas_mat_V_kursus_n2iteyl.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454358/kitsas_mat_V_kursus_n2iteyl.pdf?version=1&modificationDate=1706621733437&api=v2",
+          "title": "kitsas_mat_V_kursus_n2iteyl.pdf"
+        }
+      ]
+    }
+  ]
+}

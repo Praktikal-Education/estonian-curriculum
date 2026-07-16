@@ -1,0 +1,915 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Inimene uurib loodust",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "sõnastab uurimisprobleeme ja -küsimusi ning hüpoteese, mida saab katse või vaatluse kaudu uurida (kontrollida), plaanib ja korraldab koos kaaslastega katseid, kogub andmeid, vormistab tulemused tabelite ja joonistena",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb andmete põhjal kehtivaid järeldusi, esitab tulemused (sh digitaalselt)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab katses sõltumatu ja sõltuva muutuja",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab kõrvalmuutujate kontrollimise vajadust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab korduskatsete ja kontrollkatsete vajadust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib kogutud andmete usaldusväärsust ning järelduste kehtivust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab teaduslikke teadmisi mitteteaduslikest teadmistest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb loodusteaduste ja tehnoloogia arengu ning tähtsuse üle igapäevaelus ja ühiskonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid nende vastastikuste seoste kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõõdab või määrab kujundi pindala, keha ruumala",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Loodusteadused ja tehnoloogia.</li><li>Teaduslik meetod.</li><li>Uurimuse etapid.</li><li>Vaatlus ja katse.</li><li>Mõõtmine loodusteadustes, mõõteriistad, mõõteühikud, mõõtmistulemuste usaldusväärsus.</li><li>Andmete graafiline esitamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>hüpotees, mõõtmine, füüsikaline suurus, mõõtühik, mõõteriist, pikkus, pindala, ruumala.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>mõõteriistadega (sh digitaalsetega) tutvumine;</li><li>keha pikkuse, pindala ja ruumala mõõtmine, tulemuste usaldusväärsuse hindamine, graafikute koostamine;</li><li>bioloogiliste, geograafiliste või kodulooliste objektide vaatlemine, uurimine, kirjeldamine ja mõõtmine;</li><li>plaani koostamine hoones või maastikul: objektide kandmine plaanile leppemärkidega, vahemaade mõõtmine (silmamõõduline, sammupaariga, mõõdulindiga), suundade määramine.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesmärk on laiendada varasemates klassides õpitut ning näidata, et loodusõpetus koos bioloogia, füüsika, keemia ja loodusgeograafiga moodustab ühtse loodusteaduste valdkonna. Laiemas plaanis on eesmärk tutvustada loodusteaduste ja tehnoloogia olemust, nende omavahelist seotust ning rolli igapäevaelus ning panna noori selle üle mõtlema ja arutlema. Oluline on põhjendada, miks me peame teadust usaldama ja mille poolest teaduslikud teadmised erinevad muud laadi teadmistest ning arusaamadest.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilastele tutvustatakse teadusliku meetodi olemust ja etappe, mis loob eeldused uurimuslike tööde tegemiseks. Erinevalt varasemates klassides õpitust pööratakse nüüd rohkem tähelepanu teadusliku meetodi mitmekesisemale rakendamisele, graafikute koostamisele, tõlgendamisele, uurimistulemuste kehtivuse ja usaldusväärsuse hindamisele, kehade ning nähtuste kvantitatiivsele ehk arvulisele kirjeldamisele. Väga olulisel kohal on õpilaste vaatlusoskuste, täpsuse, põhjalikkuse arendamine, mis on oluliseks nurgakiviks teadusliku suhtumise kujundamisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemat võiks alustada teaduse ja tehnoloogia valdkonna (sh inseneeria) olemuse ja eesmärkide tutvustamisega. Arutleda, mille poolest teadlase töö inseneri või tehnoloogi omast erineb ning mille poolest need on sarnased. Arutleda tasub ka nii teaduse kui ka tehnoloogia arenguga kaasaskäivate hüvede ja väljakutsete üle. Seejuures on oluline, et õpilased ise on kaasatud ideede genereerimisse – näiteks laadib õpilane ühisele platvormile üles foto teadusavastusest või tehnoloogilisest saavutusest, mis tema arvates on muutnud maailma. Õpetaja võib omalt poolt tutvustada näiteks mõnda Eesti väljapaistvat teadusavastust või leiutist.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Oluline on tekitada õpilastes arusaamist, millised aspektid muudavad teaduse usaldusväärseks teadmiste hankimise viisiks, tutvustades ühtlasi teaduslikku meetodit kui levinud viisi usaldusväärsete ja kehtivate järelduste saamiseks. Võrdluseks tuua õpilastele ka lihtsamaid näiteid pseudoteaduste valdkonnast ning koos arutada, mille poolest need erinevad teaduslikest teadmistest (sobivate andmete/juhtumite väljavalimine, ületähtsustamine (näiteks: juba nädal aega on ilm külm, järelikult pole kliima soojenemist olemas), katsete mittekorratavus, väljamõeldud andmed jms). Info(allikate) usaldusväärsuse hindamisel on abiks <a href=\"https://evidence-erasmus.github.io/evidence/et/tools/reliability-assessment\">järgmised kriteeriumid.</a> Info usaldusväärsuse hindamise oskuste arendamiseks vt loodusvaldkonna III kooliastme e-tasemetöö <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=94441997\">näidisülesandeid</a> (vt lehekülje lõpus ülesannet 15 ning vastavat hindamisjuhendit).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Asjakohaste ning katse teel kontrollitavate uurimisküsimusteni jõudmiseks on oluline, et õpilased harjuvad küsimusi küsima, mille eelduseks on uudishimu maailma ning selles toimuvate nähtuste uurimise vastu. See on teadusliku mõtlemisviisi ja -suhtumise tekkeks ülimalt oluline. Uudishimu tekkeks on ühtlasi vajalik anda aega mõelda ja arutleda nii üksi, paaris kui ka rühmas. Küsimuste küsimist võiks praktiseerida läbivalt kõikide teemade lõikes.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Jätkuvalt on oluline tähelepanu pöörata õpilaste vaatlusoskuste kujundamisele, mis eeldab tähelepanu fokusseerimist ning põhjalikkust detailide tuvastamisel. Vaadelda saab materjale, erinevaid kivimeid, setteid (kruus, liiv, savi) jne.</p><p>Õpilased peaksid jõudma mõistmiseni, et kõikides loodusainetes rakendatakse loodusteaduslikku uurimismeetodit. Uurimisküsimuste ning hüpoteeside püstitamise õppimiseks võiks õpetaja tuua näiteid väga hästi püstitatud uurimisküsimustest ja hüpoteesidest ning mitte nii hästi püstitatud hüpoteesidest ja uurimisküsimustest ning siis üheskoos erinevusi analüüsida. Alguses võiks sõnastada hüpoteese ja uurimisküsimusi koos, et õpilased suudaksid neid sõnastada järk-järgult juba ise. Uurimistööde puhul võiks pöörata õpilaste tähelepanu eelkõige uurimuse etappidele ning õigete töövõtete omandamisele, mitte niivõrd lõpptulemusele.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Veel tuleks rõhutada korduskatsete ja kontrollkatsete tegemise vajadust. Alles siis, kui sarnane tulemus kordub mitmes katses, võime seda pidada usaldusväärseks. Katse tegemise ajal ja järel võiks arutleda klassis selle üle, millised tegurid võisid mõjutada tulemuste täpsust ning mõelda, kuidas järgmisel korral saaks täpsust tõsta. Näiteks üheks uurimuslikuks tööks võib olla klassi õpilaste pikkuse ja jalatsinumbri vahelise seose uurimine, kus andmed vormistatakse tabeli ja/või graafikuna.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Mõõtmiste teema juures on oluline, et õpilane eristab füüsikalist suurust (keha omadust, mida saab mõõta, nt pikkus), mõõtühikut (nt 1m) ja mõõteriista (nt joonlaud). Tutvuda erinevate mõõteriistadega koolis, kodus ja nt fotodel (õpikutest või veebist). Oluline on, et õpilane leiab mõõteriistalt mõõtühiku, mõõtepiirkonna, skaala väikseima jaotise ning oskab näitu vaadata. Pikkuse mõõtmisel kasutada mõõdetava objektina iseennast (käte siruulatus, vaks, pöid, samm, küünar jne), õpikut, lauda, aknalauda vms. Praktilise ülesandena mõõta vahemaad ja koostada plaan hoones või maastikul.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keha pindala leidmisel võivad õpilased kasutada matemaatika tunnist tuttava valemi põhjal arvutamist (kaudne mõõtmine), mõõdetavateks objektideks võivad olla tikutoos, õpilase laud, õpiku esikaas jne. Ühikruudu meetodi (otsene mõõtmine) pindala leidmiseks võib kasutada puulehte, käelaba, õpilaspiletit, pangakaarti, münte või mõnda looduslikku objekti kaartidel (nt leida mõne riigi, saare või järve pindala). Keha ruumala mõõtmiseks kasutada sukeldumismeetodit (otsene mõõtmine) ja valemi põhjal arvutamist (kaudne mõõtmine), mõõta võib nii korrapäraseid kui ka korrapäratuid kehi (nt mobiilitelefoni karp, kivi, lusikas, kustukumm, üllatusmunast saadud mänguasjad).</p><p>Esmast tutvust võiks teha mõõtemääramatuse mõistega. Õpilased mõõdavad ühte ja sama objekti (nt koolilaua plaadi pikkuse ja pindala) ning võrdlevad oma mõõtmistulemusi. Oodatav üldistus on, et mõõtmistulemuste erinevus sõltub mõõtmismeetodist, mõõteriistast, mõõtja täpsusest ning objekti olemusest. Analüüsitakse ja võrreldakse erinevate meetodite kasutamist. Enne on soovitatav mõõtmistulemusi ennustada.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ühikute õpetamisel tuleks püüda tekitada õpilastes tunnetuslik arusaamine ühikute dimensioonidest, näiteks lasta hinnata ruumala, joonlaua/klassiruumi pikkust, vihikukaane pindala silma järgi. Hiljem mõõta tulemused ja võrrelda hinnatud ning mõõdetud tulemusi omavahel.</p><p>Ühikute teisendamisele tuleks pöörata tähelepanu kogu õppeaasta vältel. Õpilane teisendab omavahel järgmisi mõõtühikuid:</p><ol><li>pikkusühikud: kilomeeter, meeter, sentimeeter, millimeeter;</li><li>massiühikud: kilogramm, gramm;</li><li>ajaühikud: tund ja sekund.</li></ol><p>Õppetegevuse või -teema lõpus on soovitav lasta õpilastel reflekteerida enda ja rühma poolt läbiviidud õppetegevusi (mis õnnestus, mida teeks järgmisel korral paremini, kuidas toimis rühm jne).</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppe diferentseerimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Erinevate katsete ja uurimuslike tööde tegemine võimaldab õppetöös arvestada õpilaste individuaalsete iseärasustega. Klassis leidub alati õpilasi, kes suudavad oma uurimusliku töö teha teistest kiiremini. Sellised õpilased võivad juhendada vähemvõimekamaid õpilasi. Juhendamine on õppeprotsessi osa. Ka võib uurimistegevused korraldada nii, et õpiraskustega õpilased teevad uurimistöid struktureeritud uurimistöö vormis (täpne juhend on ette antud), tavaõpilased juhendatud (osa uurimistegevustest on ette antud) ning kiiremini edasijõudvad avatud uurimistöö (ette on antud vaid uurimisprobleem või katsevahendid) vormis.</p><p>Ühikute teisendamisel võib edasijõudnud õpilastega teisendada ka kiiruse ja tiheduse ühikuid.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>toob (infootsingu põhjal) näiteid mõne olulise teadusavastuse või tehnoloogilise leiutise kohta, põhjendab oma valikut ning toob välja, missuguseid muutusi see on meie ellu toonud (LT 1, 6; suhtluspädevus);</li><li>valib igapäevaelus kasutatava tehnoloogilise vahendi (nt mobiiltelefoni, televiisori vms) ja otsib infot selle kohta, kuidas seda vahendit on ajas arendatud ning kuidas on selle funktsionaalsus muutunud (LT 1, 5, 7; õpipädevus);</li><li>valib etteantud tegevuste kirjelduste hulgast välja sellised, mille puhul kasutatakse teaduslikku lähenemist ning põhjendab otsust (LT 2; sotsiaalpädevus, suhtluspädevus, õpipädevus);</li><li>tõlgendab/analüüsib/võrdleb õpetaja juhendamisel teaduslikku ja mitteteaduslikku teksti ja annab hinnangu selle usaldusväärsusele (LT 1, 5; sotsiaalpädevus, suhtluspädevus, õpipädevus, digipädevus);</li><li>koostab plakati/juhendi/meemi jms teadusliku teadmise eristamiseks mitteteaduslikust (LT 1; sotsiaalne ja kodanikupädevus, ettevõtlikkuspädevus, õpipädevus);</li><li>püstitab uurimisküsimusi ja hüpoteese etteantud situatsiooni põhjal (LT 4; ettevõtlikkuspädevus, õpipädevus);</li><li>kavandab ja viib läbi uurimusliku töö (LT 4; sotsiaalpädevus, suhtluspädevus, õpipädevus);</li><li>tõlgendab andmeid ja koostab graafikuid (LT 4; digipädevus, õpipädevus);</li><li>analüüsib ja hindab tulemusi (LT 4);</li><li>teeb tulemuste põhjal järeldusi (LT 4; ettevõtlikkuspädevus, õpipädevus);</li><li>teisendab ühikuid (LT 2, 5);</li><li>tuvastab kodus leiduvaid mõõtevahendeid, teeb neist fotod ja selgitab nende kasutusalasid (LT 2; sotsiaalne pädevus, suhtluspädevus, õpipädevus);</li><li>tutvub erinevate mõõteriistadega, leiab neilt mõõtühiku, mõõtepiirkonna, skaala väikseima jaotise ja mõõtetulemuse (LT 2);</li><li>mõõdab kehade/kehaosade pikkust (LT 2, 5);</li><li>leiab etteantud keha pindala nii otsese kui kaudse mõõtmise kaudu (LT 2, 5);</li><li>leiab ebakorrapärase keha ruumala sukeldumismeetodil ja seejärel määrab keha tiheduse (LT 2);</li><li>koostab plaani hoones või maastikul, kannab objektid plaanile leppemärkidega, mõõdab vahemaad ja määrab suunad (LT 2, 5).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Bioloogia: loodusvaatlused, elusorganismide vaatlemine, kirjeldamine, loendamine ja mõõtmine, sh 7. klass teema „Bioloogia uurimisvaldkond“.</p><p>Geograafia: kõrguse, pindala ja vahemaade mõõtmine, plaani koostamine ning mõõtkava rakendamine.</p><p>Matemaatika: mõõtühikud ja nende teisendamine, graafikute joonestamine, erinevate kehade pindala ja ruumala leidmine.</p><p>Tehnoloogiaõpetus: erinevate mõõteriistadega tutvumine ja võimalusel kasutamine, katsevahendite/mõõteriistade valmistamine. Näiteks võib disainida ja valmistada kangkaalude mudeli, joonlaua jmt.</p><p>Eesti keel: teadusliku teksti analüüsimine ja tõlgendamine.</p><p>Kunstiõpetus: töö vormistamine, leppemärkide kujutamine.</p><p>Kehaline kasvatus: sammupaari mõõtmine ja orienteerumine.</p><p>Ajalugu: kultuuriobjektide kirjeldamine ja mõõtmisoskuste kujundamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Enne uue teema juurde asumist tasub välja selgitada õpilaste eelteadmised, igapäevaeluga seotud kogemused ja teemaga seotud arusaamad. Selleks sobivad arutelud ja õpilaste endi esitatud küsimused. Õpilaste (väär)arusaamade ja eelteadmiste mõistmine annab õpetajale infot järgnevate tegevuste planeerimiseks (mis mõisteid, nähtusi, mudeleid on vaja käsitleda). Oluline on, et õpilased julgevad ja tahavad arvamust avaldada, seejuures anda neile kindlasti mõista, et eksimine ja vigade tegemine on täiesti aktsepteeritavad. Uurimisoskuste kujundamise faasis on eriti oluline õpetaja sisukas tagasiside.</p><p>Hindamisobjektideks võivad olla:</p><ul><li>õpimapp;</li><li>uurimistöö protokoll;</li><li>hindeline töö (tunnikontroll) ühikute teisendamise, uurimisküsimuste ja hüpoteeside püstitamise kohta;</li><li>plakat/juhend/meem teadusliku teadmise eristamine mitteteaduslikust;</li><li>ettekanne/esitlus teemal „Kuidas elekter/arvutid/lennuliiklus/ravimid vms on muutnud meie elukeskkonda?“;</li><li>uurimistööd tutvustav plakat või slaidiesitlus.</li></ul><p>Nii õpetaja ja kaaslaste antud tagasiside kui ka õpilase enesehindamise aluseks võiksid õpimapi, uurimistöö, plakati kui ka esitluse korral olla olla hindamiskriteeriumid ning -mudelid, mis muudavad oodatavad õpitulemused õpilastele nähtavamaks.</p><p>Konkreetselt uurimusliku töö hindamismudeli näite võib leida <a href=\"https://docs.google.com/document/d/1qwEsAknqGO8RNiLkT6HhjaU_n9OonHYo/edit?usp=sharing&amp;ouid=104421339666784640445&amp;rtpof=true&amp;sd=true\">siit</a>. Muude hindamisobjektide hindamismudelite jaoks saab rohkelt ideid <a href=\"https://opetaja.edu.ee/hindamismudelid/index.php\">siit.</a></p><p>Kui hinnata esimest kokkuvõtvat kirjalikku tööd numbriliselt, võib eelnevalt teha harjutustöö, millele anda sõnaline tagasiside, et õpilane mõistaks, mida peab veel õppima või milliseid oskusi arendama. Samuti võib teemat kokkuvõtva kirjaliku töö ajal lubada kasutada näiteks õpilase enda koostatud õppematerjali, et anda õpilastele aega ainespetsiifikaga harjumiseks. Uurimuslike ülesannete koostamiseks saab ideid <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=94441997\">loodusainete III kooliastme tasemetöö näidisülesannetest</a> (keri leheküljel allapoole).</p><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@rakettsaade/videos",
+              "title": "Ideid uurimuslikuks õppeks – Rakett69 videod."
+            },
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/2414",
+              "title": "Loodusteaduslik uurimismeetod – E-koolikotis olev õppematerjal."
+            },
+            {
+              "kind": "link",
+              "href": "https://issuu.com/ingridroigas/docs/pohikooli_toolehed_fyysika",
+              "title": "Praktilised tööd III kooliastmes – töölehed."
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/1972",
+              "title": "E-ülesanne loodusteadusliku uurimismeetodi etappide kohta harjutamiseks testide andmekogus (EIS)."
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/1989",
+              "title": "E-ülesanne loodusteaduslik uurimismeetod testide andmekogus (EIS)."
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/1928",
+              "title": "E-ülesanne loodusteadusliku uurimismeetodi kohta harjutamiseks testide andmekogus (EIS)."
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/1958",
+              "title": "E-ülesanne loodusteadusliku uurimismeetodi etappide kohta harjutamiseks testide andmekogus (EIS)."
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/197",
+              "title": "E-ülesanne uurimistulemuste usaldusväärsus testide andmekogus (EIS)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ainete ja kehade mitmekesisus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab, et ained koosnevad aatomitest ja molekulidest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab lihtsamate molekulmudelite põhjal ainete valemeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb mudelite tähtsuse ja piiratuse üle",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab aineid ja materjale nende omaduste (värvuse, tiheduse, sulamis- ja keemistemperatuuri, soojusjuhtivuse) uurimise põhjal ning seostab omadusi nende kasutusaladega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib katseid tehes ohutusnõudeid ning põhjendab nende vajalikkust",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab kindla protsendilise sisaldusega lahuse, toob näiteid lahustite, lahustuvate ainete ja lahuste kohta ning selgitab lahuste tähtsust looduses ning igapäevaelus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahutab segu, kasutades kohaseid meetodeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab aineosakeste vastastikmõjuga tahkiste kuju säilivust ja kõvadust, vedelike voolavust ning gaaside lenduvust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab infot uuritavate ainete, kehade, nähtuste ja protsesside kohta ning hindab allikate usaldusväärsust õpetaja abiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitab uurimise tulemusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "määrab keha/aine tiheduse",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ainete ja kehade koostis: aatom, molekul.</li><li>Keemiline element, perioodilisuse tabel.</li><li>Liht- ja liitained, nende valemid.</li><li>Keemiliste elementide levik.</li><li>Aine olekud.</li><li>Aine tihedus.</li><li>Puhtad ained ja segud, materjalid ja lahused.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>aatom, aatomituum, elektronkate, molekul, puhas aine, segu, lahus, mass, tihedus, liit- ja lihtaine, loodusteaduslik mudel</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>erineva soolasisaldusega lahuste omaduste uurimine (tihedus, jäätumistemperatuur), tulemuste analüüs (graafikute tõlgendamine) ning leitud seoste rakendamine (soolase vee külmumistemperatuur, kehade ujuvus);</li><li>etteantud segu (nt merevee) lahutamine koostisosadeks, kasutades setitamist, nõrutamist, filtrimist, aurustamist, destilleerimist;</li><li>aine/materjali/keha tiheduse määramine;</li><li>molekulide mudelite koostamine, valemite koostamine molekulide mudelite põhjal;</li><li>tindi tuvastamine mustast viltpliiatsist/markerist kasutades paberkromatograafiat.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane õpib loodusnähtusi kirjeldama mikro-, makro- ning sümboltasandil, mis on oluline nii keemia, füüsika, bioloogia kui ka geograafia õppimisel. Tähelepanu pööratakse mudelite olemusele, sh nende piiratusele. Tutvumine keemiliste elementide perioodilisustabeliga võimaldab õpilastel mõista ainete ja kehade mitmekesisust meid ümbritsevas maailmas. Keemiliste elementide leviku kohta info otsimine, võrdlemine ja allikate usaldusväärsuse hindamine aitab kaasa õpilaste kriitilise mõtlemise arendamisele.</p><p>Üks tähtsamaid aspekte puhaste ainete ja segude teema juures on aidata õpilastel mõista mitte ainult segude eraldamise meetodite olemust, vaid ka seda, mis roll on ainete puhastamisel ja segudest eraldamisel meid ümbritsevas maailmas. Lisaks on keemiateemadega tihedalt seotud enim kasutatavad laborivahendid ning ohutusnõuded, mis on olulised baasteadmised.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Süvendatakse õpilaste teadmisi süsteemidest rakk, aine, molekul, aatom, aatomituum ja nendevahelistest seostest. Rõhutada tuleb, et aatomi ning molekuli mõiste on ühtne nii bioloogias, füüsikas kui ka keemias. Õpilastes kujundatakse arusaam, et kõigis loodusaineis kasutatakse nähtuste selgitamiseks mudeleid. Mudelid on reaalsete objektide, protsesside ja nähtuste vähendatud, suurendatud või/ning lihtsustatud esitused.</p><p>Õpilased otsivad infot keemiliste elementide leidumise kohta meie ümber ja uurivad keemiliste elementide sisaldust erinevates keskkondades (merevesi, õhk, maakoor, inimene, kosmos). Tutvumine elementide levikuga aitab õpilastel paremini mõista, et elemendid võivad esineda nii liht- kui ka liitainetena. Neid tegevusi võib korraldada kogu klassiga või iseseisva tööna.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Segude lahutamiseks võivad õpilased teha katse, kasutades setitamist, nõrutamist, filtrimist ning aurustamist. Võimalike segude näited: soola ja liiva segu, toiduõli ja vee segu, soolvesi vms, ent ka looduslik vesi. Eeldatakse, et õpilased (paaris, rühmas) planeerivad õpetaja abiga katse(d) ning viivad ise katsed läbi. Praktiliste tööde tegemise eel ja käigus tuleks võiks arutleda õpilastega, miks on oluline järgida katsete tegemisel ohutusnõudeid.</p><p>Tiheduse määramiseks sobivad igasugused käepärased materjalid: kivi, kartul, metall-lusikas, üllatusmuna mänguasi jne. Lisaks võib anda tundmatust materjalist kehi ning lasta leida tiheduse põhjal, mis materjaliga tegu on.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Aine olekute teema mõistmiseks sobivad hästi erinevad internetist leitavad simulatsioonid, kus õpilased uurivad, kuidas temperatuuri kasvades muutuvad aineosakeste vaheline kaugus ning osakeste liikuvus. Lisaks võib lasta õpilastel teha nende olekute kohta võrdlev tabel/skeem. Arutleda selle üle, mis on erinevatel aine olekutel ühist ja missugused on erinevad omadused.</p><p>Lahuste teema õpetamiseks võib tuua palju elulisi näiteid: füsioloogiline lahus, looduslik vesi, suhkruvesi, limonaad, gaseeritud vesi, äädikas jne. Arutleda, mis nende lahustes on lahustiks ja mis on lahustuvaks aineks. Õpilased toovad näiteid, milliste lahustega nad igapäevaselt kokku puutuvad. Kindla protsendilise sisaldusega lahuse valmistamiseks sobib teha</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/katse_kirjeldus_miks_on_laanemere_vesi_eriline.pdf",
+              "title": "Läänemere veele iseloomuliku soolsusega lahus"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tuua näiteid ka erinevatest lahustitest ja selgitada lihtsate katsetega, millised ained lahustuvad vees ja millised mitte.</p><p>Ainete ja materjalide omaduste (värvus, tihedus, sulamis- ja keemistemperatuur, soojusjuhtivus) teema juures tuua näiteks õpilastele igapäevaelust tuttavad ained (nt toiduõli, raud ja suhkur) ning arutada, missuguste tunnuste alusel neid eristada oskame.</p><p>Õppetegevuse või -teema lõpus on soovitav lasta õpilastel reflekteerida enda ja rühma poolt läbiviidud õppetegevusi (mis õnnestus, mida teeks järgmisel korral paremini, kuidas toimis rühm jne).</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppe diferentseerimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Edasijõudnud õpilastega võib arvutada erinevate materjalide (metallide/lahuste) tihedusi ning lahendada keerulisemaid tiheduse ülesandeid.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>otsib infot keemiliste elementide leidumise kohta meie ümber, nt millest koosnevad kivimid, looduslik vesi, õhk, inimene, kosmos jne; hindab allikate usaldusväärsust; koostab leitud info põhjal mõistekaardi (LT 4; õpipädevus);</li><li>koostab molekulimudelite põhjal ainete molekulvalemeid (LT 2);</li><li>koostab plakati ohutusnõuete kohta keemialaboris (LT 2, 8; õpipädevus);</li><li>uurib simulatsioonide abil aine olekute muutumist molekulaarsel tasandil (LT 1);</li><li>planeerib katse, mille käigus lahutab koos kaaslastega segu kasutades setitamist, nõrutamist, filtrimist ning aurustamist (LT 4, 5; õpipädevus);</li><li>disainib lihtsatest olmes kasutatavatest vahenditest seadme loodusliku vee puhastamiseks ning testib selle tõhusust (LT 4; ettevõtlikkuspädevus);</li><li>hindab enda ja teiste rühmade koostatud veepuhastamise seadet <a href=\"https://drive.google.com/file/d/1YOkMJVby3Dk8iWL9vgmxbzTLzP67fOJB/view?usp=sharing\">etteantud kriteeriumite</a> põhjal; teeb ettepanekuid katsedisaini täiendamiseks (LT 2, enesemääratluspädevus, suhtluspädevus, õpipädevus);</li><li>koostab fotokollaaži/postri ühest olmes või tehnikas kasutatavast segude eraldamise meetodist, selle rakendustest, seotud elukutsetest ning tutvustab oma tööd teistele (LT 2, 8; õpipädevus, suhtluspädevus);</li><li>osaleb õppekäigul reoveepuhastusjaama või loodusteaduste/inseneeriaga seotud ettevõttesse intervjueerides/küsitledes erinevate elualade esindajaid (LT 8; ettevõtlikkuspädevus)</li><li>määrab aine/keha tiheduse sukeldamismeetodil (LT 2, 4);</li><li>valmistab erineva protsendilise koostisega lahuseid (LT pädevus 2 ja 4);</li><li>uurib ja annab ülevaate igapäevaelust tuttavate ainete ning materjalide omaduste kohta (LT 4).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keemia ja füüsika: luuakse eeldused keemiliste elementide sümbolite, perioodilisussüsteemi, aine tiheduse ja agregaatolekute õppimiseks.</p><p>Bioloogia ja keemia: lahustega on seotud protsessid (reaktsioonid) elusorganismides, tervise ja ohutusega seostub mõne lahuse ohtlikkus (alkohol, kodukeemia jmt).</p><p>Matemaatika: seostuvad protsentarvutus, graafiku lugemine, graafiku telgede tähistused.</p><p>Tehnoloogiaõpetus: tehnoloogilised rakendused, nt reovee puhastamine, soola tootmine mereveest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Enne uue teema juurde asumist võiks välja selgitada õpilaste eelteadmised, igapäevaeluga seotud kogemused ja teemaga seotud arusaamad. Selleks sobivad arutelud ja õpilaste endi esitatud küsimused. Õpilaste (väär)arusaamade ja eelteadmiste mõistmine annab õpetajale infot järgnevate tegevuste planeerimiseks (milliseid mõisteid, nähtusi, mudeleid on vaja korrata/käsitleda). Oluline on, et õpilased julgevad ja tahavad arvamust avaldada, seejuures anda neile kindlasti mõista, et eksimine ja vigade tegemine on täiesti aktsepteeritav. Uurimisoskuste kujundamise faasis on eriti oluline õpetaja sisukas tagasiside.</p><p>Hindamise objektideks võivad olla:</p><ul><li>uurimuslike/praktiliste tööde protokollid:<ul><li>ainete ja materjalide omaduste uurimine,</li><li>segude lahutamine, vee puhastamise seade (kasutades näiteks järgnevat <a href=\"https://drive.google.com/file/d/1YOkMJVby3Dk8iWL9vgmxbzTLzP67fOJB/view?usp=sharing\">hindamismudelit</a>),</li><li>keha tiheduse määramine,</li><li>erineva protsendilise koostisega lahuste valmistamine,</li><li>lihtsamate molekulmudelite põhjal ainete valemite koostamine);</li></ul></li><li>esitlus (nt elukutsetest, mille esindajad lahutavad oma töös segusid);</li><li>info otsimine ja esitluse või ideekaardi/mõistekaardi koostamine keemiliste elementide leidumise kohta meie ümber kasutades näiteks järgmist <a href=\"https://docs.google.com/document/d/1iWuwFWSHZdZIxFOj4S9yRP07LDgGKTn2/edit?usp=sharing&amp;ouid=104421339666784640445&amp;rtpof=true&amp;sd=true\">hindamismudelit</a>;</li><li>kokkuvõttev töö, mis hindab nii ainesisu teadmisi kui ka omandatud uurimuslikke oskusi.</li></ul><p>Eelnevate hindamisobjektide (nii enese-, kaaslaste kui õpetaja) hindamismudelite koostamiseks <a href=\"https://opetaja.edu.ee/hindamismudelid/index.php\">võib ideid saada ka siit</a>.</p><p>Kokkuvõttev hindeline töö võiks sisaldada samuti uurimuslikke ülesandeid, näiteks õpilane annab hinnangu katse joonisele – st hindab katse disaini ja selle asjakohasust, analüüsib andmeid, mis on antud tabeli/graafiku kujul vms. Tööd võiksid sisaldada ka avatud küsimusi, kus õpilane saab näidata oma loovat mõtlemist (mis juhtuks siis kui). Ideid ülesannete koostamiseks saab näiteks ka loodusvaldkonna <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=94441997\">III kooliastme näidisülesannete</a> hulgast.</p><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://ptable.com/#Properties",
+              "title": "Interaktiivne perioodilisustabel (inglise keeles)."
+            },
+            {
+              "kind": "link",
+              "href": "https://kodu.ut.ee/~kiisk/pertable/pertable.htm?lang=eesti",
+              "title": "Interaktiivne perioodilisustabel (eesti keeles)."
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/states-of-matter/latest/states-of-matter_all.html?locale=et"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Aine olekud – PHET simulatsioon aine olekute uurimiseks.</p><p>Vee olekud – TÜ teaduskooli video.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=9I93-bS7tZ0&amp;t=36s"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Katsevahendid ja ohutsunõuded – õpilaste poolt koostatud tutvustav video.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=JETpqcIcKZg"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32418-Klass-Laevade-lastimine",
+              "title": "Erinevate toodete tiheduse uurimine – tööjuhend tiheduse uurimiseks."
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20712-Kuidas-maarata-metalli-tihedust",
+              "title": "Kuidas määrata metalli tihedust? – selgitustega Rakett69 veebisaade tiheduse määramise kohta."
+            },
+            {
+              "kind": "text",
+              "html": "<p>Vedelikutorni valmistamine – erineva tihedusega vedelike kokku valamise katse.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=-CDkJuo_LYs&amp;ab_channel=SickScience%21"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/31491-Loodusopetuse-praktikumid-6-7-klassile/292250",
+              "title": "Lahuste valmistamine – tööjuhend soolalahuse valmistamiseks ja selle tiheduse uurimine."
+            },
+            {
+              "kind": "text",
+              "html": "<p>Suhkrukristalli kasvatamine – küllastunud suhkrulahuse valmistamine ja kristalli kasvatamise katse.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=gReF10Nc0cE&amp;ab_channel=YouLab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Loodusnähtused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab füüsikalisi, keemilisi ja bioloogilisi nähtusi ning toob näiteid nendevaheliste seoste kohta",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab soojusülekande ja energia muundumise nähtusi looduslike protsesside ning igapäevaeluga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid energia jäävuse seaduse kehtivuse kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab vee olekute muutuseid sademete tekkega (vihm, lumi, kaste, udu, härmatis)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab hingamise, põlemise ja fotosünteesi näitel, et keemilistes reaktsioonides energia eraldub või neeldub",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "valib konkreetse nähtuse selgitamiseks sobiva mudeli",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõõdab või määrab liikumise kiirust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Füüsikalised, keemilised ja bioloogilised nähtused.</li><li>Liikumine ja kiirus.</li><li>Energia.</li><li>Energia liigid.</li><li>Energia ülekandumine ja muundumine.</li><li>Soojusülekande liigid.</li><li>Keemiline reaktsioon. Fotosüntees.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>energia, mehaaniline liikumine, trajektoor, teepikkus, aeg, kiirus, soojusülekanne, soojusjuhtivus, konvektsioon, soojuskiirgus, keemiline reaktsioon, põlemine, hingamine, fotosüntees.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>liikuva keha kiiruse määramine;</li><li>erinevate materjalide soojenemise ja jahtumise uurimine ning graafiline kujutamine digikeskkonnas;</li><li>keemilise reaktsiooni tunnuste uurimine igapäevaseid aineid kasutades;</li><li>erinevate ainete põlemise uurimine;</li><li>keemilise energia muundamine elektrienergiaks (nt kartulipatarei);</li><li>organismide hingamise uurimine CO<sub>2</sub> ja O<sub>2</sub> mõõtmise kaudu ümbritsevas keskkonnas digitaalsete andurite ja andmekogujatega;</li><li>hapniku eraldumise uurimine digivahenditega fotosünteesil vesikatku näitel;</li><li>udu või härmatise tekke uurimine.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusnähtuste käsitlemine aitab avada füüsikaliste, keemiliste ja bioloogiliste nähtuste tunnuseid ning esile tuua nendevahelisi seoseid. Kõiki looduslikke protsesse või nähtusi käivitab energia, mille muundumine ja ülekandumine on tihedalt seotud liikumisega. On oluline rõhutada, et elusorganismides toimuvad keemilised reaktsioonid, ning selgitada, kuidas loodusained ja nende omadused on seotud liikumise mõistega.</p><p>Õppetöös tutvustatakse energia muundumise näiteid füüsikalistes, keemilistes ja bioloogilistes protsessides, mis aitab kujundada süsteemset arusaama energiast. Tähtsal kohal on soojusülekande mõiste, kuna see loob aluse energia süsteemse käsitlemise mõistmiseks. Kiiruse mõiste laieneb liikumiskiiruselt nähtuste toimumise kiirusele, näiteks temperatuuri muutumise kiirus protsessi käigus. Õpilasi juhitakse loodusnähtusi analüüsima ja seostama energia mõistega, aidates luua eeldused elus- ja eluta looduse ühtsuse mõistmiseks. Eakohasuse põhimõttest lähtudes uuritakse erinevaid loodusnähtusi ning kujundatakse arusaam mudeldamise vajalikkusest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Energia teemat sisse juhatades võiks lasta õpilastel tuua näiteid, millised asjad neile seoses energiaga esimesena pähe tulevad. Arutelu tulemusena jõuda järeldusele, et kõigi looduslike protsesside või nähtuste käivitaja on energia. Energia peamised liigid on: mehaaniline (liikumine), soojus- ja elektrienergia, keemiline energia. Energia teemat avades tasub energia tunnuste juures tuua konkreetseid igapäevaelulisi näiteid (energiat saab salvestada – laeme oma telefonide akusid, energia saab kanduda ühelt kehalt teisele – kui valame potti kuuma vee, muutub pott ka kuumaks, energia saab muunduda ühest liigist teise – elektrienergia muundub liikumisenergiaks nt mikseris). Loodusnähtusi aitab mõista asjaolu, et looduses toimuvad nii energia muundumine (nt fotosünteesis muutub valgusenergia keemiliseks energiaks), ülekandumine (nt lind soojendab pesal haududes mune) kui ka salvestumine (nt karu kogub enne talveund naha alla rasvakihi). Need protsessid seovad organismid keskkonnaga tervikuks.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Energia jäävuse seadust käsitledes võiks tuua näiteid igapäevaelust, kus toimub energia muundumine (nt elektriradiaator muundab elektrienergia soojusenergiaks) ja energia ülekandumine (nt pliiats läheb soojaks, kui seda pikalt käes hoida). Energiat võib võrrelda rahaga: selle eest saame midagi osta, see võib kanduda ühelt pangaarvelt teisele, ühest käest teise kätte jne. Riikidel on oma valuuta, raha saab vahetada ühest valuutast teise ja raha võib ka salvestada, ostes nt kulda. Ringluses oleva raha koguhulk ei muutu, see vahetab omanikku või vormi.</p><p>Soojusenergia ning soojusülekanne on oluline osa energia muundumisest looduses ja igapäevaelus. Teema õppimise tulemusena peaks õpilane hakkama eristama soojusülekande liike: konvektsiooni, soojuskiirgust ja -juhtivust. Arutelu käigus tasub õpilastega koos otsida näiteid igapäevaelust (nt lõkke ääres tunnen soojust – soojuskiirgus, metallist lusikas läheb kuuma tee sees soojaks – soojusjuhtivus, ahju küttes läheb kogu tuba soojaks – konvektsioon). Soojusülekande teema õppimiseks võib kasutada <a href=\"https://sisu.ut.ee/aktiivope/mosaiik\">mosaiigimeetodit</a>, ekspertrühmade teemadeks: konvektsioon, soojusjuhtivus, soojuskiirgus ja energia jäävuse seadus. Hiljem mosaiikrühmades iga õpilane õpetab rühmakaaslastele enda ekspertrühma teemat.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Arutleda tasub hoonete soojustamise vajalikkuse üle energia kokkuhoiu seisukohalt. Selle teema juures saab uurida näiteks kuuma vee jahtumist sõltuvalt anumat ümbritsevast isolatsioonimaterjalist (nt erinevad sünteetilised ja looduslikud materjalid: vill, sammal, õled, suled, enda riided jne). Uurimuslike oskuste süvendamiseks oleks kasulik lasta siin läbi viia kontrollkatse (vee jahtumine ilma isolatsioonita) ja korduskatsed. Uurimistöö juures saab harjutada andmete ülesmärkimist, graafikute koostamist ning andmete põhjal järelduste tegemist.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Loodusnähtuste teemat käsitledes peaksid õpilased õppima eristama füüsikalisi, keemilisi ja bioloogilisi nähtusi, tooma nende kohta näiteid ümbritsevast elust ning mõistma, et elusorganismides toimuvad keemilised reaktsioonid. Arutelud peaksid viima arusaamiseni, et on olemas nähtusi, millel on nii füüsikalise, keemilise kui ka bioloogilise nähtuse tunnused. Selliseks nähtuseks on näiteks fotosüntees: toimub elusorganismides, taimede rohelistes osades – bioloogiline, ühed ained muutuvad teisteks aineteks – keemiline, valgusenergia salvestub/neeldub – füüsikaline nähtus. Samuti on kopsuhingamisel mitmeid erinevate nähtuste tunnuseid: toimub inimkeha kopsudes – bioloogiline, toimub kopsude ruumala muutumine – füüsikaline, sisse hingatakse hapnikku, välja hingatakse süsihappegaasi – keemiline nähtus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Erinevate nähtuste näitlikustamiseks sobivad nt klotsi libisemine kaldpinnal või joonlaua painutamine (füüsikalised nähtused), paberilehe ja küünla põlemine (keemilised nähtused) ning valge õie värvumine tindilahuses või kasvamine (bioloogilised nähtused). Üheks füüsikaliseks nähtuseks ka kehade liikumine. Rühmatööna otsitakse erinevaid näiteid olukordade kohta, kus oluline on kiiruse mõõtmine/hindamine (nt liiklussituatsioonid, sportmängud ja spordivõistlused). Koostöös kehalise kasvatuse õpetajaga saab õpilane leida enda keskmise kiiruse kindlat distantsi ja erineva kujuga trajektoore läbides. Piirkondlikku eripära arvestades saab mõõta ka vee voolukiirust. Füüsikaliste nähtuste juures tasub rõhutada ka asjaolu, et aine oleku muutumine on füüsikaline nähtus, kuna aine jääb samaks. Õpilastega võib arutleda ja tuua seoseid sademete (vihm, lumi, kaste, udu ja härmatis) tekke ja vee oleku muutustega. Võimalusel läbi teha udu, pilve või härmatise praktiline töö.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keemiliste nähtuste juures arutleda erinevate igapäevaeluliste nähtuste üle: põlemine, roostetamine, fotosüntees, piima hapnemine, kõdunemine. Rõhutada tasub asjaolu, et keemilise reaktsiooni käigus tekivad uued ained ja toimub energia neeldumine (nt fotosünteesil, telefoni aku laadimisel) või eraldumine (nt põlemisel, kõdunemisel, hingamisel). Kuigi mikrotasandil toimuvat ei saa otseselt vaadelda, saavad õpilased uurida kergesti kättesaadavate ainete abil keemilise reaktsiooni tunnuseid ning arendada seeläbi oma praktiliste tööde tegemise oskusi. Reaktsioonide tunnuste uurimise käigus võiks õpetaja aidata õpilastel aru saada mõistete „lähteaine“ ja „saadus“ tähendust. Katseteks nt söögisooda ja äädikhappelahuse reaktsioon (gaasi eraldumine); magneesiumilaastu põlemine (soojuse ja valguse eraldumine, värvuse muutumine); piimale happe lisamine (kalgendumine). Piima kalgendumine happe toimel seostub seedeprotsessidega maos. Veel võib soojuse, valguse ja gaasi eraldumiseks suhkrut, puitu ja põlevkivi (võtta väikene tükk) põletada.</p><p>Bioloogiliste nähtuste uurimiseks võib korraldada katseid, kus uuritakse erinevate taimeliikide kasvutingimuste, näiteks valguse, niiskuse ja temperatuuri mõju kasvukiirusele. Uurimisküsimuseks võib olla näiteks: Kuidas mõjutab valguse intensiivsus taimede kasvu?</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Õppe diferentseerimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Edasijõudnud õpilased võivad lahendada ülesandeid rakendades kiiruse valemit $v=s/t$.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>koostab ideekaardi energia olemuse, muundumise ja jäävuse seaduse kohta (LT 2, 5, 8; õpipädevus);</li><li>valmistab rühmatööna seadme, kus keemiline energia muundub elektrienergiaks, nt kartulipatarei (LT 2, 4);</li><li>koostab jutukese, milles kirjeldab erinevaid nähtusi (mis toimuvad tema igapäevaelus) liigitades neid füüsikalisteks, keemilisteks ja bioloogilisteks või koostab skeemi nähtuste kohta koos näidetega (LT 1, 2; õpipädevus);</li><li>selgitab soojusülekande liikide (soojusjuhtivus, konvektsioon, soojuskiirgus) olemust kaasõpilastele ja toob näiteid igapäevaelust (mosaiigimeetod) (LT 2; suhtluspädevus, õpipädevus);</li><li>koostab soojusülekande liikide kohta plakati/esitluse/tunnikontrolli kaasõpilasele, kasutades soojusülekande liikide tunnuseid ja näiteid igapäevaelust (sh sobivaid mudeleid) (LT 2, 3; suhtluspädevus, õpipädevus);</li><li>uurib erinevate materjalide soojusjuhtivust (soojenemist/jahtumist), koostab mõõtmistulemustest graafiku (temperatuuri sõltuvus ajast) (LT 2, 4);</li><li>põhjendab majade soojustamise vajadust energia kokkuhoiu eesmärgil (LT 6; suhtluspädevus);</li><li>mõõdab/hindab kiirust rühmatööna ja vormistab mõõtmistulemused korrektselt (LT 2, 4; ettevõtlikkuspädevus, suhtluspädevus);</li><li>viib läbi katseid etteantud ainetega ning analüüsib keemilist reaktsiooni, tuues välja lähteained, saadus(ed) ja keemilise reaktsiooni tunnuse(d) (LT 2, 4);</li><li>koostab fotosünteesi/hingamise/põlemise protsessi selgitamiseks plakati paberil või digikeskkonnas näidates ära lähteained ja saadused (LT 1, 5; õpipädevus, digipädevus);</li><li>planeerib ja viib läbi uurimusliku töö, uurides kasvutingimuste mõju (valgus, niiskus, temperatuur) taimede kasvule (LT 3, 4).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimeseõpetus: kasvamine, toitumine.</p><p>Matemaatika: kiirus, graafikud.</p><p>Loodusteadused: energia, energia muundumine.</p><p>6. klassi loodusõpetus: energiaallikad ja energia säästlik tarbimine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Enne uue teema juurde asumist võiks välja selgitada õpilaste eelteadmised, igapäevaeluga seotud kogemused ja teemaga seotud arusaamad. Selleks sobivad arutelud ja õpilaste endi esitatud küsimused. Õpilaste (väär)arusaamade ja eelteadmiste mõistmine annab õpetajale infot järgnevate tegevuste planeerimiseks (milliseid mõisteid, nähtusi, mudeleid on vaja käsitleda). Oluline on, et õpilased julgevad ja tahavad arvamust avaldada, seejuures anda neile kindlasti mõista, et eksimine ja vigade tegemine on täiesti aktsepteeritavad. Uurimisoskuste kujundamise faasis on eriti oluline õpetaja sisukas tagasiside.</p><p>Hindamisobjektideks võivad olla:</p><ul><li>jutuke nähtuste kohta igapäevaelust (saab kasutada järgmist <a href=\"https://docs.google.com/document/d/1kbhwgEm6eBzSO58HRbGIqEG4rP4wL9tam_u5SD46nxI/edit?usp=sharing\">hindamismudelit</a>);</li><li>kartulipatarei (saab kasutada järgmist <a href=\"https://docs.google.com/document/d/1ATpVvEPGcuf0DT_UxuJv_cjEKg-AN-6319jYWJ7CnD4/edit?usp=sharing\">hindamismudelit</a>);</li><li>plakat või esitlus loodusnähtuste liikide kohta;</li><li>uurimuslike/praktiliste tööde protokollid (nt taimeliikide kasvutingimuste uurimise kohta); selleks saab kasutada järgmist <a href=\"https://docs.google.com/document/d/1qwEsAknqGO8RNiLkT6HhjaU_n9OonHYo/edit?usp=sharing&amp;ouid=104421339666784640445&amp;rtpof=true&amp;sd=true\">hindamismudelit</a>;</li><li>suuline vastamine soojusülekande liikide kohta (nt õpilane tõmbab ühe pileti, millel on „soojusjuhtivus“, „konvektsioon“ või „soojuskiirgus“);</li><li>plakat/esitlus/tunnikontroll kaasõpilasele soojusülekande liikide kohta;</li><li>kirjalik kontrolltöö;</li><li>plakat fotosünteesi protsessi selgitamiseks.</li></ul><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.ilmateenistus.ee/definition/udu/",
+              "title": "Udu tekkimine – Keskkonnaagentuuri infoportaal."
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kuidas tekitada pilve? – Rakett69 saatejärgne selgitustega video.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=J3FOzBevXKQ&amp;t=41s"
+            },
+            {
+              "kind": "link",
+              "href": "https://teaduskool.ut.ee/et/oppetoo/kuidas-teha-pilve",
+              "title": "Kuidas teha pilve? – TÜ teaduskooli õppevideo."
+            },
+            {
+              "kind": "file",
+              "src": "http://media.voog.com/0000/0037/0396/files/Opperaamat_Kartuli_patarei_02-1.pdf",
+              "title": "Kartulipatarei – praktilise töö juhend."
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20414-Kuidas-ehitada-lihtsatest-vahenditest-patareid",
+              "title": "Patarei valmistamine – kuidas ehitada lihtsatest vahenditest patareid?"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/et/simulations/energy-skate-park"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Simulatsioon kineetilise ja potentsiaalse energia muundumise kohta.</p>"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/en/simulations/energy-forms-and-changes"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine/2008",
+              "title": "E-ülesanne fotosünteesi kohta testide andmekogus (EIS)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Elus ja eluta looduse seosed",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kirjeldab elus- ja eluta looduse seoseid süsinikuringe näitel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab kohastumusi füüsikaliste ja keemiliste keskkonnatingimustega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib enda tegevuse võimalikku keskkonnamõju ja ökoloogilist jalajälge",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab energiasäästu vajadust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab materjalide taaskasutamise olulisust ning pakub materjalide taaskasutamise võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kaalutleb enda huvide ja võimete sobivust õpingute jätkamiseks loodusteaduste või tehnoloogia erialadel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Süsinikuringe ökosüsteemides.</li><li>Kohastumine füüsikalis-keemiliste tingimustega/elukeskkonnaga.</li><li>Inimtegevus, tehnoloogia ja looduslik tasakaal.</li><li>Energia tarbimine ja materjalide taaskasutamine.</li><li>Säästev eluviis.</li><li>Ökoloogiline jalajälg.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>süsinikuringe, kohanemine ja kohastumine, kasvuhooneefekt, toote olelusring.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>süsinikuringe uurimine puu ja puidu näitel, sh puu vanuse määramine aastarõngaste järgi;</li><li>kodu või kooliümbruse ökosüsteemide ja pinnamoe uurimine satelliitpiltide abil;</li><li>füüsikalis-keemiliste keskkonnatingimuste mõju uurimine lihtsamate loodusteaduslike mudelite abil, sh kasvuhooneefekti simuleerimine;</li><li>taimede ja loomade kohastumuslike muutuste uurimine;</li><li>ühe toote (näiteks paberi, plastpudeli) olelusringi uurimine;</li><li>toote valmistamine taaskasutatavatest materjalidest;</li><li>pere ökoloogilise jalajälje arvutamine ja analüüs.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema õppimine aitab õpilastel mõista eluta ja eluslooduse vahelisi keerukaid seoseid ning neid mõjutavate tegurite koosmõju. Õppimine annab ülevaate sellest, kuidas keskkonnatingimuste ruumiline ja ajaline muutumine põhjustab Maal erinevaid loodusnähtusi, nagu liustike kujunemine, tuuled, hoovused, aastaajalised muutused eluslooduses, fotosünteesi intensiivsus, ränne ja loomadel karvavahetus. Need nähtused mõjutavad omakorda aineringet, kohastumusi ja energia tarbimist.</p><p>Teema on aktuaalne ka seetõttu, et inimtegevus, sealhulgas suurenev tarbimine, muudab keskkonnatingimusi ja võimendab kliimamuutusi, mille tagajärjed ulatuvad ökosüsteemidesse, seades ohtu nii elus- kui eluta looduse tasakaalu. Teadlikkus nendest mõjudest võimaldab õpilastel mõista, kuidas nende igapäevased valikud, näiteks ressursitõhusus ja materjalide taaskasutus, võivad aidata leevendada kliimamuutusi ja edendada jätkusuutlikku arengut.</p><p>Seega on see teema oluline mitte ainult looduse toimimise mõistmiseks, vaid ka selleks, et kujundada vastutustundlikke ja teadlikke hoiakuid keskkonna suhtes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema eesmärgiks on mõista eluta ning eluslooduse seoseid, organisme mõjutavate tegurite koosmõju ning rõhutada ka inimtegevuse ja tehnoloogia rolli elukeskkonna muutumises. Arutelu käigus kujuneb õpilastel arusaam, et füüsikalis-keemiliste keskkonnatingimuste muutumine võib kaasa tuua muutused elustikus. Kohanemine on protsess, mille käigus tekivad kohastumused – kasulikud omadused antud keskkonnas elamiseks ja paljunemiseks. Üksikorganism kohaneb, populatsioon kohastub. Kohastumuseks võib olla ehituslik (nt varjevärvus), füsioloogiline protsess (nt mürgi tootmine) või käitumisjoon (nt lindude ränne), mis on kujunenud loodusliku valiku tulemusena.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Võimaluse korral tehakse õppekäik metsa või parki, kus uuritakse kindlaks määratud ala. Määratakse puittaimede liike ja arvukust, mõõdetakse puude tüve ümbermõõtu rinnatasemel (1,3 m maast) ning hinnatakse noorte puude ligikaudset vanust. Puu vanuse määramiseks mõõdetakse kahe puutüve ristlõike diameeter ja loetakse kokku aastarõngad ning pakutakse puude ligikaudne vanus. Püütakse leida näiteid orgaanilise aine lagundamise kohta – seened, puit- ja rohttaimede jäänused, kännud, kõdukiht jmt. Arutletakse, milline on kasvavate taimede ja kõduneva taimemassi vahekord. Kui koos metsa minna ei saa, võivad õpilased teha ise metsast lühifilmi, kus on jäädvustatud metsarinded (soovitatavalt ka kõdukiht) ja toodud näiteid orgaanilise aine lagundamise kohta.</p><p>Satelliidipiltide põhjal saab uurida asulate ja karjääride laienemist, soo või metsaala muutusi ning seostatakse põhjustega (inimtegevus, lageraided, tulekahjud vmt). Võimaluse korral uuritakse keskkonnamuutusi õppekäikudel, koostatakse eri aegadel tehtud satelliidipilte kõrvutades ülevaade ökosüsteemide muutustest kas kodukohas, maakonnas või mujal.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Projekti „Kliimateadlik“ õppematerjal pakub õpilastele võimaluse arutleda tarbimise üle, näiteks ka, mis on süsinikuheide ja kuidas see erineb riigiti ning leida lahendusi tarbimise ja süsinikuheitme vähendamiseks, näha seoseid tarbimise ja kliimamuutuste vahel.</p><p>Süsinikuringe kirjeldamiseks ja arusaamiseks võib vaadata Eestimaa Looduse Fondi süsinikuringe <a href=\"https://www.youtube.com/watch?v=-3n4j96_Xac&amp;ab_channel=SAEestimaaLooduseFond\">videot</a>. Video põhjal võivad õpilased koostada skeemi/joonise elus- ja eluta looduse vahelistest seostest süsinikuringe näitel.</p><p>Üks levinumaid keskkonnaprobleeme on liigne kasvuhoonegaaside emissioon, mille tagajärjeks on kliima soojenemine. Selle teema ilmestamiseks sobib uurida arvuti simulatsiooni ja viia läbi praktiline töö.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Säästliku eluviisi, tarbimise ja energiasäästu teema juures arutleda, mis on ökoloogiline jalajälg ning millest see sõltub. Säästlik eluviis on seotud taaskasutamisega, ületarbimise piiramisega. Analüüsitakse ühiselt häid ja halbu harjumusi, mis ökoloogilist jalajälge mõjutavad. Soovi korral saab välja arvutada, kui suur on õpilase või tema pere ökoloogiline jalajälg ning mida saaks õpilane ise või tema pere teha selle vähendamiseks. Arutletakse teemal, mitu maakera oleks vaja minu ja mu pere tarbimisharjumuste katmiseks, kui kõik inimesed tarbiksid Maal sama palju. Antud teema juures saavad õpilased uurida, kui suur on veenäidu/elektrinäidu muutus nädala jooksul ja seejärel nädalase säästliku tarbimise järgselt kodus või koolimajas.</p><p>Rakendades julgelt loovust saab taaskasutavatest materjalidest valmistada erinevaid esemeid, nt jõuluehteid, lillepotte jne. Neid võib valmistada vanapaberist, kasutatud pakenditest või tekstiilist. Projektõppena saab valmistada vanapaberist uut paberit ja uurida selle olelusringi. Tööjuhendi paberi valmistamiseks leiab siit. Hiljem võib korraldada koolis näituse valminud esemetest.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://media.voog.com/0000/0037/0396/files/Opperaamat_Paberi_valmistamine_1.0.pdf",
+              "title": "Tööjuhend paberi valmistamiseks"
+            },
+            {
+              "kind": "text",
+              "html": "<p><a href=\"https://inseneeriapuu.ee/\">Inseneeria</a> veebilehelt võib õpilane leida endale huvipakkuva ameti ning seda mõne lausega kirjeldada ja lasta kaasõpilastel kirjelduse järgi ära arvata, mis ametiga on tegemist. See on hea koht arutlemaks, missuguseid oskusi ja teadmisi peab inseneeriavaldkonnas töötav inimene omama.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>uurib valitud taime/looma kohastumusi ja teeb sellest kokkuvõtte/esitluse vms (LT 1, 2, 5; suhtluspädevus);</li><li>uurib õppekäigul kindlaks määratud ala (nt 1 ruutmeetril), määrab liikide arvu, liigi katvuse, välimääraja abil enam esinenud taimede liigid paaris või rühmatööna. Võrdleb erinevaid kasvukohti, nt päikseline, varjus jne (LT 2, 5);</li><li>määrab puu vanust aastarõngaste kaudu (LT 1, 2);</li><li>seostab satelliidipiltide värvusi ja toone konkreetse ökosüsteemiga, eristab tonaalsuse alusel veekogude sügavust, metsi ja põlde jmt (LT 2; õpipädevus);</li><li>teeb võimalusel fotosid ning märkab eri aastatel/aastaaegadel tehtud fotosid kõrvutades muutusi ökosüsteemides oma kodukohas (LT 2; õpipädevus);</li><li>leiab satelliidipildi ja pinnamoe kaardi erinevusi ning sarnasusi (LT 1, 4; õpipädevus, digipädevus);</li><li>koostab skeemi/plakati süsinikuringe kohta (LT 2);</li><li>uurib kasvuhooneefekti olemust arvutisimulatsiooni või katse abil, teeb selle põhjal järeldused (LT 4, 5; digipädevus);</li><li>koostab essee, milles analüüsib enda või oma perekonna ökoloogilise jalajälje suurust (LT 5, 7; sotsiaalne- ja kodanikupädevus);</li><li>annab hinnangu oma tarbimisharjumustele (LT 5, 7; sotsiaalne- ja kodanikupädevus);</li><li>koostab (foto)ülevaate energiasäästu võimalustest kodus/koolis (LT 4; õpipädevus);</li><li>teeb rühmatööna video, mis veenab eakaaslasi taaskasutama / säästlikult tarbima energiat, materjale/ringmajanduse olulisuses (LT 4, 5; digipädevus);</li><li>valmistab toote taaskasutatavast materjalist vastavalt <a href=\"https://drive.google.com/file/d/1R1ov16u1RLjI8M1vUKMXI8s1yRuRH-Xs/view?usp=sharing\">püstitatud kriteeriumitele</a> (LT 7; ettevõtlikkuspädevus);</li><li>koostab koostöös teiste õpilastega ühe toote olelusringi skeemi/mõistekaardi vms (LT 7; ettevõtlikkuspädevus, õpipädevus);</li><li>sorteerib prügi/jäätmeid (LT 7; sotsiaalne ja kodanikupädevus, ettevõtlikkuspädevus);</li><li>koostab kaardi infoga kodukoha taaskasutatavaid esemete kogumispunktide kohta (LT 1. 7; väärtuspädevus, sotsiaalne ja kodanikupädevus);</li><li>osaleb õppekäigul jäätmejaama, uuskasutuskeskusesse ja loodusteaduste/inseneeriaga seotud ettevõttesse intervjueerides/küsitledes erinevate elualade esindajaid (LT 8; enesemääratluspädevus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusõpetus: seotud 4. klassi teemadega „Planeet Maa“, „Elu mitmekesisus maal“; 5. klassi teemad „Asula elukeskkonnana“, „Soo elukeskkonnana“; 6. klassi teemadega „Muld“, „Mets elukeskkonnana“, „Elukeskkonnad Eestis“ ning „Loodus- ja keskkonnakaitse Eestis“.</p><p>Geograafia: seondub teemadega aastaaegade vaheldumine ja keskkonnatingimused, sh kliima; kliima soojenemine ja energiavaldkonna küsimused tänapäeva ühiskonnas.</p><p>Bioloogia: seotud 9. klassi teemaga „Evolutsioon“ (organismide kohanemine ja kohastumine) ning 8. klassi teemaga „Ökoloogia ja keskkonnakaitse“. Keskkonna muutuste ja jätkusuutliku arenguga seostuvad muutused ökosüsteemides, liustike sulamine, metsade kadumine ja linnade kasv.</p><p>Sotsiaalained: seostuvad kliima soojenemisega ja energia küsimused tänapäeva ühiskonnas.</p><p>Kunsti- ja tehnoloogiaõpetus: saab teha koostööd taaskasutatavast materjalist tooteid valmistades, nt vanapaberist uue paberi tootmine, plast- või puidujääkidest uute toodete valmistamine. Säästlik tarbimine, taaskasutus, ringmajandus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Enne teema juurde asumist välja selgitada õpilaste eelteadmised, igapäevaeluga seotud kogemused ja teemaga seotud arusaamad. Selleks sobivad arutelud ja õpilaste endi esitatud küsimused. Õpilaste (väär)arusaamade ja eelteadmiste mõistmine annab õpetajale infot järgnevate tegevuste planeerimiseks (mis mõisteid, nähtusi, mudeleid on vaja käsitleda). Oluline on, et õpilased julgevad ja tahavad arvamust avaldada, seejuures anda neile kindlasti mõista, et eksimine ja vigade tegemine on täiesti aktsepteeritavad. Nende teemade omandamisel on olulisel kohal ka õpilastele jooksvalt suulise tagasiside/hinnangu andmine (nt praktiliste tööde tegemise käigus).</p><p>Hindamisobjektideks võivad olla:</p><ul><li>süsinikuringe skeem koos selgitustega;</li><li>video, mille eesmärgiks on veenda kaaslasi säästma/taaskasutama/prügi sorteerima vms;</li><li>taaskasutatud materjalidest toode (sh valmistamisprotsess);</li><li>ühe toote olelusring (plakat, skeem vms);</li><li>essee ökoloogilise jalajälje kohta (saab kasutada järgmist <a href=\"https://drive.google.com/file/d/1aQ2yRw-5MAVzOAxtIN5zsgcU7lYOv71t/view?usp=sharing\">hindamismudelit</a>).</li></ul><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Süsinikuringe – Eestimaa Looduse Fondi video.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=-3n4j96_Xac&amp;ab_channel=SAEestimaaLooduseFond"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32130-Uurimuslik-ope-Susinikuringe",
+              "title": "Uurimuslik õpe „Süsinikuringe“ – õpistsenaarium."
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/1608981677/minutiloeng-kuidas-vahendada-uletarbimist",
+              "title": "Ületarbimimine – ühe minuti loeng ületarbimise kohta."
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/et/simulations/greenhouse-effect/about"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kasvuhooneefekt – PHET simulatsioon kasvuhooneefekti olemuse kohta.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://sisu.ut.ee/sites/default/files/esero/files/kasvuhooneefekt.pdf",
+              "title": "Kasvuhooneefekt – praktilise töö juhend."
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ökoloogiline jalajälg – Maailmahariduse videoloeng.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=r0LLBTx0f6g"
+            },
+            {
+              "kind": "link",
+              "href": "https://inseneeriapuu.ee/",
+              "title": "Inseneeria – miks inseneriks õppida?"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kaugseire – video „Milleks meile kaugseire?“</p>"
+            },
+            {
+              "kind": "video",
+              "src": "http://youtube.com/watch?v=S-3FQvBXnfs"
+            },
+            {
+              "kind": "file",
+              "src": "https://media.voog.com/0000/0037/0396/files/Opperaamat_Paberi_valmistamine_1.0.pdf",
+              "title": "Paberi valmistamine – tööjuhend (AHHAA juhend)."
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1slfwka2b4qgpIfzooZJkPdD49wCytMqoXL_UMphd-vU/edit?fbclid=IwAR23HVpQG-Mj-a4yTPtVGLjL5pL69V7IlXoudyQXEkK_AgPTJPUMCpm85QM",
+              "title": "Materjalide taaskasutamine – tööjuhend ehitusel looduslike ja taaskasutatavate materjalide kasutamise kohta."
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/32903-Miks-peab-prugi-sortima-Jaatmekaitlus-Saastev-tarbimine-VIDEOOPS-Loodusopetus-II-kooliaste",
+              "title": "Säästev eluviis – miks peab prügi sorteerima?"
+            },
+            {
+              "kind": "link",
+              "href": "https://kuhuviia.ee/",
+              "title": "Üle eestiline kaardirakendus jäätmete kogumispunktide kohta."
+            },
+            {
+              "kind": "link",
+              "href": "https://lasteekraan.err.ee/1609171015/nova-kuidas-raiskamist-valtida",
+              "title": "Kuidas raiskamist vältida? – lastesaade Nova."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.terveilm.ee/leht/teabekeskuse-teemad/kestliku-arengu-eesmargid/tarbimine/",
+              "title": "Tarbimine ja tootmine – kestlikku arengut ja rohepööret tutvustav lehekülg."
+            },
+            {
+              "kind": "link",
+              "href": "https://eestipandipakend.ee/oppematerjalid/",
+              "title": "Eesti Pandipakendi keskkonnateemalised õppematerjalid/videod."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.sorteeri.ee/",
+              "title": "Prügi sorteerimine ja taaskasutus – MTÜ Eesti Taaskasutusorganisatsiooni veebilehekülg."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.elfond.ee/tegevus/haridus-ja-teavitus",
+              "title": "Kliimamuutused – ELF leheküljel olevad kliimamuutuste videod."
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/?c=et,film,keskkond-kliima-ja-kestlikkus",
+              "title": "Mondo Maailmakooli dokumentaalfilmikogu – keskkonnateemalised filmid."
+            },
+            {
+              "kind": "link",
+              "href": "https://kliimatarkused.ut.ee/kliima-ja-oiglus/",
+              "title": "Kliima ja õiglus. Ületarbimine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

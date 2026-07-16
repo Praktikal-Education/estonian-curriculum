@@ -1,0 +1,133 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on õpilaste mehitamata õhusõidukite alase teadlikkuse suurendamine, et ühiskonnas oleks rohkem teadlikke mehitamata õhusõiduki kasutajaid.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Mehitamata õhusõiduki käitamise õppe eesmärgid ja sisu tulenevad tänapäeva ühiskonna vajadustest, sest mehitamata õhusõidukid muutuvad järjest enam osaks ühiskonna toimimisest, leides kasutamist igas eluvaldkonnas. Nii nagu iga transpordivahendi, nii tuleb ka mehitamata õhusõiduki käitamisel tagada enda ja ümbritseva ohutus.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Mehitamata õhusõiduki käitamise valikkursusega taotletakse, et õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "omandab baasteadmised mehitamata õhusõidukitest ja nende erialastest kasutusvõimalustest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab mehitamata õhusõiduki ohutu käitamise põhimõtteid ning kaugpiloodi kohustusi ja vastutust, toetudes valdkonda reguleerivatele õigusaktidele ja eeskirjadele;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru erinevate mehitamata õhusõidukite komponentidest ja tööpõhimõtetest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursus võimaldab lõimingut mitme riiklikus õppekavas nimetatud ainega. Eelkõige on võimalik lõiming füüsika, geograafia ja teiste loodusainetega. Üldpädevustest toetab valikkursus tugevalt tehnoloogiaalase pädevuse arendamist, sest kursuse jooksul on õpilasel võimalik õppida mehitamata õhusõidukit ohutult käitama.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppetegevuste kavandamisel ja korraldamisel lähtutakse kursuse eesmärkidest ja õpiväljunditest ning mehitamata õhusõidukite käitamisele kehtivatest regulatsioonidest. Kursus sisaldab teoreetilise osa ja praktilisi ülesandeid drooni käitamisel. Teoreetilise osa läbiviimisel võetakse aluseks Eesti Lennuakadeemia e-õppe kursus, mis asub Eesti Lennuakadeemia Moodle keskkonnas ning on õpilastele kättesaadav kogu kursuse jooksul. Praktiline õpe mehitamata õhusõidukiga võib toimuda nii siseruumides kui ka välitingimustes. Praktilises lennutegevuses kasutatakse alla 250 g kaaluvat mehitamata õhusõidukit. Praktilise õppe läbiviijal peab olema mehitamata õhusõiduki kaugpiloodi pädevustunnistus ja mehitamata õhusõiduki lennutamise kogemus. Täpsemad soovitused on välja toodud kursuse juhendmaterjalis.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse maht jaguneb: teoreetiline e-õpe 25 akadeemilist tundi ja praktiline osa 10 akadeemilsit tundi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse teoreetilises osas tuleb eelkõige hinnata õpilase teadmisi ja arusaama mehitamata õhusõidukite ohutust käitamisest, piloodile kehtivatest nõuetest ning piloodi vastutusest ohutu käitamise tagamisel. Õpilane saab mehitamata õhusõidukit käitada kui on sooritanud teooria osa testi positiivsele tulemusele ja omandanud A1/A3 alamkategooria kaugpiloodi pädevustunnistuse.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse läbimise tingimused ja hindamisjuhend on välja toodud kursuse juhendmaterjalis.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab mehitamata õhusõidukite ajalugu, tänapäevaseid kasutusvaldkondi ja kehtivaid regulatsioone;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab mehitamata õhusõidukite ehitust, tööpõhimõtteid ja aerodünaamika aluseid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab inimtegurite ja keskkonnatingimuste mõju mehitamata õhusõidukite käitamisele;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab mehitamata õhusõiduki käitamisel lennuohutuse põhimõtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "planeerib mehitamata õhusõiduki lennuteekonda vastavalt lennuohutuse põhimõtetele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sooritab Transpordiameti A1/A3 kaugpiloodi pädevuseksami.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "1. Teoreetiline osa",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikkursuse teoreetiline osa arvestuslik maht on 25 ak tundi, mis on jagatud viieks suuremaks teemaks:</p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>Õppesisu</th><th>Ajaline maht</th><th>Kirjeldus</th></tr></thead><tbody><tr><td><strong>Sissejuhatus</strong></td><td>1 ak tund; e-õpe/kontakttund</td><td>Kursuse eesmärkide, struktuuri ja läbimise tingimuste tutvustamine.</td></tr><tr><td><strong>Mehitamata õhusõidukite tutvustus</strong></td><td>5 ak tundi; e-õpe</td><td>Mehitamata õhusõidukite ajalugu. Droonide erinevad kasutusvaldkonnad ja tulevikutehnoloogiad. Droonide tähtsus kaitsetööstuses ja sisejulgeolekus. Droonide tüübid. FPV droonid.</td></tr><tr><td><strong>Regulatsioonid ja lennuohutus</strong></td><td>6 ak tundi; e-õpe</td><td>Mehitamata lennunduse õiguslik raamistik. Mehitamata õhusõidukite käitamine avatud kategoorias ja erikategoorias. Klassimärgisega droonid. Kaugpiloodi pädevused. Mehitamata õhusõiduki käitamiseks vajalikud toimingud Transpordiametis. Õhuruumi korraldus ja õhuruumis olevad piirangud. Lennuohutus, selle tagamine ja tagamise eest vastutajad.</td></tr><tr><td><strong>Mehitamata õhusõiduki ehitus</strong></td><td>6 ak tundi; e-õpe</td><td>Aerodünaamika, stabiilsus, kontroll. Droonide ehitus. Autopiloot ja selle ülesanded. Navigatsiooniseadmed. Sideseadmed. Energia salvestamine. Elektrimootorid ja nende juhtimine. Servomootorid ja nende juhtimine. Sisepõlemismootoriga mehitamata õhusõidukid. Maapealsed juhtimiskeskused.</td></tr><tr><td><strong>Mehitamata õhusõiduki käitamine</strong></td><td>4 ak tundi; e-õpe</td><td>Lennu planeerimine, selle erinevad etapid ja ohutuspõhimõtted. Inimtegurid lennunduses. Andmekaitse ja eetika droonide kasutamisel.</td></tr><tr><td><strong>Meteoroloogia</strong></td><td>3 ak tundi; e-õpe</td><td>Ilmastikunähtused. Atmosfäär ja nähtavus. Jäätumine.</td></tr><tr><td><strong>A1/A3 alamkategooria kaugpiloodi pädevuseksami sooritamine</strong></td><td></td><td>AVPU ja pupillid.</td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2. Praktiline osa",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valikkursuse praktilise osa arvestuslik maht on 10 ak tundi, mille käigus tuleb lahendada järgmised praktilised ülesanded:</p><ol><li>Droonisimulaatoriga praktilised harjutused</li><li>FPV (<em>first person view</em>) drooniga lendamine</li><li>Lennu planeerimine.</li><li>Turvalise lennu läbiviimine vastavalt A1/A3 reeglitele.</li></ol>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

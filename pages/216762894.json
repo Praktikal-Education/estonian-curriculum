@@ -1,0 +1,124 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Agrammatism",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>grammatilist funktsiooni täitvate sõnade ning morfeemide ja/või sõnade järjekorra mittevastavus keelereeglitele.</p><p>Näiteks: <em>Poisid jookseb õues</em>.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Arhaism",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>vananenud, kasutusel olevast kõne- ja kirjakeelest kõrvale jäänud sõna, väljend, grammatiline vorm, kirjaviis või süntaktiline konstruktsioon.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Atributiivsed tunnused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>kuuluvust väljendavad ning mitmeid vabasid laiendeid sisaldavad konstruktsioonid. Näiteks: <em>suure koti väike tasku</em>.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Metakeeleline ülesanne",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>eesmärk on uurida keelelist üksust, seda teadlikult analüüsida.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Muutevormide formaalsed (vormilised) tunnused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>tüvi, tunnus, liide, lõpp.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ortogramm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>reeglile vastav kirjutis, sõnakuju.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Parafraseerimine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>ümbersõnastamine, st teiste samatähenduslike sõnade või lausete kasutamine sama mõtte väljendamiseks.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Repliigi hargnenult sõnastamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>repliigi laiendamine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Samaviitelised sõnad",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>sõnad, mis viitavad eelmises lauses märgitud olendile, sündmusele.</p><p>Näiteks: <em>Sõudsime <u>jõel</u>. <u>Selle </u>vool oli tugev.</em></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Sensomotoorne tegevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>meeltega (nägemine, kuulmine, maitsmine), st tajumisega ja liigutustega seotud tegevus.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Sõnaliigi grammatiline tähendus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>ühesuguste muutevormide ühine tähendus, mida kannavad harilikult tunnused, vahel ka tüveteisendid.</p><p>Näiteks: Saav kääne: <em>lapseks, neljapäevaks.</em></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Sõnaliigi üldine (kategoriaalne) tähendus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Näiteks: <em>Nimisõna tähistab esemeid, olendeid, nähtusi, mõisteid jne ning vastab küsimusele kes?, mis?</em></p>"
+        }
+      ]
+    }
+  ]
+}

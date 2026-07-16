@@ -1,0 +1,58 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppe diferentseerimisena laiemas tähenduses peetakse silmas õpetamisviisi, mille puhul õpetaja kavandab oma töö lähtuvalt kõigi oma rühma õpilaste vajadustest (Tomlinson 2005, vt nt: <a href=\"http://differentiationcentral.com/model/\">http://differentiationcentral.com/model/</a>). Diferentseerimise aluseks võib olla nii õpilase toevajadus kui ka näiteks valmidus õppimiseks, õpilase huvid ja õppimisviisid, mida kasutades ta tunneb ennast mugavalt.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppe diferentseerimist kitsamas tähenduses käsitletakse kui üldist või tõhustatud tuge saava õpilase vajadustega kohandumist klassi- või rühmaõppe tingimustes (vt nt Palts 2018: <a href=\"https://sisu.ut.ee/eviddiferents/individuaalne-abi\">https://sisu.ut.ee/eviddiferents/individuaalne-abi</a>).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kuna gümnaasiumis on võõrkeelte õpe tasemepõhine, siis algab diferentseerimine siin sobiva keeleoskustasemega kursuse valikust (B1-, B2-keeleoskustasemel kursused). Praktikas võib see siiski tähendada, et samal kursusel, samas rühmas on väga erineval keeleoskustasemel õppijad, kelle oskused võivad jääda näiteks sama taseme piiridesse või ulatuda ka üle mitme taseme. Nii õpetajale kui õppijale on sellisel juhul abiks teadmine vastava keeleoskustaseme oskustest, millest lähtuvalt püstitada õpieesmärke ning sõnastada hindamiskriteeriume.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Eelkirjeldatust lähtuvalt võib diferentseerimine hõlmata:</p><ul><li>õppesisu (nt õpitava sõnavara mahtu, konstruktsioonide keerukust, teksti mahtu);</li><li>õpiprotsessi (nt õpitegevuste ülesehitust ja korraldust, toetavate materjalide/vahendite hulka, tegevuse jagamist väiksemateks tegevusteks, õpilasele antavaid valikuid);</li><li>hindamist (nt hindamisülesannete ülesehitust, hindamiskriteeriume);</li><li>õpikeskkonda (nt õpetaja tegevuse kohandamist, pildilise keskkonna loomist, tegevust teises ruumis, tehnilisi abivahendeid).</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Toimiva diferentseerimise eelduseks on pidev hindamine (õpetaja ülevaade õpilaste arengust), positiivse grupidünaamika hoidmine (sellele suunatud eraldi tegevused), õpilaste paindlik ümbergrupeerimine (mitte alati samad õpilased koos) ja ülesannete ühtlane kvaliteet (lihtsam variant ei tohiks olla igavam või täiesti pingutusevaba). Grupitööde puhul on soovituslik moodustada grupid nii, et kõrgema keeletasemega õpilased moodustavad oma grupi ning ülejäänud grupid on võimalikult heterogeensed.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lisaks põhikooli ainekava õpiprotsesside kirjeldustes välja pakutud <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=198682301\">diferentseerimisvõimalustele</a>, on gümnaasiumis soovitav individualiseeritud õppeks kasutada (AI-toega) veebipõhiseid platvorme.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Näiteks lugemise ja sõnavara harjutamiseks sobib <a href=\"https://projektid.edu.ee/eadlang.com/learn\">Readlang.com</a> (saab kasutada erineva keeletasemega tekstide lugemiseks; platvorm pakub suurt keelte valikut; toetab tõlkega ning loob sõnakaardid sõnavara õppimiseks ja kordamiseks).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Vestlemiseks sobib <a href=\"https://chat.d-id.com/\">ChatDID</a>, kus on võimalik (hetkel küll põhiliselt inglise keeles) <a href=\"https://chat.d-id.com/\">v</a>estelda avatariga.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppija kõnet saab lasta salvestada, kuulata ja teistega jagada <a href=\"https://auth.flipgrid.com/\">Flipgrid.com</a> keskkonnas (õpetaja loob ülesande, video asemel võib salvestada audio, et õpilane ei peaks oma näoga kaadris olema).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teksti ja/või video mõistmist saab kontrollida <a href=\"https://app.wisdolia.com/\">Wisdolia.com</a> abil (loob automaatselt kordamisküsimused ning kontrollib vastuseid. Selgitab, mis vastuses on õige/väär või puudub). Sobib LAK-õppeks ja ainetevaheliseks lõiminguks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õigekirja ja grammatika kontrollimiseks võib soovitada <a href=\"https://quillbot.com/\">Quillbot.com</a> keskkonda (pakub mitmeid keeli, kontrollib teksti ja näitab ära võimalikud vead).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kui õpetaja soovib aga õppijale mingi teema kohta eraldi õpiraja luua, sobib selleks <a href=\"https://nolej.io/\">nolej.io</a> (loob PDF või videolingi põhjal erinevaid õpitegevusi)</p>"
+        }
+      ]
+    }
+  ]
+}

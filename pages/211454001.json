@@ -1,0 +1,172 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Ainevaldkonna oluline info",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><em>täidab HTM määruse alusel</em></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Ainevaldkonna sihiseade",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kehalise kasvatuse kaudu rakendatakse gümnaasiumis liikumisõpetuse põhimõtteid, et kujundada õpilastes liikumispädevust, mis hõlmab liikumisharrastuseks vajalikku motivatsiooni, teadmisi, oskusi, kogemusi ja hoiakuid ning tähendab ennastjuhtiva inimese kujunemist, kes suhtub liikumisesse positiivselt, oskab iseseisvalt liikumisharrastusega tegelda ja mõistab vastutust enda tervise hoidmise eest.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Liikumispädevust arendava õppe tulemusena gümnaasiumi lõpetaja:",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kasutab mitmekülgseid liikumisoskusi ja -kogemusi eri liikumisviisides ning teab, mis on temale meelepärane liikumisharrastus;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab vastutust hoida enda tervist ja vormisolekut kehaliste võimete arendamise, liikumise ning toitumise kaudu;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "on igapäevaselt kehaliselt aktiivne ja järgib tervisliku liikumise põhimõtteid;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "väärtustab liikumist, sporti ja tantsu kultuuri osana ning ennast selle mõjutajana ja uue loojana;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "hoiab vaimset ja kehalist tasakaalu, tuleb toime stressiolukorras ning kasutab emotsioonidega toimetulemise viise;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb rõõmu liikumisest ja on saanud sellest positiivse kogemuse.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Liikumisõpetusega aidatakse kaasa terve ja liikuva inimese kujunemisele ning tekitatakse seosed koolis õpitu ja selle kasutamise võimaluste vahel vabal ajal, st väljaspool kooli. Liikumispädevuse kujunemist toetavad ainekavas viie liikumisõpetuse valdkonna õpitulemused, mis on õppe kujundamise aluseks: liikumisoskused; tervis ja kehalised võimed; kehaline aktiivsus; liikumine ja kultuur; vaimne ja kehaline tasakaal (vt valdkondade kirjeldus ainekavast). </p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe korraldus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Grupi suurus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kehaline kasvatus/liikumisõpetus on õppeaine, kus õpilased omandavad praktilisi liikumisoskusi väga erinevate liikumistegevuste kaudu. See tähendab, et nii õpetaja kui ka õpilane viibivad tunnis pidevalt muutuvas keskkonnas. Selleks, et õppimine saaks toimuda turvalises, õppimist toetatavas, individuaalsust ja erivajadusi arvestavas õpikeskkonnas nii, et õpetaja suudab tagada õpilasele selleks parima, on oluline, et õpe toimuks nii, et tunnid on korraldatud rühmades, mille suurus gümnaasiumis on maksimaalselt 18- 20 õpilast. Grupid võivad olla moodustatud erinevatel alustel arvestades õppetegevusi, keskkondi, huvisid jne. Suurema klassi arvu õpilaste puhul on vaja moodustada vähemalt 2 gruppi. Gruppide optimaalne suurus kehalises kasvatuse/liikumisõpetuses on otseselt seotud:</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Vigastuste ennetamisega.</li><li>Kõikide õpilaste aktiivse kaasamisega tegevustesse.</li><li>Õpilaste reaalse tegevusaja suurenemisega organiseerimisaja arvelt, mis kaasneb liiga suure grupi puhul.</li><li>Vahendite ja liikumiseks vajamineva ruumi olemasoluga õpilase kohta.</li><li>Suurenenud võimalused reaalseks harjutamiseks ja õppimiseks.</li><li>Suurenenud võimalused individuaalseks õpetamiseks, erivajaduste märkamiseks ja tagasiside andmiseks.</li><li>Tingimustega riietusruumis ja pesemisvõimalustega.</li></ul>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lisaks on oluline, et õpetaja töötaks tema tervist hoidvas keskkonnas. Liigse grupi suurusega kaasneb ka liigne müra. Õppimist ja õpetamist toetava õppekeskkonna loomisel soovitame alustada kooli tunniplaani loomist liikumisõpetuse tundide planeerimisest. See on seotud nii riietumisega riietusruumides, pesemisvõimalustega, mõistliku arvu õpilastega võimlas ja vahendite olemasoluga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tundides osalemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kõik õpilased, kelle tervislik seisund on lubanud kooli tulla osalevad ka kehalise kasvatuse/liikumisõpetuse tunnis nii, et õpetaja rakendab neid tegevusse eesmärgipäraselt, arvestades nendes kehalist ja vaimset seisundit, vajadusel tegevusi ja koormust kohandades.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemuste omandamine ja selle kaudu tundides aktiivne osalemine on oluline kõikidele õpilastele, sh trennis käivatele õpilastele. Trennis käimine ei taga kõikide õppeaine õpitulemuste saavutamist, kuna liikumisõpetus keskendub lisaks mitmekülgsete oskuste, tervisealaste teadmiste, eneseanalüüsi ja sotsiaal-emotsionaalsete oskuste omandamisele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppetööks vajalikud vahendid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpitulemuste saavutamiseks on oluline, et õppeaines oleks piisavalt vahendeid vastavalt kooli liikumiseõpetuse ainekava tegevustele. Selleks, et koolil ja omavalitsustel oleks võimalik vahendite kulu eelarvesse planeerida, soovitame koostada kooli liikumisõpetuse visiooni <a href=\"https://liikumisopetus.ee/ainekava/visiooni-loomine/\">https://liikumisopetus.ee/ainekava/visiooni-loomine/</a>, mille põhjal on hea koostada vajalike vahendite nimekiri koos eelarvega. Sel juhul on koolil/omavalitusel võimalik liikumiseks vajalikke vahendeid eelarvesse planeerida mitme aasta lõikes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tundide jaotumine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lisaks õppekava järgsetele kohustuslikele tundidele on oluline pakkuda liikumisega seotud valikkursuseid. See võimaldab toetada õpilaste kehalise aktiivsuse tõusu ja sellega seoses toetada nende tervise tugevdamist.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lisaks soovitame, et 5 kursust toimuks järjest 3 aasta lõikes iga nädalaste kontakttundidena. See tagab õpilastele regulaarse võimaluse kehaliseks aktiivsuseks ja kõikide õpitulemusteni jõudmiseks.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lisamaterjalid ja viited",
+      "children": [
+        {
+          "kind": "link",
+          "href": "http://www.hm.ee",
+          "title": "Lehekülg 1"
+        },
+        {
+          "kind": "file",
+          "src": "https://liikumisopetus.ee/wp-content/uploads/2023/03/Gumnaasiumi-liikumisopetuse-ainekava-UUS.pdf",
+          "title": "Lehekülg 2"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Võimalusi valdkonnaüleseks lõiminguks, üldpädevuste arengu toetamiseks ja õppekava läbivate teemade käsitlemiseks",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Ainevaldkonnas toetatakse kõigi riiklikus õppekavas nimetatud üldpädevuste arengut, käsitletakse läbivaid teemasid ning kasutatakse valdkonnaülese lõimingu võimalusi kooli eripära ja kooli õppekavas sätestatu põhjal. Liikumisõpetus võimaldab praktiliste tegevuste kaudu kujundada kõiki üldpädevusi, seejuures on teadmiste, oskuste, väärtushinnangute ning käitumise kujundamisel kandev roll õpetajal, kelle väärtushinnangud loovad sobiliku õpikeskkonna ning mõjutavad õpilaste väärtushinnanguid ja käitumist.</p><p>Läbivad teemad on aineülesed ja käsitlevad ühiskonnas tähtsustatud valdkondi, luues ettekujutuse ühiskonna kui terviku arengust ning toetades õpilase suutlikkust oma teadmisi eri olukordades rakendada.</p><p>Õppes kavandatakse teadlikult aega üldpädevuse arendamise ja läbivate teemade käsitlemise kõrval ka liikumisega seotud kõrgemaid mõtlemisoskusi arendavatele ülesannetele, nagu analüüs, kriitiline mõtlemine, loovad tegevused, tagasiside andmine, õpitava kinnistamine, aktuaalsete teemade käsitlemine või väärtushinnangute üle arutlemine.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa2.pdf",
+          "title": "Allikas: Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 2"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on õppe osa, mille kaudu toetatakse õpilase õppimist ja arengut, taotletavate teadmiste ja oskuste omandamist ning hoiakute kujunemist. Hindamise kaudu saadakse ülevaade õpitulemuste saavutatusest ja õpilase isikupärasest arengust ning toetatakse õpilase kujunemist positiivse minapildi ja adekvaatse enesehinnanguga ennastjuhtivaks õppijaks.</p><p>Hindamise toel saab õpilane tagasisidet oma edenemise kohta õppimisel ja liikumispädevuse kujunemisel. Õpetaja saab teavet oma õpetamise tulemuslikkuse kohta ning sisendit nii õppe kui ka iseenda pädevuste arendamiseks. Liikumisoskuste omandatuse hindamise kõrval antakse tagasisidet ka üldpädevuste arengu ning väärtushoiakute ja -hinnangute kujunemise kohta. Hoiakute kujunemise kohta antakse tagasisidet suunavate ja toetavate sõnaliste hinnangutega.</p><p>Hindamisel lähtutakse riikliku õppekava üldosas hindamise kohta sätestatust ja selle alusel koostatud kooli hindamisjuhendist, mis kehtestab mittenumbrilise hindamise kasutamise, mujal (nt huvikoolis või huvitegevuses) õpitu arvestamise ja õpilase eneseanalüüsi koostamise põhimõtted kehaliste võimete arengu seisukohast. Rakendatakse nii diagnoosivat, kujundavat kui ka kokkuvõtvat hindamist, mida esitatakse kas sõnaliste hinnangute või numbriliste hinnetena.</p><p>Diagnostilise hindamise käigus selgitatakse välja õpilaste liikumisalaste eelteadmiste ja oskuste tase ning ainealased väärarusaamad ja spetsiifilised õpiraskused, et kavandada edasist õppimist ja õpetamist.</p><p>Kujundava hindamise kaudu saab õpilane suulist ja kirjalikku tagasisidet õpitulemuste saavutamise taseme ning tugevate külgede ja arenguvõimaluste kohta. Liikumisõpetuses väärtustatakse eesmärgi saavutamiseks tehtud tööd ja pingutust.</p><p>Kokkuvõtvalt hinnatakse üldjuhul õppeperioodi lõpul, et kontrollida nii õppeaines seatud eesmärkide kui ka taotletavate õpitulemuste saavutatust.</p><p>Õpilasele on õppe alguses teada, mis õpitulemuse saavutamise poole mis õpiülesannetega liigutakse, mida ja millal hinnatakse, mis hindamisvahendeid kasutatakse ning mis on hindamise kriteeriumid. Õpilast suunatakse õppe käigus oma õppimist ning seatud eesmärkide saavutamist analüüsima ja reflekteerima.</p><p>Õpilane kaasatakse nii oma tööd hindama kui ka kaasõpilaste saavutusi tagasisidestama. Aruteludes hinnatakse õpilase esitatud arvamuste ja seisukohtade argumenteeritust, seostatust ning veenvust. Õpilase seisukohtadele ühiskonnas ja maailmas toimuva kohta antakse sõnalist kirjeldavat tagasisidet.</p><p>Kirjalike ülesannete puhul arvestatakse eelkõige töö sisu, kuid pööratakse tähelepanu ka õpilase keelekasutusele, eelkõige liikumis- ja sporditerminite õigele kasutusele ja õigekirjale, mida arvestatakse hindamisel ülesande eesmärgi ja kokkulepitud hindamiskriteeriumide põhjal.</p><p>Erineva keerukusastmega teadmiste, oskuste ja hoiakute hindamiseks kasutatakse mitmekesiseid hindamisviise ja -vorme. Hindamisvahendi ja -viisi valik sõltub seatud õppeeesmärkidest ning eeldatavast õpitulemusest.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa2.pdf",
+          "title": "Allikas: Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 2"
+        }
+      ]
+    }
+  ]
+}

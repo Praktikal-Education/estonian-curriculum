@@ -1,0 +1,264 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse keskmes on <strong>teadliku enesejuhtimise ja eneseregulatsiooni kujundamine</strong> sportlase ja õpilase rolli tasakaalustamise kaudu. Treeningut käsitletakse õppimise ja enesearengu keskkonnana. Õpilane analüüsib treeningkoormust, õppetööd, taastumist ja heaolu, seab eesmärke ning rakendab <a href=\"https://www.teeviit.ee/category/oppimine-haridus/ajaplaneerimine-ja-eesmargid/\">ajaplaneerimise</a> ja eneseregulatsiooni võtteid. Kursuse käigus arendatakse õpilase <a href=\"https://reflection.ed.ac.uk/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle\">eneseanalüüsi</a>, dokumenteerimis- ja <a href=\"https://peaasi.ee/teema/suhtlemine/\">suhtlemisoskust</a> ning oskust hinnata oma panust treeningrühma või spordikogukonna tegevustesse. Õppeprotsess toimub valdavalt õpilase tavapärases spordi- ja treeningkeskkonnas. Treener toetab õppeprotsessi, võimaldades õpilasel osaleda juhendatud treeningutel ja andes vajadusel informatiivset <a href=\"https://liikumisopetus.ee/oppimine-ja-motivatsioon/tagasisideandmine/\">tagasisidet</a> õpilase osalemise kohta. Kool toetab õpilast kogemuste analüüsimisel ning nende seostamisel formaalõppega.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse sihtrühm",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus on suunatud gümnaasiumiõpilastele, kes tegelevad regulaarselt spordiga ja osalevad süsteemselt juhendatud treeningutel ning on valmis analüüsima oma tegevust ja arengut ning panust treeningrühma või spordikogukonna tegevustesse.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on arendada õpilase oskust teadlikult siduda sport ja õppimine, kujundada enesejuhtimis- ja eneseregulatsioonioskust. Kursus toetab õpilase sportliku ja akadeemilise arengu tasakaalustamist eesmärgistamise, ajaplaneerimise ja treeningul toimuva õppimise mõtestamise ning analüüsi kaudu.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse maht",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse maht on 35 akadeemilist tundi, millest vähemalt 20 tundi hõlmab õpilase osalemist juhendatud treeningutel ja kuni 15 tundi analüüsimist ja juhendatud arutelusid koolis.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse täpsem töökorraldus lepitakse kokku õpilaste ja õpetaja vahel, arvestades treeningkoormust, spordiala eripära ja kooli õppekorraldust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "eesmärkide seadmine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "seab realistlikud õppe-, spordi- ja enesearengueesmärgid ning kavandab vastavad tegevused, võttes vastutuse oma õppimise ja arengu eest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>eesmärkide seadmine</li><li>tegevuste kavandamine</li><li>vastutuse võtmine õppeprotsessis</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>sõnastab lühema ja pikema perioodi realistlikud õppe-, spordi- ja enesearengu eesmärgid, kasutades eesmärgistamise põhimõtteid;</li><li>analüüsib varasemaid eesmärke ja nende saavutamist mõjutanud tegureid;</li><li>koostab nädala- ja päevaplaani, seades prioriteete ning katsetades erinevaid <a href=\"https://www.teeviit.ee/category/oppimine-haridus/ajaplaneerimine-ja-eesmargid/\">ajaplaneerimise</a> meetodeid;</li><li>eristab protsessi-, arengu- ja tulemus­eesmärke;</li><li>koostab eesmärkide saavutamiseks tegevuskava koos vahe-eesmärkidega;</li><li>hindab kavandamise mõju oma toimetulekule ja eesmärkide saavutamisele ning teeb vajadusel muudatusi.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "õppimis- ja arenguprotsessi analüüs",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib treeningut õppimis- ja arenguprotsessina, kirjeldades treeningukoormuse, õppetöö, taastumise ja heaolu omavahelisi seoseid ning tehes järeldusi oma edasiseks tegutsemiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>õppimis- ja arenguprotsessi analüüs</li><li>treeningkoormus</li><li>õppetöö, taastumise ja <a href=\"https://peaasi.ee/\">heaolu</a> omavahelised seosed</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kirjeldab ühe perioodi (nt nädala) ajakasutust, arvestades treeninguid, õppetööd, iseseisvat õppimist, puhkust ja und;</li><li>kirjeldab treeningu sisu, ülesehitust, koormust ja intensiivsust ning seostab neid enda enesetunde ja õppimisega;</li><li>analüüsib treeningul toimuvat õppimist, tuues esile harjutamise, kordamise, <a href=\"https://liikumisopetus.ee/oppimine-ja-motivatsioon/tagasisideandmine/\">tagasiside</a> kasutamise, eksimise ja pingutamise rolli arenguprotsessis;</li><li>analüüsib treeningu, õppetöö ja taastumise tasakaalu ning selle mõju oma toimetulekule ja heaolule;</li><li>sõnastab järeldused ning koostab tegevusplaani edasiste õppimis- ja arengueesmärke saavutamiseks.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "eneseregulatsiooni võtted",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "r akendab ja analüüsib eneseregulatsiooni võtteid, et toetada oma õppimist, sportlikku tegutsemist ja heaolu erinevates olukordades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>eneseregulatsiooni võtted</li><li><a href=\"https://peaasi.ee/\">eneseregulatsiooni</a> võtete rakendamine õppimisel, sportlikul tegutsemisel ja heaoluolukordades</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kasutab tähelepanu juhtimise, keskendumise ja sisekõne võtteid ning analüüsib nende mõju oma õppimisele, sportlikule tegutsemisele ja toimetulekule pingeolukordades;</li><li>kirjeldab oma motivatsiooni, pingutust ja püsivust erinevates treeningolukordades ning analüüsib nende mõju õppimisele, arengule ja heaolule;</li><li>analüüsib toimetulekut eksimuste, tagasilöökide ja ebaõnnestumiste korral ning hindab oma reaktsiooni tõhusust;</li><li>kasutab enesehoiuvõtteid ja analüüsib nende mõju oma heaolule ning suutlikkusele pingeolukordades;</li><li>sõnastab järeldused ning koostab tegevusplaani eneseregulatsiooni ja toimetuleku edendamiseks õppimise ja sportlike eesmärkide paremaks saavutamiseks.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "konstruktiivne tagasiside",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasu tab teadlikult toetavaid suhtlemisviise ja konstruktiivset tagasisidet ning analüüsib oma rolli toetava ja turvalise õhkkonna kujundamisel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>konstruktiivne tagasiside</li><li>suhtlemisviisid ja turvaline õhkkond</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kuulab treeningkaaslasi ja arvestab nende vajaduste ning eripäradega;</li><li>märkab treeningkaaslaste tugevusi ja toetab neid sobival viisil;</li><li>annab ja võtab vastu <a href=\"https://liikumisopetus.ee/oppimine-ja-motivatsioon/tagasisideandmine/\">tagasisidet</a> arvestaval ja konstruktiivsel viisil;</li><li>analüüsib oma käitumist emotsionaalselt laetud olukordades ning kirjeldab kasutatud toimetulekustrateegiaid;</li><li>analüüsib oma käitumise mõju treeningurühma sotsiaalsele kliimale, kuuluvustundele ja ühiste eesmärkide saavutamisele;</li><li>sõnastab järeldused ning koostab tegevusplaani, kuidas oma <a href=\"https://peaasi.ee/teema/suhtlemine/\">suhtlemisoskusi</a> ja rolli rühmas tulevikus paremini rakendada.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "sportlaseks kujunemine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõtestab oma kujunemist sportlasena ja isiksusena spordikogemuse kaudu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>sportlaseks kujunemine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>toob näiteid treening- ja võistlussituatsioonidest ning analüüsib oma käitumise tagajärgi;</li><li>kasutab spordivahendeid ja -taristut vastutustundlikult, eesmärgipäraselt ja ohutult;</li><li>analüüsib oma tugevusi ja arengukohti, sh iseloomu ja psühholoogilise vastupidavuse valdkonnas;</li><li>sõnastab järeldused ja koostab tegevusplaani, kuidas oma sportlikku arengut ja isiksuse kujunemist edasiselt toetada.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "õppeprotsessi analüüs",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "dokumenteerib, analüüsib ja esitleb oma õppimist ning arengut, tuues esile nii isikliku edenemise kui ka oma panuse treeningurühma või spordikogukonda",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p><a href=\"https://peaasi.ee/opime-oppima/\">õppimist</a></p>"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>õppeprotsessi analüüs</li><li>dokumenteerimisviisid</li><li>õppimise ja arengu dokumenteerimine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud õppetegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>valib sobiva dokumenteerimisvormi ja peab järjepidevat arvestust treeningu, õppimise ja enesearengu kohta;</li><li>kirjeldab oma osalemist ja panust treeningurühma või spordikogukonna toetavates tegevustes;</li><li>koostab kursuse lõpus koondanalüüsi, seostades hinnangud kogutud kogemuste ja tähelepanekutega;</li><li>esitleb oma arengut suulises arutelus või esitlusel;</li><li>sõnastab edasised arengueesmärgid ja koostab tegevusplaani nende saavutamiseks.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine, sh mitteformaalõppes läbitud kursuste hindamise alused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursust hinnatakse mitteeristavalt (arvestatud/mitte arvestatud).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilast hinnatakse tema esitatud dokumentatsiooni põhjal, mis kajastab treeningkeskkonnas toimunud õppimist, arengut ja selle teadlikku mõtestamist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Arvestuse saamise eeldused on:</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li>treeningpäeviku kokkuvõtte ja kirjaliku eneseanalüüsi esitamine;</li><li>kursuse lõpus toimuval suulisel arutelul või esitlusel osalemine ning oma seisukohtade põhjendamine;</li><li>aktiivne osalemine õppetegevustes;</li><li>koostööd treeneri ja õpetajaga.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamisel keskendutakse õpilase analüüsioskusele: võimele hinnata oma treeningkoormust, seada eesmärke, analüüsida enda käitumist treeningkeskkonnas, rakendada eneseregulatsiooni võtteid, teha põhjendatud järeldusi ning sõnastada edasised arengusuunad. Oluline on oskus luua seoseid praktilise treeningkogemuse, kursuse õpitulemuste ning oma panusega treeningurühma või spordikogukonda. Õpilase sportlikku taset ega võistlustulemusi hindamisel ei arvestata. Fookuses on õppimise teadlik analüüs ja arenguprotsessi mõtestamine.</p>"
+        }
+      ]
+    }
+  ]
+}

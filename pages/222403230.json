@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus ja eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetuse eesmärk põhikoolis on kujundada õpilastes eakohane matemaatikapädevus, mis tähendab matemaatika mõistete, seoste ja protseduuride tundmist, nende sisemise loogika mõistmist ning rakendamise oskust nii eluliste kui ka ainealaste probleemide lahendamisel, hõlmates ka matemaatika sotsiaalse, kultuurilise ja isikliku rolli mõistmist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetuse peamine eesmärk on matemaatikapädevuse kujundamine. Õppeprotsessi käigus omandatakse matemaatikale omane keel, sümbolid ja meetodid, mis loovad võimaluse:</p><ol><li>kirjeldada seoseid matemaatiliselt;</li><li>koostada ja lahendada probleemülesandeid;</li><li>uurida ja rakendada erinevaid lahendusstrateegiaid;</li><li>analüüsida olemasolevat informatsiooni ja jõuda loogilise arutluse kaudu järeldusteni;</li><li>kasutada otstarbekalt info- ja kommunikatsioonitehnoloogia vahendeid;</li><li>hinnata oma arengut matemaatikateadmiste ja -oskuste omandamisel.</li></ol>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Põhikooli lihtsustatud riikliku õppekava matemaatika ainekava on üles ehitatud kontsentrilisuse printsiibil, mis tähendab, et üks teema kasvab välja teisest või täiendab seda, tuginedes aine enese sisemisele loogikale. Sellise aineesituse juures käsitletakse sama teemat mitmes erinevas kontsentris ja erinevates klassides. Iga uue käsitluse korral lisandub juba teadaolevale midagi uut, mis aitab luua õpilastel terviklikku ja süsteemset pilti matemaatika kui aine olulisematest mõistetest ja seotusest teiste õppeainete ja rakendustega igapäevaelus. Matemaatika õpetamisel lihtsustatud õppe tasemel õpilastele on kõige olulisem keskenduda nendele matemaatikalastele teadmistele, mis õpetavad lapsi tunnetama tegelikkust ning loovad iseseisva toimetuleku oskused. Koolist saadud kogemused peavad viima õpilasteni arusaama, et omandatud teadmisi ja oskusi läheb neil vaja igapäevases elus praktiliste ülesannete lahendamisel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpetuse eesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetusega taotletakse, et põhikooli lõpuks õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru matemaatika vajalikkusest oma elus ja tegevuses, tunneb rõõmu matemaatikaga tegelemisest",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "omandab iseseisvaks tööks ja koostööks vajalikud oskused ning hoiakud",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "outcome",
+          "text": "õpib ümbritseva maailma esemeid ja nähtusi struktureerima (järjestama, võrdlema, rühmitama, loendama, mõõtma)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab suunamisel otsida matemaatikaalast teavet, kasutab õpetaja juhendamisel või iseseisvalt sobivaid info- ja kommunikatsioonitehnoloogia vahendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb õpitud matemaatilisi mõisteid ja seoseid, rakendab matemaatikateadmisi ning lahendab jõukohaseid probleemsituatsioone teistes õppeainetes ja igapäevaelus",
+          "outcomeType": "skill"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpetaja püüab sisendada õppijasse teatud ideaale ja põhimõtteid. Püüeldakse <a href=\"https://projektid.edu.ee/pages/viewpage.action?pageId=169088500\">riiklikus õppekavas kirjeldatud tehnoloogia valdkonnapädevuste</a> poole, kuid selle saavutamine sõltub õpilase eripärast.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppetegevuse kavandamine ja korraldamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tööõpetus kui õppeaine hõlmab kolme valdkonda:</p><ol><li>tööõpetus (1.–4. klass),</li><li>käsitöö ja kodundus (5.–9. klass),</li><li>tehnoloogiaõpetus (5.–9. klass).</li></ol><p>4. klassis on tööõpetus integreeritud õppeaine, mille tundides õpetatakse käsitöö, kodunduse ja tehnoloogiaõpetuse algtõdesid ning valmistatakse õpilasi ette õpperühmade valimiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Alates 5. klassist moodustab kool õpilaste soovide ja huvide põhjal õpperühmad, millesse jagunedes on õpilastel võimalus õppida kas käsitööd ja kodundust või tehnoloogiaõpetust.</p><p>Õpperühmadesse jagunemine ei ole soopõhine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teemade järjestus õppeaastas kavandatakse käsitöö ja kodunduse ning tehnoloogiaõpetuse õpetajate koostöös ja kirjeldatakse kooli õppekavas.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Käsitöö ja kodunduse ning tehnoloogiaõpetuse taotletavad õpitulemused vahetatud õpperühmades esitatakse kooli tööõpetuse ainekavas.</p><p>Tööõpetuse kooli ainekava võib koostada ka nii, et 5.–9. klassis õpetatakse mõlemat valdkonda ühendatult, mis võimaldab õpilastel omandada vajalikul määral teadmisi ja oskusi nii käsitöös ja kodunduses kui ka tehnoloogiaõpetuses.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tööõpetusega taotletakse, et põhikooli lõpuks õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb rõõmu ja rahulolu praktilise töö tegemisest ning selle tulemustest, väärtustab tööd ja töö tegijat",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab ja hoiab rahvuskultuuri",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunnetab oma loomingulisi võimeid ja oskusi",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab ja teeb teoks oma ideed, hindab ja vajaduse korral korrigeerib valmistööd",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kasutada suulisi ja kirjalikke tööjuhendeid, teksti ja lihtsaid tööjooniseid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ja kasutab säästlikult erinevaid materjale, tunneb töövahendeid ja materjalide töötlemisviise, järgib tööprotsessis ohutuid ja ergonoomilisi töövõtteid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hoiab puhtust ja korda ning täidab isikliku hügieeni nõudeid",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab tervisliku toitumise vajalikkust, lähtub toitu valides ja valmistades tervisliku toitumise põhimõtetest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "käitub teadliku tarbijana",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "töötab üksi ja koos teistega, väärtustab tööks vajalikke isiksuseomadusi ning mõistab, miks on erinevad oskused ja hoiakud igapäevaelus ning tulevases tööelus olulised",
+          "outcomeType": "competence"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://www.riigiteataja.ee/aktilisa/1080/3202/3004/18m_pohi_liht_lisa1.pdf#",
+          "title": "18m_pohi_liht_lisa1.pdf"
+        }
+      ]
+    }
+  ]
+}

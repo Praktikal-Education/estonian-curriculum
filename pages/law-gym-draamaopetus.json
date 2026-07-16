@@ -1,0 +1,283 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Draamaõpetus on valikkursus, mis toetab kõikide teiste ainete õppimist. Selles kasutatakse teatrivahendeid ja draamatehnikaid õppija loovuse, suhtlemisoskuste ja ettevõtlikkuse arendamiseks ning inimsuhete mõistmiseks. Õpilased õpivad verbaalsete ja mitteverbaalsete draamatehnikate kaudu väljendama oma ideid, mõtestama inimsuhteid, kavandama loovalt draamakeskkondi, tegutsema erinevates situatsioonides ning hindama enese ja teiste toimetulekut kujutletavates olukordades. Koostöine draamategevus toimib kui sotsiaalne laboratoorium, kus on võimalik arendada elulisi oskusi ja võimeid: empaatiat, sallivust, koostöö-, läbirääkimis-, eneseväljendus-, enesekehtestamis- ja refleksioonioskusi, pingetaluvust ja kriitilist mõtlemist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Draama kaudu saab turvaliselt käsitleda õppijaile olulisi tundlikke teemasid ja harjutada erinevaid sotsiaalseid situatsioone. Draama kui kunstivorm kujundab väärtushinnanguid, toetab õpilase kultuurilist identiteeti, ettevõtlikkust ja vastutuse võtmist kodanikuna.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Draamaõpetuses väärtustatakse protsessi, mitte lõpptulemust. Oluline on, et lisaks igas tunnis antavale tagasisidele reflekteeriks õpilane draamaõpetuse kursuse lõppedes kogu õppeprotsessi, sh enese panust ühisloomesse ja koostööoskust kaaslastega. Samuti reflekteerib protsessis osaleja enese toimetulekut, arengut ja saavutusi draamakursusel. Selleks võib kasutada loovtegevuslikke refleksioonimeetodeid: hetke märkimist, pilditehnikat, elavat skulptuuri jne.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Teadmised: õpilane mõistab draama kui kunstiliigi toimimise põhimõtteid, tunneb erinevaid draamatehnikaid ja eakohasel tasemel teatriterminoloogiat.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Oskused: õpilane arendab draamatehnikate kaudu sotsiaalseid oskusi, eneseväljendust ja loovust ning arusaamist inimsuhetest ja ühiskonnast, analüüsib ja tagasisidestab teatrietendust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hoiakud: õpilane väärtustab loomingulist koostööd, ideede paljusust ja võtab vastutuse draama tööprotsessi ja tulemuse eest.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb erinevaid draamatehnikaid ja kasutab neid sotsiaalse tegelikkuse tundma õppimiseks ja sellega toime tulemiseks;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "märkab teiste draamaesitlustes tähenduslikke detaile ja mõtestab neid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "arvestab teiste ideede ja vajadustega;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "järgib koostegevuse reegleid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "viib alustatud tegevuse lõpuni.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "valib oma sõnumi edastamiseks teadlikult kehakeele väljendusvahendid;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "analüüsib teiste esinejate kehakeelt;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab kehakeelt oma enesetunde korrigeerimiseks või kujundamiseks;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "teadvustab žestide ja inimestevaheliste ruumisuhete erinevat tähendust eri kultuurides;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "edastab sõnadeta ja hoolikalt valitud kehakeelt kasutades karakteri, suhteolukorra või sündmuse.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "valib oma sõnumi edastamiseks teadlikult hääle tugevuse, kõrguse, tooni ja kõnetempo;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab ja hoiab oma häält tervislikult.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kuulab ja märkab partnerit ning võtab vastu mängusituatsiooni;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "võtab vastu ja arendab teiste ideid, pakub välja oma lahendusi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "improviseerib üksi või koos kaaslastega etteantud žanris;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "võtab vastutuse ja vajaduse korral juhirolli;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "loob ettevalmistamatult või väikese ettevalmistusajaga teemakohase stseeni või dialoogi.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "võtab arvesse publiku reaktsioone.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "arutleb draamateksti dialoogi ja remarkide põhjal erinevate tegelaskujude ja nende motiivide üle;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "valib teksti esitamiseks sobivad väljendusvahendid.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "kujundab improviseeritud stseenis või lühilavastuses tervikliku rollilahenduse, kasutab selleks sobilikke draamavahendeid: sõna, keha, häält, liikumist, miimikat, rekvisiiti, maski või kostüümi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "eristab temperamendile ja iseloomule vastavaid liikumise, kehakeele ja hääle vahendeid ja rakendab neist sobivaid stseenis karakterit luues;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "kasutab rolli loomisel oma teadmisi või koolis õpitut.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "dramatiseerib meediauudise, luuletuse, laulu, muinasjutu, lühema proosapala või sündmuse oma elust;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "määrab sündmuse, koha, aja ning tegelased;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab oma dramatiseeringu kontseptsiooni, põhjendab dramatiseeringu aspekte ja valikuid – žanrit, ülesehitust, süžeed, tegevuskohta, tegelasi, dialoogi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "lavastab ühe stseeni oma dramatiseeringust või osaleb kellegi teise dramatiseeringus kas näitleja, valgustaja, kostüümikunstniku, grimeerija, helikujundaja või rekvisiitorina",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "märkab teiste draamaesitustes või nähtud teatrietenduses tähenduslikke detaile ja mõtestab neid.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppesisu on jaotatud üheksaks osaks vastavalt kujundatavatele teadmistele ja oskustele, mis omandatakse, kasutades draamaõpetusele omaseid töövõtteid ja tehnikaid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teadmised, oskused: keskendumine ja tähelepanu</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Töövõtted ja tehnikad, reflekteerimine, tagasisidestamine: stseenide kavandamine ja esitamine, esituse analüüs, etüüd.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teadmised, oskused: Kehakeel (miimika, žest, hoiak, rütm, tempo)</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Töövõtted ja tehnikad, reflekteerimine, tagasisidestamine: pilditehnika, aegluubis liikumine, loovtants, rütmiharjutused, pantomiim, peegeldamine, lõdvestumisharjutused.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teadmised, oskused: töö häälega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Töövõtted ja tehnikad, reflekteerimine, tagasisidestamine: Hingamisharjutused, artikulatsiooniharjutused, tekstipõhised harjutused, hääleimprovisatsioonid, sõnalised improvisatsioonid, monoloogi, dialoogi, proosa- või luuletekstide esitamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teadmised, oskused: improvisatsioon.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Töövõtted ja tehnikad, reflekteerimine, tagasisidestamine: improvisatsioon, etüüd</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teadmised, oskused: lugude jutustamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Töövõtted ja tehnikad, reflekteerimine, tagasisidestamine: individuaalne ja rühmatööna loo jutustamine; loo jutustamine pilditehnikas, rekvisiitide, heli- või valgusefektide abil; loo jutustamine kuuldemänguna; protsessdraama ja selle võttestik.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teadmised, oskused: töö tekstiga.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Töövõtted ja tehnikad, reflekteerimine, tagasisidestamine: tekstianalüüs: vaatepunkt, sündmused, tegelased, ülesehitus – kulminatsioon, kujundlikkus, peamõte; teksti esitamine, etüüd.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teadmised, oskused: rolli loomine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Töövõtted ja tehnikad, reflekteerimine, tagasisidestamine: roll seinal, tegelaskuju elulugu, kuum tool, karakteri loomine ja analüüs, individuaalne ja rühmatöö.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teadmised, oskused: dramatiseerimine ja lavastamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Töövõtted ja tehnikad, reflekteerimine, tagasisidestamine: alustekstide analüüs, dramatiseeringu loomine, teiste dramatiseeringute tagasisidestamine, rühmatöö, etüüd, improvisatsioon.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teadmised, oskused: etenduse vaatamine ja analüüs.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Töövõtted ja tehnikad, reflekteerimine, tagasisidestamine: suuline või kirjalik tagasiside etendusele; etenduse analüüs: kontseptsioon, žanr, stiil, lugu, ülesehitus, kujundlikkus, näitlejate mäng, heli- ja valguskujundus, kostüümid, rekvisiidid, teema ajakohasus ja olulisus; oma arvamuse sõnastamine ja argumenteerimine</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on arvestuslik (arvestatud/mittearvestatud). Hinnatakse õpilase aktiivset osalemist ja nii ideelist kui ka tegevuslikku panust draamaülesannete täitmisel. Draamaõpetaja annab vastavalt vajadusele kursuse vältel õpilastele nende arengu kohta tagasisidet. Draamas väärtustatakse protsessi samavõrd kui tulemust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

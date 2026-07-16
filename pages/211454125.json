@@ -1,0 +1,672 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Geograafia areng ja uurimismeetodid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab üldjoontes geograafiateaduse arengut, seoseid teiste teadusharudega ning nüüdisaegseid uurimismeetodeid geograafias",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kavandab ja korraldab geograafiauuringuid, teeb vaatlusi ja mõõdistamisi ning korraldab küsitlusi andmete kogumiseks",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab eesti- ja võõrkeelseid teabeallikaid, sh kohateabe teenuseid ja geoportaale, et leida infot, analüüsida seoseid ning teha üldistusi ja järeldusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab teabeallikatest leitud info põhjal ülevaate mõnest objektist, nähtusest või piirkonnast",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tõlgendab eri projektsioonide ja kujutusviisidega kaarte ning määrab kaardi põhjal koha ristkoordinaadid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab kaardi või mõne muu ruumiinfot edastava mudeli.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Geograafiateaduse areng ja peamised uurimisvaldkonnad.</p><p>Nüüdisaegsed uurimismeetodid geograafias.</p><p>Asukoha määramise meetodid ja nende rakendused.</p><p>Andmebaasid, geoinfosüsteemid ja kohateabe analüüs.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>regionaal-, loodus- ja inimgeograafia; süsteemkäsitlus ja valdkondadevaheline koostöö; kaugseire, fotogramm-meetria; asukoht ja positsioneerimistehnoloogiad; ruumiandmed, kohateave ja GIS, veebipõhised andmebaasid, ruumilised päringud ja asukohapõhised teenused, ristkoordinaadid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Probleemülesannete lahendamine maa-ameti geoportaali ja teiste kaardirakenduste abil.</li><li>Ühe geograafia-alase uuringu läbiviimine ja vormistamine (sellel või järgnevatel kursustel).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema on sissejuhatus gümnaasiumi geograafiaõppesse, mis annab põgusa ettekujutuse geograafiateaduse arengust ning geograafia peamistest uurimissuundadest tänasel päeval. Oluline, et õpilased mõistaksid, kuidas on omavahel seotud teadus ja tehnoloogia areng ning saaksid aru, et teadus, sh geograafiateadus, on pidevas muutumises.</p><p>Teema raames saavad õpilased ülevaate, mis valdkondadeks geograafia jaguneb ja mis ametites geograafid rakendust leiavad, seega annab antud teema märkimisväärse panuse õpilaste karjäärivalikuks. Geograafia on integratiivne aine, mis on tihedalt seotud ühelt poolt teiste loodusteadustega (füüsika, keemia, bioloogia) ja teisalt sotsiaalteadustega (majandus, ajalugu, ühiskonnaõpetus) lõimides erinevaid teadusvaldkondi. Seega toetub geograafia õppimine paljudes teistes ainetes omandatud teadmistele ja oskustele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Gümnaasiumi geograafia sissejuhatavas tunnis võiks alustada kaardi teemaga, rõhutades, et kaart on oluline info allikas ja ühtlasi geograafide peamine töövahend. Kõik kohaandmed on ruumiandmed, mille põhjal luuakse geoinfosüsteeemid. Kindlasti on vaja gümnaasiumi I kursuse alguses üle korrata kaardiõpetuse põhitõed: eri tüüpi leppemärgid, kaardiprojektsioonid, erinevad koordinaatide määramise viisid jms. Kordamiseks on soovitav anda õpilastele probleemülesandeid, mida saab lahendada maa-ameti ja Google kaardirakenduste abil. Kasutamiseks sobivad ka põhikooli geograafiaolümpiaadide kaardiülesanded Moodles.</li><li>Hea kaardi kasutamise kogemuse saavad õpilased, kui koostavad ise mõne lihtsa kaardi oma kogutud andmete või veebimaterjalide põhjal (nt Google My Maps teekonna kaardistamine, Google Sheets geograafiline diagramm, Scribble Mapps vookaart rände või väliskaubanduse andmetega vms).</li><li>Tutvutakse erinevate andmekorje meetoditega - peale küsitluste, vaatluste ja mõõtmiste tehakse tutvust satelliit- ja aerofotografeerimise teel kogutud andmetega ning õpitakse neid analüüsima (nt asulate laienemine, metsaraie, rannajoone muutused jms).</li><li>Teemakohaseid õpitulemusi arendatakse kõigi gümnaasiumi kursuste jooksul. Näiteks õpilane planeerib kliima alase uuringu, kogub andmeid ja teeb võrdlusi ning järeldusi Maa kui süsteem kursusel ja saavutab selle õpitulemuse alles siis. Õpilane võib koostada ülevaate mõne riigi majandusest, turismist, rahvastikupoliitikast või millestki muust ja omandab selle käigus õpitulemuse nr 4.</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://moodle.edu.ee/course/view.php?id=15059",
+              "title": "Geograafiaolümpiaadide kaardiülesanded Moodles"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211454125/Maa-ameti_praks_Univer.pdf?version=1&modificationDate=1706621728972&api=v2",
+              "title": "Näide tööst Maa-ameti kaardiga."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.google.com/maps/d/u/0/",
+              "title": "Google My Maps"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.scribblemaps.com/create/",
+              "title": "Scribble Mapps"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>kasutab Maa-ameti, Google kui ka teisi kaardirakendusi probleemide lahendamiseks; (LT pädevus 2, 5, digipädevus)</li><li>määrab koha geograafilised ja ristkoordinaadid; (LT pädevus 3, 5, õpi- ja digipädevus)</li><li>oskab kohta leida koordinaatide järgi. (LT pädevus 3, 5, õpi- ja digipädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kaardiõpetuse põhitõed omandatakse 7. klassis</p><p>Eesti ja Euroopa rahvastiku ja majandusandmed 9. klassis</p><p>Eesti keel: õigekeel</p><p>Võõrkeel: sõnavara</p><p>Matemaatika: andmete töötlemine</p><p>Elukestev õpe: karjäär ja elukutsed (kartograaf, andmeanalüütik, geodeet, geoinformaatik, geograaf)</p><p>Keskkond ja jätkusuutlik areng: pikad andmeread ja vanad kaardid võimaldavad näha muutusi ja teha prognoose</p><p>Teabekeskkond ja meediakasutus: sobivate allikate leidmine ja andmete usaldatavuse kontroll</p><p>Tehnoloogia ja innovatsioon: satelliidid, GPS, lidarid, radarid, droonid jm andmeid koguvad ja edastavad tehnoloogilised seadmed</p><p>Tervis ja ohutus: välitingimustes praktiliste tööde ohutus</p><p>Väärtused ja kõlblus: andmete analüüsil ja kokkuvõtete tegemisel solvava kõnepruugi vältimine, uuritavate isikuandmete hoidmine, lugupidav suhtumine</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Gümnaasiumis on soovitav vähemalt 70% kursusel omandatud teadmistest hinnata arvestusega ja kuni 30% jooksvalt.</p><p>Jooksvalt võib hinnata erinevatelt kaartidelt info lugemist, samuti kaartide koostamist, kuid seda võib teha järgnevate teemade raames.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19019-Geograafia-1-kursus-Rahvastik-ja-majandus/222023",
+              "title": "E-koolikoti ülesanded: Geograafiateaduste areng"
+            },
+            {
+              "kind": "link",
+              "href": "https://moodle.edu.ee/course/view.php?id=15059",
+              "title": "Moodle kursus: \"Geograafia olümpiaadi ülesanded\""
+            },
+            {
+              "kind": "link",
+              "href": "https://geoportaal.maaamet.ee/",
+              "title": "Maa-ameti geoportaal"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.google.com/maps",
+              "title": "Google Maps kaardirakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.google.com/earth/about/versions/",
+              "title": "Google Earth allalaaditav"
+            },
+            {
+              "kind": "link",
+              "href": "https://earth.google.com/web/",
+              "title": "Google Earth veebirakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/maailmaharidus/",
+              "title": "Mis on maailmaharidus?"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opiq.ee/Kit/Details/256",
+              "title": "Globaliseeruv maailm. Valikaine kursuse materjalid (tasuta kasutamiseks)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.gapminder.org/",
+              "title": "Veebipõhised viktoriinid, interaktiivsed kaardid, Doolar Street rakendus (inglise keeles)"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/?c=et,film",
+              "title": "Maailmakooli dokumentaalfilmikogu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Maailma rahvastik ja asustus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab rahvastiku-uuringute olulisust, uurimistulemuste kasutamise võimalusi ühiskonnas ja piiranguid",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib andmeportaalide andmete põhjal rahvastikuprotsesse ning nende seost ühiskonna arenguga eri riikide näiteil",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab riigi rahvastikusituatsiooni demograafilise ülemineku etapiga",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab rahvusvaheliste rännete peamisi suundi ning analüüsib mõne piirkonna rännet, seostades selle tõmbe- ja tõuketeguritega ning tagajärgedega lähte- ja sihtriigile",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab rahvastikupoliitika meetmeid ja nende mõju ühiskonnale",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib teabeallikate põhjal rahvastiku paiknemist ja tihedust maailmas, mõnes regioonis või riigis",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib linnastumise kulgu maailmas ja eri arengutasemega riikides ning kaasnevaid sotsiaal- ja keskkonnaprobleeme",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab teabeallikate põhjal mõne linna sisestruktuuri.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Maailma rahvaarv ja selle muutumine. Sündimust ja suremust mõjutavad tegurid. Demograafiline üleminek. Rahvastiku struktuur ja selle mõju riigi arengule. Rände põhjused ning liigitamine. Peamised rändevood maailmas. Rändega seotud probleemid. Rahvastikupoliitika.</p><p>Rahvastiku paiknemine ja tihedus maailmas.</p><p>Linnastumine arenenud ja arengumaades.</p><p>Linnade sisestruktuur ning selle muutumine.</p><p>Linnastumisega kaasnevad probleemid arenenud ja arengumaades.</p><p>Linnakeskkond ning selle planeerimine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>demograafia, demograafiline üleminek, traditsiooniline rahvastiku tüüp, nüüdisaegne rahvastiku tüüp, demograafiline plahvatus, rahvastiku vananemine, sündimuse üldkordaja, suremuse üldkordaja, loomulik iive, rahvastiku soolis-vanuseline koosseis, migratsioon, immigratsioon, emigratsioon, migratsiooni tõmbe- ja tõuketegurid, rahvastikupoliitika; linnastumine, eeslinnastumine, vastulinnastumine, taaslinnastumine, ülelinnastumine, linnastu, megalopolis, slumm, linna sisestruktuur.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Teabeallikate põhjal ühe valitud riigi demograafilisest situatsioonist ülevaate koostamine või riikide võrdlemine.</li><li>Teabeallikate põhjal rahvastiku paiknemiste analüüs mõnes regioonis või riigis.</li><li>Mõne riigi asustuse analüüs või mõne linna sisestruktuuri analüüs teabeallikate (nt Google kaardi) põhjal.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemat õppides mõistavad õpilased, miks on rahvastikualased uuringud olulised ja kuidas erineb rahvastikusituatsioon maailma riikide lõikes. Õpilased saavad ettekujutuse maailma rahvaarvu muutumisest ja selle põhjustest, rahvastiku paiknemisest, rahvastikuprotsessidest ja nende seosest ühiskonna arenguga. Kujunevad õpilaste hoiakud ja väärtushinnangud, rõhutatakse sallivust teiste rahvaste kommete, traditsioonide ja religiooni suhtes ning tutvustatakse kultuurilist mitmekesisust. Tutvutakse veebiportaalidega, kust saab rahvastikuandmeid, harjutatakse andmete tõlgendamist, graafikute ja diagrammide koostamist ja analüüsi ning temaatiliste kaartide lugemise ja tõlgendamise oskust.</p><p>Õpilased saavad ettekujutuse, kuidas on toimunud asustuse areng arenenud ja arengumaades. Õpilased saavad rakendada teadmisi linnade sisestruktuurist ja selle muutumisest oma koduasula või maailma linnade uurimisel. Asustuse õppimine on tihedalt seotud õpilase koduasula sotsiaalsete ja keskkonnaprobleemidega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sissejuhatuseks võiks arutleda maailma rahvastiku kasvu teemal ning võrrelda rahvaarvu graafikute ja kaartide põhjal nii kogu maailma kui eri piirkondade või riikide rahvaarvu muutusi. Ühtlasi tutvutakse veebilehtedega, kust leida arvandmeid ja kaarte maailma kui ka riikide rahvastiku kohta. Soovitav on anda õpilastele ülesandeid, kus neil tuleb võrrelda maailma (sh erinevate riikide) rahvaarvu muutust ja rahvastiku kasvutempot, riikide võrdlemisel võiks õpilased põhjendada erinevusi.</p><p>Riikide rahvaarvu võrdlemiseks on soovitav kasutada rahvaarvu pindalakarti, mis annab hea visuaalse ettekujutuse rahvaarvu erinevustest riikides.</p><p>Rahvastiku teemade teoreetilise tausta paremaks mõistmiseks on soovitav lasta õpilastel analüüsida rahvastikuprotsesse paaris- või rühmatööna arenenud ja arengumaa näidetel. Selle tegevuse käigus õpivad õpilased andmeid leidma, neid tõlgendama ja analüüsi käigus õpitud teoreetilisi teadmisi (nt demograafiline üleminek, sündimust, suremust mõjutavad tegurid jms) konkreetsete riigi puhul rakendama.</p><p>Demograafilise ülemineku e siirde teooria seostatakse rahvastiku soolis-vanuselise struktuuriga. Selleks leiavad õpilased vastavast andmeportaalist riikide rahvastikupüramiidid, analüüsivad rahvastiku vanuselist jaotust ning seostavad selle demograafilise ülemineku etapiga. Et riike omavahel paremini võrrelda ja erinevuste üle arutleda võiks õpilased selle töö teha paaris- või rühmatööna. Töö läbiviimise eelduseks on arvuti kasutamise võimalus tunnis.</p><p>Lisaks võivad õpilased uurida oma sugupuud, et näha seoseid demograafilise ülemineku etappidega Eestis (millal jõuti 2-lapseliste põlvkondadeni, kuidas muutus eluea pikkus jne).</p><p>Rände teema võib läbi teha rollimänguna või Mondo tunnikavade alusel. Õpilastega võib arutleda, kuidas võivad muutuda rahvusvahelise rände mahud ja suunad seosest kliimamuutustega.</p><p>Rahvastiku paiknemise ja tiheduse käsitlemisel võiks arutleda selle üle, millise kaardi põhjal saab sellest kõige parema ülevaate. Õpilased võiks iseseisvalt analüüsida mõne (etteantud) riigi rahvastiku tihedust ja asustuse paiknemist seostades selle rahvastiku tihedust mõjutavate teguritega. Selleks tuleb kindlasti vaadata ka loodus- ja majanduskaarte.</p><p>Linnastumise teemat käsitledes saavad õpilased teoreetiliste teadmiste (nt linna sisestrukturi mudelid) paremaks mõistmiseks uurida mõne linna eri piirkondi (kesklinn, tööstus-ja elamupiirkonnad, eeslinnad jne) google kaardirakenduse abil kasutades ka tänavavaadet. Samuti võivad õpilased koostada ArcGIS kaardirakenduse baasil kaardituuri linna vaatamisväärsustest ning iseloomustada linna eri piirkondi linna sisestruktuuri mudelite alusel.</p><p>Kodanikualgatust arendatakse koduasula planeeringute plusse ja miinuseid analüüsides, tehakse ettepanekuid või pakutakse ise paremaid lahendusi (nt rattateede kulgemine linnas, parklate asukohad, linna transpordi korraldus, puhkepaigad, räämas aladele uue funktsiooni kavandamine jms).</p><p>Kestliku arengu eesmärkidega tutvumine sobib rahvastiku (eesmärgid 1-5 ja 10) ja asustuse (eesmärk 11) teema juurde. Need eesmärgid seostuvad sotsiaal- ja rahvastikupoliitika teemadega.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://ourworldindata.org/population-growth",
+              "title": "Rahvaarvu graafikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+              "title": "Rahvaarvu muutus"
+            },
+            {
+              "kind": "link",
+              "href": "https://data.worldbank.org/indicator/sp.pop.grow",
+              "title": "Rahvastiku kasvutempo"
+            },
+            {
+              "kind": "link",
+              "href": "https://ourworldindata.org/population-growth?insight=the-world-population-has-increased-rapidly-over-the-last-few-centuries#key-insights",
+              "title": "Rahvaarvu pindalakaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.populationpyramid.net/",
+              "title": "Andmeportaal: riikide rahvastikupüramiidid"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/100020/randeteemalised-tunnikavad-geograafia/",
+              "title": "Mondo tunnikavad"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>võrdleb eri arengutasemega riikide rahvastikku peamiste rahvastikunäitajate põhjal, kasutades andmeportaalides leiduvaid andmeid; (LT pädevus 2, 3, 4, 5, sotsiaalne ja kodanikupädevus, digipädevus)</li><li>leiab internetist arenenud ja arengumaa rahvastikupüramiidi, analüüsib vanuselise jaotuse erinevusi ning seostab need demograafilise ülemineku etapiga; (LT pädevus 2, 3, 4, 5, 8, sotsiaalne ja kodanikupädevus, digipädevus)</li><li>arutleb rände teemal ning toob näiteid rände mõjust siht- ja lähteriikidele lähtuvalt rände liigist; (LT pädevus 4, 5, 8, sotsiaalne ja kodanikupädevus, kultuuri- ja väärtuspädevus, suhtluspädevus)</li><li>analüüsib rahvastiku tiheduse kaardi põhjal asustuse paiknemist mõnes riigis; (LT pädevus 2, 3, õpipädevus)</li><li>eristab ja iseloomustab Google kaardi põhjal etteantud linnas linnakeskust, tööstusrajoone, elurajoone, rohealasid jm sisestruktuuri elemente ja analüüsib nende paiknemist; (LT pädevus 2, 3, 4, 5, 8, kultuuri- ja väärtuspädevus, digipädevus)</li><li>analüüsib koduasula planeeringu plusse ja miinuseid, teeb ettepanekuid olukorra parendamiseks. (LT pädevus 4, 8, kultuuri- ja väärtuspädevus, suhtluspädevus, ettevõtlikkuspädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ühiskonnaõpetus: sotsiaal- ja rahvastikupoliitika</p><p>Matemaatika: mediaan, absoluutne kasv ja kasvutempo</p><p>Ajalugu: ränne erinevatel ajalooetappidel</p><p>Elukestev õpe: karjäär ja elukutsed (demograaf, sotsiaaltöötaja, linnaplaneerija, arhitekt)</p><p>Keskkond ja jätkusuutlik areng: linnastumisega kaasnevad keskkonnaprobleemid</p><p>Kodanikualgatus ja ettevõtlikkus: Kestliku arengu eesmärgid 1-5, 10 ja 11</p><p>Kultuuriline identiteet: maailma rahvaste etniline ja usuline mitmekesisus ning nendega tutvumine; oma sugupuu uurimine ja selle seos demograafiliste protsessidega Eestis</p><p>Teabekeskkond ja meediakasutus: sobivate allikate leidmine ja andmete usaldatavuse kontroll</p><p>Tehnoloogia ja innovatsioon: tulevikulinnad, linnaplaneerimise modernsed võimalused</p><p>Tervis ja ohutus: rändega kaasnevad ohud</p><p>Väärtused ja kõlblus: eri rahvaste etniline ja usuline koosseis ning selle aktsepteerimine, ränne, kultuur ja kohanemine tunnikava</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/kae/",
+              "title": "Kestliku arengu eesmärgid"
+            },
+            {
+              "kind": "file",
+              "src": "https://maailmakool.ee/wp-content/uploads/2022/03/ranne_ja_kultuur.pdf",
+              "title": "Ränne, kultuur ja kohanemine tunnikava"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamismudeli alusel võiks hinnata rahvastikuprotsesside võrdlemist, andmete alusel diagrammide ja kaartide koostamist, ArcGIS kaardirakenduse loomist, aruteludes ja rühmatöödes osalemist. Õppimise käigus võiks õpilasi hinnata ülesannete täitmise alusel (kui kõik tööjuhendi punktid on täidetud, siis saab õpilane maksimumpunktid, õpetaja tagasisidestab, eksimuste eest ei võta punkte maha - see on õppimise protsess ja innustab tegutsema), arvestustöös kursuse lõpul eristav hindamine vastavalt teadmistele ja oskustele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19019-Geograafia-1-kursus-Rahvastik-ja-majandus/222039",
+              "title": "E-koolikoti ülesanded: Rahvastik"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19019-Geograafia-1-kursus-Rahvastik-ja-majandus/222046",
+              "title": "E-koolikoti ülesanded: Asustus"
+            },
+            {
+              "kind": "link",
+              "href": "https://data.worldbank.org/indicator/sp.pop.grow",
+              "title": "Rahvaarvu kasvutempo ja andmed Maailmapanga veebilehel"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/kae/",
+              "title": "Kestliku arengu eesmärgid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.cia.gov/the-world-factbook/countries/",
+              "title": "The World Factbook: riikide üld- ja rahvastiku andmed"
+            },
+            {
+              "kind": "link",
+              "href": "https://ourworldindata.org/",
+              "title": "Our World in Data rahvastikuandmed"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.populationpyramid.net/",
+              "title": "Riikide rahvastikupüramiidid 1950–2100"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.iom.int/data-and-research",
+              "title": "Rände andmed – International Organization for Migration"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/100012/mondo-randekool/",
+              "title": "Mondo rändekool – infograafikud ja tunnikavad"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/randekool/lms/kliimaranne/",
+              "title": "Mondo Rändekooli veebikursus: Kliimaränne"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/100020/randeteemalised-tunnikavad-geograafia/",
+              "title": "Rändeteemalised tunnikavad: geograafia"
+            },
+            {
+              "kind": "link",
+              "href": "https://worldmapper.org/maps/",
+              "title": "Worldmapper kaardid"
+            },
+            {
+              "kind": "link",
+              "href": "https://luminocity3d.org/WorldPopDen/#6/22.340/78.684",
+              "title": "Rahvastiku tiheduse interaktiivne kaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://luminocity3d.org/WorldCity/#4/33.83/-67.50",
+              "title": "Maailma linnade interaktiivne kaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.numbeo.com/cost-of-living/",
+              "title": "Elukalliduse andmed maailma erinevates linnades – Cost of living"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/100045/videoloeng-kas-kliimakriisi-ees-on-koik-vordsed/",
+              "title": "Videoloeng: Kas kliimakriisi ees on kõik võrdsed?"
+            },
+            {
+              "kind": "link",
+              "href": "https://storymaps.arcgis.com/stories/5b4ea8390cfc4972ab01fd1b14952cc9",
+              "title": "Ühe linna lugu – ArcGIS kaardiloo koostamine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ühiskonna areng ja muutused maailmamajanduses",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "seostab tehnoloogia, majanduse ja ühiskonna arengu ning ruumilise korralduse agraar-, industriaal- ja infoajastul",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab üleilmset tööjaotust ja väärtusahela etappide paigutust mõne tööstusharu näitel ning analüüsib sellega kaasnevaid probleeme",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "arutleb rahvusvaheliste ettevõtete rolli üle maailmamajanduses ning toob näiteid nende mõju kohta eri arengutasemega riikidele",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib mõne riigi näitel üleilmastumise eri aspekte ning nende mõju eri eluvaldkondadele",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib transpordiliikide arengut ning nende mõju majandusele, ühiskonnale ja keskkonnale",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib teabeallikate põhjal mõne riigi transpordisüsteemi, selle seost teiste majandusharudega ja mõju keskkonnale",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib teabeallikate põhjal maailma ja mõne riigi turismimajandust, selle seoseid teiste majandusharudega ning mõju keskkonnale ja kultuuriruumile",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb andmeportaalide näitajate põhjal riikide arengutaset ning arutleb näitajate piirangute üle.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Majanduse ja ühiskonna areng ning ruumiline korraldus agraar-, tööstus- ja infoühiskonnas.</p><p>Infoühiskonna majanduse toimimine globaalse tööjaotuse tingimustes mõnede tööstusharude näidetel.</p><p>Rahvusvahelised ettevõtted, nende roll maailmamajanduses.</p><p>Üleilmastumine ehk globaliseerumine, selle eri aspektid ja mõju riikide majandusele.</p><p>Turismimajanduse areng, selle seos teiste majandusharudega ning mõju keskkonnale ja kultuuriruumile.</p><p>Transpordi areng, selle seos teiste majandusharudega ja mõju keskkonnale.</p><p>Riikide arengutaseme mõõtmine ja nende liigitamine arengutaseme järgi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>agraar-, industriaal- ja infoühiskond, üleilmastumine, sisemajanduse kogutoodang (SKT), rahvamajanduse kogutoodang (RKT), inimarengu indeks, majanduse struktuur, primaarne, sekundaarne, tertsiaarne sektor, väärtusahel, ettevõtlusklaster, geograafiline tööjaotus, globaalne tööjaotus, rahvusvaheline ettevõte, turism, turismiteenused, transpordigeograafiline asend, veoteenused, arengumaa ja arenenud riik.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Teabeallikate põhjal ühe valitud riigi transpordigeograafilise asendi või turismimajanduse analüüs.</li><li>Teabeallikate põhjal ühe valitud riigi arengutaseme analüüs või riikide võrdlus arengutaseme näitajate põhjal ja seostamine kestliku arengu eesmärkidega.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilased saavad ettekujutuse ühiskonna arengust ja seda mõjutanud teguritest, seostest tehnoloogia arengu, tootmiskorralduse ja muude ühiskonnaelu valdkondade vahel. Teema on seotud ühiskonnaõpetuse ja ajalooga, kuid geograafias tehakse üldistused lisaks ajalisele dimensioonile teatud teemade lõikes ja rõhutatakse seoseid eri tegevussfääride vahel. Seostatakse ühiskonna arenguetapid ajaloos õpitavate ajaperioodidega. Saadakse ülevaade, mis näitajatega iseloomustatakse riikide arengutaset ning kuidas mõjutab üleilmastumine majanduse arengut.</p><p>Ülevaade maailmamajanduse arengust avatakse põhjalikumalt autotööstuse, turismi, transpordi ja kaubanduse arengut vaadeldes. Areneb oskus kasutada mitmesuguseid teabeallikaid ja kriitiliselt hinnata erinevaid arengutaseme näitajaid, süveneb oskus töötada temaatiliste kaartidega. Areneb õpilaste oskus seostada Eesti majandus- ja arengutaseme näitajaid maailma näitajatega, näha Eestit maailma kontekstis. Teema raames kujunevad õpilaste keskkonnaalased hoiakud ja väärtushinnangud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selle osa alateemasid võib käsitleda teistsuguses järjekorras lähtudes sellest, mis klassis seda kursust õpitakse või kuidas saaks neid teiste ainetega paremini lõimida. Järgnevad metoodilised soovitused on toodud õpitulemustega samas järjestuses.</p><p>Põhikooli ajaloos on ühiskonna ja majanduse arengut käsitletud suurte ajaperioodide lõikes, geograafias tehakse veelgi suurem üldistus ning vaadeldakse ühiskonna arengut agraar-, tööstus- ja infoühiskonna lõikes. Oluline on rõhutada seoseid tehnoloogia arengu, tootmise viisi, valitsevate majandustegevuste (sh hõive) ja üldse majanduse ning ühiskonna ruumilise korralduse vahel. Seoste rõhutamiseks võib (veel)kord vaadata lõiku videost tööstusrevolutsiooni kohta, kus neid seoseid hästi näidatakse. Õpilased võiksid tehnoloogia arengu seoseid muude valdkondadega arutleda mõne toote valmistamise näidetel (nt kuidas on muutunud aja jooksul rõivaste või jalanõude valmistamine käsitööst tänapäevase masstootmiseni).</p><p>Infoühiskonna majanduse toimimise mõistmiseks on oluline aru saada globaalse tööjaotuse olemusest, tootmise jaotumisest väiksemateks etappideks ja nende etappide panusest üldisesse väärtusahelasse (kasumi teenimisse) ja paiknemisest eri arengutasemega riikides. Kõike seda on hea iseloomustada autotööstuse näitel, kuid selleks võib kasutada ka teisi majandusharusid.</p><p>Rahvusvaheliste firmade temaatika on tihedalt seotud globaliseerumisega. Soovitav on õpilastega arutleda selle üle, miks ettevõtted muutuvad rahvusvaheliseks ja miks riigid vajavad oma majanduse arendamiseks investeeringuid. Rahvusvaheliste firmade mõju üle võiks arutleda kahel tasandil: mõju riigile ja mõju ettevõttele endale. Mõju aspekti võib välja tuua ka mõne rahvusvahelise firma kohta koostatud ülevaates. Rahvusvahelisi firmasid uurides võiks ülevaates välja tuua asukohamaa, asutamisaasta, hargmaisuse, tegevusvaldkonnad enne ja nüüd, aastase käibe ja kasumi, logo, millised tootmisetapid on laienenud ka Eestisse jm huvitavat. Lühikirjelduse saab teha nt Padlet'i tahvlile või Google Jamboard tahvlile.</p><p>Globaliseerumist võib nimetada majandusgeograafia läbivaks teemaks, mille eri aspekte saab vaadelda pea kõikide majanduse ja ka paljude rahvastikuga seotud teemade õppimisel. Kuna globaliseerumise kohta ilmub arvukalt artikleid, siis võiksid õpilased teema eri aspektide paremaks mõistmiseks otsida artikli ja teha sellest lühikokkuvõtte.</p><p>Turismi teema võib siduda asustuse teemaga, kui koostatakse ülevaadet uuritavast linnast, saab sinna lisada ka turismi osa - vaatamisväärsused ja turismisektori arendamise võimalused.</p><p>Ka transpordi teema saab siduda nii asustuse kui turismi teemaga (teedevõrgu tihedus, tähtsamad lennujaamad) kui ka väliskaubandusega (olulised sadamad ja muud transporditeed).</p><p>Riikide arengutaseme teemat võib alustada aruteluga arengutaseme mõõtmise kohta, et välja selgitada, mida õpilased juba teavad sellest valdkonnast ja millised on väärarusaamad.</p><p>Selles peatükis saaks teha mahukama ülesande sidudes kokku nii arengutaseme, globaliseerumise kui ka väliskaubanduse näitajaid. Näiteks koostavad õpilased paaristööna andmekorje mõistekaardile, kus üheks uuritavaks riigiks on arenenud ja teiseks arengumaa. See võimaldab näha erinevusi arvandmetes ning püütakse analüüsida, miks näitajad nii erinevad on.</p><p>Selle teema juurde sobib siduda kestliku arengu eesmärkidest 8, 9 ja 12.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=93G94RJT1to"
+            },
+            {
+              "kind": "link",
+              "href": "https://padlet.com/",
+              "title": "Padlet'i tahvel"
+            },
+            {
+              "kind": "link",
+              "href": "https://coggle.it/diagram/WNOuKwcRtAAByGDh/t/m%C3%B5istekaardi-p%C3%B5hi-globaliseerumise-v%C3%B5rdlus-ja-anal%C3%BC%C3%BCs",
+              "title": "Andmekorje mõistekaart"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>arutleb mõne toote valmistamise näitel, kuidas on omavahel seotud töö iseloom, kasutatavad ressursid, peamised tootmisüksused, osalemine maailma-majanduses jms agraar-, tööstus- ja infoühiskonnas; (LT pädevus 2, 4, 5, 8, ettevõtlikkuspädevus, suhtluspädevus)</li><li>koostab ülevaate mõnest rahvusvahelisest firmast, seostab selle üleilmse tööjaotusega ning analüüsib võimalusel selle mõju Eesti kohalikele ettevõtetele ja majandusele üldse; (LT pädevus 2, 3, 4, 7, 8, sotsiaalne- ja kodanikupädevus, ettevõtlikkuspädevus)</li><li>leiab globaliseerumisteemalise artikli ja koostab sellest lühiülevaate (1 minuti loeng) ning esitleb seda teistele; (LT pädevus 2, 3, sotsiaalne ja kodanikupädevus, suhtluspädevus)</li><li>analüüsib kaartide ja muude teabeallikate põhjal valitud riigi (või linna) transpordigeograafilist asendit ja transpordivoogude intensiivsust kasutades selleks lennu- ja laevaliikluse reaalaja kaarte; (LT pädevus 2, 3, 4, 5, digipädevus)</li><li>koostab valitud riigi (piirkonna/linna) turismi sihtkohtade või vaatamisväärsuste ülevaate ja analüüsib turismisektori arendamise võimalusi; (LT pädevus 3, 4, 5, 8, kultuuri- ja väärtuspädevus, digipädevus)</li><li>koostab mõistekaardi inimarengu alusel riikide võrdlemiseks; (LT pädevus 2, 3, 5, sotsiaalne ja kodanikupädevus)</li><li>võrdleb rühmas erineva arengutasemega riikide majandusandmeid, koostab arvandmetest diagramme ja kaarte; (LT pädevus 2, 3, 4, 5, 8, digipädevus)</li><li>analüüsib riigi väliskaubandust suuremate ekspordi- ja impordiartiklite põhjal. (LT pädevus 3, 4, 5, 8, digipädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajalugu: erinevad ajalooperioodid ja majanduse areng, tööstusrevolutsioon</p><p>Ühiskonnaõpetus: tööhõive, kodanike õigused</p><p>Matemaatika: majandusandmete analüüs, jooniste koostamine ja lugemine</p><p>Võõrkeel: sõnavara täienemine rahvusvaheliste andmebaasidega töötamisel</p><p>Elukestev õpe: karjäär ja elukutsed (majandusanalüütik, ettevõtte juht, turismikorraldaja, logistik)</p><p>Keskkond ja jätkusuutlik areng: loodusvarad, nende kasutamine majandustegevuses ja ammendumine</p><p>Kodanikualgatus ja ettevõtlikkus: Kestliku arengu eesmärgid 8-10 ja 17</p><p>Kultuuriline identiteet: võõrtööjõud ja nende õigused, turistina teises kultuuriruumis</p><p>Teabekeskkond ja meediakasutus: inimarengu, globaliseerumise ja majandusandmed ning nende analüüs</p><p>Tehnoloogia ja innovatsioon: tootmisviiside ajalooline areng ja tuleviku võimalused, tööstusrevolutsioon, autotööstus, kõrgtehnoloogiline tootmine, teaduspargid</p><p>Tervis ja ohutus: töökeskkonna turvalisus</p><p>Väärtused ja kõlblus: turistina teises kultuuriruumis</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Jooksva tööna (nt mõistekaaart) hinnata majandus- ja inimarengu andmete põhjal koostatud analüüsi (kas andmed on usaldusväärsetest allikatest, kas ainult võrreldakse või tuuakse välja ka põhjuseid, miks selline olukord on kujunenud). Kokkuvõtvas arvestustöös eristav hindamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19019-Geograafia-1-kursus-Rahvastik-ja-majandus/222029",
+              "title": "E-koolikoti ülesanded: Muutused maailmamajanduses ja üleilmastumine"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.terveilm.ee/leht/teabekeskuse-teemad/kestliku-arengu-eesmargid/",
+              "title": "Kestliku arengu eesmärgid"
+            },
+            {
+              "kind": "link",
+              "href": "https://hdr.undp.org/data-center/country-insights#/ranks",
+              "title": "Inimarengu andmebaas: Human Development Reports"
+            },
+            {
+              "kind": "link",
+              "href": "https://kof.ethz.ch/en/forecasts-and-indicators/indicators/kof-globalisation-index.html",
+              "title": "Globaliseerumisindeks"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.gfmag.com/global-data/economic-data/largest-companies",
+              "title": "Suuremad rahvusvahelised firmad"
+            },
+            {
+              "kind": "link",
+              "href": "https://howmuch.net/articles/top-100-most-valuable-brands-2020",
+              "title": "Kõige kallimad kaubamärgid maailma regioonides aastal 2020"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.trademap.org/Index.aspx",
+              "title": "Väliskaubanduse andmebaas"
+            },
+            {
+              "kind": "link",
+              "href": "https://whc.unesco.org/en/list/",
+              "title": "UNESCO maailmapärandi objektid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.flightradar24.com/",
+              "title": "Lennuliiklus reaalajas"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.marinetraffic.com/",
+              "title": "Laevaliiklus reaalajas"
+            },
+            {
+              "kind": "link",
+              "href": "https://coggle.it/diagram/WNOuKwcRtAAByGDh/t/m%C3%B5istekaardi-p%C3%B5hi-globaliseerumise-v%C3%B5rdlus-ja-anal%C3%BC%C3%BCs",
+              "title": "Üks võimalik mõistekaardi põhi arengutaseme võrdlemiseks Coggle.it keskkonnas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

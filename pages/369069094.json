@@ -1,0 +1,149 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on kujundada õpilaste väärtus- ja käitumispädevusi, mis toetavad vastutustundlikku, eetilist ja enesekontrollitud tegutsemist erinevates pingelistes ja ebakindlates olukordades. Kursus toetab inimväärikuse ja vastutuse mõtestamist, suhtluskultuuri arengut, enesedistsipliini, eetilist otsustamist, kriisiolukordades käitumist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Psühholoogilise esmaabi e-kursuse eesmärk on kujundada teadmisi, kuidas kriisiolukorras teisi inimesi märgata, kuulata ja toetada. E-kursus koosneb neljast sisumoodulist ja lisamaterjalidest, mille läbimine võtab keskmiselt aega 4 akadeemilist tundi. Psühholoogilise esmaabi e-kursus asub Digiriigi Akadeemia veebikursuste platvormil <a href=\"https://digiriigiakadeemia.ee/course/view.php?id=60\">https://digiriigiakadeemia.ee/course/view.php?id=60</a></p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on mitteeristav.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Psühholoogilise esmaabi e-kursuse läbimiseks on vajalik sooritada lõputest. Lõputest loetakse sooritatuks, kui õigeid vastuseid on vähemalt 80%. Õppijale, kes on läbinud e-kursuse täies mahus ja sooritanud testi lävendile, väljastatakse digitõend.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Selgitab eetika, inimväärikuse, distsipliini ja enesedistsipliini tähendust ning mõistab käitumise mõju teistele;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab stressi ja kriisireaktsioonide mõju inimese käitumisele ja otsustele ning teab psühholoogilise esmaabi põhimõtteid ja samme;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab toetava ja lugupidava suhtlemise põhimõtteid ning mõistab valeinfo ja manipulatsiooni mõju inimese käitumisele;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib eetilisi ja käitumisdilemmasid ning põhjendab oma seisukohti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab lugupidavat suhtlust, lahendab konflikte ja tegutseb rahulikult pingelistes olukordades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab valeinfot ja manipulatsiooni ning reageerib neile asjakohaselt;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab psühholoogilise esmaabi põhimõtteid, toetades kriisiolukorras ennast ja teisi vastutustundlikult.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Riigikaitsega seotud eetilised küsimused, käitumiskultuur, väärikus ja distsipliind",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Riigikaitse eetilised aluse",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>eetika mõiste ja roll riigikaitses;</li><li>seosed demokraatia, inimõiguste ja riigikaitsega;</li><li>sõduri roll demokraatlikus ühiskonnas;</li><li>rahvusvaheliste konventsioonide (nt Genfi konventsioon) põhimõtete üldine tutvustus.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Käitumiskultuur riigikaitses ja kriisiolukorras",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>viisakus, täpsus, usaldusväärsus ja professionaalsus kui käitumiskultuuri alustalad;</li><li>hierarhia ja alluvussuhted – austus inimese ja ametikoha/auastme vastu;</li><li>kiusamise, diskrimineerimise ja ahistamise ennetamine;</li><li>kultuuritundlikkus ja dilemmad (sugu, kultuur, maailmavaade) riigikaitses.</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Väärikus ja inimõigused riigikaitses",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>inimväärikuse hoidmine rahu- ja sõjaolukorras;</li><li>tsiviilisikute ja sõjavangide kohtlemise põhimõtted;</li><li>inimsusevastased teod ja ebakohane käitumine (piinamine, alandamine, omakohus, põhjendamatu jõukasutus);</li><li>inimlikkuse väärikuse säilitamine pingelistes ja ohtlikes olukordades.</li></ul>"
+            },
+            {
+              "kind": "section",
+              "title": "Distsipliin, käsud ja vastutus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>distsipliini mõiste ja roll riigikaitselises organisatsioonis;</li><li>seaduslik ja õigusvastane käsk, käsu täitmise ja täitmata jätmise tagajärjed;</li><li>vastutus sõjakuritegude ja raskete rikkumiste korral.</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Käitumine ja hoiakud igapäevaelus, sh sotsiaalmeedias",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>käitumine avalikus ruumis ja sotsiaalmeedias, infohügieen;</li><li>meeskonnavaim, usaldus ja vastutus koolikeskkonnas ja noorte endi seast;</li><li>distsipliini ja enesekontrolli seosed õppimise, tööharjumuste ja kriisivalmidusega.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Info ja manipulatsioon",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>valeinfo äratundmine ja analüüs;</li><li>digikäitumine;</li><li>Radikaliseerumise protsess ja tunnused.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Psühholoogiline esmaabi",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mis on kriis? Mis mõjutab kriisikogemust? Reaktsioonid kriisiolukorras;</li><li>Mis on psühholoogiline esmaabi kriisireaktsioonis? Psühholoogilise esmaabi sammud – jälgi, kuula, aita. Korduma kippuvad; küsimused psühholoogilise esmaabi osutamisel kriisi sündmuskohal;</li><li>Psühholoogilise esmaabi võtted lähedase toetamisel suitsiidijuhtumi näitel. Ootamatu kokkupuude kannatanuga. Suitsiidiriski; hindamine. Toetava vestluse struktuur. Korduma kippuvad küsimused suitsiidijuhtumi korral:</li><li>Enesehoiu põhimõtetest lähtuv abistamine. Enesehoiu sammud ja tehnikad;</li><li>Eetika kaasuste lahendamine.</li></ul>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

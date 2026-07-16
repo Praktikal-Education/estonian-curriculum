@@ -1,0 +1,48 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppimist, st teabe omandamist ja eneseregulatsiooni mõjutavad õppija täidesaatvad funktsioonid (ingl <em>executive functions</em>). Tegemist on erinevate tunnetusprotsesside ja oma tegevuse planeerimise-reguleerimisega seotud oskustega, mida kasutame õppimiseks, töötamiseks ning oma igapäevaelu juhtimiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Baasilised täidesaatvad funktsioonid on järgmised:</p><ul><li><em>Tähelepanu</em> valib välja need tunnused, mida hakata edasi töötlema. Ilma tähelepanuta ei ole selget teadlikku taju.</li><li><em>Töömälu,</em> milles toimub tähelepanu abil välja valitud ja taju kaudu integreeritud info töötlemine. Seejärel see salvestub püsimällu (Vt õppimisprotsessi mudel, Sherrington, <a href=\"https://teacherhead.com/2020/03/10/a-model-for-the-learning-process-and-why-it-helps-to-have-one/\">2020</a>).</li><li><em>Pidurdusprotsessid</em> aitavad alla suruda kõrvalisi/ebaolulisi mõtteid ning keskenduda õpitavale. Pidurdusprotsessid, töömälu ja tähelepanu töötavad koos, et võimendada seda, mis õpilasele meelde jääb (Aru, 2018).</li></ul>"
+        },
+        {
+          "kind": "video",
+          "src": "https://vimeo.com/289749373"
+        },
+        {
+          "kind": "text",
+          "html": "<ul><li><em>Kognitiivne paindlikkus</em> (ingl <em>cognitive flexibility / flexible thinking</em>) on võime mõelda õpiülesannete sooritamisel mitmele asjale korraga ning vahetada paindlikult tähelepanu fookust.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Alljärgnevas ülevaates on kirjeldatud LÕ-õpilaste tunnetusprotsesside (tähelepanu, taju, mälu, mõtlemine) ja nendega seotud kõne eripärasid. LÕ-õpilaste arenguspetsiifika erineb eakohase arenguga laste omast - tunnetusprotsesside ja kõne areng hilineb ning toimub kindlate (spetsiifiliste) iseärasustega.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>MÄRKUS. Kirjanduses võib leida erinevaid sõnu: kognitiivsed protsessid / psüühilised protsessid / tunnetustegevus / tunnetusprotsessid. Siinses tekstis on edaspidi kasutusel termin <strong>tunnetusprotsessid</strong>.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovitus kuulamiseks.",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Granström, M., Aus, K., &amp; Arro, G. (2018). Kuidas aju õpib? Jaan Aru. [Video].</p>"
+        },
+        {
+          "kind": "video",
+          "src": "https://vimeo.com/289749373"
+        }
+      ]
+    }
+  ]
+}

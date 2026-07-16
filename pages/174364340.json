@@ -1,0 +1,787 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpitulemused 5. klassi lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb ära õpitud sõna kirjapildi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab õpitud sõnu/väljendeid suulises kõnes ja lühikestes kirjalikes tekstides",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb õpitud sõnu/väljendeid, hääldab õigesti ja tõlgib",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vastab jah/ei küsimustele ja teistele lihtsatele küsimustele õpitud sõnavara piires",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab arve 1–10 ja 10–1",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab lihtsamaid õpitud sõnu/väljendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb tähestikku.",
+          "outcomeType": "knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpetamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Määruses fikseeritud õpitulemused on lähtuvalt käsitletavast õppesisust konkretiseeritud.</strong></p><p>Teemad õppesisusse on valitud selle arvestusega, et õpilaste inglise keele alased eelteadmised on väga vähesed või puuduvad üldse. Sõnavara ja grammatikat õpetades võtta eelkõige arvesse õpilaste taset ja võimeid ning vastavalt sellele teha valik pakutud teemade seast.</p><p>Õpilaste tasemed võivad ühe klassi siseselt olla väga erinevad. Tunni raskusastet tuleb tõenäoliselt erinevate õpilaste jaoks kohandada. Õpilased, kelle eelteadmised on väga vähesed võivadki esialgu piirduda vaid üksikute sõnade õppimisega ja nende tõlkimisega ning harjutada hääldamist. Õpilased, kellel on eelteadmisi inglise keelest, võiksid moodustada lauseid, õppida väljendeid ja püüda osaleda dialoogis.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Olulisemate sõnade ja grammatika teemade kohta võiksid klassis olla plakatid või tabelid ning õpilastel isiklikud abivahendid (nt. lamineeritud tabel asesõnadega, mitmuse moodustamise skeem jms). Võib kasutusele võtta ka raudvara vihiku, kuhu õpilane kleebib või paneb kirja olulisemad lausemallid, tableid jm. Abivahendite kasutamist tunnis tuleb õpilastele õpetada ja meelde tuletada.</p><p>Õpetamisel võtta arvesse, et uut informatsiooni tuleks õpilastele pakkuda väikeste koguste kaupa ning harjutamiseks tuleb võtta mitu tundi. Uut grammatilist konstruktsiooni tuleks harjutada mitmete erinevate teemade kontekstis, kasutades erinevat sõnavara aga kindlasti eelnevalt õpitud sõnavara. Uut grammatilist konstruktsiooni ja uut sõnavara koos ei õpita.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "1. Sissejuhatus: Mida ma juba oskan?",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Sissejuhatavas tunnis võiks õpetaja tutvuda õpilastega ja nende inglise keele alaste teadmiste ja kogemustega.</p><ul><li>Arutleda, kus on õpilased inglise keelt kuulnud nt. filmid, laulud raadios, jne.</li><li>Põgusalt võib tutvustada, millistes maades inglise keelt räägitakse ning inglise keele olulisust rahvusvahelise suhtluskeelena.</li></ul><p>Sellest tunnist võiks õpetaja kaasa võtta ideid laulude, luuletuste jms kohta, mida järgnevatel tundidel õpilastega õppida, et õppimine oleks põnev ja seotud õpilaste huvidega.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "2. Tervitused ja tutvustused (Greetings and introduction)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust ja oskab hääldada sõnu ja väljendeid: Hello! Good morning! Good afternoon! Good evening! Good night! How are you? I'm fine, thanks! My name is.../I am..., What is your name?",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tugineda suulisele tööle, kuulamisele, kordamisele.</p><p>Mõned soovitused lauludele ja videotele:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/listen-watch/songs/hello-hello-hello",
+              "title": "Laul"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.bbc.co.uk/learningenglish/english/course/you-ask-we-answer-thai/unit-1/session-6",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Fw0rdSHzWFY"
+            },
+            {
+              "kind": "link",
+              "href": "https://webenglish.se/unit-1-nice-to-meet-you/",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-1/session-1",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://webenglish.se/school-start-1-6/",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.twinkl.co.uk/resource/esl-whats-your-name-lesson-t-eal-1640635532",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Videod valida vastavalt oma klassile, kui mõni õpilane on inglise keeles tugevam, võib tal paluda rohkemat korrata ja öelda ning nõrgematega jääda põhiväljendite piiresse.</p><p>Igapäevaselt vajalikud väljendid võiksid olla tabelina või plakatina klassiruumi seinal/ tahvlil, et õpetaja saaks vajadusel neile tähelepanu suunata. Inglise keelsed tervitused võiksid olla kasutusel igas tunnis.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "3. Õppetunni sõnavara (Classroom language)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust ja oskab hääldada sõnu ja väljendeid: Open/ close your book; sit down; stand up; raise your hand; take out; look at, read, write, listen, repeat, be quiet, speak, walk, go.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tundi alustada inglise keelsete tervitustega ja korraldustega ning veidi korrata eelmises tunnis õpitut - see võiks olla igas tunnis nii.</p><p>Tugineda peamiselt suulisele tööle, kuulamisele, kordamisele.</p><ul><li>Mäng <em>Simon Says</em>. Õpilased annavad üksteisele korraldusi.</li><li>Mäng Alias. Õpilased esitavad korralduse liigutustega ja teised arvavad ning ütlevad korralduse inglise keeles.</li></ul><p>Internetis saadaolev materjal - kuulamine ja pildikaardid:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games/classroom-actions-1",
+              "title": "Kuulamine ja pildikaardid"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games/classroom-actions-2",
+              "title": "Kuulamine ja pildikaardid"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/listen-watch/songs/robot-says",
+              "title": "Kuulamine ja pildikaardid"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Video, mis on veidi keerulisema sisuga, kuid tugevamatele õpilastele ja häälduseks ning tuttavate sõnade kuulamiseks on sobilik:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/listen-watch/video-zone/topsy-tim-classroom-tour",
+              "title": "Video"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Igapäevaselt vajalikud väljendid võiksid olla tabelina või plakatina klassiruumi seinal/ tahvlil, et õpetaja saaks vajadusel neile tähelepanu suunata.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "4. Vajalikud sõnad ja väljendid koolis (Important school nouns and phrases). Lihtlause moodustamine: See on.... (This is..)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust ja oskab hääldada sõnu ja väljendeid ning tunneb ära lihtsamate sõnade kirjapildi: A boy, a girl, a student, a teacher, a classmate, a classroom, school, cafeteria, toilet, a book, a pencil, a pen, a schoolbag, a desk, a computer, can I go out?",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane oskab moodustada lauset This is a ....",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tunnis tugineda peamiselt suulisele tööle ja mängudele sõnavara õppimiseks (alias, memoriin, pildikaartide otsimine, telefonimäng jms).</p><p>Esimeses tunnis tegeleda sõnavaraga, järgmises tunnis lisada grammatika - lause moodustamine.</p><p>Artiklit a/ an tuleb õpilastele seletada. Uue sõna võib kohe koos artikliga esitada.</p><p>Pildikaardid ja kuulamine:</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-classroom-objects.pdf",
+              "title": "Pildikaardid"
+            },
+            {
+              "kind": "link",
+              "href": "https://assets.cambridgeenglish.org/activities-for-children/s-s-01-storyline-output/story_html5.html?lms=1",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishteens.britishcouncil.org/vocabulary/a1-a2-vocabulary/school",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-week/rucksack",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tutvustada õpilastele sõnade kirjapilti ja proovida sõna ja pilti kokku viia, kuid sõnade iseseisvat kirjutamist nõudma veel ei peaks.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "5. Asesõnad (Subject pronouns)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust ja oskab hääldada: I, you, he, she, it, we, you, they.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Alustada eesti keeles sama teema kordamisega. Luua seos eesti keele ja inglise keele vahel, selgitada, mis on sarnane ja mis teisiti. Eraldi pühendada aega he/she/it selgitamisele.</p><p>Alguses teha palju kuulamist ja suulist harjutamist. Seda teemat läbivalt korrata ja harjutada.</p><p>Õppimine piltidega - asesõna ja pildi ühendamine, memoriin jms.</p><p>Mõned ideed töölehtedeks:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.teacherspayteachers.com/Product/He-She-It-Worksheet-4217738",
+              "title": "Tööleht"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.guruparents.com/pronoun-worksheets/",
+              "title": "Tööleht"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.anglomaniacy.pl/grammar-pronouns-printables-worksheets.htm",
+              "title": "Tööleht"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Asesõnad võiksid samuti olla tabelina õpilasele koguaeg saadaval, kas tahvlil, seinal, raudvara vihikus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "6. Tegusõna olema pööramine (Be - am/is/are/)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane pöörab tegusõna olema.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane oskab hääldada tegusõna olema erinevaid vorme ja nende lühendeid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane moodustab lauseid kasutades olema vormi ja eelnevalt õpitud nimisõnu. (I am a boy. She is a girl. We are students. She is a teacher.)",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane moodustab lauseid kasutades olema vormi ja eelnevalt õpitud nimisõnu. (I am a girl. I am not a boy.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Alustada eesti keeles sama teema kordamisega. Luua seos eesti keele ja inglise keele vahel - mis on sarnane, mis erinev.</p><p>Alguses teha palju kuulamist ja suulist harjutamist. Õppimine võiks toimuda läbi piltide, videote ja salmide.</p><p>Ideid töölehtedeks ja õpetamiseks:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.anglomaniacy.pl/grammar-verbs-be-printables-worksheets.htm",
+              "title": "Töölehed ja õpetamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://en.islcollective.com/english-esl-worksheets/listening-comprehension/song-and-nursery-rhyme-activity/verb-tenses/to-be-poem/88376",
+              "title": "Töölehed ja õpetamine"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Asesõnadega koos võiks olema vormid samuti olla tabelina õpilasele koguaeg saadaval, kas tahvlil, seinal, raudvara vihikus. Seda teemat läbivalt korrata ja harjutada.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "7. Numbrid (Numbers)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane oskab hääldada ja loendada numbreid 1-20.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kasutada mänge, laule ja kuulamist.</p><p>Töölehed ja mängud:</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/worksheets-numbers-1-10.pdf",
+              "title": "Tööleht"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/worksheets-numbers-11-20.pdf",
+              "title": "Tööleht"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.anglomaniacy.pl/grammar-numbers-printables-games.htm",
+              "title": "Töölehed ja mängud"
+            },
+            {
+              "kind": "link",
+              "href": "https://games4esl.com/classroom-games-to-teach-numbers/",
+              "title": "Töölehed ja mängud"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/listen-watch/songs/ten-little-aeroplanes",
+              "title": "Laul"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tutvuda ka sõnade kirjapildiga ja lihtsamate sõnade iseseisva kirjutamisega (vastavalt õpilaste võimetele).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "8. S-lõpuline mitmus (Plural nouns)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane moodustab s-lõpulist mitmust (reeglipärast).",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpialne ütleb mitu midagi klassis on, nt. twelve desks, one teacher, ten students, five boys, three girls, nine books, eleven pens, two pencils. (Esialgu jätta välja sõnad, milles tuleb kirjapilti muuta baby - babies jms).",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Enne grammatika õppimist tuleks meelde tuletada mitmuse moodustamine eesti keeles. Samuti tuleks rääkida sõnadest, mis ongi kogu aeg mitmuses, nii inglise keeles kui ka eesti keeles - käärid, püksid, prillid.</p><p>Uuesti rääkida ka artiklitest a/an - mitmuses neid ei kasutata.</p><p>Selles tunnis on kirjapildi õppimine oluline. Mitmuse moodustamist õpetada läbi skeemi (Näide:).</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://slideplayer.com/slide/13728193/",
+              "title": "Näide"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ideid õpetamiseks ja mängudeks:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://teflhandbook.com/efl-esl-lesson-plans/a1-upper/teaching-plurals/",
+              "title": "Õpetamine ja mängud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.anglomaniacy.pl/grammar-nouns-singular-plural-printables-flashcards.htm",
+              "title": "Õpetamine ja mängud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "9. Värvused (Clours)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust ja oskab hääldada ning tunneb ära lihtsamate sõnade kirjapildi ja oskab kirjutada: white, black, blue, red, yellow, green, brown, orange, pink, grey.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kasutada mänge, kuulamist ja kordamist.</p><p>Mängud, kuulamine, töölehed:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games/colours",
+              "title": "Mängud, kuulamine, töölehed"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/worksheets-colours-1.pdf",
+              "title": "Tööleht"
+            },
+            {
+              "kind": "link",
+              "href": "https://elllo.org/english/grammar/L1-04-MegTodd-Colors.htm",
+              "title": "Mängud, kuulamine, töölehed"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.gamestolearnenglish.com/speak-easy/",
+              "title": "Mängud, kuulamine, töölehed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "10. Tegusõna omama jaatav ja eitav vorm (have) - I/you/we/they have got, he/she/it has got. I/you/we/they have not got, he/she/it has not got.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust ja oskab hääldada, lugeda ning kirjutada - I/you/we/they have got/'ve got, he/she/it has/'s got.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust ja oskab hääldada, lugeda ning kirjutada - I/you/we/they have not got/ haven't got, he/she/it has not got/ hasn't got.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane ütleb, millised kooliasjad tal on ja mida tal pole (I have got two black pencils).",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esimeses tunnis tutvustada ainult grammatikat ning järgnevatel tundidel kasutada õpitud grammatikat koos eelnevalt õpitud sõnadega. Jaatavat ja eitavat vormi õppida eraldi tunides ja kui mõlemat on eraldi piisavalt harjutatud panna need kokku nt. I have got a red pencil but I haven't got a blue pencil.</p><p>Kindlasit esitada õpilastele abivahend, mida nad saavad tundides kasutada, näiteks:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://test-english.com/explanation/a1/have-got/",
+              "title": "Abivahend"
+            },
+            {
+              "kind": "link",
+              "href": "https://repasandoingles.weebly.com/grammar-exercises/category/behave-got",
+              "title": "Abivahend"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ideid tegevusteks tunnis:</p><ul><li>Moodustada lauseid - õpilane räägib asjadest oma kotis, pinalis, laual. korrates eelmistel tundidel õpitud nimisõnu. Alguses moodustada lauseid koostöös õpetajaga ja näiteks lausemalli toel, õpetaja osutab tahvl sõnadele. Seejärel proovivad lapsed moodustada lauseid isesesvalt toetudes abivahenditele.</li><li>Õpilased leiavad kirjelduse järgi esemeid klassiruumis.</li></ul><p>Mäng:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/adjectives",
+              "title": "Mäng - sõnade järjekord lauses"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-chants/ive-got-big-red-bike",
+              "title": "Mäng - kuulamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.anglomaniacy.pl/grammar-verbs-have-got.htm",
+              "title": "Mäng - töölehed, pildikaardid, mängud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "11. Riietusesemed ja jalanõud (clothes and shoes). Lihtlause moodustamine: This is.., These are...",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust ja oskab hääldada ning tunneb ära lihtsamate sõnade kirjapildi: T-shirt, shirt, trousers, jacket, hat, trainers, boots, scarf, jumper, dress, skirt, leggings.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esmalt õppida sõnavara ja seejärel korrata s-lõpulist mitmust koos samade sõnadega, selgitades, et osad sõnad ongi juba mitmuses nagu eesti keeles.</p><p>Kui sõnavara on selge tuua juurde lause moodustamine. Korrata üle This is ... ja selgitada mitmus - These are ... Luua seos eesti keelega.</p><p>Töölehed, pildikaardid, mängud:</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/worksheets-clothes.pdf",
+              "title": "Tööleht"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games/clothes-accessories",
+              "title": "Pildikaardid ja mängud"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games/clothes-2",
+              "title": "Pildikaardid ja mängud"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-clothes-set-1.pdf",
+              "title": "Pildikaardid"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-clothes-set-2.pdf",
+              "title": "Pildikaardid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.bbc.co.uk/learningenglish/english/features/easyenglish/easyenglish_clothes",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-week/trainers",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.gamestolearnenglish.com/monster-vocab/",
+              "title": "Mäng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "12. Näo- ja kehaosad (Face and body)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust ja oskab hääldada, ning tunneb ära lihtsamate sõnade kirjapildi ja oskab kirjutada: face, body, eye - eyes, nose, mouth, ear - ears, hair, head, arm - arms, hand - hands, leg - legs, foot - feet.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kasutada mänge, kuulamist ja kordamist. Tutvuge ka kirjapildiga.</p><p>Enne sõnavara õppimist korrata sõnad üle eesti keeles.</p><p>Eraldi võtta aega, et selgitada foot ja leg, arm ja hand.</p><p>Töölehed, pildikaardid, mängud, laulud:</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-body.pdf",
+              "title": "Pildikaardid"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-head.pdf",
+              "title": "Pildikaardid"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games/parts-body-head",
+              "title": "Mängud ja laulud"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games/parts-body-1",
+              "title": "Mängud ja laulud"
+            },
+            {
+              "kind": "link",
+              "href": "https://assets.cambridgeenglish.org/activities-for-children/s-rw-02-the-body/story_html5.html?lms=1",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-chants/weve-got-two-legs",
+              "title": "Laul"
+            },
+            {
+              "kind": "link",
+              "href": "https://webenglish.se/health-body/",
+              "title": "Ideed õpetamiseks, mängud, laulud, sõnavara videod jms."
+            },
+            {
+              "kind": "link",
+              "href": "https://www.gamestolearnenglish.com/body-parts/",
+              "title": "Mäng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "13. Omadussõnad (Adjectives)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust, oskab hääldada, lugeda ja kirjutada: big, small, tall, short, fat, thin, long, curly, straight, blond, dark, young, old.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Alustada sõnavara õppimisest tuginedes suulisele tööle ja mängudele.</p><p>Järgmises tunnis saab korrata I have got + riided/ kehaosad ja moodustada lauseid. (I have got curly hair. I have got a small nose).</p><p>Korrata tuleb ka artikkel a/an ja ainsus mitmus.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.cambridgeenglish.org/learning-english/activities-for-learners/a2p054-what-do-they-look-like",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.cambridgeenglish.org/learning-english/parents-and-children/activities-for-children/a1-level/m-rw-08-which-person/",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-chants/renata-lives-big-old-house",
+              "title": "Laul"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games/describing-1",
+              "title": "Mäng"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games/describing-2",
+              "title": "Mäng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "14. I am, my",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane moodustab lauseid enda kohta. I am tall. My hair is curly and long.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esialgu keskenduda grammatikale, luua seoseid eesti keelega ning seejärel korrata eelnevalt õpitud sõnu ning moodustada lauseid.</p><p>Tugineda suulisele tööle ja mängudele:</p><ul><li>pildikaartide ja sõnakaartide ritta seadmine,</li><li>üksteise lausete lõpetamine,</li><li>korda-mööda sõnade tahvlile kirjutamine, et moodustada lause.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "15. Pereliikmed (Family members). Küsimuste moodustamine - Have you/we/they got....? Has he/she/it got...? ja lühivastused (Yes I have. No, I haven't/have not.)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane teab tähendust, oskab hääldada, lugeda ja kirjutada: Family, mother (mum), father (dad), sister, brother, baby, grandmother (granny), grandfather (grandpa), aunt, uncle, cat, dog, pet.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilased küsivad üksteiselt küsimusi perekonna kohta Have you got a brother? Has she got a sister?",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Alustada sõnavara õppimisega, kui sõnavara on õpilastele tuttav proovida lausete moodustamist. Enne lausete moodustamist tuleb korrata omama vormid (have got).</p><p>Õpilane räägib abiga oma perekonnast. (My family is big. I have got three sisters and a dog.) Õpilased võivad kasutada abivahendit kas tahvlil või isiklikku kaardikest.</p><p>Kui õpilane oskab moodustada jaatavaid ja eitavaid lauseid oma pere kohta selgitada küsimuste moodustamist. Küsimuste moodustamine selgitada skeemi abil (nt noolega ära märkida, et Have liigub küsimuse puhul lauses esimeseks).</p><p>Mängud, pildikaardid ja videod:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games/family",
+              "title": "Mäng"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=uVYP8U2I8NA"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-family.pdf",
+              "title": "Pildikaardid"
+            },
+            {
+              "kind": "file",
+              "src": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/worksheets-family.pdf",
+              "title": "Tööleht"
+            },
+            {
+              "kind": "link",
+              "href": "https://learnenglishkids.britishcouncil.org/listen-watch/songs/what-family",
+              "title": "Laul"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "16. Tähestik",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane tutvub tähenimedega inglise keeles.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Õpilane laulab koos õpetajaga tähestiku laulu.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tutvustada õpilastele inglise keelset tähestikku ja tähenimesid. Oluline on toonitada, mis olukordades me kasutame tähenimesid (lennujaam, klassi numbrid, sõnaraamatud jms) ja rõhutada, et tähenimesid me ei kasuta sõnade lugemisel ja hääldamisel.</p><p>Võib proovida oma nime ütlemist tähtede kaupa ja sõnastikust sõnade otsimist.</p><p>Kindlasti ei ole oluline tähestiku pähe õppimine. Õpilastele tuleks tähestik esitada tabelina nt. sarnast tabelit võimaldada õpilasel kasutada, kui teete tähestiku harjutusi nt. nime ütlemine tähtede kaupa jms.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.fluentu.com/blog/english/english-alphabet/",
+              "title": "Tähestiku tabel"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Selle teema õpetamine võiks toimuda koostöös eesti keele õpetajaga, oluline, et tähestik oleks eesti keeles juba õpitud, kui pole võib tähestiku teema edasi lükata.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

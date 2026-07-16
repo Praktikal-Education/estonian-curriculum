@@ -1,0 +1,536 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Väljad. Elektriväli.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "seostab laetud kehade vastastikmõju elektrostaatilise välja olemasoluga, võrdleb ainet ja välja, kasutab väljatugevuse mõistet elektrostaatilise välja kirjeldamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab laengu jäävuse seadust, superpositsiooni printsiipi ja Coulomb’i seadust probleemülesandeid lahendades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "visualiseerib elektrivälja jõujoonte toel staatilisi elektrivälju ja määrab elektriväljas laenguga kehale mõjuva jõu suuna",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab pinge mõistet ning rakendab pinge ja väljatugevuse seost probleemülesandeid lahendades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab elektri- ja magnetvälja energia salvestamise võimalusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Väljad. Punktlaeng. Väljatugevus. Elektrivälja pinge. Pinge ja väljatugevuse seos. Välja visualiseerimine. Väljade liitumine, superpositsiooni printsiip. Homogeenne elektriväli. Kondensaator.<br>Elementaarlaeng. Laengu jäävuse seadus. Coulomb’i seadus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>elektrilaeng, elementaarlaeng, punktlaeng, väli, elektriväli, elektrivälja tugevus, potentsiaal, pinge, elektronvolt, jõujoon, kondensaator.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Elektrostaatika, katsed laetud kehadega.</li><li>Elektroskoop, laengu ülekanne ja induktsioon.</li><li>Kondensaatori uurimine (valmistamine).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema <strong>„Väljad. Elektriväli”</strong> laob põhja Elektromagnetismi kursusele. Päris palju on siin abi mehaanika teemades omandatust. Vastastikmõju, jõud, töö, energia, aga ka gravitatsiooniväli ja väljatugevus võiksid olla dünaamika kursusest tuttavad.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong>Elektrivälja kujutamine väljatugevuse vektoriga ja näitlikustamine jõujoontega</strong> annavad võimaluse sõbruneda välja mõistega. Libisedes kergelt üle kondensaatorite, vooluallikate ja muu elektritehnika põhjatust kuristikust, millest osa jääb ootama Energia kursuse rakenduslikumat osa, lisame siia laengu (laetud keha) liikumise.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p><strong>Nüüd saab rääkida tööst väljas, välja energiast,</strong> potentsiaalist ja pingest. Niisiis, oleme jõudnud vooluringides toimuva seletamiseni. Elektriväli on täpne ja tõhus vahend laetud osakeste liigutamiseks ja selle mõistmine on hea toetuspunkt elektromagnetismi poole liikumisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Väljade teema võib olla õpilaste jaoks abstraktne ja raskesti adutav. Kasuks tuleb simulatsioonide rakendamine õppetöös. Näiteks PhET Colorado: unistuste elektriväli või <em>charges and fields.</em></li><li>Tasub teha baaskatseid, näiteks vastu riiet või juukseid hõõrutud joonlaua ja pisikeste paberitükikestega, et meelde tuletada 9. klassis õpitut.</li><li>Elektrivälja tugevus, pinge, kui potentsiaalide vahe, töö elektriväljas on teemad, mille pähe õppimisest on vähe abi, aga näidete (kondensaator, katoodkiir) ja arvutusete kaudu mõistmiseni jõudmisest on järgnevates teemades palju abi.</li><li>Ajaloost – elementaarlaengu määramine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Katse elektriseeritud plasttoru kohal hõljuva kileriba või õhupalliga demonstreerib elektrivälja kui jõudude vahendajat. Katset võib elavdada võistlusmomendiga, kes suudab kauem õhupalli toru kohal hoida. (LT2, LT3.)</p><p>Elektrilise konstandi määramine plaatkondensaatori abil kasutades multimeetrit, millel võimalus mahtuvust nanofaradites mõõta. (LT2, Õpipädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus.)</p><p>Dielektrilise materjali laengu määramine Coulombi seadust rakendades. (LT2, Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>horisontaalne - keemias aatomi koostis, keemilise sideme olemus, ioonidevahelised reaktsioonid, molekulide neutraalsus, laengu jäävuse seadus ja valemite indeksid on seotud elektrijõududega. Tehnikas elektriautode käivitamisel, sõidukite energia salvestamise süsteemides kasutatakse kondensaatoreid. Geograafias erinevate tsüklonite kokkupuutel võivad tekkida äikesepilved.</p><p>Vertikaalne: 9. klassis õpiti elektrostaatika aluseid, näiteks elektrivälja ja Coulomb’i seadust ainult kvalitatiivselt, kirjeldavalt. 10. klassis õpitud gravitatsiooniseadust on oma olemuselt sarnane Coulomb’i seadusele. Superpositsiooniprintsiipi rakendatakse edaspidi ka magnet- ja elektromagnetväljade omaduste käsitlemisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hinnata võib arvestuslikult erinevate ettekannete ja esitluste tegemist, ajatelgede loomist; koostatud plakateid, tunnitegevuse käigus täidetud töölehti; rühmades probleemide lahendamist jmt. Kõige olulisem on, et õpilastele oleksid selged hindamiskriteeriumid ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Hea hindamismudel sisaldab ka viiteid edasistele õpingutele (kus ja miks neid oskusi ja teadmisi edaspidi õppimise käigus vaja on?). Õpilast abistavad enesehindamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning)</em>. Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p><p>Hindamisel võiks ülesanded koostada selliselt, et rõhuasetus oleks praktilisel väljundil, mis omab ka füüsikakauge õpilase jaoks tähendust, näiteks, kuidas töötab röntgenaparaat, miks me saame särtsu, miks õhupall lakke kinni jääb, aga selgitustes tuleb kasutada õpitud mõisteid, teha vastavaid arvutusi ja koostada skeeme ja jooniseid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET Colorado"
+            },
+            {
+              "kind": "text",
+              "html": "<p>(Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Magnetväli.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab magnetinduktsiooni mõistet magnetvälja kirjeldamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "visualiseerib magnetvälja jõujoonte toel magnetvälja ja määrab magnetväljas liikuvale laengule mõjuva Lorentzi jõu suuna",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab Ampere’i seadust probleemülesandeid lahendades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seletab pööriselektrivälja tekkimist magnetvoo muutumisel, rakendades induktsiooni elektromotoorjõu mõistet",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab elektri- ja magnetvälja energia salvestamise võimalusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Magnetinduktsioon. Lorentzi jõud. Ampere’i jõud. Elektriväli ja magnetväli, võrdlus ja seosed. Elektromagnetiline induktsioon. Pööriselektriväli. Induktsiooni elektromotoorjõud. Magnetvoog. Faraday induktsiooniseadus. Lenzi reegel. Elektri- ja magnetvälja energia.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>püsimagnet, magnetväli, voolutugevus, magnetinduktsioon, Lorentzi jõud, Ampere’i jõud, pööriselektriväli, induktsiooni elektromotoorjõud, magnetvoog.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Magnetvälja visualiseerimine.</li><li>Ørstedi katsega tutvumine.</li><li>Elektromagnetilise induktsiooni uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teemat <strong>„Magnetväli“</strong> võib võtta kui gümnaasiumi füüsikaõppe murdepunkti. Vaadete süsteemist lähtuvana on sellele teemale lähenemine teistmoodi. Siiamaani on seletused, lahendused, rakendusnäited lisandunud lineaarselt. Magnetite teema läheb ruumiliseks ja vektoriaalseks ning vajab erinevat arusaamist. <strong>Matemaatika</strong> on siingi väga abiks, aga saab ka selgeks, et lihtsalt leitud või ära õpitud valemist pole kuigi palju abi, kui kontseptuaalne arusaamine ei toeta.</p><p><strong>Elulised näited</strong> saavad siin olulisemaks võrreldes eelnevate mehaanika ja elektrivälja teemadega. Visualiseerimine ja oma käega katsumine tõuseb eriliselt tähtsaks, head joonised ja osavalt valitud näited on abiks.</p><p><strong>Kas on võtta häid ja elulisi näiteid?</strong> Jah, alustame näiteks elektrimootorist, generaatorist ja trafost. Võib-olla midagi vähem igapäevast, mis siiski on oli meie tehnoloogilises maailmas oluline, nagu elektrikitarr, magnetkraana või kineskoobiga televiisor. Kaasaegase füüsika austajatele jääb alati võimalus otsida magnetvälja teadusaparatuuri ülijuhtivatest magnetitest või uurida meditsiinilisi rakendusi. Ajalooliselt taustapildilt vaatavad vastu omaaegsed suurmehed: Gilbert, Øersted, Ampère, Faraday, Lenz, Maxwell.</p><p><strong>Lõpuks tuleb tunnistada,</strong> et elektrivälja ja magnetvälja käsitlemine eraldiseisvate loodusnähtustena on väga suur lihtsustus ja paratamatult tuleb tegelda ühtse elektromagnetvälja ja elektromagnetlainetega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Teemat alustada püsimagnetite omaduste meeldetuletamisega, sobivad katsed rauapuru ja magnetiga, mis tuletavad meelde jõujoonte kuju ja paiknemise.</li><li>Teema olulisuses on juba viidatud näidete olulisusele, elektromagneti omadustel põhineb suur hulk rakendusi ja nende seletamine füüsikatunnis teeb teema huvitavaks ja tähendusrikkaks.</li><li>Vooluga juhtmele või liikuvale laetud osakestele magnetväljas mõjuva jõu suuna määramiseks kasutatakse vähemalt viit eri käe reeglit, tasub videote otsimisel kasutada eestikeelseid õppevideoid. Ingliskeelne maailm kasutab parema käe reeglit.</li><li>Vasaku käe reegli seletamisel võiks kasutada igapäevasest elus teada-tuntud näppudega osutamist, kuhu liikuda - näpud näitavadki osakeste liikumissuunda.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Magnetite ja rauapuru katse läbitegeminepõhikooli meenutamiseks. (Õpipädevus, LT2, LT3.)</p><p>Elektromagneti konstrueerimine ja maksimaalse tõstejõu määramine. Kõik rühmad sooritavad pärast eksperimenti ettekande, kus nad toovad välja katsevahendi konstruktsiooni ja valikute põhimõtted ning esitlevad saadud tulemusi ja järeldusi. (Sotsiaalne ja kodanikupädevus õpipädevus, suhtluspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, õpipädevus, suhtluspädevus, LT2, LT3, LT5, LT8.)</p><p>Magnetvälja anduriga (näiteks Vernier) saab uurida, kuidas sõltub magnetinduktsiooni väärtus a) mähise keerdude arvust, b) mähisesse paigutatud raudnaelte ristlõike pindalast, c) voolutugevusest, d) anduri kaugusest magnetpoolustest. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT3, LT4.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Horisontaalne - tehnikas ja elektroonikas on rakenduste hulk tohutu - elektromagnetilised releed, elektriarvestid, magnetribad kaartidel, metalliotsijad, generaatorid jne. Liikluses on kasutusel elektriautod ja muud elektrisõidukid. Meditsiinis kasutatakse ülijuhtmagneteid näiteks tomograafides. Teaduses kasutatakse magnetvälja laetud osakeste suunamisel, näiteks osakeste füüsikas kiirendid ja detektorid; keemias ja materjaliteaduses isotoopide, molekulide uurimiseks kasutatavad mass-spektromeetrid.</p><p>Vertikaalne - 9. kassis on õpitud magnetvälja jõujooni ja võrreldud elektromagnetit püsimagnetitega, õpilased on õppinud ka Maa magnetvälja ja selle sarnasust püsimagnetiga. Mikro-mega-kursuses õpitakse radioaktiivseid isotoope ja kiirguse liike. Kiirguse liigid tuvastati vastavate osakeste liikumisel magnetväljas.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Eelnevalt on vaja diferentseerimise vajaduse huvides välja selgitada, millised on õpilaste huvid ja kuivõrd võib neid tuleviku õpingutes füüsikat vaja minna ja selle põhjal planeerida hindamist ja teadmiste kontrolli. Võimalikud hindeliste tööde variandid on: 1) arvestustöö, 2) arvestuslikud hinded (kontrolltööd, laboritööd ja/või ettekanded), 3) kombinatsioon praktilistest töödest, kontrolltöödest, tunnitöödest.</p><p>Pärast näidisülesannete lahendamist ja õppevideode vaatamist lasta õpilastel koostada käereeglite kohta ülesandeid - magnetväljas laengule või vooluga juhtmele mõjuvate jõudude määramine, seos magnetväljajõujoonte ja voolusuuna vahel, miks vooluga juhtmed tõukuvad-tõmbuvad jne, ja koostada neist rühmatöö, kus õpilased lisaks ülesannete lahendamisele võiksid analüüsida ka ülesande teksti kvaliteeti. Oluline on, et õpilased koostavad ka oma ülesannetele hindamismudeli.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET Colorado"
+            },
+            {
+              "kind": "text",
+              "html": "<p>(Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Elektromagnetlained. Optika.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab elektromagnetlaine levimist kasutades elektrivälja ja magnetvälja mõistet",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab liigitada elektromagnetlaineid ja paigutada neid elektromagnetlainete skaalale",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab joonisel või arvutiimitatsiooniga interferentsi- ja difraktsiooninähtusi optikas ning toob nende rakendamise näiteid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab polariseeritud valguse omadusi rakendustega looduses ja tehnikas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab ja teeb katse läbipaistva aine murdumisnäitaja määramiseks, kirjeldab valguse spektriks lahutamise võimalusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab joonspektri tekkimist ja valguse dualismiprintsiipi ning toob näiteid spektraalanalüüsi rakendamise kohta",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Valgus kui elektromagnetlaine. Elektromagnetlainete skaala. Valguse lainelised omadused. Difraktsioon. Interferents. Difraktsioonivõre. Polariseeritud valgus. Polarisaatorid. Murdumisseadus. Murdumisnäitaja. Valguse dispersioon. Spektraalriistad ja spektraalanalüüs. Valguse dualism. Footoni energia. Valguse kiirgumine ja neeldumine. Kvantoptilised nähtused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>elektromagnetlaine, elektromagnetlainete skaala, lainepikkus, sagedus, kvandi (footoni) energia, dualismiprintsiip, difraktsioon, interferents, polarisatsioon, murdumine, absoluutne ja suhteline murdumisnäitaja, valguse dispersioon aines, luminestsents.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Murdumisnäitaja määramine.</li><li>Difraktsiooni uurimine.</li><li>Valguse spektri uurimine (erinevad valgusallikad).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>„Elektromagnetlainete ja optika“ teema,</strong> saab oluliseks seekaudu, et toetub vanale klassikale, aga vaatab lõpuks ikkagi kaasaegsesse füüsikasse. Mehaanika kursusest võiks olla tuttavad lained, lainete omadused ja ehk meenub ka põhikooli optika peatükk. Lisades neile eelteadmistele just käsitletud väljade teema, saab kirjeldada valguslainet, valguse levimist, peegeldumist, murdumist, optilisi riistu ja värvilist valgust.</p><p><strong>Kuid ettevaataust, elektromagnetism ei ole nii lihtne.</strong> Kõigepealt tulevad geomeetrilisele optikale juurde uued teemad: interferents, difraktsioon, polarisatsioon, spektrid koos kõigi vanade, uuemate ja lausa tulevikuliste rakendustega. Kerkib suur küsimus – mis on valgus ja teised elektromagnetlained, raadiolainest gammakiirguseni? Kuidas elektromagnetlained tekivad ja neelduvad? Küsimused on teadagi teadusajalooliselt keerulised ja ka praegu eluliste näidetega raskesti seletatavad. See avab ukse kvantoptikasse ja toob sisse dualismiprintsiibi, mis on hea &quot;reklaamipaus&quot; asumaks järgmiste, juba vägagi kaasaegsete füüsikateemade juurde.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Sissejuhatavalt võiks lasta õpilastel teha kas elektrooniliselt või kahe vihikulehe ulatuses elektromagnetlainete skaala, kuhu nad lisavad pidevalt õpitud rakendusi, omadusi, fakte luues nii endale ise õppevahendi.</li><li>Võimalusel korraldada mõnesse spektritega tegevasse laborisse õppekäik, näiteks Keskkonnauuringute keskuse laboritesse. Õpilased näevad, et tegu on täiesti tavalise abivahendiga näiteks keskkonna saastatuse uurimiseks.</li><li>Tasub tähelepanu juhtida, et IP kiirgusest ainult üks osa muutub neeldumisel soojuseks, st neid ei saa samastada. IP pikemalainelist kiirgust kasutatakse näiteks andmesides just sellepärast, et ei neeldu aines.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilased teevad ettekandeid või postreid erinevate EML kohta. (Sotsiaalne ja kodanikupädevus, õpipädevus, LT1, LT5, LT6.)</p><p>Juuksekarva läbimõõdu määramine difraktsiooni ja interferentsipildi abil on põnev töö ja lihtne teha, kui valem ette anda. Annab aimu meetodistest, kuidas keerulisi struktuure uuritakse. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT2. LT3, LT4.)</p><p>Õppekäik spektraalanalüüsi laborisse, näiteks Keskkonnauuringute laborisse või TTÜ, TLÜ või TÜ teaduslaboritesse. (Sotsiaalne ja kodanikupädevus, suhtluspädevus. LT5. LT6, LT8.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>horisontaalne - meditsiiniuuringutes kasutatakse UV- ja röntgenkiirgust, keskkonnakaitse - kasvuhooneefekti seos UV ning IP kiirgusega; tehnikas ei saa üle ega ümber raadio- ja mikrolainetest; astronoomias uuritakse universumi kõikvõimalikke objekte ja nähtusi erinevatel lainepikkustel töötavate teleskoopidega (raadio, UV, IP jne); lennundus ja toll - röntgeniga valgustatakse läbi pagasit ja konteinereid; geoinformaatika ja GPS.</p><p>Vertikaalne - õpilased on varasemalt EML õppinud erinevates klassides ja ainetes, sellepärast ongi kasulik nopitud teadmised tervikuks liita. Edaspidi on Mikro-Mega-kursuses huvitavam õppida teleskoopide kohta, uurida pilte galaktikatest, mis on tehtud erinevates lainepikkustes. Korralikud teadmised ei lase tekkida väärarusaamisi EML osas ka edaspidises elus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest.</p><p>Hinnata võiks arvestuslikult erinevate ettekannete ja esitluste tegemist, näiteks ülevaated erinevate EML rakendustest vms. Kõige olulisem on, et õpilastele oleksid selged hindamiskriteeriumid ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Et õpilased kuulaksid nö tõhusamalt, tuleks anda lisaülesandeid, näiteks koostada lühikonspekt märksõnadest või kirjutada iga teema kohta 2-3 küsimust, mis tekkisid esitluse ajal või arutleda, kus ja miks neid teadmisi vaja on.</p><p>Õpilast abistavad uute mõistete kinnistamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning)</em>. Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks. Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET Colorado"
+            },
+            {
+              "kind": "text",
+              "html": "<p>(Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt:</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

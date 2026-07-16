@@ -1,0 +1,1525 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Eesti Euroopas",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab nii paber- kui ka digikaarte ja teisi ruumiinfot edastavaid mudeleid, et leida infot, iseloomustada objekte ja nähtusi, analüüsida, teha järeldusi ja ruumilisi otsuseid ning neid põhjendada;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab lugeda kaarti: saab aru legendist ja kaardil kujutatud protsessidest, mõõdab vahemaid, määrab suundi, geograafilisi koordinaate, kellaaja erinevusi jms;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "orienteerub ja liigub kaardi abil maastikul;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kirjeldada Eesti ja Euroopa loodusgeograafilist asendit;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab kaardi või mõne muu ruumiinfot edastava mudeli.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Geograafilise asendi määramise eri aspektid kodukoha, Eesti ja Euroopa näidetel.</p><p>GISi vajalikkus ning rakendusvõimalused igapäevaelus.</p><p>Maa-ameti geoportaal ja selle kasutamise võimalused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>loodusgeograafiline asend, Eesti põhikaart, GIS</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Kodukoha, Eesti ja mõne Euroopa riigi asendi võrdlemine erinevatest aspektidest.</li><li>Maa-ameti geoportaalis koduümbruse andmetega tutvumine.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>9. klassi geograafiaõppimises käsitletakse nii loodus- kui inimgeograafiat. Õpitavad loodusgeograafia teemad seostakse inimtegevuse ja igapäevaeluga. Sissejuhatavas teemas luuakse kursuse vaatenurk: õpitakse eelkõige Eesti geograafiat, kuid luuakse tihedad seosed ka kodukoha ja kogu Euroopaga. Õpilased omandavad ülevaate Eesti ja Euroopa geograafilise asendi eri aspektide tähendusest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursuse sissejuhatavat tundi võiks alustada kaardioskuste vajalikkuse selgitamisega, tuues näiteid igapäevaelust ja erinevatest ametitest, kus kaardid on olulised töövahendid. Leppemärkide tõlgendamiseks, vahemaade mõõtmiseks, suundade ja geograafiliste koordinaatide määramiseks peaks kasutama eri mõõtkavaga kaarte. Hea vahend Eesti ja kodukoha uurimiseks on Maa-ameti geoportaal.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453811/TL_Tutvus%20Maa-aameti%20geoportaaliga_2023.doc?version=1&modificationDate=1706621643724&api=v2",
+              "title": "TL_Tutvus Maa-aameti geoportaaliga_2023.doc"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/1608392930/videoloeng-hea-kaart-on-praegu-sama-tahtis-kui-maadeavastuse-aegu",
+              "title": "Taavi Pae videoloeng"
+            },
+            {
+              "kind": "link",
+              "href": "https://geoportaal.maaamet.ee/est/Kaardirakendused-p2.html",
+              "title": "Maa-ameti kaardirakendused"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.gisbaltic.eu/content/dam/distributor-restricted/gisbaltic-eu/esri-ee/gis-paev/gis-paev-2023-kaardilugude-konkurss-juhend.pdf",
+              "title": "Juhendmaterjal õpilastele iseseisvaks tööks ArcGIS Online programmiga"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/SNDxNOtYIK4?si=L5xVc0gSTJiENOnS"
+            },
+            {
+              "kind": "link",
+              "href": "https://geoportaal.maaamet.ee/est/Kasutajate-lood-p901.html",
+              "title": "Maa-amet Kasutajate lood GIS-i valdkonna tutvustamiseks"
+            },
+            {
+              "kind": "link",
+              "href": "https://geoportaal.maaamet.ee/est/Kaardirakendused/Korduma-kippuvad-kusimused/Kaardirakenduste-kasutamise-videojuhendid-p475.html",
+              "title": "Maa-ameti geoportaali kasutamise juhendite videod"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/S-3FQvBXnfs"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20117-Euroopa-ja-Eesti-asend-pinnamood-geoloogia/231616#231618-Eesti-Euroopas-geograafiline-asend",
+              "title": "Eesti Euroopas - geograafiline asend"
+            },
+            {
+              "kind": "link",
+              "href": "https://mymaps.google.com/",
+              "title": "Google My Maps"
+            },
+            {
+              "kind": "link",
+              "href": "https://mapmaker.nationalgeographic.org/",
+              "title": "National Geographic MapMaker"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.scribblemaps.com/create",
+              "title": "Scribble Maps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti geoloogiline ehitus ja pinnamood",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "iseloomustab jooniste ja kaardi põhjal Eesti geoloogilist ehitust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab kivimite ja setete, sh maavarade paiknemise ja tekke Eesti geoloogilise ehitusega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab ja võrdleb setteid ning eri tekkeviisiga kivimeid, teab nende kasutamise võimalusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb kaartide ja muude infoallikate põhjal pinnavorme ning pinnamoodi kodukohas, Eestis ja Euroopas;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab pinnavormide ja pinnamoe kujunemist ning muutumist eri tegurite, sh inimtegevuse toimel Eesti näidetel;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "orienteerub kaardil: leiab suuremad pinnavormid Eestis ja Euroopas, tektooniliselt aktiivsed piirkonnad;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab murenemise tähtsust looduses, seostab murenemise kivimite omaduste ja kliimaga;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab muldade kujunemise nende tekke tingimustega Eesti näidetel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Geoloogiliste uuringute vajalikkus. Eesti geoloogiline ehitus, seos maavaradega sh tulevikumaavaradega, kaevandamise mõju keskkonnale. Eesti pinnavormid ja nende teke.</p><p>Mandrijää tegevus Euroopa sh Eesti pinnamoe kujunemises. Vooluvee, karsti, lainetuse, tuule ja inimtegevuse mõju Eesti pinnamoe kujunemisele. Eesti muldkate, seos geoloogilise ehituse ja pinnamoega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>geokronoloogiline ajaskaala, platvorm, kilp, aluspõhi, paljand, pinnakate, moreen, lauskmaa, lavamaa, moreentasandik, moreenküngas, voor, oos, karstivormid, luide, lähtekivim</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Kodukoha pinnavormide ja pinnamoe iseloomustamine Maa-ameti reljeefikaardi põhjal.</li><li>Setete ja kivimite kui maavarade uurimine ja nende seostamine majandustegevusega.</li><li>Kodumaakonna muldkatte iseloomustamine ja seostamine pinnamoe ja pinnakattega Maa-ameti mullakaartide põhjal.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema sissejuhatuseks võiks õpilased tutvuda koduasula või maakonna pinnavormidega ning uurida neid Maa-ameti reljeefikaartide abil. Eri tekkega pinnavormide õppimisel võiks kasutada Eesti kaardirakenduse reljeefikaarti. Maavarade õppimisel on oluline kasutada maavarade ja kivimite näidiseid ning uurida maavarade kaevandamise keskkonnamõjusid.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453811/Tartu%20pinnamood_uus.docx?version=1&modificationDate=1706621643760&api=v2",
+              "title": "Tartu pinnamood_uus.docx"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/6059-Euroopa-ja-Eesti-geoloogia#292965-Euroopa-ja-Eesti-geoloogia",
+              "title": "Euroopa ja Eesti geoloogia"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20117-Euroopa-ja-Eesti-asend-pinnamood-geoloogia/231623",
+              "title": "Euroopa ja Eesti pinnamood"
+            },
+            {
+              "kind": "link",
+              "href": "https://dinosaurpictures.org/ancient-earth#750",
+              "title": "Mandrite triivi simulatsioon"
+            },
+            {
+              "kind": "link",
+              "href": "https://maapou.keskkonnaharidus.ee/",
+              "title": "Eesti maapõue aarded"
+            },
+            {
+              "kind": "link",
+              "href": "https://geoloogia.info/",
+              "title": "eMaapõu"
+            },
+            {
+              "kind": "link",
+              "href": "https://egt.ee/juhendid-oppematerjalid/populaarteadus-huvilisele/seriaal-eesti-maapoue-uuringud",
+              "title": "Eesti maapõue uuringud"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=GFyHkITe5n"
+            },
+            {
+              "kind": "link",
+              "href": "https://taltech.ee/geoloogia-instituut/sarghaua-oppekeskus#p42653",
+              "title": "Taltechi Särghaua õppekeskuse õppeprogrammid ja materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://natmuseum.ut.ee/et/oppematerjalid",
+              "title": "TÜ loodusmuuseumi geoloogia alased õppematerjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/fossiilid-ja-elu-areng",
+              "title": "Fossiilid ja elu areng"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/muld-ja-pinnakate",
+              "title": "Muld ja pinnakate"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/eesti-geoloogiline-ehitus",
+              "title": "Eesti geoloogiline ehitus"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/maavarad-uurimine-kasutamine-ja-keskkonnahoid",
+              "title": "Maavarade uurimine, kasutamine ja keskkonnahoid"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/wVzvIC33TMg"
+            },
+            {
+              "kind": "link",
+              "href": "https://storymaps.arcgis.com/stories/62e45f35684b43b280cc5b23f5478736",
+              "title": "Metsa- ja põllumuldade seire"
+            },
+            {
+              "kind": "link",
+              "href": "https://pk.emu.ee/struktuur/mullateadus/aasta-muld/",
+              "title": "Aasta muldade infovoldikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.looduskalender.ee/klint/index.html",
+              "title": "Põhja-Eesti klint"
+            },
+            {
+              "kind": "link",
+              "href": "https://fossiilid.info/?mode=in_baltoscandia",
+              "title": "Fossiilid"
+            },
+            {
+              "kind": "link",
+              "href": "https://eestigeoloog.ee/et",
+              "title": "Eesti Geoloog"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/lahendamine?rid=7919213780587273&sort=ylesanne.id&psize=&id=&aine=G&aste=III&kvaliteet=&teema=p&alateema=&ylkogu_id=&testiliik=&keeletase=&lang=&kysimus=&otsi=1",
+              "title": "Avalikud ülesanded (pinnamood)"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/maavarad/cf61d04b-d449-44fc-85f9-731d9bd871bb",
+              "title": "Eesti Maavarad Põhikoolile"
+            },
+            {
+              "kind": "link",
+              "href": "https://jamboard.google.com/d/1hOe8mLFrmtUj7gLj-o7JTrrcuwepbIM03gmxwUu1lkA/edit?usp=sharing",
+              "title": "Näide 1 Väisjõudude töö"
+            },
+            {
+              "kind": "link",
+              "href": "https://jamboard.google.com/d/1azDvsWllJV9m3CX7n6XVsXgsiWEWoIisbxblMmWWxP0/edit?usp=sharing",
+              "title": "Näide 2 Eesti pinnavormid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.paemuuseum.ee/",
+              "title": "Porkuni paemuuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://kaevandusmuuseum.ee/",
+              "title": "Kohtla-Nõmme kaevandusmuuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://3d-tuur.kaevandusmuuseum.ee/",
+              "title": "Kaevandusmuuseumi virtuaaltuur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti ja Euroopa kliima",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Iseloomustab Eesti kliimat seostades selle üldiste kliimat kujundavate teguritega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab /selgitab ilma kujunemist tsüklonis ja antitsüklonis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb temaatiliste kaartide ja kliimadiagrammide põhjal Euroopa eri kohtade kliimat, seostab selle kliimat kujundavate tegurite mõjuga ning inimtegevuse võimalustega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab inimtegevuse, sh maakasutuse mõju kliimale nii kohalikul kui ka üleilmsel tasandil;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab kliimamuutuste võimalikke tagajärgi ning kliimamuutustega kohanemise võimalusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti kliima ja seda kujundavad tegurid. Regionaalsed kliimaerinevused Eestis ja Euroopas. Ilmakaart. Ilm tsüklonis ja antitsüklonis.</p><p>Inimtegevuse, sh maakasutuse mõju kliimale nii kohalikul kui ka üleilmsel tasandil. Kliimamuutuste võimalikud tagajärjed Eestis ning Euroopas.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>samatemperatuurijoon ehk isoterm, õhurõhk, tsüklon, antitsüklon, soe ja külm front</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tsükloneid ja antitsükloneid ning nende mõju ilmale on soovitav õppida Ventusky kaardirakenduses, kus ilmaandmed on eri kaardikihtidel visualiseeritud. Kliimamuutuste teema käsitlemisel on oluline, et õpilased hindaksid kriitiliselt kasutatud infoallikat ja teabe usaldusväärsust.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453811/Ilm%20ts%C3%BCklonis%20ja%20antits%C3%BCklonis.docx?version=1&modificationDate=1706621643772&api=v2",
+              "title": "Ilm tsüklonis ja antitsüklonis.docx"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453811/Tl%20Kliimamuutus_2023.docx?version=1&modificationDate=1706621643715&api=v2",
+              "title": "Tl Kliimamuutus_2023.docx"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.ilmateenistus.ee/",
+              "title": "Eesti ilmaandmete kaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://climateknowledgeportal.worldbank.org/",
+              "title": "Kliimadiagrammid"
+            },
+            {
+              "kind": "link",
+              "href": "https://climatecharts.net/",
+              "title": "Climate.Charts.net"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ventusky.com/",
+              "title": "Ventusky kaardirakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.metoffice.gov.uk/weather/maps-and-charts/surface-pressure",
+              "title": "Õhurõhu kaardid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.kliimamuutused.ee/et",
+              "title": "Kliimamuutused"
+            },
+            {
+              "kind": "link",
+              "href": "https://en.ilmatieteenlaitos.fi/weather-in-europe",
+              "title": "Soome Hüdrometeoroloogia Instituut"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/kliimakool/#kliimakool",
+              "title": "Kliimakooli kaardimäng"
+            },
+            {
+              "kind": "link",
+              "href": "https://mondo.org.ee/kliima",
+              "title": "Mondo kliima"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/",
+              "title": "Maailmakool"
+            },
+            {
+              "kind": "link",
+              "href": "https://climate.nasa.gov/interactives/climate-time-machine",
+              "title": "Kliimamuutused ajas"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/21571-Euroopa-kliima",
+              "title": "Euroopa kliima"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/13260/kliima-tootuba/",
+              "title": "Töötuba Kliimamuutused! Ja Sinu panus...?"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/?c=et,film,keskkond-kliima-ja-kestlikkus",
+              "title": "Mondo Maailmakooli dokumentaalfilmikogu"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.meteoalarm.org/",
+              "title": "Meteoalarm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti ja Euroopa veestik",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab veekogude ja inimtegevuse vastastikuseid seoseid, veekogude uurimise tähtsust ning vee kaitse vajadust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab Läänemerd, selle erinevaid rannikuid ning keskkonnaprobleeme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "orienteerub kaardil: leiab Eesti ja Euroopa suuremad veekogud;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab jõgede veetaseme muutused, sh üleujutused ja nende ulatuse piirkonna kliima ning pinnamoega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab teabeallikate põhjal põhjavee kujunemist ja kasutamisega seotud probleeme kodukohas ja Eestis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Veekogude ja inimtegevuse vastastikuste seoste uurimise olulisus. Läänemere eripära, selle põhjused. Läänemere eriilmelised rannikud. Läänemere keskkonnaprobleemid.</p><p>Eesti ja Euroopa jõgede veetaseme muutused, seos kliimamuutustega ning mõju inimeste igapäevaelule ja majandustegevusele. Põhjavee kujunemine, liikumine ning kasutamisega seotud probleemid kodukohas ja Eestis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>valgla e valgala, veelahe, riimvesi, pankrannik, laidrannik, skäärrannik, luide, maasäär, rannavall, põhjavesi, veega küllastunud ja küllastamata kihid, põhjavee tase, vett läbilaskvad ning vett pidavad kivimid ja setted</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Läänemere erinevaid rannikuid võiks õpilased uurida ja kirjeldada iseseisva tööna kasutades veebikaarte ja satelliidipilte. Põhjavee teema õppimisel on väga oluline kasutada korrektseid jooniseid või animatsioone põhjavee olemuse ja liikumise mõistmiseks.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/211453811/TL_Eesti%20rannikud_2023.doc?version=1&modificationDate=1706621643740&api=v2",
+              "title": "TL_Eesti rannikud_2023.doc"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/24506-Euroopa-ja-Eesti-veestik",
+              "title": "Euroopa ja Eesti veestik"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/22182-Laanemere-isearasused",
+              "title": "Läänemere eripära"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/22177-Laanemere-rannikud",
+              "title": "Läänemere rannikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/veeteemaline-opimapp",
+              "title": "Veeteemaline õpimapp"
+            },
+            {
+              "kind": "link",
+              "href": "http://stateofthebalticsea.helcom.fi/",
+              "title": "Läänemeri"
+            },
+            {
+              "kind": "link",
+              "href": "https://loodusveeb.ee/et/themes/teemad/okoloogiline-mitmekesisus",
+              "title": "Loodusveebi õppematerjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://bsp.tartuloodusmaja.ee/veebiviktoriin/",
+              "title": "Läänemere veebiviktoriin"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.pernova.ee/hoiamerd/",
+              "title": "Hoia merd! materjalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://mereala.hendrikson.ee/kaardirakendus.html",
+              "title": "Eesti merealade planeeringu kaardirakendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ilmateenistus.ee/meri/mereilm/",
+              "title": "Ilmateenistuse merevee andmed"
+            },
+            {
+              "kind": "link",
+              "href": "http://vana.loodusajakiri.ee/eesti_loodus/EL/vanaweb/9910/joed.html",
+              "title": "Kõik algab jõgedest"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ilmateenistus.ee/siseveed/aastaraamatud-ja-bulletaan/",
+              "title": "Hüdroloogilised aastaraamatud"
+            },
+            {
+              "kind": "link",
+              "href": "https://egt.ee/juhendid-oppematerjalid/populaarteadus-huvilisele/pohjavesi",
+              "title": "Mis on põhjavesi?"
+            },
+            {
+              "kind": "link",
+              "href": "http://has.concord.org/groundwater-movement.html",
+              "title": "Põhjavee liikumise simulatsioon"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=UjwycX5r5KI"
+            },
+            {
+              "kind": "link",
+              "href": "https://storymaps.arcgis.com/stories/2fc7f74485ca45858dabd933ffc6443e",
+              "title": "Põhjavee, pinnavee mereseire kaardilood"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/rannikuvaatluste-juhendmaterjal-maaramislehed-ja-pildikaardid",
+              "title": "Rannikuvaatluste juhendmaterjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/details/4d2de41e-c017-48e1-94c9-be87ffe132e2",
+              "title": "Läänemere kaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/details/c9e539cc-6728-4d2c-9083-fcb94c2a79eb",
+              "title": "Eesti ja Euroopa veestik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.loodusmuuseum.ee/et/classes/muuseum-tuleb-kulla-muutuv-laanemeri",
+              "title": "Muutuv Läänemeri"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ilmateenistus.ee/siseveed/vaatlusandmed/graafikud/",
+              "title": "Ilmateenistuse veetaseme graafikud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti ja Euroopa rahvastik",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib andmeportaalidest leitud andmete põhjal kodukoha, Eesti või mõne Euroopa riigi rahvastikku ja rahvastikuprotsesse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib rahvastikupüramiidi järgi mõne piirkonna rahvastiku soolis-vanuselist koosseisu ning selle mõju ühiskonnale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab Eesti ja Euroopaga seotud rände suundi ning nende põhjusi, analüüsib rände mõju ühiskonnale;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Arutleb Eesti rahvastikupoliitika meetmete teemal.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rahvastikuandmed, nende kogumine ja andmete olulisus. Kodukoha, Eesti ja Euroopa rahvaarv ja selle muutumine. Sündimuse, suremuse ja loomuliku iibe erinevused Euroopa riikides sh Eestis.</p><p>Rahvastiku soolis-vanuseline koosseis, selle muutumine ning rahvastiku vananemisega kaasnevad probleemid. Ränded Euroopas ja Eestis, nende peamised suunad, põhjused ja tagajärjed. Eesti rahvuslik koosseis ja selle muutumine. Rahvastikupoliitika meetmed Eestis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>rahvaloendus, rahvastikuregister, sündimus, suremus, loomulik iive, rahvastikupüramiid, rahvastiku vananemine, ränne, sisseränne, väljaränne, riigisisene ränne, pendelränne, pagulased, rahvuslik koosseis</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/25026-Euroopa-ja-Eesti-rahvastik",
+              "title": "Euroopa ja Eesti rahvastik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.rahvastikuregister.ee/",
+              "title": "e-Rahvastikuregister"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/statistikaamet/rahvaloendus-2021/rahvaloendustest-eestis",
+              "title": "Rahvaloendustest Eestis"
+            },
+            {
+              "kind": "link",
+              "href": "https://andmed.stat.ee/et/stat",
+              "title": "Statistika andmebaas"
+            },
+            {
+              "kind": "link",
+              "href": "https://juhtimislauad.stat.ee/et",
+              "title": "Piirkondlik statistika"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/rahvastikupyramiid/?lang=et",
+              "title": "Eesti rahvastikupüramiid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.cia.gov/the-world-factbook/",
+              "title": "The Word Factbook"
+            },
+            {
+              "kind": "link",
+              "href": "https://ourworldindata.org/",
+              "title": "Our World in Data"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.populationpyramid.net/",
+              "title": "Riikide rahvastikupüramiidid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.indexmundi.com/map/",
+              "title": "Rahvastiku andmed riikide lõikes"
+            },
+            {
+              "kind": "link",
+              "href": "https://ec.europa.eu/eurostat/cache/beta/demography/ee_et/index.html?lang=et",
+              "title": "Euroopa rahvastik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ined.fr/en/everything_about_population/data/europe-developed-countries/birth-death-infant-mortality/",
+              "title": "Sündimus ja suremus Euroopa riikides"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.2017.inimareng.ee/",
+              "title": "Eesti inimarengu aruanne 2016/17"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.migrationdataportal.org/regional-data-overview/europe",
+              "title": "Ränded Euroopas"
+            },
+            {
+              "kind": "file",
+              "src": "https://sisu.ut.ee/sites/default/files/ranne/files/rahvastikupoliitika_pohialused_2035.pdf",
+              "title": "Rahvastikupoliitika põhialused 2023"
+            },
+            {
+              "kind": "link",
+              "href": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/promoting-our-european-way-life/statistics-migration-europe_et",
+              "title": "Euroopa-suunalise rände statistika"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/randekool/",
+              "title": "Mondo rändekool"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/randekool/lms/kliimaranne/",
+              "title": "Kliimaränne"
+            },
+            {
+              "kind": "link",
+              "href": "https://juhtimislauad.stat.ee/et/piirkondlik-statistika-3/kogu-eesti-1",
+              "title": "Statistika juhtimislaud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/rahvastik",
+              "title": "Statistikaameti valdkond Rahvastik"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/rahvastik/ranne",
+              "title": "Rände statistika"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.sm.ee/laste-ja-perede-toetamise-kkk",
+              "title": "Eesti perepoliitika meetmed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti ja Euroopa asustus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib kaardi põhjal rahvastiku paiknemist ja tihedust kodukohas, Eestis ning Euroopas, seostades selle looduslike ja ühiskondlike tegurite mõjuga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab ja võrdleb linnastumise trende ning etappe Eestis ja Euroopas ning linnade kasvu ja kahanemise tagajärgi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib teabeallikate põhjal mõne Eesti asula arengut, elukeskkonda ning seda mõjutavaid looduslikke ja sotsiaalmajanduslikke tegureid, pakub lahendusi asula elukeskkonna parandamiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "orienteerub kaardil: leiab kaardil Eesti linnad, maakonnad, Euroopa riikide pealinnad.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rahvastiku paiknemine Euroopas ja Eestis ning seda mõjutavad tegurid. Linnastumine ning selle etapid Eestis. Eesti asulad. Linnastumisega kaasnevad majandus-, sotsiaal- ja keskkonnaprobleemid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>rahvastiku keskmine tihedus, linnastumine, linnastu, eeslinnastumine, valglinnastumine, vastulinnastumine, taaslinnastumine, eeslinn</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://upload.wikimedia.org/wikipedia/commons/4/46/Population_density_by_NUTS_3_region_%282017%29.svg",
+              "title": "Euroopa rahvastiku tiheduse kaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://rahvaloendus.ee/et/uudised/rahvaloenduse-andmetel-elab-euroopa-liidus-ule-443-miljoni-inimese",
+              "title": "Rahvaloenduse andmetel elab Euroopa Liidus üle 443 miljoni inimese"
+            },
+            {
+              "kind": "link",
+              "href": "https://upload.wikimedia.org/wikipedia/commons/6/64/Earthlights_2002.jpg",
+              "title": "Euroopa öine satelliidipilt"
+            },
+            {
+              "kind": "link",
+              "href": "https://storymaps.arcgis.com/stories/0c3f940a39454a5396432d666e79006e",
+              "title": "Eesti rahvastiku paiknemine"
+            },
+            {
+              "kind": "link",
+              "href": "https://luminocity3d.org/WorldPopDen/#6/22.340/78.684",
+              "title": "Rahvastiku tiheduse interaktiivne kaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://luminocity3d.org/WorldCity/#4/33.83/-67.50",
+              "title": "Maailma linnade interaktiivne kaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.2020.inimareng.ee/",
+              "title": "Linnastunud ühiskonna ruumilised valikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://ourworldindata.org/grapher/population-density",
+              "title": "Rahvastiku keskmine tihedus riikides"
+            },
+            {
+              "kind": "link",
+              "href": "https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?view=chart",
+              "title": "Linnarahvastiku osatähtsus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/uudised/2018/02/22/enamik-eesti-rahvastikust-koondub-paevasel-ajal-linnadesse",
+              "title": "Enamik Eesti rahvastikust koondub päevasel ajal linnadesse"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.bbvaresearch.com/wp-content/uploads/2016/12/European-urbanization-trends_.pdf",
+              "title": "Euroopa linnastumise trendid"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/1609054928/varjukonnitee-pakub-ulekuumenevatelele-linnadele-leevendust",
+              "title": "Varjukõnnitee pakub ülekuumenevatele linnadele leevendust"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Sissejuhatus majandusse",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib loodusvarade, tööjõu, kapitali ja turgude ning tarneahelate mõju Eesti majandusele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib muutusi Eesti majanduse struktuuris ja seostab selle majanduse arengu üldiste trendidega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab üleilmastumise ja rahvusvaheliste firmade mõju Eesti majandusele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab jätkusuutliku majanduse olemust ja tähtsust, toob näiteid jätkusuutliku majandamise, sh ringmajanduse kohta;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb majandustegevusega seotud probleemide üle, lähtudes majanduslikest, sotsiaalsetest ja keskkonna aspektidest.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Majandusressursid. Loodusressursside, tööjõu, kapitali ja turgude ning tarneahelate mõju Eesti majandusele. Jätkusuutlik majandamine, sh ringmajandus.</p><p>Majanduse struktuur: majandustegevused esmasektoris, tööstuses, teeninduses. Üleilmastumine ja rahvusvahelised ettevõtted, nende mõju Eesti majandusele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>majandusgeograafiline asend, majandusressursid, taastuvad ja taastumatud loodusvarad, kapital, tööjõud, hõive, üleilmastumine, rahvusvahelised ettevõtted, tarneahelad, majanduse struktuur, majandussektorid: hankiv majandus, tööstus, teenindus, ringmajandus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://youtu.be/aTGt3twn1HI"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.europarl.europa.eu/news/et/headlines/economy/20151201STO05603/ringmajanduse-tahendus-vajalikkus-ja-kasulikkus?&at_campaign=20234-Economy&at_medium=Google_Ads&at_platform=Search&at_creation=RSA&at_goal=TR_G&at_audience=ringmajandus&at_topic=Circular_Economy&at_location=EE&gclid=Cj0KCQjwuNemBhCBARIsADp74QTU-eKV1kd7X4xwxZ9NYvj0bKoqqH-v29lTKOpLdAdp2yQ9hdFLnAMaAiDuEALw_wcB",
+              "title": "Ringmajanduse tähendus, vajalikkus ja kasulikkus"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaportaal.ee/index.php/et/ringmajandus/ringmajandus-eestis",
+              "title": "Ringmajandus Eestis"
+            },
+            {
+              "kind": "link",
+              "href": "https://ringmajandus.envir.ee/et/ringmajandus",
+              "title": "Ringmajandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/uudised/kuidas-muutunud-eesti-tooturg-30-aasta-jooksul",
+              "title": "Kuidas on muutunud Eesti tööturg 30. aasta jooksul"
+            },
+            {
+              "kind": "link",
+              "href": "https://tooturg.stat.ee/",
+              "title": "Tööturu rakendus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti põllumajandus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab kestliku põllumajanduse ja toidutootmise seoseid ning olulisust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab mõnd toiduaine tootmisahelat, teab kodumaise toidukauba eeliseid ja väärtustab Eesti tooteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab teabeallikate põhjal mõne kultuurtaime kasvutingimusi, viljelemist ja kasutamist;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb tootmist erinevates taime- ja loomakasvatustaludes ning väike- ja suurtootmise mõju keskkonnale, sh maastike muutumisele;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab põllumajanduse arengueeldusi Eestis ning põhjendab põllumajanduse ja toidutootmise struktuuri.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Põllumajanduse arengut mõjutavad looduslikud tegurid ja põllumajanduse spetsialiseerumine. Maakasutus ja selle muutused. Kestlik ehk jätkusuutlik põllumajandus.</p><p>Eesti põllumajanduse harud ja toidutootmine. Põllumajanduse ja toidutootmisega seotud keskkonnaprobleemid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>põllumajanduse spetsialiseerumine, taimekasvatus ja loomakasvatus, maakasutus, taimekasvuperiood, kestlik põllumajandus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.agri.ee/maaelu-pollumajandus-toiduturg/pollumajandus-ja-toiduturg/ulevaated-ja-statistika",
+              "title": "Regionaal- ja põllumajandusministeerium"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.tartuloodusmaja.ee/wp-content/uploads/2020/12/Koolitusmaterjalide_kogumik_Pollumajandusmaastikud_ja_KAH.pdf",
+              "title": "Põllumajandusmaastikud ja kestliku arengu haridus"
+            },
+            {
+              "kind": "link",
+              "href": "https://toiduteave.ee/toiduohutuse-konverents-07-06-2023/",
+              "title": "Toiduohutuse konverents"
+            },
+            {
+              "kind": "link",
+              "href": "https://epkk.ee/kestlik-toidususteem-muudab-seniseid-pohimotteid/",
+              "title": "Kestlik toidusüsteem muudab seniseid põhimõtteid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/pollumajandus-kalandus-ja-jahindus",
+              "title": "Põllumajandus, kalandus ja jahindus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.maheklubi.ee/",
+              "title": "Maheklubi"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/6B57ret2q9g?si=EXN0urjOvJjHY9jg"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/R3h-uz1z0K4?si=xdGgEhcmuaOanNo0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti metsamajandus ja -tööstus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab metsa ja kestliku metsamajanduse olulisust ning väärtustab metsa kui ökosüsteemi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab metsamajanduse ja -tööstuse, sh puidu väärindamise rolli Eesti majanduses.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Metsa erinevad funktsioonid. Eesti metsamajandus ja -tööstus. Metsade hävimine ja selle põhjused. Metsade kestlik majandamine ja metsade kaitse olulisus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>metsasus, puiduvaru, metsamajandus, metsatööstus, kestlik metsamajandus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://kliimaministeerium.ee/elurikkus-keskkonnakaitse/metsandus/metsastatistika",
+              "title": "Metsastatistika"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/keskkond/mets",
+              "title": "Metsa statistika Statistikaameti kodulehel"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaportaal.ee/et/metsa-aastaraamatud",
+              "title": "Metsa aastaraamatud"
+            },
+            {
+              "kind": "link",
+              "href": "https://metsainfo.ee/",
+              "title": "Infovärav Eesti metsandusse"
+            },
+            {
+              "kind": "file",
+              "src": "https://loodusaineteliit.files.wordpress.com/2012/06/metsamapp.pdf",
+              "title": "Metsamapp. Õppematerjal koolidele"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/K_TZbeW9XxU"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/ZC6Ld8piRLM"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/Fr75ljdUOSM"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.rmk.ee/eluring",
+              "title": "Meie ja metsa eluring"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/Y0W48pYnZZ8?si=FPGmNTy1Gsyuw4LA"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/V9DZcH2cASQ?si=Co4_Ua_ri9Rv3su1"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/LEWKb2_mwOo?si=gNGghsvAVh1IQAE3"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/u7sbCx7Jcrs?si=lpe6ly_sIAS2oSf4"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.loodusegakoos.ee/metsakool/metsaviktoriin",
+              "title": "Metsaviktoriin"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.tartuloodusmaja.ee/wp-content/uploads/2020/12/Koolitusmaterjalide_kogumik_Mets_ja_KAH.pdf",
+              "title": "Mets ja kestliku arengu haridus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.europarl.europa.eu/factsheets/et/sheet/105/euroopa-liit-ja-metsad",
+              "title": "Euroopa Liit ja metsad"
+            },
+            {
+              "kind": "link",
+              "href": "https://commission.europa.eu/document/cf3294e1-8358-4c93-8de4-3e1503b95201_et",
+              "title": "Uus ELi metsastrateegia aastani 2030"
+            },
+            {
+              "kind": "link",
+              "href": "https://erametsaliit.ee/2021/02/15/euroopa-metsaraport-euroopa-metsasus-kasvab/",
+              "title": "Euroopa metsaraport"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.horizon.ee/ettevottest/",
+              "title": "Kehra tselluloositehas"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.storaenso.com/et-ee/about-stora-enso/stora-enso-locations/imavere-sawmill",
+              "title": "Imavere saeveski"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.wisaplywood.com/et/",
+              "title": "Otepää vineeritehas"
+            },
+            {
+              "kind": "link",
+              "href": "https://rappin.ee/",
+              "title": "Räpina paberivabrik"
+            },
+            {
+              "kind": "link",
+              "href": "https://tarmeko.ee/",
+              "title": "Tarmeko"
+            },
+            {
+              "kind": "link",
+              "href": "https://vau.ee/",
+              "title": "Viljandi Aken ja Uks"
+            },
+            {
+              "kind": "link",
+              "href": "https://xgis.maaamet.ee/xgis2/page/app/metsamuutused",
+              "title": "Metsamuutuste kaardirakendus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti energiamajandus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib energiatarvet perekonna tasandil ja ühiskonna toimimises, väärtustab säästlikku energia tarbimist ning pakub selleks lahendusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib eri energiakandjate kasutamise eeliseid ja puudusi, sh nende mõju keskkonnale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on omandanud ülevaate kodukoha, Eesti ja Euroopa energiamajandusest ning sellega seotud probleemidest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Energiamajandus ja selle olulisus. Taastuvad ja taastumatud energiaallikad, nende kasutamise eelised ja puudused ning kaasnevad keskkonnaprobleemid. Muutused Eesti energiamajanduses, seosed Euroopa energiamajandusega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>energiamajandus, taastuvad ja taastumatud energiaallikad, fossiilkütused, soojus-, tuuma-, hüdro-, tuule- ja päikeseenergia, säästlik energia tarbimine</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://www.trea.ee/wp-content/uploads/2018/11/TREA_Energilised-inimesed_EstLat_SEC.pdf",
+              "title": "Energilised inimesed. 6 energiapäevikut"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.taastuvenergeetika.ee/taastuvenergia-aastaraamat-2021-2/",
+              "title": "Taastuvenergia aastaraamatud"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.iea.org/regions/europe",
+              "title": "IEA andmed aasta 2020 seisuga"
+            },
+            {
+              "kind": "link",
+              "href": "https://ourworldindata.org/energy",
+              "title": "Our World in Data. Energy"
+            },
+            {
+              "kind": "link",
+              "href": "https://yearbook.enerdata.net/",
+              "title": "Global Energy Transition Statistics"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.err.ee/1609058675/eesti-seab-uha-ambitsioonikamaid-kliimaeesmarke",
+              "title": "Eesti seab üha ambitsioonikamaid kliimaeesmärke"
+            },
+            {
+              "kind": "link",
+              "href": "https://dashboard.elering.ee/et",
+              "title": "Elering"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/Bzdr3fj0jHQ"
+            },
+            {
+              "kind": "link",
+              "href": "https://plankfilm.ee/polevkivi-kaevandamise-mojud/",
+              "title": "Põlevkivi kaevandamise mõju maastikele"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/uudised/elektri-tootmine-taasiseseisvunud-eestis-polevkivist-taastuvenergiani",
+              "title": "Statistikaameti kokkuvõte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teenindus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib töökohtade paiknemist ja teenuste kättesaadavust asustussüsteemi eri tasandite asulates, sh koduasulas;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab Eesti transpordisüsteemi, analüüsib transpordiliikide eeliseid ja puudusi ning transpordi mõju keskkonnale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib teabeallikate põhjal mõne asula ühistranspordi kättesaadavust ning selle mõju inimeste igapäevaelule;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab ja analüüsib teabeallikate põhjal kodukoha, Eesti või mõne Euroopa riigi turismi arengueeldusi, turismimajandust ning selle mõju majandus- ja sotsiaalelule ning keskkonnale.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teenuste liigid ja nende kättesaadavus eri tasandi asulates. Transpordi liigid, nende eelised ja puudused reisijate ning erinevate kaupade veol, kaasnevad keskkonnamõjud.</p><p>Turismi arengueeldused Eestis ja peamised turismipiirkonnad. Turismiga kaasnevad keskkonna-, majandus- ja sotsiaalprobleemid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>teenused, turism, transpordi liigid, transpordigeograafiline asend</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/energia-ja-transport/transport",
+              "title": "Eesti transpordialane statistika"
+            },
+            {
+              "kind": "link",
+              "href": "https://marinetraffic.live/et/",
+              "title": "Laevaliiklus reaalajas"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.flightradar24.com/59.38,28.20/4",
+              "title": "Lennuliiklus reaalajas"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/majandus/turism-majutus-ja-toitlustus",
+              "title": "Eesti turismialane statistika"
+            },
+            {
+              "kind": "link",
+              "href": "https://andmed.stat.ee/et/stat/search?searchquery=Eesti%20elanike%20reisimine",
+              "title": "Turismialane statistika andmebaas"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eestipank.ee/teemad/reisistatistika",
+              "title": "Reisistatistika"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.unwto.org/tourism-data/global-and-regional-tourism-performance",
+              "title": "Rahvusvahelise turismi statistika"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/1609056977/raport-kliimasoojenemine-toob-suveturistid-pohja-euroopasse",
+              "title": "Raport: kliimasoojenemine toob suveturistid Põhja-Euroopasse"
+            },
+            {
+              "kind": "link",
+              "href": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/WDN-20230414-1",
+              "title": "Tourism Satellite Accounts in Europe — 2023 edition"
+            },
+            {
+              "kind": "link",
+              "href": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_trips_of_Europeans",
+              "title": "Tourism trips of Europeans"
+            },
+            {
+              "kind": "link",
+              "href": "http://peatus.ee",
+              "title": "peatus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://Tpilet.ee",
+              "title": "Tpilet.ee"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

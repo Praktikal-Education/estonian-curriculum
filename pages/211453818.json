@@ -1,0 +1,1058 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Millega tegeleb keemia?",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab keemiliste reaktsioonide esilekutsumise võimalusi, tunneb ära keemilise reaktsiooni toimumise iseloomulike tunnuste järgi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib laboris katseid tehes ja argielus kemikaale kasutades ohutusnõudeid;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb tähtsamaid laborivahendeid ja kasutab neid praktilisi töid tehes õigesti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab lahuseid ja pihuseid ning valmistab neid, toob näiteid lahuste ja pihuste kohta looduses ning igapäevaelus;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab lahuse protsendilisel koostisel põhinevaid arvutusülesandeid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keemia meie ümber. Keemilised reaktsioonid ja nende tunnused.</p><p>Kemikaalide ohutu kasutamine laboritöödes ja argielus.</p><p>Tähtsamad laborivahendid.</p><p>Lahused ja pihused looduses ning igapäevaelus, pihuste alaliigid.</p><p>Lahuste protsendilise koostise arvutused (massi järgi).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>lahus, pihus, emulsioon, suspensioon, aerosool, vaht, lahuse massiprotsent.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>pihuste valmistamine ning nende omaduste uurimine;</li><li>keemilise reaktsiooni tunnuste ja esilekutsumise võimaluste uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sissejuhatavates tundides saadakse ülevaade, millega keemia tegeleb. Ilma keemiateadmisteta poleks suurt osa ainetest, mida tänapäeval kasutatakse igapäevaste materjalide valmistamiseks. Keemiaõpingute käigus õpitakse mõistma keemiliste nähtuste olemust ning looduslike protsesside keemilist tagapõhja, omandatakse keemilise kirjaoskuse alused, oskus kasutada erinevaid keemiateabeallikaid ja rakendada loodusteaduslikke uurimismeetodeid probleemide lahendamiseks. Samuti tutvutakse keemia rolliga inimühiskonna ajaloolises arengus, tänapäeva tehnoloogias ja igapäevaelus; oluline on säästlik suhtumine keskkonda ning kasutatavate materjalide ja reaktsioonide ohtlikkusega arvestamine. Õpingute kestel võib tekkida huvi ja soov siduda oma tulevik keemiaga.</p><p>Keemia on eksperimentaalne teadus. Keemiakatseid tehes õpitakse tundma olulisemaid laborivahendeid, omandatakse vajalikke töövõtteid ning õpitakse järgima tähtsamaid ohutusnõudeid. Erinevate ainete kasutamisel tuleb ka kodus ja edaspidi tööl järgida ohutusnõudeid, et kaitsta ennast, teisi inimesi ja keskkonda võimalike ohtude eest.</p><p>Keemilised reaktsioonid kulgevad pidevalt nii meis endis kui ka looduses, neid kasutatakse tööstuses ja olmes. Õpitakse reaktsioone esile kutsuma ja märkama nende kulgemist.</p><p>Nii looduses kui ka igapäevaelus leidub ja kasutatakse paljusid segusid, kus üks aine on teises jaotunud. Varasemast loodusõpetusest tuttavate lahuste kõrval õpitakse tundma argielus olulisi pihuseid.</p><p>Lahustunud aine sisaldust lahuses väljendatakse protsendilise koostise abil. Nii laboratoorsete tööde tegemisel, tööstuses kui ka igapäevaelus on tarvis kasutada erineva kangusega lahuseid. Õpitakse arvutama lahuste koostist, nt kui palju ainet ja kui palju vett on tarvis kindla lahuse valmistamiseks võtta. Selliste ülesannete lahendamine võimaldab tuua ühe praktilise rakenduse matemaatikas õpitud protsendi mõistele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Sissejuhatavas tunnis peaks õpilastele andma lühikese ülevaate keemia uurimisvaldkonnast. Võiks arutleda selle üle, milline oleks meie ümbrus, kui kõik esemed oleksid valmistatud vaid looduses valmis kujul leiduvatest ainetest – peamiselt siis töötlemata puidust ja kivimitest. Põgusalt võiks peatuda elukutsetel, mis nõuavad keemiateadmisi (läbiv teema elukestev õpe ja karjääri kujundamine).</li><li>Esimeste praktiliste tööde käigus tuleb rõhutada ohutusnõuete järgimise vajadust; enne laboritööd tuleb meenutada just konkreetse tööga seotud ohtusid.</li><li>Oluline on õppida kirjeldama keemiliste reaktsioonide käigus toimuvaid muudatusi, juhtides tähelepanu sellele, et muutus nt värvuses viitab uue aine tekkele.</li><li>Tutvumisel tähtsamate laborivahenditega peaks mh harjutama katseklaasi silma järgi kindla lahuse koguse võtmist (tavaliselt on sobiv lahuse kogus 1–2 cm<sup>3</sup>).</li><li>Lahuste ja pihuste teemat on sobiv alustada loodusõpetuses õpitud lahuste meenutamisega, seejärel aga tuua kõrvale mingi pihus ja lasta neid võrrelda (nt limonaad ja piim).</li><li>Massiprotsendi arvutusülesannete lahendamisega õpitakse rakendama matemaatikas omandatud teadmisi. Tähelepanu tuleb seejuures pöörata ülesande teksti ning osa ja terviku vahekorra mõistmisele.</li><li><strong>Differentseerimine:</strong> õppe diferentseerimisel on võimalik kasutada mõningaid LÕK 2010 õppematerjale ning sealseid ülesandeid. Samuti saab kasutada mitmeid keelekümbluse töölehti, mis asuvad E-koolikotis. Andekamatele õpilastele võib soovitada TÜ Teaduskooli erinevaid kursusi ning samuti valmistada neid ette olümpiaadideks.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>toob näiteid keemia uurimisvaldkonda kuuluvatest protsessidest argielus ja tööstuses (ettevõtlikkuspädevus, LT1, KE1);</li><li>arutleb rühmas, milline oleks elu ilma keemia abil toodetud materjalideta (sotsiaalne ja kodanikupädevus, suhtluspädevus, LT1, KE1);</li><li>koostab internetiallikate abil ajatelje mõne põhilise keemilise protsessi kasutusele võtmise kohta inimkonna ajaloos (kultuuri- ja väärtuspädevus, õpipädevus, ettevõtlikkuspädevus, digipädevus, LT1, LT5, LT6, KE1);</li><li>leiab internetist elukutseid, mis nõuavad keemiateadmiste kasutamist (õpipädevus, ettevõtlikkuspädevus, digipädevus, LT5, LT8, KE1);</li><li>eristab argielus, tööstuses ja looduses keemilisi reaktsioone ja muid (füüsikalisi) nähtusi (ettevõtlikkuspädevus, LT2, KE1);</li><li>põhjendab olulisemate laboritöö reeglite järgimise vajalikkust, järgib neid katseid tehes (enesemääratluspädevus, LT4, KE2);</li><li>tunneb ära olulisemad ohumärgid (piktogrammid), kasutab kemikaale ohumärke arvestades nii koolis kui ka koduses majapidamises (enesemääratluspädevus, LT4, KE2);</li><li>tunneb ära olulisemad laborivahendid nii füüsiliselt kui ka pildilt (katseklaas, keeduklaas, kolb, mõõtesilinder, lehter, uhmer, portselankauss, piirituslamp, statiiv) (LT4, KE3, KE6);</li><li>valib laboris mingi tegevuse jaoks sobiva laborivahendi (ettevõtlikkuspädevus, LT4, KE3, KE6);</li><li>mõõdab mõõtsilindri abil vedeliku ruumala, hindab katseklaasis oleva vedeliku kogust silma järgi (LT4, KE);</li><li>viib läbi katsed keemiliste reaktsioonide tunnuste tundmaõppimiseks ja kirjeldab tulemusi (värvuse muutus, lõhna teke või kadumine, sademe teke või kadumine, gaasi eraldumine, soojuse ja valguse eraldumine) (LT2, LT4, KE6);</li><li>loetleb keemiliste reaktsioonide esilekutsumise võimalusi (ainete kontakt, kuumutamine, süütamine, valgustamine või elektrivoolu läbijuhtimine) (LT2, LT4, KE6);</li><li>toob näiteid ja liigitab argielus ettetulevad segud alaliikidesse (lahus, suspensioon, emulsioon, vaht, aerosool); koostab postri pihustest kokanduses, ehituses, iluteeninduses vms (ettevõtlikkuspädevus, suhtluspädevus, LT1, LT2, LT4, LT5, KE1, KE3, KE6);</li><li>valmistab lahuse ja suspensiooni, võrdleb nende omadusi (suhtluspädevus, LT4, KE6);</li><li>valmistab emulsiooni ja vahu, võrdleb nende püsivust emulgaatori lisamisel ja ilma (LT4, KE6);</li><li>eristab lahuseid ja pihuseid põhiomaduste (püsivus, läbipaistvus) järgi (LT2, KE1);</li><li>arvutab lahuse koostise järgi lahustunud aine massiprotsenti, lahuse massiprotsendi ja massi järgi lahuse koostise ning aine massi ja massiprotsendi järgi lahuse massi – seda nii formaliseeritud ülesande kui ka argielus ette tulevate situatsioonide korral (suhtluspädevus, LT2, KE7).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajalugu – loodusteaduste, sh keemia areng.</p><p>Loodusõpetus – puhtad ained ja segud, lahused, vedeliku ruumala mõõtmine.</p><p>Matemaatika – osa ja tervik, protsentarvutused.</p><p>Geograafia – merevee soolsus, selle väljendamine protsentides.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kujundava hindamise objektideks võivad olla:</p><ul><li>tunnikontrollid: üldised ohutusnõuded laboris töötamisel, laborivahendid, nende otstarve; lahuse massiprotsendi arvutused;</li><li>praktiline töö: keemilise reaktsiooni tunnused (hinnata eelkõige õpitud laboritöö võtete kasutamist ja ohutusreeglite järgimist, aga ka tähelepanekute kirja panemise oskust);</li><li>ajatelg mõne põhilise keemilise protsessi kasutusele võtmise kohta inimkonna ajaloos (vt <a href=\"https://docs.google.com/document/d/1yJBH6sN9Bw4yX7Tf0hfqVuSFAmsovFGet4ces2RsrOc/edit?usp=sharing\">ajatelje hindamismudelit</a>);</li><li>poster: pihused kokanduses, ehituses, iluteeninduses vms.</li></ul><p>Sissejuhatava teema kohta võib koostada kontrolltöö, kuid kui eelneva hindamise käigus on saadud piisavalt tagasisidet õpitulemuste omandatuse kohta, siis võib selle ka ära jätta; kui kontrolltöö teha, siis olulisima kirjalikult väljendatava õpitulemusena peaks see sisaldama lahuste massiprotsendi arvutamise ülesandeid.</p><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=DlYrUTedRTE"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=nY4gRfL3xNA"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/laborivahendid/af79671d-5fe1-471a-8937-6ee4ac3c1c9e",
+              "title": "Kahoot-viktoriin Elementide tähised"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=6EXOVLn_50E"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/pihused-ja-lahused/5ed95f97-4c24-4a64-92af-4f7157ce7d94",
+              "title": "Kahoot-viktoriin Pihused ja lahused"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=vkxhQUkqHq0"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=g8VARSS1FRY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=G56dGZUQ4L8"
+            },
+            {
+              "kind": "link",
+              "href": "https://jpk.edu.ee/~neeme/failid/yg/",
+              "title": "Ülesandegeneraator N. Katt"
+            },
+            {
+              "kind": "section",
+              "title": "HEV õpilastele",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.opiq.ee/kit/310/chapter/17317",
+                  "title": "LÕK 2010: Ohutusnõuded kemikaalide töötamisel"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.opiq.ee/kit/279/chapter/15734",
+                  "title": "LÕK 2010: Keemiline reaktsioon"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.opiq.ee/kit/279/chapter/15734",
+                  "title": "LÕK 2010: Lahused ja pihused"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Sissejuhatus keemiasse. Keelekümblus 8. klassile tööleht nr. 2"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Laborinõud. Keelekümblus 8. klassile tööleht nr. 11"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Lahus ja lahustuvus. Keelekümblus 8. klassile tööleht nr. 15"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/12416-Keemia-51-101-keelekumblus",
+                  "title": "Arvutusülesanded lahuse koostisega. Keelekümblus 8. klassile tööleht nr. 67–69"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/12468-Keemia-53-57-keelekumblus",
+                  "title": "Pihussüsteemid tööleht nr. 55A ja 55B"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://projektid.edu.ee/download/attachments/211453818/Lahuse%20%25%20arvutamine%20lihtsustatud.docx?version=1&modificationDate=1706621644233&api=v2",
+                  "title": "Lihtsustatud lahuse % koostise ülesande näited"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Aatomiehitus, perioodilisustabel. Ainete ehitus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab aatomi ehitust, kasutab keemiliste elementide tähiste leidmiseks, aatomi ehituse kirjeldamiseks ja elektronskeemi koostamiseks keemiliste elementide perioodilisustabelit;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab keemiliste elementide liigitamist metallilisteks ja mittemetallilisteks elementideks ning väärisgaasideks, otsib internetist näiteid metallide ja mittemetallide kasutamise kohta igapäevaelus ning võrdleb nende omadusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab liht- ja liitaineid ning selgitab aine valemi põhjal aine koostist;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab ioone neutraalsetest aatomitest ning selgitab ioonide tekkimist ja iooni laengut;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab kovalentse, ioonilise ja metallilise sideme erinevust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aatomi ehitus. Keemilised elemendid, nende tähised. Perioodilisustabeli seos aatomite ehitusega.</p><p>Metallilised ja mittemetallilised elemendid ning väärisgaasid keemiliste elementide perioodilisustabelis. Metallid ja mittemetallid igapäevaelus.</p><p>Liht- ja liitainete koostise väljendamine valemite abil.</p><p>Molekulide ja ioonide teke aatomitest. Aatomite ja ioonide erinevus.</p><p>Ettekujutus keemilise sideme alaliikidest: kovalentne, iooniline ja metalliline side.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>keemiline element, lihtaine, liitaine (keemiline ühend), ioon, katioon, anioon, kovalentne side, iooniline side, metalliline side.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>molekulimudelite koostamine;</li><li>ainete füüsikaliste omaduste uurimine ja kirjeldamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ainete omadused sõltuvad sellest, millistest osakestest ja kuidas on ained üles ehitatud. Ainete ehituse (struktuuri) teadmine võimaldab ennustada ainete omadusi. Aine omadused määravad aine kasutusvõimalused. Kõik ained koosnevad aineosakestest – aatomitest ning nendest moodustunud molekulidest või ioonidest. Tänapäeval on perioodilisustabel üks olulisemaid keemiainfo allikaid, sest ta peegeldab aatomi ehitust.</p><p>Üheks keemiliste elementide liigitamise võimaluseks on lähtumine vastavate lihtainete keemilistest omadustest. Igal puhtal ainel on kindlad omadused, mis võimaldavad aineid üksteisest eristada.</p><p>Keemia keele aluseks on keemiliste elementide tähised, millest koostatavad ainete valemid kirjeldavad lühidalt aine koostist; valemite abil aga saab kirjeldada keemiliste reaktsioonide kulgemist.</p><p>Keemiline side on keemia üks kesksemaid mõisteid. Reaktsioonide analüüsimiseks ja reaktsioonisaaduste ennustamiseks on oluline mõista, kuidas tekivad keemilised sidemed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Teema toetub 7. klassi loodusõpetuses aatomi ehituse kohta õpitule.</li><li>Kuna tegu on õpilaste jaoks kõige abstraktsema teemaga üldse, siis on sobilik teha põgus ajalooline lühiülevaade aatomi ehituse mõistmisest, elementide tähistamise arengust ja perioodilisustabeli loomisest.</li><li>Elementide tähiste tähtsuse mõistmiseks võib kasutada võrdlust keelega. Elementide tähised on keemia keele aluseks.</li><li>Kindlasti tuleb õpilastele näidata lihtainete näidiseid ja lasta kirjeldada nende silmaga nähtavaid omadusi (nt C, S, P, I<sub>2</sub>, Br<sub>2</sub>, Fe, Al, Cu, Sn, Pb, Zn, Na, Hg, Ag, Au; õhule viidates saab lisada ka O<sub>2</sub> ja N<sub>2</sub>).</li><li>Võimaluse korral joonistada molekulimudeleid mingis programmis (ACDChemsketch, MolView) ja panna kokku molekulide kera-pulk mudeleid.</li><li><strong>Diferentseerimine:</strong> aatomi ehituse ning selle seost keemiliste sidemete tekkega on keeruline õpilastel mõista. Seega on oluline keskenduda perioodilisustabeli kasutamisele ning liht- ja liitainete koostise väljendamisele valemi abil.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>selgitab kaaslasele aatomi ehitust;</li><li>leiab perioodilisustabelist kiiresti olulisemate elementide tähised ja harjutab nende lugemist;</li><li>liigitab keemilisi elemente perioodilisustabeli abil metallilisteks ja mittemetallilisteks elementideks ning väärisgaasideks;</li><li>kirjeldab perioodilisustabeli abil elementide aatomite ehitust ja koostab vastavaid elektronskeeme;</li><li>vaatleb, uurib ja kirjeldab ainete füüsikalisi omadusi;</li><li>seostab aine oleku mingil temperatuuril selle aine sulamis- ja keemistemperatuuriga;</li><li>planeerib, viib läbi katse ja arvutab tulemused uuritava keha materjali tiheduse määramiseks;</li><li>arutleb rühmas metallide füüsikaliste omaduste ja neist tulenevate kasutusvõimaluste üle;</li><li>otsib internetist näiteid metallide ja mittemetallide kasutamise kohta igapäevaelus ning võrdleb nende omadusi;</li><li>koostab lihtsamate liht- ja liitainete molekulimudeleid;</li><li>koostab molekuli koostise kirjelduse põhjal molekuli summaarse valemi ja vastupidi;</li><li>eristab nii molekuli mudeli kui ka valemi põhjal liht- ja liitaineid, puhtaid aineid ja segusid;</li><li>eristab neutraalset aatomit ja iooni, katiooni ja aniooni ning selgitab joonise abiga ioonide tekkimist ja iooni laengut;</li><li>võrdleb aatomi ja iooni aatomi elektronkatteid;</li><li>selgitab kovalentse, ioonilise ja metallilise sideme tekkeprotsessi erinevust;</li><li>teeb joonise, mis põhjendab metallide füüsikalisi omadusi metallilise sideme eripäraga.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajalugu – loodusteaduste, sh keemia areng.</p><p>Loodusõpetus, füüsika – aatom, molekul, aatomi ehitus, prooton, neutron, elektron, tiheduse määramine ja arvutamine, liht- ja liitained.</p><p>Tehnoloogiaõpetus – metallide füüsikalised omadused.</p><p>Inglise keel – elementide nimetused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kujundava hindamise objektideks võivad olla keemiliste elementide tähistega seotud tegevus, tunnikontrollid perioodilisustabeli ja aatomi ehituse seoste, liht- ja liitainete ning ioonide tekke kohta ning praktiline töö ainete füüsikaliste omaduste uurimisest ja kirjeldamisest. Teema võib kokku võtta kontrolltööga.</p><p>Teema õppimise käigus kogutud info õpilase õpitulemuste saavutamise kohta annab õpetajale sisendi kokkuvõtva hinde panekuks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=YqrBIBAjf28"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/elementide-tahised/13f1a413-f40f-412c-a00c-97e6d1b5ea16",
+              "title": "Kahoot-viktoriin Elementide tähised"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=VgVQKCcfwnU"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=DTwdlVdi1pM"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_all.html?locale=et"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/aatomi-ehitus/92aa4509-37ce-4f42-9b55-700ac5826687",
+              "title": "Kahoot-viktoriin Aatomi ehitus"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/aatomi-ehitus-ja-perioodilisustabel/5630f9f0-c3af-4b99-98ab-01c1640f2439",
+              "title": "Kahoot-viktoriin Aatomi ehitus ja perioodilisustabel"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=MnXnHY4tOjA"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=TAcvwMqH1gQ"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/lihtained/f6871a2f-88ae-45eb-9474-4487aabff72e",
+              "title": "Kahoot-viktoriin Lihtained"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.periodicvideos.com/index.htm",
+              "title": "Õppevideod University of Nottingham Periodic Videos"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=SWnH_5gK46Q"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=NLFpowHVRDI"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/en/simulations/states-of-matter"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/density/latest/density_all.html"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=59Zr7-zeJ8I"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_all.html"
+            },
+            {
+              "kind": "link",
+              "href": "https://molview.org/",
+              "title": "Molekulimudelite ja struktuurivalemite loomise veebipõhine keskkond Molview"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.acdlabs.com/resources/free-chemistry-software-apps/chemsketch-freeware/",
+              "title": "Molekulimudelite ja struktuurivalemite loomise töölauarakendus ACDChemSketch"
+            },
+            {
+              "kind": "section",
+              "title": "HEV õpilastele",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Aatomi ehitus. Keelekümblus 8. klassile tööleht nr. 24"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Keemiliste elementide tähised. Keelekümblus 8. klassile tööleht nr. 25"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Perioodilisustabel. Keelekümblus 8. klassile tööleht nr. 26–27"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Molekulid, molekulvalem, liht- ja liitained. Keelekümblus 8. klassile töölehed nr. 31 ja 38–37"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Kovalentne side. Keelekümblus 8. klassile tööleht nr. 33"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Ioonid ja iooniline side. Keelekümblus 8. klassile töölehed nr. 32 ja 29"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Hapnik ja vesinik. Oksiidid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab hapniku rolli põlemisreaktsioonides ning eluslooduses, analüüsib osoonikihi tähtsust ja lagunemist saastamise tagajärjel;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb hapniku ja vesiniku põhilisi omadusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kogub gaasi, valides sobiva võtte lähtuvalt gaasi lahustuvusest vees ja gaasi tihedusest võrreldes õhu tihedusega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "määrab aine valemi põhjal elementide oksüdatsiooniastmeid, koostab oksiidide nimetuste alusel valemeid ja valemite alusel nimetusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab reaktsioonivõrrandite tasakaalustamise põhimõtet;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "korraldab lihtainete ühinemisreaktsioone hapnikuga ning koostab vastavaid reaktsioonivõrrandeid, toob näiteid igapäevaelus tuntumate oksiidide ja nende tähtsuse kohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hapnik ja vesinik, nende peamised omadused. Gaaside kogumise võtteid. Osoonikihi hõrenemine keskkonnaprobleemina.</p><p>Oksüdatsiooniaste. Oksiidide nimetused ja valemite koostamine. Oksiidid igapäevaelus.</p><p>Lihtsamate põlemisreaktsioonide võrrandite koostamine ja tasakaalustamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            { "kind": "text", "html": "<p>oksiid, oksüdatsiooniaste</p>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>hapniku saamine, kogumine ja tõestamine;</li><li>vesiniku saamine, kogumine ja puhtuse kontrollimine;</li><li>oksiidide saamine lihtainete põlemisel;</li><li>õhu koostise uurimine põlemisreaktsiooni abil.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hapnik on üks olulisemaid aineid Maal. Hapnikuta ei oleks võimalik elu meile tuntud kujul ega tänapäevane tööstus. Osoon on oluline aine keskkonna elukõlblikkuse tagamisel. Vesinik on levinuim keemiline element universumis ja oluline element paljude ainete koostises.</p><p>Oksüdatsiooniaste on oluline vahend ainete valemite koostamisel ning ainete nimetuste koostamisel. Keemilisi reaktsioone kirjeldatakse lühidalt reaktsioonivõrrandite abil. Nende mõistmine on keemilise kirjaoskuse keskne osa.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Hapniku ja vesiniku saamine, kogumine ja uurimine võimaldavad üle pika aja teha katseid; ei tohiks piirduda vaid videote vaatamisega.</li><li>Oluline on läbi teha katsed oksiidide saamise kohta põlemisreaktsioonidel.</li><li>Oksüdatsiooniastme mõiste selgitamisel tuua paralleele ioonide laenguga.</li><li>Reaktsioonivõrrandite tasakaalustamise harjutamiseks võib kasutada interaktiivseid veebilehti.</li><li><strong>Diferentseerimine:</strong> oksiidide valemite koostamisel ja nimetamisel on võimalik kasutada samm-sammulisi juhendeid ja keelekümbluse töölehti.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>planeerib, viib läbi ja selgitab katset õhu hapnikusisalduse määramiseks, võrdleb tulemusi õhu tegeliku koostisega;</li><li>selgitab hapniku rolli põlemisreaktsioonides ning eluslooduses;</li><li>analüüsib osoonikihi tähtsust keskkonna elukõlblikkusele Maal;</li><li>valmistab ja kogub rühmatööna hapnikku ja vesinikku ning tõestab hapniku olemasolu hõõguva pirruga;</li><li>koostab võrdleva tabeli hapniku ja vesiniku põhiliste omaduste kohta;</li><li>määrab aine valemi põhjal elementide oksüdatsiooniastmeid ning kasutab neid oksiidide nimetuste koostamisel;</li><li>koostab oksiidide nimetuste alusel oksiidide valemeid;</li><li>koostab ja tasakaalustab lihtainete põlemisreaktsioonide võrrandeid.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusõpetus – atmosfäär, õhk, õhu koostis. Bioloogia – fotosüntees, hingamine. Geograafia – oksiidsed metallimaagid, liiv, atmosfäär, osoonikiht.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kujundava hindamise objektideks võivad olla tunnikontrollid o-a määramise, oksiidide valemite ja nimetuste ning oksiidide tekkereaktsioonide võrrandite koostamise kohta; praktilised tööd; kaasõpilase hindamine ja poster osoonikihi tähtsuse kohta. Teema võib kokku võtta kontrolltööga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Sv7qogcigjg"
+            },
+            { "kind": "video", "src": "https://youtu.be/8aC3-p-QMMA" },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Vesiniku_valmistamine",
+              "title": "Interaktiivne õppevideo: Vesiniku valmistamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Vesiniku_polemine",
+              "title": "Interaktiivne õppevideo: Vesiniku põlemine"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=1uGRBjdjhGE"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=hfQ52fKneNQ"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Hapniku_saamine",
+              "title": "Interaktiivne õppevideo: Hapniku saamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Hapniku_kogumine",
+              "title": "Interaktiivne õppevideo: Hapniku kogumine"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=H8ktQvCOcyw"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=PVu4X7nXItw"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/oksiidide-valemid/01fab23a-a563-49f4-9748-d0e0714c50f8",
+              "title": "Kahoot-viktoriin Oksiidide valemid"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/oksiidide-nimetused/4a4eed12-2d69-4ec1-94e1-9319fd14abaf",
+              "title": "Kahoot-viktoriin Oksiidide nimetamine"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=BvZQu-lJuCQ"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/en/simulations/reactants-products-and-leftovers"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/en/simulations/balancing-chemical-equations"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=_O_LxYgRi3U"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Mc-_GHJXr2k"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1Skj8U1P9o-bo5_RlsA9IDFCRnktDA3cH/edit?usp=sharing&ouid=104421339666784640445&rtpof=true&sd=true",
+              "title": "Projektõppe materjal: Hapniku saamine ning tema omaduste ja kasutusalade uurimine"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/oksiidid-argielus/b531ca50-f701-48fe-9146-9232665f067d",
+              "title": "Kahoot-viktoriin Oksiidid argielus"
+            },
+            {
+              "kind": "section",
+              "title": "HEV õpilastele",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Oksüdatsiooniaste. Keelekümblus 8. klassile tööleht nr. 49–51"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/12416-Keemia-51-101-keelekumblus",
+                  "title": "Valemi koostamine oksüdatsiooniastme järgi. Keelekümblus 8. klassile tööleht nr. 52–53"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/en/oppematerjal/22300-Keemia-toolehed-8-klassile-keelekumblus/237989",
+                  "title": "Keemilise reaktsiooni võrrand. Keelekümblus 8. klassile tööleht nr. 42–44"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Happed ja alused kui vastandlike omadustega ained",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab valemi põhjal oksiide, happeid, hüdroksiide ja soolasid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab hapete, hüdroksiidide ning soolade nimetuste alusel nende valemeid ja vastupidi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab lahuste happelisi ja aluselisi omadusi nendes esinevate osakestega, hindab lahuse keskkonda indikaatoriga ja lahuse pH väärtuse järgi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab hapete ja aluste vastandlikkust, korraldab hapete ja aluste vahelisi reaktsioone ning koostab vastavaid reaktsioonivõrrandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid tuntumate hapete, aluste ja soolade kasutamise kohta igapäevaelus.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Happed, nende koostis. Tähtsamad happed. Ohutusnõuded tugevate hapete kasutamise korral.</p><p>Hüdroksiidide (kui tuntumate aluste) koostis ja nimetused. Ohutusnõuded tugevaid aluseid (leelisi) kasutades.</p><p>Hapete reageerimine alustega, neutralisatsioonireaktsioon. Lahuste pH-skaala, selle kasutamine ainete lahuste happelisust/aluselisust iseloomustades.</p><p>Soolad, nende koostis ja nimetused. Happed, alused ja soolad igapäevaelus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>hape, alus, indikaator, neutralisatsioonireaktsioon, pH, sool.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>hapete ja aluste kindlakstegemine indikaatoriga;</li><li>neutralisatsioonireaktsiooni uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Argielus kasutatakse mitmesuguseid happelisi ja aluselisi vahendeid. Osa neist on sööbiva toimega. Seetõttu tuleb tunda nende kasutamise ohutusnõudeid ning osata neid eristada teistest ainetest, nt indikaatorite abil.</p><p>Loodusteadusliku maailmapildi seisukohast on tähtis mõista, kuidas on hapete ja aluste omadused seotud H<sup>+</sup>- ja OH<sup>−</sup>-ioonide esinemisega lahuses. Tutvutakse pH-skaalaga, mis võimaldab iseloomustada lahuste aluselisust või happelisust.</p><p>Neutralisatsioonireaktsioonide tulemusena tekivad soolad. Soolade hulka kuuluvad paljud argielus olulised ained.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpilased võiksid teada peast järgmiste hapete ja nende anioonide nimetusi: HCl, H<sub>2</sub>SO<sub>4</sub>, H<sub>2</sub>SO<sub>3</sub>, H<sub>2</sub>S, HNO<sub>3</sub>, H<sub>3</sub>PO<sub>4</sub>, H<sub>2</sub>CO<sub>3</sub>, H<sub>2</sub>SiO<sub>3</sub>.</li><li>pH uurimiseks tuleks kasutada ka looduslikke indikaatoreid ning kodus leiduvate ainete lahuseid.</li><li>Tugevate hapete ja aluste söövitavaid omadusi käsitledes on mõistlik rõhutada ohutust.</li><li><strong>Diferentseerimine:</strong> õppe diferentseerimisel on oluline pöörata tähelepanu kemikaalidega töötamisel ohutusele igapäevases elus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>koostab nimekirja kodus kasutatavatest happelistest ja aluselistest ainetest ning määrab nende pH;</li><li>koostab ja illustreerib ohutusnõuded mõne igapäevaelus kasutatava happe või aluse kasutamiseks;</li><li>uurib hapete ja aluste lahuste keskkonda indikaatorite abil;</li><li>seostab lahuse keskkonda seal leiduvate osakestega (H<sup>+</sup> ja OH<sup>−</sup>);</li><li>kavandab ja viib ohutusreegleid järgides läbi neutralisatsioonireaktsiooni.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loodusõpetus – mineraalsoolad looduslikus vees. Bioloogia – looduslikud happelised ained, happesademete mõju taimedele. Tehnoloogiaõpetus – happelised ja aluselised puhastusvahendid. Geograafia – happesademed, aluseline ja happeline vesi, aluselised ja happelised mullad, maavarad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kujundava hindamise objektideks võivad olla tunnikontrollid hapete, aluste ja soolade valemite ning nimetuste ja neutralisatsioonireaktsiooni võrrandite kohta, praktilised tööd, poster ja Kahoot-viktoriin. Teema võib kokku võtta kontrolltööga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=urk2fdBdZVY"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Vaavelhape",
+              "title": "Interaktiivne õppevideo: Väävelhape"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Susihape",
+              "title": "Interaktiivne õppevideo: Süsihape"
+            },
+            {
+              "kind": "link",
+              "href": "https://est.chemicum.com/i-anorgaanika/index.php?v=Lammastikhape",
+              "title": "Interaktiivne õppevideo: Lämmastikhape"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=M2DjxZA4WMM"
+            },
+            { "kind": "video", "src": "https://youtu.be/oMtUMPDm2Rc" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=aF7ju_vuMS8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=YGIzUrZKzGQ"
+            },
+            { "kind": "video", "src": "https://youtu.be/navicg8g3tw" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=LTnw48BpkwM"
+            },
+            { "kind": "video", "src": "https://youtu.be/sqjpyQzKof4" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=hdiMxdF_has"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ihO_abeQgkQ"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=AdOZP5nbozE"
+            },
+            { "kind": "video", "src": "https://youtu.be/hcTwKPMWwcE" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=wUq_H1fTOc4"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=WlutRr0ubLM"
+            },
+            {
+              "kind": "section",
+              "title": "HEV õpilastele",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.opiq.ee/kit/279/chapter/15737",
+                  "title": "Happed LÕK 2010"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.opiq.ee/kit/279/chapter/15738",
+                  "title": "Alused ja soolad LÕK 2010"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/12416-Keemia-51-101-keelekumblus",
+                  "title": "Keelekümbluse töölehed: happed, alused, soolad ja reaktsioonivõrrandid"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tuntumaid metalle",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab aktiivseid, keskmise aktiivsusega ja väheaktiivseid metalle nende asukoha järgi metallide pingereas ning uurib metallide aktiivsust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "uurib metalli ja happe vaheliste reaktsioonide kiirust mõjutavate tegurite toimet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab redoksreaktsioone keemiliste elementide oksüdatsiooniastmete muutumisega reaktsioonis, teab metallide käitumist keemilistes reaktsioonides redutseerijana ja hapniku käitumist oksüdeerijana;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab reaktsioonivõrrandeid metallide ja hapete vaheliste reaktsioonide kohta;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab raua, alumiiniumi ja vase ning nende sulamite rakendamise võimalusi igapäevaelus, seostades kasutusalasid vastavate materjalide iseloomulike omadustega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Metallide reageerimine hapnikuga.</p><p>Keemiliste elementide oksüdatsiooniastmete muutumine keemilistes reaktsioonides. Metallid kui redutseerijad ja hapnik kui oksüdeerija.</p><p>Metallide reageerimine hapete lahustega. Erinevate metallide aktiivsuse võrdlus, metallide pingerea tutvustus.</p><p>Ettekujutus keemilise reaktsiooni kiirusest.</p><p>Tähtsamad metallid ja nende sulamid igapäevaelus (Fe, Al, Cu jt).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>redutseerija, redutseerumine, oksüdeerija, oksüdeerumine, redoksreaktsioon, keemilise reaktsiooni kiirus, sulam.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>metallide aktiivsuse võrdlemine reageerimisel happe lahusega;</li><li>keemilise reaktsiooni kiirust mõjutavate tegurite toime uurimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Paljud metallid reageerivad toatemperatuuril või kuumutamisel hapnikuga, moodustades oksiidi. Redoksreaktsioonide mõistega tutvumine metallide ja hapniku vaheliste reaktsioonide näitel aitab selgitada, mis toimub reaktsioonide käigus mikrotasandil ehk aineosakeste tasandil.</p><p>Metalli keemiline aktiivsus määrab metalli kasutamise võimalused ja samas võimaldab metalle liigitada keemiliste omaduste alusel. Jätkatakse keemilise kirjaoskuse omandamist, õppides kirjutama metallide ja hapete vaheliste reaktsioonide võrrandeid.</p><p>Argielus kasutatakse nii puhtaid metalle kui ka sulameid. Tutvutakse tähtsamate metalsete materjalidega ning analüüsitakse, kuidas on seotud nende omadused ja kasutusvaldkonnad.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Metalli reaktsioon hapnikuga võimaldab käsitleda redoksreaktsioone ja võrrelda metallide aktiivsust.</li><li>Metalli ja happe vaheline reaktsioon on sobilik reaktsioonide kiirust mõjutavate tegurite uurimiseks.</li><li>Argimetallide käsitlemisel saab kasutada erinevaid internetiotsingutega seotud uurimuslikke ülesandeid.</li><li>Korrosiooni käsitlemisel võiks peatuda sellel, kuidas argielus kaitstakse metalle korrosiooni eest.</li><li><strong>Diferentseerimine:</strong> redoksreaktsioonide olemus on keeruline, seega tasuks pigem keskenduda metallide ja nende sulamite kasutusele igapäevases elus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>uurib katseliselt ja võrdleb erinevate metallide reageerimist hapnikuga;</li><li>koostab redoksreaktsiooni mikrotasandil selgitava postri või konspekti;</li><li>koostab metallide ja hapniku vaheliste reaktsioonide võrrandeid;</li><li>püstitab hüpoteesi, planeerib ja viib läbi katse erinevate metallide reageerimisest sama happe lahusega;</li><li>kasutab pingerida aktiivsete, keskmise aktiivsusega ja väheaktiivsete metallide eristamiseks;</li><li>püstitab hüpoteesid, planeerib ja viib läbi katsed reaktsiooni kiirust mõjutavate tegurite uurimiseks;</li><li>võrdleb raua, vase ja alumiiniumi omadusi;</li><li>leiab internetist infot erinevate sulamite koostise kohta;</li><li>hindab raua, alumiiniumi ja vase ning nende sulamite rakendamise võimalusi igapäevaelus;</li><li>kaitseb väidet, et metalltaara ümbertöötlemine aitab säilitada oluliselt rohkem ressursse kui uue metalli tootmine.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Füüsika – metallide elektri- ja soojusjuhtivus, magnetilisus. Geograafia – metallimaagid. Tehnoloogiaõpetus – metallid ja sulamid kui materjalid, korrosioon. Ajalugu, kirjandus – metallurgia areng. Bioloogia – fotosüntees ja hingamine kui redoksprotsessid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kujundava hindamise objektideks võivad olla tunnikontrollid redoksreaktsioonide ning happe ja metalli reaktsioonivõrrandite koostamise kohta; praktilised tööd; õppekäik; poster, artikkel või ülevaade ajaloolise raua valmistamise meetodist või alumiiniumi avastamisest. Teema võib kokku võtta kontrolltööga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Bei8q6d46RE"
+            },
+            { "kind": "video", "src": "https://youtu.be/L-e6JvQpjtY" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=xLBQO2PDpoM"
+            },
+            { "kind": "video", "src": "https://youtu.be/0SsNH2m2JAM" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=OH5M-kREEJk"
+            },
+            { "kind": "video", "src": "https://youtu.be/OFSJYK2NyGo" },
+            { "kind": "video", "src": "https://youtu.be/E20u1Zta0r4" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=E0MlY2Y7MQ0"
+            },
+            { "kind": "video", "src": "https://youtu.be/YYA-nXY_twA" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=CGAeWeG2Kus"
+            },
+            { "kind": "video", "src": "https://youtu.be/ypH-PVeNmrc" },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Q3JSlq-xUqs"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/metallid-ja-nende-sulamid/214796ae-ae34-4314-b4a4-4137d27de520",
+              "title": "Kahoot-viktoriin Metallid ja nende sulamid"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/keemia-pohimoisted-8-klassile/dad6c3f9-37b3-4bae-b643-957a1c724c47",
+              "title": "Kahoot-viktoriin Keemia põhimõisted 8. klassile"
+            },
+            {
+              "kind": "link",
+              "href": "https://create.kahoot.it/share/olulised-ained-8-kl/d9bbb28d-9040-4697-9593-94111810fe74",
+              "title": "Kahoot-viktoriin Olulised ained"
+            },
+            {
+              "kind": "section",
+              "title": "HEV õpilastele",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.opiq.ee/kit/321/chapter/18089",
+                  "title": "Metallid ja mittemetallid LÕK 2010"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.opiq.ee/kit/321/chapter/18090",
+                  "title": "Metallimaakidest metallide sulatamine LÕK 2010"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.opiq.ee/kit/321/chapter/18091",
+                  "title": "Metallide sulamid igapäevases elus LÕK 2010"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.opiq.ee/kit/321/chapter/18092",
+                  "title": "Metallide korrosioon LÕK 2010"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/22301-Keemia-toolehed-1-16-9-keelekumblusklassile",
+                  "title": "Keelekümbluse töölehed 9. klassile: metallide omadused, keemiline side metallides, redoksreaktsioonid, metallide reaktsioonid ja alumiiniumi tootmine"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

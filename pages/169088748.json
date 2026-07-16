@@ -1,0 +1,1411 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "1. Elu- ja toimetulekuõppe aine õppetegevuse kirjeldus ja õpetuse eesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Elu- ja toimetulekuõppe eesmärk on õpilaste kehaline, vaimne, sotsiaalne ja emotsionaalne areng.</p><p>Elu- ja toimetulekuõppes käsitletavad teemad on seotud õpilase igapäevaeluga koolis, kodus ja ümbritsevas keskkonnas. Need teemad moodustavad õppetöö telje ja on ainetevahelise lõimingu aluseks.</p><p>Õppimine ja harjutamine toimub võimalikult reaalses keskkonnas ja elulistes olukordades.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Õppe tulemusena kujuneb õpilasel",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>positiivne minapilt</li><li>ümbritseva keskkonna võimalikult adekvaatne mõistmine</li><li>eetiline käitumine</li><li>algatusvõime</li><li>esmased tööoskused ja -harjumused</li><li>kehaline aktiivsus</li><li>arusaamine tervise hoidmise tähtsusest</li><li>mängu-, õpi-, eneseteenindus- ja sotsiaalsed oskused ning teadmised iseendast ja oma kehast.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vaba aeg",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "osaleb suunamisel ühisüritustel ja -mängus;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "on kaasatud eakohaste ja võimetele vastavatesse vabaaja tegevustesse;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab suunatult digivahendeid mängulistes tegevustes;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab päeva ja ööd, töö- ja puhkepäevi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab õppetundi ja vahetundi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "jälgib ja järgib suunamisel piltpäevakava.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "osaleb ürituste ettevalmistamisel, esineb pidudel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "valib vaba aja tegevuse etteantud valikute alusel ja tegeleb sellega suunatult;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab suunatult erinevaid digivahendeid praktilises tegevuses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "külastab spordivõistlusi, teatrit, kino ja muid kultuuriasutusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab lihtsamaid mängureegleid, peab neist kinni.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb nädalapäevade järgnevust ja nimetusi, seostab nädalapäevi oma igapäevaste toimingutega;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "jälgib ja järgib visuaalset päevakava.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "osaleb suunamisel kogukonna üritustel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab teha ettevalmistusi tähtpäevade tähistamiseks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb enamlevinud tähtpäevade kombeid ja sümboleid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "sisustab oma aega meelepärase tegevusega (muusika kuulamine, sportimine, lauamängud jms);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab käsitseda õpitud multimeedia- ja digivahendeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab, jälgib ja järgib enda päevakava.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mänguõpetus. Erinevad vaba aja veetmise võimalused. Sport.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Aeg",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "eristab päeva ja ööd, töö- ja puhkepäevi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab õppetundi ja vahetundi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab suunamisel käesolevat aastaaega;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb suunamisel loodusvaatlustes;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märkab aastaaegade tajutavaid tunnuseid, riietub abiga vastavalt aastaajale;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "on osalenud rahvakalendri tähtpäevade tähistamisel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "jälgib ja järgib suunamisel piltpäevakava.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab ja järgib ööpäevarütmi oma tegevuse planeerimisel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb nädalapäevade järgnevust ja nimetusi, seostab nädalapäevi oma igapäevaste toimingutega;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab abiga aastaaegu õiges järjestuses;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "vaatleb suunamisel ilma ja riietub suunamisel vastavalt ilmale, teab seoses aastaaegadega loodusnähtuste olulisi tunnuseid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "jälgib kella, oskab nimetada täistunde;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "on tutvunud esivanemate eluoluga, sh rahvakalendri tähtpäevadega;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "jälgib ja järgib visuaalset päevakava.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "nimetab kuupäeva, aasta, orienteerub kalendris;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab ja järjestab kuude nimetusi ja seostab neid aastaaegadega;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab nimetada hetke ilma olulisemaid tunnuseid, lugeda (sümbol)ilmateadet ja vastavalt sellele riietuda;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märgib ja nimetab täis- ja pool-, veerand-, kolmveerandtunni, abiga veerandtunni;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "asutab kella aja planeerimisel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab inimeste eluolu erisusi erinevatel ajaperioodidel;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab olulisemaid sündmusi Eesti ajaloos;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab rahvakalendri tähtpäevi aastaringis;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab, jälgib ja järgib enda päevakava.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ajajaotus. Aastaajad. Kalender. Kell. Vana aja lood.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Elus ja eluta loodus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "tunneb õpitud mets- ja koduloomi, aed – ja puuvilju, taimi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab kodu- ja metsloomade häälitsusi ja liikumisviise.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb suunamisel loodusvaatlustes;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab suunamisel prügi vajalikest esemetest ja viib prügikasti.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "eristab elus- ja eluta loodust, teab nende tähtsust inimesele;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "rühmitab elus- ja eluta looduse õpitud objekte/esindajaid oluliste tunnuste järgi, teab nende elupaiku;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab levinumaid ränd- ja paigalinde, lindude rände vajalikkust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab lindude ja loomade abistamise vajalikkust talvel;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb lihtsamaid loodushoiu põhimõtteid (vee- ja elektri kokkuhoid, prügi vähendamine ja sorteerimine, taaskasutus).",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "nimetab õpitu ulatuses elus- ja eluta looduse esindajate olulisemaid tunnuseid, teab elus ja eluta looduse esindajate kasulikkust inimesele;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb jõukohast tööd kodus ja koolis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab oluliste loodusnähtuste praktilist tähtsust inimesele;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb loodushoiu ja säästva eluviisi põhitõdesid, järgib neid.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Elusloodus. Eluta loodus. Keskkonnakaitse.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "2. Üldpädevuste kujundamine elu- ja toimetulekuõppe aines",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Toimetulekuõppes käsitatakse pädevust kui võimetekohaste teadmiste, oskuste ja hoiakute kogumit, mis tagab suutlikkuse teatud tegevusalal või valdkonnas toime tulla.</p><p>Elu- ja toimetulekuõppe aine õpetamine toetab õpilastel õppekava läbivate taotletavate kohandatud üldpädevuste kujunemist.</p>"
+        },
+        {
+          "kind": "section",
+          "title": "Teemavaldkonnad ja alateemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li><strong>Minapilt.</strong> Mina. Inimese organism. Tervislikud eluviisid. Emotsioonid. Sõprus. Perekond. Kodu. Eestimaa, eesti keel, eesti rahvus ja kombed. Erinevad rahvused ja rassid. Ametid ja tööharjumus. Raha. Raha otstarve ja kasutamine. Eelarve ja kokkuhoid.</li><li><strong>Eneseteenindusoskused ja käitumine.</strong> Igapäevaoskused. Söömine. Käitumine. Hoiatus- ja teabemärgid, nende tähenduse mõistmine.</li><li><strong>Kool.</strong> Kool. Koolitarbed.</li><li><strong>Vaba aeg.</strong> Mänguõpetus. Erinevad vaba aja veetmise võimalused. Sport.</li><li><strong>Aeg.</strong> Ajajaotus. Aastaajad. Kalender. Kell. Vana aja lood.</li><li><strong>Elus ja eluta loodus.</strong> Elusloodus. Eluta loodus. Keskkonnakaitse.</li><li><strong>Maateadus.</strong> Elukoht. Eestimaa. Pinnavormid. Ilmakaared. Plaan, maakaart, gloobus. Maailmaruum.</li><li><strong>Ohutus.</strong> Liiklus. Ohutusnõuete täitmine.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "3. Elu- ja toimetulekuõppe aine lõiming õppekava läbivate teemadega",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õppekava läbivad teemad on üld- ja valdkonnapädevuste ning erinevate õppeainete lõimingu vahendiks. Õppekava läbivate teemade käsitlemine toimub kõikides elu- ja toimetulekuõppe aine teemavaldkondades.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "4. Elu- ja toimetulekuõppe aine lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Elu- ja toimetulekuõpe on toimetulekuõppes üldõpetuse teljeks. Üldõpetus muudab õppe- ja kasvatustegevuse elulähedasemaks ning toetab seoste kujunemist erinevate valdkondade vahel toetades omandatud oskuste ja teadmiste ülekandmist igapäevasesse ellu.</p><p>Õppetööd võib kavandada projektipõhise õppena.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "5. Elu- ja toimetulekuõppe aine rõhuasetused",
+      "children": [
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>I arengutasemel</th><th>II arengutasemel</th><th>III arengutasemel</th></tr></thead><tbody><tr><td>Õpetuse põhitaotlus on õppimiseks vajalike baasoskuste omandamine koostegevuse ja matkimise tasandil.</td><td>Õpetuse põhitaotlus on kujundada omandatud baasoskuste harjumuslik sooritamine tuttavas situatsioonis.</td><td>Õpetuse põhitaotlus on õpilaste võimalikult iseseisev toimetulek igapäevaelus, jõukohaste tööoskuste kujundamine.</td></tr></tbody></table>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Minapilt",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab enda nime ja reageerib sellele, tunneb end ära fotodelt;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab enda sugu;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb pereliikmeid ja teisi talle olulisi inimesi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab oma elukohta;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb enda kehaosi, osutab nimetamisel neile ja nimetab neid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "täidab hügieeninõudeid abiga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "maitseb erinevaid toite;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märkab suunamisel enda põhiemotsioone;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb erinevates füüsilistes tegevustes;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära endale kuuluvad esemed;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab oma asjade kokkulepitud hoiukohta;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab tuttava eseme ja õppevahendiga tegutseda vastavalt selle funktsioonile;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sooritab suunamisel lihtsamaid töövõtteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb suunamisel lihtsamates kodutöödes;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tegutseb tuttavates olukordades põhimõttel tohib - ei tohi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab olulisi andmeid enda kohta;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab enda sünnipäeva, vanust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab suunatult igapäevaelus vajaminevaid isiklikke dokumente;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab endast lähtuvalt oma pereliikmete sugulusastet ja nende nimesid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab pereliikmete ameteid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "määratleb end kuuluvana kindlasse gruppi (klass, sõpruskond jne);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab oma kodu ja kooli aadressi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab kehaosi ning nende otstarvet;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "meeldetuletamisel täidab hügieeninõudeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hoolitseb meeldetuletusel enda välimuse eest;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb õpitud tervislikke eluviise söömise ja liikumise osas;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära oma põhiemotsioonid ja suunamisel reguleerib oma käitumist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märkab ja tunneb ära kaaslaste põhiemotsioone, reageerib suunamisel neile sobivalt;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "osaleb jõukohastes kodutöödes;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "valib vastavalt tegevusele õige töövahendi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hoiab korras oma koolitarbed;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb vahet oma ja võõrastel asjadel, käitub vastavalt;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab tuttava esemega või töövahendiga tegutseda vastavalt selle otstarbele, valib vastavalt tegevusele õige töövahendi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sooritab igapäevatoiminguid suhteliselt iseseisvalt, oskab vajadusel paluda abi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab tegevusi põhimõttel meeldib - ei meeldi, oskan - ei oska, tahan - pean.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab, oskab leida ja kasutada vajaliku infot isiklikest dokumentidest, kasutab igapäevaelus vajaminevaid isiklikke dokumente;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab oma pere olulisi perekondlikke sündmusi ja sõprade sünnipäevi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab endast lähtuvalt oma pereliikmete sugulusastet, nende ja lähedaste ametit;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab oma rahvust ja kodakondsust, oma põhiõigusi ja kohustusi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "planeerib suunamisel tulevast elukohta;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "omab algteadmisi inimese organismist;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab inimese elukaart, on teadlik kehalistest muutustest lapse- ja nooruki-, täiskasvanu- ja vanurieas;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "täidab hügieeninõudeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hoolitseb enda välimuse ja puhtuse eest;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb endale toidu valimisel tervislikke valikuid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "valib endale meelepärase/sobiva kehalise tegevuse;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "on teadlik ja annab vajaduse korral teada enda tervislikust seisundist;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kontrollib enamasti oma põhiemotsioone;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb vahet omandisuhetel oma - võõras - meie, käitub vastavalt;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb jõukohast tööd kodus ja koolis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tuleb toime enese teenindamisega;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märkab ja abistab teisi igapäevatoimingutes;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab tuttava tööriistaga tegutseda vastavalt selle otstarbele ja tegevuse eesmärgile;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab tegevusi põhimõttel õige - vale, meeldib - ei meeldi, tahan - teen, peab - teen, tahan - ei tohi - ei tee.",
+              "outcomeType": "attitude"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mina. Inimese organism. Tervislikud eluviisid. Emotsioonid. Sõprus. Perekond. Kodu. Eestimaa, eesti keel, eesti rahvus ja kombed. Erinevad rahvused ja rassid. Ametid ja tööharjumus. Raha. Raha otstarve ja kasutamine. Eelarve ja kokkuhoid.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eneseteenindusoskused ja käitumine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "sooritab suunamisel eneseteenindustoiminguid, täidab hügieeninõudeid abiga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "sooritab igapäevatoiminguid osalise abiga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "korrastab abiga oma välimust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märkab suunamisel ohtu, lähtub tegutsemisel hinnangust tohib - ei tohi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab ja kasutab meeldetuletamisel õpitud viisakusväljendeid.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teeb eneseteenindustoiminguid enamasti iseseisvalt, oskab vajaduse korral abi paluda;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab tegevusi põhimõttel meeldib - ei meeldi, oskan - ei oska, tahan - pean;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "hoidub nähtavatest ohtudest, kutsub/pöördub abi järele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "käitub meeldetuletamisel viisakalt tuttavates situatsioonides.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "tuleb toime enese teenindamisega, märkab ja abistab teisi igapäevatoimingutes;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab tegevusi põhimõttel õige -vale, meeldib - ei meeldi, tahan - teen, peab - teen, tahan - ei tohi - ei tee;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab lugeda hoiatus – ja teabemärke;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märkab endale ja teistele ohtlikke olukordi ja reageerib neile, kutsub abi, keeldub teda kahjustavatest tegevustest;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab suhtluses viisakusväljendeid, täidab igapäevaseid viisakusreegleid.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Igapäevaoskused. Söömine. Käitumine. Hoiatus- ja teabemärgid, nende tähenduse mõistmine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kool",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "orienteerub klassiruumis ja selle lähiümbruses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb oma klassikaaslasi ja õpetajaid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab/kasutab pöördumisel kaaslaste ja õpetaja nime.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära endale kuuluvad esemed;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab oma asjade kokkulepitud hoiukohta;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab tuttavat eset ja õppevahendit vastavalt selle otstarbele.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "orienteerub koolis ja kooli lähiümbruses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab kaaslaste ja õpetajate nimesid, kooli nime;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "määratleb end kuuluvana kindlasse gruppi (klass, sõpruskond jne);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab enda sünnipäeva, vanust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab kaaslaste vanust;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "hoiab korras oma koolitarbed;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb vahet oma ja võõrastel asjadel, käitub vastavalt;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab suunatult erinevaid digivahendeid praktilises tegevuses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab tuttava esemega või töövahendiga tegutseda vastavalt selle otstarbele.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "osaleb oma tuleviku planeerimisel ja teeb suunamisel valikuid jätkuõppeks, valides etteantud valikute vahel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab oma sõprade sünnipäevi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "hoiab korras oma asjad ja lähema ümbruse;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb vahet oma – võõras – meie asjadel, käitub vastavalt;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab käsitseda õpitud multimeedia- ja digivahendeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab tuttava tööriistaga tegutseda vastavalt selle otstarbele ja tegevuse eesmärgile.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [{ "kind": "text", "html": "<p>Kool. Koolitarbed.</p>" }]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Maateadus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "orienteerub lähiümbruses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "liigub koos täiskasvanuga tuttaval marsruudil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab enda elukohta.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "orienteerub koolis ja kooli lähiümbruses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab asulaid kodukoha ümbruses, tunneb ära Eesti kaardi ja kasutab suunatult digitaalset kaarti;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära riigi sümboolika, täidab suunatult sellega seostuvaid käitumisreegleid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab põhiilmakaari.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "orienteerub tuttavas avalikus ruumis;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab ja näitab kaardilt Eesti suuremaid linnu, saari, veekogusid ning õpitud välisriike;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab õpitu piires digitaalset kaarti;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb riigi sümboleid, täidab nendega seotud käitumisreegleid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oma võimete piires mõistab maailmaruumi olemust.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Elukoht. Eestimaa. Pinnavormid. Ilmakaared. Plaan, maakaart, gloobus. Maailmaruum.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ohutus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "I arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "orienteerub lähemas ümbruses, nii koolis kui kodus;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "lähtub tegutsemisel hinnangust tohib / ei tohi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märkab suunamisel ohtu;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "täidab meeldetuletusel õpitud ohutu käitumise reegleid, sh liikluses.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "II arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "oskab võimalikult iseseisvalt liikuda kooli/kodu ümbruses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "hindab tegevusi põhimõttel õige - vale, tohib - ei tohi;",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "järgib õppekäikudel liikudes suunatult ohutusreegleid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb õpitud liiklusreegleid ja märke;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "hoidub nähtavatest ohtudest, kutsub vajaduse korral abi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab ühissõiduki kasutamise reegleid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab käituda ohuolukorras, teab hädaabinumbreid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab paluda ja kutsuda abi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III arengutaseme lõpuks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "liikleb võimalikult iseseisvalt koduasulas;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab õppekäikudel liigelda vastavalt liiklusreeglitele ja -märkidele;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb ja mõistab hoiatus- ja teabemärke;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märkab endale ja teistele ohtlikke olukordi ja reageerib neile, kutsub abi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "keeldub teda kahjustavatest tegevustest.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            { "kind": "text", "html": "<p>Liiklus. Ohutusnõuete täitmine.</p>" }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "7. Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Toimetulekuõppe tasemele koostatud õppevara ja lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/229-2/",
+              "title": "MINA"
+            },
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/225-2/",
+              "title": "Inimene I"
+            },
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/227-2/",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/224-2/",
+              "title": "Inimene II"
+            },
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/223-2/",
+              "title": "Inimene III"
+            },
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/165-2/",
+              "title": "Matemaatika töölehtede komplekt IV"
+            },
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/153-2/",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://toimetulekuope.wixsite.com/eluopetus",
+              "title": "Valik elu- ja toimetulekuõppe teemakäsitlusi"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/27973-Valik-elu-ja-toimetulekuoppe-teemakasitlusi",
+              "title": "Valik elu- ja toimetulekuõppe teemakäsitlusi"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/29861-Elus-ja-eluta-loodus",
+              "title": "Elus ja eluta loodus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/7233-Talvine-veeohuts",
+              "title": "Talvine veeohutus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/7307-Aeg-ja-sellega-seotud-moisted",
+              "title": "Aeg ja sellega seotud mõisted"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/7341-Looduse-sobra-toovihik",
+              "title": "Looduse sõbra töövihik"
+            },
+            {
+              "kind": "file",
+              "src": "https://intra.tai.ee/images/prints/documents/130451413412_Tervis_ja_terviseteadlikkus_labi_toitumis_ja_liikumismangude_est.pdf",
+              "title": "Tervis ja terviseteadlikkus läbi toitumis- ja liikumismängude"
+            },
+            {
+              "kind": "file",
+              "src": "https://loovlaps.ee/wp-content/uploads/2023/04/Lastejooga-BINGO-2.pdf",
+              "title": "Lastejooga BINGO"
+            },
+            {
+              "kind": "file",
+              "src": "https://media.voog.com/0000/0040/7437/files/Looduse%20bingo%202.pdf",
+              "title": "Looduse bingo 2"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisemuuseum.ee/haridus/muuseumitunnid/",
+              "title": "Eesti Tervisemuuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://loodusmuuseum.ee/",
+              "title": "Loodusmuuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://natmuseum.ut.ee/et/avaleht",
+              "title": "Tartu Ülikooli loodusmuuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://virumaamuuseumid.ee/eesti-politseimuuseum/",
+              "title": "Eesti Politseimuuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.erm.ee/",
+              "title": "Eesti Rahva Muuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.muuseum.ee/muuseum/eesti-lipu-muuseum/",
+              "title": "Eesti Lipu Muuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://evm.ee/et",
+              "title": "Eesti Vabaõhumuuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://karilatsimuuseum.ee/",
+              "title": "Karilatsi Vabaõhumuuseum"
+            },
+            { "kind": "link", "href": "https://mm.ee/", "title": "Muuseum" },
+            {
+              "kind": "link",
+              "href": "https://www.eestinoorsooteater.ee/et/muuseum/info",
+              "title": "Eesti Noorsooteatri muuseum"
+            },
+            {
+              "kind": "link",
+              "href": "https://lastega.ee/index.php/et/k2ev/item/10935-tasuta-toeoelehed-lastele",
+              "title": "Tasuta töölehed lastele"
+            },
+            {
+              "kind": "link",
+              "href": "https://loomariik50.wixsite.com/oppematerjal",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://ttmaterjal.wixsite.com/loomariikteine",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://meelespealasteaiameeskond.wordpress.com/loodus-linnud-ja-loomad/",
+              "title": "Loodus, linnud ja loomad"
+            },
+            {
+              "kind": "link",
+              "href": "https://veeohutus.ee/talv/lastele/",
+              "title": "Talvine veeohutus"
+            },
+            {
+              "kind": "link",
+              "href": "http://terekevad.ee",
+              "title": "Tere kevad"
+            },
+            {
+              "kind": "link",
+              "href": "http://terekevad.ee/",
+              "title": "Tere kevad"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/display/PK/8.1+AAC+vahendite+kasutamine",
+              "title": "AAC vahendite kasutamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/display/PK/8.2.1+Lugemisoskus?src=contextnavpagetreemode",
+              "title": "Lugemisoskus"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/pages/viewpage.action?pageId=182779996&src=contextnavpagetreemode",
+              "title": "Toimetulekuõppe põhimõtted"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/pages/viewpage.action?pageId=182779999&src=contextnavpagetreemode",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/pages/viewpage.action?pageId=182780010&src=contextnavpagetreemode",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/pages/viewpage.action?pageId=182780036&src=contextnavpagetreemode",
+              "title": "Õppematerjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://projektid.edu.ee/pages/viewpage.action?pageId=198677725&src=contextnavpagetreemode",
+              "title": "Tegevusele suunatud õpetus. Projektipõhine õpe."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

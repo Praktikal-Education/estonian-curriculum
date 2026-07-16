@@ -1,0 +1,107 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursusel käsitletakse mehhatroonika- ja robootikasüsteemi põhimõisteid ning süstemaatikat, nende süsteemide kasutusvaldkondi ning eripära, seadmete projekteerimise üldisi aluseid; mehaanika, elektroonika ja tarkvara tervikuks lõimimise üldpõhimõtteid; sissejuhatust anduritehnikasse ja ülevaadet sellest, andurite kasutamise üldpõhimõtteid; sissejuhatust mikrokontrolleritesse ja nende programmimisse; sissejuhatust täitursüsteemidesse ja nende tööprintsiipidesse ning mehhatroonikasüsteemi ideeprojekti koostamist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursus on üles ehitatud moodulstruktuurina, võimaldades korraldada praktilisi projekte konkurssidena, koolidevahelise võistluse või eriprojektidena. Õpet toetab sisuliselt ja metoodiliselt mehhatroonikavaldkonna õpetajate võrgustik ning tugikeskkond internetis.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppeaine koosneb omavahel integreeritud neljast teemast, mida toetavad läbivalt praktilised harjutused ja praktiline meeskonnaprojekt.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>on omandanud ülevaate mehhatroonikast ja robootikast maailmas ning Eestis;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>tunneb huvi tehnikavaldkonna vastu;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>teab robootikasüsteemide ehitust ja komponente;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>oskab lahendada lihtsamaid praktilisi tehnikavaldkonna probleeme mehhatroonika ja robootika abil;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>on omandanud ülevaate erinevatest anduritest ja mootoritest ning tunneb nende tööpõhimõtet;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>oskab kasutada ja programmeerida mikrokontrollereid;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>oskab oma tööd dokumenteerida ning esitleda;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>on omandanud ja omaks võtnud tee-seda-ise mõtteviisi.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb mehhatroonika ja robootika terminoloogiat, põhimõisteid ning aluspõhimõtteid;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "tunneb erinevate andurite ja täiturite ehitust ning füüsikalisi toimeprintsiipe;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Mehhatroonika- ja robootikasüsteemi projekteerimine: integreeritud süsteemide projekteerimise eripära; oma töö plaanimine, ohutushoid; projekteerimise abivahendid ja tarkvarad; robootika komponendid, sh elektroonika komponendid; sobivate komponentide leidmine ja andmelehtede lugemine; oma töö dokumenteerimine ja esitlemine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Mikrokontrollerid: erinevad mikrokontrollerid ja nende arhitektuur; mikrokontrolleri ehitus ja käsustik; mikrokontrolleri programmeerimine, programmi silumine ja kompileerimine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Sensoorika: ülevaade anduritest ja nende kasutusaladest; digitaal- ja analoogandurid; analoogdigitaalmuundur.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Täiturmehhanismid: elektrimootorid ja nende juhtimise eripära; alalisvoolumootori juhtimine (H-sild, kiiruse juhtimine); servomootori juhtimine (pulsilaiuse modulatsioon); samm-mootori juhtimine; ülevaade alternatiivtäituritest (lineaarmootor, solenoid, tehislihas).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Praktiline projekt: roboti või praktilise mehhatroonikasüsteemi ehitus.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

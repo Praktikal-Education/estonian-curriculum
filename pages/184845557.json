@@ -1,0 +1,69 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpitulemused II kooliastmes",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>6. klassi lõpetaja:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb huvi Eesti looduse, selle uurimise ja loodusainete õppimise vastu",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "vaatleb, kirjeldab ja võrdleb abivahenditele tuginedes õpitud elus- ja eluta looduse objekte, nähtuseid ja protsesse, selgitab abiga nendevahelisi seoseid ning tähtsust looduses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja mõistab õpetaja abiga jõukohaseid loodusalaseid õppetekste, tabeleid, skeeme ja jooniseid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab õpiülesannete täitmisel lihtsat plaani, Eesti kaarti",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab etteantud allikatest lihtsamat loodusteaduste- ja tehnoloogiaalast teavet",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab õpetaja abiga kasutatud allikate usaldusväärsust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab õppimiseks ja teabe otsimiseks meedia- ja tehnoloogiavahendeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "viib õpetaja juhendamisel läbi lihtsaid praktilisi töid, teeb tugisõnadele toetudes tulemuste põhjal kokkuvõtteid, seostab saadud teadmisi igapäevaelus ettetulevate olukordadega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab inimtegevuse ja keskkonna seoseid kodukoha kontekstis",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab hoolivust ja lugupidamist kõigi elusolendite vastu",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "käitub turvaliselt, järgib tervislikke eluviise.",
+          "outcomeType": "attitude"
+        }
+      ]
+    }
+  ]
+}

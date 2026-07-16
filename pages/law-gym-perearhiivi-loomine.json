@@ -1,0 +1,126 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Valikkursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse loomise aluseks on sekretäri- ja kontoritöö erialade riiklik õppekava bürootöö eriala põhiõpingute moodulid ja arhiivikorrastaja 4. taseme kutsestandardi kompetentsid B.2.1 ja B.2.2.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Igaühel meist on oma perekonnalugu. Tihti antakse seda edasi suuliselt, kuid mälestustes kipuvad kronoloogia, inimeste ja kohanimed segamini minema. Aja möödudes ei pruugi me mäletada fotodel kujutatud isikuid, rääkimata sündmusest, selle toimumise ajast ja kohast. Paljude inimeste jaoks on probleem see, kuidas leida üles kõik vajalikud tõendid ja tunnistused oma CV jaoks. Alati leidub inimesi, kes oma perekonda puudutavaid materjale (tõendid, tunnistused, kirjad, fotod jms) teadlikult koguvad ja süstematiseerivad. Üheks võimaluseks perekonnaloo talletamisel ja säilitamisel on luua perearhiiv.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Küsimusele „Milleks meile perearhiiv?“ võib vastata Karl Ristikivi sõnadega: „Me hakkame hiljem palju rohkem märkama.“</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursusel käsitletakse perearhiivi loomise vajadust ja eesmärke ning selle tähtsust perekonna (suguvõsa) jaoks oluliste dokumentide säilitamisel, perekonnaloo talletamisel ja uurimisel. Teoreetilise ja praktilise õppetöö vormis tutvutakse arhiivinduse põhimõistete ning arhiivi moodustamise põhimõtetega; selgitatakse dokumentide liigitamise ja väärtuse hindamise vajalikkust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpet toetab sisuliselt ja metoodiliselt Rahvusarhiivi arhiivikool ja virtuaalne uurimissaal internetis. Valikkursus koosneb omavahel integreeritud kuuest teemast, mida toetavad läbivalt praktilised harjutused ja iseseisev töö oma pere arhiivi loomisel.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Valikkursuse jooksul omandatut on võimalik edasi arendada, jätkates õpinguid arhiivikorrastaja või bürootöö erialadel, mida on võimalik õppida järgmistes kutseõppeasutustes</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppe- ja kasvatuseesmärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>mõistab perearhiivi väärtust ja vajalikkust perekonnaloo talletamisel;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>eristab perearhiivi koosseisu kuuluvaid dokumendiliike ja oskab hinnata nende väärtust perekonnaloo jäädvustamise seisukohalt;</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>oskab koostada perearhiivi korrastamise skeemi ja rühmitab dokumendid selle alusel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "outcome",
+      "text": "mõistab arhiivide, sh perearhiivi rolli ajaloos ja dokumentide säilitamise vajalikkust;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "selgitab välja ja liigitab perearhiivi koosseisu kuuluvad dokumente;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "eristab perearhiivi kuuluvaid dokumente väärtuse järgi;",
+      "outcomeType": "knowledge"
+    },
+    {
+      "kind": "outcome",
+      "text": "koostab perearhiivi korrastamise skeemi;",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "outcome",
+      "text": "rühmitab dokumendid vastavalt korrastamise skeemile.",
+      "outcomeType": "skill"
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõik teemad algavad teoreetilise sissejuhatusega, millele järgneb arutelu gruppides, praktiliste harjutusülesannete lahendamine grupis ja/või iseseisvalt.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Arhiivinduse roll ja eesmärgid ning ja põhimõisted (arhiiv, arhiivimoodustaja, dokument, sari, säilitustähtaeg, säilik, arhiiviskeem, nimistu). Perearhiivide eripära arhiivide süsteemis. (Kontaktõpe 3 tundi.).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Arhiivi moodustamise põhimõtted (päritolupõhimõte, algse korra austamise põhimõte) ja nende ajalooline kujunemine. Praktilised harjutused dokumentide päritolu määratlemiseks. (Kontaktõpe 4 tundi, sh praktiline töö 2 tundi.).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Dokumendiliigid, sh perearhiivi kuuluvate dokumentide liigitamine. Sarjade moodustamine. Mõttekaardi koostamine pere dokumentidest. (Kontaktõpe 6 tundi, sh praktiline töö 5 tundi.).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Dokumentide väärtus, sh perearhiivi koosseisu kuuluvate dokumentide eristamine väärtuse järgi. Õppekäik Rahvusarhiivi või arhiivikooli tund Rahvusarhiivis. (Kontaktõpe 6 tundi, sh praktiline töö 3 tundi ja õppekäik 2 tundi.).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Arhiiviskeem, sh perearhiivi korrastamise skeemi koostamine. Võrdlustabeli koostamine erinevate arhiiviskeemide alusel. (Kontaktõpe 6 tundi, sh praktiline töö 4 tundi.).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Perearhiivi koosseisu kuuluvate dokumentide rühmitamine ja tervikliku perearhiivi moodustamine. Rühmatöö dokumentide rühmitamisel. (Kontaktõpe 5 tundi, sh praktiline töö 4 tundi.).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Iseseisev töö (5 tundi). Õpilase perearhiivi loomine: dokumentide korrastamise skeemi koostamine ja dokumentide rühmitamine terviklikuks perearhiiviks.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Allikas",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.riigiteataja.ee/aktilisa/1080/3202/3006/18m_gym_lisa15.pdf",
+          "title": "Riigi Teataja – Gümnaasiumi riikliku õppekava lisa 15"
+        }
+      ]
+    }
+  ]
+}

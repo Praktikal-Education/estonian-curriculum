@@ -1,0 +1,328 @@
+{
+  "name": "estonian-curriculum",
+  "description": "The Estonian national curriculum as defined by its binding legal acts, enriched with the ministry’s official OKMV implementation materials, as open, machine-readable data",
+  "idNamespace": "ee-curriculum",
+  "schema": "schema/curriculum.schema.json",
+  "outcomeIdentifiers": {
+    "namespace": "ee-curriculum",
+    "curie": "ee-curriculum:o:{id}",
+    "resolver": "https://curriculum.praktikal.ee/o/{id}",
+    "ledger": "identifiers.json",
+    "context": "context.jsonld",
+    "linkedData": "outcomes.jsonld"
+  },
+  "sources": [
+    {
+      "id": "riigiteataja",
+      "role": "legal-act",
+      "name": "Riigi Teataja — riiklikud õppekavad",
+      "url": "https://www.riigiteataja.ee/akt/129082014020?leiaKehtiv",
+      "maintainer": "Vabariigi Valitsus (Haridus- ja Teadusministeerium)",
+      "note": "The binding national curriculum (Vabariigi Valitsuse määrus) and its appendices (lisad) — a public legal act. It defines the subject structure and the learning outcomes; the dataset is verified complete against it. Nodes taken directly from the act have law-* page ids and carry an \"Allikas\" link."
+    },
+    {
+      "id": "okmv",
+      "role": "implementation-materials",
+      "name": "OKMV — Õppekava materjalide veeb",
+      "url": "https://projektid.edu.ee/spaces/OKMV/overview",
+      "maintainer": "Haridus- ja Teadusministeerium",
+      "note": "The ministry's official materials for implementing the national curricula (in effect since March 2023), combined onto the legal-act base: the grade-by-grade distribution of the learning outcomes, recommended teaching content, and guidance. Nodes from this source have numeric page ids."
+    }
+  ],
+  "coverage": {
+    "method": "Verified against the national-curriculum legal act (Riigi Teataja). Every act learning outcome maps to the data (directly, or in reworded/grade-split form counted as partial); outcomes OKMV omitted entirely are backfilled verbatim from the act (tagged riigiteataja). No act outcome is absent."
+  },
+  "curricula": [
+    {
+      "id": "gumnaasium",
+      "title": "Gümnaasiumi riiklik õppekava",
+      "file": "curricula/gumnaasium.json",
+      "rootRef": "ee-curriculum:page:211453978",
+      "sourcePageId": "211453978",
+      "sourceUrl": "https://projektid.edu.ee/pages/viewpage.action?pageId=211453978",
+      "nodes": 13478,
+      "outcomes": 2241,
+      "outcomesBySource": {
+        "okmv": 1957,
+        "riigiteataja": 284
+      },
+      "coverage": {
+        "actOutcomes": 1700,
+        "covered": 1389,
+        "partial": 311,
+        "missing": 0,
+        "backfilled": 285
+      },
+      "subjects": [
+        "Ajalugu",
+        "Arhitektuur kui elukeskkond",
+        "Bioloogia",
+        "Disain",
+        "Draamaõpetus",
+        "Eakate abistamine koduses keskkonnas",
+        "Eesti keel",
+        "Eesti keel teise keelena",
+        "Ettevõtlusõpetus",
+        "Filosoofia",
+        "Füüsika",
+        "Geograafia",
+        "Informaatika",
+        "Inimene nüüdisaegses teabekeskkonnas",
+        "Inimeseõpetus",
+        "Joonestamine",
+        "Karjääriõpetus",
+        "Keel ja kirjandus",
+        "Keemia",
+        "Kehaline kasvatus",
+        "Kirjandus",
+        "Kitsas matemaatika",
+        "Kunst",
+        "Kunstiained",
+        "Kust tuleb ja kuhu kaob raha?",
+        "Lai matemaatika",
+        "Lapsehoidja töö alused",
+        "Loodusained",
+        "Loodusteadused, tehnoloogia ja ühiskond",
+        "Maalritööde baasoskused",
+        "Majandusõpetus",
+        "Matemaatika",
+        "Mehhatroonika ja robootika",
+        "Muusika",
+        "Nutikas koristamine",
+        "Perearhiivi korrastamine ja kirjeldamine",
+        "Perearhiivi loomine",
+        "Plaatija baasoskused",
+        "Rahvusvaheline projektijuhtimine",
+        "Rakenduste loomise ja programmeerimise alused",
+        "Riigikaitse valikmoodulid",
+        "Riigikaitseõpetus",
+        "Soovitusi kooli võõrkeelte valdkonnakava koostamiseks",
+        "Sotsiaalained",
+        "Spordi valikmoodulid",
+        "Teemavaldkonnad ja keeleteadmised",
+        "Teenindusõpetus",
+        "Usundiõpetus",
+        "Uurimistöö alused",
+        "Valdkonnasisene- ja ülene lõiming",
+        "Vene keel",
+        "Viited õppevarale",
+        "Õpitegevuste võrdlus keeleoskustasemeti",
+        "Õppe diferentseerimine",
+        "Ühiskonnaõpetus"
+      ],
+      "counts": {
+        "curriculum": 1,
+        "section": 3441,
+        "text": 4075,
+        "file": 357,
+        "subjectGroup": 8,
+        "learningOutcome": 2241,
+        "image": 22,
+        "link": 2484,
+        "subject": 55,
+        "course": 81,
+        "table": 67,
+        "video": 272,
+        "topic": 348,
+        "embed": 26
+      }
+    },
+    {
+      "id": "hooldus",
+      "title": "Hooldusõpe",
+      "file": "curricula/hooldus.json",
+      "rootRef": "ee-curriculum:page:212839965",
+      "sourcePageId": "212839965",
+      "sourceUrl": "https://projektid.edu.ee/pages/viewpage.action?pageId=212839965",
+      "nodes": 937,
+      "outcomes": 82,
+      "outcomesBySource": {
+        "okmv": 63,
+        "riigiteataja": 19
+      },
+      "coverage": {
+        "actOutcomes": 52,
+        "covered": 35,
+        "partial": 17,
+        "missing": 0,
+        "backfilled": 19
+      },
+      "subjects": [
+        "_Õppeprotsesside kirjelduste üldosa",
+        "Tegevusvaldkondade õpitulemused eri arengutasemetel"
+      ],
+      "counts": {
+        "curriculum": 1,
+        "section": 274,
+        "text": 513,
+        "learningOutcome": 82,
+        "file": 12,
+        "subject": 2,
+        "topic": 41,
+        "table": 3,
+        "link": 7,
+        "image": 2
+      }
+    },
+    {
+      "id": "lihtsustatud",
+      "title": "Lihtsustatud õpe",
+      "file": "curricula/lihtsustatud.json",
+      "rootRef": "ee-curriculum:page:212839958",
+      "sourcePageId": "212839958",
+      "sourceUrl": "https://projektid.edu.ee/pages/viewpage.action?pageId=212839958",
+      "nodes": 15386,
+      "outcomes": 3408,
+      "outcomesBySource": {
+        "okmv": 3306,
+        "riigiteataja": 102
+      },
+      "coverage": {
+        "actOutcomes": 1528,
+        "covered": 1379,
+        "partial": 149,
+        "missing": 0,
+        "backfilled": 104
+      },
+      "subjects": [
+        "Ajalugu",
+        "Eesti keel",
+        "Eesti keel teise keelena",
+        "Inglise keel",
+        "Inimeseõpetus",
+        "Kehaline kasvatus",
+        "Kunstiõpetus",
+        "Loodusõpetus",
+        "Matemaatika",
+        "Muusika",
+        "Tööõpetus"
+      ],
+      "counts": {
+        "curriculum": 1,
+        "section": 4425,
+        "file": 273,
+        "text": 4466,
+        "learningOutcome": 3408,
+        "topic": 843,
+        "image": 67,
+        "link": 1378,
+        "video": 304,
+        "table": 57,
+        "schoolLevel": 3,
+        "grade": 9,
+        "subject": 11,
+        "bridge": 93,
+        "embed": 48
+      }
+    },
+    {
+      "id": "pohikool",
+      "title": "Põhikooli riiklik õppekava",
+      "file": "curricula/pohikool.json",
+      "rootRef": "ee-curriculum:page:211453475",
+      "sourcePageId": "211453475",
+      "sourceUrl": "https://projektid.edu.ee/pages/viewpage.action?pageId=211453475",
+      "nodes": 21763,
+      "outcomes": 4054,
+      "outcomesBySource": {
+        "okmv": 3886,
+        "riigiteataja": 168
+      },
+      "coverage": {
+        "actOutcomes": 2110,
+        "covered": 2036,
+        "partial": 74,
+        "missing": 0,
+        "backfilled": 28
+      },
+      "subjects": [
+        "Ajalugu",
+        "Bioloogia",
+        "Eesti keel",
+        "Eesti keel teise keelena",
+        "Füüsika",
+        "Geograafia",
+        "Inimeseõpetus",
+        "Keemia",
+        "Kehaline kasvatus valdkondade alusel",
+        "Kirjandus",
+        "Kunst",
+        "Loodusõpetus",
+        "Matemaatika",
+        "Muusika",
+        "Pädevuste kujunemine \"Kunstiainete\" valdkonnas",
+        "Tehnoloogia",
+        "Valdkonnasisene ja -ülene lõiming",
+        "Vene keel",
+        "Ühiskonnaõpetus"
+      ],
+      "counts": {
+        "curriculum": 1,
+        "section": 4934,
+        "text": 5084,
+        "file": 505,
+        "schoolLevel": 3,
+        "grade": 9,
+        "subjectGroup": 9,
+        "learningOutcome": 4054,
+        "image": 202,
+        "table": 56,
+        "link": 5069,
+        "subject": 19,
+        "bridge": 137,
+        "video": 840,
+        "embed": 180,
+        "topic": 661
+      }
+    },
+    {
+      "id": "toimetulek",
+      "title": "Toimetulekuõpe",
+      "file": "curricula/toimetulek.json",
+      "rootRef": "ee-curriculum:page:212839963",
+      "sourcePageId": "212839963",
+      "sourceUrl": "https://projektid.edu.ee/pages/viewpage.action?pageId=212839963",
+      "nodes": 2517,
+      "outcomes": 695,
+      "outcomesBySource": {
+        "okmv": 669,
+        "riigiteataja": 26
+      },
+      "coverage": {
+        "actOutcomes": 400,
+        "covered": 376,
+        "partial": 24,
+        "missing": 0,
+        "backfilled": 26
+      },
+      "subjects": [
+        "Eesti keel",
+        "Elu- ja toimetulekuõpe",
+        "Kehaline kasvatus",
+        "Kunst ja käeline tegevus",
+        "Matemaatika",
+        "Muusikaõpetus",
+        "Rütmika",
+        "Tööõpe"
+      ],
+      "counts": {
+        "curriculum": 1,
+        "section": 768,
+        "text": 631,
+        "link": 168,
+        "file": 49,
+        "topic": 90,
+        "learningOutcome": 695,
+        "table": 47,
+        "image": 58,
+        "subject": 8,
+        "video": 2
+      }
+    }
+  ],
+  "totals": {
+    "curricula": 5,
+    "nodes": 54081,
+    "outcomes": 10480
+  }
+}

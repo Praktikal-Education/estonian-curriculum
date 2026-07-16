@@ -1,0 +1,96 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetus lõimitakse teiste õppeainetega kahel viisil. Õpilastel kujuneb teistes ainevaldkondades rakendatavate matemaatiliste meetodite kasutamise kaudu arusaam matemaatikast kui oma universaalse keele ja meetoditega baasteadusest, mis toetab teisi ainevaldkondi. Teiste ainevaldkondade ja igapäevaeluga seotud ülesannete kasutamine annab õpilastele ettekujutuse matemaatika rakendamise võimalustest.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Matemaatika ja eesti keel",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lõiming peaks matemaatika õpetuses realiseeruma eelkõige korrektses eesti keele kasutuses matemaatiliste tekstide esitamisel. Kujundatakse oskust väljendada ennast selgelt ja asjakohaselt nii suuliselt kui ka kirjalikult, luuakse tekste, sealhulgas tabeleid, graafikuid jm ning õpitakse neid tõlgendama ja esitama. Õpilasi suunatakse kasutama kohaseid keelevahendeid ja matemaatika oskussõnavara ning järgima õigekeelsusnõudeid. Tekstülesandeid lahendades arendatakse funktsionaalset lugemisoskust, sealhulgas visuaalselt esitatud infost arusaamist. Juhitakse tähelepanu arvsõnade õigekirjale, teksti, graafiku, tabeli jm teabe korrektsele vormistusele.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Matemaatika ja loodusõpetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetuses on küllalt tavapärane, et uute mõistete, seoste ja protseduuride juurde minnakse teistest valdkondadest pärit probleemide abil. Nii kujundatakse õpilastel näiteks naturaalarvu mõiste meid ümbritsevate objektide loendamisel; kolmnurga, ruudu, ristküliku mõisted vastavate reaalsuses esinevate objektide jälgimise teel jne. Ka seoste ja protseduuride õppimisel peaks olema lähtekohaks eluline vajadus nende järele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Uurimuslik õpe loodusainetes eeldab, et õpilased oskavad vaatluste ja eksperimentide käigus kogutud andmeid analüüsida ning vaatluste ja eksperimentide tulemusi graafiliselt, diagrammide ja tabelitena esitleda.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Matemaatika ja inimeseõpetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lõiming saab rajaneda arvandmete kasutamisel matemaatika teemade juures. Sellist arvmaterjali pakuvad erinevad inimeseõpetuse teemad (nt sotsiaalsed suhted, majandus, ühiskonna struktuur, riik ja valitsemine). Arvandmeid saab kasutada matemaatika teemade protsent, osamäär, keskmine, tulp- ja sektordiagramm jt käsitlemisel.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Ülesannete lahendamise kaudu arendatakse oskust infot mõista ja valida: eristada olulist ebaolulisest, leida (tekstist, jooniselt jm) probleemi lahendamiseks vajalikud andmed. Ülesande lahendust vormistades ja sõnastades arendatakse oma mõtete selge, lühida ja täpse väljendamise oskust. Õpitakse kasutama erinevaid teabekeskkondi (hindama õpitu põhjal näiteks meedias avaldatud diagrammide tõele vastavust), tutvutakse kehtiva maksusüsteemiga. Praktilised tööd ja rühmatööd kujundavad koostöövalmidust, üksteise toetamist ja üksteisest lugupidamist.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Matemaatika ja ajalugu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lõiming võiks realiseeruda eelkõige läbi matemaatikas õpetatava seostamise matemaatika enese arengu ajalooga. Matemaatika ajaloost pärinevate faktidega saab õpetaja äratada õpilastes huvi aine vastu. Matemaatikas omandatud ajakujutlused aitavad mõista ajalooliste sündmuste järgnevust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Matemaatika ja kunstiained",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lõiminguks kunstiõpetusega pakub häid võimalusi geomeetria. Matemaatika geomeetriaalased mõisted leiavad rakendamist erinevates kunsti valdkondades, näiteks arhitektuuris, ruumikujunduses. Kujundite oluliste tunnuste liigitamine ja sümbolite kasutamine on kunsti lahutamatu osa, nagu ka piltidel olevate esemete-nähtuste tunnuste võrdlemine ja liigitamine. Geomeetriamõisted võivad olla aluseks kunstiõpetuses vaadeldavate objektide analüüsil.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Muusikaõpetuses saab hariliku murru mõistele toetudes selgitada taktimõõdu olemust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Matemaatika ja tööõpetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Töö- ja tehnoloogiaõpetuses, käsitöös ja kodunduses kasutavad õpilased loogilist mõtlemist ning matemaatilisi teadmisi. Tööde kavandamisel ja valmistamisel tehakse praktilisi mõõtmisi ja arvutusi, millel on praktiline tagajärg, vigu märgatakse kohe.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Matemaatika ja kehaline kasvatus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kõikide kehalise kasvatuse osaoskuste arendamisel rakendatakse matemaatikas omandatud oskusi (arvutamine, loendamine, võrdlemine, mõõtmine) ja mõisteid (geomeetrilised kujundid, mõõtühikud). Arvandmete tõlgendamise oskus väljendub sporditulemuste võrdlemises ja edetabelites esitatava info mõistmises. Tekstülesannete kaudu selgitatakse tervislike eluviiside, liikumise ja sportimise tähtsust inimese tervisele, samuti meditsiinisaavutuste olulisust. Objektiivsete arvandmete alusel saab hinnata oma tervisekäitumist, näiteks suhkru kogust toiduainetes, liikluskäitumist (kiirus, pidurdusteekond, nähtavus) jm. Füüsiline tegevus ja liikumine aitavad kaasa ühikute ja mõõtmissüsteemidega seotud põhimõistete omandamisele. Järjepidevus, täpsus ning kõige lihtsama ja parema lahenduskäigu leidmine on nii matemaatika kui ka spordi lahutamatu osa.</p>"
+        }
+      ]
+    }
+  ]
+}

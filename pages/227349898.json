@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on arendada disainmõtlemist, mis on vajalik kiiresti arenevates valdkondades (sh infotehnoloogia, meedia, logistika, meelelahutus), kus erialased teadmised aeguvad suhteliselt ruttu. Uute teadmiste loomisel on eduteguriteks erinevate kasutajarühmade kaasamine arendusprotsessi juba selle algfaasis, paindlikud arendusmeetodid, kiire prototüüpimine ja prototüüpide testimine kasutajatelt tagasiside saamiseks kõigis projekti etappides.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursuse käigus luuakse kahe- kuni neljaliikmelises tiimis digilahenduse prototüüp. Alternatiivina tarkvaralahendusele võib kursusel prototüüpida ka virtuaal- või liitreaalsuse, geoinfosüsteemi, asjade interneti või robootika lahendusi, aga ka mittedigitaalseid või osaliselt digitaalseid teenuseid (nt koolitus-, nõustamis-, tugiteenused).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kirjeldab disainiprotsessi ülesehitust, komponente, nõudeid ja edutegureid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab interaktiivse ja kasutajaid kaasava disainimeetodi eeliseid ja puudusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kavandab, viib läbi ja dokumenteerib kasutajaid kaasava disainisessiooni;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib kogutud kvantitatiivseid ja kvalitatiivseid andmeid, sõnastab vajadused;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "disainib koostöös teistega tarkvararakenduse paberprototüübi ja interaktiivse prototüübi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valideerib kasutajatega loodud prototüüpi, esitleb tulemusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib prototüübi kasutajakogemust etteantud meetodeid kasutades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab enesearengut ja enda panust meeskonnaliikmena.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Gümnaasiumi valikkursus „Kasutajakeskne disain ja prototüüpimine“",
+      "children": [
+        {
+          "kind": "section",
+          "title": "LÕIMING TEISTE AINETEGA",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>“Kasutajakeskne disain ja prototüüpimine” on mõeldud eraldiseisva informaatika kursusena, kus ei eeldata varasemat kokkupuudet programmeerimisega. Kuna kursuse jooksul tuleks disainida individuaal- või rühmatööna enda tarkvaraprototüüp, siis on võimalik seda edukalt siduda teiste õppeainetega.</p><p>Tarkvaaraprototüübi disainimisel uuritakse tarkvara võimalikku kasutajaskonda läbi persoonade, mis on ka heaks võimaluseks lõimida persoonasid teiste ainetega. Tarkvaraprojektid võivad olla näiteks veebi-, robootika- või mobiilirakendused õpilaste valitud ja õpetaja suunatud teemadel. Näiteks isikliku raamatukogu programm, uute õpilaste huvide kaardistamise ja tutvumise rakendus, geomeetriavalemite rakendus, isikliku kasvuhoone projekt vms.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÜLDPÄDEVUSTE KUJUNDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eelmainitud ülesanded ja projekt annavad võimalusi ka kultuuri- ja väärtuspädevuse arendamiseks nii paaris- kui ka rühmatöös. Projektide võimalus ennast teostada annab võimaluse arendada ka sotsiaalset ja kodanikupädevust. Ülesannete lahendamisel valikuvõimalus ja ka projektitöö võimaldavad leida just õpilase tasemele sobivaid väljakutseid arendades enesemääratluspädevust. Ümberpööratud klassiruumi kasutamine koos projektiga võimaldab arendada suutlikkust organiseerida õppekeskkonda individuaalselt ja rühmas ehk arendab õpipädevust. Ümberpööratud klassiruumi aktiivsed tunnitööd koos projektiga arendavad suutlikkust ennast selgelt, ajakohaselt ja viisakalt väljendada ehk suhtluspädevust. Tarkvara prototüübi disainimine on naturaalne viis arendamaks matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevust. Projektitöö on hea näide ettevõtlikkuspädevuse arendamisest, kus on olulisel kohal suutlikkus ideid luua ja ellu viia, kasutades omandatud teadmisi ja oskusi. Projektivormis tarkvaraprojekti disainimine ja planeerimine arendab ka digipädevust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LÄBIVATE TEEMADE KÄSITLUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kasutajakeskse disaini ja prototüüpimise õpetamisel on olulisel kohal ka vastavate edasiõppimisvõimaluste ja IT-ametite tutvustamine, mis omakorda panustab elukestva õppe ja karjääri kujundamisele. Tarkvara planeerimisel on oluline arvestada keskkonna ja jätkusuutliku arengu põhiprintsiipidega. Kursusel tutvutakse tarkvaraarenduse etappidega, kus enda tarkvara prototüübi loomine õpilaste või laiemalt ühiskonna probleemide lahendamiseks käsitleb ka kodanikualgatust ja ettevõtlikkust. Rahvus ja rahvusvahelise temaatikat puudutavad projektid käsitlevad kultuurilise identiteedi teemat.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lehekülg <a href=\"https://startupestonia.ee/startup-database/\">https://startupestonia.ee/startup-database/</a> annab ülevaate Eesti startupidest. Selleks, et õpilased saaks laiema pildi IT-valdkonna võimalusest ja nõutud oskustest, oleks soovitatav suunata neid ka teabekeskkonna ja meediakasutuse teemal lugema tarkvaraarenduse ja disainiga seotud uudiseid. Sellega seondub naturaalselt ka tehnoloogia ja innovatsiooni teema.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Informaatikatundides on oluline juba varakult kokkuleppida arvutiklassi reegleid ja selgitada ergonoomilise istumise ja liikumispauside olulisust. Probleemide lahendamisel tuleks suunata õpilasi üksteist aitama ja toetama käsitledes nii väärtuste ja kõlbluse teemat.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÕPPEMEETODID ja -VÕTTED",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuna gümnaasiumikursus “Kasutajakeskne disain ja prototüüpimine” on kaetud sihtgrupile sobiva õppemateraliga, saab siin kasutada erinevaid õppemeetodeid- olgu selleks siis traditsiooniline tund või ümberpööratud klassiruumi metoodika. Õppematerjal toetab nii traditsioonilise tunni andmist, kus tunnis tutvustatakse uut teemat ja lahendatakse õpetaja abiga siis ülesandeid kui ka ümberpööratud klassiruumi metoodikat, kus õpilastel on võimalik kodus iseseisvalt tutvuda materjaliga ja valmistuda ette tunniks. Sellisel juhul saab õpetaja tunnis jooksvalt aidata õpilastel minna süvitsi keerukamate nüanssidega kasutades erinevaid aktiivõppe meetodeid. Näiteks saavad õpilased kodus lugeda persoonade koostamise kohta ja valmistada ette üks persoona ja tunnis õpetaja abiga välja valida ja täiendada persoonasid. Sama saab teha ka tarkvara disainiga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HINDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kasutajakeskse disaini ja prototüüpimise kursuse hindamine võib olla arvestuslik- sellisel juhul saab nõuda soovitud ulatuses iseseisvate tööde tegemist teatud tasemel.</p><p>Hindelise kursuse puhul saab õpetaja otsustada, kuidas hinne kujuneb näiteks ülesanneteks jagatud pojekti punktide summana. Soovitaks positiivse tulemuse saamiseks teha ka ettekanne disainitud tarkvara prototüübist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LISAMATERJALID",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/digitaru/disain/",
+              "title": "Gümnaasiumi informaatika valikkursuse “Kasutajakeskne disain ja prototüüpimine” õpik"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

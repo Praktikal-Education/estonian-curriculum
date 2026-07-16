@@ -1,0 +1,303 @@
+[
+  {
+    "id": "law-pk-karjaariopetus",
+    "title": "Karjääriõpetus",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-draamaopetus",
+    "title": "Draamaõpetus",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-tantsuopetus",
+    "title": "Tantsuõpetus",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-teadusliku-motlemise-alused",
+    "title": "Teadusliku mõtlemise alused",
+    "parentId": "211453968",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-matemaatika-i",
+    "title": "I kooliaste",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-matemaatika-ii",
+    "title": "II kooliaste",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-matemaatika-iii",
+    "title": "III kooliaste",
+    "parentId": "211453823",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-pk-vene-keel-i",
+    "title": "Riikliku õppekava täiendavad õpitulemused",
+    "parentId": "211453514",
+    "childIds": [],
+    "depth": 5
+  },
+  {
+    "id": "law-pk-tooopetus-i",
+    "title": "Riikliku õppekava täiendavad õpitulemused",
+    "parentId": "211453900",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "law-gym-arhitektuur-kui-elukeskkond",
+    "title": "G Arhitektuur kui elukeskkond",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-disain",
+    "title": "G Disain",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-draamaopetus",
+    "title": "G Draamaõpetus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-eakate-abistamine-koduses-keskkonnas",
+    "title": "G Eakate abistamine koduses keskkonnas",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-inimene-nuudisaegses-teabekeskkonnas",
+    "title": "G Inimene nüüdisaegses teabekeskkonnas",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-joonestamine",
+    "title": "G Joonestamine",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-kust-tuleb-ja-kuhu-kaob-raha",
+    "title": "G Kust tuleb ja kuhu kaob raha?",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-lapsehoidja-too-alused",
+    "title": "G Lapsehoidja töö alused",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-loodusteadused-tehnoloogia-ja-uhiskond",
+    "title": "G Loodusteadused, tehnoloogia ja ühiskond",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-maalritoode-baasoskused",
+    "title": "G Maalritööde baasoskused",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-mehhatroonika-ja-robootika",
+    "title": "G Mehhatroonika ja robootika",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-nutikas-koristamine",
+    "title": "G Nutikas koristamine",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-perearhiivi-korrastamine-ja-kirjeldamine",
+    "title": "G Perearhiivi korrastamine ja kirjeldamine",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-perearhiivi-loomine",
+    "title": "G Perearhiivi loomine",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-plaatija-baasoskused",
+    "title": "G Plaatija baasoskused",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-rahvusvaheline-projektijuhtimine",
+    "title": "G Rahvusvaheline projektijuhtimine",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-rakenduste-loomise-ja-programmeerimise-alused",
+    "title": "G Rakenduste loomise ja programmeerimise alused",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-teenindusopetus",
+    "title": "G Teenindusõpetus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-keel-ja-kirjandus",
+    "title": "G Keel ja kirjandus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-kehaline-kasvatus",
+    "title": "G Kehaline kasvatus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-kunstiained",
+    "title": "G Kunstiained",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-loodusained",
+    "title": "G Loodusained",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-matemaatika",
+    "title": "G Matemaatika",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-sotsiaalained",
+    "title": "G Sotsiaalained",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-karjaariopetus",
+    "title": "G Karjääriõpetus",
+    "parentId": "211454813",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-gym-riigikaitseopetus-lisa",
+    "title": "Riikliku õppekava täiendavad õpitulemused",
+    "parentId": "211454817",
+    "childIds": [],
+    "depth": 4
+  },
+  {
+    "id": "law-lok-eesti-keel-teise-keelena-lisa",
+    "title": "Riikliku õppekava täiendavad õpitulemused",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-lok-kehaline-kasvatus",
+    "title": "LÕK - Kehaline kasvatus",
+    "parentId": "212839958",
+    "childIds": [],
+    "depth": 1
+  },
+  {
+    "id": "law-lok-tehnoloogiaopetus-lisa",
+    "title": "Riikliku õppekava täiendavad õpitulemused",
+    "parentId": "169088743",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-lok-vene-keel-muu-keel-lisa",
+    "title": "Riikliku õppekava täiendavad õpitulemused",
+    "parentId": "187207802",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-tok-eesti-keel-vene-keel-kooli-oppekeel-lisa",
+    "title": "Riikliku õppekava täiendavad õpitulemused",
+    "parentId": "174365655",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-tok-kunst-ja-kaeline-tegevus-lisa",
+    "title": "Riikliku õppekava täiendavad õpitulemused",
+    "parentId": "174365891",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-tok-tooope-lisa",
+    "title": "Riikliku õppekava täiendavad õpitulemused",
+    "parentId": "174365868",
+    "childIds": [],
+    "depth": 3
+  },
+  {
+    "id": "law-hok-tegevusvaldkondade-opitulemused-eri-arengutaseme",
+    "title": "HÕK - Tegevusvaldkondade õpitulemused eri arengutasemetel",
+    "parentId": "212839965",
+    "childIds": [],
+    "depth": 1
+  }
+]

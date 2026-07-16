@@ -1,0 +1,487 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Soovituslik õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eluolu ja kultuur",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ühiskondlikud liikumised ja ideoloogiad: sotsialism, liberalism, noorsooliikumine, kodanikuõiguste liikumised, keskkonnakaitse. Ühiskondlike liikumiste ja ideoloogiate avaldumine kultuuris.</li><li>Muutused eluolus: naiste emantsipatsioon, sport, mood, massikultuur, kodumasinad.</li><li>Teaduse ja tehnika areng: autoajastu, raadio, televisioon, arvuti, internet, kosmoseajastu.</li><li>Kultuurivaldkondade arengu iseloomulikud jooned: kunst, kirjandus, arhitektuur, muusika.</li><li>Mitmekultuurilisuse kontseptsioon.</li><li>Poliitiliste olude mõju Eesti kultuurile ja eluolule.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sõja ja rahu küsimus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suhtumine sõdadesse: patsifism, võidurelvastumine, desarmeerimine, tuumasõja oht.</p><p>Rahvusvahelised organisatsioonid: Rahvasteliit, ÜRO, NATO. Uue maailmakorra loomise katsed.</p><p>Konfliktid ja nende lahendamise püüded Lähis-Ida näitel.</p><p>Eesti osalemine rahvusvaheliste organisatsioonide töös.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Inimsusevastased kuriteod",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Massikuritegude ideoloogilised alused ja psühholoogilised juured.</li><li>Koonduslaagrid, GULAG. Küüditamised.</li><li>Natsismikuriteod.</li><li>Kommunismikuriteod.</li><li>Genotsiid, etnilised puhastused.</li><li>Inimsusevastased kuriteod Eestis.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Muu maailm",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Koloniaalsüsteemi lagunemine ja selle tagajärjed.</li><li>Uute vastasseisude kujunemine, terrorism.</li><li>Islamimaailma aktiviseerumine ja vastuolud läänega.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ELUOLU JA KULTUUR",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "arutleb inimeste igapäevaelu valikute üle demokraatlikes ja totalitaarsetes ühiskondades",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid solidaarsusliikumistest ning kirjeldab nende mõju ühiskonnale",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab teaduse ja tehnika arengu saavutusi ning iseloomustab nende rakendumist igapäevaelus;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid kultuurielust ning seostab neid ühiskonnas toimunud muutustega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>näiteid noorsooliikumistest (biitnikud, hipid, punkarid jms) ja nende mõju ühiskonnale, afroameeriklaste solidaarsusliikumine ja panafrikanism, feminism, keskkonnakaitse. Ühiskondlike liikumiste ja ideoloogiate avaldumine kultuuris. Muutused eluolus: viktoriaanliku maailma lagunemine, naiste emantsipatsioon, spordi populaarsuse kasv, mood, massikultuur, kodumasinad. Teaduse ja tehnika areng: autoajastu, raadio, televisioon, arvuti ja internet, kosmoseajastu. Kultuurivaldkondade arengu iseloomulikud jooned: vaimse murrangu ilmingud kunstis, kirjanduses, arhitektuuris, muusikas. Mitmekultuuriline maailm. Poliitiliste olude mõju Eesti kultuurile ja eluolule</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kultuuri- ja väärtuspädevus</li><li>õpipädevus</li><li>suhtluspädevus</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kultuuriline identiteet</li><li>teabekeskkond</li><li>tehnoloogia ja innovatsioon</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>ühiskonnaõpetus - kodanikualgatuslikud liikumised ja subkultuurid ühiskondlike muutuste teenistuses; sport kui poliitiline tööriist</p><p>kunst, muusika - popkultuuri ja ühiskonnaelu vastasmõju; kultuuri eredamaid hetked ühiskonnatrendide mõjutajana</p><p>füüsika - tehnilised uuendused 20. sajandil</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19095-Eluolu-ja-kultuur-20-sajandil",
+              "title": "Eluolu ja kultuur 20. sajandil"
+            },
+            {
+              "kind": "section",
+              "title": "Artiklid punkkultuurist Nõukogude Eestis",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://novaator.err.ee/1608835531/punk-on-lahe-ehk-kuidas-eesti-naispunkarid-oma-koha-leidsid",
+                  "title": "a) \"Punk on lahe, ehk kuidas Eesti naispunkarid oma koha leidsid\""
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.postimees.ee/4340035/galerii-eesti-punkaritest-1980ndatel-tehtud-fotod-vene-arhiivis",
+                  "title": "b) \"Galerii: Eesti punkaritest 1980. aastatel tehtud fotod Vene arhiivis\""
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sirp.ee/s1-artiklid/c9-sotsiaalia/punk-laheb-eest-ara/",
+                  "title": "c) \"Punk läheb eest ära\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamisülesanded, mis eeldavad info rakendamist:</p><p>a) temaatiline väitlus (nt väite üle \"Punkliikumine aitas kaasa Nõukogude Liidu lagunemisele\" või \"Popkultuur tõrjub ühiskonnast välja kõrgkultuuri\" vms). Väitlusformaate saab uurida ja õppetööks kohandada <a href=\"https://argument.ee/\">Eesti Väitlusseltsi kodulehelt</a>.</p><p>b) arutluse kirjutamine. Arutluse hindamise juhendid, millest eeskuju võtta, on igati asjakohased ka varasemate riigieksamite materjalide juures.</p>"
+            },
+            {
+              "kind": "file",
+              "src": "http://arhmus.tlu.ee/tlibrary/f/text/57/ajaloo_riigieksami_ylesannete_vastused_2009_114357.pdf",
+              "title": "Näiteks siin (lk 23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "SÕJA JA RAHU KÜSIMUS",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "analüüsib, mis asjaoludel kujunesid ja muutusid inimeste hoiakud ning väärtushinnangud sõja ja rahu küsimuses 20. sajandi jooksul;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib allikate põhjal rahvusvaheliste organisatsioonide rolli riikidevahelistes suhetes;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab Lähis-Ida kriisikolde kujunemise põhjusi, selgitab kriisi olemust ja püüdeid seda lahendada;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seletab ja kasutab kontekstis mõisteid desarmeerimine, võidurelvastumine, patsifism.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suhtumine sõdadesse: patsifism, võidurelvastumine, desarmeerimine, tuumasõja oht. Rahvusvahelised organisatsioonid: Rahvasteliit, ÜRO, NATO, uue maailmakorra loomise katsed. Konfliktid ja nende lahendamise püüded Lähis-Ida näitel. Eesti osalemine rahvusvaheliste organisatsioonide töös.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kultuuri- ja väärtuspädevus</li><li>sotsiaalne- ja kodanikupädevus</li><li>õpipädevus</li><li>suhtluspädevus</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kultuuriline identiteet</li><li>teabekeskkond</li><li>tehnoloogia ja innovatsioon</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>ühiskonnaõpetus - üksikisiku radikaliseerumine ideoloogiate mõjul</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://naitused.humanrightsestonia.ee/inimoiguste-kujunemislugu/",
+              "title": "Inimõiguste kujunemislugu, Inimõiguste Instituudi veebinäitus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.coe.int/et/web/compass/peace-and-violence",
+              "title": "Euroopa Nõukogu inimõiguste hariduse käsiraamatu teemaplokk \"Rahu ja vägivald\""
+            },
+            {
+              "kind": "file",
+              "src": "https://www.icrc.org/data/files/ehl/ehl-estonian-modules.pdf",
+              "title": "Eesti Punase Risti eestvedamisel koostatud käsiraamat \"Avastades humanitaarõigust\""
+            },
+            {
+              "kind": "file",
+              "src": "https://prosveta.gov.rs/wp-content/uploads/2015/09/EDC_HRE_Volume_III_Living_in_democracy.pdf",
+              "title": "Aruteluharjutus (sõjalise) vägivalla kasutamise kohta"
+            },
+            {
+              "kind": "link",
+              "href": "https://historia-europa.ep.eu/et/haridustootajad-ja-opetajad/klassitoo-ulesanded/pistrikud-ja-rahutuvid-konflikt",
+              "title": "Euroopa Ajaloo Maja koostatud õppematerjal sõja ja rahu teemadel \"Pistrikud ja rahutuvid\""
+            },
+            {
+              "kind": "link",
+              "href": "https://bit.ly/3vkc0Vu",
+              "title": "ERR saade Yasser Arafatist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "INIMSUSEVASTASED KURITEOD",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab, millised arengusuunad ühiskonnas tegid võimalikuks inimsusevastaste kuritegude toimepaneku;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab inimsusevastaste kuritegude olemust ning nende taunimise ja vältimise vajalikkust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid inimsusevastaste kuritegude toimepanemistest ja nende tagajärgedest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seletab ja kasutab kontekstis mõisteid genotsiid, holokaust, küüditamine, GULAG.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Massikuritegude ideoloogilised alused ja psühholoogilised juured. Koonduslaagrid, GULAG. Küüditamised. Natsismikuriteod: holokaust. Kommunismikuriteod. Genotsiid, etnilised puhastused. Inimsusevastased kuriteod Eestis.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kultuuri- ja väärtuspädevus</li><li>sotsiaalne- ja kodanikupädevus</li><li>õpipädevus</li><li>suhtluspädevus</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kultuuriline identiteet</li><li>teabekeskkond</li><li>tehnoloogia ja innovatsioon</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>kirjandus ja ajalugu</li><li>Ajalugu ja kunstiõpetus (kollaažide tegemine)</li></ul><p>Lõimingu võimalused kirjandusega (ajalooliste sündmuste ja romaanide analüüs).</p><p>Võimalikud raamatud:</p><ul><li>Esta Aksli „Lendas väike lepatriinu”</li><li>Sofi Oksanen „Puhastus”</li><li>Sofi Oksanen „Kui tuvid kadusid”</li><li>Martha Hall Kelly „Sirelitüdrukud”</li><li>Heather Morris „Auschwitzi tätoveerija”</li><li>Leelo Tungal \"Seltsimees laps\"</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://rm.coe.int/bookmarks-estonian-jarjehoidjad-2017-veebi/16807109a3",
+              "title": "Euroopa Nõukogu metoodiline käsiraamat \"Järjehoidjad\" inimõiguste kaitsest ja nende rikkumisest"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Võimalik ülesanne: kirjanduses on õpilased lugenud 21. sajandi kirjandusest ühe ajaloos soovitatava teose. Tunnis jaotada õpilased vastavalt raamatutele gruppidesse. Igal laual võiks olla ka üks teos, et vajadusel näiteid otsida. Laudkonnale antakse ülesandeks välja tuua ajaloolised sündmused, mis raamatus olid ning toetada need ajalooliste faktidega. Taoline raamatu analüüs on õpilastele väga meeldinud.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://klooga.nazismvictims.ee/materjalid/holokaust-eestis/",
+              "title": "Holokaust Eestis ülesanne järgmise materjali põhjal"
+            },
+            {
+              "kind": "section",
+              "title": "Klassi jaotamine 5 grupiks, kus iga grupp saab läbitöötamiseks ühe järgmistest materjalidest",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://klooga.nazismvictims.ee/materjalid/holokaust-eestis/",
+                  "title": "HOLOKAUST EESTIS"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://klooga.nazismvictims.ee/materjalid/klooga-laager/",
+                  "title": "KLOOGA LAAGER"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://klooga.nazismvictims.ee/materjalid/elu-laagris/",
+                  "title": "ELU LAAGRIS"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://klooga.nazismvictims.ee/materjalid/massimorv-19-septembril-1944/",
+                  "title": "MASSIMÕRV 19. SEPTEMBRIL 1944"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://klooga.nazismvictims.ee/materjalid/massimorva-avastamine/",
+                  "title": "MASSIMÕRVA AVASTAMINE"
+                }
+              ]
+            },
+            {
+              "kind": "text",
+              "html": "<p>Analüüsi käigus tutvustatakse materjali kaasõpilastega. Kokkuvõtted loetust võib lisada <a href=\"http://padlet.com\">padlet.com</a> või <a href=\"http://sutori.com\">sutori.com</a> keskkonda.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Inimsusevastaste kuritegude juures saab vaadata järgmiseid filme",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.kogumelugu.ee/et/videoteek/manna",
+                  "title": "\"Manna\" (Räägib Pärnu juudikogukonna hukkamisest)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.kogumelugu.ee/et/videoteek/theodore-balberyszski-0",
+                  "title": "Theodor Balberyszski lugu (Klooga laagris ellujäänu)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.kogumelugu.ee/et/videoteek/holokaustis-ellujaanute-malestused",
+                  "title": "Holokaustis ellujäänute mälestused"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>\"Põgenemine\" -</p>"
+                }
+              ]
+            },
+            {
+              "kind": "link",
+              "href": "https://ajalugu.haridusekraanil.ee/",
+              "title": "Kultuuri- ja väärtuspädevuse arendamiseks väga hea ülesannetekogu"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Veebilehel olevaid ülesandeid on võimalik kombineerida.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Muu maailm",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "iseloomustab koloniaalsüsteemi toimimist, selle lagunemise põhjusi ja tagajärgi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib uute vastasseisude kujunemist maailmas pärast külma sõja lõppu.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koloniaalsüsteemi lagunemine ja selle tagajärjed. Uute vastasseisude kujunemine, terrorism. Islamimaailma aktiviseerumine ja vastuolud läänega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab koloniaalsüsteemi toimimist, selle lagunemise põhjusi ja tagajärgi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib uute vastasseisude kujunemist maailmas pärast külma sõja lõppu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib allikate põhjal väikerahvaste õigusi suurriikide koosseisus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Koloniaalsüsteemi lagunemine ja selle tagajärjed. Uute vastasseisude kujunemine, terrorism. Lääne ühiskonna väljakutsed nüüdisaegses maailmas</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19185-Inimsusevastased-kuriteod",
+              "title": "Inimsusevastased kuriteod"
+            },
+            {
+              "kind": "link",
+              "href": "https://naitused.humanrightsestonia.ee/crimeantatar/",
+              "title": "Veebinäitus krimmitatarlastest"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

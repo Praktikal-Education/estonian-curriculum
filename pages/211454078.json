@@ -1,0 +1,613 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Vastastikmõju ja jõud",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kasutab jõudu kui vektorsuurust kehadevahelist vastastikmõju analüüsides, oskab graafiliselt ja analüütiliselt leida kehale mõjuvat resultantjõudu",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab Newtoni seaduseid probleemülesandeid lahendades ja igapäevaelu situatsioone analüüsides",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib orbitaalliikumist, kasutades inertsi ja kesktõmbejõu mõistet",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab gravitatsiooniseadust ja raskusjõu, keha kaalu ja toereaktsiooni mõistet probleemülesandeid lahendades",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kavandab ja teeb katsed jäikuse ja hõõrdeteguri määramiseks ning analüüsib katsete tulemusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vastastikmõjud ja jõud. Newtoni seadused. Inerts. Resultantjõud. Gravitatsiooniseadus.<br>Orbitaalliikumine. Raskusjõud, keha kaal, toereaktsioon. Kaalutus. Hooke’i seadus. Jäikus. Hõõrdumine. Hõõrdetegur. Liugehõõre ja seisuhõõre.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>resultantjõud, keha inertsus ja mass, gravitatsioon, raskusjõud, keha kaal, kaalutus, toereaktsioon, deformatsioon, jäikus, elastsusjõud, hõõrdetegur, hõõrdejõud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvumine Newtoni seadustega.</li><li>Jäikuse määramine.</li><li>Hõõrdeteguri määramine.</li><li>Hüppe dünaamika. Jõu (hüppel ja maandumisel) graafikud. Kiiruse ja kõrguse (kauguse) graafik.</li><li>Pöördliikumise uurimine. Piruett – kuidas muutub pöörlemiskiirus, kui süsteemi inertsimoment muutub? Osaliselt veega täidetud plastämbri keerutamise minimaalsed nurk- ja joonkiirused, mille korral vesi ämbrist välja ei valgu. Kuivõrd pesumasina tsentrifuugi pöörete arvu vähendamine jätab pesu märjemaks (võib teha ka laboritsentrifuugiga, salatispinneriga vms)?</li><li>Erineva raadiusega kurvide läbimine erinevatel kiirustel.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema <strong>„Vastastikmõju ja jõud”</strong> on klassikalisele ja üldse kogu füüsikale väga oluline ja sellel on laiem mõju mõistmaks ja seletamaks igapäevaelu, eriti aga tehnika nähtusi ja protsesse. Mõndagi selle teema õppesisust on küll intuitiivselt mõistetav, aga õige terminoloogia kasutamine ja põhjus-tagajärg seose märkamine vajab harjutamist. Paljugi, millest juttu tuleb, võib hea käsitluse korral olla põnev, kaasahaarav ja isegi lõbus.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Klassikalise mehaanika aluseks on kahtlemata Newtoni seadused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>sh ülemaailmne gravitatsiooniseadus. Newtoni seadused annavad mõisted ja seosed (I – inerts, II – jõud ja kiirendus. III – vastastikmõju) füüsikalises maailmas toimuva kirjeldamiseks. Kolmele liikumisseadusele lisandub gravitatsiooniseadus ja raskusjõu mõiste. Looduses ja tehnikas on mõistlik panna mõnele mehaanika jõule päris oma nimi ja võtta nende kirjeldamiseks kasutusele eraldi seadused. Tuntumad neist on hõõrdejõud ja elastsusjõud (koos toereaktsiooni mõistega). Tihtipeale mõjuvad mitu jõudu koos. Siis saab nähtusi kirjeldada ja probleeme lahendada jõuvektorite liitmise või komponentideks jagamise kaudu.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Siitmaalt avaneb tee paljude kaasaegsete ja huvitavate mehaanika teemade juurde",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Uskumatult täpsed kehade liikumise ennustused – näiteks taevakehade trajektoorid sajanditeks või satelliitide asukohad orbiitidel ja nende korrigeerimise võimalused. Inseneridele pakub mehaanika kindla aluse masinate ja ehitiste konstrueerimiseks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mehaanikas on palju huvitavat ja mõtlemapanevat, isegi põnevat ja lõbusat",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Transport – sõidukeid liikuma panevad ja pidurdavad jõud, seisu- ja liugehõõre. Turvalisus – turvavöö ja õhkpadi, kiivrid, eririietus ja -vahendid. Raketiteadus – kehade kaal, kaaluta olek, kosmosetehnika ja -uuringud. Orbitaalliikumine – planeedid, kaaslased, satelliidid, gravitatsioon ja inerts. Sport – hõõrde- ja elastsusjõud tulevad mängu pea igal spordialal. Kuidas sportlased kasutavad hõõrdumist enda huvides, näiteks tennisereketi haaramisel või keelte pingutamisel? Palli pöörlemise ja õhutakistuse ärakasutamine võib sportlasele anda häid võimalusi, spordihuvilisele aga mängu jälgimise huvitavamaks muuta. Loodus - õietolmu ja eoste levimine õhus, rähni koljule puu toksimisel mõjuv jõud, isaste kaljukitsede puksimine, putukate ja ämblike hüppevõime. Ehitised – kuidas on projekteeritud rippsillad, tunnelid, suured kuplid või trampliinid. Meelelahutus – kuivõrd on filmides ja videomängudes kujutatu füüsikaliselt usutav? Ajalugu – kuidas teadlased, Galilei, Newton jpt, arendasid välja mehaanika, selle vana ja auväärse füüsikaharu. Ägedad demonstratsioonid – kuidas päästa purunemisest kõrgelt kukkuv muna ja mida suudab õhurõhk või kõrge vedelikusammas.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mehaanika on tõesti paljude teiste füüsikaalade alus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>aga on ka iseseisva teaduse- ja insenerialana köitev ning ärgitab tundma huvi füüsikalise maailma ja tehniliste rakenduste vastu.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutada rühmades või klassis tervikuna, kui palju on meeles 8. klassis õpitud jõu teemast, ja kaardistada teadmised, hiljem kordamisel saab sama mõistete kaarti täiendada.</li><li>Korrata üle vektori mõiste. Jõudude liitmist demonstreerida keha nihutamisega kahest või mitmest erinevast suunast mõjuva jõu abil, selline katse aitab mõista vektorite liitmise erinevust skalaarsuuruste liitmisest.</li><li>Newtoni seaduste ja erinevate jõudude kasutamine igapäevaelus, looduses ja tehnikas toimuva seletamiseks on hea harjutus, mõistmaks üldisemalt, kuidas teaduslikud teooriad toimivad.</li><li>Tuleb juhtida tähelepanu, et mehaanikas on vägagi palju seletuv jõudude tasakaaluga. Näiteks nii hõõrdejõu kui ka elastsusjõu mõõtmine dünamomeetriga põhineb kehale rakenduvate jõudude tasakaalul.</li><li>Liiklusohutus. Kurvide läbimine, pidurdusteekond, ABS pidurid, trampliin jms annavad piiramatu võimaluse jõudude koosmõju ja vektorite kasutamise harjutamiseks. Näiteks autoga liikumisel on kurvis teel püsimise aluseks piisav hõõrdejõud, see peab olema tasakaalustatud kesktõukejõuga, mis on seotud kurvi raadiusega ja liikumiskiirusega.</li><li>Püsiva tasakaalu tingimus, see kulub hiljem ära võnkumise, pendlite ja lainete teemas.</li><li>Praktiliste tööde hulgas võiks olla mõni suurem STEM projekt: Langevarju mõju keha liikumisele. Vaja läheb: 1) juhtmevaba kiirendusandur, 2) suured kilekotid, 3) käärid 4) kaal, 5) niiti, 6) teipi, 7) joogikõrsi.<br>Eesmärk on konstrueerida võimalikult kerge langevari, mille korral keha liikumiskiirus vahetult enne maapinda oleks väike. Langevarju disainimisel peavad õpilased mõistma õhutakistuse sõltuvust langevarju pindalast, kuid looma võimalikult ökonoomse konstruktsiooniga langevarju. Juhtmevaba anduri kasutamine võimaldab kõrguse, kiiruse ja kiirenduse andmed laadida arvutisse, neid analüüsida ja teiste rühmadega võrrelda. Rühmad teevad pärast eksperimenti ettekande, kus nad toovad välja oma langevarju konstruktsiooni ja valikute põhimõtted ning esitlevad saadud tulemusi ja järeldusi.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Praktiliste tööde sooritamine vajab tihti meeskonnatöö oskusi: planeerimist, rollide jaotamist ja vastutuse võtmist. Samuti võimaldavad praktilised ülesanded arendada disainimise ja probleemide lahendamise oskust. (Suhtluspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT3, LT4.)</p><p>Vaba langemise ja kaaluta oleku praktiline töö kiirendusanduri ja andmekogujaga või mobiiltelefoniga. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT3.)</p><p>Küsimustele vastamine: Kuidas Newtoni seaduste kaudu seletada vaipade kloppimist, naela seina löömist, jäisel teel sõitmist, langevarjuhüpet jms. Kuidas seletustes raskusjõu hõõrdejõu, elastsusjõu mõistet. (Enesemääratluspädevus, suhtluspädevus, LT1, LT2, LT4, LT5.)</p><p>Videolõigud elastsusest, hõõrdumisest, jõudude koostoimest jm. Näiteks: Veritasium, What is a Force? või BBC, Brian Cox ,The Power of Gravity, Wonders of Life. (sotsiaalne ja kodanikupädevus, LT1, LT2.)</p><p>Tutvumine gravitatsiooni ja orbitaalliikumistega simulatsioonide abil. PhET Colorado, gravity-and-orbits, my-solar-system. (Õpipädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT2.)</p>"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/en/simulations/gravity-and-orbits"
+            },
+            {
+              "kind": "embed",
+              "src": "https://phet.colorado.edu/en/simulations/my-solar-system"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>horisontaalne - sport, näiteks jõutõstmine ja jõusaali rakendused põhinevad jõu ülekandel, raskus- ja elastsusjõu rakendamisel. Liiklus, näiteks sõidukitele mõjuvate takistusjõudude vähendamise võimalused kütuse- ja elektrikulude optimeerimiseks.</p><p>Vertikaalne: eelnevalt on õpilased õppinud jõu mõistet, jõu liike, jõu mõõtmise võimalusi. Arvutusülesannetes on kasutatud ainult raskusjõu valemit; erinevad jõu liigid on lahti seletatud kvalitatiivselt. Vektori mõistet rakendatakse edaspidi ka elektromagnetismi kursuses väljatugevuste kirjeldamisel</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Eelnevalt on vaja diferentseerimise vajaduse huvides välja selgitada, millised on õpilaste huvid ja kuivõrd võib neid tuleviku õpingutes füüsikat vaja minna. Soovitav on koostada praktiliste tööde hindamismudel, mis näiteks koosneb kolmest osast: 1) idee ja meetodi arendus (uurimisküsimus, teooria, töökäik muutujate valik jms), 2) mõõtmistulemuste kogumine ja presenteerimine (tabelid, graafikud) ning 3) tulemuste analüüs, järeldused ja kokkuvõte. Hindamismaatriksit saab vastavalt praktilise töö iseloomule kohandada. Hindata võib arvestuslikult erinevate ettekannete ja esitluste tegemist, ajatelgede loomist; koostatud plakateid, tunnitegevuse käigus täidetud töölehti; rühmades probleemide lahendamist jmt. Kõige olulisem on, et õpilastele oleksid selged hindamiskriteeriumid ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Hea hindamismudel sisaldab ka viiteid edasistele õpingutele (kus ja miks neid oskusi ja teadmisi edaspidi õppimise käigus vaja on?). Õpilast abistavad enesehindamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning).</em> Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p><p>Dünaamikas võiks kontrolltööde ülesanded seotud olla igapäevaste nähtuste ja rakendustega (jõusaal, liiklus, tootedisain). Newtoni seaduste selgitamiseks teha rühmatöödena videosid ja neid presenteerida, selliste loominguliste tööde hindamiseks koostada koos õpilastega hindamismudel, kuhu saab sisse kirjutada ka diferentseerimise (näiteks, kas hinnatakse loovust, video kvaliteeti või pigem füüsikalist korrektsust ja täpsust).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p><p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks.</p><p>Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas. Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET Colorado"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Jäävusseadused mehaanikas",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "rakendab impulsi jäävuse seadust probleemülesandeid lahendades ja igapäevaelu situatsioone analüüsides",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab reaktiivliikumist impulsi jäävuse seadusega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "toob näiteid reaktiivliikumise kohta looduses ja rakenduste kohta tehnikas",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab looduses ja tehnikas toimuvate nähtuste selgitamiseks mehaanilise energia jäävuse seadust ning mehaanilise töö, võimsuse ja kasuteguri mõistet",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "uurib hälbe, kiiruse, kiirenduse, kineetilise ja potentsiaalse energia muutumist pendli võnkumisel nii graafiliselt kui ka analüütiliselt",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesandeid lahendades järgmisi seoseid:",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keha impulss. Impulsi jäävuse seadus. Reaktiivliikumine.<br>Mehaaniline töö ja energia. Kineetiline ja potentsiaalne energia. Mehaanilise energia jäävuse seadus. Mehaanilise energia muundumine teisteks energia liikideks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>impulss, impulsi jäävuse seadus, reaktiivliikumine, mehaaniline energia.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvumine reaktiivliikumise ja jäävusseadustega.</li><li>Põrgete uurimine. Deformatsiooni ja jõu mõõtmine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema <strong>„Jäävusseadused füüsikas”</strong>, keskendub kahele mehaanikas väga olulisele ja üldisele kontseptsioonile – impulss ja energia. Jäävusseadustel on loodusteadustes ja eriti füüsikas väga oluline koht. Nende kaudu on kõige lihtsam ennustada kehade liikumist, mitmesuguste protsesside kulgu ning lahendada probleeme, ilma et peaks iga pisidetaili üksiti mõõtma ja läbi arvutama.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Tasub tähele panna, et jäävusseadused on fundamentaalsed",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>st väljendavad Maailma ülesehituse olemust, aga on samas eksperimentaalselt kontrollitavad ja neid ongi pidevalt proovile pandud ning leitud kehtivat. Seekaudu ei ole jäävusseadused ainut teoreetilise füüsika pärusmaa, vaid aitavad päris igapäevaseid, aga eriti tehnoloogilisi küsimusi lahendada ja teha mõistlikke otsuseid. Lisaks sellele on jäävusseadused oma olemuselt lihtsad ja elegantsed.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mehaanika kursustes",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>on jäävusseaduste teema heaks juhatuseks keerukamate peatükkide juurde ja aitab harjutada probleemülesannete lahendamist ning loogilist mõtlemist.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kuigi selles teemas on jutt mehaanilisest energiast ja kehade impulssidest, ei ole jäävusseadused seotud mõne kindla situatsiooni või objektiga",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Need seadused ilmnevad füüsikalistes nähtustes väga laialt. Piltlikult öeldes – skaala ulatub kosmilisest nähtustest kuni aatomisiseste protsessideni.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tööl ja energial on sama ühik, seega on need samaväärsed (ekvivalentsed) suurused. Töö ja energia mõisted ja seos tuleks defineerida ja läbi harjutada.</li><li>Oluline on, et õpilased mõistaksid jäävusseaduste sisu ja erinevates protsessides toimuvate energialiikide muutusi, mille lõpptulemuseks on alati soojusenergia.</li><li>Praktiliste tööde ja ülesannete abil tekib õpilastel esmane ettekujutus sellest, et energia muundumine on seotud soojusenergiaga ja veel paljudest nähtustest. Näiteks täispuhutud õhupalli lahti laskmisel, kui see liigub vertikaalselt mööda nööri, saab käsitleda impulsi jäävust, reaktiivliikumist, rõhku, elastsusjõudu, potentsiaalset, kineetilist ja soojusenergiat energia muundumist ühest liigist teise (viis korda). Süsteemi salvestatav puhumise töö muundub õhupallis elastsusjõudude potentsiaalseks energiaks, mis õhupalli vabastamisel muundub õhu ja palli kineetiliseks energiaks, mis omakorda muundub potentsiaalseks energiaks ja kõik lõpeb soojusenergiaga.</li><li>Kineetiline energia sõltub kiirusest (ruutsõltuvus) ja liikuva keha massist.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevideo vaatamineökonoomse autosõidu kohta: kiirendamisel ja pidurdamisel kulutatav energia, õhutakistuse tekitatud jõu sõltuvus liikumiskiirusest. (Kultuuri- ja väärtuspädevus, sotsiaalne ja kodanikupädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT1, LT2, LT6, LT7.)</p><p>Erinevate mootorite (soojusmasinate ja elektrimootorite) energiatarbe ja kasutegurite võrdlus vabalt leitava informatsiooni järgi. Rühmad valivad välja ühe sõiduki, (näiteks sisepõlemis- või elektrimootoriga auto) mudeli ning koguvad selle kohta andmeid. Erinevate rühmade ettekannete põhjal tehakse kokkuvõte. (Sotsiaalne ja kodanikupädevus, õpipädevus, suhtluspädevus, digipädevus, LT1, LT2, LT3, LT5, LT6, LT7.)</p><p>Videod põrgetest aegluubis, sellest kuidas põrge toimub ja mis on selle tulemus. Arutlemine, kuidas erinevad elastne ja plastne põrge? (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT5.)</p><p>Korraldatakse võitlus, milline reaktiivliikumisel põhinev seadeldis sooritab kõige suurema nihke. (Õpipädevus, suhtluspädevus,)</p><p>Uurida palli vertikaalse tagasipõrke kõrguse kaudu erinevate pindade omadusi või palli energiakadu põrkel. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT3, LT4.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>horisontaalne - energia jäävuse seadus on olulisel kohal nii keemia kui ka bioloogia kursustes, aga laiemalt kogu meie energiamajandamises. Reaktiivliikumisel põhineb nii raketi lennutamise kui ka lõhkeainete rakendused. Bioloogia: osad selgrootud veeloomad liiguvad tänu vee väljapaiskumisele edasi.</p><p>Vertikaalne - energia jäävusega alustati põhjalikumalt juba 7. klassi loodusõpetuses, mehaanilise energia jäävust (ilma valemiteta) õpiti 8. klassis. Gümnaasiumis süvendatakse teadmisi “Energia” kursuses, näiteks mehaanilise energia muutumise soojuseks, mida nimetatakse ka energiakaoks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest. Eelnevalt on vaja diferentseerimise vajaduse huvides välja selgitada, millised on õpilaste huvid ja kuivõrd võib neid tuleviku õpingutes füüsikat vaja minna, vastavalt saab diferentseerida hindelisi ülesandeid.</p><p>Hindamiseks võiks anda praktilisi ülesandeid (näiteks ehitada rühmatööna tõstemehhanism ja määrate tõstmisel tehtud töö, võimsus, kasutegur; määrata kukkuva keha minimaalne kineetiline energia, millest piisab, et ruuduline A3 paber kukkkuva keha toimel puruneks). Hindamismudelit saab vastavalt praktilise töö iseloomule või õpilaste võimekusele kohandada, näiteks ka anda rohkem punkte idee eest või pigem arvutuste täpsuse eest.</p><p>Hinnata võib arvestuslikult erinevate ettekannete ja esitluste tegemist, tunnitegevuse käigus täidetud töölehti; rühmades probleemide lahendamist jmt.</p><p>Kõige olulisem on, et õpilastele oleksid selged hindamise mudel ehk mida ja kuidas hinnatakse. Hindamine peab andma õpilastele tagasisidet, osutama tehtud vigadele, kuid ka tunnustama. Hea hindamismudel sisaldab ka viiteid edasistele õpingutele (kus ja miks neid oskusi ja teadmisi edaspidi õppimise käigus vaja on?). Õpilast abistavad enesehindamisel mitmesugused enese testimise võimalused, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning).</em> Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p><p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks.</p><p>Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas. Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET Colorado"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Võnkumine ja lained",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "uurib võnkumisi ja kasutab nende analüüsimiseks järgmisi füüsikalisi suurusi: hälve, amplituud, periood, sagedus ja faas",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "uurib hälbe, kiiruse, kiirenduse, kineetilise ja potentsiaalse energia muutumist pendli võnkumisel nii graafiliselt kui ka analüütiliselt",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab resonantsi nähtust ning toob näiteid selle esinemise kohta looduses ja tehnikas",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab lainenähtuste selgitamisel füüsikalisi suurusi (lainepikkus, laine levimiskiirus, periood ja sagedus)",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab imitatsioone lainete peegeldumise, interferentsi ja difraktsiooni uurimiseks ning toob nende kohta näiteid loodusest ning tehnikast",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab probleemülesandeid lahendades järgmisi seoseid",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võnkumine. Pendli võnkumise kirjeldamine. Periood ja sagedus. Matemaatiline pendel. Resonants. Mehaanilised lained. Piki- ja ristlained. Lainete kirjeldamine. Lainepikkus, sagedus, kiirus. Lainete omadused. Peegeldumine, murdumine, interferents, difraktsioon. Helilained. Müra.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>võnkumine, hälve, faas, vabavõnkumine, sundvõnkumine, resonants, laine, pikilaine, ristlaine, lainepikkus, peegeldumine, interferents, difraktsioon.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Matemaatilise pendli ja vedrupendli võnkumise uurimine.</li><li>Gravitatsioonivälja tugevuse <em>g</em> määramine pendliga.</li><li>Helikiiruse määramine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema <strong>„Võnkumine ja lained”</strong> lisab klassikalisele mehaanikale veel laia ringi füüsikaliste nähtuste kirjeldusi ja seletusi ning tehnoloogilisi rakendusi. Selles teemas tuleb füüsikale appi üksjagu matemaatikat, nimetame seda lihtsustatult perioodiliste funktsioonide maailmaks.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Lainelised nähtused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Nähtuste valik, mille seletamisel ja kirjeldamisel tulevad mängu lainete omadused on väga lai. Interferents, difraktsioon, resonants, seisulaine tulevad mängu paljudel füüsikaga seotud aladel: energeetikas, bioloogias, muusikas, mõõtemistehnikas, meditsiinis, meelelahutuses, telekommunikatsioonis jne.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Võnkumiste ja lainete, aga veelgi laiemalt kõigi perioodiliste muutuste uurimisel ja avastamisel on pikk ja põnev ajalugu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>See ulatub antiigist tänapäeva ning on olnud abiks paljudele teadlastele ja filosoofidele nende pingutustel loodusnähtuste mõtestamiseks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lainenähtuste mõistmiseni jõudmine on hea lõpetus klassikalise mehaanika kursusele",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>aga see kerkib uuesti esile kõigis järgnevates teemades: elektromagnetism, optika, energeetika, kvantmehaanika, kosmoloogia.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Alustuseks arutada, millised nähtused on seotud lainete levimisega ruumis ja mis on neil kõigil ühist ja mille poolest erinevad. Näiteks helilained, mehaanilised lained (seismilised ja merelained), elektromagnetlained. Võrrelda saab nii keskkonda, põhjustajaid ning ka seda, kuidas inimene laineid tajub.</li><li>Helilaine interferentsi (tuiklemist) saab jälgida veidi erineva sagedusega heliharkidega või tekitades erineva kõrgusega toonid kahest seadmest, näiteks arvutist ja telefonist või kahest telefonist.</li><li>Kuna difraktsioon ja interferents on mõisted, mis ei jää meelde või lähevad sassi, siis tasuks lasta õpilastel välja mõelda mõni mnemotehniline võte, mis aitaks mõisteid omandada, ja lisaks näiteks uurida, mida algsed sõnatüved tähendavad.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Video vaatamine, kus õpilased saavad jälgida veiniklaasi aegluubis võnkumist ja resonantsi esinemisel ka veiniklaasi purunemist. (LT5.)</p><p>Õpilased uurivad pillikeele sageduse (helikõrguse) sõltuvust pillikeele pikkusest. (LT2, LT3, LT4, LT6.)</p><p>Uurida tekitatud lainete levimist veekogus (tiigis, järves, poriloigus), klassis saab dokumendikaamera abil jälgida vesivannil tekitatud laineid. Kui on kaks laineallikat, saab jälgida ka lainete interferentsi. (LT1, LT3, LT7.)</p><p>Õpilased uurivad lainete difraktsiooni simulatsiooni (näiteks colorado phet) ja arutlevad, kuidas mõjutab difraktsiooni ava või tõkke suurus ja laine pikkus. (Õpipädevus, suhtluspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT2, LT3, LT4.)</p><p>Katse heli difraktsiooni uurimiseks. Õpilased arvutavad välja, alates millise lainepikkusega helilaine difrageeruks avatud aknast sisse või välja. Seejärel kontrollivad heligeneraatori ja helivaljuse rakendusega, kas difraktsioon on mõõdetav või tajutav. (Õpipädevus, suhtluspädevus, matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, LT3, LT4.)</p><p>Kahe identse kõlariga helilainete interferentsi uurimine, helivaljuse analüsaatoriga, mille asukohta ruumis nihutades saab määrata interferentsi maksimume ja miinimume. (Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus, digipädevus, LT1, LT2, LT3.)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>horisontaalne - geograafias: seismilised lained on nii rist- kui ka pikilained, merelaine toime kallastele. Muusikas on pillide kõlakasti ja ruumi akustika seotud helilainete peegeldumise ja resoneerimisega.</p><p>Vertikaalne - 8 klassis on õpilased õppinud võnkumisi - sagedus, periood, amplituud ja lainete liike. “Elektromagnetnähtuste” kursuses tuleb rakendada neid samu mõisteid elektromagnetlainetega seotud nähtuste seletamisel või kirjeldamisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti koolides on hindamispraktikad väga erinevad ja arvestavad kooli või klassi eripära ning seetõttu toimub hindamine vastavalt koolis sätestatud reeglitele. Näiteks reaalklassi õpilastele rakendatavad nõuded ja hindamismeetodid eristuvad humanitaarklassi õpilaste teadmiste ja oskuste kontrollimeetoditest.</p><p>Kuna &quot;Võnkumiste ja lainete&quot; teemas õpitud mõitseid rakendatakse ka järgnevates teemades, tasuks nende kinnistamiseks kasutada enese testimise võimalusi, mida võib käsitleda tagasisidestava õppimisena <em>(retrieval learning).</em> Sellised keskkonnad on näiteks <a href=\"http://quizlet.com\">quizlet.com</a>, <a href=\"http://kahoot.it\">kahoot.it</a>, <a href=\"http://learningapps.org\">learningapps.org</a>, jmt. Väga heaks õppimise toetamise viisiks on suunata õpilasi ise teste koostama ja neid ka kaasõpilastega läbi tegema, kuid sealjuures on oluline, et testid vaataks enne üle ekspert/õpetaja.</p><p>Koostöös matemaatikaõpetajaga võiks koostada ühise tunnikontrolli või töölehe võnkumisgraafiku koostamise ja selle analüüsi kohta, kui antud kursused ajaliselt kattuvad, saadud tagasiside toetab mõlema aine õpitulemuste saavutamist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppevara valikus on õpetaja autonoomne ja langetab oma otsused vastavalt õpilaste tasemele ning enda töö spetsiifikale toetudes. Õppevarana on kättesaadavad mitmete kirjastuste õpikud, ülesannete kogud, kontrolltööd ja töövihikud (näiteks Avita, Koolibri, Maurus). Samuti on kättesaadavad veebipõhised materjalid, milles on üldjuhul õppematerjalid kursuste ja teemade kaupa süstematiseeritud.</p><p>Teemade sissejuhatuseks ja nähtuste selgitamiseks sobivad vaatamiseks erinevad videod (sh võõrkeelsed videod), mille valikul tuleb pöörata tähelepanu õpperühma tasemele ja oskustele ning sisu korrektsusele. Videoklippide otsimiseks on kõige otstarbekam kasutada inglise keelseid termineid ja mõisteid ning videoklipi vaatamisel sisse lülitada eestikeelsed subtiitrid või kasutada automaatset tõlkeprogrammi. Ohuks on tõlke kvaliteet ja vajadusel peab võtma aega täiendavaks selgituseks ning parandusteks.</p><p>Väga paljude füüsikaliste nähtuste ja protsesside kirjeldamiseks on abiks simulatsioonid, kus väga paljud simulatsioonid on tõlgitud ka eesti keelde. (Enese)kontrolli läbiviimiseks on hea kasutada ekspertide ja õpetajate loodud tasemeteste EIS keskkonnas. Täiendavaid teemakohaseid materjale füüsika teadmisi kiiremini omandavale õpilasele võib leida veebilehtedelt.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://e-koolikott.ee",
+              "title": "e-koolikott.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://opik.fyysika.ee",
+              "title": "opik.fyysika.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://phet.colorado.edu/",
+              "title": "PhET Colorado"
+            },
+            {
+              "kind": "link",
+              "href": "http://eis.ekk.edu.ee",
+              "title": "eis.ekk.edu.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://olympiaadid.haridus.ee",
+              "title": "olympiaadid.haridus.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://teaduskool.ut.ee",
+              "title": "teaduskool.ut.ee"
+            },
+            {
+              "kind": "link",
+              "href": "http://taltech.ee/olumpiaadikool",
+              "title": "taltech.ee/olumpiaadikool"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

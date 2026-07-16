@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "nimetab digiteenuseid erinevate eluvaldkondade kodanikele (sh õpilastele)",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab valitud digiteenuse toimimist, osi ja funktsionaalsusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb kahte erinevat riigi/kohaliku infosüsteemi kasutamisjuhendit ja dokumentatsiooni, toob välja sarnasused ja erinevused",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib enda käitumist noortele suunatud digiteenuse kasutajana",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab levinud turvariske digiteenuste kasutamisel ja arendamisel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb kahe erineva idufirma (startup'i) elutsüklit: uurib välja, kuidas nad alustasid, arenesid, milline on nende maine, kellele nad oma teenused suunavad jne",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab tehtud tehnoloogilisi valikuid ja samme loodud projektis nii süsteemi, tehnoloogia, seadmete jms turvalisuse kui ka praktilisuse vaatenurgast (ettevõtja, arendaja, projektijuht, kasutaja/klient)",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>E-riik, e-identiteet ja riiklikud digiteenused Eestis. Õpilasi enim mõjutavad avalikud e-teenused Eestis, kohalikus omavalitsuses ja koolis. Iduettevõtted Eestis ja maailmas. IKT alused (infosüsteemi arhitektuur), olulised koosvõime ja toimimise printsiibid (X-tee, once-only printsiip, koostalitusvõime, turvalisus, avaandmed jne). Teenuste juhtimise tsükkel: strateegia, disain, juurutamine, käitamine, parendamine. Digiteenuseid puudutavad seadused ja regulatsioonid (GDPR, isikuandmete kaitse seadus, EIDAS, teenuslepped). Digiteenuste arendamine: arendusprojekti algatamine, planeerimine, teostamine, juurutamine.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Digiteenuste riskide liigid, nende hindamine ja vältimine. Küberturvalisus digiteenuste kontekstis. Intsidentide haldus, infoturve (andmete käideldavus, terviklus ja salastatus; Eesti infoturbe standard E-ITS; andmete omanik ja tema ülesanded).</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppetegevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpitakse teooria ja praktikumide vormis. Õpet peab toetama elektroonsete õppematerjalide komplekt: teooria, harjutused, näited, lingid jm. Hindamise aluseks on õpilaste iseseisvalt (kas klassis või kodus) tehtud tööd.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilase ülesanne on õppida projekti läbiviimise tehnikaid. Õpetaja ja/või kooliväline juhendaja annab õpilaste tegevustele pidevalt tagasisidet ning soovitusi ja juhiseid edaspidiseks. Õppe käigus valmiv projekt jäljendab võimalikult palju praktilisi või meelelahutuslikke vajadusi, mistõttu on oluline õpilase vahetu osalemine. Projekt on meeskonnatööd eeldav terviklik distsipliin, millest teadmisi ja oskusi omandada on võimalik üksnes protsessis osaledes.</p>"
+        }
+      ]
+    }
+  ]
+}

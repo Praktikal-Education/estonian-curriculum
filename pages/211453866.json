@@ -1,0 +1,1477 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Muinasaeg ja vanaaeg",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lehekülg käsitleb 6. klassi ajaloo teemasid muinasajast Vana-Roomani. Allolevad teemad säilitavad allika järjestuse.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppematerjali viited ja õppekeskkonna laiendamise soovitused",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://www.timetoast.com/timelines/dipity-online-timeline",
+          "title": "Digipädevus - koostab digivahendite abil ajajoone"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=oeRozwI0NN8&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=1"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=qTWQIoEsiF8"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=62SNFtqiCf8&list=PLH55BK1JEw-p280MvUwzjFTR0y-z4OCgi&index=4"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=dWaNedAa83Y&list=PLH55BK1JEw-p280MvUwzjFTR0y-z4OCgi&index=5&t=2s"
+        },
+        {
+          "kind": "link",
+          "href": "https://eelmine.e-koolikott.ee/kogumik/27179-Ajaarvamine",
+          "title": "Ajaarvamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/en/oppematerjal/27179-Ajaarvamine/248981",
+          "title": "Ajaarvamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://sisuloome.e-koolikott.ee/node/2195",
+          "title": "Sajandite määramine"
+        },
+        {
+          "kind": "link",
+          "href": "https://wordwall.net/et/resource/4723958/ajalugu/m%c3%b5isted-ptk-1-4-inimesed-ajas-5kl",
+          "title": "Ajalooga seotud mõisted"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/15907-Ajaloo-allikad-ja-eesmargid",
+          "title": "Ajaloo allikad ja eesmärgid"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/node/941",
+          "title": "Muinasaja allikad ja nende uurimine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/testid/9598",
+          "title": "Ajaloo lähtetaseme test 6. klassile, testi ID 9598"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/2995",
+          "title": "Ajalooperioodid. Ajatelg"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3390",
+          "title": "Ajaperioodid. Ajaarvamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/testid/4621",
+          "title": "Ajaloosündmuste dateerimine, testi ID 4621"
+        },
+        {
+          "kind": "link",
+          "href": "https://projektid.edu.ee/pages/viewpage.action?pageId=184847155",
+          "title": "Ülesanded II kooliastme usundiõpetuse kavast"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=py9JRkbFsWA&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=2"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=l2SBR7emxAU&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=8"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3449",
+          "title": "Kütid-korilased, põlluharijad-karjakasvatajad"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=6l8hKZOR7Y8"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=r0zfYixq5R8&list=PLH55BK1JEw-p280MvUwzjFTR0y-z4OCgi&index=15"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=AXLPo5oJcoc&list=PLH55BK1JEw-p280MvUwzjFTR0y-z4OCgi&index=16"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.eays.edu.ee/%C3%B5ppematerjalid/ajalugu#h.3f41i6c8va5b",
+          "title": "Eesti kultuurilooline õppematerjal"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3496",
+          "title": "Muinasaeg Eestis (keskmine kiviaeg)"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3372",
+          "title": "Muinasaeg Eestis (noorem kiviaeg, pronksiaeg, rauaaeg)"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.slideshare.net/kaiaa168/muistsed-tsivilisatsioonid",
+          "title": "Esitlus"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=0MI7Uh2IBLg"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/hammurapi",
+          "title": "Hammurapi"
+        },
+        {
+          "kind": "link",
+          "href": "https://watsoneastwoldblog.wordpress.com/2010/02/24/write-your-name-in-cuneiform-just-like-a-mesapotamian/",
+          "title": "Monogramm kiilkirjas"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.slideshare.net/nataljadovgan/mesopotaamia-67443539",
+          "title": "Mesopotaamia esitlus"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=XlobP8R6FA4&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=11"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=ZeLZEGCbzA8&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=12"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=RA4DR80NUDc&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=13"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=7iHDRx-gKQU&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=14"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/2718676"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/2718774"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/4909600"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/2718946"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/16036469"
+        },
+        {
+          "kind": "link",
+          "href": "http://hiiekool.ee/oppematerjalid/vanaaeg/mesopotaamia.html",
+          "title": "Erinevaid teste Mesopotaamia kohta"
+        },
+        {
+          "kind": "link",
+          "href": "http://www.vocaroo.com",
+          "title": "Vocaroo"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/1mi32Q-PxMZJMxWFO9wdldioX6EagqjSC/view",
+          "title": "Psühhodraamameetodid ajaloo- ja ühiskonnaõpetuses"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=mxvYXwphJzM"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=mbiBrPmgp5w"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=D8j-e3sro-E"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=5CgxSWP65Fw"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=_q6YFwAglas"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=pk4EeFmw4Ew"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=d5hkJix7GBU"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=4FiM8S2_nSg"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=aEK6PT7K8OM"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=GtJW-8ZvNE8"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.google.com/maps/@29.9737567,31.1280717,2a,75y,164.71h,84.67t/data=!3m7!1e1!3m5!1s0xSsoMSVrtwlg791K2LysQ!2e0!3e5!7i13312!8i6656?entry=ttu",
+          "title": "Giza püramiidid"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/h5p/embed/1204",
+          "title": "E-koolikott: Arhitektuur"
+        },
+        {
+          "kind": "link",
+          "href": "https://teadus.postimees.ee/4091371/kusimus-ajaloost-mida-soid-vana-egiptuse-elanikud",
+          "title": "Mida sõid Vana-Egiptuse elanikud?"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=SN2r0sEMlaw"
+        },
+        {
+          "kind": "link",
+          "href": "https://sketchfab.com/3d-models/noorem-muumia-kmm-a-63-749724597f3a4151b630fac7236c34d1",
+          "title": "Tartu Ülikooli Kunstimuuseumis oleva muumia 3D mudel"
+        },
+        {
+          "kind": "link",
+          "href": "https://muuseum.ut.ee/et/sisu/tartu-ulikooli-kunstimuuseumi-pusiekspositsioon",
+          "title": "Tartu Ülikooli Kunstimuuseumi muumiakamber"
+        },
+        {
+          "kind": "link",
+          "href": "http://hiiekool.ee/oppematerjalid/vanaaeg/egiptus.html",
+          "title": "Egiptus"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/display?v=pvx08xjqj18"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/1608355700/ajalugu-viie-minutiga",
+          "title": "Teadus Vanas-Egiptuses"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/tutanhamon",
+          "title": "Tutanhamon"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/ramses-ii",
+          "title": "Ramses II"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/thutmosis-iii",
+          "title": "Thutmosis III"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3374",
+          "title": "Mesopotaamia ja Egiptuse ajaloolised paigad kaardil"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3394",
+          "title": "Mesopotaamia ja Egiptus. Geograafilised paigad kaardil"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3436",
+          "title": "Vana-Egiptuse mõisted"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3444",
+          "title": "Vana-Egiptuse ja Mesopotaamia kuulsad valitsejad"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/mooses?authuser=0",
+          "title": "Mooses"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/taavet?authuser=0",
+          "title": "Taavet"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.slideshare.net/kudisiim/foiniikia-linnad-220949",
+          "title": "Foiniikia linnad"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3447",
+          "title": "Foiniikia tähestik"
+        },
+        {
+          "kind": "link",
+          "href": "https://kultuur.err.ee/303668/ringo-ringvee-filmist-exodus-jumalad-ja-kuningad-ullatav-kuidas-jumalat-kujutatakse",
+          "title": "Film “Exodus: Jumalad ja kuningad”. Ringo Ringvee kommentaar Ringvaates"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=5w77E9SSs0w&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=20"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=vEaZJDw7y0M&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=21"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=BkGbHUhhFEM&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=22"
+        },
+        {
+          "kind": "link",
+          "href": "https://jupiter.err.ee/1608465368/ajalugu-viie-minutiga",
+          "title": "Suhtlus antiikajal (foniiklased)"
+        },
+        {
+          "kind": "link",
+          "href": "https://museum.jewish.ee/muuseumist/opetajale/",
+          "title": "Judaismi lühiülevaade"
+        },
+        {
+          "kind": "link",
+          "href": "https://vara.e-koolikott.ee/h5p/embed/506",
+          "title": "Lünktekst Foiniikia kohta"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3445",
+          "title": "Foiniikia kohta tõeste väidete leidmine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3304",
+          "title": "Foniiklaste merereisid"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3728",
+          "title": "Iisraeli riik ja rahvas"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3463",
+          "title": "Sündmuste järjestamine Iisraeli ajaloos"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3538",
+          "title": "Kaarditöö"
+        },
+        {
+          "kind": "link",
+          "href": "https://drive.google.com/file/d/1S4Ml6i36dH74BcJMSkIkoLxIz_pwOKY1/view",
+          "title": "Rühmatöö hindamise juhend"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/4910458"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/4914218"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3550",
+          "title": "Vana-Hiina ja Vana-India"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3552",
+          "title": "Geograafilised paigad"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/sotsiaalopetajaraamat/hindamismudelid",
+          "title": "Näiteid hindamisjuhenditest"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/display?v=pezx3hqd323"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=EDy6pZOtA5Y&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=25"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=uwdRLdzmspw&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=27"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3185",
+          "title": "Vana-Kreeka põllumajandus"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3695",
+          "title": "Knossose palee"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3694",
+          "title": "Kreeta kultuur"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=4zWLiTZfRQA&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=28"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=hDoklA2TZc8&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=29"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=11ji_B7s_-0&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=30"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=EGMPLL2JPX4&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=34"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/testid/4309",
+          "title": "Vana-Kreeka linnriikide valitsemine (diagnostiline test), testi ID 4309"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3187",
+          "title": "Vana-Kreeka poliste valitsemiskorraldus"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3145",
+          "title": "Poliste tõus ja langus"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3409",
+          "title": "Ateena akropol"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3141",
+          "title": "Vana-Kreeka riikluse kujunemine"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3218",
+          "title": "Kreeka polise kodanik"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3219",
+          "title": "Ühiskonnakorraldus ja kasvatus Ateenas ning Spartas"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=mAnK60K44_A&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=31"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=V08p2fcad9c&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=32"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/vana-kreekakultuur/avaleht",
+          "title": "Vana-Kreeka kultuur. E-muuseumitund Tartu Ülikooli Kunstimuuseum"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/28008-Tartu-Ulikooli-muuseumi-Tartu-tahetorni-ja-ulikooli-kunstimuuseumi-materjalid/252164",
+          "title": "Kreeka rõivamood antiikajal"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/display?v=pbex5emz218"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3140",
+          "title": "Vana-Kreeka kultuur"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3447?lang=et",
+          "title": "Herodotos"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3188",
+          "title": "Kreeka teater"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3696",
+          "title": "Vana-Kreeka olümpiamängud"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3142",
+          "title": "Vana-Kreeka mõisted"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=II33clX3h3Q&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=35"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/display?v=prtvtaojc16"
+        },
+        {
+          "kind": "embed",
+          "src": "https://learningapps.org/display?v=pbjt5d7i221"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=vgoBmoNjIdc&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=36"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=uY6rh0uTQuk&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=38"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=uBuAh5pEEIQ&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=39"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3598",
+          "title": "EIS kaart"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3548",
+          "title": "Itaalia esimesed valitsejad"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/julius-caesar?authuser=0",
+          "title": "Julius Caesar"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/hannibal?authuser=0",
+          "title": "Hannibal"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=FNSZgxw0-Hw&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=40"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=Rg-m4BOklLE"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=KXAWLjjfiVU&t=3s"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/video/vaata/reisile-minuga-kartaago",
+          "title": "Reisile minuga. Kartaago"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3226",
+          "title": "Rooma vabariigi kujunemine"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=D-8JwD6IhY0&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=45"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3730",
+          "title": "Roomlaste eluolu"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3308",
+          "title": "Roomlaste riietus ja pere"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/sotsiaalopetajaraamat/hindamismudelid?authuser=0",
+          "title": "Hindamismudelid"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=e6qV4R04BWg&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=44"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/4802",
+          "title": "Rooma muutumine suurriigiks"
+        },
+        {
+          "kind": "link",
+          "href": "https://sites.google.com/view/isikulood/augustus?authuser=0",
+          "title": "Augustus"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3735",
+          "title": "Gaius Julius Caesar"
+        },
+        {
+          "kind": "link",
+          "href": "https://eis.ekk.edu.ee/eis/lahendamine/3736",
+          "title": "Keiser Augustus"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=G8Hha96NXjM&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=43"
+        },
+        {
+          "kind": "video",
+          "src": "https://www.youtube.com/watch?v=KWRuenzfwbw&list=PLH55BK1JEw-qymLPzQZRaKTKnGFmdsNTD&index=46"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/15719-Vana-Rooma-ajaloo-etapid",
+          "title": "Vana-Rooma ajaloo etapid"
+        },
+        {
+          "kind": "link",
+          "href": "https://arhiiv.err.ee/video/vaata/buratino-tegutseb-jalle-rooma-keisrid",
+          "title": "Buratino tegutseb jälle: Rooma keisrid"
+        },
+        {
+          "kind": "link",
+          "href": "https://e-koolikott.ee/et/oppematerjal/28588-Vana-Rooma-kultuuri-pohimoisted-EIS-diagnostiline-test",
+          "title": "Vana-Rooma diagnostiline test EIS keskkonnas"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453866/O%CC%83ppetegevust%20aktiivistavad%20meetodid.docx?version=1&modificationDate=1706621646162&api=v2",
+          "title": "Õppetegevust aktiivistavad meetodid.docx"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Muinasaeg",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab, et ajaloo periodiseerimine on kokkuleppeline, nimetab ajalooperioode ja sündmusi, mis on aluseks ajaloo periodiseerimisele, põhjendab oma valikut",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab ajaarvamisega seotud mõisteid asjakohaselt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid, kuidas ühiskonna ja elukeskkonna areng mõjutavad inimeste igapäevaelu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab narratiivi loomisel ajaloomõisteid asjakohases kontekstis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab muinasaja perioode ja toob näiteid erinevate perioodidele iseloomulikest tunnustest, avastustest ja leiutistest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab muinasaja inimese eluviisi ja tegevusalasid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seletab ja kasutab mõisteid kontekstis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Muinasajal hakkasid inimesed üle minema toidu korjamiselt ja jahipidamiselt põllumajandusele. See oli niivõrd oluline muutus, et seda nimetatakse põllumajanduslikuks revolutsiooniks. See võimaldas saaki suurendada ja tekkisid püsiasulad, mis viis tsivilisatsioonide tekkimiseni. Muinasajal tehti suuri edusamme tööriistade ja tehnoloogia valdkonnas. Näiteks võeti kasutusele metallid. Muinasaegne ühiskond oli sõltuv looduslikest ressurssidest ning inimesed pidid neid ressursse hoolikalt kasutama ja jälgima, et neid ei ammendataks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>esiaeg ehk muinasaeg, vanaaeg, keskaeg, uusaeg, lähiajalugu, eKr, pKr, sajand, aastatuhat, kümnend, araabia number, Rooma number, ajalooallikad, arheoloogia; inimese kujunemine, kiviaeg, pronksiaeg, rauaaeg, sugukond, küttimine ja korilus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused, lõiming, kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Töö ajajoonega: ajaloo jagamine on tinglik. Töö erinevate allikatüüpidega: ajalooallikate liigitamine. Pildiülesanne: tuua välja igale muinasaja perioodile tehnoloogiline uuendus. Pildianalüüs: pilt Eesti esimeste elanike asula paikadega, kuid pildil esineb vigu. Ajajoone koostamine muinasaja perioodidest.</p><p>Lõiming: matemaatikapädevus, õpipädevus, digipädevus, teabekeskkond ja meediakasutus, matemaatika, eesti keel, usundiõpetus. Kontroll ja hindamine: ajajoone joonistamine, ajalooperioodide järjestamine, lühijutt, pildianalüüs ja seoste loomine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Muinasaeg Eestis",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab mõnda inimeste ajaloolist asulat, kirjeldab selle tekkimise ja kujunemise põhjusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja esitleb lugusid oma kodukoha minevikust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab muinasaja inimese eluviisi ja tegevusalasid Eestis",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab esimesi asulaid: Pulli ja Kunda Lammasmägi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab mõnda kodukohas asuvat muistist või kodukoha inimasustuse tekkelugu",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pulli, Kunda Lammasmägi, alepõld, kindlustatud asula, kalmed</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused, lõiming, kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Töö kaardiga (kontuurkaardi täitmine): kaardile kantakse Kunda Lammasmägi, Pulli asula. Kristo Siig videote põhjal võrdleva tabeli täitmine: kiviaeg, pronksiaeg, rauaaeg - lühiiseloomustus, peamised uuendused. Arutelu iga video vaatamise järel. Film “Välek Vibulane”. Õppekäik kooli või kodukoha ümbruses.</p><p>Lõiming: õpipädevus, suhtluspädevus, kultuuriline identiteet, teabekeskkond ja meediakasutus, kunstiõpetus. Kontroll ja hindamine: võrdlev tabel, empaatiaülesanne, grupitöö, RATT/RAFT.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vanad Idamaad",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "toob näiteid inimtegevuse ja looduskeskkonna vastastikusest mõjust minevikus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab teaduse ja tehnika arengut mõjutanud tähtsamaid avastusi ja leiutisi ning selgitab nende tähtsust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, miks, kus ja millal tekkisid vanaaja kõrgkultuurid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab näidata kaardil Egiptust, Mesopotaamiat, Vana Indiat ja Vana Hiinat",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esimesed suured riigid tekkisid sooja kliimaga aladel üleujutavate jõgede orgudes, kus liikumine toimus peamiselt veeteede kaudu. Tänu üleujutustele oli muld viljakas ja sai tegeleda viljakasvatusega. Tekkis tööjaotus ning võrdsete inimeste kogukonnast eraldusid ajapikku teised ühiskonnakihid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>tsivilisatsioon ehk kõrgkultuur, Egiptus ja Niilus, Mesopotaamia - Eufrat ja Tigris, Hiina - Huanghe ja Jangtse, India - Indus ja Ganges</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Mesopotaamia",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "toob näiteid, kuidas ühiskonna ja elukeskkonna areng mõjutavad inimeste igapäevaelu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ajaloolisi isikuid ja põhjendab nende olulisust kultuuriloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, milline oli Mesopotaamia riiklik korraldus",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kes oli Hammurapi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab Mesopotaamia kultuuripärandi tähtsust inimkonna ajaloos ning oskab tuua näiteid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sumerid, linnriik, Babüloonia, Hammurapi, seaduste kogu, kiilkiri, savitahvel, tsikuraat, Ištar, Marduk, potikeder ja ratas, Gilgameš</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Egiptus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "nimetab teaduse ja tehnika arengut mõjutanud tähtsamaid avastusi ja leiutisi ning selgitab nende tähtsust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ajaloolisi isikuid ja põhjendab nende olulisust kultuuriloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab narratiivi loomisel ajaloomõisteid asjakohases kontekstis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, milline oli Egiptuse riiklik korraldus ning kes olid Thutmosis III, Ramses II, Tutanhamon",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab vanaaja elulaadi ja religiooni Egiptuse näitel",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb Egiptuse kultuuri- ja teadussaavutusi meditsiinis, matemaatikas, astronoomias",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid kujutavast kunstist, teab mõnda Egiptuse püramiide",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vaarao, preestrid, templid, ametnikud, orjad, hieroglüüfid, papüürus, palsameerimine, muumia, sarkofaag, püramiidid, kalender, aritmeetika ja geomeetria</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vahemere idaranniku kõrgkultuurid: Foiniikia, Iisraeli ja Juuda riik",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "toob näiteid sündmustest ja protsessidest maailma ajaloos",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et foiniiklased head meresõitjad, võtsid kasutusele tähestiku",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et Iisraelis tekkis monoteistlik religioon",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mis on Vana Testament",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tähestik, meresõitjad, Kartaago Ainujumala usk, Jahve, Mooses, Vana Testament, kümme käsku</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vana-India ja Vana-Hiina",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "nimetab teaduse ja tehnika arengut mõjutanud tähtsamaid avastusi ja leiutisi ning selgitab nende tähtsust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et inimeste arusaam maailmast sõltub ajaloolisest kontekstist ja inimese sotsiaalsest rollist ühiskonnas.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et Vana-India ja Hiina kõrgkultuurid tekkisid suurte jõgede äärde",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mis on kastisüsteem",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid India ja Hiina avastustest ja leiutistest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab, et erinevates piirkondades on erinevad usulised tõekspidamised ja väärtussüsteemid, mida ei ole õige hinnata tänapäeva kontekstis",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vana-India ja Vana-Hiina kuuluvad maailma vanimate kõrgkultuuride hulka. Sealt on pärit mitmed teadmised ja leiutised, mida igapäevaelus kasutame. Tänapäeva Hiina Rahvavabariik ja India Vabariik on maailma suurima rahvaarvuga riigid ning avaldavad olulist mõju maailma majandusele ja poliitikale.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>India ja Indus, Ganges, kastisüsteem, usulised tõekspidamised, budism, kunst, kirjandus, arvutussüsteem, male, Hiina ja Huang He, Jangtse, keisriigi algus, Hiina müür, Suur Siiditee, kompass, paber, Konfutsius</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kreeta-Mükeene kultuur",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab narratiivi loomisel ajaloomõisteid asjakohases kontekstis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid sündmustest ja protsessides maailma ajaloos",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab näidata kaardil: Kreeka, Kreeta, Balkani poolsaar, Ateena, Sparta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et Vana-Kreeka tsivilisatsioon sai alguse Kreeta-Mükeene kultuurist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Balkani poolsaar, Hellas ja hellenid, barbarid, Kreeka, Kreeta, Ateena, Sparta, Knossos, Mükeene</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kreeka linnriigid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab näiteid erinevatest ühiskonnaelu vormidest antiikajal ja kirjeldab nende erisusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab joonise abil ajaloolist asulat",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid ajaloomälestistest ja selgitab, miks need on kultuuriloos olulised",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab Vana-Kreeka ühiskonnakorraldust ja eluolu Ateena ja Sparta näitel, võrdleb neid kirjelduse põhjal",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seletab ja kasutab järgmisi mõisteid: polis, rahvakoosolek, akropol, agoraa, türann, aristokraatia, demokraatia, kodanik, ori",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>polis, rahvakoosolek, akropol, agoraa, türann, aristokraatia, demokraatia, kodanik, ori, Perikles, Kreeka-Pärsia sõjad (Maratoni lahing)</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vana-Kreeka kultuur ja teadus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "nimetab ajaloolisi isikuid ja põhjendab nende olulisust kultuuriloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et inimeste arusaam maailmast sõltub ajaloolisest kontekstist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab erinevate allikatüüpide eripära, hinnates nende usaldusväärsust",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid Vana-Kreeka kultuuri- ja teadussaavutustest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada tähtsamaid kreeka mõtlejaid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "jutustab olümpiamängudest ja kreeka kunstist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "püüab vaadelda maailma minevikus elanud inimeste pilgu läbi ning mõistab Vana-Kreeka kultuuri mõju Euroopa ajaloole",
+          "outcomeType": "competence"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Homeros, eeposed “Ilias” ja “Odüsseia” Herakles, komöödia ja tragöödia, Zeus, Olümpia, olümpiamängud, 776 eKr, templid, arhitektuur, skulptuur, vaasimaalid, Herodotos, nt Pythagoras, Hippokrates, Sokrates, Platon, Aristoteles</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Hellenism",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "nimetab ajaloolisi isikuid ja põhjendab nende olulisust kultuuriloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid sündmustest ja protsessidest maailma ajaloos",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab näiteid erinevatest ühiskonnaelu vormidest antiikajal ja kirjeldab nende erisusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kes oli Aleksander Suur ja kirjeldab tema vallutuste tagajärgi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, mis on hellenism ning toob näiteid hellenismiaja kultuuri- ja teadussaavutustest",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aleksander Suur, hellenism, Aleksandria, seitse maailmaimet, nt Eukleides, Archimedes, Ptolemaios</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Rooma riigi tekkimine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "toob näiteid sündmustest ja protsessides maailma ajaloos",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ajaloolisi isikuid ja põhjendab nende olulisust kultuuriloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab narratiivi loomisel ajaloomõisteid asjakohases kontekstis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "paigutab ajatelejele ajaloosündmusi, kasutades õigesti ajaühikuid, lahendab ajateleje abil ülesandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab kaardil: Apenniini poolsaar, Vahemeri, Rooma linn, Tiberi jõgi, Alpi mäestik",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab Rooma riigi tekkelugu ning teab, kes oli Romulus ja miks on ta oluline Rooma kultuuriloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "paigutab ajatelejele Rooma linna asutamise aasta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ja kasutab kontekstis järgmisi mõisteid: Kapitoolium, foorum, ladina keel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Apenniini poolsaar, Vahemeri, Rooma, Tiberi jõgi, Alpi mäestik, Romulus, 753 eKr, Kapitoolium, foorum, ladina keel, etruskid</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Rooma vabariik",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ajaloosündmuse näitel põhjuse ja tagajärje seost",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ajaloolisi isikuid ja põhjendab nende olulisust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab Rooma vabariigi riigikorda",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja näitab kaardi abil Rooma riigi laienemist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kuidas said roomlased Vahemere maade valitsejateks",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seletab, miks ja kuidas lõppes vabariigi ajajärk",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kes oli Caesar ja ja põhjendab tema olulisust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>vabariik, senat, konsul, rahvakoosolek, Puunia sõjad, Hannibal, Kartaago, Caesar, leegion, kodusõda</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eluolu Vanas-Roomas",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab, et inimeste arusaam maailmast sõltub ajaloolisest kontekstist ja inimese sotsiaalsest rollist ühiskonnas",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid, kuidas ühiskonna ja elukeskkonna areng mõjutavad inimeste igapäevaelu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab narratiivi loomisel ajaloomõisteid asjakohases kontekstis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab eluolu Rooma riigis",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab mõisteid: patriitsid, plebeid, rahvatribuun, gladiaator ja kasutab neid õiges kontekstis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>patriitsid, plebeid, rahvatribuun, perekond, ori, gladiaator</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kultuur ja religioon Vanas-Roomas",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab, et inimeste arusaam maailmast sõltub ajaloolisest kontekstist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid ajaloomälestistest ja selgitab, miks need on kultuuriloos olulised",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid inimtegevuse ja looduskeskkonna vastastikusest mõjust minevikus",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab roomlaste usule iseloomulikke jooni",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab vanaaja kultuuripärandi tähtsust inimkonna ajaloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kes oli Jeesus Kristus ning mõistab tema olulisust kultuuriloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab uusi mõisteid õiges kontekstis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>templid, amfiteater, akvedukt, triumf, Colosseum, kristlus, Uus Testament, piibel</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Rooma keisririik",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "toob näiteid sündmustest ja protsessidest maailma ajaloos",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et ajaloo periodiseerimine on kokkuleppeline, nimetab ajalooperioode ja sündmusi, mis on aluseks ajaloo periodiseerimisele",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "paigutab ajateljele ajaloosündmusi ja -perioode, kasutades õigesti ajaühikuid; lahendab ajatelje abil ülesandeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ajaloolisi isikuid ja põhjendab nende olulisust kultuuriloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab Rooma keisririigi valitsemiskorda",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb Rooma ühiskonna üldist arengut keisririigi ajal",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, miks lõhenes Rooma keisririik",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kes oli Augustus ja põhjendab tema olulisust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, millal ja miks lagunes Rooma keisririik",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted, märksõnad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>provints, Lääne-Rooma, Ida-Rooma, Augustus, Konstantinoopol, 476, hunnid, suur rahvasterändamine</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

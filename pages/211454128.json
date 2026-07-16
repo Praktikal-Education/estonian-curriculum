@@ -1,0 +1,786 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Sissejuhatus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab kestliku arengu olemust ja selle olulisust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb majanduse jätkusuutlikkuse teemadel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb kestliku majandamist toetavate tehnoloogiliste võimaluste üle;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab tootmisahelate ja ringmajanduse olemust ning seoseid eri majandusharude ja eluvaldkondadega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kestlik areng.</li><li>Jätkusuutlik majandamine, selle olulisus.</li><li>Loodusvarade jätkusuutlik kasutamine.</li><li>Jätkusuutlikku majandamist toetav tehnoloogiline areng.</li><li>Lineaarne majandus ja ringmajandus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kestlik areng, jätkusuutlik majandus, ökoloogiline jalajälg, tootmisahel, ringmajandus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Koostab tootmisahela või ringmajandusmudeli (soovitav koostada konkreetsete alateemade käsitlemisel).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursuse sissejuhatuses on oluline aktualiseerida hoiakute kujundamiseks põhimõisted. Kursuse teemad on väga aktuaalsed, seotud nii kohalikul, riigi ja rahvusvahelisel tasandil vastuvõetud otsustega ja sõlmitud ühiskondlike kokkulepetega. Kursusel on oluline roll kujunda tarbimiskäitumist ja kestliku majandamise hoiakuid. Päevakajalistel teemadel väitlused arendavad oskust kaasa rääkida ühiskonna valupunktide aruteludes ning osaleda vastutustundlikult ühiskonnaelus. Tutvumine eri valdkondade majandusmudelitega avardab teadmisi karjäärivõimalustest ja nüüdisaegsetest tööoskustest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kursuse alguses on soovitav arutleda õpilastega kestliku arengu ja säästva majandamise olulisuse üle ning arutelu käigus mõtestada lahti teemaga seotud mõisteid, sest neid kasutatakse kõigi järgnevate teemade käsitlemisel. Mõistetest arusaamine loob eeldused hoiakute ja väärtushinnangute kujunemiseks. Kestliku arengu printsiipe ja ringmajanduse näiteid on otstarbekas käsitleda vastava teema (põllumajanduse, metsamajanduse ja energiamajanduse) õppimisel. Teemakohased õpitulemused saavutatakse kursuse lõpuks.</p><ul><li>Õpetaja viib läbi arutelu, mille käigus leitakse mõistele (kestlik areng, jätkusuutlik majandamine, lineaarne majandus, ringmajandus) selgitus ja aktuaalsed näited.</li><li>Tootmisahelate või ringmajandusmudelite koostamist on otstarbekas läbi viia rühmatöödena põllumajanduse, metsamajanduse ja energiamajanduse teemade käsitlemisel.</li><li>Teemade kokkuvõtteks saab korraldada klassis väitlusi.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Arutleb või väitleb kestliku arengu ja jätkusuutliku majandamise olulisuse teemadel ja toob vastavaid näiteid. (LT4, 7; kultuuri-ja väärtuspädevus) )</li><li>Otsib meediast näiteid, kuidas tehnoloogilised uuendused toetavad jätkusuutlikku majandamist. (LT 5; digipädevus)</li><li>Arutleb aktuaalsete keskkonnaprobleemide teemal, seostab need peamiste põhjustega ning toob näiteid nende lahendamise võimalustest. (LT 1, 4; sotsiaalne ja kodanikupädevus)</li><li>Koostab mõne teema käsitlemisel tootmisahela või ringmajandusmudeli. (LT 2, 5; digipädevus, õpipädevus, ettevõtlikkuspädevus, enesemääratluspädevus)</li><li>Arvutab enda ökoloogilise jalajälje ja arutleb, kuidas elustiil mõjutab maakera jätkusuutlikkust. Pakub välja võimalusi tarbimiskäitumise muutmiseks. (LT 7; sotsiaalne- ja kodanikupädevus)</li><li>Arutleb või väitleb kestliku arengu teemal. (LT 4, 7, 8; suhtluspädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Bioloogia: geneetika ja geenitehnoloogiaga seotud teadusharud ning elukutsed, GMO; keskkonnategurite mõju elusorganismidele; ökosüsteemid, keskkonnakaitse, säästva arengu strateegia, kodanikuaktiivsus keskkonnakaitsel.</p><p>Keemia: süsinikuühendid.</p><p>Füüsika: energia, aatomi-ja tuumafüüsika.</p><p>Ühiskonnaõpetus: majanduse toimimine.</p><p>Eesti keel ja võõrkeeled: töötamine teabematerjalidega arendab õpilaste teabe hankimise, teksti mõistmise ja analüüsimise oskusi. Õpilased õpivad kriitiliselt hindama teksti usaldusväärsust, eristama fakti ja arvamust.</p><p>Elukestev õpe ja karjääri kujundamine: tutvumine eri valdkondade majandusmudelitega avardab teadmisi karjäärivõimalustest ja nüüdisaegsetest tööoskustest.</p><p>Keskkond ja jätkusuutlik areng: arutelude ja teabe kaudu kujuneb jätkusuutlik tarbimiskäitumine ja arenevad kestliku majandamise hoiakuid.</p><p>Kodanikualgatus ja ettevõtlikkus: mõistab aktuaalsed ühiskonnaprobleeme nii kohalikul, riigi ja rahvusvahelisel tasandil ja teab sõlmitud ühiskondlikke kokkuleppeid.</p><p>Teabekeskkond ja meediakasutus: arutelude ja uurimuslike ülesannete tarbeks kasutab info otsimiseks turvaliselt teabekeskkonda, hindab allikaid kriitiliselt, austab intellektuaalset omandit ja loob kvaliteetset meediasisu.</p><p>Tehnoloogia ja innovatsioon: seostab kestliku arengu ja jätkusuutliku majandamise tehnoloogia arenguga, kasutab otstarbekalt õpikeskkondi.</p><p>Väärtused ja kõlblus: väärtustab jätkusuutlikkuse põhimõtet ja järgib ühiskondlikke kokkuleppeid (näiteks prügi sorteerimine, taaskasutus).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpilase osalemisele aruteludes ja väitlustes antakse suulist tagasisidet.</li><li>Tootmisahela või ringmajandusmudeli koostamist hinnata hindamismudeli alusel (mudeli õigsus, vormistus, osalemine rühmatöös, allikate kasutamine).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.terveilm.ee/leht/teabekeskuse-teemad/kestliku-arengu-eesmargid/",
+              "title": "Terveilm"
+            },
+            {
+              "kind": "link",
+              "href": "https://valitsus.ee/strateegia-eesti-2035-arengukavad-ja-planeering/strateegia",
+              "title": "Strateegia „Eesti 2035“"
+            },
+            {
+              "kind": "link",
+              "href": "https://sdgs.un.org/goals",
+              "title": "ÜRO Kestliku arengu eesmärgid"
+            },
+            {
+              "kind": "link",
+              "href": "https://ringmajandus.envir.ee/et/edulood",
+              "title": "Ringmajandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaportaal.ee/et/ringmajandus/teadlikkust-tostvad-materjalid-ja-viited",
+              "title": "Keskkonnaportaal. Ringmajandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/29805/trash-hack-kestliku-arengu-alase-tegevusoppe-juhendmaterjal/",
+              "title": "Mondo MTÜ. Maailmakool"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/?c=et",
+              "title": "Mondo MTÜ. Maailmakool"
+            },
+            {
+              "kind": "link",
+              "href": "https://jalajalg.positium.ee/",
+              "title": "Ökoloogilise jalajälje kalkulaator"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.energiakeskus.ee/odyssey-opipaketid/",
+              "title": "Energia avastuskeskus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Põllumajandus ja keskkonnaprobleemid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "arutleb maailma toiduprobleemide ning nüüdisaegse põllumajanduse, sh tehnoloogia võimaluste üle nende lahendamisel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab põllumajanduse osa toidu tootmisahelas, seost teiste majandusharude ja eluvaldkondadega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb muldade hävimise ja selle peatamise võimaluste üle;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab eri tüüpi põllumajandusettevõtteid maailmas, seostab neid kohalike oludega ja analüüsib nende mõju keskkonnale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib teabeallikate põhjal mõne riigi põllumajandust mõjutavaid tegureid, põllumajanduslikku tootmist ja selle mõju keskkonnale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab põhjavee kasutamisega kaasnevaid keskkonnaprobleeme eri piirkondade näidetel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab vesiviljelust ja selle mõju veekeskkonnale mõne piirkonna näitel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Maailma toiduprobleemid ja nende lahendamise võimalused.</li><li>Põllumajanduse roll toidu-tootmisahelas ning seosed teiste majandusharudega.</li><li>Põllumajandust mõjutavad looduslikud ja majanduslikud tegurid.</li><li>Eri tüüpi põllumajandusettevõtted maailmas, nende seos kohalike oludega (loodusolud, majanduslik arengutase jms).</li><li>Põllumajanduse mõju keskkonnale, sh veevarudele.</li><li>Nüüdisaegne jätkusuutlik põllumajandus.</li><li>Maailma kalandus ja vesiviljelus ning selle mõju veekeskkonnale.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>vegetatsiooniperiood, põllumajanduse spetsialiseerumine, omatarbeline ja kaubanduslik põllumajandus, ekstensiivne ja intensiivne põllumajandus, mahepõllumajandus, niisutuspõllundus, alanduslehter, mullaviljakus, muldade erosioon, muldade sooldumine ja degradeerumine, vesiviljelus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Teabeallikate põhjal ülevaate koostamine ühe valitud riigi põllumajandusest või vesiviljelusest või mitme riigi võrdlev analüüs.</li><li>Põllumajandusmaastike analüüsimine kaardirakenduste sh satelliidifotode põhjal ning võimalike keskkonnamõjude hindamine.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Põllumajanduse ja keskkonnaprobleemide teema õppimise tulemusel mõistavad õppijad toiduga kindlustatuse, põllumajanduse keskkonnamõju, põllumajanduse tööhõive ja teadliku tarbija rolli tähtsust maailma tasandil. Õpilaste teadlikkus põllumajandusest ja sellega seotud probleemidest aitab neil mõista, kuidas toit meie lauale jõuab ja kuidas nad saavad toiduga kindlustatuse parandamisele kaasa aidata. Õpilased mõistavad, et põllumajandustegevusel on oluline mõju keskkonnale, sealhulgas vee kasutamine, maakasutus, õhusaaste ja kasvuhoonegaaside heitkogused. Säästva põllumajanduse põhimõtted ja uued tehnoloogiad aitavad säilitada loodusvarasid ja vähendada keskkonnamõju. Õpilased väärtustavad põllumajanduslikke karjääri võimalusi ja mõistavad nüüdisaegse põllumajandustöötaja oskuste vajadust. Teema käsitluse jooksul mõistavad õppijad, kuidas nende tarbimisharjumused aitavad neil teha jätkusuutlikumaid ja keskkonnasõbralikumaid valikuid. Statistika andmebaaside kasutamisel areneb õpilaste ITK kasutamise, info otsimise, töötlemise ja analüüsimise oskus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Põllumajanduse teema õppimise tulemusel mõistavad õppijad toiduga kindlustatuse ja teadliku tarbija rolli tähtsust ning põllumajanduse keskkonnamõjusid. Õpitakse kasutama FAO põllumajanduse andmekogusid ja analüüsima riikide loodusolude mõju põllumajanduslikule tootmisele ning põllumajanduse mõju keskkonnale. Soovitav on maailma põllumajanduse ja vesiviljeluse taustal võrrelda samu majandustegevusi ka Eestis. Teema õppimisel tutvuvad õpilased põllumajandusliku karjääri võimalustega ja oskustega, mis on vajalikud kaasaegses põllumajandusettevõttes töötamiseks.</p><p>Põllumajanduse toimimise paremaks mõistmiseks võiksid õpilased uurida mõne riigi põllumajandust, võrrelda riikide maakasutust ja põllumajanduse spetsialiseerumist, analüüsida satelliidipilte ning korraldada arutelusid põllumajanduspoliitika, maailma toidutootmise probleemide ja tulevikupõllumajanduse üle.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Harjutab põllumajandusega seotud mõistete kasutamist E-koolikoti vastava kursuse ülesandeid lahendades. (Õpipädevus)</li><li>Koostab ühe toidukauba tooteahela või ringmajandusmudeli ning analüüsib põllumajanduse või vesiviljeluse osa selles. (LT 2, 5, 8; digipädevus, õpipädevus, ettevõtlikkuspädevus, enesemääratluspädevus)</li><li>Koostab valitud riigi põllumajanduse ülevaate või võrdleb kahe riigi põllumajandust. Vormistab korrektse esitluse, teeb suulise ettekande. (LT 1, 3, 5; õpipädevus, matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus, suhtluspädevus)</li><li>Analüüsib satelliidipiltide abil põllumajanduslikku tootmist eri tüüpi põllumajandusettevõtetes ühe piirkonna näitel ja selle mõju keskkonnale. Toob välja seosed looduslike ja ühiskondlike teguritega. Või koostab mõistekaardi põllumajanduse ja vesiviljelusega seotud keskkonnamõjude kohta. (LT 1, 2, 4, 5; õpipädevus, kultuuri-ja väärtuspädevus, digipädevus)</li><li>Arutleb EL või Eesti põllumajanduspoliitika, maailma toidutootmise probleemide ja jätkusuutlike tehnoloogiate üle, koostab ühe tehnoloogia kasutuse (n mahepõllumajanduse) SWOT analüüsi. (LT 4, 7, 8; suhtluspädevus, sotsiaalne ja kodanikupädevus, enesemääratluspädevus)</li><li>Uurib ja esitleb ühte toidutootmisega (põllumajanduse või vesiviljelusega) seotud probleemi. (LT 2, 4, 5; suhtluspädevus, sotsiaalne ja kodanikupädevus)</li><li>Koostab lühiülevaate ühe kultuurtaime kasvatamisest mõnes piirkonnas seostades selle loodusoludega, esitleb oma tööd. (LT 5; õpipädevus, suhtluspädevus, digipädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Bioloogia: geneetika ja geenitehnoloogiaga seotud teadusharud ning elukutsed, GMO; keskkonnategurite mõju elusorganismidele; ökosüsteemid, keskkonnakaitse, säästva arengu strateegia, kodanikuaktiivsus keskkonnakaitsel.</p><p>Keemia: lahused, keemilise reaktsiooni kiirus; lämmastiku- ja fosfori ringe; väetiste ja taimekaitsevahendite kasutamisega kaasnevad ohud; muldade pH ja selle tähendus.</p><p>Ajalugu: omatarbelise ja kaubandusliku põllumajanduse areng eri ajalooperioodidel, kodupiirkonna põllumajanduse areng.</p><p>Ühiskonnaõpetus: üleilmsed probleemid, tööjõu õiglane kasutamine, arenenud riikide toiduabi.</p><p>Matemaatika: statistiliste andmete töötlemine, visualiseerimine (tulemuste esitamine tabelite ja graafikutena), analüüs ja tulemuste tõlgendamine.</p><p>Elukestev õpe ja karjääri kujundamine: õpilased teavad põllumajandusliku karjääri võimalusi ja mõistavad, mis oskustega töötajaid vajab nüüdisaegse põllumajandus.</p><p>Keskkond ja jätkusuutlik areng: arutelude ja uurimuslike ülesannete kaudu omandavad õpilased teadmisi põllumajandusliku tootmise keskkonna mõjust ja võimalustest tagada toiduga kindlustatus maailmas. Toob näiteid ringmajanduse põhimõtete rakendumisest toidutootmises.</p><p>Kodanikualgatus ja ettevõtlikkus: mõistab aktuaalsed toidutoomise probleeme nii kohalikul, riigi ja rahvusvahelisel tasandil. On koolikeskkonnas säästlik tarbija.</p><p>Tehnoloogia ja innovatsioon: toob näiteid kestlikku toidutootmist toetavatest tehnoloogiatest ja innovatsioonist.</p><p>Tervis ja ohutus: väärtustab jätkusuutlikku toidu tootmist ja tarbimist, teeb sellele toetudes tervist edendavaid tarbimisotsuseid.</p><p>Väärtused ja kõlblus: teab ja väärtustab õiglase kaubanduse põhimõtteid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpilase osalemisele aruteludes ja väitlustes antakse suulist tagasisidet.</li><li>E-koolikoti harjutusülesanded võimaldavad tõhusat enesehindamist.</li><li>Riigi põllumajanduse, vesiviljeluse või keskkonnamuutuste ülevaate koostamist hinnatakse eristavalt hindamismudeli alusel (sisuline õigsus, seoste sõnastamine, vormistamine, esitlemine, osalemine rühmatöös).</li><li>Tootmisahela või ringmajandusmudeli koostamist hinnata hindamismudeli alusel (mudeli õigsus, vormistus, osalemine rühmatöös, allikate kasutamine).</li><li>Kokkuvõttev arvestustöö - eristav hindamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18935-Geograafia-3-kursus-Loodusvarade-majandamine-ja-keskkonnaprobleemid",
+              "title": "E-Koolikott Geograafia 3. kursus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.fao.org/faostat/en/#rankings/commodities_by_country",
+              "title": "FAOSTAT"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.cia.gov/the-world-factbook/",
+              "title": "CIA The The World Factbook"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/16666-Ekstensiivne-pollumajandus",
+              "title": "E-koolikott ptk. 3.1.5 ül. 7, 8, 9"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/14253-Arenenud-ja-arengumaade-pollumajanduse-vordlus",
+              "title": "E-koolikott ptk. 3.1.7 ül. 9"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/14303-Pollumajanduse-moju-keskkonnale",
+              "title": "E-koolikott ptk. 3.1.10 ül. 9"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/14596-Tulevikupollumajandus",
+              "title": "E-koolikott ptk. 3.1.6"
+            },
+            {
+              "kind": "link",
+              "href": "https://agclassroom.org/student/virtual/",
+              "title": "Videod"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/13784-Kalandus-ja-vesiviljelus",
+              "title": "E-Koolikott ptk. 3.1.8"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.fairtrade.ee/teabekogu",
+              "title": "Õiglane kaubandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://ipad.fas.usda.gov/cropexplorer/Default.aspx",
+              "title": "Kasvatuspiirkonnad"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.fao.org/news/stories-archive/en/",
+              "title": "FAO Story"
+            },
+            {
+              "kind": "link",
+              "href": "https://eestibiogaas.ee/",
+              "title": "Biogaasi ettevõte"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/pollumajandus-kalandus-ja-jahindus",
+              "title": "Statistikaamet. Põllumajandus"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/WfJY1taM3LE?si=hmSjkssTFIJcl79S"
+            },
+            {
+              "kind": "link",
+              "href": "https://tractorguru.in/blog/top-10-agriculture-production-countries-statistics-of-2022/",
+              "title": "TOP 10 põllumajandustootjat"
+            },
+            {
+              "kind": "link",
+              "href": "https://ipad.fas.usda.gov/ogamaps/cropproductionmaps.aspx",
+              "title": "Põllumajandustoodangu kaardid piirkonniti"
+            },
+            {
+              "kind": "link",
+              "href": "https://storymaps.arcgis.com/stories/620cc347bf084faab3c722f59211a1d4",
+              "title": "Eesti maahõive 2023"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaportaal.ee/et/teemad/muld-ja-maahoive",
+              "title": "Muld ja maahõive"
+            },
+            {
+              "kind": "link",
+              "href": "https://kaur.maps.arcgis.com/apps/MapSeries/index.html?appid=9db1c0379be24a13a94c5ad6e4829320",
+              "title": "ELME"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.agri.ee/maaelu-pollumajandus-toiduturg/pollumajandus-ja-toiduturg/ulevaated-ja-statistika",
+              "title": "Regionaal- ja põllumajandusministeerium"
+            },
+            {
+              "kind": "link",
+              "href": "https://oceans-and-fisheries.ec.europa.eu/index_et",
+              "title": "EK. Ookeanid ja kalandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://maailmakool.ee/materjalid/100089/kuidas-mojutavad-kliimamuutused-vaiketalunikke-ja-mis-on-fairtradei-roll/",
+              "title": "Videod kliimamuutuste mõjust väiketalunikele"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Metsamajandus ja -tööstus ning keskkonnaprobleemid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab kestliku metsamajanduse olemust ja selle olulisust ning selgitab metsamajanduse ja -tööstusega seotud keskkonnaprobleeme;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab metsavarude hindamise võimalusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab metsatüüpe ja maailma metsarikkamaid piirkondi ning seostab neid metsa kasutamise võimalustega;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb teabeallikate põhjal metsamajandust ja -tööstust eri riikides;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb ökosüsteemi teenuste üle metsa näitel ja selgitab puidu rolli süsinikuringes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Metsavarude hindamise võimalused.</li><li>Eri tüüpi metsade levik, nende majandamine ja kaitse.</li><li>Metsade hävimine ja selle põhjused.</li><li>Erinevate loodus- ja majandusoludega riikide metsamajandus- ja metsatööstus.</li><li>Metsamajanduse- ja -tööstusega seotud keskkonnaprobleemid.</li><li>Metsa ökosüsteemi teenused, roll aineringetes. Kestlik metsamajandus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>metsatüüp, metsasus, puiduvaru, puidu juurdekasv, raiemaht, metsamajandus, jätkusuutlik metsamajandus, metsade raadamine, metsaistandus, hoiumets, kaitsemets, tulundusmets, püsimetsandus, metsatööstus, metsatööstuse klaster, puidu väärindamine, ökosüsteemi teenused.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Teabeallikate põhjal ülevaate koostamine ühe valitud riigi metsamajandusest ja -tööstusest või riikide metsamajanduse võrdlus.</li><li>Metsamaastike analüüsimine kaardirakenduste sh satelliidifotode põhjal ning võimalike metsamajanduslike keskkonnamõjude hindamine.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Maailma metsamajanduse ja -tööstuse teemat õppides jätkatakse põhikoolis omandatud teadmiste süvendamist ja väärtushinnangute kujundamist. Oluline, et õpilased mõistaksid, milline on metsade roll loodusliku tasakaalu säilitamisel, kliimamuutustes või paljude inimeste igapäevaelus. Maailma eri piirkondade metsatüüpe, metsamajandust ja -tööstust tundes mõistavad õpilased metsa erinevaid kasutusvõimalusi ja keskkonnaalaseid väljakutseid eri kultuurilistes ja majanduslikes kontekstides. Teema käsitlemise jooksul suureneb õppijate teadlikkus karjäärivõimalustest ja uutest tehnoloogiatest metsamajanduses. Tutvumine kestliku arengu põhimõtetega aitab kujundada jätkusuutlikke tarbimisharjumusi. Info otsimine ja andmete analüüs arendab õpilaste ITK -vahendite kasutamise ja üldistamise oskust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Metsamajanduse ja -tööstuse teema õppimisel saavad õpilased toetuda põhikoolis omandatud teadmistele loodusvöönditest ja Eesti metsamajandusest. Teema käsitlemise jooksul tutvustakse õppijatele metsamajandusliku karjääri võimalusi ja nüüdisaegse matsamajandustöötaja oskusi.</p><ul><li>Eri bioomide metsade eripära, majandamise ja keskkonnaprobleemide analüüsiks on soovitav koostada ülevaatlik tabel või rühmatööna mõistekaardid.</li><li>Ökosüsteemi teenuste mitmekesisuse peaks siduma elurikkusega.</li><li>Õpilased võivad otsida infot ja koostada ülevaate mõne riigi metsamajandusest ja metsatööstusest või metsade raadamisega seotud keskkonnaprobleemidest.</li><li>Klassis võib läbi viia arutelu metsade säästliku majandamise ja kaitse üle.</li><li>Kasuks tuleb metsamajanduse või -tööstuse teemaliste videote vaatamine.</li><li>Võimalusel korraldada õppekäik mõnda RMK keskusesse ja osaleda metsamajanduslikus programmis.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Harjutab metsatööstusega seotud mõistete kasutamist E-koolikoti kursuse ülesandeid lahendades. (Õpipädevus)</li><li>Arutleb kestliku metsamajanduse olemuse ja selle olulisuse üle, olles eelnevalt tutvunud meediaartiklitega, kus on käsitletud metsamajanduse ja -tööstusega seotud keskkonnaprobleeme. Toob näiteid kestliku metsamajanduse võimalustest. (LT 4, 7, 8; suhtluspädevus, sotsiaalne ja kodanikupädevus, enesemääratluspädevus)</li><li>Koostab maailma metsatüüpide võrdleva tabeli või rühmatööna mõne metsatüübi mõistekaardi. Märgib metsatüübid kontuurkaardile. (Õpipädevus)</li><li>Uurib kaartidelt, kuidas on muutunud eri piirkondade metsasus ja analüüsib muutuse põhjusi. (LT 1, 2, 3; digipädevus)</li><li>Võrdleb FAO andmete põhjal eri riikide metsatööstuse tooteid ja nende eksporti ja importi. (LT 3, 5; õpipädevus, matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus)</li><li>Kirjeldab metsa ökosüsteemiteenuseid. (LT1, 7; kultuuri- ja väärtuspädevus)</li><li>Koostab paaris- või rühmatööna metsamajanduse tooteahela, ringmajandusmudeli või metsatööstusklastri mudeli. (LT 2, 5, 8; digipädevus, õpipädevus, ettevõtlikkuspädevus, enesemääratluspädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Bioloogia: keskkonnategurite mõju elusorganismidele; ökosüsteemid, keskkonnakaitse, säästva arengu strateegia, ökosüsteemiteenused, kodanikuaktiivsus keskkonnakaitsel, toiduainete tootmine.</p><p>Keemia: süsinikuühendid, puidukeemia.</p><p>Ühiskonnaõpetus: kriitilise analüüsioskuse ja otsustusvõimelise kodaniku kujundamine, jätkusuutlik areng, üleilmsed probleemid.</p><p>Matemaatika: statistiliste andmete töötlemine, visualiseerimine, analüüs ja tulemuste tõlgendamine.</p><p>Elukestev õpe ja karjääri kujundamine: õpilased teavad metsamajandusliku karjääri võimalusi ja mõistavad, mis oskustega töötajaid vajab nüüdisaegse metsamajandus.</p><p>Keskkond ja jätkusuutlik areng: arutelude ja uurimuslike ülesannete kaudu omandavad õpilased teadmisi metsamajanduse keskkonna mõjust ja metsade kestliku majandamise võimalustest.</p><p>Tehnoloogia ja innovatsioon: toovad näiteid kestlikku metsamajandamist toetavatest tehnoloogiatest ja eri majandamise viisidest. Kirjeldavad metsamajanduse ringmajanduse mudelit.</p><p>Väärtused ja kõlblus: väärtustavad metsade majandamise ühiskondlikke kokkuleppeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpilase osalemisele aruteludes ja väitlustes antakse suulist tagasisidet.</li><li>E-koolikoti harjutusülesanded võimaldavad tõhusta enesehindamist.</li><li>Riigi metsamajanduse või keskkonnamuutuste ülevaate koostamist hinnatakse eristavalt hindamismudeli alusel ( sisuline õigsus, seoste sõnastamine, vormistamine, esitlemine, osalemine rühmatöös).</li><li>Tootmisahela või ringmajandusmudeli koostamist hinnata hindamismudeli alusel (mudeli õigsus, vormistus, osalemine rühmatöös, allikate kasutamine).</li><li>Kokkuvõttev kontrolltöö - eristav hindamine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18935-Geograafia-3-kursus-Loodusvarade-majandamine-ja-keskkonnaprobleemid/221239",
+              "title": "E-Koolikott Geograafia 3. kursus"
+            },
+            {
+              "kind": "link",
+              "href": "https://na.unep.net/atlas/google.php",
+              "title": "ÜRO keskkonnahoiuatlas"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/14702-Metsade-raie-kui-globaalprobleem",
+              "title": "E-Koolikott ptk. 3.2.2"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.fao.org/faostat/en/#data/FO/visualize",
+              "title": "FAOSTAT"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/14732-Arenenud-ja-arengumaade-metsamajanduse-ja-metsatoostuse-vordlus",
+              "title": "E-koolikott ptk. 3.2.6"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/13915-Metsade-kaitse-ja-saastlik-majandamine",
+              "title": "E-koolikott ptk. 3.2.5"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.rmk.ee/eluring",
+              "title": "Meie ja metsa eluring"
+            },
+            {
+              "kind": "link",
+              "href": "https://kliimaministeerium.ee/elurikkus-keskkonnakaitse/looduskaitse/looduse-huved",
+              "title": "Kliimaministeerium. Looduskaitse"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/258844/uhe-minuti-loeng-mis-on-okosusteemiteenused",
+              "title": "Novaator. Ühe Minuti loeng \"Mis on ökosüsteemiteenused?\""
+            },
+            {
+              "kind": "link",
+              "href": "https://www.taxatio.ee/metsanduslikudmoisted",
+              "title": "Taxatio"
+            },
+            {
+              "kind": "link",
+              "href": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Forests,_forestry_and_logging#Forests_in_the_EU",
+              "title": "Eurostat Metsandus, metsamajandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://forestwatcher.globalforestwatch.org/",
+              "title": "Global Forest Watch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Energiamajandus ja keskkonnaprobleemid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "arutleb maailma energiamajanduse muutuste üle ning seostab energiamajanduse arengu kliimapoliitikaga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab teabeallikate põhjal energiaallikate paiknemist maailmas ja seostab neid kasutamise võimalustega;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib teabeallikate põhjal riikide energiamajandust ning sellega seotud majandus-, sotsiaal- ja keskkonnaprobleeme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb energiamajanduse jätkusuutlikkuse teemadel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Maailma energiaprobleemid.</li><li>Muutused energiamajanduses seoses kliimapoliitikaga, energiamajanduse jätkusuutlikkus.</li><li>Uued tehnoloogiad energiamajanduses.</li><li>Energiaressursside paiknemine maailmas ja eri riikide kasutusvõimalused.</li><li>Energiamajandusega kaasnevad majandus-, sotsiaal- ja keskkonnaprobleemid eri riikides.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>energiamajandus, energiajulgeolek, taastuvad ja taastumatud energiaallikad, fossiilsed kütused, tuuma-, hüdro-, tuule-, päikese-, biomassi-, loodete ja geotermaalenergia, energiakriis, Kyoto protokoll, saastekvoot, rohepööre</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Teabeallikate põhjal ülevaate koostamine mõne riigi või piirkonna energiamajandusest või riikide energiamajanduse võrdlus.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teema olulisus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Energiamajanduse õppimine aitab mõista, kuidas maailma energiavarustus toimib, ja millised on suurimad väljakutsed energiavarude ammendumise, kasvava energianõudluse ja energiaturgude volatiilsusega toimetulekuks. Teadmised energiaressursside jaotusest maailmas ja eri riikide võimalustest nende ressursside kasutamisel annavad võimaluse hinnata energiamajanduse mõju riikidevahelistele suhetele ja julgeolekule. Energiamajanduse käsitlemine avab õppijatele vaate karjäärivõimalustele tehnoloogiavaldkonnas. Kliimapoliitika seostamine energiamajanduse arengutega kujundab õppijate tarbimiskäitumist ning teadlikkust väljakutsest kohaneda ja leevendada kliimamuutusi. Arutelud päevakajalistel teemadel arendavad kriitilist mõtlemist ja oskust osaleda vastutustundlikult ühiskonnaelus. Info otsimine ja andmete analüüs arendab õpilaste ITK -vahendite kasutamise ja üldistamise oskust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Energiamajanduse teema õppimine toetub põhikoolis omandatud teadmistele Eesti energiamajandusest. Sobilik on maailma energiamajanduse arenguid kõrvutada Eesti energeetika probleemidega. Kuna energiamajanduses on kiireid muutusi, siis probleemide käsitlemisel peaks toetuma võimalikult uudsele materjalile. Energiamajanduse õppimine võimaldab tutvuda erinevate tehnoloogiaalaste karjäärivõimalustega.</p><ul><li>Energiamajanduse käsitlemine võimaldab rakendada aktiivõpet, nt võib korraldada väitluse või rollimängu konkreetsesse kohta elektrijaama rajamise poolt- ja vastuargumentide leidmiseks.</li><li>Võimalik on koostada rühmatööna tabel või mõistekaart erinevate energiaallikate energiatõhususe ja keskkonnamõju kohta võttes arvesse keskkonna-, sotsiaal- kui ka majanduslikke aspekte.</li><li>Arenenud ja arengumaade energiamajanduse erinevuste paremaks mõistmiseks võivad õpilased paaris või rühmatööna koostada riikide energiamajanduse võrdluse.</li><li>Soovitav on märkida kontuurkaardile tähtsamad nafta, maagaasi ja kivisöe kaevandamise/ammutamise piirkonnad.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpilase tegevused, mis tagavad aine, valdkonna ning üldpädevuste saavutamise",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>Harjutab energiamajandusega seotud mõistete kasutamist E-koolikoti kursuse ülesandeid lahendades. (Õpipädevus)</li><li>Koostab teabeallikate põhjal ülevaate ühe riigi energiamajandusest ja keskkonnaprobleemidest (LT 3, 5; õpipädevus, matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus)</li><li>Analüüsib riigi energiatrilemmat ja esitleb tööd klassis. (LT 1, 3, 5; õpipädevus, matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus, suhtluspädevus)</li><li>Märgib kontuurkaardile tähtsamad nafta, maagaasi ja kivisöe kaevandamise/ammutamise piirkonnad. (Õpipädevus)</li><li>Koostab energiaallikate võrdlemiseks tabeli või rühmatööna mõistekaardid ja analüüsib energiaallikate kasutamise jätkusuutlikkust. (LT 2; Õpipädevus)</li><li>Otsib tõenduspõhist infot kliimapoliitika mõjust energiamajandusele, toob näiteid võimalustest leevendada ja kohaneda kliimamuutustega. (LT 5, 6; Sotsiaalne- ja kodanikupädevus)</li><li>Kirjeldab isiklikku kogemest ja vastutus säästvas energiatarbimises. (Sotsiaalne- ja kodanikupädevus)</li><li>Otsib Google Maps kaardil eritüüpi elektrijaamu, selgitab nende paiknemise põhimõtteid. (LT 2, 4, 5; Digipädevus)</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Bioloogia: kliimaneutraalus, rohepööre, keskkonnadilemmad.</p><p>Keemia: süsinikuühendid; õhu saastumine.</p><p>Füüsika: energia liigid ja nende kasutamine; elekter, st elektrienergia, elektrivõrk, energiaprobleemid.</p><p>Ajalugu: energiaressursid konfliktide allikana.</p><p>Ühiskonnaõpetus: kriitilise analüüsioskuse ja otsustusvõimelise kodaniku kujundamine, jätkusuutlik areng, üleilmsed probleemid.</p><p>Matemaatika: statistiliste andmete töötlemine, visualiseerimine, analüüs ja tulemuste tõlgendamine.</p><p>Elukestev õpe ja karjääri kujundamine: teavad tehnoloogiavaldkonna karjäärivõimaluste mitmekesisust energiamajanduses.</p><p>Keskkond ja jätkusuutlik areng: kliimapoliitika seostamine energiamajanduse arengutega kujundab õppijate tarbimiskäitumist ning teadlikkust väljakutsest kohaneda ja leevendada kliimamuutusi.</p><p>Kodanikualgatus ja ettevõtlikkus: on teadlikud, milliseid väljakutseid nii isiklikul kui riigi tasandil esitab energiavarude ammendumine, kasvav energianõudlus ja energiaturgude volatiilsus.</p><p>Tehnoloogia ja innovatsioon: analüüsivad energiamajanduse tehnoloogiliste uuenduste eeliseid ja puudusi.</p><p>Tervis ja ohutus: hindavad kriitiliselt eri energiatootmisettevõte mõju keskkonnale sh tervisele.</p><p>Väärtused ja kõlblus: isiklik eeskuju ja vastutus energiatarbimisel, säästev majandamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpilase osalemisele aruteludes ja väitlustes antakse suulist tagasisidet.</li><li>E-koolikoti harjutusülesanded võimaldavad tõhusat enesehindamist.</li><li>Riigi energiamajanduse ülevaate koostamist hinnatakse eristavalt hindamismudeli alusel (sisuline õigsus, seoste sõnastamine, vormistamine, esitlemine, osalemine rühmatöös).</li><li>Suuliste ettekannete hindamisel on soovitav rakendada õpetaja koostatud mudeli põhjal vastastikhindamist.</li><li>Kokkuvõttev arvestustöö - eristav hindamine. Arvestustöö võiks moodustada hindamismahust 50%.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18935-Geograafia-3-kursus-Loodusvarade-majandamine-ja-keskkonnaprobleemid/221246",
+              "title": "E-Koolikott Geograafia 3. kursus"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.energia.ee/et/avaleht",
+              "title": "Eesti Energia"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.energia.ee/kodutuur/?language=et",
+              "title": "EE Nutikad kodulahendused"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.energia.ee/irutuur/?language=et",
+              "title": "IRU elektrijaama virtuaaltuur"
+            },
+            {
+              "kind": "link",
+              "href": "https://enefitgreen.ee/et/avaleht",
+              "title": "Enefit Green"
+            },
+            {
+              "kind": "link",
+              "href": "https://dashboard.elering.ee/et",
+              "title": "Elering"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/saastev-areng/7-jatkusuutlik-energia",
+              "title": "Statistikaamet. Jätkusuutlik energia"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.stat.ee/et/avasta-statistikat/valdkonnad/energia-ja-transport/energeetika",
+              "title": "Statistikamet Energeetika"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eia.gov/international/data/world",
+              "title": "EIA USA energiaagentuur"
+            },
+            {
+              "kind": "link",
+              "href": "https://atlas.eia.gov/pages/energy-maps",
+              "title": "U.S Energy Atlas"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.iea.org/statistics/",
+              "title": "IEA Rahvusvahelise Energiaagentuuri statistika"
+            },
+            {
+              "kind": "link",
+              "href": "https://yearbook.enerdata.net/oil-products/world-refined-production-statistics.html",
+              "title": "World Energy &amp; Climate Statistics – Yearbook 2023"
+            },
+            {
+              "kind": "link",
+              "href": "https://yearbook.enerdata.net/",
+              "title": "Maailma energia- ja kliimastatistika – aastaraamat 2023"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.opec.org/opec_web/en/",
+              "title": "OPEC"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.world-nuclear.org/",
+              "title": "Maailma tuumaenergeetika"
+            },
+            {
+              "kind": "link",
+              "href": "https://ourworldindata.org/energy",
+              "title": "Interaktiivsed graafikud"
+            },
+            {
+              "kind": "link",
+              "href": "https://trilemma.worldenergy.org/",
+              "title": "Energia trilemma"
+            },
+            {
+              "kind": "link",
+              "href": "https://globalsolaratlas.info/map",
+              "title": "Globaalne päikese atlas"
+            },
+            {
+              "kind": "link",
+              "href": "https://globalwindatlas.info/en",
+              "title": "Globaalne tuule atlas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

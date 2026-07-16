@@ -1,0 +1,218 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpitulemused I kooliastmes",
+      "children": [
+        {
+          "kind": "section",
+          "title": "3. klassi lõpetaja",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "märkab suunamisel matemaatikaga seonduvat ümbritsevas elus",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab õpetajaga koostegevuses sobivaid info- ja kommunikatsioonitehnoloogia vahendeid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab õpitud matemaatilist keelt",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab sihipäraselt vaadelda objekte ja nähtusi ning märgata ja kirjeldada nende erinevusi ja sarnasusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "lahendab koostegevuses õpetajaga õpitud matemaatilisi probleemsituatsioone",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb huvi matemaatika õppimise vastu.",
+              "outcomeType": "attitude"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming üldpädevustega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Kultuuri- ja väärtuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>tunneb end oma pere liikmena, oma klassi ja kooli õpilasena.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sotsiaalne ja kodanikupädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>eristab oma-võõrast-ühist; hindab oma ja teiste käitumist <em>õige/vale, meeldib/ei meeldi</em> tasandil; käitub koolis ja avalikes kohtades viisakalt, tunneb ja järgib lihtsamaid kombeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Enesemääratluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>käitub õpitud oskuste piires viisakalt, ohutult ja ümbrust hoidvalt.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>täidab ülesandeid koostegevuses, eeskuju ja näidise järgi, omandatud oskuste piirides suulise korralduse kohaselt; viib kokku eseme, selle kujutise ja keelelise väljendi; tunneb kirjelduse järgi ära tuttavaid esemeid ja nähtusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Suhtluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kontakteerub ühistegevuses teiste inimestega, palub abi ja osutab ise abi kaaslastele; kuulab ja vastab küsimustele; alustab ja jätkab dialoogi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>vaatleb sihipäraselt, võrdleb ning rühmitab etteantud rühmitusaluse järgi esemeid ja nähtusi; arvutab õpitud arvuvalla piires ning mõõdab täiskasvanu abiga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ettevõtlikkuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>osaleb klassi ühistegevuses.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Digipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>oskab täiskasvanu juhendamisel kasutada lihtsamaid digikeskkondi ja rakendusi ning kodus ja koolis kasutatavaid digiseadmeid.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming läbivate teemadega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Elukestev õpe ja karjääri kujundamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>läbi mänguliste tegevuste kujundab positiivset hoiakut õppimisse ning toetab esmaste õpioskuste omandamist. Tutvutakse erinevate ametite ja tegevusaladega ning nende olulisusega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Keskkond ja jätkusuutlik areng",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>tugineb õpilase kogemustele, igapäevaelu nähtustele ning looduse vahetule kogemisele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kodanikualgatus ja ettevõtlikkus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kesksel kohal on koostöö ja ühiste otsuste tegemise kogemuste saamine. Tutvutakse kodukandi organisatsioonide või huvirühmadega, kelle korraldatavates tegevustes saavad õpilased osaleda.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kultuuriline identiteet",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>pakub õpilasele võimalust osaleda oma kultuurikeskkonna tavades ja kogeda sellega seonduvaid emotsioone, kujunevad üldiselt tunnustatud käitumisharjumused ning positiivne suhtumine uue ja erineva suhtes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teabekeskkond ja meediakasutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kesksel kohal on õpilase igapäevane suhtluskeskkond. Rõhuasetused toetavad erinevate õppeainete kaudu toimuvat suhtlemisoskuste kujundamist. Rohkem tähelepanu pööratakse visuaalsele meediale.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tehnoloogia ja innovatsioon",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>läbi mänguliste õppeotstarbeliste digikeskkondade ja rakenduste õpitakse tundma digiseadmete kasutamise põhivõtteid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tervis ja ohutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>rõhuasetus on tervislike ja ohutute käitumisviiside kujundamisel läbi jutustuste, demonstratsioonide ja rollimängude.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Väärtused ja kõlblus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>rõhuasetus on iseenda tundmaõppimisel ning heade kommete omandamisel läbi jutustuste, rollimängude ja õpetaja selgituste.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

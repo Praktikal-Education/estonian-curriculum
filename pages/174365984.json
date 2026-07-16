@@ -1,0 +1,954 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Oodatavad õpitulemused 7. klassi lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab ja rühmitab õpitud elusorganisme erinevate tunnuste järgi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab abivahenditele tuginedes keskkonnatingimuste mõju elusorganismidele",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid taimede ja loomade kohastumustest Eesti looduse näitel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja võrdleb abivahenditele tuginedes koosluste (veekogud, aed, põld, niit, mets, soo) elutingimusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab nende tüüpilisemaid liike",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab koosluste kohta toiduahelaid ja lihtsamaid toiduvõrgustikke",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid inimtegevuse mõjust ümbritsevale keskkonnale",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab koosluste tähtsust ning selgitab näidete varal nende kaitsmise vajadust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab Eesti asukohta Euroopa kaardil",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab abivahenditele tuginedes Eesti asendit",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab erinevaid kaarte Eesti asendi, pinnavormide ja kliima kirjeldamisel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab Eesti loodusvarasid ja toob nende kasutamise näiteid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab abiga loodusvarade säästliku kasutamise vajadust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Kohustuslik aine maht 4 tundi nädalas</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/Loodus_7.kl_I-osa_web_2023.pdf",
+          "title": "Eesti riik. Rahvastik. Pinnamood. Ilmastik — Loodusõpetuse tööraamat 7. klassile I osa"
+        },
+        {
+          "kind": "file",
+          "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/Loodus_7.kl_II-osa_web_2023.pdf",
+          "title": "Loodusvarad. Looduskaitse ja keskkonnakaitse — Loodusõpetuse tööraamat 7. klassile II osa"
+        },
+        {
+          "kind": "file",
+          "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/Loodus_7.kl_III-osa_web_2023.pdf",
+          "title": "Selgroogsed loomad — Loodusõpetuse tööraamat 7. klassile III osa"
+        },
+        {
+          "kind": "file",
+          "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/Loodus_7.kl_IV-osa_web_2023.pdf",
+          "title": "Elukooslused Eestis — Loodusõpetuse tööraamat 7. klassile IV osa"
+        },
+        {
+          "kind": "file",
+          "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/Loodus_7.kl_V_osa_web_2023.pdf",
+          "title": "Lisamaterjal „Ülesandeid 7. klassi loodusõpetuse tööraamatu juurde” — Loodusõpetuse tööraamat 7. klassile. Lisad"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik teemade järjestus ja tundide arv õppeaasta jooksul",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Eesti riik (5), Eesti ilmastik (10), Eesti pinnamood (9), Eesti loodusvarad (10), selgroogsed loomad Eestis (15), elukeskkonnad Eestis: Läänemeri (12), jõed ja järved (10), aed (10), põld (10), niit (10), mets (12), soo (10)</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Lõiming matemaatikaga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võimaldab teostada praktilisi mõõtmisi, analüüsida tulemusi ning seostada omandatud teadmisi igapäevaelu situatsioonidega. Kasutada õpitud mõõtühikuid ning neid mõõtmiste juures rakendada. Õppides Eesti pinnamoodi saab kasutada mõisteid nagu kõrgus, laius ja pindala. Arvutada mägede/küngaste kõrguste vahesid, järvede pindalasid või jõgede pikkusi. Saadud tulemusi võrrelda ning järjestada suuremast väiksemaks ja vastupidi. Andmete analüüsimiseks kasutada graafikuid, diagramme või keskmise arvutamist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming eesti keelega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti loodusvarade teema juures koostada kirjeldusi, referaate või mõistekaarte nende tähtsusest ja kasutamisest. Kasutades omadussõnu, iseloomustada erinevaid looduslikke kohti nagu mets, järv või raba. Lugeda lühikesi loodusõppe tekste (nt Eestis elavatest selgrootutest, erinevatest looduskeskkondadest), koostada nende põhjal mõistekaart või lühikokkuvõte, arendades sedasi funktsionaalset lugemisoskust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming võõrkeelega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võimaldab kirjeldada aia, põllu või metsaga seotud objekte, kasutades selleks õpitud sõnavara. Lugeda ja leida lisainfot võõrkeelsest (digi)kirjandusest. Õppetegevuseks kasutada võõrkeelseid õpikeskkondi (videod, laulud, interaktiivsed mängud).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ajalooga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Lõiming võimaldab seostada Eesti arenguajalugu loodusega, näiteks kuidas looduskeskkond on mõjutanud Eesti rahvaste eluviisi ja kultuuri. Näitena võib tuua Sinimägede maastiku eripära ja II maailmasõja lahingute vahelisi seoseid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming inimeseõpetusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Uurida jätkusuutliku toidu tootmise ja tarbimise mõju nii inimese tervisele kui ka looduskeskkonnale.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming kehalise kasvatusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Korraldada matku, mis tutvustavad erinevaid looduskeskkondi (mets, soo, põld, rand jne) ja nende eripärasid. Osaleda loodusmängudes ja orienteerumistel, kus tuleb liikuda looduskeskkonnas, kasutada kaarti ja kompassi ning lahendada erinevaid ülesandeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming kunstiõpetusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Joonistada või maalida Eesti loodust ja selle elusolendeid, kasutades selleks erinevaid kunstitehnikaid ja -materjale.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming muusikaga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuulata erinevate Eestis elavate loomade häälitsusi ning neid hääle järgi tuvastada.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "SELGROOGSED LOOMAD EESTIS",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Eristab ja rühmitab õpitud elusorganisme erinevate tunnuste järgi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab õpetaja abiga selgroogsete loomade osa looduses ja inimeste elus ning toob selle kohta näiteid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab abivahenditele tuginedes keskkonnatingimuste mõju elusorganismidele.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid loomade kohastumustest Eesti looduse näitel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selgroogsete ja selgrootute loomade eristamine.</p><p>Selgroogsed loomad: välisehituse kirjeldamine, rühmitamise aluseks olevate sarnaste tunnuste leidmine (välisehitus, liikumisviis, elupaik, toitumine, järglaste saamisviis ja nende eest hoolitsemine).</p><p>Organismide vaheliste suhete iseloomustamine lihtsamate toiduvõrgustike abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ühe loomaliigi kohta ülevaate koostamine ning selle põhjalikum tundmine. Info otsimine veebilehtedelt või teatmeteostest.</li><li>Selgroogsete loomade tunnuste uurimine ja võrdlemine.</li><li>Mõistekaardi koostamine selgroogsete loomade olulisuse kohta inimese elus ja looduses. Mõistekaardi võib teha käsitsi paberile või kasutada nende loomiseks digikeskkonda <a href=\"https://www.canva.com/\">Canva</a>.</li><li>Toiduahelate ja -võrgustike koostamine õpetajaga koostegevuses.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid/ideed õpetajale (videomaterjal)",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://youtu.be/mK2YSjhvXeU?si=rOX8BqNK1XcP417b"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/eesti-kahepaiksed-ja-nende-kaitse-korraldamine",
+              "title": "Allalaetav õppematerjal. Eesti kahepaiksed ja nende kaitse korraldamine"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eoy.ee/",
+              "title": "Linnud"
+            },
+            {
+              "kind": "file",
+              "src": "https://natmuseum.ut.ee/sites/default/files/2022-11/kalade%2Besitlus.pdf",
+              "title": "Kalad"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=o4xuXdazsOE"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=igx-y2xJ1T4&t=39s"
+            },
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/87-2/",
+              "title": "Lisamaterjal. Loomad. Selgroogsed loomad"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/24MKW64ttoY?si=I_8LIDQ3-3culN6g"
+            },
+            {
+              "kind": "link",
+              "href": "https://teaduskool.ut.ee/et/oppetoo/kuidas-kohanenud-loomad-eluks-talvel-ja-suvel",
+              "title": "Kuidas on kohastunud loomad eluks talvel ja suvel?"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.tartuloodusmaja.ee/wp-content/uploads/2020/04/Maarja-k%C3%BCla-talveprogramm-Loomade-ja-inimeste-talvenipid-kaelakaardid.pdf",
+              "title": "Tartu Loodusmaja materjal. Loomade talvenipid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ebu.ee/materjale.php",
+              "title": "Eesti Bioloogiaõpetajate Ühingu materjalid"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/07NjTgqjvkM?si=AHqiM9gfviFK--g5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ELUKESKKONNAD EESTIS",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Kirjeldab ja võrdleb abivahenditele tuginedes koosluste elutingimusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab koosluste tüüpilisemaid liike;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Koostab koosluste kohta toiduahelaid ja lihtsamaid toiduvõrgustikke (vajadusel abivahenditele toetudes);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab Läänemerele iseloomulikke toiduahelaid ja -võrgustikke;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab jõele/järvele iseloomulikke toiduahelaid ja -võrgustikke;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab niidu kooslust iseloomustavaid toiduahelaid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab metsakooslust iseloomustavaid toiduahelaid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab soo kooslust iseloomustavaid toiduahelaid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid inimtegevuse mõjust ümbritsevale keskkonnale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab inimtegevuse negatiivset mõju taimedele ja loomadele (reostamine);",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab keemiliste ainete mõju taimedele ja loomadele (väetamine, reostamine).",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab koosluste tähtsust ning selgitab näidete varal nende kaitsmise vajadust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab Läänemere tähtsust ja kaitse vajadust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab jõgede ning järvede tähtsust ja kaitse vajadust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab niitude tähtsust ja kaitse vajadust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab metsade tähtsust ja kaitse vajadust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab soode tähtsust ja kaitse vajadust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Läänemeri",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Läänemere asend ja ümbritsevad riigid, suuremad lahed, väinad, saared, poolsaared.</p><p>Läänemere rannik. Läänemere mõju ilmastikule.</p><p>Keskkonnatingimused Läänemeres.</p><p>Läänemeri kui elukooslus; elusolendite osa bioloogilises aineringes ja inimese elus.</p><p>Mere mõju inimtegevusele ja rannaasustuse kujunemisele.</p><p>Läänemere reostumine ja kaitse. Loomade püügi, jahi ning kaitsega seotud reeglid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Jõed ja järved",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Eesti suuremad jõed ja järved. Jõgi ja järv kui elukooslused; elusolendite osa bioloogilises aineringes ja inimese elus.</p><p>Jõgede ja järvede tähtsus, kasutamine ning kaitse. Kalakasvatus. Loomade püügi, jahi ning kaitsega seotud reeglid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Aed",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Aed kui kooslus: köögiviljaaed, puuvilja- ja marjaaed, iluaed. Aiamuld. Kompost.</p><p>Elusolendite osa bioloogilises aineringes ja inimese elus.</p><p>Bioloogiline ja keemiline tõrje aias. Toataimed.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Põld",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Põld kui kooslus. Peamised Eestis kasvatatavad põllukultuurid. Elusolendite osa bioloogilises aineringes ja inimese elus.</p><p>Väetamine ja keemiline tõrje põllul (vajalikkus, ohud). Mahepõllundus. Inimtegevuse mõju mullale.</p><p>Mulla reostumine ja hävimine. Mulla kaitse.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Niit",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Niit kui Eesti liigirikkaim kooslus. Looduslikud ja inimtekkelised niidud. Elusolendite osa bioloogilises aineringes ja inimese elus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mets",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Eesti metsad. Nõmme-, palu-, laane- ja salumets. Mets kui elukooslus. Eesti metsade peamised puuliigid.</p><p>Elusolendite osa bioloogilises aineringes ja inimese elus. Loomade püügi, jahi ning kaitsega seotud reeglid.</p><p>Metsade tähtsus ja kasutamine.</p><p>Metsade kaitse.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Soo",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Soode paiknemine ja teke. Madalsoo ja raba. Elutingimused soos.</p><p>Soode elustik; elusolendite osa bioloogilises aineringes ja inimese elus.</p><p>Soode tähtsus. Turba kasutamine.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Läänemerele iseloomulike toiduahelate ja –võrgustike koostamine.</li><li>Erineva soolsusega lahuste valmistamine. Läänemere (7-8 promilli) ja maailmamere soolsuste (35 promilli) võrdlemine.</li><li>Eesti Maaülikooli Võrtsjärve õppekeskuse külastamine.</li><li>Tutvumine eluslooduse häältega, kasutades audiovisuaalseid materjale (nt Loodusheli).</li><li>Ülevaate koostamine: õlireostuse mõju Läänemere elustikule.</li><li>Katse taimede kasvunõuete (soojus, valgus, niiskus, toitained) selgitamiseks.</li><li>Kultuurtaime söödavate osade rühmitamine (abimaterjali kasutades).</li><li>Osalemine õppekäigul põllule või aeda.</li><li>Biojäätmetest komposti valmistamine (õpetus komposti valmistamine)</li><li>Sagadi mõisa metsamuuseumi külastamine.</li><li>Metsaviktoriinide koostamine paberil või kasutades nt digikeskkonda quizizz.</li><li>Seenenäituse külastamine või seenenäituse korraldamine. Metsasaaduste kasutamine toiduks ja nende toiduohutust.</li><li>Pargipuude olemasolul. Samblike uurimine ja seostamine õhu puhtusega.</li><li>Õppekäik soosse. Arutlemine soos nähtu ja kogetu üle.</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://loodusheli.ee/",
+              "title": "Loodusheli"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=lIlsvpw5wjM"
+            },
+            {
+              "kind": "link",
+              "href": "https://quizizz.com/",
+              "title": "quizizz"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid/ideed õpetajale (videomaterjal)",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/shows/janku-juss,serial-1024312/osa-154,episode-1037534",
+              "title": "Ökosüsteem (Jänku-Juss)"
+            },
+            {
+              "kind": "link",
+              "href": "https://teaduskool.ut.ee/et/oppetoo/miks-laanemere-vesi-eriline",
+              "title": "Miks on Läänemere vesi eriline?"
+            },
+            {
+              "kind": "link",
+              "href": "https://teaduskool.ut.ee/et/oppetoo/mereline-kliima",
+              "title": "Mereline kliima. Läänemeri elukeskkonnana"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/watch?v=ppboo2sm216"
+            },
+            {
+              "kind": "link",
+              "href": "https://arhiiv.err.ee/video/vaata/osoon-rahvusparkide-reform-naftareostus-rohuneeme-maastikukaitse-probleemid",
+              "title": "Naftareostus Läänemeres aastal 2006 (vaata videot minutitel 10:26-16:12)"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.tartuloodusmaja.ee/wp-content/uploads/2020/03/Aktiivoppe_abimaterjal_III_Praktilisi_toid_Laanemere_teemadel_2011.pdf",
+              "title": "Tartu Loodusmaja materjal. Praktilisi töid Läänemere teemadel"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.pernova.ee/hoiamerd/",
+              "title": "Pärnu Loodusmaja materjal. Läänemeri"
+            },
+            {
+              "kind": "link",
+              "href": "https://birdmap.5dvision.ee/",
+              "title": "Eesti lindude rändekaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.purposegames.com/game/eesti-jarved-game",
+              "title": "Eesti järvede digiõppemäng"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.purposegames.com/game/ca61a555cf",
+              "title": "Eesti jõgede digiõppemäng"
+            },
+            {
+              "kind": "link",
+              "href": "https://kalala.emu.ee/et/loodusharidus/eesti-mageveekalad/",
+              "title": "Allalaetav materjal. Eesti mageveekalade liigid (info ja pildid)"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/shows/janku-juss,serial-1024312/osa-62,episode-1037440",
+              "title": "Niidutaimed I (Jänku-Juss)"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/series/janku-juss,serial-1024312/osa-63,episode-1037441",
+              "title": "Niidutaimed II (Jänku-Juss)"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/shows/janku-juss,serial-1024312/osa-68,episode-1037446",
+              "title": "Põllutöömasinad (Jänku-Juss)"
+            },
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/shows/janku-juss,serial-1024312/osa-110,episode-1037489",
+              "title": "Raba (Jänku-Juss)"
+            },
+            {
+              "kind": "link",
+              "href": "https://soo.elfond.ee/filmid/",
+              "title": "Eestimaa Looduse Fondi koostatud üheksa õppefilmi soost „Ah soo!”"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.rabivere.kohila.edu.ee/",
+              "title": "Soo. Virtuaalne õpikeskkond"
+            },
+            {
+              "kind": "link",
+              "href": "https://sagadi.ee/looduskool/oppematerjalid",
+              "title": "Sagadi looduskooli õppematerjal (töölehed, viktoriinid, õuesõpe jne)"
+            },
+            {
+              "kind": "link",
+              "href": "https://teaduskool.ut.ee/et/oppetoo/kuidas-maarata-puu-vanust",
+              "title": "Kuidas määrata puu vanust?"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.loodusegakoos.ee/metsakool/metsaviktoriin/",
+              "title": "Metsaviktoriin. Materjalid koos vastustega. Saab kombineerida võistlusmänge"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/898523/osoon",
+              "title": "Mis on biotõrje? (vaata videot minutitel 3:40-9:32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "LOODUS- JA KESKKONNAKAITSE EESTIS",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Toob näiteid inimtegevuse mõjust ümbritsevale keskkonnale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab inimtegevuse (tööstus, transport, olme) tagajärjel tekkinud saasteainete negatiivset mõju loodusele.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab koosluste tähtsust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab näidete varal nende kaitsmise vajadust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab looduskaitse vajalikkust, toob näiteid kaitsealade, kaitsealuste liikide ja üksikobjektide kohta;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab keskkonnakaitse vajalikkust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab olmeprügi sortimise ja töötlemise vajadust ning sordib olmeprügi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Inimese mõju keskkonnale.</p><p>Looduskaitse Eestis: eri tasandid, kaitsealused objektid ja kaitsealad. Bioloogilise mitmekesisuse kaitse. Kodukoha looduskeskkonna muutumine inimtegevuse tagajärjel.</p><p>Jäätmekäitlus. Säästev tarbimine (sh individuaalne loodussäästlik käitumine).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Looduskaitsealade näitamine kaardil.</li><li>Erinevate infoallikate põhjal ülevaate koostamine ühe kaitsealuse liigi või kaitseala kohta.</li><li>Ülevaate koostamine kodukoha ühest keskkonnaprobleemist (probleemi olemus, võimalikud tekkepõhjused ja lahendused (ehk keskkonnahoidliku mudeli koostamine) vms.</li><li>Kaitseala poolt korraldatud üritusel osalemine (koristustalgud, joonistusvõistlused, viktoriinid vms).</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid/ideed õpetajale (videomaterjal)",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://play.tv3.ee/shows/janku-juss,serial-1024312/osa-57,episode-1037435",
+              "title": "Looduskaitse (Jänku-Juss)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.puhkaeestis.ee/et/loodus/rahvuspargid-ja-kaitsealad",
+              "title": "Rahvuspargid ja kaitsealad"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/e-q8xmBMX3o?si=SfO7lBioZwV5oVF1"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.energia.ee/prugimang",
+              "title": "Prügi sorteerimise digimängud"
+            },
+            {
+              "kind": "link",
+              "href": "https://loodusegakoos.ee/sorteerimise-mang",
+              "title": "Prügi sorteerimise digimängud"
+            },
+            {
+              "kind": "link",
+              "href": "https://loodusegakoos.ee/kuidas-looduses-kaituda",
+              "title": "RMK veebipõhised eestikeelsed abistavad juhised looduses liikujale"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/0W8HTFDeOus?si=TDlgvs-xojAjHnU3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "4. Õpilane näitab Eesti asukohta Euroopa kaardil; kirjeldab abivahenditele tuginedes Eesti asendit; kasutab erinevaid kaarte Eesti asendi, pinnavormide ja kliima kirjeldamisel.",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Näitab Eesti asukohta Euroopa kaardil;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "näitab Euroopa kaardil Eestit ja Eesti naaberriike.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kirjeldab abivahenditele tuginedes Eesti asendit;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab Eestit (asend, naaberriigid, rahvastik jm) kaartide ja teatmeteosest leitud teabe põhjal.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab erinevaid kaarte Eesti asendi, pinnavormide ja kliima kirjeldamisel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab Eesti asendi mõju kliimale;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ilmakaardi leppemärkide tähendusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb ilmakaardi järgi ilma (temperatuur, tuule suund, kiirus, pilvisus ja sademed) Eesti erinevates osades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab kaardi järgi oma kodumaakonna ja Eesti pinnamoodi, nimetades ning näidates pinnavorme kaardil.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "EESTI RIIK",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Eesti asend Euroopas; Eesti suurus, piirid, naaberriigid. Rahvaarv ja rahvuslik koosseis. Rahvastiku paiknemine.</p><p>Linnad ja maa-asulad. Riigi haldusjaotus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "EESTI ILMASTIK",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Ilm, ilmastik, kliima. Eesti asendi mõju kliimale. Ilmaelemendid: õhutemperatuur, tuul, pilvisus, sademed.</p><p>Ilmavaatlused ja ilma ennustamine. Ilma mõju inimtegevusele; äärmuslikud ilmaolud Eestis.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "EESTI PINNAMOOD",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kodukoha ja Eesti pinnavormid ning pinnamood. Suuremad kõrgustikud, tasandikud ja madalikud. Põhja-Eesti paekallas. Mandrijää osa pinnamoe kujunemises.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Eesti piiri, naaberriikide, maakonnakeskuste ja suuremate linnade näitamine kaardil. Eesti maakonnakeskuste ja suuremate linnade kandmine kontuurkaardile.</li><li>Rahvastikukaardi põhjal (kava abil) Eesti rahvastiku paiknemise iseloomustamine.</li><li>Riigi üldandmete otsimine teatmeteostest/internetist (õpetaja suunamisel).</li><li>Ilmavaatluste läbiviimine: andmete märkimine tabelisse, graafikute koostamine (õpetaja juhendamisel).</li><li>Erinevate ilmaportaalidega tutvumine (ilmaennustused, ilmahoiatused jm).</li><li>Eesti erinevate piirkondade ilma võrdlemine.</li><li>Mõistekaardi koostamine kliimat kujundavatest teguritest.</li><li>Eesti kaardil suuremate madalike, kõrgustike ja nende kõrgemate tippude näitamine; pinnavormide tähistamine kontuurkaardil.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid/ideed õpetajale (videomaterjal)",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.taskutark.ee/pinnamood-ja-pinnavormid-kaardil/",
+              "title": "Eesti pinnamood"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.eestikaart.com/maakonnad/",
+              "title": "Eesti maakondade kaart"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.geoguessr.com/vgp/3270?locale=et",
+              "title": "Eesti maakonnad. Interaktiivne mäng"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.purposegames.com/game/eesti-suuremad-pinnavormid-game",
+              "title": "Eesti suuremad pinnavormid. Interaktiivne mäng: Eesti pinnavormid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.geoguessr.com/vgp/3007?locale=et",
+              "title": "Euroopa riigid. Interaktiivne mäng"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20117-Euroopa-ja-Eesti-asend-pinnamood-geoloogia/231616#231618-Eesti-Euroopas-geograafiline-asend",
+              "title": "Esitlus: Euroopa ja Eesti asend"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/20117-Euroopa-ja-Eesti-asend-pinnamood-geoloogia/231623",
+              "title": "Esitlus: Eesti ja Euroopa pinnamood"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ilmateenistus.ee/",
+              "title": "Ilmaportaalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://ilm.ee/",
+              "title": "Ilmaportaalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://ilmajaam.postimees.ee/",
+              "title": "Ilmaportaalid"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/playlist?list=PLwWz4ccpnJhoKcDxdmySzHZmh6Y1iHIk2",
+              "title": "ELF poolt eestindatud videoklipp kliimamuutuste põhjustest, mõjust ning pidurdamise võimalustest: Kliimamuutuste põhjused"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "EESTI LOODUSVARAD",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Nimetab Eesti loodusvarasid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab Eestis leiduvaid taastuvaid ja taastumatuid loodusvarasid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab graniiti, paekivi, põlevkivi, liiva, kruusa, savi ja turvast.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob näited Eestis leiduvate loodusvarade kasutamise kohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Selgitab abiga loodusvarade säästliku kasutamise vajadust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti loodusvarad, nende kasutamine ja kaitse. Energiaallikatena kasutatavad loodusvarad.</p><p>Eesti maavarad, nende kaevandamine ja kasutamine. Kaevanduste ja karjääride kasutamisega seotud keskkonnaprobleemid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Eesti kaardil maavarade tähtsamate leiukohtade näitamine, maavarade kandmine kontuurkaardile koos leppemärkidega.</li><li>Tuntumate kivimite kirjeldamine ja võrdlemine (tunnused, leiukohad, kasutamine).</li><li>Ülevaate koostamine: kodukoha loodusvarad, nende kasutamine ja kaitse. Info otsimine erinevatelt veebilehtedelt.</li><li>Taastuvenergia tootmise kohta näidete toomine.</li><li>Õppekäik loodusmuuseumisse (tutvumine maavaradega) või Kohtla-Järve Põlevkivimuuseumisse.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid/ideed õpetajale (videomaterjal)",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://maapou.keskkonnaharidus.ee/",
+              "title": "Digitaalne õppematerjal. Maavarad"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=hrCBUQfYECY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=8yB4WJ--DZ8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=m7FljLR-D7M"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=k3EeCnYLi8U"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=cODEfclSNgY"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

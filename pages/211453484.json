@@ -1,0 +1,944 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>II</strong> ja <strong>III kooliastmes</strong> kujundatakse õpilaste teadmisi ja oskusi neljas õppevaldkonnas: suuline ja kirjalik suhtlus, teksti vastuvõtt, tekstiloome ning keeleteadlikkus. Siingi on eesti keele õpetamise keskmes (tervik)tekstid ja katkendid või tekstikorpused ning nendega seotud tekstitoimingud. Keelepädevuse tagab võimalikult eripalgeline, kuid autentne ja adekvaatne tekstivalik, mis võimaldab omandada keeleteadmisi ja kujundada hoiakuid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Suhtlemisõpetusega kujundatakse oskust kasutada multimodaalses suhtluses eri kanaleid ja keskkondi (sh netikeskkonda), oskust arvestada suhtlemisel eesmärki, partnerit ja olukorda, oskust vahendada teavet, väljendada oma arvamusi ja hinnanguid. Tähelepanu pööratakse ka netiturvalisusele. Suhtlusoskuse arendamisel tehakse informatiivseid esitlusi (nt raamatututvustusi) nii individuaalselt kui ka koostöös.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Teksti vastuvõtu õpetusega kujundatakse oskust tekste leida ja valida, eesmärgipäraselt lugeda ja kuulata, samuti rakendatakse erinevaid lugemis- ja kuulamisvõtteid ning süvendatakse oskust teksti mõista ja sellele reageerida. Arendatakse kriitilise lugemise oskust ning analüüsitakse erinevaid tarbetekste. Elulähedaste ja tähenduslike aine- ja muude tekstide käsitlus lõimitakse tekstide ülesehitusliku eripära, sõnavara, grammatika ja õigekeelsuse õpetamisega, et kujundada õpilases loomulik keeleteadlikkus.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tekstiloome õpetusega kujundatakse mitmekülgset ja eesmärgistatud eneseväljendusoskust, mille puhul õpilane tajub situatsiooni ja adressaati ning suudab oma mõtteid selgelt ja täpselt, tekstiliigile omasel viisil väljendada. Jutustavate, kirjeldavate ja arutluselementidega tekstide kõrval hõlmab kirjutamine avarat tekstivälja alates tarbetekstidest kuni ilukirjanduseni. Tekstiloomes on põhirõhk kirjutamise protsessil, õpilane järgib kirjutamise etappe alates eeltööst kuni lõpptulemuse vormistamise ja viimistlemiseni.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Keeleteadlikkuse õpetusega avardatakse keeleteadmisi, omandatakse õigekeelsuspõhimõtted, kujundatakse eesti keelt väärtustavat hoiakut. Arendatakse oskust tänapäeva eesti kirjakeelt teadlikult kasutada, kujundatakse arusaamist keele arengust ja muutumisest ning murrete eripärast. Keeleteadlikkust, mis peab tagama korrektse ja mitmekülgse kirjakeele omandamise, õpetatakse muude tekstitoimingute osana.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Et õpilane osaleks aktiivselt ja vahetult õppeprotsessis, peavad keeleõppe tegevused olema mitmekülgsed ja funktsionaalsed. Keeletundides omandatakse konkreetseid keeleteadmisi ja praktilisi oskusi, analüüsitakse loetut ja kuuldut, kujundatakse keelega seotud hoiakuid ja antakse hinnanguid ning kirjutatakse eri liiki tekste. Arendatakse oskust sobivatest allikatest ja keskkondadest infot hankida, seda lugeda ja kriitiliselt hinnata. Keeleallikate kasutamine lõimitakse tekstiloomesse, st, et õpilane oskab teabe põhjal langetada teadlikke keelevalikuid, mis arvestavad suhtlusolukorra sobivust. Tekstitöös on oluline ka digitaalse sisu loomine, muutmine ja taasesitamine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab rahvapärimust ja kultuuri mitmekesisust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab eesti keelt kui kultuuri kandjat ja avaliku suhtluse vahendit;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab end selgelt ja asjakohaselt suuliselt ning kirjalikult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb õpitu piires keeleteadlikke valikuid, kasutab korrektset kirjakeelt ja sobivat sõnavara;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb tekste ladusalt ja eesmärgistatult eri keskkondades ja allikatest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab eesmärgistatult eri liiki tekste eri keskkondades ja allikate toel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib ja hindab eri liiki suulisi ja kirjalikke tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab eri tüüpi ja liiki tekstide ülesehitust, sisu, keelelist eripära;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujundab lugemise kaudu hoiakuid ja tõekspidamisi;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab lugemist, leiab endale sobivat lugemisvara.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Suuline ja kirjalik suhtlus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "valib juhendamise abil olukorrale vastava suhtluskanali;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitab kuuldu ja loetu kohta küsimusi, avaldab viisakalt ja olukorrast lähtuvalt arvamust, sõnastab järelduse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab lihtsamaid probleemülesandeid paaris- ja rühmatöös;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab oma seisukohta ja aktsepteerib kaaslaste põhjendatud seisukohti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab suhtluses sobivaid keelevahendeid, sh korrektset kirjakeelt õpitu piires nii suulises kui ka kirjalikus suhtluses.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teksti vastuvõtt",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "valib ja loeb sobivaid tervikteoseid nii eesti kui ka maailma lastekirjandusest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab õpitud tekstiliike ja nende kasutamise võimalusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja mõistab eakohaseid õpi- ja elutarbelisi ning huvivaldkondade tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb tekste, esitab küsimusi, avaldab arvamust, teeb tekstist lühikokkuvõtte;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kuulab ja jälgib vastuvõetavat teksti, valib lugemise eesmärgile sobiva lugemisviisi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb keele ja kirjanduse valdkonna teabekeskkondi, leiab neist vajaliku teabe;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb eri allikatest pärit infot, eristab olulist ebaolulisest, fakti arvamusest.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tekstiloome",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "leiab juhendamise abil tekstiloomeks vajalikku teavet;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb kirjutamiseks ja esinemiseks valmistumise põhietappe;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "jutustab, kirjeldab, võrdleb ja arutleb suuliselt ja kirjalikult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esineb suuliselt, võtab sõna, koostab ja peab lühikese ettekande;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab eesmärgipäraselt ja olukohaselt eri liiki eakohaseid tekste;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vormistab kirjalikud tekstid korrektselt nii käsikirjas kui ka arvutis.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Keeleteadlikkus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "nimetab Eestis kõneldavaid keeli, sugulaskeeli ja rahvaid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab keelevariante, sh murdeid, sotsiolekte, toob näiteid nende kasutusest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab eesti keele häälikusüsteemi, eristab sõnaliikide tüüpjuhte ning põhilisi käänd- ja pöördsõna vorme;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "moodustab ja kirjavahemärgistab lihtlauseid, sealhulgas koondlauseid ja lihtsamaid liitlauseid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib eesti õigekirja aluseid ja õpitud põhireegleid;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab omandatud keeleteadmisi tekstiloomes ja -analüüsis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab õigekirja kontrollimiseks ja tähenduste leidmiseks trüki- ja digisõnastikke, leiab sõnaartiklist vajaliku teabe.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Suuline ja kirjalik suhtlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Keelekasutus erinevates suhtlusolukordades: koolis, avalikus kohas, eakaaslaste ja täiskasvanutega suheldes, suulises kõnes ning kirjalikus tekstis. Keelevariante: kirjakeel, argikeel, murdekeel.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kaasõpilaste ja õpetaja eesmärgistatud kuulamine. Kuuldu põhjal tegutsemine, kuuldu kohta arvamuse esitamine. Suuline arvamusavaldus ja vestlus etteantud teemal, vastulausele reageerimine ning seisukohast loobumine. Küsimustele vastamine, esitlus ja tutvustus. Väite põhjendamine, järelduste sõnastamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Seisukoha põhjendamine paaris- või rühmatöö ajal ning kõnejärg. Kaaslase täiendamine ja parandamine. Kaasõpilaste tööle hinnangu andmine ja tunnustuse avaldamine. Klassivestlus, diskussioon.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Veebisuhtluse eesmärgid, võimalused, ohud, privaatsus ja avalikkus. Meilimine ja veebipostitused. Privaatses ja avalikus keskkonnas suhtlemise eetika.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teksti vastuvõtt",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Trükised (raamat, ajaleht, ajakiri), nendes orienteerumine ning vajaliku teabe leidmine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eesmärgistatud lugemine, kuulamine, vaatamine, kokkuvõtte tegemine, kuuldu konspekteerimine. Raadio- ja telesaadete eripära. Video- ja audiotekstid veebis.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Reklaam: sõnum, pildi ja sõna mõju reklaamis, adressaat, lastele mõeldud reklaam.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tarbe- ja õppetekstide (reegel, juhend, tabel, skeem, kaart, saatekava jne) mõtestatud lugemine. Skeemist, tabelist, kuulutusest, sõiduplaanist ja hinnakirjast andmete kirjapanek ning seoste esiletoomine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lugemisvõtted ja -viisid: süvalugemine, pindmine lugemine, valiklugemine, loovlugemine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Visuaalsed ja verbaalsed infoallikad ning nende usaldusväärsus. Eri allikatest pärit info võrdlemine, olulise teabe eristamine. Teabe talletamine. Fakt ja arvamus. Uue info seostamine oma teadmiste ja kogemustega.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Autori suhtumine kirjeldatavasse ning selle väljendamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tekstiloome",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Loetule, nähtule või kuuldule hinnangu andmine nii kirjalikult kui ka suuliselt.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Protsesskirjutamine: suuline eeltöö, kava ja mõttekaardi koostamine, teksti kirjutamine, viimistlemine, toimetamine ja avaldamine, tagasiside saamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kirjandi ülesehitus. Sissejuhatus, teemaarendus, lõpetus. Mustand. Oma vigade leidmine ja parandamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lisateabe otsimine kirjutamise ajal. Alustekst, selle edasiarenduse lihtsamad võtted.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Teksti loomine pildi- ja näitmaterjali põhjal.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lühiettekanne ja esitlus veebiallikast või teatmeteosest leitud info põhjal.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kirja, kaardi, kutse kirjutamine ja vormistamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kirjeldamine: sõnavalik, oluliste ja iseloomulike tunnuste esitamine. Kirjelduse ülesehitus: üldmulje, detailid, hinnang. Eseme, olendi ja inimese kirjeldamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Jutustamine. Oma elamustest ja juhtumistest jutustamine ning kirjutamine. Jutustuse ülesehitus. Ajalis-põhjuslik järgnevus tekstis. Sidus lausestus. Otsekõne jutustuses. Minavormis jutustamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Arutlemine. Põhjuse ja tagajärje väljendamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Raamatust kokkuvõtte ning raamatu kohta lugemissoovituse kirjutamine. Luuletuse kirjutamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Keeleteadlikkus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Eesti keel teiste keelte seas. Teised Eestis kõneldavad keeled, murdekeel. Sugulaskeeled ja sugulasrahvad. Häälikuõpetus ja õigekiri. Täis- ja kaashäälikud. Suluga ja suluta häälikud. Helilised ja helitud häälikud. Võõrtähed ja -häälikud. Täis- ja kaashäälikuühend. Kaashäälikuühendi õigekiri. Tähed <em>g</em>, <em>b</em>, <em>d</em> <em>s</em>-tähe kõrval. Tähe <em>h</em> õigekiri. Tähtede <em>i</em> ja <em>j</em> õigekiri (tegijanimed ja liitsõnad). Liidete <em>-gi</em> ja -<em>ki</em> õigekiri. Sagedamini esinevate võõrsõnade tähendus, hääldus ja õigekiri. Silbitamine ja poolitamine (ka liitsõnades). Sulghäälik võõrsõna algul ja sõna lõpus, sulghäälik sõna keskel. Tähtede <em>f</em> ja <em>š</em> õigekiri.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Sõnavaraõpetus. Kirjakeelne ja argikeelne sõnavara, uudissõnad, murdesõnad, släng. Sünonüümid, antonüümid, homonüümid, nende kasutamine. Igapäevaste võõrsõnade asendamine omasõnadega ja vastupidi.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Liitsõnamoodustus: täiend- ja põhiosa. Liitsõna ja liitega sõna erinevused.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Vormiõpetus ja õigekiri. Sõnaliigid: tegusõnad, käändsõnad ja muutumatud sõnad.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tegusõna. Tegusõna ajad: olevik, liht-, täis- ja enneminevik. Jaatava ja eitava kõne kasutamine. Pöördsõna. Tegusõna pööramine ainsuses ning mitmuses. Tegusõna oleviku- ja minevikuvormi kasutamine tekstis.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Käändsõna. Käändsõnade liigid: nimisõna, omadussõna, arvsõna, asesõna. Käänamine. Käänded, nende küsimused ning tähendus. Õige käände valik olenevalt lause kontekstist. Ainsus ja mitmus. Nimisõnade kokku- ja lahkukirjutamine. Omadussõna käänamine koos nimisõnaga, <em>lik</em>- ja <em>ne-</em>liiteliste omadussõnade käänamine ning õigekiri. Omadussõnade tuletusliited. Omadussõnade võrdlusastmed. Võrdlusastmete kasutamine. Omadussõnade kokku- ja lahkukirjutamine (<em>ne-</em> ja <em>line-</em>liitelised omadussõnad).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Arvsõnade õigekiri. Rooma numbrite kirjutamine. Põhi- ning järgarvsõnade kokku- ja lahkukirjutamine. Kuupäeva kirjutamise võimalusi. Arvsõnade käänamine. Põhi- ja järgarvsõnade kirjutamine sõnade ning numbritega, nende lugemine. Arvsõnade kasutamine tekstis.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lauseõpetus ja õigekiri. Lause. Alus ja öeldis. Lihtsamad lause laiendamise võimalused. Korduvate lauseliikmete kirjavahemärgistamine koondlauses. Koondlause kasutamine tekstis.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lihtlause. Lihtlause kirjavahemärgid. Küsi-, väit- ja hüüdlause lõpumärgid ning nende kasutamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Liitlause. Lihtlausete sidumine liitlauseks. Sidesõnaga ja sidesõnata liitlause. Kahe järjestikuse osalausega liitlause kirjavahemärgistamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Otsekõne ja saatelause. Saatelause otsekõne ees, keskel ning järel. Otsekõne kirjavahemärgid. Otsekõne kasutamise võimalusi. Üte ja selle kirjavahemärgid.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Muud õigekirjateemad. Algustäheõigekiri: nimi, nimetus ja pealkiri. Isiku- ja kohanimed. Ajaloosündmused. Ametinimetused ja üldnimetused. Perioodikaväljaanded. Teoste pealkirjad.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Üldkasutatavad lühendid. Lühendite õigekiri. Lühendite lugemine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eesti Keele Instituudi veebikeskkond. Trüki- ja digisõnastike kasutamine õigekeelsuse kontrollimiseks ja tähenduste leidmiseks.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Metoodilised soovitused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Keelesüsteemi õpetamine",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "teab eesti keele häälikusüsteemi, sõnaliike ja -vorme (keeleteadlikkus)",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "eristab sõnu liigiti (keeleteadlikkus)",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "järgib eesti õigekirja aluseid ja õpitud põhireegleid (keeleteadlikkus)",
+                  "outcomeType": "attitude"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "esitab kuuldu ja loetu kohta küsimusi, avaldab viisakalt ja olukorrast lähtuvalt arvamust, sõnastab järelduse (suuline ja kirjalik suhtlus)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "tunneb keele ja kirjanduse valdkonna teabekeskkondi, leiab neist vajaliku teabe (teksti vastuvõtt)",
+                  "outcomeType": "knowledge"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Käändsõna Kääne, tüvi, tunnus, lõpp, põhikäänded. Käändsõna arv, ainsus ja mitmus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Põhikooli õpilasel on eesti keele grammatika omandatud suulisest keelest, koolis asub ta õppima grammatikasüsteemi eripärasid, et eesti keele olemust sügavamalt tunnetada. Siinkohal näitlikustab grammatikaõpetust käändesüsteemi õppimine.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilasel on kooli tulles käänetesüsteem juba omandatud, ent käänete õppimine annab õpilastele süsteemse ülevaate eesti keele toimimisest ja muudab olemasolevad igapäevamõisted <strong>teadusmõisteteks</strong>. Selleks on oluline oma teadmised sõnadesse panna ehk luua <strong>deklaratiivsed teadmised</strong>, need on teadmised, mida õpilane oskab <strong>verbaliseerida</strong>, keele kaudu väljendada. Grammatika õppimisel peetakse oluliseks keelessüsteemist rääkimist, sest see omakorda toetab mõtlemisprotsessi. Käänete õppimise fookuses võiks olla arusaam käändesüsteemi olemusest ja käänetevahelistest seostest. Käändesüsteemi õpetades saab tugevdada õpilaste loomulikku keeletaju ja näidata, kuidas nad tegelikult juba teavad, kuidas käänata. Selliseid õpilaskeskseid avastusi sobib käivitama tunni fookust silmaspidav keelematerjal, näiteks võib õpilastele anda lugeda teksti või lauseid, millest teatud käändelõpud puuduvad ja küsida, mis teeb selle teksti imelikuks, mis on puudu. Seejärel võib paluda õpilastel puuduolev ise lisada. Sedamööda saab hakata nähtavaks tegema käändesüsteemi elemente.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Grammatika õpetamisel on oluline <strong>suunata õpilasi arutlema</strong> ja pakkuma oma seletusi ühele või teisele keelenähtusele. Abiks võivad olla võrreldavad fraasid (<em>kolm jäätis</em> vs <em>kolm jäätist</em>) või laused (<em>Laenasin klassikaaslane oma telefon</em> vs <em>Laenasin klassikaaslasele oma telefoni</em>), miks mitte pikem tekstikatkend, mille õpetaja on ette valmistanud. Keelematerjali saab diferentseerida esiletõstudega. Näited aitavad tunni alguses arutelu käivitada ja <strong>mõtlemist aktiveerida</strong>. Siin on õpetajal oluline olla vestluse suunaja, kes juhib küsimustega õpilase avastuseni. Pidada võib <strong>sokraatilist vestlust</strong>, mille eesmärk on juhtida õpilane mingi kindla teadmiseni, või <strong>heuristilist vestlust</strong>, mille eesmärk on juhtida õpilased avastuseni (vt Org 2010). Sellisteks vestlusteks on õpetajal vaja eelnevalt koostada küsimused, lisaks õpilaste pakutud vastuseid laiendada ja suunata, hoidudes samas vastuste ette ütlemisest. Arutelu toetamiseks võib esmalt paluda arutleda paarides, seejärel pidada klassivestlust.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Käänete moodustamise põhimõtteid õpetades on oluline teada, et on <strong>kolm põhikäänet</strong> (nimetav, omastav, osastav), ning et omastava käände tüve alusel moodustatakse teisi käändeid. Selle seose märkamiseks võib õpilastel paluda uurida käänete tabelit, kus on markeeritud omastava tüve korduv osa. Diferentseerida saab nii, et vastavalt õpilasele võimetele uuritakse käändetabelit osade kaupa ja tõstetakse markeeringutega esile teatud osad, et tähelepanu koonduks korraga vaid vajalikule. Seoste loomisel on oluline rõhutada järjekorda: kolm põhikäänet, sisekoha- ja väliskohakäänded, viis viimast käänet, sh ni-na-ta-ga käänded ehk rajav, olev, ilma- ja kaasaütlev.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>II kooliastme õpilast võiks suunata teadvustama, et sõna koosneb erinevatest osadest. Mõiste <strong><em>tüvi</em></strong> on vajalik järgmiste teemade õppimisel (liitmine, tuletus, kokku- ja lahkukirjutamine, astmevaheldus). Õpilast võiks suunata sõna analüüsima ja uurima, millistest osadest sõna veel koosneb. Teiseks võib toetada õpilaste keeletaju keeleterminite üle mõtlemisel. Eesti keele grammatikaterminid on üsna läbipaistvad: <strong><em>ainsus</em></strong>, <strong><em>mitmus</em></strong> võivad olla tuttavad teiste sõnade kaudu, nii võib suunata õpilasi ise seletama, mida need sõnad tähendavad. Samuti on läbipaistvad eesti käändenimetused: õpilaste tähelepanu võiks suunata sellele, et mitmed käändelõpud kajastuvad ka käändeküsimustes. Õpilasi võiks suunata ise selgitusi pakkuma, miks on nt sise- või väliskohakääne nimetused just sellised, või kuidas peegeldub viimase viie käände nimetuses pisut ka nende tähendus.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Ka terminid <strong><em>tunnus</em></strong> ja <strong><em>lõpp</em></strong> peaks kinnistuma, sest neid sõnu on tarvis hiljem keelereeglite selgitamisel. Õpilased võiksid grammatikaterminite õppimisel võimalikult aktiivsed olla ja tuleks julgustada ise selgitama, miks on mitmusel tunnus ja käändel lõpp, ja mitte vastupidi. Need terminid on keelest rääkimise keel ehk <strong>metakeel</strong>, mida õpilane vajab selleks, et keelt iseloomustada ja kirjeldada. Jälgima peaks, et õpitav termin, nt käändesüsteemi puhul <em>tunnus</em> ja <em>lõpp</em>, korduks õpilaste endi tekstides vähemalt seitse korda, st õpilased peaks olema tunni jooksul olukorras, kus nad saavad rääkida ja kirjutada, kasutades õpitavaid termineid mitmel korral. Metakeel jääb passiivseks, kui seda kasutab vaid õpetaja.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Õpetaja võiks eraldi tähelepanu juhtida sellele, et käänded on eesti keele eripära, võrdluseks võiks tuua teisi keeli (vene keel, inglise jne) ja nende eessõnu kõrvutada. Näitlikustamisel võiks kasutada lauseid, skeeme, jooniseid, mille õpilased endale vihikusse teevad. Õpilasi võiks suunata arutama, kas käänded teevad keele õppimise lihtsamaks või keerulisemaks. Siin saavad õpilased jutustada oma senistest keeleõppekogemustest, mitmekeelsed õppijad saavad tuua näiteid, kuidas nad seda erinevust tajuvad ja mõtestavad.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Tunni sissejuhatuse ja käänetevahelisi seoseid ilmestavate harjutuste järel võiks õpilane üksi, paaris või rühmas koostada käänete tabeli. Kasutada võiks <strong>ajust ammutamise strateegiat</strong>, mis seisneb selles, et õpilane paneb ilma abita kirja nii palju, kui ta esialgu teab, hiljem täiendatakse tabelit materjalide järgi, milleks sobib nii õpik kui ka Sõnaveebi käändetabel. Õpetaja võib anda igale õpilasele/rühmale eraldi sõna, mida käänata, seejärel saab tulemusi võrrelda. Kõik õpilased võiks käänetetabeli isikupärasel viisil kujundada, kasutades värvilisi esiletõste ja märke nii, et käändesüsteemi elemendid tõuseks selgelt esile. Kui tabel on valmis, võiks õpilased õpitut üldistada ja kirjeldada, milline on eesti keele käändesüsteem, mis osadest see koosneb, ja millised on käänete moodustamise põhimõtted. Nii kinnistuvad teadmised ja õpilasel kujuneb teadusmõisteline mõtlemine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Ainelõimingut</strong> saab teha mis tahes ainega, kui valida uuritavaks tekstikatkendiks mingi teise aine tekst. Tihedamalt saab lõimida <strong>kirjandusega</strong>. Käände- ja pöördevormide kasutamist võivad õpilased uurida ka luule-, proosa- või draamatekstide näitel. Käände- ja pöördemõisteid on lõimitud luulessegi, näiteks Contral on luuletus “Seestütlev jänes” (Vikerkaar 2002, nr 8-9), kus ta kasutab koomilise efekti tekitamiseks teatud käändevorme.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Üldpädevustest saab siin arendada õpilaste <strong>õpipädevust</strong>, kuidas leida ning kontrollida veaohtlikke vorme paber-ÕSist, ühtlasi saab õpetaja tutvustada <a href=\"http://eki.ee\">eki.ee</a> kasutust ja Sõnaveebi käändetabelit. II kooliastmes vajab õpilane suunamist ja eelkõige teadmist, millised keeleallikad on olemas, ja mida neist leida võib. Õpipädevus areneb ka juhul, kui õpilane saab aru, kuidas luua endale ise õpimaterjali, näiteks luues endale ise käändetabeli, tõstab selles erineva grammatikaalase teabe eri viisidel esile, süstematiseerib teabe ja kirjutab selle loetavalt ja kujunduslikult silmasõbralikuna. Õpilane võib enda teadmiste kinnitamiseks luua ka rühmatööna Kahoodi, mille teised saavad klassis läbi mängida. <strong>Testimine ja enesetestimine</strong> on üks tõhusamaid õpistrateegiaid, mis kinnistab meeldejäetavat.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Enesemääratluspädevust</strong> arendab tõhus mõistete õppimine, mille käigus saab areneda õppija baasvajadused: pädevus-, seotus- ja iseseisvusvajadus. Pädevusvajadus saab tuge, kui õppijat suunatakse eelteadmisi rakendama. Näiteks, kui õpetaja julgustab kasutama olemasolevaid keeleteadmisi käändesüsteemi kohta ja toetab teadusmõistete kujunemist. Seotusvajadust saab toetada paaris- ja rühamtöödega, mille eesmärk on käändesüsteemi üheskoos avastada, üksteise teadmisi ära kasutades. Iseseisvus areneb keeleallikatega töötades, oma käändetabelit luues ja ise oma tegevusi planeerides.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://www.eki.ee/dict/psv/grammatikatabelid.pdf",
+                  "title": "Eesti Keele Instituudi grammatika tabelid"
+                },
+                {
+                  "kind": "link",
+                  "href": "http://prog.keeleressursid.ee/opimekaandeid/",
+                  "title": "Käändemäng"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sonaveeb.ee/",
+                  "title": "Eesti Keele Instituudi Sõnaveeb (käändetabel moodustub paremal pool, rubriigis “Sõnavormid”)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://oppekava.ee/kusimuste-koostamine-kirjandusteksti-pohjal/",
+                  "title": "Andrus Org 2010. Küsimuste koostamine kirjandusteksti põhjal."
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Contra. 2002. Seestütlev jänes. - Vikerkaar nr 8-9.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kui käänded on seostatud, läbi arutatud ja lahti kirjutatud, siis sobivad käänete püsivaks meeldejätmiseks ja kordamiseks kiired liikumistegevustega tunnikontrollid. Näiteks võib järgmise tunni alguse steha mängu, kus õpilased seisavad püsti ja õpetaja küsib õpilastelt järjest käändeid ning palub mõnda sõna selles käändes käänata. Need, kes veel ei oska, saavad alles siis istuma, kui kõik käänded on tehtud ja õpetaja tuletab neile meelde, mida on tarvis juurde õppida.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kokkuvõtva hindamisena võib teha keelelist analüüsi sisaldava töö. Ühelt poolt tuleks kontrollida õpilaste <strong>teadmisi keelesüsteemist</strong> (käänamistabel), teisalt selle <strong>süsteemi avaldumisest keelekasutuses</strong>. Töö võib ühelt poolt koosneda käändetabeli loomises, teiselt poolt tekstikatke või lausete analüüsist, kus õpilane peab õpitud metakeele abil sõnu analüüsima. Töid koostades tuleks jälgida, et õpilasel oleks võimalik vastuseid anda lausete kujul, vältida tuleks lünkteste, vastuse lahtreid, sest teadmised on omandatud vaid siis, kui on tekkinud püsivad seosed. Praktilises keelekasutuses on õppijal käänamisalased teadmised olemas, seega tuleb tagada, et töö kontrolliks teadusmõistete omandamist. Sügav õppimine on võimalik vaid juhul, kui õpilane moodustab lauseid, sest laused on mõttetervikud. Näiteks võib õpilastele anda tekstikatkendi, milles on esile tõstetud teatud sõnad või palutakse õpilasel endal valida teatud sõnad. Neid sõnu võiks õpilane analüüsida ja kirjutada välja, kas tegu on ainsuse või mitmusega, märkida tüve piiri, käändelõpu, mitmuse tunnuse ja määrama käände. Töö lõpuks võib koostada kokkuvõtte: mitut käänet kasutati, millised olid lõpud, mitu sõna oli ainsuses, mitu mitmuses jne. Oluline on panna õpilane olukorda, kus ta aktiivselt selgitab, kirjeldab ja iseloomustab keelt.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Keelereeglite õpetamine",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "kirjeldab eesti keele häälikusüsteemi ja kaashäälikuühendi reeglit ja erandeid (keeleteadlikkus)",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "järgib kirjutamisel õpitud häälikuõigekirjareegleid (keeleteadlikkus)",
+                  "outcomeType": "attitude"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "esitab kuuldu ja loetu kohta küsimusi, avaldab viisakalt ja olukorrast lähtuvalt arvamust, sõnastab järelduse (suuline ja kirjalik suhtlus)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "tunneb keele ja kirjanduse valdkonna teabekeskkondi, leiab neist vajaliku teabe (teksti vastuvõtt)",
+                  "outcomeType": "knowledge"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kaashäälikuühendi põhireegel, kaashäälikuühendi põhireegli erandid, <em>-gi</em> ja <em>-ki</em> liide ja selle õigekiri</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õigekirjareegleid õpetatakse selleks, et õpilane valdaks kirjakeelt. Kui üldiselt on eesti keeles häälikute pikkuse märkimine häälduspärane, ei kehti kaashäälikuühendis, milles märgitakse iga täht ühekordselt. Enamasti eksitakse kaashäälikuühendi õigekirjas, sest emakeeleõppija juhindub oma keeletajust, mis tugineb suuresti suulisele keelele. Et suulisest keelest tuttavat ja kirjakeeles uut kokku viia, võiks õpilased <strong>uurida näiteid</strong>, kus kaashäälikuühend korrektsel kujul esineb. Selleks sobivad tekstid õpilase ümbert, näiteks õpikutekstid, kus kindlasti leidub kaashäälikuühendit. Õpilastega võiks uurida erinevaid sõnu, milles kaashäälikuühend esineb.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Reeglite õpetamisel on kaks peamist viisi: <strong>deduktsioon</strong> ja <strong>induktsioon</strong>. Deduktsioon on reeglite õpetamise viis, kus esmalt tutvustatakse reegleid, seejärel näiteid ja harjututakse. Induktsioon on reeglite õpetamise viis, kus esmalt tutvustatakse näiteid ja seejärel tuletatakse neist reeglid. Emakeeleõppijale sobib induktsioon hästi, sest see aitab tugevdada loomulikku keeletaju. Keelereeglitele võib läheneda neid viise kombineerides. Deduktsioon sobib juhtudel, kus reegel on selge ja ühene. Induktsioon sobib komplekssemate reeglite puhul, nagu kaashäälikuühend. Õpilastele võib jagada sõnapaarid: <em>kuppel: kuplid; homme: homsed</em> vms. Seejärel võib küsida, milliste häälikutega siin tegu on, ja millist häälikumuutust õpilased märkavad kahe sõna võrdluses. Näiteid võib lisada ja paluda õpilastel seda muutust selgitada (vt ka Aruvee 2012).</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Omavahelise nuputamise toeks sobib <strong>üksi-paaris-ühiselt meetod</strong>: esmalt mõtleb igaüks ise, seejärel arutatakse paaris ja viimaks üle klassi. Järkjärguline liikumine toestab ja kaasab õpilasi. Õpilased võiks enda loodud reeglid kirja panna ja välja öelda, siis valida täpseim reegel ja kontrollida, kas keeleallikas või õpikus on samamoodi. Seejärel võiks õpilased erinevaid harjutusi teha: nii lüngaga harjutusi, kus tuleb ühend lünka õigesti kirjutada, kui ka parandamist nõudvaid ülesandeid. Harjutustes võiks kasutada terviktekstide katkendeid või üksikuid fraase, mis on õpilasele tähenduslikud ja pigem tuttavad, vältida võiks olukorda, kus harjutuste keelendid on valitud üksnes vormi pärast ja keelendi tähendus jääb mõistmatuks. Harjutuste lauseid võib noppida ka keeleõppija korpusest <a href=\"https://skell.sketchengine.eu/#home?lang=et\">etSkell</a>. Õppeprotsessi lõpuks võib õpilane koostada ise endale konspekti kaashäälikuühendi reegli kohta, juurde tuleks lisada ka näited.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kaashäälikuühendi reegli nelja erandit saab samuti õpetada induktiivselt. Õpetaja võib moodustada neli tulpa vastavalt eranditele. Diferentseerimiseks võivad vilinumad õpilased erandeid tekstidest ise otsida ning tuletada ka erandite põhjused, mida keeleallikate või õpiku toel kontrollida. Kui õpilased vajavad rohkem tuge, võiks tulpades kasutada esiletõste ja valmistada ette küsimused, mis õpilaste avastust suunaks (vt Aruvee 2012, Aruvee 2016).</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Reeglite kinnistamisel võib kasutada erinevaid aktiveerivaid, nuputamist ja mängustamist kasutatavaid võtteid. Õpilasel võib lasta koostada ristsõna kõigi erandite kohta (-<em>ki</em>,- <em>gi</em>; ülipikk <em>s</em>; liitsõna; liide algab sama tähega, millega lõpeb sõna).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kui kaashäälikuühendireegli vastu eksimist analüüsida enda või teiste tekstides, siis areneb õpilase <strong>enesemääratluspädevus</strong>, õpilane mõistab, millised on tema vead, ning kus ta peaks veel pingutama. Seega võiks õpilasi suunata enda vigu analüüsima. Ainesiseselt saab kaashäälikuühendi reeglit õppides lõimida suulise ja kirjaliku suhtlusega, mis arendab rühmas arutlemise oskust ja aktiivselt vestluses osalemist. Valdkondlikku lõimingut saab rakendada, kasutades kaashäälikuühendiga sõnu, mis esinevad kirjanduse aines loetavates tekstides. Kirjandustekstid pakuvad võimalust keelearuteludeks (nt Wimbergi või Maarja Kangro luule).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Maarja Kangro luuletus, kus ta mängib kaashäälikuühendi reegliga “Nuttis kohvikus üks sell” (kogust “Ulguv rula”),</p><p>Wimbergi luulekogu “Kärppsed”</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://skell.sketchengine.eu/",
+                  "title": "Eesti keele õppijate korpus etSkell"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Aruvee, Merilin 2012. Tekstikeskse grammatikaõpetuse võimalusi emakeeletunnis. – Oma Keel 1, 93-100.</p><p>Aruvee, Merilin 2016. Tekstikeskne keeleõpetus põhikoolis: teoreetiline taust, vastutuse jagamine ja metoodika. – Emakeele Seltsi aastaraamat 62, lk 17-22.</p><p>Õunapuu, Toom. 1992. Eesti keele õpetamise metoodika. Käsiraamat emakeeleõpetajatele ja eesti filoloogia üliõpilastele. Tallinn: Koolibri, lk 51-55.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilane võib kas üksi või rühmana analüüsida vigast teksti (selle võib õpetaja ise ette anda) ning leida vead ning nimetada reegli, mille vastu on eksitud. Kontrollivormiks võivad olla erinevad etteütluse tüübid: <strong>selgitav või kommenteeriv etteütlus</strong> (vt Õunapuu 1992), kus õpilane peab lisaks õigesti kirjutamisele ja reeglit põhjendama. <strong>Valiketteütluse</strong> puhul peab õpilane üles kirjutama vaid kaashäälikuühendiga sõnad. Kasutada võib ka <strong>loovat etteütlust,</strong> kus õpilane lõpetab laused või lisab õpetaja loetule lauseid, milles peab esinema ka kaashäälikuühendiga sõnu.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tekstiloome ja keeleteadlikkuse lõiming: ametlik kiri ja üte",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "vormistab kirjalikud tekstid korrektselt nii käsikirjas kui ka arvutis (tekstiloome)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "jutustab, kirjeldab, võrdleb ja arutleb suuliselt ja kirjalikult (tekstiloome)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "järgib eesti õigekirja aluseid ja õpitud põhireegleid (keeleteadlikkus)",
+                  "outcomeType": "attitude"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "kasutab suhtluses sobivaid keelevahendeid, sh korrektset kirjakeelt õpitu piires nii suulises kui ka kirjalikus suhtluses (suuline ja kirjalik suhtlus)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "iseloomustab õpitud tekstiliike ja nende kasutamise võimalusi (teksti vastuvõtt)",
+                  "outcomeType": "knowledge"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Ametlik ja mitteametlik suhtlus, kirjakeelne ja argikeelne sõnavara, üte ja selle kirjavahemärgid, viisakus, tervitus ja lõpetus</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kirja korrektselt ja tavakohaselt vormistamise oskus on oluline suulise ja kirjaliku suhtluse oskus, samuti tekstiloome osa. Kindlas žanris ja vormis kirjutamine võiks alata <strong>õpilaste enda kogemuste analüüsist</strong>: milliseid kirju on saadud, loodud jne. Seejärel võiks liikuda <strong>näidistekstide analüüsi</strong> juurde. Uue tekstiliigi õppimisel võiks esmalt uurida üht näidist, esialgu võib mitme näidise uurimine olla liiga koormav ja tähelepanu hajutav. Kui aga õpilased on ka varem kirja või e-kirja õppinud, võib kasutada mitut näidist, neid võrrelda ja arutada selle üle, mis ühes või teises näites hästi mõjus, või mis võiks paremini olla. Oluline on rõhutada, et <strong>keel on alati valik</strong> ja kirjutajad loovad oma tekste lähtuvalt sellest, kas suhtlejad on <strong>tuttavad või võõrad</strong>; mis teemal või <strong>valdkonnas</strong> suheldakse; millised on suhtlejate <strong>suhtlusmoodused</strong>, näiteks, kas suheldakse posti teel, e-kirja teel, kiirsuhtlusrakenduses (Skype, Messenger vm), telefonis või näost näkku, st kas ollakse ühes ruumis.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Enne näidiste lugemist ja uurimist võiks õpetaja selgitada, mis valdkonda ja suhtlusolukorda kuuluvate tekstidega on tegu, või pakkuda välja variante, mille vahel õpilased valivad: suhtlejad on koolitöötajad, ülemus ja töötaja, klienditeenindaja ja klient jne. Samuti on oluline, et õpilased saaksid enne näidiste analüüsi oma kogemusest kõnelda: kus ja kellega on nad ise kirju vahetanud või ka kirjade kirjutamist näinud. Oma keelekogemusest pajatamine teeb õpitava tähenduslikumaks ja motiveerib õppima. Tausta ja konteksti avamiseks sobivad järgmised küsimused.</p><ul><li>Millise tekstiliigiga on tegu?</li><li>Mis valdkonna tekstiga on tegu?</li><li>Kes on autor?</li><li>Mis rollis on autor?</li><li>Milline võib olla autori sõnum?</li><li>Kes on kirja saaja? Milline on tema suhe autoriga?</li></ul>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kui taust ja kontekst on avatud, võiks õpetaja õpilastele tutvustada kirja (nii tavalise kui ka e-kirja) ülesehitust. Näidata ekraanil või näidistekstil, millistest osadest see koosneb. Seejärel võiks õpilased teksti või tekste lugeda ja need endale mõistetavaks teha. Siin etapis tuleks läbi arutada kõik tundmatud sõnad ja paluda teksti sisu ümber sõnastada, vajadusel esitada sisu täpsustavaid küsimusi. Lisaks võiks suunata õpilasi märkama, mis osadest tekst koosneb ja mis eesmärki üks või teine osa kannab. Siin võivad õpilased vabalt oma pakkumisi teha, õpetaja roll on julgustada arvamust avaldama. Samuti võiks õpialstel paluda tekstide ülesehitust võrrelda, kui näidiseid on mitu.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kui tekst on mõistetav, võiks asuda keelt ja ülesehitust lähemalt uurima ja jälgima, milline on kõnepruuk, millised sõnad viitavad ametlikule, millised mitteametlikule suhtlusele, millised viisakusväljendeid kasutatakse, ja kuidas üksteise poole pöördutakse. Enamasti koosnevad kirjad <strong>esitavast osast</strong> ja <strong>taustaosast</strong>. Esitavas osas kirjeldab pöörduja, mis on kirja saamise põhjus ja eesmärk, taustaosas jagatakse lisainfot, nt asjassepuutuvaid detaile, kirjeldatakse kaasasolevaid faile. Suhtlusolukorda analüüsides võiks juhtida tähelepanu olukorrale vastavatele keelelistele konstruktsioonidele. Esiteks <strong>pöördumine</strong> ja <strong>üte</strong>. Jälgida võiks, kas üte on nimeline või üldistav või kas ütte ees on ka täiend (Tere, Tiiu! <em>vs</em> Tere, õpetaja! <em>vs</em> Tere, head õpilased!). Väljendivalik osutab, kuivõrd lähedased on suhtlejad. Seejärel võiks uurida, kuidas ütet kirja pannakse ja juhtida õpilaste tähelepanu komale, mis ütet tervitussõnast eraldab. Oluline on rõhutada, et üte on pöördumissõna ja et see kannab tähendust ning osutab suhtlemisolukorrale. Ka suhtluse lõpetuse vormel sõltub samadest asjaoludest, näiteks võivad võõrad öelda “Parimate soovidega”, tuttavamad aga “Päikest!”. Keeleliste valikute juures tuleks pöörata tähelepanu ka õigekirjale, iseäranis kirja lõpus olevale komata lauselühendile. Teksti põhiosas (esitav osa ja tausaosa) ilmnevad samuti suhtlusolukorra iseloomujooned: kui suhtleja on paluja, on tema keelekasutus leebe, pehme, viisakas; kui suhtleja on nõudja, on ilmselt tema keelekasutus otsekohesem, järsem. Siin on võimalik suhtleja roll ja eesmärk kokku viia keelevalikutega ning paluda õpilastel leida tekstist näiteid, mis näitavad, et suhtlus on lähedane, nõudlik vms.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Üldpädevustest võiks siin olla esile tõstetud <strong>sotsiaalne ja kodanikupädevus</strong>, samuti on oluline teada ja järgida ühiskondlikke väärtusi ja norme. Tunnis võib mõtiskleda või arutelu korraldada, mis juhtub, kui mitteametlik kiri satub ametlikku keskkonda, või vastupidi - kuidas mõjub näiteks sõprade seas ametlik keelekasutus. Klassiga võib kirjutada samal eesmärgil kirju, aga vahetada valdkonda, rolle. Neid kirju võib analüüsida, ette lugeda, võib mõelda ka olukorrale, kui kirjad läheks vahetusse.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>“Õpetaja Maurus selgitab” I osa. E-kirja vormistamine;</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=bibfaemUgVM&amp;t=2s"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Raadik, Maire 2014. Väikesed tarbetekstid. Käsiraamat. Tallinn: Eesti Keele Sihtasutus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilane koostab ise vastavalt kas e-kirja või tavalise kirja, vormistades selle korrektselt ning valides sobiva sõnavara. Kiri võib olla nii ametlik kui ka mitteametlik, kui tegemist on e-kirjaga, siis saab selle kohe nt <em>Google Classroomi</em> teha, et õpetajal oleks ülevaade. Teine võimalus on õpilastel omavahel kirju vahetada nii, et valitakse kindel suhtlusolukord, määratakse suhtlejate rollid ja eesmärk. Sel kombel tekiks suhtlejate vaheline dialoog, mis <strong>matkib päriselulist suhtlusolukorda</strong>. Õpetaja saab seda hinnata paaristööna ja anda õpilastele tagasisidet selle põhjal, kuivõrd sobivalt on õpilased kirjutanud, kas on olemas kõik vajalikud tekstiosad, ning kas vahemärgistus on korrektne.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sugulaskeeled ja rahvad",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õpitulemused",
+              "children": [
+                {
+                  "kind": "outcome",
+                  "text": "nimetab Eestis kõneldavaid keeli, sugulaskeeli ja rahvaid, jutustab, kirjeldab, võrdleb ja arutleb suuliselt ja kirjalikult (keeleteadlikkus)",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "rakendab omandatud keeleteadmisi tekstiloomes ja -analüüsis (keeleteadlikkus)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "eristab nime ja nimetust, märgib enda tekstis nimed ja nimetused korrektselt (keeleteadlikkus)",
+                  "outcomeType": "knowledge"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "loeb ja mõistab eakohaseid õpi- ja elutarbelisi ning huvivaldkondade tekste (teksti vastuvõtt)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "võrdleb tekste, esitab küsimusi, avaldab arvamust, teeb tekstist lühikokkuvõtte (teksti vastuvõtt)",
+                  "outcomeType": "skill"
+                },
+                {
+                  "kind": "outcome",
+                  "text": "tunneb keele ja kirjanduse valdkonna teabekeskkondi, leiab neist vajaliku teabe (teksti vastuvõtt)",
+                  "outcomeType": "knowledge"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>eesti keel teiste keelte seas, sugulaskeeled ja -rahvad, eesmärgistatud kuulamine ja vaatamine, algustäheõigekiri: nimi, nimetus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õppeprotsessi eesmärk on tutvustada õpilasele, milline on eesti keele koht maailmas ja kuidas see paigutub teiste keelte konteksti. Alustuseks võiks arutleda, milliseid keeli õpilased teavad, millised on suuremad keeled, milliseid võõrkeeli õpitakse. Juttu võiks teha Eestis kõneldavatest keeltest, suurematest vähemuskeeltest, nagu vene, ukraina, tatari, jidiši, mustlaskeel või soome keel. Õpilased võiks Eesti vähemuskeelte kohta guugeldada või näitab õpetaja ekraanilt, milliseid tulemusi ta vähemuskeelte kohta otsides leiab, kasutada võiks statistikaameti värskemaid andmeid. Leitud info põhjal võib kirja panna huvitavaid fakte, näiteks, mitu viipekeele kõnelejat Eestis on, või mitu erinevat emakeelt meil leidub. Oluline on teada, et eesti keel on riigikeel, kuid emakeeled võivad inimestel olla erinevad, kui klassis on teise kodukeelega lapsi, võiks kirja panna, kui mitut erinevat ema- või võõrkeelt klassi peale kokku vallatakse.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Lähemalt peaks aga tutvuma soome-ugri keeltega. Kui õpilastel on soome-ugri keelte kohta eelteadmisi, võiks viia läbi <strong>ajurünnaku</strong> ja märksõnad ühiste teadmiste kohta tahvlile kanda. Seejärel võiks aruteluga liikuda lähiriikide keelte juurde ja tutvustada soome keelt ning teisi soome-ugri keeli. Siin on kaks võimalust: <strong>õpetajakeskne</strong> ja <strong>õpilasekeskne</strong>. <strong>Õpetajakeskne materjali esitamine</strong> tähendab, et õpetaja tutvustab sugulaskeeli ja rahvaid ise, koostab esitluse, otsib materjali, nt pilte, videolõike, kuulamispalu vms. Teine võimalus on kasutada kellegi teise koostatud materjali. Vaadata võib ka Videoõpsi videot “Keelesugulus. Keelepuu. Soome-ugri keeled. Hõimurahvad”, mis tutvustab keelesugust üldisemalt.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Materjali esitades tuleb arvestada, et II kooliastmes ei püsi õpilase tähelepanu kuulataval pikalt, üle 10 min pikka loengulist esitlust, saadet vm materjali ei maksa tundi planeerida. Õpilase tähelepanu hoidmiseks on paslik kasutada <strong>jälgimislehte</strong>, mida õpilased peavad esitluse ajal täitma või anda esitluse ajaks kuulamisülesanne, näiteks teha vihikusse märkmeid. Siin tuleks aga mõelda, kuidas märkmeid struktureerida, sest II kooliastmes ei saa õpilaselt eeldada konspekteerimise oskust. Õpetaja peaks andma <strong>selged juhtnöörid</strong>, mida tuleb esitluse ajal vihikusse kirjutada. Toeks võib olla <strong>tabel</strong> või <strong>magnetkokkuvõtte</strong> (Buehl 2002), mis seisneb selles, et iga sugulaskeele kohta märgitakse üles kindlad faktid: nt asuala, kultuuriline eripära, keelenäiteid vms. Struktuuri võiks tahvlile ette teha. Märkmete tegemine eeldab õpilaselt konteksti tundmist, et asetada kuulatav laiemasse pilti, teiseks mõistmist, st et õpilane peab aru saama sõnadest, lausetest. Kui õpetaja mainib uurali keeli, tuleks ka seostada see Uurali mäestikuga, mida saab kaardilt näidata, st luua seosed, et kõneldav meelde jääks. Vältida tuleks olukorda, kus õpilane keskendub üles kirjutamisele, kuid ei mõtesta materjali. Selle ärahoidmiseks võiks materjali esituse ajal pause, sõnastada räägitut teisiti ümber.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kuulamist tõhustab see, kui anda õpilasele kuulamise ajaks <strong>aktiveerivaid ülesandeid</strong>: esitada üks täpsustav küsimus, võrrelda üleskirjutatut naabriga või teha <strong>kiire guugeldamine</strong>, eesmärgiga lisada mingi infokild. Materjali esituse järel võiks õpilased endale ise keelepuu joonistada, mõeldes seejuures läbi, millise kujundusega see luua, nt millised puu harud või oksad on kõige suuremad. Erinevaid näiteid keelepuu kohta leidub guugeldades, Youtube’is (vt “Uurali kaja”, Videoõps) või Vikipeedias. Kui esitlus on lõppenud, tuleks vaadata üle, mis vihikusse kirja sai, selleks võib õpetaja esitada pistelisi kontrollküsimusi üle klassi, veendumaks, et kõigil õpilastel on saanud kirja samad andmed.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kui klassis on teise emakeelega õppijaid, võiks kuulamist ja esitluse jälgimist toetada <strong>infolüngaga tekst</strong> (Dale jt 2018). Keeleõppija jaoks jääb märkmete tegemine liialt keerukaks ülesandeks, kuid temale võib anda lünkteksti, mis sisaldab õpetaja ettekantavat teksti koos infolünkadega. Keeleõppija peaks selle eelnevalt läbi lugema, et nii paremini ära tunda õpetaja ettekandes tuttavat keelematerjali. Samuti peaks ta teadma, mis sorti infot peab ta kuulamise ajal lünka kandma. Õpetaja võib teha väikseid pause või anda märku, mil on paras aeg lünka täita, kui ka see keerukaks jääb. Siin saab rakendada paaristööd: ühel paarilisel on ühed infolüngad, teisel teised ning sel ajal, kui ülejäänud klass oma konspekte võrdleb ja kontrollib, võivad keeleõppijad üksteise infolünki üle kontrollida ning vaadata, kas mõlemal on lõpuks täpselt samasugune tekst.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Õpilaskeskne lähenemine</strong> tähendab, et õpilased koostavad ise esitluse. Sugulaskeelte ja sugulasrahvaste kohta on erinevatel veebilehtedel küllalt palju teavet, millega õpilased võiks suuniste alusel iseseisvalt tutvust teha (vt alt Fenno-Ugria, Vikipeedia, Eki sõnaraamatud, fonoteek, “Uurali kaja”). Samuti võib koostada lühiuurimuse, mis võib olla nii individuaal-, paaris- kui ka rühmatöö tulemus. Esitluse koostamisel saab õpilane keskenduda ka riikide erinevustele (kes on president, milline riigikorraldus, milline on lipp, kui suur on pindala, kus asub territoorium jms), või geograafilise asukoha iseärasustele, nt kasutada Google Mapsi, et teemat käsitledes tekiks püsivam seos. Lõimingu võimalusi on siin mitmeid, kuid rõhuasetus olema just keelel ja kultuuril. kindlasti võiks esitlsiute osana otsida keelenäiteid, nt koostada ise mõni lause ja kindlasti tutvustada kultuurilisi tavasid ja kombeid (vt nt Fenno-Ugria lehte).</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Esitluste koostamise eel on hea meelde tuletada ja seostada nime ja nimetuse õigekirja reegleid, millal on <em>eesti</em> väikese tähega ja millal on <em>Eesti</em> suure tähega Lisaks võiks kokku leppida vormistusreeglid ja esitluse formaadi. Ettekannete ajal võiks kuulaja rollis õpilased täita <strong>jälgimislehte</strong>, mis hoiaks tähelepanu kuulataval ja suunaks ettekantava kohta küsimusi esitama</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Pärast soome-ugri keelte üldist tutvustamist tuleks <strong>lähemalt uurida keelenäiteid</strong>. Õpilased võiks võrrelda kas üksi või paaris eesti keelt mõne läänemeresoome keelega, mis on meie lähimad sugulaskeeled. Näiteks võib võrrelda eesti keelt ja soome keelt või eesti keelt ja vadja keelt, sest vadja keel on eesti keelega kõige sarnasem. Esmalt võiks õpilased <strong>leida üldisi ühisjooni</strong> (käänded, pöörded, sõnad, kõnelejate arv) ja mis on erinevat (käänded, pöörded, sõnad, kõnelejate arv, häälikute häälduserinevused, võib soome <em>l</em>-häälikut kõrvutada eestipärase <em>l</em>-iga, vadja <em>š</em>-d eesti <em>s</em>-ga). Seejärel võiks <strong>keelenäiteid anallüüsida</strong>. Lauseid võib tõlkida Google Translate’iga ja kuulata hääldust, kasutada nt vadja keele sõnaraamatut, eesti-soome ja soome-eesti sõnaraamatut. Samuti võivad õpilased kindlate aspektide alusel eesti ja teise läänemeresoome keele lauseid võrrelda. Võrdlusaluseks sobivad varasemalt õpitud keeleteadmised, nt kui õpitud käänamis- või pööramisüsteemi, häälikuid, tegusõna aegu, sõnaliike vms. Kasutada võib EKI fonoteeki (vt allikaid), kus on iga keele kohta mitmeid näiteid. Neid klippe võib lühemalt ette mängida, nt 1 min, kuid kindlasti tuleks kuulata keelenäiteid mitu korda, sest esialgu kõlab võõras keel arusaamatult. Õpilastele võib anda ülesandeks noppida kuulatust välja üksikud tuttavad sõnad, see eeldab õpilaselt <strong>eristava kuulamise</strong> oskust. Eesmärk pole mitte teksti mõista, vaid tunda ära mõni tuttav sõna. Kui esimesel korral sõnu ära ei tunta, võib kolmandal kuulamisel juba mitmeid tuttavaid sõnu kostuda. Sedasi saab toetada õpilaste pädevusvajadust ja rõhutada, kui oluline on materjali mitu korda lugeda või kuulata.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Seda teemat saab läbida paljude <strong>ainete lõimingus</strong>. <strong>Geograafia</strong> ja <strong>ajalooga</strong> saab luua seoseid, kui analüüsida neid paiku ja rahvaid, kust on pärit tunnis vaadeldavad sugulaskeeled. Uurida kaarte, lasta õpilastel ise joonistada kaarte, et tekiks seos ja arusaamine, mis sorti rahvastega on tegu ja milline on nende kultuuriline, majanduslik ja poliitiline olukord. Lõimida saab ka <strong>kodundusega</strong>, nt uurida Fenno-Ugria lehelt sugulasrahvaste toiduretsepte ja neid katsetada. <strong>Lõimingus kirjandusega</strong> saab samalt veebilehelt kuulata sugulasrahvaste muinasjutte, või anda neid lugeda sarjast “Saja rahva lood”.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kõige loomulikum lõiming on <strong>kultuuri- ja väärtuspädevusega</strong>, mida saab iseäranis hästi kujundada, kui tutvuda süvitsi iga sugulasrahva poliitilise olukorra ja elu-oluga ning osata kirjeldada keelelist eripära.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Veebituur näitusel “Uurali kaja”: soome-ugri keelesugulus;</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=Bw6TZ1gh3XE"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Keelesugulus. Keelepuu. Soome-ugri keeled. Hõimurahvad |VIDEOÕPS Eesti keel | Soome-ugri videod #1;</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=OYf-ZWAPX3A"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://eelmine.e-koolikott.ee/oppematerjal/27543-Soome-ugri-keelesugulus",
+                  "title": "Soome-ugri keelesugulus. E-koolikott"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://portaal.eki.ee/sonaraamatud.html",
+                  "title": "Eesti keele instituudi sõnaraamatud, sh sugulaskeelte sõnaraamatud"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.eki.ee/murded/fonoteek/index.php?leht=3",
+                  "title": "EKI fonoteek"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://fennougria.ee/",
+                  "title": "Fenno-ugria koduleht"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Liz Dale, Wibo van der Es, Rosie Tanner. 2018. LAK-õppest õpetajale. Innove. Tartu: Atlex.</p><p>Buehl, Doug 2002. Interaktiivõppe strateegiad klassiruumis. Omanäolise Kooli Arenduskeskus. Tartu: Sulemees.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilaste koostatud ettekannete esitlusi võib hinnata koos klassiga. Selleks tuleks õpetajal ette valmistada <strong>hindamiskriteeriumid</strong>, need võib ka koos õpilastega kokku leppida. Hindamiskriteeriumid peavad olema jõukohased ning sisaldama mitte liialt paljusid aspekte. II kooliastmes võib kasutada <strong>kontrollnimekirja</strong>, st loetelu, mis sisaldab hinnatavaid kriteeriume, näiteks sobivad järgmised kriteeriumid.</p><ul><li>Esitlusel on kena kujundus</li><li>Igal slaidil on teksti parasjagu (5X5 reegel): kuni 5 rida üksteise all, 5 sõna reas</li><li>Esitlusel on kirjas kasutatud allikad</li><li>Esitluses on kasutatud pilte</li><li>Esitluse sisus on toodud sugulasrahva asupaik ja rahva arv</li><li>Esitluses on toodud 3/4/5 fakti sugulasrahva kultuuri ja kombestiku kohta</li><li>Esitluses on toodud 1/2/3 keelenäidet</li><li>Esitlus on ette kantud soravalt ja ilmekalt</li></ul>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Esitlusi võivad õpilased kriteeriumite alusel ise hinnata või hindab neid õpetaja. Juhul, kui hindavad kaasõpilased, võiks neil olla hindamiseks samade kriteeriumite alusel koostatud <strong>hindamisleht</strong>. Hindamislehele tuleks kuulamise ajal märkida, kas kriteerium esines, mil moel. Kriteeriumid võib klassi peale ära jagada, nii et üks õpilane ei jälgiks korraga üle kolme kriteeriumi, vastasel juhul võib tähelepanu hajuda.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

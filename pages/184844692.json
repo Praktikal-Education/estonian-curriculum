@@ -1,0 +1,814 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "SOOVITUSLIK ÕPPESISU",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>III kooliastmes jaguneb lihtsustatut õppekavas tööõpetus kolme valdkonda:</p><ul><li>tehnoloogiaõpetus (7.-9. klass)</li><li>käsitöö ja kodundus (7.-9. klass)</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused III koolastme lõpetamisel tehnoloogiaõpetuses",
+      "children": [
+        { "kind": "text", "html": "<p>9. klassi lõpetaja:</p>" },
+        {
+          "kind": "outcome",
+          "text": "väärtustab isetegemist;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "planeerib oma tegevust ja kontrollib selle tulemust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab ja kombineerib traditsioonilisi ning nüüdisaegseid materjale, tööriistu ja tehnoloogilisi vahendeid turvaliselt ning otstarbekalt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb tööjoonist õpitud teadmiste- oskuste ulatuses;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab lihtsamaid esemeid, kasutades erinevaid tehnikaid ja materjale (sh taaskasutus) õpetaja juhendamisel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab ainealast teabekirjandust ja vastavaid veebilehti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja mõistab etiketil, skeemil, juhendil jne olevat teavet ja juhindub sellest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab tingmärke ning oskab vajaduse korral leida veebist vajaminevat infot;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel taaskasutada erinevaid materjale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib tervisekaitse- ja tööohutusnõudeid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused III koolastme lõpetamisel käsitöö ja kodundus",
+      "children": [
+        { "kind": "text", "html": "<p>9. klassi lõpetaja:</p>" },
+        {
+          "kind": "outcome",
+          "text": "väärtustab isetegemist ja tervislikku eluviisi;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab ja kombineerib traditsioonilisi ning nüüdisaegseid materjale, tööriistu ja tehnoloogilisi vahendeid turvaliselt ning otstarbekalt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab lihtsamaid esemeid, kasutades erinevaid tehnikaid ja materjale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab ainealast teabekirjandust ja vastavaid veebilehti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb ja mõistab etiketil, skeemil, juhendil, retseptil jne olevat teavet ja juhindub sellest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab tingmärke ning oskab vajaduse korral leida veebist vajaminevat infot;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel taaskasutada erinevaid materjale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib tervisekaitse- ja tööohutusnõudeid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tehnoloogiaõpetus – 7. klass",
+      "children": [
+        {
+          "kind": "section",
+          "title": "MATERJALID JA NENDE TÖÖTLEMINE",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "järkab puittoorikust detaile ette antud juhiste järgi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märgib toorikule kõverjoonelise kontuuriga detaile;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõõdab juhendamisel detaili läbimõõtu nihikuga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab ühendada detaile vähemalt kahel erineval moel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "märgib ja töötleb juhendamisel lihtsamat seotist;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TÖÖPROTSESS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "puurib avasid puurpingis või käsipuuriga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "saeb kõverjoonelisi kontuure käsi- või elektrilisekäsisaega (vajaduse korral abiga);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab lihtsama tööjuhendi ja/või fotoseeria oma tööprotsessist;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TEHNOLOOGIA IGAPÄEVAELUS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "töötab elektriliste masinatega ohutult, oskab ohte vältida.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tehnoloogiaõpetus – 8. klass",
+      "children": [
+        {
+          "kind": "section",
+          "title": "MATERJALID JA NENDE TÖÖTLEMINE",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "loeb jooniselt detaili mõõtmeid ja teeb lihtsaid jooniseid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "saeb ja hööveldab lihtsaid detaile puidutöötluspinkidel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "valmistab ja kasutab juhendamisel lihtsa seotise;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TÖÖPROTSESS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "mõistab treimise mõistet;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "juhendamisel ja abistamisel treib lihtsa detaili (silinder ja astmeline)",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab lihtsama tööjuhendi ja/või videojuhendi oma tööprotsessist;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TEHNOLOOGIA IGAPÄEVAELUS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "järgib tervisekaitse- ja tööohutusnõudeid.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tehnoloogiaõpetus – 9. klass",
+      "children": [
+        {
+          "kind": "section",
+          "title": "MATERJALID JA NENDE TÖÖTLEMINE",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "planeerib iseseisvalt või rühmas tervikliku tööprotsessi ning hindab töö korrektsust ja esteetilisust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb tööjoonist õpitud teadmiste/oskuste ulatuses;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõõdab joonlaua, nihiku ja mõõdulindi abil eseme joonmõõtmed ja vajaduse korral tähendab neid lihtsa eskiisi kujul üles;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab materjale, töövahendeid ja nüüdisaegseid seadmeid eesmärgipäraselt, vajaduse korral õpetaja abiga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "viimistleb esemeid toonimise, värvimisega;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TÖÖPROTSESS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "suudab valmistada jõukohaseid liiteid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab tööprotsessis erinevate masinate kasutusalasid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab ja analüüsib oma töö valmimist etappide kaupa ning esitleb lõpptulemust, vajaduse korral õpetaja abiga;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TEHNOLOOGIA IGAPÄEVAELUS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "järgib tervisekaitse- ja tööohutusnõudeid.",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Käsitöö – 7. klass",
+      "children": [
+        {
+          "kind": "section",
+          "title": "MATERJALID JA TÖÖVAHENDID",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kavandab ja valmistab lihtsaid esemeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "töötab suulise juhendamise järgi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära tehiskiududest tekstiilmaterjalid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "valib juhendamisel eseme valmistamiseks sobivad materjalid ja töövahendid;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TÖÖPROTSESS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "tikib kaherealist pistet (ristpistet mustri järgi);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb juhendamisel lihtsamaid heegelskeeme ja koekirju,",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "vajaduse korral otsib neid veebist;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "heegeldab lihtsamat ääre- ja/või vahepitsi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koob kahe eri värvi lõngaga;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "käsitseb õmblusmasinat, õmbleb kahekordset palistust ja/või kahekordset õmblust;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "RAKENDUMINE IGAPÄEVAELUS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "planeerib oma töö ajakava;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab analüüsida oma töö tulemust ja aja planeerimist;",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Käsitöö – 8. klass",
+      "children": [
+        {
+          "kind": "section",
+          "title": "MATERJALID JA TÖÖVAHENDID",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kavandab käsitööeset",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "valib eseme valmistamiseks õpetaja juhendamisel sobivad materjalid ja töövahendid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb erinevaid kangaid ja oskab neid eristada;",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TÖÖPROTSESS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kasutab juhendamisel töövahendeid, viimistlus- ja/või kaunistusvõtteid eesmärgipäraselt;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kannab juhendamisel mustri kangale;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab erinevaid tikkimispisteid arhailise tikandi tikkimisel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "heegeldab lihtsama skeemi või digitaalse juhendi järgi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab kududa tingmärkide järgi erinevaid koekirju (palmikut, maleruut jm);",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab ja tunneb tingmärke;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "koob juhendamisel koekirja;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab õmblusmasinat, võimaluse korral tikkimismasinat;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab ja kopeerib juhendamisel lõikelehelt lihtsamaid lõikeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "viimistleb juhendamisel erinevates tehnikates töid;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "RAKENDUMINE IGAPÄEVAELUS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "viimistleb juhendamisel erinevates tehnikates töid.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Leiab võimalusi taaskasutada tekstiilmaterjale;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab viimistleda oma töid:",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb rõivaste hooldusmärke;",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Käsitöö – 9. klass",
+      "children": [
+        {
+          "kind": "section",
+          "title": "MATERJALID JA TÖÖVAHENDID",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "valib ja kombineerib juhendamisel tööks sobilikke materjale ja õpitud tehnoloogiaid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab juhendamisel taaskasutada erinevaid materjale;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TÖÖPROTSESS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "oskab leida võimalusi pilutikandi kasutamiseks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "heegeldab skeemide ja tööjuhendite järgi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koob lihtsaid koekirju ja esemeid koekirjaskeemide ja juhendite järgi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab vajaduse korral leida veebist tingmärkide tähendusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "määrab oma riiete suurusnumbri ja kehatüübi sobiva tegumoe leidmiseks;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb ja mõistab valmisriiete etikette, arvestab neil esitatavat teavet;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "õmbleb iseseisvalt lihtsamaid esemeid või teostab töid õpetaja valikul mõnes teises käsitöötehnikas;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "RAKENDUMINE IGAPÄEVAELUS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "oskab hooldada erinevast materjalist riideid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab ainealast teabekirjandust ja vastavaid veebilehti;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab selgitada ringmajanduse positiivset mõju keskkonnale;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb ja mõistab valmisriiete etikette;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab iseseisvalt leida lahendusi, kuidas oma rõivaid isikupäraseks muuta;",
+              "outcomeType": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kodundus – 7. klass",
+      "children": [
+        {
+          "kind": "section",
+          "title": "TOIDUHARIDUS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab mitmekülgse toitumise tähtsust oma tervisele;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab leida/märgata lisaainete märgistust pakendil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab mõisteid: toiduallergia ja toidutalumatus;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab nimetada toitumishäireid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab juhendamisel ohutult köögitehnikat;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "valmistab iseseisvalt lihtsamaid tervislikke toite;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kaalub ja mõõdab toiduaineid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb peamisi maitsetaimi;",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TARBIJAHARIDUS JA KESKKOND",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "sorteerib pesu värvi ja materjali järgi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab pesumasinal pesuprogramme valida;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb triikimismärke;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "sordib jäätmeid keskkonnasõbralikult;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KÄITUMISKULTUUR",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "oskab lauda katta lähtudes sündmusest;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab ja kasutab lauakombeid;",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kodundus – 8. klass",
+      "children": [
+        {
+          "kind": "section",
+          "title": "TOIDUHARIDUS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teeb vahet mõistetel „kõlblik kuni…“ ja „parim enne …“ , oskab tuua näiteid;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "valmistab erinevaid toite retsepti kasutades;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab teha valikuid toiduainete säilitamiseks;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TARBIJAHARIDUS JA KESKKOND",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "oskab juhendamisel kodukeemiat ohutult kasutada;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab juhendamisel kasutada nõudepesumasinat;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab juhendamisel etteantud summa piires menüüd ja toidukorvi planeerida;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KÄITUMISKULTUUR",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab nimetada Eesti rahvustoite ja oskab mõnda neist valmistada;",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kodundus – 9. klass",
+      "children": [
+        {
+          "kind": "section",
+          "title": "TOIDUHARIDUS",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "on teadlik toitlustusega seotud ametitest;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab valmistada keedutainast;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab valmistada erinevate rahvuste toite;",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "TARBIJAHARIDUS JA KESKKOND",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "oskab puhastada köögiseadmeid ja tööpindu;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab juhendamisel oma kulusid planeerida;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb jalatsite hooldusmärke;",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KÄITUMISKULTUUR",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "teab käitumisetiketti erinevatel üritustel;",
+              "outcomeType": "knowledge"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

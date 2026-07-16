@@ -1,0 +1,112 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Lihtsustatud õppe õpilane on õpetaja tegevusest eakaaslastest rohkem mõjutatud, seega peab õpetaja tegevus olema sihipärane ja piisav. Oluline on jälgida, et õpetaja tegevus toetaks õppimist lähima arengu tsoonis, st õppijale peab jääma õppimisel jõukohane pingutus.</p><p>Õpetaja osalus on LÕ-õpilaste õppeprotsessis vajalik erinevatel hetkedel ja erineval tasemel.</p><p>1. Õpilaste tunnetustegevuse ja kõnefunktsioonide puudulik areng mõjutab nende enesejuhtimisoskuste arengut. Seega on õpetajal vajalik väliselt reguleerida (seda ka LÕ lõpuklassides) iga õpiülesande täitmist, kujundades seejuures järjepidevalt õpilaste planeerimis-, sooritamis- ja kontrollioskusi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>2. LÕ-õpilase iseseisev töö on võimalik selliste õpiülesannete puhul, kus ta kasutab oskusi, mida on varem õppinud ja harjutanud erinevate abivõimalustega. Abiks võivad olla õpetaja osalus ja kõne, välised abivahendid jms. Seejuures neid kasutatakse omavahel kombineeritult. Näiteks tuleb ühe oskuse omandamiseks läbida järgmised etapid:</p><ul><li>Õppimine koostegevuses ja/või imiteerimise teel. Toimingut verbaliseerib õpetaja.</li><li>Praktiline harjutamine, kasutades näitvahendeid, skeeme, sümboleid, näidist jne. Sellele kaasneb pidev kinnistamine õige-vale põhimõttel. Verbaliseerimine jaotub õpetaja ja lapse vahel.</li><li>Praktiline harjutamine, kus tulemust verbaliseerib õpilane. Õppija kõnet saab toetada suuliselt või kirjalikult, lähtudes õppija oskustest. Selleks kasutatakse küsimusi, valiklauseid, lünklauseid jne.</li></ul><p>Eelnimetatud etappide läbimise periood (vastavalt kas mitu õppetundi või mitu õppeaastat) sõltub õppija vanusest/arengutasemest ning õpitoimingu keerukusest.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpetaja osalemise erinevad võimalused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Alljärgnev ülevaade kajastab õppija õpioskuse taset iseseisvuse suurenemise suunas ning õpetaja võimalust suunata tema õpitegevust. Kõiki kirjeldatud raskusastme viise saab <strong>rakendada kombineeritult</strong>. Oluline on õigeaegselt tõsta õpilase iseseisvuse astet ning vähendada täiskasvanu osalust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpetaja osaluse maht sõltub sellest, millisel arenguperioodil on LÕ-õpilane (I – 1.-2. kl; II – 3.-5. kl; III – 6.-7. kl; IV – 8.-9. kl). Vastavat infot leiab taotletavate pädevuste loetelust (vt <a href=\"https://www.riigiteataja.ee/aktilisa/1080/3202/3004/18m_pohi_liht_lisa1.pdf\">Põhikooli lihtsustatud riiklik õppekava, lisa 1</a>).</p>"
+        },
+        {
+          "kind": "section",
+          "title": "A. Koostegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Osatoimingute sooritamine toimub jagatult: osa osatoimingutest sooritab õpetaja (või oskaja kaaslane), osa õppija. Näiteks õpetaja muudab hääliku pikkust (võdi-võti), õpilane määrab häälikupikkuse (näitab sümbolit või nimetab). Siia valdkonda kuulub ka sünkroonne tegevus harjutamise etapis, näiteks kooris häälimine või lugemine. Õpetaja ülesandeks on seejuures hinnata, kas õpilase teadmised-oskused on sünkroonseks tegevuseks piisavalt kujunenud. Näiteks ei suuda lugemisoskuse kujunemise algjärgus õppija teistega kooris lugeda. Tema lugemisoskus võib olla alles tähthaaval aeglases tempos veerimise tasandil ning kooris lugemise nõudmine ei ole lapse lugemisoskuse arengu seisukohalt mingil juhul toetav.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "B. Matkimine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane kordab õpetaja sooritatud toimingut sama materjaliga või samalaadse materjaliga ehk eelnevalt koostegevuses õpitud tegevuse või (osa)oskuse matkimine. Siia kuulub ka ülesannete stereotüüpne täitmine, analoogsete ülesannete lahendamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "C. Toimingu sooritamine näidise järgi",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Näidis võib olla esitatud osatoimingute kaupa või lõpptulemuse näol. Õpetaja ülesanne on suunata näidise vaatlust ja analüüsi. Näidisele eelneb või sellega kaasneb tavaliselt tööjuhis, mille esitab õpetaja või sõnastatakse see koos õppijatega.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Näide 1. Näidis osatoimingute kaupa",
+              "children": [
+                {
+                  "kind": "table",
+                  "html": "<table><thead><tr><th>Algvorm<br><em>kes? mis?</em></th><th>Sõnatüvi<br><em>kelle? Mille?</em></th><th>Käändelõpp</th><th>Käändevorm</th></tr></thead><tbody><tr><td>(see on) ratas</td><td>(selle) ratta</td><td>-ga</td><td>(millega?) rattaga</td></tr></tbody></table>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Näide 2. Näidis lõpptulemusena",
+              "children": [
+                {
+                  "kind": "table",
+                  "html": "<table><tbody><tr><th>ratas (millega? <em>kaasaütlev kääne</em>) - rattaga</th></tr></tbody></table>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "D. Toimingu sooritamine juhendi (instruktsiooni) järgi",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Juhendid võivad olla sõnalised (sh suulised ja kirjalikud), skemaatilised, sümboolsed. Juhendeid võime jaotada tegevusele kaasnevateks või eelnevateks, tegevust käivitavaks lühikeseks korralduseks või hargnenud mitmeosaliseks selgituseks. Suuliste või kirjalike juhendite kasutamise valikut mõjutab õpilaste lugemisoskus. Juhendite keerukuse (pikkus, info hulk, sõnavara, lauseehitus) valik sõltub õppijate kõne, mälu ja mõtlemise arengutasemest.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "E. Õppeülesande täitmine toetudes suunavatele küsimustele-korraldustele",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpetaja toetab õppijat õppetegevuse käigus suunavate küsimuste või korraldustega. Näiteks juhib tähelepanu mõnele olulisele detailile, suunab kasutama abivahendit või lihtsalt ka kinnitab õpilase senise lahenduskäigu õigsust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "F. Väliste abivahendite kasutamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõltuvalt kasutamise eesmärgist jaotuvad abivahendid kahte suurde rühma: vahendid õpilase taju suunamiseks (<em>näitvahendid</em>) ja vahendid toimingu sooritamiseks (<em>materialiseerimisvahendid</em>). Üks ja sama vahend (erinevatel ajahetkedel) võib tegelikult olla mõlemas rollis.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

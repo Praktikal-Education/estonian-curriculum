@@ -1,0 +1,969 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Keeleoskus võimaldab mõista ja väärtustada rahvuskultuuri. Õpilane väärtustab vene keelt kui oma emakeelt ja kogukondliku suhtluse vahendit, mis toetab teda oma identiteedi loomisel ning teadlikuks õppijaks kujunemisel.</p><p>Vene keele hea valdamine on vene õppekeelega klassis eduka õppimise eeldus kõigis õppeainetes. Ainevaldkonna õppeained toetavad eeskätt põhikooliõpilaste emakeele- ja kirjanduspädevuse ning kommunikatiivsete oskuste arengut. Põhikoolis pannakse alus õpilaste teadmistele ja oskustele, mis hõlmavad keele variante ning lubavad tulevikus toime tulla eriliigiliste tekstide vastuvõtu ja loomisega. Neis õppeainetes omandatakse keele- ja kirjandusteadmisi ning saadakse erinevaid lugemise, kirjutamise ja suhtlemise kogemusi.</p><p>III kooliastmes taotletakse, et õpilane väljendub selgelt ja õigesti, keelenormidele vastavalt erinevates suhtlusolukordades. Tõhus ja tulemuslik suhtlemine on keeleteadmisteta võimatu.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Suulise ja kirjaliku suhtluse käigus kujundatakse praktilisi oskusi, mis loovad õpioskuste arenguks olulise põhja. Igapäevaste ja koolikesksete suhtlustoimingute valdamine valmistab õpilast ette iseseisvaks suhtlemiseks keelekeskkonnas. Eneseväljendus, sealhulgas korrektse kirjakeele valdamine laiendab keele individuaalset kasutusvaldkonda. Õpilane peab saama koolist kaasa oskuse arutleda ja selgitada oma seisukohti silmast silma, telefoni, kirja ja e-kirja teel ning internetikeskkonnas.</p><p>Teksti vastuvõtt ja mõistmine on aluseks kõikidele õpioskustele, mistõttu III kooliastme lõpuks peab õpilane olema iseseisev ja kriitiline lugeja, et ta saaks edaspidi teha teadlikke ja õigeid valikuid. Tähtis on oskus kasutada teabeallikaid ning leida infot mitmesugustest keskkondadest, kasutades sobivaid digivahendeid ja eri strateegiaid. Seejuures on väga oluline arendada kriitilist mõtlemist, oskust eristada väärinfot ja manipulatsiooni tegelikkusest ning teadlikkust valida teaduspõhiseid infoallikaid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tekstiloomes on rõhk kirjutamise protsessil, mitte ainult tulemusel. Tähtis on see, et õpilane järgiks kirjutamise etappe alates ettevalmistamisest kuni lõpptulemuse viimistlemiseni. Õpilane peab kirjutama eesmärgistatult, teadvustades, kellele ja miks ta kirjutab, ning vastavalt sellele järgima tekstiliigile omast keelekasutust. Tekstide vastuvõttu ja kirjalikku loomet lõimitakse õigekeelsusega, see tähendab, et tekstide lugemisel ja kirjutamisel juhitakse pidevalt tähelepanu keelevahenditele, arendamaks õpilase keeleteadlikkust.</p><p>Kogu põhikooli vältel kujundatakse õiget ja sidusat kõnet ning rikastatakse õpilase sõnavara. Sammhaaval suureneb iseseisvuse osakaal õppetöös. Et õpilane osaleks aktiivselt ja vahetult õppeprotsessis, peavad keeleõppe tegevused olema mitmekülgsed ja funktsionaalsed. Keeletundides omandatakse konkreetseid keeleteadmisi ja praktilisi oskusi, analüüsitakse loetut ja kuuldut, kujundatakse keelega seotud hoiakuid ja antakse hinnanguid ning tegeldakse loovkirjutamisega. Arendatakse oskust sobivatest allikatest ja keskkondadest infot hankida, seda lugeda ja kriitiliselt hinnata, tekstitöös on oluline ka digitaalse sisu loomine, muutmine ja taasesitamine.</p><p>Õppesisu valib aineõpetaja arvestusega, et kooliastmeti kirjeldatud õpitulemused, üld- ja valdkondlikud ning ainealased pädevused oleksid saavutatavad.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kooliastme teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab rahvapärimust ja kultuuri mitmekesisust;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teadvustab vene keelt kui kogukondliku kultuuri kandjat ja suhtluse vahendit;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab end selgelt, asjakohaselt ja keeleliselt korrektselt nii suuliselt kui ka kirjalikult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab eesmärgistatult ja keeleliselt korrektselt eri liiki tekste eri allikate toel ning eri keskkondades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kuulab, loeb ja loob eri liiki tekste eesmärgistatult eri keskkondades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib ja hindab kriitiliselt eri liiki suulisi ja kirjalikke tekste, arvestab intellektuaalomandiga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb eri laadis ja žanris tekstide ülesehitust ning mõistab nende sisu;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujundab lugemise kaudu hoiakuid ja tõekspidamisi,",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "arendab lugedes oma sõnavara.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "III kooliastme õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väärtustab vene keelt emakeelena ja ühena maailma keeltest;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "suhtub austusega teiste keelte ja inimeste erinevustesse ning eripärasse;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvestab suhtlemisel eesmärki ja olukorda, valdab kõnekultuuri;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab suulise ja kirjaliku kõne erijooni ning eristab kirjakeelt argikeelest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib kirjutamisel õpitud õigekirjanorme ja keelereegleid;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab digitaalset kirjaoskust, loob tekste erinevates keskkondades, arvestab suhtlusetiketti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab suulisele või kirjalikule tekstile põhjendatud tagasisidet, väljendab loetu põhjal enda seisukohti ja väärtushoiakuid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb eakohastel teemadel, lahendab keelealaseid probleemülesandeid ning osaleb diskussioonis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab ja analüüsib kuuldu ja loetu põhjal peamist informatsiooni ning olulisi seisukohti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teeb kuuldust ja loetust kokkuvõtte nii suuliselt kui ka kirjalikult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitab loetu põhjal küsimusi, teeb järeldusi ning annab hinnanguid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab probleemi, väljendab oma arvamust, esitab argumente ja toob näiteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb tabeleid, diagramme, skeeme ja tingtähiseid ning kasutab neid enda koostatud tekstides;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hindab kriitiliselt suhtlusmooduseid, sh visuaalset, kuuldelist, žestilist ja tekstilist osa;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et teksti väljenduslaad oleneb teksti kasutusvaldkonnast, liigist, eesmärgist, autorist ja suhtlusolukorrast;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab jutustavaid, kirjeldavaid ja arutlevaid tekste ning esitab neid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ehitab teksti üles vastuvõtjat arvestades, järjestab ja seostab info loogiliselt ning valdab peamisi tekstisidususvõtteid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab ja valmistub esinemiseks etappide kaupa;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esineb suuliselt (tervitab, võtab sõna, koostab ning peab lühikese ettekande ja kõne);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib enda ja teiste keelevahendite valiku sobivust olukorrast lähtudes;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vormistab korrektselt eri liiki tekste, arvestab olukorda ja adressaati, järgib keelenorme ja vormistusnõudeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "iseloomustab peamisi tekstiliike, nende põhijooni ning kasutamise võimalusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et teksti väljenduslaad oleneb teksti kasutusvaldkonnast, -liigist ja autorist;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab õigekirjajuhiseid veebist ning sõna- ja käsiraamatutest, kasutab arvuti õigekirjakorrektorit ja hindab kriitiliselt õigekeelsussoovitusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rikastab lugemise kaudu oma sõnavara ning kasutab mitmekesiseid grammatilisi tarindeid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "III kooliastme õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Vene keel ühiskonnas",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Vene keel maailma teiste keelte seas. Keel kui arenev nähtus: võimalused ja ohud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ortoeepia",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõnarõhu rasked juhud. Ortoeepiasõnastikud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Morfoloogia",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tegusõna vormid. Kesksõna grammatilised tunnused. Kesksõnaga sõnaühendid. Kesksõna kõnes kasutamise normid. Gerundiumi grammatilised tunnused. Gerundiumiga sõnaühendid. Gerundiumi kõnes/ tekstis kasutamise normid. Eessõnade iseloomustus. Abisõnade iseloomustus.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Süntaks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sõnade ühendamise normid (leksikaalsed, grammatilised, stilistilised). Aluse tekstifunktsioonid. Öeldise tekstifunktsioonid. Täiend, lisand, sihitis, määruse liigid. Lihtlause laiendamine (lauselühendid, sõnad ja konstruktsioonid, mis lauseliikmete hulka ei kuulu). Kiilsõnad ja kiillaused. Rindlaused, põimlaused, sidesõnata liitlaused. Lausete grammatilised seosed. Otsekõne. Dialoog.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ortograafia ja interpunktsioon",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>HE</em> kokku- ja lahkukirjutamine kesksõnade ning gerundiumiga. Lauseliikmete kirjavahemärkidega eraldamine. Vahemärgid koondlausetes, komplitseeritud lausetes. Kirjavahemärgid liitlauses: rindlauses, põimlauses, sidesõnata lauses ning erinevate seoseliikidega liitlauses. Vahemärgid otse kõnega lausetes. Vene keele trüki- ja veebisõnastikud. Eessõnade õigekiri.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Suuline ja kirjalik suhtlus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kirjaliku ja suulise keelekasutuse eripära. Suhtluseesmärkidele sobivate keelendite valimine kõnelemisel ja kirjutamisel. Suhtlemine rühmas, sõna saamine, kõnejärje hoidmine. Rühmas arvamuse avaldamine ja põhjendamine.</p><p>Diskussioon. Kompromissi leidmine ning kaaslase arvamuse täiendamine. Kaaslase tööle põhjendatud hinnangu andmine. Väitlus, väitluse reeglid. Argumenteerimine, veenmine. Esinemine etteantud teemal. Ettekande ja kõne koostamine, näitlikustamine ja esitamine.</p><p>Meilivahetus, meili kirjutamine ja keelevahendite valik. Veebisuhtluse eesmärgid, võimalused ja ohud. Veebisuhtluskanalid: jututoad, blogid, vlogid, kommentaarid. Veebis kommenteerimine. Keeleviisakus ja -väärikus. Anonüümsuse mõju keelekasutusele.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Teabeallikad, alustekstid, tekstiloome",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Veebist ja trükistest teabe otsimine ning teabeallikate ja info kriitiline hindamine. Teabe talletamine ning süstematiseerimine. Refereerimine ja tsiteerimine. Loov- ja uurimistöö vormistamine: struktuur ja keel. Projekt, teadaanne, avaldus, iseloomustus. Tekstid elektroonilises keskkonnas.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tekst",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teksti liigid ja teksti stiil. Peamised tekstiliigid (tarbe-, teabe- ja meediatekstid), nende eesmärgid ning keelekasutus. Tekstid elektroonilises keskkonnas.</p><p>Tarbetekstide (juhend, elulookirjeldus, avaldus, seletuskiri) eesmärk, tunnused ja ülesehitus. Tarbetekstidest olulise info leidmine ning selle põhjal järelduste tegemine.</p><p>Teabetekstide (õpikutekst, populaarteaduslik tekst) eesmärk, tunnused ning ülesehitus. Eri liiki tekstide lugemine ja võrdlemine. Teabe ning ilukirjanduse tekstide tõlgendamine, analüüsimine ja hindamine.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vene keel ühiskonnas",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Emakeel, maailma keeled, keeleline mitmekesisus. Vene keel ühiskonnas. Keel kui arenev nähtus. Rahvusvahelise suhtlemise keel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Темы:</strong> Русский язык в обществе. Русский язык среди других языков мира. Язык как развивающееся явление.</p><p><strong>Формы и методы работы:</strong> Чтение научно-популярных статей о родном языке, его развитии. Чтение и анализ несплошных текстов (схемы, сравнительные диаграммы). Составление опорного конспекта во время или после просмотра видео, заполнение рабочих листов. Работа в группах: составление кластера, плаката. Поиск информации в разных источниках.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ja üldpädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Интеграция</em> Связь с иностранными языками, которые изучаются в школе. Определение степени родства языков. Проектная работа или мини-исследование на основе соцопроса: какие родные языки у одноклассников и их родителей, какими иностранными языками владеют одноклассники. Видеоисточники, которые связаны с историей и обществоведением.</p><p><em>Сквозные темы:</em> окружающая среда и устойчивое развитие; культурное самосознание; информационная среда и использование СМИ; здоровье и безопасность; ценности и нравственность.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=vDSn1HWY8J8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=K6vjRrAymJs"
+            },
+            {
+              "kind": "link",
+              "href": "https://rahvaloendus.ee/ru",
+              "title": "Демографические и этнокультурные показатели населения."
+            },
+            {
+              "kind": "link",
+              "href": "https://rahvaloendus.ee/et/tulemused/rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad",
+              "title": "Статистика о переписи населения."
+            },
+            {
+              "kind": "link",
+              "href": "https://arzamas.academy/",
+              "title": "Арзамас"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=1553767116",
+              "title": "Презентация и сообщение на заданную тему. Оценивание."
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=1662546230",
+              "title": "Критерии оценивания работы в группе."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Suuline ja kirjalik suhtlus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suhtlemise eesmärk ja olukord. Kõnekultuur. Ortoeepia. Sõnarõhu rasked juhud. Ortoeepiasõnastikud. Keeleviisakus ja -väärikus. Suuline ja kirjalik suhtlus. Suuline ja kirjalik kõne. Kirjakeel. Argikeel. Suhtlusetikett. Suhtlusmoodused: visuaalne, kuuldeline, žestiline, tekstiline. Keelevahendid. Argument. Erinevad arvamused, enda arvamus. Põhjendatud tagasiside. Kriitiline hindamine, võrdlemine, tõlgendamine, analüüsimine, hindamine. Eneseanalüüs.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Темы:</strong> Устное и письменное общение. Специфика использования письменной и устной речи. Выбор языковых средств в письменной и устной речи в соответствии с целью общения. Групповое общение. Речевой этикет. Дискуссия. Дебаты, правила ведения дебатов. Аргументация, убеждение. Планирование и составление презентации, выбор иллюстративных материалов, выступление. Онлайн-каналы общения: голосовые сообщения, влоги. Безопасность общения в интернете.</p><p><strong>Формы и методы работы:</strong> Беседа об особенностях устного и письменного общения. Анализ устных и письменных примеров разных стилей, но на одну тему. Работа с медиатекстами. Создание закрытого чата в учебных целях. Проведение мини-проекта в группе/паре по созданию правил безопасного общения в интернете. Дискуссия на основе просмотренного или прочитанного материала. Проведение дебатов по установленным правилам на заданную тему. Ролевые игры в парах, группах.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/rudebate/?locale=ru_RU",
+              "title": "Русскоязычный отдел Общества дебатов в Эстонии"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.politsei.ee/ru/veb-konstebli",
+              "title": "Веб-констебли"
+            },
+            {
+              "kind": "link",
+              "href": "https://etunnid.tagasikooli.ee/jarelvaatamiseks/meediapadevus/",
+              "title": "Работа с материалами сайта Tagasi kooli."
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=gDLvNz5RP6U"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=CwSCsqP_-Kghttps://e-koolikott.ee/ru/oppematerjal/12443-/214616"
+            },
+            {
+              "kind": "file",
+              "src": "https://media.voog.com/0000/0041/5206/files/KK-formaat_uus_(vene_keeles).pdf",
+              "title": "Правила и формат проведения дебатов."
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=cRqaqH7jvV8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=c51a8xBoVwg"
+            },
+            {
+              "kind": "link",
+              "href": "https://argument.ee/oppematerjalid",
+              "title": "Дебаты. Материал на эстонском языке."
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=1553767116",
+              "title": "Оценивание выступления, презентации."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Digitaalne kirjaoskus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digitaalne kirjaoskus. Veebisuhtluskanalid: jututoad, vlogid, kommentaarid, email.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Темы:</strong> Текст в электронной среде. Цели, возможности и опасности общения в Интернете. Каналы общения в веб-среде: чат, блог, влог, комментарий. Комментирование в веб-среде. Язык вежливости и достоинства. Влияние анонимности на использование языка. Обмен электронной почтой, написание электронного письма и выбор языковых инструментов.</p><p><strong>Формы и методы работы:</strong> Беседа и просмотр видеороликов о поведении в Интернете, рисках при общении в электронной среде. Знакомство с правилами этикета во время общения в чате, блоге, влоге, при написании комментариев. Разговор о том, как анонимность влияет на выбор языковых средств. Часть письменных работ по разным учебным темам ученики могут представлять в электронном виде для закрепления цифровых навыков: Word-документ, Google-документы, по электронной почте, в месенджере.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "http://www.gramota.ru",
+              "title": "www.gramota.ru"
+            },
+            {
+              "kind": "link",
+              "href": "https://msk.tele2.ru/journal/article/internet-safety-for-schoolchildren",
+              "title": "10 правил безопасности в интернете для детей (Советы Tele 2)"
+            },
+            {
+              "kind": "link",
+              "href": "https://media.foxford.ru/articles/setevoy-etiket",
+              "title": "Сетевой этикет: как правильно общаться в интернете (письменная инструкция)"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=70K-FuN4f6A"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=3075PNUSgAc"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=GoqYB0Cfjus"
+            },
+            {
+              "kind": "link",
+              "href": "https://lifehacker.ru/kommentarii-v-internete/",
+              "title": "Комментарии в интернете (практические советы)."
+            },
+            {
+              "kind": "link",
+              "href": "https://oppekava.ee/meediapadevus/",
+              "title": "Meediapädevus. Materjalid."
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=996016618",
+              "title": "Оценивание работ в электронной среде."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ortograafia ja interpunktsioon",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Оrtograafia. Sidesõna. Tegusõna vormid. Sihilised ja sihitud tegusõnad. Kesksõna. Gerundium. Sõnade ühendamise normid (leksikaalsed, grammatilised, stilistilised). Interpunktsioon. Koondlaused, liitlause, rindlause, põimlause, sidesõnata lauses, eessõnade õigekiri. Aluse tekstifunktsioonid. Öeldise tekstifunktsioonid. Täiend, lisand, sihitis, määruse liigid. Lauselühendid, sõnad ja konstruktsioonid, mis lauseliikmete hulka ei kuulu. Kiilsõnad ja kiillaused. Lausete grammatilised seosed. Otsekõne. Dialoog. Vene keele trüki- ja veebisõnastikud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "http://Gramota.ru",
+              "title": "Gramota.ru"
+            },
+            {
+              "kind": "link",
+              "href": "https://slovari.ru/start2.aspx?s=0&amp;p=5638",
+              "title": "Словари"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.gramota.ru/",
+              "title": "Электронный словарь"
+            },
+            {
+              "kind": "link",
+              "href": "https://dic.academic.ru/",
+              "title": "Словари и энциклопедии на Академике."
+            },
+            {
+              "kind": "link",
+              "href": "https://edu.skysmart.ru/",
+              "title": "Интерактивные тесты на проверку орфографии и пунктуации"
+            },
+            {
+              "kind": "link",
+              "href": "https://neurotolge.ee/",
+              "title": "neurotolge.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://translate.tilde.com/#/?utm_source=home-page&amp;utm_medium=hero-button",
+              "title": "translate.tilde.com"
+            },
+            {
+              "kind": "link",
+              "href": "https://translate.google.com/?hl=ru",
+              "title": "translate.google.com"
+            },
+            {
+              "kind": "link",
+              "href": "https://videotutor-rusyaz.ru/",
+              "title": "Видеотьютер по русскому языку"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?app=desktop&amp;v=eVS-6ZkLiW8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?app=desktop&amp;v=eVS-6ZkLiW8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=HnGy5OfpJXg"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=9xhVbVou4s8"
+            },
+            {
+              "kind": "link",
+              "href": "http://korafest.ru/2020/02/24/txt-kora-2020/",
+              "title": "КОРА (фестиваль короткого рассказа)"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=s-2g4Yz__-8"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=C9vcjJYmT7c"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=EzV4iKKbyIY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=e5SBV15qO4s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ylNNhDThqhQ&amp;t=3s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=QUyDl_iXTJo&amp;t=2s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=vGw5oXJOHmk&amp;t=344s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=NbjJyAnIrfE&amp;t=32s"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=VZ-KG3tKjck"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=oKSBiex4TZk"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=GaPaRebwQhw"
+            },
+            {
+              "kind": "link",
+              "href": "https://stihi.ru/2011/04/02/9717",
+              "title": "Лодорский водопад. Роберт Саути"
+            },
+            {
+              "kind": "link",
+              "href": "https://skysmart.ru/articles/russian/perehodnye-i-neperehodnye-glagoly",
+              "title": "Переходные и непереходные глаголы."
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=RWT8Y9tRCkg"
+            },
+            {
+              "kind": "link",
+              "href": "https://znaika.ru/",
+              "title": "Онлайн-школа будущего Знайка."
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=nPB0vpqDB18"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=974660361",
+              "title": "Критерии оценивания диктанта."
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=495885440",
+              "title": "Критерии оценивания словарного диктанта."
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=246637138",
+              "title": "Критерии оценивания изложения и собственного текста на основе картинок."
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=1990540806",
+              "title": "Критерии оценивания сочинения."
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=350123511",
+              "title": "Критерии оценивания создания собственного текста на заданных условиях."
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=66726256",
+              "title": "Критерии оценивания домашнего задания."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teabeallikad, alustekstid, tekstiloome",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teabeallik. Alustekst. Teabetekst. Meediatekst. Tabel. Diagramm. Skeem. Tingtähesed. Tekstiloome. Kriitiline mõtlemine. Väärinfo. Loov- ja uurimistöö. Refereerimine. Tsiteerimine. Projekt. Teadaanne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://ir-mm.ru/priem-romashka-bluma/",
+              "title": "Приём Ромашка Блума"
+            },
+            {
+              "kind": "link",
+              "href": "https://padlet.com/",
+              "title": "Электронная среда для работы с учениками"
+            },
+            {
+              "kind": "link",
+              "href": "https://vseraskraski.com/razvivayushchie-raskraski/graficheskij-diktant-dlya-shkolnikov",
+              "title": "Графические диктанты для школьников"
+            },
+            {
+              "kind": "link",
+              "href": "https://nsportal.ru/shkola/russkiy-yazyk/library/2021/01/06/graficheskiy-diktant",
+              "title": "Графический диктант. Презентация к уроку по русскому языку (7 класс)"
+            },
+            {
+              "kind": "link",
+              "href": "https://ruscorpora.ru/",
+              "title": "Национальный корпус русского языка"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.gramota.ru/",
+              "title": "Справочно-информационный портал ГРАМОТА.РУ – русский язык для всех"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/site/pedtools2/m2/2-2",
+              "title": "Интерактивные рабочие листы"
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/site/pedtools2/m2/2-2",
+              "title": "Интерактивные рабочие листы на основе Google-рисунков"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1SWzY8vN3qysody4Jt2ITB21HRmslmYa6YmlZjZE1ux8/edit#gid=0",
+              "title": "Пример интерактивного рабочего листа на основе Google-таблицы"
+            },
+            {
+              "kind": "link",
+              "href": "https://pedsovet.su/metodika/refleksiya/5665_refleksiya_kak_etap_uroka_fgos",
+              "title": "Рефлексия как этап урока: виды, приемы, примеры"
+            },
+            {
+              "kind": "link",
+              "href": "https://fioco.ru/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87-pisa?fbclid=IwAR07QBeHI1B2HLPrVDZ1McWM6OitVNJ64rKpIaJY1_dXLFPi06aGzncVTlk",
+              "title": "Открытые задания PISA"
+            },
+            {
+              "kind": "link",
+              "href": "https://eis.ekk.edu.ee/eis/",
+              "title": "Открытые задания EIS"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/",
+              "title": "Материалы ekoolikott"
+            },
+            {
+              "kind": "link",
+              "href": "http://vkkyl.org/ru/kopilka/kasulikku/",
+              "title": "Vene Keele ja Kirjanduse Õpetajate Liit"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/33709-",
+              "title": "Комплексные работы с текстом"
+            }
+          ]
+        },
+        { "kind": "section", "title": "Kontroll ja hindamine", "children": [] }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ettekanne ja kõne",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ettekanne. Kõne. Tööetappid. Tervitamine. Esitamine. Sõna võtmine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://tilda.education/articles-how-to-create-presentation",
+              "title": "Инструкция для недизайнеров: как правильно создать презентацию"
+            },
+            {
+              "kind": "link",
+              "href": "https://rubiconpro.ru/blog/roditelyam-detey-7-16-let/kompyuternaya-gramotnost/powerpoint-dlya-detey-kak-sozdat-khoroshuyu-prezentatsiyu/",
+              "title": "PowerPoint для детей. Как создать хорошую презентацию?"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=LKCKmwwBRsI"
+            },
+            {
+              "kind": "link",
+              "href": "http://canva.com",
+              "title": "canva.com"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=9mR-rAJ83lY"
+            },
+            {
+              "kind": "link",
+              "href": "https://lifehacker.ru/phoster/",
+              "title": "Как быстро сделать плакат или афишу: 5 бесплатных сервисов"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=sl02m9aj5aE"
+            },
+            {
+              "kind": "link",
+              "href": "https://presium.pro/blog/how_to_wow_auditory",
+              "title": "6 составляющих успешного выступления (практические советы)"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=1553767116",
+              "title": "Критерии оценивания устного ответа и презентации."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tekst",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teksti väljenduslaat. Teksti kasutusvaldkondid. Suhtlusolukord. Teksti autor. Adressaat. Teksti liigid. Teksti eesmärk. Teksti korrektne vormistamine. Vormistusnõudeid. Keelenormid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjali viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "http://padlet.com",
+              "title": "padlet.com"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=Be26xKtw9tY"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=_QZcw3qTn0Q"
+            },
+            {
+              "kind": "link",
+              "href": "https://textarchive.ru/c-1056172.htm",
+              "title": "Тип текста. Стили речи. (сборник практических упражнений)"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=BVRH7z_NHpM"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.iqconsultancy.ru/articles/motivatsionnoe-pismo-obshchie-pravila-soderzhanie-i-tipichnye-oshibki",
+              "title": "Мотивационное письмо: общие правила, содержание и типичные ошибки"
+            },
+            {
+              "kind": "link",
+              "href": "https://teadmiseks.ee/ru/dokumenty/motivacionnoe-pismo/",
+              "title": "Как писать мотивационное письмо (письмо-пример на эстонском языке)"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.cvkeskus.ee/karjaarikeskus/toootsing/stati-na-russkom-jazike-rus/kak-sostavit-soprovoditelnoe-pismo-primer",
+              "title": "CV keskus Как составить сопроводительное письмо + пример"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kontroll ja hindamine",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=322008575",
+              "title": "Оценка работы с аудио- и видеотекстами."
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1XrNRKfvJ4qyTy-hiHCBUKRTuxi3jVQVhYXyEyS6mi_g/edit#gid=350123511",
+              "title": "Критерии оценивания создания собственного текста на заданных условиях."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kodundusõpe annab teadmised ja oskused igapäevaeluga toimetulekuks. Praktilise toiduvalmistamise kõrval õpitakse tervisliku toitumise põhitõdesid ning tasakaalustatud menüü koostamist.</p><p>Arendatakse majandamisoskust ning keskkonnasäästlikku ja oma õigusi ning kohustusi teadvat tarbijat.</p><p>Analüüsitakse inimeste tarbijakäitumist ning püütakse leida seoseid ja vastuolusid inimeste terviseteadlikkuse ning tegeliku käitumise vahel.</p><p>Aines õpitakse tegema koduseid majapidamistöid ja nägema iga pereliikme osalemise vajalikkust nendes kaasa lüüa.</p><p>Kodundusõpe loob head võimalused teoreetilistes õppeainetes omandatu (nt inimeseõpetus, loodusõpetus, matemaatika) lõimimiseks praktikaga.</p><p>Kodundus on õppeaine, mis lõimib teoreetilised teadmised igapäevaelus vajalike praktiliste oskustega. Oluline osa on säilitada ja arendada rahvuslikke kultuuritraditsioone.</p><p>Õppeaine lõimib teadmisi, mis on omandatud teistes õppeainetes.</p><p>Mida enam õpilase teadmised täienevad, seda rohkem avaneb võimalusi neid kasutada praktilistes tegevustes.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Määruse järgi 7. klassi lõpuks õpilane:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab juhendamisel lihtsamaid võtteid rõivaste korrastamisel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sorteerib pesu värvi ja materjali järgi, oskab pesumasinal pesuprogramme valida, tunneb triikimismärke, oskab vastavalt tingmärkidele triikimisel temperatuuri valida;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab iseseisvalt lihtsamaid tervislikke toite;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab kasutada mõõtenõusid ja kaalu ning teisendada mahu- ja massiühikuid õpetaja juhendamisel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab õpetaja juhendamisel ohutult lihtsamat köögitehnikat (röster, mikrolaineahi, köögikombain, elektripliit jm);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab juhendamisel sorteerida prügi (paber ja papp; pakend; taara, klaas ja olme).",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Heaolu ja tervis toidust",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Makro- ja mikrotoitained, nende vajalikkus ja allikad",
+              "children": []
+            },
+            {
+              "kind": "section",
+              "title": "Lisaained toiduainetes",
+              "children": []
+            },
+            {
+              "kind": "section",
+              "title": "Toiduallergia ja -talumatus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Diabeet, gluteeni- ja lahtoositalumatus, toiduallergia.</li><li>Toitumishäired</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab mitmekülgse toitumise tähtsust oma tervisele;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida/märgata lisaainete märgistust pakendil;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab mõisteid: toiduallergia ja toidutalumatus;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada toitumishäireid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mõistekaardi koostamine, mis on tervislik toit?</li><li>Tasakaalustatud ja mitmekülgne päevamenüü tutvustamine ja analüüsimine.</li><li>Tutvumine toitumist mõjutavate teguritega, probleemide arutlemine, võimalusel erimenüüde koostamine rühma- või paaristööna.</li><li>Arutelud teemal, millistes toiduainetes leidub gluteeni ja millistes mitte?</li><li>Tutvustada põhjuseid, kuidas tekivad toitumishäired: anoreksia ja buliimia.</li><li>Toitainelise koostise uurimine koolmenüüs.</li><li>Pakenditelt lisaainete märgise leidmine.</li><li>Õpetajapoolne suunamine aitab õpilast ise oma tegevusele ning töö tulemusele hinnangut anda.</li><li>Lisaks võetakse arvesse õpilase arengut, püüdlikkust, töökultuuri ja abivalmidust teiste õpilaste vastu.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mikrotoitained - toitained, mida organism vajab väga väikestes kogustes, mis on aga olulised organismile, nt vitamiinid ja mineraalained.</li><li>Makrotoitained - toitained, mida organism vajab suuremates kogustes, nt valgud, rasvad, süsivesikud.</li><li><a href=\"https://www.tunnetoitu.ee/e-ained/\">Lisaained</a> - e-ained, mida lisatakse toidule välimuse, maitse ja säilivuse muutmiseks.</li><li>Toiduallergia- allergiline reaktsioon, mida võivad põhjustada toiduaine või toidulisand: nt. piim, soja, muna, seller, maapähklid, nisu, koorikloomad.</li><li>Buliimia - toitumishäire, mille korral toiduga liialdamisel järgneb tahtlik oksendamine.</li><li>Anoreksia - toitumishäire, mida iseloomustab haiglane soov kõhnuda.</li><li>Diabeet - suhkrutõbi on haigus, mille puhul vere glükoosisisaldus on kõrge, sest inimese kõhunääre ie tooda piisavalt insuliini või see ei toimi.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kogu päeva jooksul söödava toidu ülesmärkimine ning grupis või paaristööna analüüsimine.</li><li>Pakenditelt vajaliku info otsimine, võrdlemine.</li><li>Toitutalumatusele alternatiivide leidmine, arutelu.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://toitumine.ee/kuidas-tervislikult-toituda",
+              "title": "Õppevara"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li><li>Retseptid</li><li>Töövahendid (nt nõud, jne.)</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li><li>Käsitöö ja kodunduse mõisted 7.-9.klassile (2009) Marje Peedisson</li><li>e-koolikott digitaalsed õppematerjalid. Kaie Mei</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/25598-Lisaained",
+              "title": "e-koolikott digitaalsed õppematerjalid. Kaie Mei"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Toitumine ja liikumine. I-III kooliaste. Õpetajaraamat</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://tai.ee/et/valjaanded/toitumine-ja-liikumine-i-iii-kooliaste-opetajaraamat",
+              "title": "Toitumine ja liikumine. I-III kooliaste. Õpetajaraamat"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eesti Tsöliaakia Selts</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://tsoliaakia.ee/retseptid/",
+              "title": "Gluteenivabad toidud"
+            },
+            {
+              "kind": "file",
+              "src": "https://tsoliaakia.ee/wp-content/uploads/2019/07/Patsiendi-Meelespea-2019_web.pdf",
+              "title": "Tsöliaakia"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tervise Arengu Instituut. Toitumine.ee</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://toitumine.ee/toitumine-ja-haigused/toidutalumatus",
+              "title": "Toidutalumatus"
+            },
+            {
+              "kind": "link",
+              "href": "https://toitumine.ee/toidu-ohutus/lisaained",
+              "title": "Lisaained"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Toidu ohutu valmistamine ja töötlemisviisid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Kaasaegsed köögiseadmed",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Köögikombain</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Mahu- ja massiühikud",
+              "children": []
+            },
+            {
+              "kind": "section",
+              "title": "Supid. Vormiroad",
+              "children": []
+            },
+            {
+              "kind": "section",
+              "title": "Maitsetaimed ja roogade maitsestamine",
+              "children": []
+            },
+            {
+              "kind": "section",
+              "title": "Kuumtöödeldud magustoidud",
+              "children": []
+            },
+            {
+              "kind": "section",
+              "title": "Biskviittaigen",
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab juhendamisel ohutult köögitehnikat;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab iseseisvalt lihtsamaid tervislikke toite;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kaalub ja mõõdab toiduaineid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb peamisi maitsetaimi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tutvustada töövahendeid õppeköögis, nendega kasutamise võimalusi.</li><li>Näidata ette erinevate töövahendite ohutuid ja ratsionaalseid kasutamise võtteid.</li><li>Koostada õppeköögis olevate kodumasinatele lihtsad kasutusjuhendid/ pilt -tekst.</li><li>Valmistada ette retseptid, kus saab võimalikult palju erinevaid töövahendeid ja tükeldamisviise kasutada. Töökäsk lihtne, ainult vajalik info.</li><li>Tutvustada ja demonstreerida püreesuppide ja vormitoitude valmistamise tehnoloogiaid.</li><li>Tutvustada erinevaid maitsetaimi, arutleda milliseid taime osi kasutatakse toidumaitsestamiseks. Kasutada pildilist materjali: leia paarid jt.</li><li>Tooraine kaalumine ja mõõtmine vastavalt retseptile.</li><li>Lihtsamate kuumtöödeldud magustoitude valmistamise demonstreerimine/ koos tegemine.</li><li>Demonstreerida biskviittaigna põhikomponente: muna, suhkur, jahu. Mõõtmist ja kaalumist, täpsuse ja puhtuse rõhutamine. Taigna valmistamist köögikombainiga.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Köögikombain - elektriline töövahend, millega saab toiduaineid riivida, püreerida, segada, vahustada ja sõtkuda.</li><li>Maitsetaim - taim, mida tarvitatakse värskelt või säilitatult toitude maitsestamiseks (nt basiilik, münt).</li><li>Vormiroog - ahjus valmistatav, mitmesuguseid koostisosi sisaldav (soolane) toit.</li><li>Biskviittaigen - õhuline taigen, mis sisaldab vahustatud mune, suhkrut ja jahu.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Maitsetaimede uurimine, veebilehtedelt info otsimine. Sobiva retsepti leidmine, kus otsitavat maitsetaim võiks kasutada jne.</li><li>Valida retseptid vastavalt õpilaste eelistustele või kombineeritult.</li></ul>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/209584820/Biskviittaigen.pdf?version=1&modificationDate=1710342280562&api=v2",
+              "title": "Biskviittaigna valmistamine. Heidi Sild, õppematerjal"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li><li>Tervislik toitumine.ee</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://tervisliktoitumine.ee/category/tervislikud-retseptid/",
+              "title": "Retseptid"
+            },
+            {
+              "kind": "text",
+              "html": "<p>e-koolikott digitaalsed õppematerjalid. Kaie Mei</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/23503-Hugieen-koogis-ja-toidu-ohutus",
+              "title": "Hügieen köögis ja toidu ohutus"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=kaanry8EkJE"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Eesti Hotelli- ja Turismikõrgkool. Aune Põldma</p>"
+            },
+            {
+              "kind": "link",
+              "href": "http://auneveeb.weebly.com/otildeppematerjalid.html",
+              "title": "Eesti Hotelli- ja Turismikõrgkool. Aune Põldma"
+            },
+            {
+              "kind": "link",
+              "href": "http://auneveeb.weebly.com/supid.html",
+              "title": "Supid"
+            },
+            {
+              "kind": "embed",
+              "src": "https://learningapps.org/watch.php?v=p2a5gxygn18&allowFullscreen=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Puhastus- ja korrastustööd, jäätmed",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Pesumasina programmid",
+              "children": []
+            },
+            {
+              "kind": "section",
+              "title": "Triikimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Temperatuuride erinevus vastavalt materjalile</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Prügi sorteerimine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Paber ja papp; pakend; taara, klaas ja olme.</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "sorteerib pesu värvi ja materjali järgi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab pesumasinal pesuprogramme valida;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb triikimismärke;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "sordib jäätmeid keskkonnasõbralikult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Koostada õppemänge hooldusmärkidest, nt. bingomäng/ paaride leidmine.</li><li>Võimalusel komplekteerida erinevatest materjalidest lauapesu triikimise harjutamiseks.</li><li>Igapäevane prügi sorteerimine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Pesumasina programmid - valik pesutsükleid, mille abil saab tekstiilmaterjale pesta.</li><li>Triikimine - riide töötlemine triikrauaga. Triikrauda liigutatakse mööda riide pinda nii, et riie muutub siledaks.</li><li>Puhastusvahendid - toode pindade või kiudmaterjalide pesemiseks.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Koostada pesupesemise juhend, paaris- või rühmatööna.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/209584820/hooldustahistuse-tingmargid-pesu.pdf?version=1&modificationDate=1709660945030&api=v2",
+              "title": "hooldustahistuse-tingmargid-pesu.pdf"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.bosch-home.ee/tooted/pesumasinad-ja-kuivatid/pesumasinad/pesu-tingmargid",
+              "title": "Pesu tingmärgid ja nõuded pesu pesemisel"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keskkonnaagentuur. Kuidas sorteerida kodus prügi?</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=ue9tD-UFOmo"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keskkonnaamet. Nipid kodus jäätmete liigiti sorteerimiseks.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=iKhV5UZ7mP4"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tallinna keskkonnaamet. www.prugi.ee</p>"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.prugi.ee/portal/wp-content/uploads/2013/02/Ohtlikud_jaatmed_A5_est.pdf",
+              "title": "Ohtlikud jäätmed"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Pärnu Kutsehariduskeskus. Õppematerjalid. Triikimine.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hariduskeskus.ee/opiobjektid/tekstiilid/?Hooldamine___Triikimine",
+              "title": "Pärnu Kutsehariduskeskus. Õppematerjalid. Triikimine"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Terviseameti Mürgistusteabekeskus. Mürgistusinfo 16662</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.16662.ee/et/murgistusriskid/murgistused-kemikaalidest",
+              "title": "Terviseameti Mürgistusteabekeskus. Mürgistusinfo 16662"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/-BaHD-L_gBU"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/rohDWZ9Bir4"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=x2CXgSCGs7w"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.facebook.com/photo/?fbid=728232676150065&set=pb.100068900182589.-2207520000",
+              "title": "Pane ennast proovile, kas tunned ohutusmärke."
+            },
+            {
+              "kind": "text",
+              "html": "<p>Keskkonnaharidus.ee, digitaalsed õppematerjalid</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://keskkonnaharidus.ee/et/oppematerjalid/pakendite-ringlus",
+              "title": "Keskkonnaharidus.ee, digitaalsed õppematerjalid"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Pärnu Kutsehariduskeskus. Õppematerjalid. Tekstiilide hoidmine.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.hariduskeskus.ee/opiobjektid/tekstiilid/?Hooldamine___Tekstiilide_hoidmine",
+              "title": "Pärnu Kutsehariduskeskus. Õppematerjalid. Tekstiilide hoidmine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Etikett ja toidu serveerimine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Laua katmine ja toidu serveerimine erinevatel sündmustel</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Oskab lauda katta lähtudes sündmusest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja kasutab lauakombeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Võimalusel koostada pildipank laua katmise võimalustest.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Etikett - kindlad käitumisreeglid ja kombed, mis kehtivad seltskondlikus (eriti õukondlikus) ja diplomaatilises suhtlemises.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Laua katmine erinevateks tähtpäevadeks.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 7.-9. klass (2011) Kristi Paas, Anu Pink</li></ul>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/209584820/Laua-katmine-ja-toidu-serveerimine%28AnnaAbi%29.pdf?version=1&modificationDate=1711609825778&api=v2",
+              "title": "Laua-katmine-ja-toidu-serveerimine. Marell Rõss"
+            },
+            {
+              "kind": "text",
+              "html": "<p>e-koolikott digitaalsed õppematerjalid. Tuuliki Vuks</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/21248-Laua-etikett-2",
+              "title": "Lauaetikett"
+            },
+            {
+              "kind": "link",
+              "href": "https://cmsimple.e-ope.ee/toidu_paigutamine/index.html@TOIDU_PAIGUTAMINE_TALDRIKULE.html",
+              "title": "Toidu paigutamine taldrikule"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/209584820/202102%20P%C3%B5hilised%20lauakatmise%20reeglid.pdf?version=1&modificationDate=1711110498169&api=v2",
+              "title": "Põhilised lauakatmise reeglid.pdf. Virve Karu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

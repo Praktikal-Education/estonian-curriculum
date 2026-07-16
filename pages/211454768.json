@@ -1,0 +1,585 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Eemärgid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>saavutada allkirjeldatud õpitulemused nii, et õpilane omandab tüüpülesandeid ning kergemaid mitterutiinseid ülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>arendada õpitegevuse kaudu üld- ja ainepädevusi nii, et õpilane suudaks lahendada keerukamaid ülesandeid, mis võimaldaksid õppekavas kirjeldatud teadmisi ja oskusi rakendada väga heal tasemel.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üld- ja ainepädevused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ol><li>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika kasutamist;</li><li>suutlikkus arutleda loovalt ja loogiliselt ning leida ülesande lahendamiseks sobivad strateegiad. Selleks käsitleda ülesannete lahendamise üldisi strateegiaid;</li><li>suutlikkus põhjendada ja tõestada oma mõttekäike, kusjuures tõestada mitte niivõrd väite tõesuse näitamiseks, kuivõrd aitamaks luua üksikteadmistes süsteemi;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks peaks õpilane esitama iseendale küsimusi: mida ma teen; miks ma nii teen; milleni ma olen jõudnud ning kas tulemus on õige ja kontrollitav.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Eelduskursused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>laia matemaatika II kursus (võrrandid ja võrrandisüsteemid); III kursuse (võrratused ja võrratusesüsteemid);</p><p>põhikooli õppekavas kirjeldatud teadmised koordinaattasandist, sirgest ja paraboolist ning geomeetriliste kujundite joonelementide vahelistest seostest.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "VEKTOR TASANDIL",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab mõisteid vektor, ühik-, null- ja vastandvektor, vektori koordinaadid, kahe vektori vaheline nurk",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "liidab ja lahutab vektoreid ning korrutab vektorit arvuga nii geomeetriliselt kui ka koordinaatkujul",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab vektori pikkuse, lõigu keskpunkti koordinaadid, kahe vektori skalaarkorrutise ning rakendab neid geomeetriaprobleemide lahendamisel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab vektorite ristseisu ja kollineaarsuse tunnuseid geomeetriaprobleemide lahendamisel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kahe punkti vaheline kaugus.</p><p>Lõigu keskpunkti koordinaadid.</p><p>Vektori mõiste ja tähistamine. Nullvektor, ühikvektor, vastandvektor. Vektorite võrdsus.</p><p>Vektori koordinaadid. Vektori pikkus.</p><p>Vektorite liitmine ja lahutamine. Vektori korrutamine arvuga. Kahe vektori vaheline nurk. Vektorite kollineaarsus.</p><p>Kahe vektori skalaarkorrutis. Vektorite ristseis.</p><p>Ülesannete lahendamine vektorite abil ja tulemuste kontrollimine digiseadmetega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane peab teadma vektori kolme komponenti (pikkus, siht ja suund), peab oskama joonestada antud koordinaatidega vektoreid ning leidma jooniselt antud vektori koordinaate.</p><p>Õpilane peab oskama esitada vektoreid ühikvektorite kaudu ning leidma ühikvektorite kaudu esitatud vektori koordinaadid.</p><p>Vektori esitamine etteantud sihiga komponentideks võib osutuda vajalikuks füüsikas.</p><p>Peab oskama kirjeldada vektorit kui punkti nihet, asukoha muutust ja suunatud lõiku, mõistma vektori koordinaate teljesihiliselt ning siduma need täisnurkse kolmnurga kaatetitega. Peab mõistma seost vektori pikkuse arvutamise ja Pythagorase teoreemi vahel.</p><p>Vektori sidumine täisnurkse kolmnurgaga soodustab erinevate lahendusideede tekkimist. Vektori pikkuse leidmise valemi peab tuletama.</p><p>Lõigu pikkuse ja keskpunkti koordinaatide leidmist on soovitatav käsitleda samal ajal vektori pikkuse käsitlemisega.</p><p>Tähelepanu peab pöörama punkti kohavektori kasutamisele erinevates ülesannetes.</p><p>Näiteks vektori $\\overrightarrow{AB}$ lõpp-punkti koordinaatide leidmisel tuleb kirja panna seos $\\overrightarrow{OB}=\\overrightarrow{OA}+\\overrightarrow{AB}$, mitte kirjutada $B=A+\\overrightarrow{AB}$ (ei saa liita punkti ja vektorit). Õpilased eksivad selliste ülesannete lahenduste vormistamisel väga sageli.</p><p>Vektorite liitmist, lahutamist ja arvuga korrutamist peab oskama teha nii koordinaatkujul kui geomeetriliselt (kolmnurgareegel, rööpkülikureegel, hulknurgareegel). Soovitatav on vektorite lahutamine asendada vastandvektori liitmisega.</p><p>Õpilane peab oskama vektorite abil määrata hulknurga liiki (nt rööpkülik, trapets, romb) ning leidma hulknurga nurki.</p><p>Vektoritevahelise nurga arvutamise valemi peab tuletama lähtudes skalaarkorrutisest või koosinusteoreemist.</p><p>Sellel kursusel saab lahendada geomeetriaülesandeid (nt kolmnurga lahendamist, hulknurga lahendamist) analüütilise geomeetria valemeid rakendades. Analüütilise lahenduse õigsust saab hinnata ja kontrollida koordinaatteljestikus tehtud joonise põhjal.</p><p>Lahenduse õigsuse kontrollimiseks saab kasutada ka digivahendeid.</p><p>Kui leitakse hulknurga sisenurka vektorite abil, siis on oluline, et vektorite alguspunkt oleks leitava nurga tipus. Vastasel korral võib tulemuseks olla hulknurga välisnurga suurus.</p><p>Kui ülesandes küsitakse kolmnurga <strong>täpset pindala</strong>, peab leidma $\\sin \\alpha$ täpse väärtuse seosest $\\sin^2\\alpha+\\cos^2\\alpha=1$, kasutades vektoritevahelise nurga valemist saadud $\\cos\\alpha$ täpset väärtust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppekirjandus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120&sort=publisher_az",
+                  "title": "Õppekirjandus"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Laia matemaatika 5. kursus „Vektor tasandil. Joone võrrand“ sisaldab 10 kogumikku.</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/19834-Vektor-tasandil-Joone-vorrand",
+                  "title": "Vektor tasandil. Joone võrrand (e-koolikott.ee)"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õpetajaraamat",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/v-kursus-vektor-tasandil-joone-v%C3%B5rrand",
+                  "title": "Õpetajaraamat - V kursus „Vektor tasandil. Joone võrrand” (google.com)"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Riigieksamite materjalid",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+                  "title": "Riigieksamite materjalid"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Vektor, joone võrrand. Analüütiline geomeetria (artikkel)",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee/wp-content/uploads/2016/09/Anal_geom_hele_kiisel.pdf",
+                  "title": "anal_geom_hele_kiisel (oppekava.ee)"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjal",
+              "children": [
+                {
+                  "kind": "embed",
+                  "src": "https://www.geogebra.org/m/tsBer5An"
+                },
+                {
+                  "kind": "embed",
+                  "src": "https://www.geogebra.org/m/ee5nfsq6"
+                },
+                {
+                  "kind": "embed",
+                  "src": "https://www.geogebra.org/m/vUAFWvmk"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Sobivaid eestikeelseid Desmose töölehti võib leida</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://docs.google.com/spreadsheets/d/1js3DEOlIlLNrQmJtL6SBAvtQPX7EIZjRRgIsFaONxlw/edit#gid=2027870988",
+                  "title": "Sobivaid eestikeelseid Desmose töölehti"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kordamiseks võib kasutada Videoõpsi videosid youtube keskkonnas</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@Videoops",
+                  "title": "Videoõpsi videod"
+                },
+                { "kind": "text", "html": "<p>Matemaatika õhtuõpik</p>" },
+                {
+                  "kind": "link",
+                  "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+                  "title": "Matemaatika õhtuõpik"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+              "title": "Õppimist toetavast hindamisest täpsemalt"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em>.</p><p>Ülesannete raskusaste:</p><ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Ainesisene lõiming",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Põhikooli matemaatika</strong> teemadest saab korrata kogu geomeetria osa: erinevad kujundid, mis on antud piiravate joonte võrranditega või koordinaattasandil punktide ja vektoritega, nende omadused ning ümbermõõdu ja pindala leidmise eeskiri.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming teiste ainetega",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Füüsika</strong>. Vektorite skalaarkorrutise tulemuseks on töö (jõuvektori ja nihkevektori skalaarkorrutis). Vektori esitamine etteantud sihiga komponentideks.</p><p>Vektor kui nihe, asukoha muutuse kirjeldus. Skalaarid ja vektorid. Vektorite kasutamine dünaamika visualiseerimisel nii tasandil kui ka ruumis.</p><p>Erinevate jõudude koosmõju (nt tuul paadi- või õhusõidul).</p><p><strong>Geograafia</strong>. Kursus võimaldab rohkesti seoseid geograafiaga ning reaalsete situatsioonidega, kus etteantud maatükke võib esitada koordinaattasandil. Geograafiliste koordinaatide kasutamise eripära (nt lennunduses).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+                  "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee//wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+                  "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "SIRGE VÕRRANDID",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "koostab sirge võrrandi (kui sirge on määratud punkti ja sihivektoriga, punkti ja tõusuga, tõusu ja algordinaadiga, kahe punktiga) ning teisendab selle üldvõrrandiks, kontrollib tehtut digivahendiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "määrab kahe sirge vastastikuse asendi tasandil, lõikuvate sirgete korral leiab sirgete lõikepunkti ja sirgetevahelise nurga, kontrollib tehtut digivahendiga",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab hüperbooli, parabooli ja ringjoone võrrandi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonestab ainekavas esitatud jooni nende võrrandite järgi nii paberil kui ka arvutis",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab kahe joone lõikepunktid, kontrollib tehtut digivahendiga.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sirge sihivektor, algordinaat, tõus. Sirge võrrandi koostamine.</p><p>Sirge üldvõrrand.</p><p>Kahe sirge vastastikused asendid tasandil.</p><p>Nurk kahe sirge vahel. Ringjoone, parabooli, hüperbooli võrrandi koostamine.</p><p>Kahe joone lõikepunkti leidmine. Sirge, parabooli, hüperbooli ja ringjoone joonestamine.</p><p>Ülesannete lahendamine ja tulemuste kontrollimine digivahenditega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Sirged",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilane peab oskama koostada sirge võrrandit, kui on antud:</p><ul><li>tõus ja algordinaat,</li><li>kaks punkti,</li><li>punkt ja tõus/tõusunurk,</li><li>punkt ja sihivektor,</li><li>punkt ja paralleelsus mingi teise sirgega,</li><li>punkt ja ristseis mingi teise sirgega.</li></ul><p>Sirgeid õpetades võib tutvustada ka sirge normaalvektori mõistet.</p><p>Õpilane võib koostada sirge võrrandi kahe punktiga, kasutades lineaarvõrrandisüsteemi, kus muutujad on asendatud punkti koordinaatidega, ning peab oskama põhjendada, mis printsiibil see võte toimib. Õpilasel peab kinnistuma teadmine, et kui punkt asub joonel, siis selle koordinaadid rahuldavad antud joone võrrandit.</p><p>Oluline on teada, kuidas erinevate algandmete põhjal saab leida sirge <strong>tõusu</strong>. Siis on võimalik kõik ülesanded viia punkti ja tõusuga antud sirge võrrandile (või tõusu ja algordinaadiga antud sirge võrrandile).</p><p>Õpilane peab oskama igast sirge võrrandist määrata tõusu, sihivektori ja ühe punkti sellel sirgel. Peab oskama joonestada sirget iga võrrandi järgi ja koostada sirge võrrandi joonise põhjal.</p><p>Õpilasel peaks kinnistuma arusaam, et ühest ja samast objektist – sirgest – saab rääkida eri viisidel.</p><p>Eraldi tähelepanu tuleb pöörata telgedega paralleelsete sirgete võrranditele. Neid on vaja edaspidi kõvertrapetsi pindala leidmiseks ning trigonomeetrilise võrrandi graafiliseks lahendamiseks.</p><p>Õpilane peab oskama määrata sirgete vastastikust asendit ning lõikumise korral leidma lõikepunkti koordinaadid (võrrandisüsteemi abil) ja sirgetevahelise nurga.</p><p>Peab taipama, mis tähendus on sirgete lõikepunktil.</p><p>Peab oskama leida ka sirge lõikepunkte koordinaattelgedega.</p><p>Nurka kahe sirge vahel võib leida erinevate meetoditega:</p><ul><li>sirgetevahelise nurga valemiga,</li><li>sihivektorite vahelise nurga kaudu,</li><li>sirgete tõusunurkade vahe kaudu.</li></ul><p>Õpilane peab oskama neid meetodeid ka põhjendada.</p><p>Sirgete paaride vastastikuseid asendeid tasandil on mõistlik uurida sirgete võrrandite teisendamisel kujule $y=kx+b$, mis annab piisavalt infot vastava otsuse tegemiseks (paralleelsus, ühtimine, ristumine).</p><p>Oluline osa on joonistel. Joonised peavad olema korrektsed. Nende põhjal saab kontrollida, kas leitud lõikepunkt ja nurk on tõesed.</p><p>Kõrvuti sirgete joonestamisega paberile võib aja kokkuhoiu mõttes kasutada ka digivahendeid. Peamiselt jäävad digivahendid siiski leitud lahendite kontrollimiseks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ringjoon",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Õpilane peab oskama algandmete järgi kirja panna ringjoone kanoonilise võrrandi ning teisendama üldvõrrandi kanooniliseks võrrandiks.</p><p>Ringjoone võrrandit koostades ja uurides tehakse ka vajalikud joonised. Ringjoone kanoonilise võrrandi peab tuletama Pythagorase teoreemi kaudu.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Joonte joonestamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Sirgete korral kasutatakse algordinaadi ja tõusu või kahe punkti meetodit.</p><p>Parabooli korral leitakse haripunkt ja nullkohad või nullkohtade puudumisel haripunkt ning koostatakse funktsiooni väärtuste tabel.</p><p>Ringjoone korral leitakse keskpunkt ja raadius.</p><p>Hüperbooli korral tehakse funktsiooni väärtuste tabel.</p><p>Hüperbooli korral võiks tutvustada ka asümptoodi mõistet.</p><p>Jooniseid tehakse nii paberil kui ka digivahenditega.</p><p>Kui aeg võimaldab, võib vaadelda ka erikujulisi jooni ning nende võrrandeid, kujutada neid koordinaatteljestikus või digivahenditega (nt ellips, astroid, Descartes’i leht vms).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Joonte lõikepunktide leidmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Joonte lõikepunkte leitakse võrrandisüsteeme lahendades ja graafiliselt. Arutletakse, mitu lõikepunkti saab vaadeldavatel joontel olla ja visandatakse vastavad joonised.</p><p>Analüütilise lahendamise keerukusaste piirneb 2. kursusel õpitud võrrandisüsteemide lahendamisega.</p><p>Graafiline lahendus sobib analüütilise lahenduse kontrollimiseks, samuti saab kontrollimiseks kasutada digivahendeid.</p><p>Selle kursuse materjali väga hea omandamine lihtsustab oluliselt funktsiooni uurimise õppimist järgmistel kursustel.</p><p>Kursuse vältel arendatakse vaatlus- ning mõistmisoskust, arvestades seda, et silmaga nähtav on enamikule õpilastele tajutavam ning veenvam loogilisest arutlusest. Loogilist deduktiivset vaadet tuletuskäikudes hakatakse käsitlema üldise mõistmise ja taipamise saavutamise järel, pärast seda tasub võrrandite tuletamist esitada ülesandena.</p><p>Digivahendite kasutamine lahendusideede läbimängimiseks või enesekontrolliks aitab arendada digipädevust.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppekirjandus",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120&sort=publisher_az",
+                  "title": "Õppekirjandus"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Laia matemaatika 5. kursus „Vektor tasandil. Joone võrrand“ sisaldab 10 kogumikku.</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/19834-Vektor-tasandil-Joone-vorrand",
+                  "title": "Vektor tasandil. Joone võrrand (e-koolikott.ee)"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õpetajaraamat",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://sites.google.com/view/matemopetajaraamat/laia-matemaatika-kohustuslikud-kursused/v-kursus-vektor-tasandil-joone-v%C3%B5rrand",
+                  "title": "Õpetajaraamat - V kursus „Vektor tasandil. Joone võrrand” (google.com)"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Riigieksamite materjalid",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+                  "title": "Riigieksamite materjalid"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Vektor, joone võrrand. Analüütiline geomeetria (artikkel)",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee/wp-content/uploads/2016/09/Anal_geom_hele_kiisel.pdf",
+                  "title": "anal_geom_hele_kiisel (oppekava.ee)"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjal",
+              "children": [
+                { "kind": "text", "html": "<p>Graafikute tegemiseks</p>" },
+                {
+                  "kind": "embed",
+                  "src": "https://www.desmos.com/calculator?lang=et"
+                },
+                {
+                  "kind": "embed",
+                  "src": "https://www.geogebra.org/calculator"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Sobivaid eestikeelseid Desmose töölehti võib leida</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://docs.google.com/spreadsheets/d/1js3DEOlIlLNrQmJtL6SBAvtQPX7EIZjRRgIsFaONxlw/edit#gid=2027870988",
+                  "title": "Sobivaid eestikeelseid Desmose töölehti"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kordamiseks võib kasutada Videoõpsi videosid youtube keskkonnas</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/@Videoops",
+                  "title": "Videoõpsi videod"
+                },
+                { "kind": "text", "html": "<p>Matemaatika õhtuõpik</p>" },
+                {
+                  "kind": "link",
+                  "href": "https://dspace.ut.ee/items/49ae5c6a-da57-4ddc-b9a1-6c05807483df",
+                  "title": "Matemaatika õhtuõpik"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Täiendav materjal (seotud füüsikaga)</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://teaduskool.ut.ee/et/matemaatika-ja-fuusika-oppevideod",
+                  "title": "Täiendav materjal (seotud füüsikaga)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rakendusülesannete lahendamine on enamasti töömahukas, aeganõudev ning seotud funktsionaalse lugemise oskusega. Et kursus on väga mahukas, peaks rakendusliku sisuga ülesanded põimima õppesse kohe vastavat osa käsitledes. Eraldi aega kursuse lõpul nendele ülesannetele tõenäoliselt ei jää.</p><p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+              "title": "Õppimist toetavast hindamisest täpsemalt"
+            },
+            {
+              "kind": "text",
+              "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em>.</p><p>Ülesannete raskusaste:</p><ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Ainesisene lõiming",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>on seotud põhiliselt 1. kursusega, millest kasutatakse võrrandite ja võrrandisüsteemide lahendamist joonte lõikepunkte leides, ning 2. kursusega (trigonomeetria), millest kasutatakse alternatiivvariandina siinus- ja koosinusteoreemi rakendusülesandeid lahendades ning sirgete ja vektorite vahelisi nurki leides. Samuti on võimalik rakendada mis tahes nurga trigonomeetriliste funktsioonide leidmise oskust, kui nurga lõpphaaral võetav punkt asub teatud võrrandiga etteantud sirgel.</p><p>Paraboole tutvustades võib mainida ka parabooli fookust ning sellest tulenevaid rakendusi: paraboolantennid ja mikrofonid, autolaternad, taskulambid, lumelauad, päikesegrill, parabooli kujuga ehitised. Temaatilist materjali iseseisvalt otsides areneb digipädevus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõiming teiste ainetega",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Füüsika",
+                  "children": [
+                    {
+                      "kind": "link",
+                      "href": "https://teaduskool.ut.ee/et/matemaatika-ja-fuusika-oppevideod",
+                      "title": "Füüsika"
+                    }
+                  ]
+                },
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Kunstiõpetus</strong>. Visualiseerides toetutakse joonte kasutamisele kujutavas kunstis esteetilise kasvatuse eesmärgil.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee//wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+                  "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Läbivad teemad",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Elukestev õpe ja karjääri kujundamine",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Abstraktse ja loogilise mõtlemise areng.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Kultuuriline identiteet",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Esteetiline kasvatus. Kunst (erinevad jooned).</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Kodanikualgatus ja ettevõtlikkus",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Rühmatöö ja paaristöö, koostööoskuste arendamine.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Väärtus ja kõlblus",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Süstemaatilisuse, püsivuse, täpsuse, korrektsuse ja kohusetunde arendamine.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Tehnoloogia ja innovatsioon",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Digivahendite kasutamine õppetöös lahendusideede läbimängimiseks või enesekontrolliks. Võimalus oma teadmisi vektoritest, nende kujutamisest ning omadustest üle kanda 2D- ja 3D-rakendustes töötamiseks.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Teabekeskkond ja meediakasutus",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Erinevate andmete otsimine.</p>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454768/LAI_MATEMAATIKA_5.%20kursus.%20N%C3%A4ite%C3%BClesanded.docx?version=1&modificationDate=1706621742091&api=v2",
+          "title": "LAI_MATEMAATIKA_5. kursus. Näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454768/LAI_MATEMAATIKA_5.%20kursus.%20N%C3%A4ite%C3%BClesanded.pdf?version=1&modificationDate=1706621742083&api=v2",
+          "title": "LAI_MATEMAATIKA_5. kursus. Näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

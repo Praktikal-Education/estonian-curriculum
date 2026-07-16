@@ -1,0 +1,930 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "3. kooliastme rõhuasetus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>Kolmanda kooliastme</strong> temaatiline kese on maailmareligioonid – nende õpetused, praktikad ja sisemine mitmekesisus. Senistest üksikutest kildudest komponeeritakse tervikarusaamad, mis aitavad usulisel maastikul navigeerida, mõista iga religiooni ainulaadsust, teha religioonide vahel võrdlusi ning mõista selliste võrdluste piiratud ulatust. Olulist rõhku pööratakse religiooni ja kultuuri vastastikustele mõjutustele. Õpilased saavad praktiliste ülesannete kaudu arendada allikakriitilisust ning arendada religiooni uurimiseks vajalikke oskusi, püstitades küsimusi ning kogudes nende küsimuste vastamiseks vajalikku infot. Õpiülesanded suunavad uurima ja analüüsima allikmaterjale, ärgitavad debateerima aktuaalsetel teemadel, innustavad looma ning allikakriitiliselt lisainfot otsima. Seda tehes otsitakse püstitatud küsimusele vastust mitmest erinevast perspektiivist ning võrreldakse erineva metoodikaga saadud tulemusi. Õpiprotsessis on lahutamatult omavahel põimunud kolm olulist küsimuste ringi:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "1. Religiooni ainealased teadmised ja kontseptsioonid - representatsiooniküsimused:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kuidas erinevad kultuurid ja usulised traditsioonid mõistavad ja vahendavad arusaama jumalikust või pühast?</li><li>Milline roll on religioonil ühiskonnas ja kuidas see kujundab inimeste maailmavaadet?</li><li>Kuidas erinevad usulised vaated võivad mõjutada üksikisikute otsuseid ja käitumist?</li><li>Kuidas on võimalik erinevate religioonide esindajatel leida ühiseid punkte või mõista erinevusi?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2. Õpiprotsessid ja uurimismeetodid:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Miks on oluline mõista, kuidas omandatakse teadmisi religiooni valdkonnas?</li><li>Kuidas erinevad õpistiilid ja -meetodid mõjutavad arusaamist religioonist?</li><li>Millised uurimismeetodid on kõige tõhusamad religiooni eri aspektide uurimisel, võttes arvesse selle komplekssust ja subjektiivsust?</li><li>Kuidas tagada objektiivsus religiooni uurimisel?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "3. Isiklikud hoiakud ja eneserefleksioon:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kuidas isiklikud veendumused ja väärtused mõjutavad õpiprotsessi?</li><li>Miks on oluline olla teadlik oma eelarvamustest ja kuidas need võivad mõjutada meie arusaamu?</li><li>Kuidas arendada avatud mõtlemist ja austust erinevate uskumuste suhtes?</li><li>Kuidas eneserefleksioon võimaldab paremini mõista religiooni mitmekesisust?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Need kolm küsimuste ringi on omavahel seotud ja nende sünergia aitab luua tervikliku arusaama religioonidest ning toetab avatud ja kaasavat lähenemist selle keerulise teema uurimisel.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused ja õppesisu III kooliastmes",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "oskab usundeid klassifitseerida ja nimetada maailma erinevates osades enam levinud usundeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab Eestis levinud suuremaid usundeid, eristab suuremaid konfessioone ja usulisi rühmitusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab olulisemaid eesti rahvausundi põhijooni ning toob näiteid selle avaldumisest tänapäeval",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab käsitletud usundite õpetuse ja eetika põhiseisukohti ning tunneb nende usundite teket, tähtsamaid suurkujusid, usulisi rituaale ja nende väljendumist kultuuris",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab seoseid usu väljendumisvormide ja vastava usundi põhiideede vahel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab olulisemaid kristlikke pühi ning toob näiteid kristluse tähendusest Eesti kultuurile ja ühiskonnale nii ajaloos kui ka kaasajal",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb erinevaid religioone, analüüsib näiteid tuues erinevate maailmavaadete mõju inimese ning ühiskonna elus nii positiivsete kui ka probleemsete ilmingutena",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib religioossete konfliktide põhjusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära eelarvamusliku ja sildistava suhtumise",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "pakub võimalusi erinevate religioossete vaadetega inimeste dialoogiks ning koostööks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab oma maailmavaate mõningaid jooni",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib enda maailmavaatelisi tõekspidamisi käsitletud usundite ja maailmavaadete valguses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "otsib teavet usundite kohta ja hindab allikate sobivust.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Sissejuhatavad probleemid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "klassifitseerib usundeid ja nimetab maailma erinevates osades enam levinud usundeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab suuremaid Eestis levinud usundeid, eristab suuremaid konfessioone ning usulisi rühmitusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib religioossete konfliktide põhjusi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära eelarvamusliku ja sildistava suhtumise",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "pakub võimalusi erinevate religioossete vaadetega inimeste dialoogiks ning koostööks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Millesse inimesed usuvad ning kuidas avaldub usk inimeste elus?</p><p>Mis on religioon? Usundite ja maailmavaadete mitmekesisus. Ülevaade usundite levikust maailmas (levikugeograafia ja statistika). Miks on vaja usundeid tunda?</p><p>Maailma seletamise erinevad võimalused. Religioon ja teadus. Usundite vahelised suhted.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tutvumine erinevate usunditega",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kirjeldab olulisemaid eesti rahvausundi põhijooni ning toob näiteid selle avaldumisest tänapäeval",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab käsitletud usundite õpetuse ja eetika põhiseisukohti ning tunneb nende usundite teket, tähtsamaid suurkujusid, usulisi rituaale ja religiooni väljendumist kultuuris",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab seoseid usu väljendumisvormide ja vastava usundi põhiideede vahel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb erinevaid usundeid, analüüsib näiteid tuues erinevate maailmavaadete mõju inimese ning ühiskonna elus nii positiivsete kui ka probleemsete ilmingutena",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab olulisemaid kristlikke pühi ning toob näiteid kristluse tähendusest Eesti kultuurile ja ühiskonnale nii ajaloos kui ka kaasajal",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab oma maailmavaate mõningaid jooni",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "analüüsib enda maailmavaatelisi tõekspidamisi käsitletud usundite ja maailmavaadete valguses",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab otsida teavet usundite kohta ja hinnata allikate sobivust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sümbolid. Rajajad ning mõned kesksed tegelased. Pühad tekstid.</p><p>Maailma alguse lood. Inimese suhe loodusega. Inimesekäsitlus.</p><p>Olulisemad pühad ja rituaalid. Pühapaigad. Eetika. Religiooni väljendumine kultuuris.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppematerjali viited ja metoodilised soovitused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Sissejuhatavad küsimused - mis on usund?",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õpilane on erinevate tegevuste käigus tutvunud usunditega, neid iseloomustavate teguritega ja jaotamisviisidega</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted, märksõnad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Religioon</li><li>kultuur</li><li>maailmausund</li><li>etniline usund</li><li>raamatuusund</li><li>pärimuslik usund</li><li>monoteism</li><li>polüteism</li><li>ateism</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Sissejuhatavas teemaplokis arutletakse usundi rolli üle inimeste elus ja vaadeldakse maailmausundeid kõige üldisemas plaanis. Usund on olnud inimese kaaslaseks vähemalt 60 000 aastat ja ei ole olnud kultuuri, kus poleks olnud mingis vormis usundit.</p><p>Sissejuhatav ajurünnak: <em>tooge välja nii palju kultuure ja nendega seotud usundeid, kui oskate. Kuidas väljendub kristlus Eesti kultuuris?</em> (ajaarvamine, kalendripühad, arhitektuur, erinevad talitused jne). Maailmas on umbes 20 000 usundit. Neid saab jagada mitut moodi. 1) maailmausundid ja etnilised usundid. Maailmausundid on ülemaailmse mõjuga (nt. kristlus, islam, judaism, hinduism, budism), etnilised usundid levivad ühes kultuuris või piirkonnas (põlisrahvaste usundid, šintoism).</p><p><strong>Tegevusülesanne:</strong> vaadake läbi Ted ed video (õppematerjalide lahtris) ja arutlege, mis on videos käsitletud religioonidel ühist ja mis erinevat. Religioone saab jagada ka selle järgi, kas neil on pühad tekstid (raamatuusundid), või antakse traditsioon edasi suulise pärimuse või õpetusega (pärimuslikud usundid). <strong>Tegevusülesanne:</strong> vaata, kas sul õnnestub ühendada pühad tekstid õige usundiga: <a href=\"https://www.purposegames.com/game/religions-holy-texts\">https://www.purposegames.com/game/religions-holy-texts</a>. Usundeid saab jaotada ka selle järgi, kas seal usutakse ühte jumalat (monoteism), paljusid jumalaid (polüteism), või ei usuta jumala olemasolu (ateism).</p><p><strong>Tegevusülesanne:</strong> uuri Maailma Majandusfoorumi lehekülge (materjalide veerus) religiooni ja selle seoste kohta teiste eluvaldkondadega. Vali välja üks eluvaldkond ja uuri, mida täpsemalt ja miks peaks selle valdkonna esindaja religioonidest teadma. Kuigi usundid on väga erinevad, on neil kõigil mõned sarnased tunnused: uskumused, kogukond, eetika, rituaalid, tundeväljendused, kultuur ja kogukond. Nendega tutvutakse järgmiste teemaplokkide käigus erinevaid usundeid uurides.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Üldpädevustest toetatakse enim kultuuri- ja väärtus- pädevust läbi erinevate religioonidega tutvumise. Samuti toetatakse sotsiaalset- ja kodanikupädevust läbi erinevate keskkondade reeglite tundma õppimise ning religioonide- ja rahvaste omapära tundmaõppimise. Ainetevahelist lõimingut toetatakse geograafiaga ja ajalooga.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://ed.ted.com/lessons/the-five-major-world-religions-john-bellaimey/watch",
+                  "title": "TEd ed video viiest suurimast maailmausundist (inglise keeles)"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=AvFl6UBZLv4"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://arhiiv.err.ee/video/vaata/ajalik-ja-ajatu-maailma-usundid-1",
+                  "title": "Lisamaterjal maailma usundite kohta (err)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://intelligence.weforum.org/topics/a1Gb0000000pTDcEAM?tab=publications",
+                  "title": "Maailma Majandusfoorumi lehekülg religioonide ja nende seoste kohta teiste eluvaldkondadega (inglise keeles)"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hinnatakse ülesannet religioonide võrdlemise kohta, testi pühade tekstide kohta ning uurimust erinevate elukutsete ja nende seoste kohta religioonidega.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused: Õpilane nimetab suuremaid Eestis levinud usundeid, eristab suuremaid konfessioone ning usulisi rühmitusi",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Õpilane nimetab suuremaid Eestis levinud usundeid, eristab suuremaid konfessioone ning usulisi rühmitusi",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted, märksõnad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Kristlik kultuuriruum</li><li>usuvabadus</li><li>kristlus</li><li>reformatsioon</li><li>judaism</li><li>islam</li><li>budism</li><li>maausk</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Nii, nagu terve Euroopa, kuulub ka Eesti eelkõige kristlikku kultuuriruumi. Eesti on demokraatlik riik ja siin kehtib usuvabadus - see tähendab, et iga inimene võib uskuda seda, mida õigeks peab. Usuvabadus on tagatud põhiseadusega. Teemaplokk on heaks võimaluseks arendada õpilastes digipädevusi ja infotöötlust.</p><p><strong>Tegevusülesanne:</strong> uuri statistikaameti kodulehelt andmeid eestlaste usu kohta (töö vajab õpetajapoolset juhendamist): <a href=\"https://andmed.stat.ee/et/stat/rahvaloendus__rel2021__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__usk/RL21456\">https://andmed.stat.ee/et/stat/rahvaloendus__rel2021__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__usk/RL21456</a> Vali endale huvitavad andmed ja kuva need tabelina. Sisesta leitud andmed Exceli või Google arvutustabelisse, loo endale sobiv diagramm ja tutvusta klassile oma tulemusi. Eestis olevate erinevate uskude esindajatega saab tutvuda <a href=\"https://sisu.ut.ee/kohtumised\">https://sisu.ut.ee/kohtumised</a> lehel.</p><p><strong>Tegevusülesanne rühmades:</strong> mine mõnda oma kodukoha pühakotta ja tee sellest pühakojast ja võimalusel ka mõnest sellega seotud inimesest (pastor, preester, rabi, kiriku koristaja või abiline vms) tutvustav video. Mis on kõige olulisemad asjad, mida video peaks kajastama?</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Üldpädevustest toetatakse õpipädevust läbi tegevuste, mis on seotud info otsimisega, andmete uurimise ja töötlemisega ning oma tööde esitlemisega. Ainetevahelist lõimingut toetatakse matemaatikaga seoses tööga andmetega ning ühiskonnaõpetusega läbi Eesti ühiskonna religioosse kuuluvuse analüüsi.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.taskutark.ee/study/uhiskonnaopetus-6-klassile/83733/",
+                  "title": "Õppematerjal"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://andmed.stat.ee/et/stat/rahvaloendus__rel2021__rahvastiku-demograafilised-ja-etno-kultuurilised-naitajad__usk/RL21456/table/tableViewLayout2",
+                  "title": "Statistikaameti tabel"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=EsGQlESVvls"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://sisu.ut.ee/kohtumised",
+                  "title": "Kohtumised Eestis olevate uskudega"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/watch?v=5RL_oqSI0FM&list=PLAcQerlDX93ilM9EuIyGM8K1vbqL0vjw1",
+                  "title": "Läänemaa"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/playlist?list=PLAcQerlDX93jdjN0dRAgNLCzHyLLpmN0T",
+                  "title": "Põlvamaa"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/playlist?list=PLAcQerlDX93gxcPFEjx10h6Tm9b-Zhshd",
+                  "title": "Pärnumaa"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/playlist?list=PLAcQerlDX93jPXvlFn4ZbjlLFW_MC9Vg-",
+                  "title": "Saared"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/playlist?list=PLAcQerlDX93j86yOvUxwWq4ZeooMZDlya",
+                  "title": "Saaremaa"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/playlist?list=PLAcQerlDX93gvVkel_Pak8lPWPjV2zQiY",
+                  "title": "Tallinn"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/playlist?list=PLAcQerlDX93imxvRICvgbstDd4nlXOggn",
+                  "title": "Valgamaa"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.youtube.com/playlist?list=PLAcQerlDX93gmNqf3hHFViqcUgOFozUci",
+                  "title": "Võrumaa"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=F6dyfeTTI0o&list=PLAcQerlDX93gmNqf3hHFViqcUgOFozUci"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.hramy.ee/tere-tulemast.html",
+                  "title": "MPÕAK kirikute virtuaaltuurid"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://rahvakultuur.ee/wp-content/uploads/2022/03/VKP-to%CC%88o%CC%88lehtede-komplekt.pdf",
+                  "title": "Lisaülesanded Eesti rahvakultuuri keskuse kodulehelt"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://rahvakultuur.ee/wp-content/uploads/2022/03/VKP-töölehtede-komplekt.pdf",
+                  "title": "Lisaülesanded Eesti rahvakultuuri keskuse kodulehelt"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hinnatakse tööd statistikaameti andmetega ja pühakoja tutvustust.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused: Õpilane kirjeldab olulisemaid eesti rahvausundi põhijooni ning toob näiteid selle avaldumisest tänapäeval",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Õpilane kirjeldab olulisemaid eesti rahvausundi põhijooni ning toob näiteid selle avaldumisest tänapäeval",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted, märksõnad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>rahvausund</li><li>loodususund</li><li>maausk</li><li>hiis</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Eesti rahvausund on rahvalik uskumuse vorm, kus ristiusu eelsed uskumused on põimunud kristlike uskumustega. 2021. aasta rahvaloenduse andmetel on praegu Eestis ligi 4000 maausulist. Maausuga saab tutvuda Maavalla Koja kodulehel. Hiis on looduslik pühapaik, mis on omane paljudele loodususunditele.</p><p><strong>Arutelu:</strong> uuri Maavalla koja kodulehte ja arutlege, kas ja kuidas sealkirjutatu on kooskõlas sellega, kuidas sina ja teie klass eestlasi ette kujutate.</p><p><strong>Tegevusülesanne:</strong> minge välja ja pildistage 12 pilti virtuaalse kalendri jaoks teemal: asjad, mis ei muutu läbi ajaloo. Koosta saadud piltidest ilus kalender kas Canva või mõnes muus endale sobivas keskkonnas.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Üldpädevustest toetatakse sotsiaalset- ja kodanikupädevust läbi tegevuste, kus saadakse rohkem teada oma kultuurist ja kultuurilisest identiteedist ning suhtlus- pädevust läbi erinevate arutelude ja enese- väljendusoskuse arendamise. Ainetevahelist lõimingut toetatakse kunstiainetega läbi Canva projekti.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.maavald.ee/maausk",
+                  "title": "Maavaala koja koduleht"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://hiiepaik.ee/loe/puhapaik-mis-see-on/",
+                  "title": "Eesti hiied ja looduslikud pühapaigad"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=r_jSHDz8A7Y"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hinnatakse kalendrit ajas muutumatute asjade kohta.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused: Õpilane analüüsib religioossete konfliktide põhjusi.",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Õpilane analüüsib religioossete konfliktide põhjusi.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted, märksõnad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>õiglane sõda; eetilised õpetused; sõjalised konfliktid; identiteet; rahu nimel tegutsevad organisatsioonid</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Ükski religioon ei õigusta sõda ega tapmist. Ometigi on olukordi, kus tuleb seista selle eest, mida armsaks või pühaks pead (pere, kodumaa). Õiglase sõja teooria kohaselt on sõda teatud juhtudel õigustatud.</p><p><strong>Tegevusülesanne:</strong> uurige õiglase sõja põhjuseid (materjalide veerus, Wikipedia artikkel) ja vaadake, kas ja mil määral te nendega nõustute. Mille eest sina oleksid nõus sõdima? Ühegi religiooni õpetus ei toeta sõja alustamist ega vägivalda.</p><p><strong>Tegevusülesanne:</strong> uuri levinumate religioonide eetilisi õpetusi ning vaata, mida nad sõja ja vägivalla kohta arvavad. (Võib teha ka rühmades nii, et igal rühmal on oma religioon, mida uurida). Kui õpilased oskavad inglise keelt või kasutavad tõlkeprogramme, saab kasutada materjalide veerus asuvat BBC veebilehte.</p><p><strong>Ajurünnak:</strong> mõtle nendele sõjalistele konfliktidele, mida sa tead või oled ajaloos õppinud. Mis on nende peamised põhjused? Too välja nii palju erinevaid põhjuseid, kui tead. Vaata nimekirja tänapäevastest konfliktidest ja arutle, milliste konfliktide põhjuseks on religioon ja mis on teised põhjused. Kasuta oma otsuste tegevuseks abi asjakohastest interneti allikatest.</p><p><strong>Arutelu:</strong> miks sageli arvatakse, et religioon põhjustab sõdu ja konflikte? Milliste oma tõekspidamiste pärast oled sina valmis võitlema? Religioossete inimeste ja gruppide jaoks on religioon oluline osa nende identiteedist. Sageli määratletakse neid inimesi ja gruppe just eelkõige nende religiooni järgi (moslemid, juudid jne), mistõttu seostatakse nende gruppide siseseid või vahelisi konflikte samuti religiooniga. Tegelikeks põhjusteks on tavaliselt hoopis poliitilised, majanduslikud või ajaloolised asjaolud.</p><p><strong>Arutelu ja tegevusülesanne:</strong> kuidas saada maailma rahu? Millised organisatsioonid või inimesed tegelevad rahu edendamise ja vahendamisega? Uuri lähemalt ühe sellise organisatsiooni või inimese kohta ja tee sellest ettekanne? Mis on selle organisatsiooni väärtused? Milliste vahenditega rahu eest võideldakse? Mis on selle organisatsiooni suurimad edulood?</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Üldpädevustest toetatakse kultuuri- ja väärtuspädevust läbi selle uurimise, millised on erinevate religioonide vaated sõjast ning digipädevust seoses info otsimise ja allika kriitilise hindamise. Ainetevahelist lõimingut toetatakse ühiskonnaõpetusega kui uuritakse kriise maailmas ning rahu eest seisvaid organisatsioone.</p><p>Ajalugu - uusaegsed ususõjad. Allika analüüs: Francois Dubois’ Pärtliöö veresaun: <a href=\"https://www.mcba.ch/en/collection/the-saint-bartholomews-day-massacre/\">https://www.mcba.ch/en/collection/the-saint-bartholomews-day-massacre/</a> Mis toimus? Miks? Kas maalilt võib välja lugeda autori hinnangut toimunule? Millest seda järeldate?</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://et.wikipedia.org/wiki/%C3%95iglane_s%C3%B5da",
+                  "title": "Õiglasest sõjast"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.bbc.co.uk/religion/religions/",
+                  "title": "Erinevate religioonide ja nende peamiste aspektide tutvustamine BBC veebilehel (lihtne inglise keel)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://en.wikipedia.org/wiki/Category:Peace_organizations",
+                  "title": "Rahu nimel tegutsevate organisatsioonide nimekiri (inglise keeles)"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hinnatakse tööd õiglase sõja teooriaga, uurimust erinevate religioonide eetilistest õpetustest ning rahu nimel tegutsevast organisatsioonist.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused: Õpilane tunneb ära eelarvamusliku ja sildistava suhtumise",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Õpilane: tunneb ära eelarvamusliku ja sildistava suhtumise;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted, märksõnad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>eelarvamused; diskrimineerimine; stereotüübid; religioosne grupp; sotsiaalne grupp; islamofoobia; antisemitism</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Teemaplokk tegeleb nii religioossete eelarvamustega, kui ka sotsiaalsete eelarvamuste ja diskrimineerimisega laiemalt. Teemaploki alguses vaadatakse lühifilmi “The Lunch Date” (õppematerjalide veerus).</p><p><strong>Arutelu:</strong> kuidas sinu arvates kirjeldaks peategelane teisi filmi tegelasi? Kuidas sina filmi tegelasi kirjeldaksid? Mis on eelarvamused? Milliste eelarvamustega on antud filmis tegu?</p><p><strong>Tegevusülesanne:</strong> otsi teatmeteostest, mida tähendab eelarvamus ja mida stereotüüp. Too näiteid mõlema kohta.</p><p><strong>Tegevusülesanne rühmades:</strong> jagunege 3-4 liikmelisteks rühmadeks. Iga rühm saab endale ühe sotsiaalse või religioosse grupi (noored, moslemid, sportlased, tüdrukud, ameeriklased vms). Kõigepealt peab rühm panema kirja, millised eelarvamused ja stereotüübid on antud grupi kohta levinud. Seejärel tuleb otsida internetist, kas sellised arvamused on kehtivad ning tuua võimalikult palju näiteid vastupidisest. Eestis on põhiseadusega tagatud usuvabadus, see tähendab, et iga siin elav inimene võib uskuda vastavalt oma veendumustele. Kuigi meie tänavapildis ei kohta palju erinevate religioonide pühapaiku ja silmatorkava välimusega esindajaid, puutuvad õpilased tõenäoliselt mitmekultuurilise keskkonnaga kokku reisides või teises riigis õppides.</p><p><strong>Arutelu:</strong> milliste religioossete gruppidega või nende esindajatega olete kokku puutunud? Religioossed inimesed puutuvad sageli kokku eelarvamuste või diskrimineerimisega, sest nad võivad oma käitumise, riietuse, uskumuste, sümbolite, toitumise või muu poolest eristuda enamusest.</p><p><strong>Islamofoobia</strong> on alusetu hirm või eelarvamused islami usu ja selle praktiseerijate suhtes.</p><p><strong>Antisemitism</strong> on vaenulikkus juutide vastu.</p><p><strong>Tegevusülesanne:</strong> vaata läbi video “Don’t Put People in Boxes” ja mõtle ise 5 tunnust, mille järgi inimesi grupeerida saab (ole taktitundeline). Vii see eksperiment läbi oma klassis.</p><p><strong>Arutelu:</strong> milline klass ja ühiskond on rikkam, kas see, kus on inimesed kõik maksimaalselt sarnased, või see, kus on tolereeritud ka erinevused? Kui sulle meeldib sarnaste inimestega ühiskond, siis milline peaks olema see poiss või tüdruk, kelle moodi teised peaksid olema?</p><p><strong>Projekt:</strong> üks nähtus, erinevad näod. Tee virtuaalses keskkonnas näitus internetist leitud piltidega, kus sa leiad ühe religiooni kohta, mis on seotud paljude eelarvamuste ja stereotüüpidega, võimalikult palju erinevaid fotosid (islami naised, juudid, hindud jne).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Üldpädevustest toetatakse enim kodaniku- ja sotsiaalset pädevust, kui viiakse läbi tegevusi, mis suurendavad sallivust ja teadvustavad stereotüüpide ja diskrimineerimisega seotud negatiivseid aspekte ning digipädevusi läbi virtuaalse näituse tegemise.</p><p>Ainetevahelist lõimingut toetatakse ühiskonnaõpetusega läbi tegevuste, mis suurendavad sallivust ja vähendavad eelarvamusi. <a href=\"https://projektid.edu.ee/pages/resumedraft.action?draftId=184846989&draftShareId=ff2c6ef1-3cc2-493e-9194-edbadb79bea2&\">Vaata ülesandeid 9.kl ühiskonnaõpetuse ainekava sisukirjeldust,</a> õpifookus:</p><ul><li>1.2.B: erinevate sotsiaalsete rühmade sidus kooseksisteerimine.</li><li>1.3 ühiskonnaliikmete õigused vs kohustused ning vastutus on omavahelises seoses.</li></ul><p>Ajalugu - Teine maailmasõda, inimsusevastased kuritööd. Õpilane toob allikate põhjal esile ajaloosündmuste põhjuse-tagajärje seoseid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=epuTZigxUY8"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=zRwt25M5nGw&t=116s"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hinnatakse rühmatööd stereotüüpide kohta, eksperimenti inimeste lahterdamisest ja projekti eelarvamustest ning stereotüüpidest.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused: Õpilane pakub võimalusi erinevate religioossete vaadetega inimeste dialoogiks ning koostööks",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Õpilane: pakub võimalusi erinevate religioossete vaadetega inimeste dialoogiks ning koostööks.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted, märksõnad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tolerantsus; aktsepteerimine; erinevused; diskrimineerimine; dialoog; lugupidamine; koostöö</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tolerantsus on soov ja võime aktsepteerida teisi inimesi sellisena, nagu nad on. Tolerantne inimene peab lugu teiste maailmavaatest, kommetest ja muust, mis teda teistest eristab. Tolerantses ühiskonnas saavad kõik inimesed ennast teostada ja see muudab ühiskonna rikkamaks ning turvalisemaks.</p><p><strong>Arutelu:</strong> mis tunne sul oleks, kui sa ei saaks tantsida, jalgpalli mängida või sõbrale külla minna, sellepärast, et teistele ei sobi su välimus, ajalugu või kombed? Kas sa lepiksid sellega või hakkaksid vastu?</p><p><strong>Tegevusülesanne:</strong> paljud tuntud artistid ja sportlased on hakanud diskrimineerimisele vastu ja võitlevad salliva suhtumise eest (Rihanna, Lebron James, Alicia Keys jne). Valige oma rühmale üks selline inimene, uurige tema elu ja tegevust ning tutvustage klassile. Proovige leida vastus järgmistele küsimustele: mida ja kuidas ta on mõjutanud ning miks ta seda teeb?</p><p><strong>Arutelu:</strong> kas sinu kogukonnas (klassis, koolis, kodukohas) esineb diskrimineerimist. Kui esineb, siis milliste inimeste, käitumiste, nähtuste vastu. Kuidas selle vastu seista? Milliste organisatsioonide poole saab Eestis pöörduda abi saamiseks?</p><p><strong>Tegevusülesanne:</strong> kuidas suhtuvad erinevad religioonid teistesse religioonidesse? Proovi leida selle kohta viiteid erinevate religioonide eetilistest juhistest. Maailmas on väga teravaid kultuuridevahelisi konflikte, mille lahendamine näib üle jõu käivat, näiteks Iisraeli ja Palestiina konflikt. Mõlema riigi räpmuusikud proovivad konflikti lahendada nii, et nad ütlevad ausalt ja otsekoheselt välja oma tunded teise riigi esindajate vastu ning näitavad teistele, et vaatamata väga keerulisele olukorrale, on siiski võimalik dialoogi pidada ja teineteisesse lugupidavalt suhtuda. (Video on õppematerjalide veerus).</p><p><strong>Projekt (2 varianti):</strong> 1) koosta oma rühmaga räpilugu, millega võitled selle ülekohtu vastu, mis sulle kõige rohkem muret tekitab. 2) pane kokku oma unistuste jalgpallimeeskond, kus on kõik sinu lemmikud mängijad. Mis on nende tugevused? Miks nad peaksid võitma? Seejärel uuri, mis usku need mängijad on ja kuidas on usk mõjutanud nende karjääri. Milline oleks jalgpall, kui erineva maailmavaatega inimesed ei suudaks teha koostööd? Tutvusta oma projekti klassile.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Üldpädevustest toetatakse enim sotsiaalset- ja kodanikupädevust läbi erinevate normide tutvustamise ning tolerantsi ja erinevuste aktsepteerimist toetavate tegevuste. Ainetevahelist lõimingut toetatakse muusika ja kehalise kasvatusega läbi projekti sooritamise.</p><p>Ühiskonnaõpetus. Erinevate sotsiaalsete rühmade sidus kooseksisteerimine. Projektõpe: Meie klassi juured. Iga õpilane uurib oma perekonna lugu ja koostab lühireferaadi leitud rahva usu- ja kultuuritraditsioonides ning tutvustab seda kokku lepitud viisil (esitlus, fotokollaaž, plakat, video vm) kaaslastele. Külla võib kutsuda ka vanemaid, kes tutvustaksid oma rahva/ usundi kombeid, traditsioone.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=fQ01xFApiTA&t=170s"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hinnatakse uurimust õigluse eest seisja kohta, infootsingut erinevate religioonide seisukohtadest sõja kohta ning projekti õpilase enda valikul.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused: Õpilane selgitab käsitletud usundite õpetuse ja eetika põhiseisukohti ning tunneb nende usundite teket, tähtsamaid suurkujusid, usulisi rituaale ja religiooni väljendumist kultuuris",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Õpilane: selgitab käsitletud usundite õpetuse ja eetika põhiseisukohti ning tunneb nende usundite teket, tähtsamaid suurkujusid, usulisi rituaale ja religiooni väljendumist kultuuris.",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted, märksõnad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>eetilised juhised; usundite teke; usundite rajajad; erinevate usundite tähtsamad suurkujud; usulised rituaalid</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Teemaplokis tegeletakse kõikide maailmausunditega paralleelselt suuremahulise uurimusliku projekti raames. Õpilased koostavad rühmades virtuaalse ajalehe viie suurema maailmareligiooni kohta (ajalehe põhjad on õppematerjalide veerus). (Ajalehe tegemine kestab u 5x 45 minutit, quizzize tegemine 45 minutit ja tööde ettekandmine koos järeltegevustega 3x45 minutit). Ajalehes on erinevate rubriikide all kajastatud usundi ajalugu, rajaja, kesksed tegelased ja suurkujud, eetilised õpetused, usulised rituaalid, avaldumine tänapäeva maailmas ja muud huvitavat. Kui leht on valmis, koostab rühm oma lehes leitava informatsiooni kohta quizzize 10 küsimusega (juhend õppematerjalide veerus) ning pärast oma lehe tutvustamist peab ülejäänud klass sooritama quizzize vähemalt 90% peale. Quizzizt võib teha ükskõik mitu korda, et tulemus saavutada.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Üldpädevustest toetatakse enim kultuuri- ja väärtuspädevust läbi erinevate religioonide ja kultuuride uurimise ning õpipädevust läbi projekti, kus tuleb oma tegevusi kavandada, infot otsida, korrigeerida, probleeme lahendada, analüüsida, tööd koostada, viimistleda, esitleda ja reflekteerida. Ainetevahelisest lõimingust toetatakse kunsti ja ajalugu.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://www.canva.com/templates/s/newspaper/v",
+                  "title": "Virtuaalse ajalehe põhjad"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=jpsTDvaSSIg&list=PLlrFn9RR_0qAFMHnnoTujlgNXrxSsxJ9_&index=12"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hinnatakse virtuaalset ajalehte maailma religioonidest, quizzize tegemist ning selle sooritamist.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused: Usu väljendumisvormid ja maailmavaadete mõju",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Õpilane: leiab seoseid usu väljendumisvormide ja vastava usundi põhiideede vahel.",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "Õpilane: võrdleb erinevaid usundeid, analüüsib näiteid tuues erinevate maailmavaadete mõju inimese ning ühiskonna elus nii positiivsete kui ka probleemsete ilmingutena;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted, märksõnad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>religiooni väljendumine inimese elus ja inimeste- vahelistes suhetes; väärtused; rituaalid; siirderiitused; elukaar</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Religioon mõjutab inimeste elu erinevatel tasanditel. See võib väljenduda nähtamatutes asjades, nagu usk sellesse, mis juhtub pärast surma; nähtavates asjades, nagu toitumine ja kombed ning mõnikord ka päris suurtes asjades - näiteks erakordses tegutsemises rasketes oludes. Näiteks on üheks islamiusu oluliseks kohustuseks saada haridust ja uurida nii palju maailma erinevate valdkondade kohta, kui võimalik, sest nii saab rohkem teada Jumala loodust.</p><p><strong>Arutlus:</strong> vaata videot Malala Yousafzaist ja tema selgitusest selle kohta, kuidas islamit valesti tõlgendatakse ja kasutatakse (õppematerjalide veerus). Mille järgi sa saad aru, et Malala on moslem? Kas videos on midagi, mis ei ole sinu arvates moslemitele tüüpiline? Kuidas tõlgendatakse islami usku valesti? Kelle huvides see on? Igapäevaelus võib religioon avalduda ka suhetes teiste inimestega. Näiteks peavad kõik religioonid oluliseks andestamist: islamis on andeksandmine rahu sõlmimise eelduseks; kristlaste jaoks on oluline tingimusteta andestamine ja vaenlase armastamine; juudid peavad andestamist suureks vooruseks.</p><p><strong>Tegevusülesanne:</strong> vaata videot sellest, kuidas ja kui raske oli Sarah Montanal andestada sellele, kes tappis tema ema ja venna (õppematerjalide veerus). Miks ta andestas sellise kuriteo? Kellele oli seda andestust rohkem vaja, kas kurjategijal või ohvril? Uuri internetist, miks on vaimsele tervisele kasulik tegeleda oma tugevate tunnetega ja andeks anda. Samuti avaldub religioon väga lihtsates igapäevastes asjades, nagu päevakava (budistid alustavad sageli päeva mediteerimisega, moslemid palvusega), toitumine (paljudes religioonides on nõuded ka sellele, mida ja kuidas süüakse). Lisamaterjalina võib vaadata filmi “Story of Ramadan” (õppematerjalide veerus), nähtav Netflixis. Religioossetel inimestel kujundab usk sageli tervet nende elukaart - sellega on seotud sündimisega seotud rituaalid, täiskasvanuks saamine, abiellumine, surmaga seotud rituaalid ning palju muud.</p><p><strong>Tegevusülesanne:</strong> uurige rühmades erinevate religioonide rituaale, mis on seotud inimese elukaarega. Otsige ühe religiooni kohta võimalikult erinevaid näiteid Youtubest, tehke oma uurimusest esitlus ja tutvustage klassile.</p><p><strong>Arutelu teemad:</strong> miks viiakse ühe religiooni sees rituaale läbi nii paljudel erinevatel viisidel? Kuidas peaks toimima pere, kus üks vanem on ühte usku ja teine teist usku? Kuidas tuleks toimida, kui ühele vanemale on usk väga tähtis ja teine vanem ei ole usklik? Millised elukutsed peavad arvestama inimese religioossusega? Miks küsitakse Eesti kaitseväes inimese usulise kuuluvuse kohta ning saadud info pannakse koos nime, veregrupi ja teiste oluliste andmetega kaelas kantavale metallplaadile? Paljudel religioonidel on rituaalid täiskasvanuks saamise puhul? Kuidas tähistatakse täiskasvanuks saamist nendes riikides, kus usk ei ole oluline? Millal saab inimene täiskasvanuks? Mis õigused ja kohustused sellega kaasnevad?</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Üldpädevustest toetatakse kultuuri- ja väärtuspädevust läbi uurimuse erinevatest kultuuridest ja religiooni mõjust inimese elukaarele ning suhtlus pädevust läbi erinevate arutelude ja enese- ning väljendus oskuse ja oma seisukohtade sõnastamise arendamisega. Ainetevahelisest lõimingust toetatakse enim inimeseõpetust läbi arutelu tugevatest tunnetest, nendega toime tulemisest ja abi otsimisest. Samuti toetavad inimeseõpetust inimese elukaart uurivad ja analüüsivad tegevused.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=QUB_BrVj-bI"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.ted.com/talks/sarah_montana_why_forgiveness_is_worth_it",
+                  "title": "Video Sarah Montanast ja andestamisest (lihtsas inglise keeles)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.theforgivenessproject.com/stories/",
+                  "title": "Lisamaterjal: päriselulised lood andestamisest (lihtsas inglise keeles)"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://lingid.ee/mNLQE",
+                  "title": "Story of Ramadan"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hinnatakse tööd Sarah Montana video põhjal ning tööd religiooni mõjust inimese elukaarele.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused: Õpilane kirjeldab olulisemaid kristlikke pühi ning toob näiteid kristluse tähendusest Eesti kultuurile ja ühiskonnale nii ajaloos kui ka kaasajal",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "Õpilane: kirjeldab olulisemaid kristlikke pühi ning toob näiteid kristluse tähendusest Eesti kultuurile ja ühiskonnale nii ajaloos kui ka kaasajal",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "section",
+              "title": "Mõisted, märksõnad",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>pühad; tähtpäevad; rahvakalender; katekismus; traditsioon</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Pühad on igas riigis ja kultuuris olulisel kohal, nad ühendavad inimesi, pühade ajal meenutatakse olulisi väärtusi ja sündmusi ajaloost ning tuntakse rõõmu oma lähedastest.</p><p><strong>Arutelu:</strong> mis on sinu lemmikpühad? Mis on teie pere traditsioonid neil pühadel? Kas tänapäeval tähistatakse rohkem pühi kui vanal ajal või vastupidi? Miks sa nii arvad? Eestis tähistatakse ühteteist riigipüha ja ühte rahvuspüha (24. veebruar).</p><p><strong>Tegevusülesanne:</strong> vaata Eesti pühade ja tähtpäevade seadust (õppematerjalide veerus) ning mõtle, kui paljude pühade ja tähtpäevade ajalugu ja tähendust sa tead. Nüüd vaata Eesti rahvakalendri pühi (õppematerjalide veerus). Milliseid sarnasusi ja erinevusi oskad välja tuua? Mida ütlevad need pühad kristluse rolli kohta Eesti kultuuris? Eesti kultuuris on erilisel kohal kristlus. Me oleme sellega nii harjunud, et sageli ei teadvusta ega märkagi seda. Näiteks oli kateksimusel (usuõpetuse käsiraamatul) ja kirikute juures tegutsevatel koolidel väga oluline roll selles, et eestlased hakkasid lugema ja kirjutama ning tänu sellele on meie keel tänaseni säilinud.</p><p><strong>Tegevusülesanne:</strong> vaata läbi ERM-i video sellest, kuidas eestlased lugema õppisid. Mis oleks saanud Eesti kultuurist, kui eestlased poleks lugema ja kirjutama õppinud. Mis keeles me tänapäeval loeksime ja kirjutaksime? Eestlaste jaoks on erilisteks ja olulisteks sündmusteks ka laulupeod, mis said alguse 1869. aastal ja kus suurem osa korraldajaid ja lauljaid olid seotud kiriku muusikaeluga ja laulupidude hälliks peetakse Tartu Maarja kirikut, sest seal toimus kooride esimene kokkulaulmine. Laulupidudest sai nii tugev traditsioon, et ka nõukogude võimu alt vabaks saamiseks otsustasid eestlased sõdida mitte relvade, vaid just laulmisega.</p><p><strong>Arutelu:</strong> milline oleks Eesti saatus, kui laulude asemel oleks relvi kasutatud?</p><p>Paljud Eesti kultuuritegelased ja teadlased on kristlased (Arvo Pärt, Daniel Levi Viinalass jne).</p><p><strong>Tegevusülesanne:</strong> vali välja ja vaata üht ERR saadet “Plekktrumm”. Mis on saatekülalise elukutse, mis on tema põhiline sõnum ja tema roll Eesti ühiskonnas. Mida tahaksid sina saatekülaliselt küsida või talle öelda. Tutvusta oma valitud saadet ja saatekülalist klassile.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lõimingu võimalused: üldpädevused, läbivad teemad, teised õppeained",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Teemaplokiga toetatakse kultuuri- ja väärtuspädevuse omandamist läbi tähtpäevade, kultuuri ja rahvakalendri tutvustamise ning enesemääratlus pädevust läbi oma riigi ja rahva ajaloo väärtustamise ja tundmaõppimise. Ainetevahelist lõimingut toetatakse muusikaõpetusega läbi laulupidude traditsiooni ja tänapäevaste muusikutega tutvumise ning ajalooga, läbi kultuuriajaloo õpetamise.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õppematerjali viited; õppekeskkonna laiendamise soovitused",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://et.wikipedia.org/wiki/P%C3%BChade_ja_t%C3%A4htp%C3%A4evade_seadus",
+                  "title": "Pühade ja tähtpäevade seadus"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.folklore.ee/Berta/kalender.php",
+                  "title": "Eesti rahvakalendri pühad"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.erm.ee/et/lugema6ppimine",
+                  "title": "ERM video sellest, kuidas eestlased lugema õppisid"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://arhiiv.err.ee/video/vaata/tahendamisi",
+                  "title": "ERR “Tähendamisi”"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://lingid.ee/RAqqZ",
+                  "title": "Plekktrummi saated religioossete inimestega"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kontroll ja hindamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hinnatakse teadmisi Eesti pühadest ja tähtpäevadest, tööd videoga sellest, kuidas eestlased lugema õppisid ning uurimust ühest Plektrummi saatest ja selle külalisest.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "I kooliastme lõpuks taotletavad teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Näitab Eesti Vabariigi ja oma kodukoha asukohta kaardil, tunneb Eesti ja kodukoha sümboolikat, olulisi inimesi ja paiku.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Väärtustab enda ja kaaslaste huvisid ning positiivset suhtumist iseendasse.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab õppimise tähtsust igapäevaelus hakkama saamisel ja tuleviku kavandamisel.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, et inimeste õigustega kaasnevad kohustused.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab üldtunnustatud käitumisnormide ja seaduste järgimise vajalikkust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Tunneb liiklusreegleid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab erinevaid teabeallikaid, oskab leida infot ja teab, mille põhjal hinnata infoallikate usaldusväärsust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Märkab inimeste erinevaid omadusi ja arvamusi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab sõpruse ja koostöö väärtust ning üksteise eest hoolitsemise ja abistamise vajadust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab, mis on vägivald. Mõistab, et vägivald ei ole lubatud ja oskab vajaduse korral abi leida.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab eesti rahvakombeid ja mõistab enda rolli kommete ja tavade hoidja ja kandjana.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Suhtub sallivalt Eestis elavate inimeste keelelistesse ja kultuurilistesse erinevustesse.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "Oskab oma tervist hoida.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab tervist ohustavaid tegureid, tunneb ära ja oskab hoiduda või keelduda tervist ohustavatest olukordadest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Oskab planeerida oma tegevusi ja väärtustab aktiivset vaba aja veetmist.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Oskab kasutada lihtsamaid esmaabivõtteid ja kutsuda vajaduse korral abi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab raha teenimise, hoidmise ja kasutamise võimalusi, käitub teadliku ja säästliku tarbijana.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab keskkonna hoidmise tähtsust ja enda võimalusi selles.",
+          "outcomeType": "knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>I kooliastmes käsitletakse järgmisi teemasid: mina, mina ja teised, mina ja tervis, mina ja minu pere, mina ja Eesti, mina: aeg ja asjad ning mina: teave ja asjad.</strong></p><p>Õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab kaardilt Eesti ja kodukoha",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära, kirjeldab ja kujutab kodukoha ja Eesti Vabariigi sümboolikat",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab Eesti Vabariigi pealinna ja sünnipäeva",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kes on Eesti Vabariigi president",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja tutvustab oma kodukoha olulisi inimesi ja paiku",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab enda huvisid ja tegevusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab, miks on vaja endasse positiivselt suhtuda",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid, kuidas õppimine aitab igapäevaelus hakkama saada",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab enda õppimise eesmärke ja seostab neid enda huvidega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab igapäevavalikuid tuleviku eesmärkidega",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab inimeste õigusi ja nendega kaasnevaid kohustusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab enda ja pereliikmete ülesandeid kodus, toob näiteid üksteise abistamisest ja pereliikmetega arvestamisest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid oma õigustest ja kohustustest peres, koolis ja ühiskonnas",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid käitumisnormidest ja seadustest, mida tal tuleb järgida",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "põhjendab käitumisnormide ja seaduste järgimise vajalikkust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "demonstreerib õpisituatsioonis üldtunnustatud käitumisnormide ja seaduste täitmist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb liikluses turvalisust tagavaid märke ja tähiseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab ja demonstreerib turvalisust tagavate liiklusreeglite järgimist",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab liiklusohtlikke kohti ja olukordi kooliteel ja koduümbruses ning pakub lahendusi turvalisuse tagamiseks",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loetleb erinevaid teabeallikaid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab infot erinevatest allikatest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb erinevaid teabeallikaid usaldusväärsuse ja teabe sisu väärtuse poolest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab meediaga, sealhulgas sotsiaalmeediaga seotud võimalusi ja ohte",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ja demonstreerib kokkulepitud reeglite järgimist digivahendite abil teabe otsimisel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et inimesed on erinevad nii bioloogiliselt kui ka sotsiaalselt ning märkab inimeste sarnasusi ja erinevusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab sõpruse, koostöö, üksteise eest hoolitsemise ja üksteise abistamise vajalikkust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et vägivallal on eri vormid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, mida vägivaldne käitumine võib endaga kaasa tuua",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab abi saamise võimalusi inimväärikust alandava käitumise puhul, sh kiusamine ja vägivald",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "demonstreerib õpisituatsioonis abi saamise ja abistamise võimalusi vägivalla korral",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "võrdleb rahvakombeid minevikus ja tänapäeval, nt mardipäev, kadripäev, jõulud, vastlapäev, jaanipäev jt",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab, kuidas õpilane saab ise olla kommete ja tavade hoidja",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid oma klassis või kodukohas elavate inimeste tavadest ja kommetest",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab mõningaid haiguste tunnuseid",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näited tervist hoidvast käitumisest (hügieen, karastamine, mitmekesine toit, uni ja puhkus ning kehaline aktiivsus) ja selgitab tervist hoidva käitumise vajalikkust",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toob näiteid terviseriskidest ja teab kuidas püsida terve",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "planeerib oma päeva ja nädalat terviseteadlikult",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ja demonstreerib õpisituatsioonis esmaabi võimalusi, nt haav, kukkumine, ninaverejooks, põletus, putukapiste",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab hädaabinumbrit ja oskab vajaduse korral kutsuda abi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mis on raha teenimine, säästmine, kasutamine ja laenamine",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "hoiab keskkonda, selgitab keskkonna hoidmise võimalusi, nt jäätmete vähendamine ja sorteerimine, vee ja energia tarbimine",
+          "outcomeType": "attitude"
+        }
+      ]
+    }
+  ]
+}

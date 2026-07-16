@@ -1,0 +1,1190 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Muu kodukeelega õpilased õpivad eesti keelt teise keelena eesmärgiga lõimuda Eesti ühiskonda, osaleda aktiivselt ühiskondlikus tegevuses, jätkata õpinguid eesti keeles ning tulla edukalt toime tööturul. Õppekava seab eesmärgiks jõuda gümnaasiumi lõpuks eakohase C1-keeleoskustasemeni. Nii kõrge keeleoskustaseme saavutamiseks on oluline kasutada keele- ja kultuurikeskkonna kõiki võimalusi. Lisaks tõhusale õppele eesti keele tundides on eesti keelt vaja kasutada teiste ainete õppimisel ning aktiivsel suhtlemisel väljaspool kooli, huvihariduses jm.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Eesti keele teise keelena tundides kasutatakse tänapäevaseid ja kaasahaaravaid õppematerjale ning autentseid lugemis- ja kuulamistekste, mis hoiavad õpilasi kursis ühiskonnas toimuvaga ja toetavad eesti keele kasutamise soovi. Keeletundides kasutatakse inspireerivaid aktiivõppemeetodeid, mis toetavad eri õpistiiliga õpilasi, võimaldavad õpilastel keelt eesmärgipäraselt kasutada ning aitavad kujundada keelest süsteemse arusaamise. Õppeprotsessis arendatakse oskust teha koostööd ja töötada iseseisvalt ning kasutada tõhusaid keeleõppevõtteid. Kasutatakse keelekeskkonna võimalusi: suunatakse jälgima eestikeelset meediat, suhtlema eesti keeles väljaspool koolitunde, osalema eestikeelsetel üritustel, kutsutakse tundidesse eesti keelt kõnelevaid külalisi jmt. Eesti keelt õppides väärtustatakse ka teisi keeli ja kultuure, eriti õpilaste päritolukultuuri.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Eesti keele kui teise keele õppes keskendutakse viiele laiale teemavaldkonnale: Eesti ja maailm; kultuur ja looming; keskkond; haridus ja töö; inimene ja ühiskond. Iga valdkonnaga tegeldakse korduvalt vastavalt õpilaste keeleoskustasemele, kogemustele, huvidele ning vajadustele. Valdkonnad on igapäevaelus omavahel põimunud ning samamoodi käsitletakse neid ka keeleõpetuses. Eesti keele tunnis suheldakse eesti keeles.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Eesti keele kui teise keele õpetaja teeb koostööd eesti keeles õpetavate muude ainete õpetajatega, et toetada teiste ainete omandamist keeleliselt ning aidata õpilastel näha ainetevahelisi seoseid.</p><p>Eesti keele kui teise keele õpetamisel lähtutakse ainevaldkonna üldpõhimõtetest.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Gümnaasiumi lõpuks taotletavad teadmised, oskused ja hoiakud",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Gümnaasiumilõpetaja saavutab C1-keeleoskustaseme, mis tähendab, et ta</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab eesti keelt kui kultuuri kandjat ja avaliku suhtluse vahendit;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ja kasutab eestikeelset meediat, jälgib Eestis toimuvat;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab üksikasjalikult pikemaid ja keerukamaid eri valdkonna tekste;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab keelt loomulikult, paindlikult ja tulemuslikult enamikes suhtlusolukordades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arutleb olulistel ühiskondlikel teemadel; väljendab, põhjendab ja kaitseb oma arvamusi ja seisukohti täpselt ja ladusalt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab sobiva ülesehituse ja väljenduslaadiga eri žanris ja stiilis tekste.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab eri pikkuse ja keerukusega ning eri žanridesse ja liikidesse kuuluvaid suulisi ja kirjalikke tekste;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib ja mõistab eri teemadel ettekandeid, mõttevahetust ja väitlust, suudab vajaliku teabe konspekteerida;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab huumorit, irooniat, allteksti ja idiomaatilist kõnepruuki sisaldavat teksti;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru keerukamatest tegevusjuhistest, toodete ja teenuste tutvustustest ning muudest juhenditest ja juhistest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab, sünteesib, teeb kokkuvõtte ja edastab eri allikatest pärit teavet ning seisukohti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendub selgelt ja täpselt, ladusalt ja loomulikult, paindlikult ja mõjusalt enamikes suhtlusolukordades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "peab selge ja loogilise ettekande keerukal teemal, arendab mõtet, laiendab ja põhjendab oma seisukohti, seob allteemasid ja teeb sobiva kokkuvõtte;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb arutelus, väitleb abstraktse teema üle, põhjendab oma seisukohti ja teeb kaaslastega koostööd;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab selgelt ja üksikasjalikult, kuidas mingit toimingut läbi viia ning edastab ladusalt juhiseid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab argumenteeritud arvamustekste keerukamatel teemadel, kasutab mitmest allikast pärit teavet, arendab mõtet, esitab põhjendatud poolt- ja vastuväiteid, seob allteemasid ja teeb sobiva kokkuvõtte;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab loovtekste isikupärases stiilis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab rikkalikku sõnavara ja mõistab kujundlikku keelt, väljendub selgelt, ladusalt ja varieeruvalt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab grammatika tarindeid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "hääldab sõnu ja lauseid selgelt ja loomulikult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvestab keeleliste vahendite valikul suhtluse eesmärki, partnerit ja olukorda;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid selgelt ja loogiliselt sidusaks tekstiks, liigendab teksti lõikudeks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib õigekirjareegleid.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KUULAMINE",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab eri pikkuse ja keerukusega ning eri žanridesse ja liikidesse kuuluvaid suulisi tekste;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "jälgib ja mõistab eri teemadel ettekandeid, mõttevahetust ja väitlust, suudab vajaliku teabe konspekteerida;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab huumorit, irooniat, allteksti ja idiomaatilist kõnepruuki sisaldavat teksti;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru keerukamatest tegevusjuhistest, toodete ja teenuste tutvustustest ning muudest juhenditest ja juhistest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab rikkalikku sõnavara ja mõistab kujundlikku keelt.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suulise teksti mõistmine hõlmab nii elavat, silmast silma suhtlust kui ka selle distantsilt toimuvaid või salvestatud vorme.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Üldine suuline mõistmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Pikemast jutust abstraktsel ja keerukal teemal arusaamine.</p><p>Pika arutluse jälgimine isegi siis, kui selle ülesehitus ei ole selge ja mõtteseosed on vaid aimatavad ja neid ei panda sõnadesse.</p><p>Idiomaatiliste ja argiväljendite tundmine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Teiste omavahelise vestluse mõistmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Teiste omavahelise keeruka mõttevahetuse jälgimine rühmaarutelus ja väitluses.</p><p>Iga osaleja suhtumise tabamine elavas arutelus, kus kõnevoorud kattuvad, esineb kõrvalekaldumisi ja argikeelseid idiomaatilisi väljendeid, kui esitus on loomuliku kiirusega ja keelevariant tuttav (intervjuud, tele- ja raadiosaated, vaidlused, debatid jms).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Elava esituse mõistmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Loengute, mõttevahetuste ja väitluste jälgimine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Teadaannete ja juhiste mõistmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Vajaliku info kätte saamine isegi kehva kvaliteedi ja moonutatud heli ja/või visuaaliga vanadest salvestistest või avalikest teadaannetest, nt rongijaamas, staadionil.</p><p>Keeruka tehnilise info mõistmine (nt tegevusjuhised või tuttavate toodete ja teenuste tutvustused).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Videopildita ülekannete ja salvestiste mõistmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Eri laadi salvestiste ja ülekannete mõistmine (sh sõnumid, ilmateated, jutustatud lood, ilukirjanduslikud tekstid (audioraamatud), uudised, intervjuud ning dokumentaalsaated),tabades peenemaid nüansse (nt varjatud hoiakud ja osalejate omavahelised suhted).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Audiovisuaalne mõistmine (Telesaadete, filmide ja videote vaatamine)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Filmi sisust arusaamine, põhisisu tabamine (sh üksikasjade, nüansside, vihjelise tähenduse, slängi ja idiomaatilise kõnepruugi tabamine).</p><p>Keerukatest teleülekannetest üksikasjalik mõistmine (nt päevakajalised saated, intervjuud, arutelud ja jutusaated).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Suuline suhtlus",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Vestluskaaslase mõistmine",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Vestluskaaslase üksikasjalik mõistmine, kui vesteldakse abstraktsel ja keerukal teemal, isegi kui vesteldakse abstraktsel ja keerukal teemal.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Vaba mõttevahetus (sõprade ringis)",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Keeruka arutelu raskusteta mõistmine, isegi kui tegu on abstraktse ja keeruka võõra kõneainega.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Telekommunikatsioonivahendite kasutamine",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Telekommunikatsioonivahendite kasutamine enamiku isiklike või õppe- ja tööeesmärkide saavutamiseks.</p>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjalide viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.err.ee/",
+              "title": "Tele- ja raadiosaated: err.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://etv.err.ee/ringvaade",
+              "title": "Tele- ja raadiosaated: Ringvaade"
+            },
+            {
+              "kind": "link",
+              "href": "https://reporter.kanal2.ee/",
+              "title": "Tele- ja raadiosaated: Reporter"
+            },
+            {
+              "kind": "link",
+              "href": "https://kuku.pleier.ee/",
+              "title": "Tele- ja raadiosaated: Kuku"
+            },
+            {
+              "kind": "link",
+              "href": "https://vikerraadio.err.ee/",
+              "title": "Tele- ja raadiosaated: Vikerraadio"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/",
+              "title": "Noortele mõeldud telesaated (nt Impulss, Rakett69, Ooson jne)"
+            },
+            {
+              "kind": "link",
+              "href": "https://podcast.ee/",
+              "title": "Podcastid"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/k/uhe-minuti-loeng",
+              "title": "Ühe minuti loengud"
+            },
+            {
+              "kind": "link",
+              "href": "https://etunnid.tagasikooli.ee/",
+              "title": "Tagasi kooli e-tunnid"
+            },
+            {
+              "kind": "link",
+              "href": "http://www.rahvaraamat.ee",
+              "title": "Audioraamatud"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Filmid “Apteeker Melchior” (kõik osad), “Soo”, “Tõde ja Õigus”, “Mandariinid”, “Nullpunkt”, “Nimed marmortahvlil”, “Klass”, “Vehkleja”, “1944”, “November”, “Sügisball”, “Vigased pruudid”, “Kalev”.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tagasiside, edasiside ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Teiste omavahelise vestluse mõistmisel hinnatakse: </strong>tekstist arusaamist; teemakohaste sõnade, fraaside jne tabamist ja seostamist; ajalise järjestuse tabamist (nt lugudes); oskust tabada esineja meeleolu, hoiakuid ja seisukohti ning suhtumist ja sotsiokultuurilisi vihjeid.</p><p><strong>Elava esituse mõistmise puhul hinnatakse: </strong>oskust teha kokkuvõtteid ning järeldusi kuuldud loengute, mõttevahetuste ja väitluste põhjal.</p><p><strong>Teadaannete ja juhiste mõistmisel hinnatakse:</strong> suuniste ja üksikasjalike juhiste mõistmist ning teadaannete tuuma tabamist.</p><p><strong>Videopildita ülekannete ja salvestiste mõistmisel hinnatakse</strong>: konkreetse info leidmist; põhisisu ja olulise info mõistmist; tähtsa info tabamist; esineja meeleolu, hoiakute ja seisukohtade äratundmist.</p><p><strong>Telesaadete, filmide ja videote vaatamisel hinnatakse: </strong>põhisisu sh üksikasjade, nüansside ja vihjelise tähenduse tabamist; slängi ja idiomaatilise keelekasutuse mõistmist.</p><p><strong>Suulise suhtluse puhul hinnatakse</strong> arutluskäigu jälgimist ning vestluskaaslase mõistmist.</p><p><strong>Telekommunikatsioonivahendite kasutamisel hinnatakse</strong> oskust kasutada neid enamiku isiklike või õppe- ja tööeesmärkide saavutamiseks.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "LUGEMINE",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mõistab eri pikkuse ja keerukusega ning eri žanridesse ja liikidesse kuuluvaid kirjalikke tekste;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab huumorit, irooniat, allteksti ja idiomaatilist kõnepruuki sisaldavat teksti;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "saab aru keerukamatest tegevusjuhistest, toodete ja teenuste tutvustustest ning muudest juhenditest ja juhistest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab, sünteesib, teeb kokkuvõtte ja edastab eri allikatest pärit teavet ning seisukohti;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid selgelt ja loogiliselt sidusaks tekstiks, liigendab teksti lõikudeks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Lugemiseks sobilikud allikad/materjalid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>kirjad, e-kirjad, blogid, postitused, arutelufoorumid, artiklid (sh ainealased artiklid), ettekanded,veebilehed, kasutusjuhendid, ilukirjandus, ajakirjandus.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Üldine kirjaliku teksti mõistmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Pikkade keerukate tekstide mõistmine üksikasjalikult. Eri laadi tekstide mõistmine (sh ilukirjandustekstid, ajalehe- või ajakirjaartiklid ja ainealased akadeemilised tekstid, kui on võimalik lugeda mitu korda ja kasutada teatmeallikaid).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kirjavahetuse lugemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Igasuguste kirjade mõistmine, kui on võimalik aeg-ajalt sõnaraamatut kasutada. Otseselt või kaudselt väljendatud hoiakute, emotsioonide ja arvamuste mõistmine e-kirjades, arutelu foorumites, blogides jne, kui on võimalik lugeda mitu korda ning kasutada teatmeallikaid. Slängisõnade, idioomide ja naljade tajumine erakirjades.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lugemine tekstist ülevaate saamiseks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kiire ja paralleelne läbivaatamine mitu oma valdkonda käsitlevat allikat (artiklid, ettekanded, veebilehed, raamatud jne) ja otsustamine, kas mingi tekstiosa on käsil oleva ülesande lahendamiseks asjakohane või kasulik.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lugemine info hankimiseks ja arutlemiseks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Info, mõtete ja arvamuste kogumine spetsiifilistest allikatest. Ainealaste artiklite mõistmine, kui on vajadusel võimalik sõnaraamatust kontrollida, kas ta on terminit õigesti mõistnud.</p><p>Eri laadi pikkade keerukate tekstide üksikasjalik mõistmine, mis tulevad ette avalikus, töö- ja hariduselus, tabades pisimaid detaile, k.a hoiakuid ning arvamuste sõnastamata nüansse.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Juhiste lugemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Pikkade keerukate kasutusjuhendite ja tegevusjuhiste üksikasjalik mõistmine uue seadmega töötamiseks, olenemata sellest, kas need on tema igapäevaeluga seotud või mitte, kui on võimalik raskeid osi üle lugeda.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ajaviitelugemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Eri laadi kirjanduslike tekstide lugemine ja hindamine, kui saab lugeda mõnd kohta mitu korda ja kasutada soovi korral teatmeallikaid. Tänapäeva kirjanduse ja muudes ühiskeeles või tuttavas keelevariandis tekstide raskusteta lugemine, tajudes varjatud tähendust ja mõtteid (nt igapäeva teemadest sh hobid, sport, ajaviitetegevus, loomad ja konkreetsetest olukordadest kõikvõimalike abstraktsete ja kirjanduslike teemadeni);</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Vihjete tabamine ja järeldamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Järelduste osav tegemine kontekstis, grammatikas ja sõnavalikus peituvate vihjete toel hoiakute, meeleolu ja kavatsuste kohta ning ennustamine, mis edasi saab.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjalide viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.err.ee/k/arvamus",
+              "title": "Ajakirjandus: ERR Arvamusartiklid"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Ilukirjandus: A.-H.Tammsaare “Tõde ja õigus”, I.Hargla sari “Apteeker Melchior”, M.Karu “Nullpunkt”, K.Raudsepp “”Mina, sina, nemad”, S.Rannamaa “Kadri”, L.Roomets “Üks väike valge tuvi”, L.Roomets “Üks väike valge sulg”, L.Roomets, H.Künnapas “Uus tüdruk”, T. Sepp ,,Allikahaldjas” , J.Kross “Keisri hull” jt</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://menu.err.ee/1070957/kristel-aaslaid-juhendab-mis-vahe-on-faktil-ja-arvamusel",
+              "title": "ERR noortesaade Nova. Kristel Aaslaid juhendab: mis vahe on faktil ja arvamusel?"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tagasiside, edasiside ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Üldise kirjaliku teksti mõistmise puhul hinnatakse </strong>oskust mõista üksikasjalikult eri laadi kirjalikke tekste.</p><p><strong>Kirjavahetuse lugemisel hinnatakse </strong>oskust mõista igasuguseid kirju, sh otseselt või kaudselt väljendatud hoiakuid, emotsioone ja arvamusi e-kirjades, arutelufoorumites, blogides ning slängisõnu, idioome ja nalju erakirjades.</p><p><strong>Lugemisel tekstist ülevaate saamiseks hinnatakse </strong>olulise info äratundmist, oskust kiiresti pikki keerukaid tekste läbi vaadata, et leida asjakohased detailid.</p><p><strong>Lugemisel info hankimiseks ja arutlemiseks hinnatakse </strong>oskust tutvuda hoolikalt sellise kirjaliku tekstiga, mis on mingi konkreetse info hankimiseks vajalik.</p><p><strong>Juhiste lugemisel hinnatakse </strong>oskust lugeda juhiseid hankimise eesmärgil.</p><p><strong>Ajaviitelugemisel hinnatakse: </strong>oskust käsitleda nii kirjalikku kui ka ilukirjandust ja muid tekste;</p><p><strong>Vihjete tabamise ja järeldamise puhul hinnatakse </strong>oskust teksti arutluskäigu paremaks mõistmiseks märgata sidusvahendeid (arvulised, ajalist järgnevust ja loogilisi seoseid väljendavad) ja olulisemate lõikude rolli kogu teksti ülesehituses ning osalust keskenduda põhipunktidele ja kasutada mõistmise kontrollimiseks konteksti vihjeid.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KIRJUTAMINE",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "Õpilane kirjeldab selgelt ja üksikasjalikult, kuidas mingit toimingut läbi viia, ning edastab ladusalt juhiseid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab argumenteeritud arvamustekste keerukamatel teemadel, kasutab mitmest allikast pärit teavet, arendab mõtet, esitab põhjendatud poolt- ja vastuväiteid, seob allteemasid ja teeb sobiva kokkuvõtte;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab loovtekste isikupärases stiilis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab rikkalikku sõnavara ja mõistab kujundlikku keelt, väljendub selgelt, ladusalt ja varieeruvalt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab grammatika tarindeid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid selgelt ja loogiliselt sidusaks tekstiks, liigendab teksti lõikudeks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib õigekirjareegleid.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Kirjutamiseks sobilikud tekstide tüübid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>teated, sõnumid, ankeedid, kiri, e-kiri, väide, essee, arvustus, ametlikud/poolametlikud kirjad <em>(nt seletuskirjad, avaldused, soovituskirjad, kaebused, toetus- ja kaastundeavaldused, motivatsioonikirjad).</em></p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "KIRJALIK TEKSTILOOME",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Üldine kirjalik tekstiloome",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Selgete, hea ülesehitusega tekstide kirjutamine keerukamatel teemadel (nt esseed, arvamuslood jm), seejuures olulise rõhutamine, oma seisukohtade laiendamine ning selgituste, põhjenduste ja asjakohaste näidetega toetamine.</p><p>Erinevate žanrite struktuuri ja tavade kasutamine (adressaadi, teksti tüübi ja teemast lähtuvalt sobiva tooni, stiili ja registri valimine).</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Loovkirjutamine",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Selgete, üksikasjalike, hea ülesehitusega ja viimistletud kirjelduste või loovtekstide isikupärases ja loomulikus stiilis kirjutamine. Idioome ja huumori kasutamine kirjalikes töödes.</p><p>Kultuurisündmuste (nt näidend, film, kontsert) või kirjandusteoste üksikasjalike arvustuste kirjutamine.</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Ülevaated ja arutlevad tekstid",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Selgete hea ülesehitusega tekstide kirjutamine etteantud teemadel, tähtsaima info esiletõstmine. Seisukohtade laiendamine ja toetamine. Alapunktide, põhjenduste ning asjakohasete näidete esitamine.</p>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "KIRJALIK SUHTLUS",
+              "children": [
+                {
+                  "kind": "section",
+                  "title": "Üldine kirjalik suhtlus",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Selge ja täpne väljendumine, paindlik ja tulemuslik suhtlemine kirjavahetuses (e-kirjad, seletuskirjad, kaebused, kaastundeavaldused jne).</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Kirjavahetus",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Selge ja täpne ennast väljendamine isiklikus kirjavahetuses (paindlik ja mõjus keelekasutus). Ametlike kirjade väljendusrikas ja korrektne koostamine (nt selgituskirjad, avaldused, soovituskirjad, kaebused, toetus- ja kaastundeavaldused).</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Teated, sõnumid, ankeedid",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Isiklike ja ametialaste teadete vastuvõtmine ja jätmine (st vajadusel selgituste küsimine või üksikasjade täpsustamine).</p>"
+                    }
+                  ]
+                },
+                {
+                  "kind": "section",
+                  "title": "Tehisintellekti kasutamine",
+                  "children": [
+                    {
+                      "kind": "text",
+                      "html": "<p>Tehisintellekti kasutamine kirjalike tekstide loomisel. Tehisintellekti poolt loodud tekstide rakendamine ja kohandamine vastavalt konkreetsele vajadusele.</p>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjalide viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://chat.openai.com/",
+              "title": "Tehisintellekt"
+            },
+            {
+              "kind": "link",
+              "href": "https://reporter.kanal2.ee/",
+              "title": "Reporter"
+            },
+            {
+              "kind": "link",
+              "href": "https://etv.err.ee/ringvaade",
+              "title": "Ringvaade"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/k/uhe-minuti-loeng",
+              "title": "Ühe minuti loeng"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tagasiside, edasiside ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Üldise kirjaliku teksti loomisel hinnatakse</strong> oskust kirjutada selgeid, hea ülesehitusega tekste ning oskust kasutada eri žanrite struktuuri ja tavasid.</p><p><strong>Loovkirjutamisel hinnatakse </strong>oskust kirjutada erinevaid loovtekste, alates lihtsast igapäevasest infost, liikudes edasi mitmesuguste huvivaldkonna teemadeni ning lõpetades paeluvate jutustuste ja kogemuste kirjeldustega (nt päeviku sissekanded, elulood, luuletused, hea ülesehitusega ja väljaarendatud kirjeldustega loomingulised tekstid). Hinnatakse ka teksti keerukust (tekst on žanrinõudeid järgiv, ladus, selge, hea ülesehitusega). Loovkirjutamisel hinnatakse ja teksti sõnastust ja õigekirja.</p><p><strong>Ülevaadete ja arutletavate tekstide kirjutamisel hinnatakse</strong> teksti sisu tuttavatest huvivaldkonna teemadest ja tavapärasest faktiteabest kuni keeruliste akadeemiliste ja erialateemadeni; teksti tüüpi, lühikestest ülevaadetest ja plakatitest kuni keerukate argumenteerivate tekstideni või tekstideni, mis annavad kriitilise hinnangu ettepanekutele või kirjandusteostele; teksti sidusust, lihtsate sidusvahendite kasutamisest ladusate, mõjusalt ja loogiliselt liigendatud tekstideni.</p><p><strong>Üldise kirjaliku suhtluse hindamisel</strong> hinnatakse oskust selgelt ja täpselt väljenduda, suheldes lugejaga paindlikult ja tulemuslikult.</p><p><strong>Kirjavahetusel hinnatakse </strong>sõnumi tüüpi (lihtsatest isiklikest sõnumitest üksikasjalikuma isikliku ja ametialase kirjavahetuseni) ning keelekasutust.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "RÄÄKIMINE",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väljendub selgelt ja täpselt, ladusalt ja loomulikult, paindlikult ja mõjusalt enamikus suhtlusolukordades;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb arutelus, väitleb abstraktse teema üle, põhjendab oma seisukohti ja teeb kaaslastega koostööd;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "valdab rikkalikku sõnavara ja mõistab kujundlikku keelt, väljendub selgelt, ladusalt ja varieeruvalt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "hääldab sõnu ja lauseid selgelt ja loomulikult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvestab keeleliste vahendite valikul suhtluse eesmärki, partnerit ja olukorda;",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "outcome",
+          "text": "ühendab lausungid selgelt ja loogiliselt sidusaks tekstiks, liigendab teksti lõikudeks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "järgib õigekirjareegleid.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused, sh diferentseerimise võimalused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Üldine suuline tekstiloome",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Keerukal teemal selgete, üksikasjalike kirjelduste ja ettekannete esitamine, sidudes allteemasid, arendades seisukohti ja lõpetades sobiva kokkuvõttega.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Pikk monoloog",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Keeruka teema selge ja üksikasjalik kirjeldamine. Kogetu kirjeldamine alates lihtsaima igapäevateabe (enda, oma tegevusala või elukoha) kirjeldamisest, liikudes edasi tüüpiliste funktsioonide (nt plaanid ja kokkulepped, harjumused ja tavapärased toimingud, möödunu ja kogetu) ja kõneleja huvivaldkonnaga seotud teemade kirjeldamisele ning lõpetades keerukate teemade üksikasjalike kirjeldustega; väga sarnaste mõtete, mõistete ja nähtuste peente erinevuste selgitamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Põhjendamine ja selgitamine (nt väitluses)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Keerukal teemal oma seisukoha kaitsmine, sõnastades mõtteid täpselt ja rõhutades vajalikku tõhusalt (nt alates millegi meeldimisest või mittemeeldimisest, liikudes edasi arvamusteni igapäevateemadel ning lõpetades päevakajaliste ja keerukate küsimustega; alates lihtsatest, otsestest võrdlustest, liikudes edasi seisukohtade korrakindla põhjendamise ning oma arutluskäigu laiendamise ja toetamiseni ning lõpetades vestluspartneri vaatenurga arvestamise ja vajaliku tõhusalt rõhutamisega; alates mõtte esitamisest lihtsate sõnadega kuni oluliste aspektide sobiva rõhutamise ning seisukohtade täpse sõnastamise ja loogilise väljendamiseni).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Avalikud teadaanded",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Teadete ladus ja peaaegu pingutuseta esitamine, väljendades peenemaid tähendusvarjundeid täpselt, kasutades selleks rõhku ja intonatsiooni.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Avalik esinemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Selge ja hea ülesehitusega ettekande pidamine keerukal teemal, laiendades ja põhjendades seisukohti ning esitades asjakohaseid näiteid. Pikemat ettekande liigendamine nii, et see aitab publikul mõtteid jälgida ja mõista üldist arutluskäiku. Keerukate teemade käsitlemisel oletuste tegemine ja hüpoteeside esitamine, võrreldes ja hinnates eri ettepanekuid ja väiteid.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Üldine suhtlus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Ladus ja loomulik, peaaegu pingutuseta väljendamine. Rikkaliku sõnavara sh ümbersõnastamise kasutamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Vestlus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Vestluses paindliku ja mõjusa keele sh emotsionaalse, vihjelise ja naljatleva keelepruugi kasutamine.</p><p>Vaba mõttevahetus nii tuttaval kui abstraktsel ja keerukal teemal (sõprade/klassikaaslaste/täiskasvanute ringis), arutelud, eesmärgipärane koostöö (rollimängud, dialoogid konkreetsetes suhtluskordades k.a tööintervjuu, väitlus jmt);</p><p>Alates isiklikest uudistest, liikudes edasi tuttavatele, endale huvipakkuvatele kõneainetele ning lõpetades enamiku üldiste teemadega (kaupade ja teenuste ostmine, infovahetus, küsitleja ja vastaja roll ja telekommunikatsioonivahendite kasutamine, pakkumiste või kutsete esitamine, vestluse põhisisu jälgimine ning elavas arutelus osalemine ja argikeelsete vihjete mõistmine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Vaba mõttevahetus (sõprade ringis)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Keeruka rühmaarutelu jälgimine ja selles osalemine, isegi kui tegu on abstraktse ja keeruka võõra kõneainega sh argikeelsete vihjete mõistmine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ametlikud arutelud (koosolekud)",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Raskusteta väitlemine, isegi kui tegu on abstraktse, keeruka ja võõra teemaga. Oma seisukoha veenev põhjendamine, vastates küsimustele, märkustele ja keerukatele vastuväidetele ladusalt, sundimatult ja olukohaselt. Akadeemilises või erialases pädevusvaldkonnas teiste osalejate seisukohtade ümbersõnastamine, neile hinnangu andmine ja nende vaidlustamine. Kriitiliste märkuste diplomaatiline tegemine või mittenõustumise väljendamine. Küsimuste täpsustamine ja oma küsimuste ümbersõnastamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Intervjuu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Intervjuul nii küsitleja kui ka vastaja rolli edukas täitmine, laiendades ja arendades kõnealust teemat ladusalt ja ilma kõrvalise abita ja tulles edukalt toime sekkumisega.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjalide viited",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://reporter.kanal2.ee/",
+              "title": "Reporter"
+            },
+            {
+              "kind": "link",
+              "href": "https://novaator.err.ee/k/uhe-minuti-loeng",
+              "title": "Ühe minuti loeng"
+            },
+            {
+              "kind": "link",
+              "href": "https://tagasikooli.ee/",
+              "title": "Tagasi kooli"
+            },
+            {
+              "kind": "link",
+              "href": "http://Jupiter.ee",
+              "title": "Jupiter.ee"
+            },
+            {
+              "kind": "link",
+              "href": "https://jupiter.err.ee/video",
+              "title": "Jupiter.ee video"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Tagasiside, edasiside ja hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Pika monoloogi puhul hinnatakse </strong>oskust üksikasjalikult kirjeldada ja jutustada, sidudes allteemasid, laiendades olulisi punkte ning võttes kõik sobivalt kokku ladusas kirjelduses.</p><p><strong>Põhjendamisel ja selgitamisel (nt väitluses) hinnatakse</strong>: oskust seisukohta korrakindlalt ja struktureeritult põhjendada, arvestades vestluspartneri vaatenurka, tuues välja olulised aspektid koos väiteid kinnitavate näidetega ning lõpetades sobiva kokkuvõttega.</p><p><strong>Avalikke teadaannete puhul hinnatakse </strong>oskust edastada tähtsat teavet üldistel teemadel selgelt, ladusalt ja loomulikult, nii et mõistmiseks ei ole vaja teistel pingutada, alates väga lühikestest ettevalmistatud teadaannetest kuni spontaansete ja pea laitmatult ladusate sõnumiteni.</p><p><strong>Avaliku esinemise puhul hinnatakse</strong> oskust tulla hästi toime, kui tema esinemist katkestatakse, reageerides spontaanselt, ilma erilise pingutuseta; oskust pidada suulist ettekannet publiku ees seminaril või tunnis, alates väga lühikesest ettevalmistatud ülesastumisest, liikudes edasi otsesõnalise esinemiseni tuttaval, oma pädevusvaldkonda kuuluval teemal ning lõpetades hea ülesehitusega ettekannetega keerulisel, publikule võõral teemal; oskust vastata küsimustele ladusalt ja spontaanselt.</p><p><strong>Üldise suhtluse puhul hinnatakse </strong>ladusat ja loomulikku, peaaegu pingutuseta väljendamist ning rikkaliku sõnavara sh ümbersõnastamise kasutamist.</p><p><strong>Vestluse puhul hinnatakse</strong> teiste vestlejatega võrdväärset toimetulekut otseses, selges ühiskeeles sh emotsionaalse, vihjelise ja naljatleva keelepruugi kasutamist.</p><p><strong>Vaba mõttevahetuse puhul hinnatakse </strong>oskust jälgida teiste liikmete arutelu ning tabada põhisisu, arutleda abstraktsetel, keerulistel ning isegi võõrastel ja tundlikel teemadel.</p><p><strong>Ametlikel aruteludel osalemisel hinnatakse: </strong>abstraktsetel, keerulistel ja võõrastel teemadelpraktiliste probleemide käsitlemist, arutluskäigu jälgimisel kordamise ja selgitamise vajaduse esitamise oskust; arutelu mõistmist ning selles osalemist, argumentide kritiseerimist ning oma arvamuse veenvat esitamist.</p><p><strong>Intervjuu puhul hinnatakse </strong>oskust liikuda edasi ettevalmistatud küsimustest spontaansele kõrvalekaldumisele ja huvitavatel vastustel pikemalt peatumisele ning lõpetades dialoogi ülesehitamise ja enesekindla suhtlemisega.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Teemavaldkondade kirjeldus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "1. Eesti ja maailm",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppesisu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Eesti riik ja rahvas:</strong></p><ul><li>omariiklus ja kodanikuks olemine, riigikaitse;</li><li>geograafiline asend ja kliima;</li><li>rahvastik: põhirahvus, muukeelne elanikkond, uusimmigrandid;</li><li>mitmekultuuriline ühiskond.</li></ul><p><strong>Eesti keel ja eesti meel:</strong></p><ul><li>rahvuslik identiteet;</li><li>kultuuritraditsioonid;</li><li>kodukoha lugu.</li></ul><p><strong>Eesti ja teised riigid:</strong></p><ul><li>Eesti kui Euroopa Liidu liikmesriik: ELi liikmesriigid, ELi töökorraldus;</li><li>Eesti koht maailmas: rahvusvaheline koostöö.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Üldpädevused, lõimingu võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Õpitulemused toetavad üldpädevusi:</strong></p><ul><li>kultuuri- ja väärtuspädevus (nt suutlikkus tajuda, analüüsida ja väärtustada oma seotust teiste inimestega, ühiskonnaga, loodusega, oma ja teiste maade ja rahvaste kultuuripärandiga ning nüüdiskultuuri sündmustega);</li><li>sotsiaalne ja kodanikupädevus (nt suutlikkus ennast teostada; toimida aktiivse, teadliku, abivalmi ja vastutustundliku kodanikuna ning toetada ühiskonna demokraatlikku arengut ja Eesti riiklikku iseseisvust) aga ka teiste pädevuste kujundamist.</li></ul><p><strong>Lõimingu võimalused:</strong></p><p>Ühiskonnaõpetus: kultuuri mõiste ja kujunemine; kultuur ja inimloomus; välispoliitika, rahvusvahelised organisatsioonid, globaalprobleemid, Euroopa Liit ja Euroopa Liidu institutsioonid, Euroopa Liidu tegevusvaldkonnad, Euroopa Liit ja noored. Ühiskond, ühiskonna mudelid, riik ja riigivõim, demokraatlik ühiskond, demokraatlik valitsemine, valimised ja erakonnad. Indiviid ja ühiskond, riigi kodanikud, kodanikud ja meedia.</p><p>Geograafia: asustus, linnad ja maa-asulad, linnastumine ja sellega kaasnevad probleemid; Euroopa riikide pealinnad, maailma rahvastik ja rahvastiku poliitika. Diagrammide ja graafikute kirjeldamine ja analüüs. Eesti kaunimad paigad.</p><p>Bioloogia: Punane Raamat, ohustatud liigid, liigikaitse.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lingid ja viited",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://novaator.err.ee/k/uhe-minuti-loeng",
+                  "title": "Ühe minuti loeng"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://etv.err.ee/1609156253/maailma-koige-tervem-rahvas",
+                  "title": "Telesaade “Maailma kõige tervem rahvas”"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.arhitektuurimuuseum.ee/",
+                  "title": "Eesti Arhitektuurimuuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.erm.ee/et/erm-avas-tallinnas-lambinaituse",
+                  "title": "Eesti Rahva Muuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://linnamuuseum.ee/kiek-in-de-kok/bastionikaigud/",
+                  "title": "Bastionikäigud"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://estonia.representation.ec.europa.eu/tutvustus/euroopa-liidu-maja_et#euroopa-liidu-maja",
+                  "title": "Euroopa Liidu maja külastamine"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.rara.ee/programmid/tunne-euroopa-liitu-7-9-klass/",
+                  "title": "Rahvusraamatukogu haridusprogrammid: Tunne Euroopa liitu"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://etv.err.ee/kaduva-maailma-lavel",
+                  "title": "Kaduva maailma lävel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2. Kultuur ja looming",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppesisu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Kultuur kui looming:</strong></p><ul><li>looming: kirjandus, kujutav kunst, helilooming, arhitektuur, tarbekunst, käsitöö jne;</li><li>rahva ajalooline kultuurimälu;</li><li>loova mõtte arendamine kogemuse kaudu.</li></ul><p><strong>Kultuuritraditsioonid ja tavad:</strong></p><ul><li>rahvapärimused, muistendid, muinasjutud, vanasõnad, kõnekäänud kui rahvatarkuse varamu;</li><li>erinevate rahvaste kultuuritraditsioonid, tavad ja uskumused.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Üldpädevused, lõimingu võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Õpitulemused toetavad üldpädevusi:</strong></p><ul><li>kultuuri- ja väärtuspädevus (nt suutlikkus tajuda, analüüsida ja väärtustada oma seotust teiste inimestega, ühiskonnaga, loodusega, oma ja teiste maade ja rahvaste kultuuripärandiga ning nüüdiskultuuri sündmustega; väärtustada kunsti ja loomingut ning kujundada ilumeelt; hinnata üldinimlikke ja ühiskondlikke väärtusi, väärtustada inimlikku, kultuurilist ja looduslikku mitmekesisust);</li><li>suhtluspädevus (nt suutlikkus lugeda ning eristada ja mõista teabe- ja tarbetekste ning ilukirjandust);</li><li>digipädevus (nt suutlikkus kasutada uuenevat digitehnoloogiat toimetulekuks kiiresti muutuvas ühiskonnas;leida ja säilitada digivahendite abil infot ning hinnata selle asjakohasust ja usaldusväärsust), aga ka teiste pädevuste kujundamist.</li></ul><p><strong>Lõimingu võimalused</strong></p><p>Kirjandus: rahvapärimused, muistendid, muinasjutud, vanasõnad, kõnekäänud kui rahvatarkuse varamu; Eesti kirjanikud, nende looming ning teoste katkendid.</p><p>Muusika- ja kunstiõpetus: Eesti muusika ja kunsti suurkujud (A.Pärt, G.Ernesaks, A.Adamson, E.Wiiralt, Navitrolla jt) ja nende looming; Eesti Laul, Eurovisioon, PÖFF jt.</p><p>Ajalugu: Eesti ja Eesti kultuur erinevatel ajastutel (Rootsi aeg, keskaeg, Reformatsioon, Rahvuslik liikumine, 20. ja 21.sajand); maailma religioonid,</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lingid ja viited",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://novaator.err.ee/k/uhe-minuti-loeng",
+                  "title": "Ühe minuti loeng"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Muuseumid (KUMU, Kunstihoone, Tarbekunstimuuseum, Tallinna Linnamuuseum, Eesti Teatri- ja Muusikamuuseum, PoCo Muuseum,Filmimuuseum, Tallinna Toomkirik, Niguliste kirik, Eesti Rahvamuuseum, Eesti Kirjandusmuuseum, Tartu Kunstimuuseum jt)</p>"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.estlit.ee/information-centre",
+                  "title": "Eesti Kirjanduse Keskuse külastus"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Eesti teatrite külastus (Eesti Draamateater, Rahvusooper, Vanemuine, Noorsooteater jt)</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "3. Keskkond ja tehnoloogia",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppesisu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Geograafiline keskkond:</strong></p><ul><li>keskkonna ja inimese suhted, keskkonnateadlikkus: looduslik tasakaal, puutumatu loodus; tööstus- ja kultuurmaastikud, kaitsealad; saasteallikad;</li><li>loodusliku tasakaalu kadumisest tingitud ohud keskkonnale ja inimestele; kliima ning kliimamuutused;</li><li>keskkonna jätkusuutlik areng.</li></ul><p><strong>Elukeskkond:</strong></p><ul><li>elutingimused erineva kliima ja rahvastusega aladel;</li><li>sotsiaalsete hüvede olemasolu ning nende kättesaadavus (nt arstiabi, pensionid, riiklikud toetused ja fondid, abirahad, soodustused puudega inimestele);</li><li>säästlik eluviis;</li><li>sotsiaalne miljöö: põhirahvusest koosnev või mitmekeelne ja -kultuuriline ühiskond; lähinaabrid.</li></ul><p><strong>Tehnoloogia:</strong></p><ul><li>teadus- ja tehnikasaavutused ning nende rakendamine igapäevaelus;</li><li>teabekeskkond: infootsing ja -vahetus;</li><li>keeletehnoloogilisi rakendusi igapäevaelus: elektroonsed sõnastikud, keeleõppematerjalid, arvutipõhine keeleõpe, tõlkeabiprogrammid jne;</li><li>biotehnoloogia igapäevaelus: olmekeemia, kosmeetika- ja toiduainetööstus jne.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Üldpädevused, lõimingu võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Õpitulemused toetavad üldpädevusi:</strong></p><ul><li>kultuuri- ja väärtuspädevus (nt suutlikkus tajuda, analüüsida ja väärtustada oma seotust loodusega, väärtustada looduslikku mitmekesisust);</li><li>matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus (suutlikkus mõista loodusteaduste ja tehnoloogia tähtsust ning mõju igapäevaelule, loodusele ja ühiskonnale; mõista teaduse ja tehnoloogiaga seotud piiranguid ja riske; kasutada uusi tehnoloogiaid loovalt ja uuendusmeelselt);</li><li>digipädevus (nt suutlikkus kasutada uuenevat digitehnoloogiat toimetulekuks kiiresti muutuvas ühiskonnas; osaleda digitaalses sisuloomes, sh tekstide, piltide, multimeediumide loomisel ja kasutamisel), aga ka teiste pädevuste kujundamist.</li></ul><p><strong>Lõimingu võimalused:</strong></p><p>Geograafia: <a href=\"https://www.opiq.ee/kit/13/chapter/585\">Üleilmastumine ja maailma­majanduse areng</a>, looduskatastroofid (vulkaanid, maavärinad jt), ilmastik ja kliima, kliimamuutused, kliimamuutustega seotud ohud. Põllumajandus ja selle mõju keskkonnale, põllumajandust mõjutavad tegurid, põllumajandus eri loodusolude ja arengutasemega riikides. Maailma metsad ja nende tähtsus.Metsade hävimine, kaitse ja säästlik majandamine. Elektri­energia, soojus- ja tuumaelektri­jaamad, taastuvad energiaallikad maailma energia­probleemid. Looduskaitsealad ja rahvuspargid.</p><p>Ajalugu: eri aja leiutised ja leiutajad;</p><p>Füüsika: teaduskool “Rakett69” <a href=\"https://rakett69.ee/\">https://rakett69.ee/</a></p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lingid ja viited",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://novaator.err.ee/k/uhe-minuti-loeng",
+                  "title": "Ühe minuti loeng"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://vikerraadio.err.ee/1608697708/ooulikool-fred-jussi-loodus-tehiskeskkonnas",
+                  "title": "Ööülikool. Fred Jüssi"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.rara.ee/programmid/seljata-tehisintellekt/",
+                  "title": "Rahvusraamatukogu haridusprogrammid: Seljata tehisintellekt"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://tagasikooli.ee/",
+                  "title": "Tagasi kooli"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "4. Haridus ja töö",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppesisu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Pere ja kasvatus:</strong></p><ul><li>perekond; peresuhted, laste ja vanemate omavaheline mõistmine ning üksteisest hoolimine;</li><li>kasvatus: viisakusreeglid, käitumisnormid, väärtushinnangute kujundamine, salliv eluhoiak jne.</li></ul><p><strong>Haridus:</strong></p><ul><li>riiklikud ja eraõppeasutused, koolitused;</li><li>kohustuslik kooliharidus, iseõppimine;</li><li>koolikeskkond ja -traditsioonid; noorteorganisatsioonid;</li><li>edasiõppimisvõimalusi Eestis ja välismaal;</li><li>elukestev õpe.</li></ul><p><strong>Tööelu:</strong></p><ul><li>teadlik eneseteostus; elukutsevaliku võimalusi ja karjääri planeerimine;</li><li>tööotsimine: elulookirjelduse koostamine, tööleping, töövestlus;</li><li>töö kui toimetulekuallikas; raha teenimine (nt sissetulekud ja väljaminekud, hinnad); tööpuudus;</li><li>vastutustundlik suhtumine oma töösse; hoolivus enese ja teiste vastu;</li><li>töötaja ja tööandja õigused ning vastutus, ametiühingud, katseaeg, osalise või täisajaga töö, puhkus;</li><li>suhted töökollektiivis; meeldiv ja sundimatu keskkond, motiveeritud töötaja;</li><li>vajalikud eeldused oma tööga toimetulekuks;</li><li>puudega inimeste töö.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Üldpädevused, lõimingu võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Õpitulemused toetavad üldpädevusi:</strong></p><ul><li>enesemääratluspädevus (nt suutlikkus mõista ja hinnata adekvaatselt oma nõrku ja tugevaid külgi, arvestada oma võimeid ja võimalusi; analüüsida oma käitumist erinevates olukordades; hankida teavet edasiõppimise ja tööleidmise võimaluste kohta, kavandada oma karjääri);</li><li>suhtluspädevus (nt suutlikkus ennast esitleda, oma seisukohti esitada ja põhjendada; lugeda ning eristada ja mõista teabe- ja tarbetekste; koostada eri liiki tekste, nt motivatsioonikiri);</li><li>ettevõtlikkuspädevus (nt suutlikkus kasutada omandatud teadmisi ja oskusi erinevates elu- ja tegevusvaldkondades; koostada lühi- ja pikaajalisi plaane, neid tutvustada ja ellu viia; korraldada ühistegevusi ja neist osa võtta, näidata algatusvõimet ja vastutada tulemuste eest; rakendada finantskirjaoskust), aga ka teiste pädevuste kujundamist.</li></ul><p><strong>Lõimingu võimalused</strong></p><p>Perekonnaõpetus: olulised sündmused, rollid perekonnas, peretraditsioonid, suhted perekonnas.</p><p>Karjääriõpetus: dokumendihaldus, motivatsioonikiri, tööintervjuu jms.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lingid ja viited",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://novaator.err.ee/k/uhe-minuti-loeng",
+                  "title": "Ühe minuti loeng"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.cvkeskus.ee/",
+                  "title": "Külalistund CV keskuse poolt"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://tagasikooli.ee/",
+                  "title": "Tagasi kooli e-tunnid ja külalistunnid"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://ut.ee/et/avaleht",
+                  "title": "Ülikoolide koduleheküljed: Tartu Ülikool"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.tlu.ee/",
+                  "title": "Ülikoolide koduleheküljed: Tallinna Ülikool"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://taltech.ee/",
+                  "title": "Ülikoolide koduleheküljed: TalTech"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "5. Inimene ja ühiskond",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Õppesisu",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Inimene kui looduse osa:</strong></p><ul><li>eluring: sünd, elu ja surm;</li><li>tasakaal inimese ja looduse vahel (nt loodushoidlik eluviis, aukartus looduse ees);</li><li>elulaad ehk olemise viis (nt loodushoidlik, inimsõbralik, tervislik).</li></ul><p><strong>Inimene kui indiviid:</strong></p><ul><li>inimese loomus ja käitumine, vastuoludesse sattumine;</li><li>iga inimese kordumatu eripära;</li><li>väärtushinnangud, vaated elule ja ühiskonnale;</li><li>inimsuhted: isiklikud, emotsionaalsed, sotsiaalsed;</li><li>erinevad inimesed ja rahvad (nt keele- ja kultuurierinevused, käitumistavad, kõlblusnormid).</li></ul><p><strong>Inimeste suhtlus:</strong></p><ul><li>suhtlusvahendid: loomulik keel ja kehakeel (nt sõnavalik, žestid, miimika);</li><li>meedia kui suhtluskanal ja -vahend.</li></ul><p><strong>Ühiskond kui eluavalduste kogum:</strong></p><ul><li>majanduselu: tõusud ja mõõnad, heaoluühiskond;</li><li>sotsiaalsfäär, elatustase, heategevus;</li><li>ebaterved eluviisid, kuritegevus.</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Üldpädevused, lõimingu võimalused",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p><strong>Õpitulemused toetavad üldpädevusi:</strong></p><ul><li>sotsiaalne ja kodanikupädevus (nt suutlikkus teada ja järgida ühiskondlikke väärtusi ja kõlbluspõhimõtteid; austada erinevate keskkondade, sh suhtluskeskkondade reegleid ja ühiskondlikku mitmekesisust, inimõigusi, religioonide ja rahvuste omapära; teha koostööd teiste inimestega erinevates situatsioonides; aktsepteerida inimeste ja nende väärtushinnangute erinevusi ning arvestada neid suhtlemisel);</li><li>suhtluspädevus (nt suutlikkus ennast selgelt, asjakohaselt ja viisakalt väljendada; ennast esitleda, oma seisukohti esitada ja põhjendada);</li><li>kultuuri- ja väärtuspädevus (nt suutlikkus tajuda, analüüsida ja väärtustada oma seotust teiste inimestega, ühiskonnaga, loodusega, oma ja teiste maade ja rahvaste kultuuripärandiga ning nüüdiskultuuri sündmustega; hinnata üldinimlikke ja ühiskondlikke väärtusi, väärtustada inimlikku, kultuurilist ja looduslikku mitmekesisust), aga ka teiste pädevuste kujundamist.</li></ul><p><strong>Lõimingu võimalused:</strong></p><p>Ühiskonnaõpetus: Ühiskond, ühiskonna mudelid, riik ja riigivõim, demokraatlik ühiskond. Indiviid ja ühiskond, riigi kodanikud, kodanikud ja meedia.</p><p>Kehaline kasvatus: Olümpiakangelased, tippsportlased;</p><p>Riigikaitse: ajateenistus.</p><p>Bioloogia: sõltuvused, toitumishäired.Ühiskonnaõpetus: majanduse tegurid, majanduspoliitika, raha ja</p><p>Geograafia: muutused maailmamajanduses, rahvusvaheline kaubandus, õiglane kaubandus, turism, tööstus.</p><p>Majandus- ja ettevõtlusõpetus: pangad, pangateenused, laenud, raha hoiustamine ja säästmine. dokumendihaldus.</p><p>Meediaõpetus: Meedia areng Eestis ja mujal maailmas, meediažanrid, propaganda, ajakirjandus ja meedia ning selle roll ühiskonnas, meediakirjaoskus ja kriitiline analüüs, sotsiaalmeedia ja selle võimalused, avaliku arvamusega manipuleerimine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Lingid ja viited",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://novaator.err.ee/k/uhe-minuti-loeng",
+                  "title": "Ühe minuti loeng"
+                },
+                { "kind": "link", "href": "http://err.ee", "title": "err.ee" },
+                {
+                  "kind": "link",
+                  "href": "https://tagasikooli.ee/",
+                  "title": "Tagasi kooli"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.rara.ee/programmid/veebitund-libastudes-libauudistele-7-12-klass/",
+                  "title": "Rahvusraamatukogu haridusprogrammid: Libastudes libauudistele"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.rara.ee/programmid/veebitund-artiklite-ja-fotode-varalaegas-7-12-klass/",
+                  "title": "Rahvusraamatukogu veebitund: Artiklite ja fotode varalaegas"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.eestipank.ee/muuseum",
+                  "title": "Eesti Panga Muuseum"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://www.spordimuuseum.ee/",
+                  "title": "Eesti Spordimuuseum"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemuste võrdlus",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211453993/E2_G_opitulemused_vordlus.pdf?version=1&modificationDate=1707297542170&api=v2",
+          "title": "E2_G_opitulemused_vordlus.pdf"
+        }
+      ]
+    }
+  ]
+}

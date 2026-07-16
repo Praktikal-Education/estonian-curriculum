@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Matemaatikapädevus",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab matemaatilisi oskuseid igapäevases elus toime tulemiseks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Pädevust toimetulekuõppes on võimetekohaste teadmiste, oskuste ja hoiakute kogum, mis tagab suutlikkuse teatud tegevusalal või valdkonnas toime tulla.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://oppekava.ee/wp-content/uploads/2023/02/pohikoollihtsustatud_lisa2.pdf",
+          "title": "PLRÕK lisa 2"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Matemaatika õpetamise põhimõtted ja õppetegevuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>5.3.1.1. Matemaatikaalaseid teadmised ja oskused on ümbritsevas keskkonnas toimetuleku eelduseks. Õpetamine seostatakse igapäevaeluga. Õpetamisel kasutatakse mängulisi ja elulisi situatsioone.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>5.3.1.2. Matemaatikas luuakse esmane mõistete ja tegevuste baas, mis aitab õpilasel orienteeruda teda vahetult ümbritsevas esemete ja nähtuste maailmas. Luuakse eeldused märgata esemetele iseloomulikke tunnuseid ning mõista esemete ja objektide omavahelisi seoseid. Igapäevaelus hakkama saamiseks on oluline praktiliste ülesannete lahendamise oskus, mida arendatakse sotsiaalse matemaatika ülesannete kaudu.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>5.3.1.3. Arvumõiste kujunemisele eelneb töö arvueelses valdkonnas. Õpetamist alustatakse oma keha tunnetamisest, ruumitaju arendamisest, objektide rühmitamisest tajutavatele tunnustele ja tajukujutlustele toetudes.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>5.3.1.4. Õpetatakse praktilistes tegevustes orienteeruma hulkade, mõõtude ja arvude vahelistes seostes ja suhetes. Omandatakse oskused kasutada mõnda enamlevinud mõõtevahendit, sooritada praktiliselt/materialiseeritult lihtsaid matemaatilisi tehteid, mõista ja kasutada praktilise tegevusega seotud graafilisi sümboleid ja lihtsaid mudeleid.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>5.3.1.5. Õpetamisel seostatakse erinevad tegevused ajamõistetega, toetudes näitlikele vahenditele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>5.3.1.6. Praktiliste tegevuste käigus õpetatakse mõistma raha otstarvet ning teostama igapäevaelus toimetulekuks vajalikke rahalisi toiminguid õpitud arvuvalla piires.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>5.3.1.7. Harjutamisel kasutatakse mitmeid digivahendeid, mis tagavad tehnoloogiaalased algteadmised igapäevaeluks.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://oppekava.ee/wp-content/uploads/2023/02/pohikoollihtsustatud_lisa2.pdf",
+          "title": "PLRÕK lisa 2"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "link",
+          "href": "https://projektid.edu.ee/display/PK/9.1.+Arvueelne+periood",
+          "title": "Arvueelne periood"
+        },
+        {
+          "kind": "link",
+          "href": "https://projektid.edu.ee/pages/viewpage.action?pageId=221020432",
+          "title": "Arvumõiste kujundamine"
+        },
+        {
+          "kind": "link",
+          "href": "https://projektid.edu.ee/display/PK/Praktiline+matemaatika",
+          "title": "Praktiline matemaatika"
+        }
+      ]
+    }
+  ]
+}

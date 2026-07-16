@@ -1,0 +1,485 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õppeaine kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kodundus on õppeaine, mis annab õpilasele elementaarsed oskused toimetulekuks koduste puhastus- ja korrastustöödega, ettekujutuse tervislikust toitumisest, lihtsamate toitude valmistamise oskuse, ettekujutuse pere majandamisest, toiduainete ostmisest jms.</p><p>Kodunduse tundides õpitakse, tasakaalustatud menüü koostamist ning analüüsitakse inimeste tarbijakäitumist, väärtustatakse keskkonnasäästlikku, oma õigusi ning kohustusi teadvat tarbijat.</p><p>Kõike seda õpitakse valdavalt läbi praktilise tegevuse.</p><p>Kodumasinate ja korrastusvahendite õpetamisel lähtutakse kaasaegsest tehnoloogiast.</p><p>Kodundusõpe aitab õpilasel kujuneda eluga võimalikult iseseisvalt toimetulevaks isiksuseks, kes suudab ja tahab teha võimetekohast tööd ning on keskkonnasäästlik tarbija.</p><p>Kodundustunnis toimub õpe meeskonnatööna. See loob sobivad võimalused arendada sotsiaalseid oskusi: heatahtlikku ja arvestavat suhtumist kaaslastesse.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Määruse järgi 6. klassi lõpuks õpilane:",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "katab lauda vastavalt tähtpäevale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb pesu- ja hooldusmärke;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "loeb retsepti, kasutab õpetaja juhendamisel ohutult õigeid töövõtteid toiduainete töötlemisel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab juhendamisel tervisliku toitumise põhitõdesid toidu valmistamisel;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab serveerida lihtsamaid toite ja täidab elementaarseid lauakombeid.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Heaolu ja tervis toidust",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Toiduenergia</li><li>Menüü</li><li>Pakendiinfo</li><li>Veebipõhised keskkonnad</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab mõistet toiduenergia;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida toiduaine pakenditelt infot;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab leida infot internetist;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kaasata õpilasi aktiivselt õppeprotsessi, küsida nende arvamusi.</li><li>Rühmatöö. Mis mõjutab inimeste energiavajadust ja mille poolest need on erinevad?</li><li>Uurida erinevaid pakendeid ja leida saadav energiahulk toiduainest.</li><li>Kasutada erinevate maade köögi- ja juurviljade, puuviljade kaarte.</li><li>Tutvustada <a href=\"http://www.ampser.ee\">www.ampser.ee</a> keskkonda.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Toiduenergia - toidust saadav energia.</li><li>Menüü - all mõistetakse kas toidukorra (nii argeine kui piduliku eine) toitude ja jookide loetelu kindlas järjestuses või toitlustusettevõtte toidukaarti.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Koolimenüü analüüsimine, toiduenergia seisukohast.</li><li>Toiduainete pakendite uurimine, energia hulga võrdlemine.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://toitumine.ee/kuidas-tervislikult-toituda",
+              "title": "Õppevara"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 4.-6. klass (2008) Anu Pink</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li><li>Toitumine.ee, õppematerjalid</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://toitumine.ee/energia-ja-toitainete-vajadused",
+              "title": "https://toitumine.ee/energia-ja-toitainete-vajadused"
+            },
+            {
+              "kind": "link",
+              "href": "https://tai.ee/et/valjaanded/toitumine-ja-liikumine-i-iii-kooliaste-opetajaraamat",
+              "title": "Toitumine ja liikumine. I-III kooliaste. Õpetajaraamat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Toidu ohutu valmistamine ja töötlemisviisid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Tükeldatud toiduainetest salatid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tükeldatud toiduainetest salatid</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kuumtöötlemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Keetmine. <strong>Pudrud</strong></li><li>Küpsetamine.</li></ul>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=HpK-u1LYGLA"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Pliidi ja ahju ohutu käsitlemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Pliidi ja ahju ohutu käsitlemine</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Väikevahendid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Mikser/ saumikser</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab toiduaineid kuumtöödelda;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "käsitleb elektrilisi väikevahendeid ohutult;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Korrata toiduainete eeltöötlemise võimalusi.</li><li>Anda õpilasele ise valida: tooraine ja kuidas tükeldada. Näiteks grupi- või paaristöö: varuda erinevaid köögivilju ja/või puuvilju salati valmistamiseks. Lähteülesandeks on, et salatis peab olema vähemalt 3-4 koostisosa. Õpilane koostab retsepti, valib tükelduse ja serveerib salati ning tutvustab teistele ning põhjendab, miks just need toorained valiti.</li><li>Lihtsustada retsepte, tööetapid eraldi välja tuua. Üks tegevus ühel real.</li><li>Tutvustada õppeköögis olevaid elektrilisi väikevahendeid ja nendega ohutut töötamist.</li><li>Arvestatakse õpilase tegevust ülesannet lahendades, töö kulgu ja saavutatud õpitulemusi.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kuumtöötlemine - toidu valmistamisel kuumuse kasutamine.</p><p>Puder - pehme toit, mis on saadud terveid viljateri või helbeid, tange, kruupe, jahu vees või piimas keetes.</p><p>Mikser - köögimasin toiduainete segamiseks, vahustamiseks või peenestamiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Segasalatite valmistamine keedetud ja/või toorest toorainest.</li><li>Erinevate putrude valmistamine.</li></ul>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=3lWhe2lh_ck"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=6mcywaaaF2o"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=iBCQsAOw3O0"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=em4bQS-N2Q8"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 4.-6. klass (2008) Anu Pink</li><li>Retseptid, õppeplakatid</li><li>Töövahendid (nt nõud, jne.)</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li></ul>"
+            },
+            {
+              "kind": "file",
+              "src": "https://projektid.edu.ee/download/attachments/198679638/Kohupiima%20magustoit.pdf?version=1&modificationDate=1709656856441&api=v2",
+              "title": "Kohupiima magustoit. Heidi Sild, õppematerjal"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Käte pesemine</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=OOQYWdweDbU"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Maitseelamusi siit- ja sealtkandist. Corinne Albaut</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Hügieen ja korrastustööd",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Ristsaastumine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Toidu ohutus sh toidu saastumine toiduvalmistamise käigus</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Nõude pesemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Käsitsi ja masinaga nõude pesemine</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mis on ristsaastumine;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab käsitsi ja masinaga nõude pesemise erisusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Korrata praktilise töö alguses ohutus- ja hügieeninõudeid.</li><li>Selgitada, et toore ja töödeldud tooraine kooskasutamine võib tekitada ristsaastumist.</li><li>Tuua ristsaastumise kohta erinevaid näiteid. Veaohtlike olukordi pildistada ja analüüsida.</li><li>Kasutada erinevaid õppemeetodeid: arutelu, rühmatöö, praktiline töö, demonstratsioon jne.</li><li>Kaasata õpilasi aktiivselt õppeprotsessi, küsida nende arvamusi.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ristsaastumine - ebasobiva aine, sealhulgas mikroorganismi tahtmatu sattumine toidu sisse, mis ei tohi seda sisaldada.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Rühmatööna võrrelda toiduvalmistamist köögis, õues või matkal.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://toitumine.ee/kuidas-tervislikult-toituda",
+              "title": "Õppevara"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Retseptid, õppeplakatid</li><li>Töövahendid (nt nõud, jne.)</li><li>Toiduhügieeni reeglid.</li><li>e-koolikott digitaalsed õppematerjalid. Puhastusekspert.</li></ul>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=27fujRThWNI"
+            },
+            {
+              "kind": "text",
+              "html": "<p>e-koolikott digitaalsed õppematerjalid. Puhastusekspert. Helge Alt. Koristamine - see on imelihtne. Video.</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=OOQYWdweDbU"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/21807-Koristamine-see-on-lihtne-Video",
+              "title": "Koristamine"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 4.-6. klass (2008) Anu Pink</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Lauakombed, käitumine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Laua katmine tähtpäevadeks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Laua katmine tähtpäevadeks</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Käitumine söögilauas",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Käitumine söögilauas</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Pesu- ja hooldusmärgid",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Pesu- ja hooldusmärgid</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Oskab lauda katta lähtudes tähtpäevast;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja kasutab lauakombeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb pesu- ja hooldusmärke;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Komplekteerida klassi erinevaid lauanõud, lauapesu ja –kaunistused, pakkudes kasutamiseks ka sobimatuid variante.</li><li>Pöörata tähelepanu söögilauas söömisele, noa ja kahvliga söömisele, käitumisele üldiselt.</li><li>Võimalusel kasutada lahtilõigatud toidupildi kokku panemist, kus paberitükke tuleb ainult noa ja kahvli abi liigutada/tõsta.</li><li>Õpetajapoolne suunamine aitab õpilast ise oma tegevust ja käitumist hinnata.</li><li>Arvestada õpilase arengut, püüdlikkust.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Mõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Pesumärgid - kokkulepitud märgid, mis näitavad kuidas toodet pesta.</li><li>Hooldusmärgid - kokkulepitud märgid, mis näitavad kuidas toodet hooldada.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktiliste tööde soovituslik valik",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutelu teemal: miks on vaja lauakombeid?</li><li>Paigutada vastavalt menüüle lauale nõud ( kasutada võib õpiku abi). Salvrätikute voltimine skeemi järgi.</li><li>Õpilased saavad uurida oma rõivastel olevaid silte, leida kaaslastega sarnasusi ja erinevusi. Arutelu teemal: miks on pesu- ja hooldusmärke vaja? Miks neid ei tohi ära lõigata?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://toitumine.ee/kuidas-tervislikult-toituda",
+              "title": "Õppevara"
+            },
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodundus õpik 4.-6. klass (2008) Anu Pink</li><li>Ülesandeid ja mänge kodunduse tundideks (2008) Jaana Tamm</li><li>e-koolikott digitaalsed õppematerjalid. Tuuliki Vuks</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/21248-Laua-etikett-2",
+              "title": "Lauaetikett"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "2. KURSUS VÕRRANDID JA VÕRRANDISÜSTEEMID",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võrrandite ja võrrandisüsteemide käsitlus on eeltöö kõigi järgmiste kursuste õppimiseks. Õpilasel on õpingute jätkamiseks vaja:</p><ol><li>mõista ja rakenda kursuses käsitletud matemaatilisi meetodeid ning protseduure;</li><li>arutleda loogiliselt ja loovalt, formaliseerida oma matemaatilisi mõttekäike;</li><li>saavutada allkirjeldatud õpitulemused nii, et ta omandab tüüpülesandeid lahendades õppekavas kirjeldatud oskused;</li><li>arendada õpitegevuse kaudu üld- ja ainepädevusi nii, et ta suudaks kasutada keerukamaid algebralisi võtteid ja meetodeid, mis võimaldaksid õppekavas kirjeldatud teadmisi ja oskusi rakendada väga heal tasemel.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>suutlikkus kasutada vastava alateema meetodeid ning põhjendada oma otsuste aluseid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete kasutamist. Ülesandele iseseisvalt lahendustee otsimine ja selleks ideede genereerimine, paindlik mõtlemine (erinevad lahendusteed, õpitu erinevad rakendused) arendavad iseseisvalt otsustada suutvat isiksust;</li><li>suutlikkus arutleda loovalt ja loogiliselt, leida ülesande lahendamiseks sobivad strateegiad. Selleks kasvatada vilumust leida lahendusi peastarvutamise, kirjalike meetodite ning kasutada oleva tarkavaraga; kujundada võimekust interpreteerida tulemusi ja tõestada oma mõttekäike lähtuvalt resultaadi või esitusviisi laadist;</li><li>suutlikkus analüüsida ja esitada alternatiive ning oskus teha valikuid. Selleks käsitleda üht ülesannet eri vaatenurkadest ja soodustada erinevate lahendusteede otsimist; õpetada nägema põhjuste paljusust ning võimalike tagajärgede paljusust, mis soodustab õpilasel samasuguse mõtteviisi ülekandumist elulistesse kontekstidesse;</li><li>suutlikkus reflekteerida oma tegevust ning kriitiliselt hinnata tegevuse resultaati. Selleks suunata õpilast esitama iseendale küsimusi: mida ma teen; miks ma nii teen; milleni ma olen jõudnud ning kas tulemus on õige ja kontrollitav. Arvutuste, teisenduste ja järelduste täpsus ning reeglite järgimine arendavad enesedistsipliini.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>matemaatika lai I kursus;</li><li>põhikooli õppekavas kirjeldatud teadmised ja oskused võrrandite ning võrrandisüsteemide lahendamisest;</li><li>tekstülesannete funktsionaalse lugemise ja interpreteerimise oskus vähemalt rahuldaval tasemel.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Võrrandid ja võrrandisüsteemid",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab võrduse, samasuse ja võrrandi, võrrandi lahendi ning võrrandisüsteemi lahendi mõistet;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab võrrandite ning võrrandisüsteemide lahendamisel rakendatavaid samasusteisendusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab ühe tundmatuga lineaar-, ruut-, murd- ja lihtsamaid juurvõrrandeid (kaks juurt) ning nendeks taanduvaid võrrandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab lihtsamaid üht absoluutväärtust sisaldavaid võrrandeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab võrrandisüsteeme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära õpitud võrrandite/võrrandisüsteemide abil lahenduvad reaalelulised/teaduslikud probleemid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab või koostab sobiva võrrandi/võrrandisüsteemi probleemi lahendamiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab ainealase või reaalelulise probleemi võrrandite ja/või võrrandisüsteemide abil ning tõlgendab ja esitleb saadud tulemust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Võrdus, võrrand, samasus, võrrandi lahend. Võrrandite samaväärsus, samasusteisendused.</p><p>Lineaar-, ruut-, murd- ja juurvõrrandid (kuni kaks juurt) ning nendeks taanduvad võrrandid. Üht absoluutväärtust sisaldav võrrand.</p><p>Õpilane saab aru, et leidub võrrandeid, millel lahendid puuduvad või mille lahendiks on kõik reaalarvud.</p><p>Võrrandisüsteemid. Kahe- ja kolmerealine determinant.</p><p>Ainealased ja reaalelulised probleemid, mis on lahendatavad võrrandite/võrrandisüsteemide abil.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mõistete korrektset kasutamist õpetatakse ning harjutatakse kogu kursuse vältel. Õpilasel on vaja oma selgitustega kasutada mõisteid: <em>avaldis, avaldise määramispiirkond, võrdus, samasus, võrrand, võrrandi määramispiirkond, võrrandi lahend</em>.</p><p>Õpilane peab suutma suuliselt põhjendada, mille alusel ta otsustab võõrlahendi olemasolu või lahendite puudumise.</p><p>Õpilane saab aru, et leidub võrrandeid, millel lahendid puuduvad. Mõnel võrrandil on neid lõplik arv, teisel võib lahendeid olla kuitahes palju.</p><p>Tähelepanu tuleb pöörata võõrlahendi mõistele. Võrrandi $\\dfrac{1}{x+x^2}-\\dfrac{1}{x}=0$ lahendamisel saame ainsaks lahendiks $x=0$, kuid see on võõrlahend. Tegelikult võrrandil lahend puudub. Edaspidi tekstülesandeid lahendades peab õpilane elimineerima lahendid, mis ei sobi ülesande tingimustega (annavad absurdse tulemuse).</p><p>Õpilaste võrrandite lahendamise vilumusaste tuleks kasvatada tasemele, kus õpilane lahendab vabalt peast mittetäielikke ruutvõrrandeid ja täisarvuliste lahenditega taandatud ruutvõrrandeid Viete’i teoreemi põhjal, lineaarvõrrandeid mingi avaldise suhtes. See vilumus tagab stabiilse aluse kõigis järgmistes kursustes.</p><p>Ruutvõrrandit lahendades tuleb esitada irratsionaalarvulised lahendid täpselt.</p><p>Näiteks ruutvõrrandi $x^2-2x-2=0$ lahendid $x_{1,2}=1\\pm\\sqrt{3}$</p><p>Murdvõrrandi lahendamise puhul rakendada eespool õpitust tehteid algebraliste avaldistega. Murdvõrrandi lahendamisel anda võrrandile kuju $\\dfrac{f(x)}{g(x)}=0 \\Leftrightarrow \\begin{cases}f(x)=0\\\\g(x)\\not =0\\end{cases}$ ning nõuda õpilastelt suulist põhjendust selle kuju põhjal tehtavate sammude kohta.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilastele anda harjutamiseks tekstülesandeid, mida tüüpiliselt saab lahendada murdvõrranditega.</p><p>Juurvõrrandi puhul piirdutakse kuni kaht juurt sisaldava võrrandiga.</p><p>Rõhutada, et kui lahenduse käigus on võetud võrrandit ruutu, võib lisanduda võõrlahendeid. Teha lahendite kontroll. Õpilasel on lihtsam meelde jätta, et murd- ja juurvõrrandite puhul peab tegema kontrolli. Võib ka leida võrrandi määramispiirkonna, et teha kindlaks võõrlahendid.</p><p>Kui võrrandit on teisendatud nii, et iga järgmine võrrand on ekvivalentne (samaväärne) eelmisega, siis ei ole kontroll võrrandi lahendamise koostisosa ning selle võib jätta tegemata.</p><p>Parameetrit sisaldavaid võrrandeid, mille lahendamise tehniline keerukus ei ületa võrrandite lahendamise põhivõtet, saab kasutada võrrandite lahendamise väga hea taseme saavutamiseks. Näiteks: millise parameetri a korral võrrandil $2(a-2x)=ax+3$ lahend puudub?</p><p>Võrrandeid lahendades on vaja pöörata tähelepanu võrrandi ja selle lahendite graafilisele interpretatsioonile. Võrrandite ja võrrandisüsteemide graafilisel lahendamisel kasutada kontrolliks digivahendeid. Harjutada graafikult võrrandi/võrrandisüsteemide lahendite leidmist.</p><p>Võrrandeid digivahendiga lahendades peab arvestama äärmiselt mitmekesise tarkvara olemasoluga ning julgustama õpilasi nende hulgast valikut tegema, nii et kasutamine oleks kiire, mugav ja ilma liigsete kasutajaliidese keerukusteta.</p><p>Võrrandisüsteemide lahendamise õpetamist alustada kahe tundmatuga lineaarvõrrandite süsteemide lahendamisega erineval viisil: liitmisvõtet, asendusvõtet, graafilist võtet ja determinante kasutades. Lihtne on seejärel üle minna ülesannetele, kus on kolm tundmatut ja tekib kolme tundmatuga lineaarvõrrandite süsteem.</p><p>Võimaluse korral vaadata süsteeme, mida saab lahendad nn korrutamis- või jagamisvõttega. Rõhutada, et õige lahendusvõtte valimine võib lahenduskäiku tunduvalt lihtsustada ja lühendada.</p><p>Võiks lahendada ka võrrandisüsteeme, mida hiljem kasutame joonte lõikepunktide leidmiseks (integraaliga pindala leidmisel).</p><p>Näiteks. Sirge ja parabooli või kahe parabooli lõikepunktide leidmine.</p><p>Tähelepanu pöörata funktsionaalsele lugemisoskusele. Tekstülesannete lahendamisel kasutada erinevaid mudeleid. Tekstülesannete lahendamisel võib piirduda matemaatilise mudeli tegemisega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120&sort=publisher_az",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19580-L2-Vorrandid-ja-vorrandisusteemid",
+              "title": "Võrrandid ja võrrandisüsteemid. Sisukord sisaldab 20 materjali."
+            },
+            {
+              "kind": "link",
+              "href": "https://sites.google.com/view/matemopetajaraamat/avaleht",
+              "title": "Õpetajaraamat digiõppevaramu juurde"
+            },
+            {
+              "kind": "section",
+              "title": "Digitunnid",
+              "children": [
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/33639-Lineaarvorrand-ja-tasakaal",
+                  "title": "Lineaarvõrrand ja tasakaal"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/33640-Vordekujulised-vorrandid",
+                  "title": "Võrdekujuline võrrand"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/33641-Lineaarvorrandi-abil-lahenduvad-probleemulesanded",
+                  "title": "Võrrandite abil lahenduvad probleemülesanded"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/33557-Lineaarvorrandisusteemide-graafiline-lahendamine",
+                  "title": "Lineaarvõrrandisüsteemide graafiline lahendamine"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/33643-Lineaarvorrandisusteemide-lahendamine-asendusvottega-ja-liitmisvottega",
+                  "title": "Lineaarvõrrandisüsteemide lahendamine asendus- ja liitmisvõttega"
+                },
+                {
+                  "kind": "link",
+                  "href": "https://e-koolikott.ee/et/oppematerjal/33642-Lineaarvorrandisusteemide-abil-lahenduvad-probleemulesanded",
+                  "title": "Võrrandisüsteemide abil lahenduvad probleemülesanded"
+                }
+              ]
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/spreadsheets/d/1js3DEOlIlLNrQmJtL6SBAvtQPX7EIZjRRgIsFaONxlw/edit#gid=2027870988",
+              "title": "Sobivaid Desmos töölehti eesti keeles võib leida"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@Videoops",
+              "title": "Kordamiseks võib kasutada videoõpsi videoid youtube keskksonnas."
+            },
+            {
+              "kind": "text",
+              "html": "<p>Näiteks</p>"
+            },
+            {
+              "kind": "video",
+              "src": "https://www.youtube.com/watch?v=2bjiJ_y8_CA"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksami ülesanded"
+            },
+            {
+              "kind": "section",
+              "title": "Lisaks põhikursusele",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/ttkm1_4_algebralised_vorrandid.pdf",
+                  "title": "ttkm1_4_algebralised_vorrandid.pdf"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/ttkm1_3_mang_protsentidega.pdf",
+                  "title": "ttkm1_3_mang_protsentidega.pdf"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/diofantilised_vorrandid_2016.pdf",
+                  "title": "diofantilised_vorrandid_2016.pdf"
+                },
+                {
+                  "kind": "file",
+                  "src": "https://teaduskool.ut.ee/sites/default/files/teaduskool/oppetoo/mat_gymn_parameetriga_vorrandid.pdf",
+                  "title": "mat_gymn_parameetriga_vorrandid.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadiks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppeprotsessi diferentseerimine, hindamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/",
+          "title": "Õppimist toetavast hindamisest täpsemalt"
+        },
+        {
+          "kind": "text",
+          "html": "<p><em>Vt näiteülesandeid lehekülje allosas</em></p>"
+        },
+        {
+          "kind": "section",
+          "title": "Ülesannete raskusaste",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Üldpädevuste toetamine, lõiming",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine",
+          "children": [
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Üldpädevuste toetamine"
+            }
+          ]
+        },
+        {
+          "kind": "text",
+          "html": "<p>Lõiming on teiste ainetega ülesannete tekstide kaudu.</p><p>Näiteks. Füüsika. Liikumisülesanded.</p><p><strong>Keemia</strong>. Aine sisaldus protsentides</p><p>Oluline kursus kõigile ainetele, kus kasutatakse võrrandite koostamist ja lahendamist.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454755/LAI_MATEMAATIKA_2.kursus%20N%C3%A4ite%C3%BClesanded.docx?version=1&modificationDate=1706621741385&api=v2",
+          "title": "LAI_MATEMAATIKA_2.kursus Näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454755/LAI_MATEMAATIKA_2.kursus%20N%C3%A4ite%C3%BClesanded.pdf?version=1&modificationDate=1706621741377&api=v2",
+          "title": "LAI_MATEMAATIKA_2.kursus Näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2148 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Keeleõppe kiht",
+      "children": [
+        { "kind": "text", "html": "<p><strong>sõnaliigid</strong></p>" }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "1. Mina ja ümbrus",
+      "children": [
+        { "kind": "text", "html": "<p>Aeg: 4-5 nädalat (september)</p>" },
+        { "kind": "text", "html": "<p>Kujund: <strong>ringid</strong></p>" },
+        {
+          "kind": "text",
+          "html": "<p>Eesmärk: Iseenda ja ümbrusega kooskõlastumine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Isiksus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mis teeb minust minu?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab oma isikuomadusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb oma tugevaid külgi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab teiste parimaid oskusi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Oskuste läbikirjutamine ja joonistamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [
+            { "kind": "text", "html": "<p>Kaks võrdväärset ringi</p>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>lugemine, joonistamine, arvutamine, kirjutamine, meisterdamine, julge, osav, kiire, aeglane, taiplik</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kihid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kahe eelneva aastaga õpitu ülevaatamine.</li><li>Uus teadmine tuleb vana peale.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, millal ta midagi õppis.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seab sihte tulevikuks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Eelmisel aastal õpitu ja tehtu üle arutlemine</li><li>Teadmiste kaart aastarõngastel</li><li>Soovid kolmandaks aastarõngaks</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Puu aastarõngad</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>unistus, soov, minevik, &quot;Ma juba oskan...&quot;, &quot;Ma soovin, et...&quot;</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Keskkond",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kooli-, linna- ja koduse ruumi eristamine.</li><li>Kes on neis keskkondades?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab keskkondadele omaseid käitumistavasid ja objekte.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Keskkonnavahetust hõlmav tegevus</li><li>Kaardi uurimine</li><li>Arutelu: &quot;Käitumistavad ja ruumide tunnused&quot;</li><li>Joonistame erinevaid paiku</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [
+            { "kind": "text", "html": "<p>Väiksed ringid suure ringi sees</p>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            { "kind": "text", "html": "<p><em>paik, linnaruum,</em></p>" }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Seltskond",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Perekond, klassikaaslased, naabrid, sõbrad.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab ja määratleb erinevaid seltskondi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab seltskondi kommetega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Pereliikmete loomus loomade näitel</li><li>Arutelu: &quot;Tegevused seltskondades&quot;</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [
+            { "kind": "text", "html": "<p>Meie erinevates ringides</p>" }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>koduloomad, metsloomad, isa, ema, vend, õde, vanaema ja -isa, tädi, onu</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ümbrus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Objektid looduses, kodumaa ja -koht, koduõu.</li><li>Ümbrus kui kõige suurem keskkond.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab elus ja elutut loodust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "paigutab end hiiglaslikku süsteemi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutelu: &quot;Mis on veel rääkimata jäänud?&quot;</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Ringidest väljas</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>puud, mets, kosmos, galaktika, universum</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "2. Grupidünaamika",
+      "children": [
+        { "kind": "text", "html": "<p>Aeg: 4-5 nädalat (oktoober)</p>" },
+        { "kind": "text", "html": "<p>Kujund: <strong>võrgustik</strong></p>" },
+        { "kind": "text", "html": "<p>Eesmärk: Tutvumine suhetega grupis.</p>" }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Grupp",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kellega olen ühes grupis?</li><li>Kellega tahan olla ühes grupis?</li><li>Kaasatus grupis.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab liitsõnu.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "räägib grupis eesti keeles.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tegevused ringis: tants, mäng, jutuvestmine.</li><li>Ühisjoonistamine</li><li>Oma klassikaaslaste kirjeldamine</li><li>Arutelu: &quot;Unistuste grupp&quot;</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Grupiliikmed</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>kaaslane, koostöö sujub/ei suju, grupiliige</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Suhted",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Erinevad grupides valitsevad sotsiaalsed suhted.</li><li>Sõltumine teistest grupiliikmetest.</li><li>Millisel viisil suhtlevad tüdrukud/poisid?</li><li>Kellel on missugused erioskused?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab mitmesuguseid suhteid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb erinevaid rolle grupis.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab omadusi rollidega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Sõprust soosivad ja suhete loomise mängud</li><li>Eriloomuliste suhete läbimängimine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Seotus</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>sõprussuhe, &quot;Ma soovin/ei soovi olla/tegutseda temaga koos.&quot;</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Poolused",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Millised on minu tugevused/nõrkused?</li><li>Kuidas tasakaalustada gruppi?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab koostööd ja vastutegevust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab käitumise alusel kuuluvust võistkondadesse.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Tegevused võistkondades</li><li>Võistkondade tugevuste kaardistamine</li><li>Võistkonnaliikmete vahetamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Võistkond</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Tema on kõige osavam/parem/jne.&quot;, &quot;Mina olen temast kiirem/aeglasem/jne.&quot;,</em> võrded ja ülivõrded, <em>vahetus, mees-, naiskond, valimine</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ühtsus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Missuguse eesmärgi grupile seame?</li><li>Mida me kõik soovime?</li><li>Mis meile üldse ei sobi?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb grupi reegleid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "harjutaab koostööd grupis.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ühtse grupi ühine kujutamine paberil ja ruumis</li><li>Tants, loovliikumine või muud rütmilised tegevused</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Grupi suund</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>samal ajal, kõik koos, samamoodi, &quot;Liigume ühes suunas, kuni...&quot; &quot;Koguneme (kus?)!&quot;</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Mõju",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mis mõjutab seda, kuidas grupp toimib?</li><li>Mis meid praegu mõjutab?</li><li>Olud, tujud, kujud.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab tegureid, mis soodustavad/takistavad ühiseid ettevõtmisi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Eksperimendid ühistegevustes</li><li>Omadus-mõju seoste kaardistamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Võrk</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Mind segab, kui...&quot;, &quot;Mind rõõmustab, kui...&quot;</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "3. Lood",
+      "children": [
+        { "kind": "text", "html": "<p>Aeg: 3 nädalat (november)</p>" },
+        {
+          "kind": "text",
+          "html": "<p>Kujund: <strong>tähenduslik ese</strong></p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Eesmärk: Lugudest teadmiste ammutamine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vanasõnad",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Milleks meile vanasõnad?</li><li>Suuline pärimus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab vanasõnu oma kodukeeles.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab eesti keeles vanasõnu ja nende tähendust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Vanasõnade lugemine ja mõtestamine</li><li>Vanasõnade joonistamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Pada ja katel</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Pada sõimab katelt, ühed mustad mõlemad.&quot;, &quot;Suur tükk ajab suu lõhki.&quot;</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Võlumaailm",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Muinasjutud erinevatest kultuuridest</li><li>Kuidas tean, et tegemist on muinasjutuga?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "tutvub fantastiliste lugudega.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab erinevaid kangelasi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb erinevate kultuuride muinasjutte.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab muinasjutule omaseid alguse ja lõpu tunnuseid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "omistab esemetele tähendusi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Muinasjuttude läbimäng</li><li>Arutelu: &quot;Minu lemmik kangelane&quot;</li><li>Võlumaailma illustreerimine</li><li>Multifilmi vaatamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Võluasi</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>võlukepp, võluflööt, nähtamatuse keep, võlukübar</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Lugu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Millest lugu koosneb?</li><li>Milleta ei ole lugu?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära peategelase.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab tegelasi, kirjeldab sündmusi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Koomiksi lugemine, valmistamine</li><li>Kirja kirjutamine</li><li>Pudelipost</li><li>Salakirja leiutamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Kiri</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>peidetud aare, tegelane, tegelaskuju, kavatsus</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Raamat",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kujutlusvõime teeb kõik võimalikuks.</li><li>Maailm kahe kaane vahel.</li><li>Kuidas raamatuid tehakse?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "tutvub erinevate raamatutega.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kuidas raamatuid tehakse.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab endale jõukohast lugemist.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õppekäik raamatukokku</li><li>Arutelu &quot;Millest kirjutaksin raamatu?&quot;</li><li>Ühine raamatu loomine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Raamat</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            { "kind": "text", "html": "<p><em>raamat, kujutlusvõime</em></p>" }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "4. Lava",
+      "children": [
+        { "kind": "text", "html": "<p>Aeg: 3-4 nädalat (detsember)</p>" },
+        { "kind": "text", "html": "<p>Kujund: <strong>lava</strong></p>" },
+        {
+          "kind": "text",
+          "html": "<p>Eesmärk: Esinemise protsessi kogemine</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Hoovõtt",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Millega ma tahaksin silma paista?</li><li>Kes ma laval tahaksin olla?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab jõukohase väljenduse.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab oma eelistusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teadvustab oma tugevusi esinemise vallas.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Esinemiseks sobiva materjali otsimine</li><li>Esinemissoovide kaardistamine</li><li>Ettevalmistuste nimekirja koostamine</li><li>Lava maketi loomine</li><li>Lavade uurimine</li><li>Esineja ja publiku omavahelise suhte testimine ruumis</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Makett</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Ma tahan esineda.&quot;, eesriie, valgus, lava, esineja, publik, vaataja</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Koostöö",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            { "kind": "text", "html": "<ul><li>Kes mida teeb?</li></ul>" }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et esinemine vajab suurt meeskonda ja head koostööd.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab koos töötada.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Rollide jaotamine</li><li>Ettevalmistused esinemiseks</li><li>Esinemistegevuste läbi kirjutamine</li><li>Rekvisiit: asi, mida esinemiseks vajame</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Osalejad</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Minu ülesanne on...&quot;, &quot;Mina tahaksin teha...&quot;</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Dekoratsioon",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Stsenograafia, makett ja rekvisiit.</li><li>Ehitame oma lava.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "valmistab esinemiseks rekvisiite.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujundab koostöiselt, või süveneb oma lemmik kujundustegevusse.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Maketist suureks dekoratsiooniks</li><li>Objektide suuruse ja valmistusviisi valimine</li><li>Kasutatava esinemiskoha loomine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Kujundus</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>paigaldamine, valmistamine, liigutamine, koristamine, säilitamine</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Etendus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Esinemine ja esinemispinge.</li><li>Mida sooviksid esinemisele lisada?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "saab esinemise kogemuse.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab edasiviivat tagasisidet.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutelu: &quot;Kus võiks seda esinemist veel etendada?&quot;</li><li>Etenduse kujuteldav täiendamine</li><li>Üllataviama momendi nimetamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Kohalolu</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>tänu, kummardus, plaksutamine, tähenduslik vaikus, raam</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "5. Vaimne tervis",
+      "children": [
+        { "kind": "text", "html": "<p>Aeg: 3-4 nädalat (jaanuar)</p>" },
+        {
+          "kind": "text",
+          "html": "<p>Kujund: <strong>looduseadus</strong></p>"
+        },
+        { "kind": "text", "html": "<p>Eesmärk: Eneshoolega tutvumine.</p>" }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tasakaal",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kuidas märkan, et olen pinges, mis ma siis teen?</li><li>Lõdvestus ja unisus on erinevad olekud.</li><li>Miks tegutseda tasakaalukalt?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "on teadlik, et kõik inimesed tajuvad pingelisi ja rahulikke aegu.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et äärmuslik tegutsemine võib olla ohtlik.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutelu:<ul><li>&quot;Millal on asjad tasakaalus?&quot;</li><li>&quot;Kuidas olen ise tasakaalus?&quot;</li><li>&quot;Mis tähendab tasakaalukas?&quot;</li><li>&quot;Mida saab tasakaalustada?&quot;</li></ul></li><li>Peeglimäng paaris</li><li>Üksteise toetamisega mängud</li><li>Tasakaaluasendite hoidmise võistlus</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Kangkaal</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>tasakaalustamine, tasa, kaal, sama</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Vastandid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kui olen aeglane, siis mis siis saab, kui olen veelgi aeglasem?</li><li>Kui olen kiire, siis mis saab, kui lähen veelgi kiiremaks?</li><li>Millal on kasulik olla ergas/rahulik?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb vastandeid väljendavaid sõnu.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Vastandite skaalade joonistamine</li><li>Skaalad ruumis ja seal ühised asetumised</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Magnet</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>kiire, ärev, elevil, hajevil, särisev, tuim, loid, aeglustunud, väga vaikne</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ärev ja loid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kuidas saab oma olemist muuta?</li><li>Vaimse tervise teema nt. sotsiaal-emotsionaalsus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "on teadlik, et vahel ollakse ärevil.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et loidus on raske, kuid ületatav.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab enda olekut.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutelud:<ul><li>&quot;Mis äratab meid tegudele?&quot;</li><li>&quot;Mis meid maandab?&quot;</li><li>Veel teemasid: <a href=\"https://peaasi.ee/\">https://peaasi.ee/</a></li></ul></li><li>Arutelude tulemuste joonistamine ja sõnavara leidmine</li><li>Äraarvamismäng</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Elektripirn</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Olen pinges.&quot;, &quot;Olen väga väsinud.&quot;, &quot;Mis sa arvad, kuidas ma ennast tunnen?&quot;, ärevus, loidus, väsimus, energilisus, energia, jõud, jaks</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Rahu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kuidas luua soovitud olukord (toitumine, uni, kehaline aktiivsus, jne)?</li><li>Sotsiaalne positsioon ja minu isiklik tähenduslikkus ehk kes ma olen?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab talle sobivaid rahunemisviise.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab koos klassikaaslastega rahunemisviise.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Vaikuse kuulamine</li><li>Peale tantsimist südame rütmi käelabadega tunnetamine</li><li>Joogaraamatute vaatamine</li><li>Meditatsioon paigal või aeglases liikumises</li><li>Rahunemiskaartide kasutamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Maa</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>muutumine, heatahtlikkus, sisemine rahu, rahulikkus</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "6. Aja lugu",
+      "children": [
+        { "kind": "text", "html": "<p>Aeg: 3-4 nädalat (veebruar)</p>" },
+        { "kind": "text", "html": "<p>Kujund: <strong>Eestimaa</strong></p>" },
+        {
+          "kind": "text",
+          "html": "<p>Eesmärk: Eestile iseloomulikuga tutvumine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti asi",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Missugused Eestis tehtud asjad on sul kodus?</li><li>Milleta Eestis hakkama ei saaks?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et erinevad riigid paistavad silma erinevate asjadega.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada Eestit iseloomustavaid asju ja tegevusi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kodus ringi vaatamine eesmärgiga leida eesti asi või ese &quot;Made in Estonia&quot; sildiga.</li><li>Arutelu: &quot;Milliseid asju või tegevusi leiab ainult ainult Eestist?&quot;</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Leib</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            { "kind": "text", "html": "<p>eesti asjade nimed ja nimetused</p>" }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti lugu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mida tahaksid välismaalt pärit sõbrale Eestist rääkida?</li><li>Kes on Kalevipoeg, Nukitsamees ja Toots?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab lühidalt tutvustada Eestit.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab tekstist viiteid lugude päritolu kohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "seostab eestile iseloomulikke tunnuseid Eestiga.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb levinumaid kohalikke tavasid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Endast palju nooremale/vanemale sõbrale Eesti elu tutvustamine.</li><li>Eesti kirjanike loominguga tutvumine</li><li>Eesti looduse kirjeldamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Saamislugu</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>eesti keel, eestlane, Eestimaa, Eesti, rahvus, riik, pealinn, järv, jõgi, laulupidu, kultuur</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Eesti minevik",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ekraniseering, raamat ja pilt eesti ajaloost</li><li>Eestimaa läbi aja</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "toob filmikultuurist pärinevaid näiteid Eesti kohta",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada sündmusi eestlaste minevikust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ühisvaatamiseks sobivate filmide otsimine</li><li>Koolikaaslaste küsitlemine</li><li>Arutelud:<ul><li>&quot;Kuidas elati siin 100 aastat tagasi?&quot;</li><li>&quot;Milline oli maailm siis, kui Eesti sündis&quot;</li></ul></li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Noor riik</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>Eesti Vabariik, iseseisvuspäev, ENSV, taasiseseisvumine, laulurahvas, president</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ajajoon",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Nähtav minevik ja tulevik.</li><li>Kui vana on Eesti riik?</li><li>Mis toimus siin 2000 aastat tagasi?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "suudab kanda sündmusi minevikust ja tulevikust ajajoonele",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tutvub Eesti jaoks märgiliste sündmustega",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ühisjoonistamine, mille käigus paigutatakse ajajoonele olulisi sündmusi minevikust ja kirjeldatakse soovitavat tulevikku</li><li>Arutelu: &quot;Mida võiks tuua Eestile tulevik?&quot;</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Visuaalne ajalugu</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [{ "kind": "text", "html": "<p>sündmused</p>" }]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "7. Koostöö partner",
+      "children": [
+        { "kind": "text", "html": "<p>Aeg: 4-5 nädalat (märts)</p>" },
+        { "kind": "text", "html": "<p>Kujund: <strong>ajaviide</strong></p>" },
+        {
+          "kind": "text",
+          "html": "<p>Eesmärk: Tutvumine koostöö võimalustega.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Tunnid mujal",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mis meid huvitab?</li><li>Ametikohad ja ametid.</li><li>Kuidas asutusele suunatud viisakat kirja kirjutada ja mida küsida?</li><li>Kellele saab/ei saa külla minna?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab lähikondsete ametinimetusi ja ametikohti.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab ennast ja enda huvi viisakalt tutvustada.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "käitub õppekäikudel lugupidavalt.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutelu: &quot;Kellena ja/või kus mu pereliikmed töötavad?&quot;</li><li>Pereliikme või -tuttava töökoha külastus.</li><li>Arutelu: &quot;Milliseid ameteid te teate?&quot;</li><li>Ameti läbimängimine klassiruumis (poemüüja, loomaarst, ajakirjanik jne)</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Amet</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Ma soovin tööle vaatlema tulla.&quot;, &quot;Millega seal tegeletakse?&quot;,</em> ametite nimetused</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kooliväline tegevus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Sõprade ja pereliikmete hobid.</li><li>Missugust harrastust sooviksime näha ja missugust kaasa teha?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et inimestel on erinevaid hobisid, mis neid ikka ja jälle köidavad.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "proovib uut tegevust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada erinevaid huvitegevusi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Huviharidusasutuse külastamine</li><li>Erinevate tegevuste nimetamine ja joonistamine</li><li>Jäljendamismängud äraarvamisega</li><li>Arutelu: &quot;Milliseid huviringe teame?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Hobi</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Mulle meeldib ka...&quot;, kalapüük, jalgrattasõit, joonistamine, laulmine, tantsimine.</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teave",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kuidas küsida, kui tahan teada, mida minu vestluskaaslane teab?</li><li>Kust leian oma küsimustele vastused?</li><li>Kuhu minna, kui soovin saada targemaks?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab viisakalt küsida huvipakkuva kohta.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "küsib vajadusel abi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Raamatukogu külastamine</li><li>Arutelud:<ul><li>&quot;Kes teab mu küsimusele vastust?&quot;</li><li>&quot;Mida teab internet?&quot;</li></ul></li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Õppimine</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>raamatud, ajakirjad, info, tarkus, &quot;Ma tahan teada saada (kelle?/mille?) kohta.&quot;</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kohustus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mõned asjad lihtsalt vajavad tegemist.</li><li>Miks ma pean?</li><li>Ka puhkamine on kohustus.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mida tähendab kohustus.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb enda kohustusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab otsida seoseid kohustuste ja nende olulisuse vahel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutelud:<ul><li>&quot;Meie kohustused&quot;</li><li>&quot;Miks pean vahepeal puhkama?&quot;</li><li>&quot;Ametid ja kohustused&quot;</li></ul></li><li>Mitme ameti koostöö läbimäng</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Töö</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Mis tööd sa teed?&quot;,&quot;Minu töö on õppida.&quot;, õppimine, mängimine, töötamine</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Külaline",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mida on keegi külaskäigul õppinud?</li><li>Külastustel on mitmeid eesmärke.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et eripaigus on käitumisnormid erinevad.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab käituda kohtades, mida igapäevaselt külastab.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutelu: &quot;Vinge külaskäik&quot;</li><li>Külaskäigu läbimäng</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Külaskäik</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>tervitamise sõnavara, &quot;Astuge sisse!&quot;, &quot;Kuidas läheb/käsi käib?&quot;</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "8. Käitumisnormid",
+      "children": [
+        { "kind": "text", "html": "<p>Aeg: 3-4 nädalat (aprill)</p>" },
+        { "kind": "text", "html": "<p>Kujund: <strong>koht</strong></p>" },
+        {
+          "kind": "text",
+          "html": "<p>Eesmärk: Eriliigilistes keskkondades kehtivate käitumisnormidega tutvumine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Erinevad kohad",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kas poel on nimi või nimetus?</li><li>Kuidas on kino/tänav/järv/jne oma nime saanud?</li><li>Kuidas on võimalik inimeste käitumise järgi aru saada, kus me oleme?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et elusolenditel, asjadel ja kohtadel võivad olla nimed ja nimetused.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kuidas eristada nimesid nimetustest.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab ja kirjutab talle tuttavaid nimesid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kõikide meenuvate kohtade nimetamine ja läbikirjutamine sõnavaramusse.</li><li>Mitmesuguste nimede üleskirjutamine ja liigitamine</li><li>Hüüdnimede töötuba</li><li>Paikadele nime andmine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Sild</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [{ "kind": "text", "html": "<p>kohtade nimed</p>" }]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Telefonivestlus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Kuidas peaksin alustama telefonivestlust?</li><li>Mida pean teadma, kui helistan numbril 112?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab vajadusel helistada kodustele ja oma õpetajale.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kuidas viisakalt inimeste poole pöörduda.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutelud:<ul><li>&quot;Kuidas sind hääle järgi sind ära tunnen?&quot;</li><li>&quot;Hädaolukord&quot;</li><li>&quot;Miks ja kuidas kellelegi helistan?&quot;</li></ul></li><li>Telefonivestluse läbimäng söbraga/hädaolukorras/küsimuse korral</li></ul>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.112.ee/et/hadaabinumber-112",
+              "title": "https://www.112.ee/et/hadaabinumber-112"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Telefon</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Ma soovin teada anda/saada,...&quot;, </em>tutvustamise sõnavara</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Internet",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mis mind digikeskkonnas huvitab?</li><li>Mida pean digikeskkonnas oskama?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "otsib, sirvib ja filtreerib eesmärgipäraselt infot.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "käitub digikeskkonnas turvaliselt.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Õpilase individuaalsust arvestades tegutsetakse <a href=\"https://digipadevus.ee/lok-digipadevusmudel/hindamiskriteeriumid/?fbclid=IwAR3LCU9hQCu3lFQ6Zgs8y4Y0DOAhwMfv1eXm7HZAkg6_fUHnYNq3Ok9Wbzc\" rel=\"nofollow\">Digipädevuse</a> lehele vastavalt</li><li>Arutelu: &quot;Kuidas internet mind aidata saab?&quot;</li><li>Põnevatele küsimustele vastuste otsimine üheskoos</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Arvuti</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [{ "kind": "text", "html": "<p>digisõnavara</p>" }]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kool",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Eriliigiliste keskkondade käitumisnormide võrdlemine kooli keskkonnaga</li><li>Mida tähendab normaalne?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb kooli käitumisnorme",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Arutelud: &quot;Mis on normaalne koolis?&quot;</li><li>Koolis igapäevaste olukordade kirjeldamine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Siin</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>&quot;Tavaliselt läheme sööma (millal?).&quot;, &quot;See on normaalne, et kool lõpeb...&quot;, vahetund, tunnid</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "9. Muutus",
+      "children": [
+        { "kind": "text", "html": "<p>Aeg: 4-5 nädalat</p>" },
+        { "kind": "text", "html": "<p>Kujund: <strong>loodus</strong></p>" },
+        {
+          "kind": "text",
+          "html": "<p>Eesmärk: Muutuste märkamine looduses</p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Loodus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Loodus on taas ärganud.</li><li>Uuel aastal uued tähelepanekud.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "on kogenud erinevaid looduslikke keskkondi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab väljasõidul sobilikke käitumistavasid.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Eripäraste loodusega kohtade külastamine</li><li>Uue (puud, lilled, linnud, putukad, loomad jne) nimetamine</li><li>Joonistamine looduses</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Rohelus</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>kuldnokk, tamm, mänd, maikelluke, sipelgas, liblikas, mesilane</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Ellujäämine",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Metsas viibimise tarkused on vajalikud ellujäämiseks.</li><li>Mida metsas teadma peab?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "tutvub ellujäämisoskustega.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "on kuulnud olulisemaid metsatarkusi.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "peab lugu loodusest ja selle elanikest.",
+          "outcomeType": "attitude"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Vanematega koos matkamise kirjeldamine, joonistamine</li><li>Ühise matka läbiviimine</li><li>Tähtsate tegevuste läbirääkimine ja võimalusel matkal läbiproovimine</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Oht</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>telkimine, lõkke tegemine, kalapüük, seente ja marjade korjamine, söödavate taimede tundmine, tulease</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Pagas",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Millised teadmised võtan kindlasti kaasa möödunud aastast?</li><li>Mida kaasa võtta, kui lähen uude kohta?</li><li>Mida võtan kaasa piknikule kuumal suvepäeval?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, mida võtta kaasa uude kohta.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "nimetab asju, mida looduses vaja võib minna.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "meenutab aasta suuremaid avastusi",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Ettevalmistused meeldivaks ajaviiteks</li><li>Ajaviide õues</li><li>Piknik</li><li>Arutelu: &quot;Minu värske teadmistepagas&quot;</li><li>Aasta parimad mängud</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Piknik</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>võileib, jook, puuvili, amps, korv, tekk, vesi, pall, kohver, seljakott</em></p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Suvemõtted",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Nädala teema kirjeldus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mida soovin sel suvel kindlasti teha?</li><li>Kuidas võiks mööduda minu tavaline suvine päev?</li><li>Milline oleks ideaalne suvi?</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "seab eesmärke suveks.",
+          "outcomeType": "skill"
+        },
+        { "kind": "outcome", "text": "teeb plaani.", "outcomeType": "skill" },
+        {
+          "kind": "section",
+          "title": "Soovituslikud tegevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Suviste mõtete kogu</li><li>Arutelu: &quot;Mitmekülgne suvi&quot;</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Võimalik seos kujundiga",
+          "children": [{ "kind": "text", "html": "<p>Päike</p>" }]
+        },
+        {
+          "kind": "section",
+          "title": "Sõnavara",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><em>ujumispüksid, trikoo, päevitamine, kuum, soe, vihmane, reis, puhkus, vabadus, laager</em></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Maailm Esimese maailmasõja eel",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "iseloomustab suurriikide arengujooni ja rolli muutumist rahvusvahelistes suhetes",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab suurriikide sõjalis-poliitilisi blokke ning analüüsib Antanti ja Kolmikliidu taotlusi",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb maailma poliitilist kaarti enne Esimest maailmasõda: näitab kaardil suurriikide sõjalistesse blokkidesse kuuluvaid riike, koloniaalimpeeriume",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab maailma majanduse arengujooni",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib teaduse ja tehnika mõju",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seletab ja kasutab kontekstis mõisteid imperialism, monopol, Antant, Kolmikliit",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Suurriikide arengujooni: poliitiliste süsteemide erinevused, Venemaa. Maailma majandus: teadusrevolutsioon, monopolid, kapitali eksport, vabaturumajandus ja protektsionism. Suurriikide liidud: kujunemise põhjused ja tagajärjed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>NB! Õpetajal on õigus ühe või teise õpitulemuseni jõudmiseks teha õpisisu tabelist valikuid lähtuvalt isiklikest erialastest eelistustest, õpilaste huvidest või kooli eripärast.</strong></p>"
+            },
+            {
+              "kind": "table",
+              "html": "<table><thead><tr><th>MAAILM ESIMESE MAAILMASÕJA EEL</th><th>ESIMENE MAAILMASÕDA, EESTI VABADUSSÕDA</th><th>MAAILMASÕDADE VAHELINE AEG: DEMOKRAATIAD JA DIKTATUURID</th><th>TEINE MAAILMASÕDA</th></tr></thead><tbody><tr><td><ul><li>Maailma poliitiline kaart enne Esimest maailmasõda (piirid Euroopas, koloniaalimpeeriumid).</li><li>Sõjalised liidud enne Esimest maailmasõda,</li><li>Teaduse ja tehnika areng enne esimest maailmasõda ning selle mõju inimeste igapäevaelule</li></ul></td><td><ul><li>Esimese maailmasõja põhjused, kulg ja tagajärjed (sh nii rahvusvaheliste suhete, majanduslike mõjude, tehnoloogia arengu kui ka ka inimeste igapäevaelu võtmes)</li><li>Eesti omariikluse sünni eeldused, sündmuste kulg 1917 - 1918.</li><li>Vabadussõja kulg, sh pöördelisemad sündmused.</li></ul></td><td><ul><li>Rahvusvahelised suhted 1920. - 1930. aastatel</li><li>Majandus 1920. - 1930. aastatel, sh näited riikidest (Eesti, Saksamaa, Ameerika Ühendriigid, Venemaa) ja maailmamajandus (sh Suur depressioon)</li><li>Demokraatiad ja diktatuurid 1920. - 1930. aastatel, diktatuuride tekkimise põhjused</li></ul></td><td><ul><li>Rahvusvahelised suhted Teise maailmasõja eel</li><li>Teise maailmasõja kulg, pöördelisemad sündmused</li><li>Sõda kui humanitaarkatastroof, inimsusevastased kuriteod</li></ul></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste seosed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>teab ajaloo perioode, neile iseloomulikke tunnuseid ja vaimulaadi ajaloolises arengus</strong></p><p><strong>analüüsib 20.–21. sajandi suurriikide arengujooni ja tähtsuse muutumist rahvusvahelistes suhetes</strong></p><p><strong>rekonstrueerib minevikus elanud inimese elu, arvestades ajastu eripära ning inimese sotsiaalset ja kultuuritausta, rakendades empaatiat</strong></p>"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab suurriikide arengujooni ja rolli muutumist rahvusvahelistes suhetes",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb maailma poliitilist kaarti enne Esimest maailmasõda: näitab kaardil suurriikide sõjalistesse blokkidesse kuuluvaid riike, koloniaalimpeeriume",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab maailma majanduse arengujooni",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib teaduse ja tehnika mõju inimeste eluolule",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Näiteid suurriikide siseelust (nt mõjukad isikud, majanduselu eripära, kultuurielu jms); suurriikide roll rahvusvahelistes suhetes, sh koloniaalpoliitikas: Venemaa, Suurbritannia, Prantsusmaa, Saksamaa, Austria-Ungari, Ameerika Ühendriigid.</p><p>Maailma majandus: teadusrevolutsioon, teaduse ja tehnika mõju inimeste igapäevaelule; monopolid, kapitali eksport, vabaturumajandus ja protektsionism. Suurriikide liidud: kujunemise põhjused ja tagajärjed.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Seoste loomine infoelementide vahel",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Harjutused infokildude meeldejätmiseks ning nendevahelisete seoste tekitamiseks.</p><p>Nt tarsia pusle <a href=\"https://www.tarsiamaker.co.uk/\">https://www.tarsiamaker.co.uk/</a></p><p>Diferentseerimise võimalused:</p><ul><li>vajadusel võib teha erisusi info mahus lähtuvalt õpilaste erivajadustest</li><li>LAK-õppe tugi: oluline on, et uued infokillud leiaksid võimalikult kiiresti tähenduslikku kasutust (eeskätt seostatud laused ja väljendid kas jutustuses vm aktiivses eneseväljendusvormis)</li></ul>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ajaloolise konteksti mõistmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Allegooriate kasutamine (nt “John Bull ja sõbrad” kaardi analüüs <a href=\"https://commons.wikimedia.org/wiki/File:John_Bull_and_his_Friends_1900.jpg\">https://commons.wikimedia.org/wiki/File:John_Bull_and_his_Friends_1900.jpg</a>).</p><p>Empaatiaharjutused (kaasaegsete fotode üksikasjalik analüüs; üksikisikute valikute mõtestamine ajaloolises kontekstis: tekstitöödena või ka foorumteatrina; nt Pariisi tänavavaade ca 1900 <a href=\"https://rb.gy/34032\">https://rb.gy/34032</a>, Berliini tänavavaade <a href=\"https://rb.gy/xk2gd\">https://rb.gy/xk2gd</a>; St Peterburi tänavavaade 1900 <a href=\"https://rb.gy/itsci\">https://rb.gy/itsci</a>).</p><p>Vaatlusülesanded ja järelduste tegemine pildiinfo põhjal inimeste igapäeva eluolu kohta ajas:</p><ul><li>inimesed - kui mugavad nende rõivad tunduvad, kuidas toimub riietumine, võimalik tarbimiskäitumine</li><li>logistika - millised on transpordivahendid, kuidas logistilised võimalused mõjutasid inimeste igapäevaelu liikumise valikuid</li></ul><p>Diferentseerimise võimalused: loovharjutused võimaldavad oma olemuselt diferentseerimist - erinevate õpivajadustega õpilased loovad lahendusi oma eeldustest lähtuvalt.</p><p>LAK-õppe tugi: varustada õpilased olulise sõnavaraga (nt lisada pildina, kirjalikult loendina või lubada kasutada Sõnaveebi). Oluline on, et etteantud sõnavara leiab kohe tähenduslikku kasutust.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Allikate analüüs, ajaloonarratiivi loomine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Esmate allikate põhjal (fotod, dokumendid, kaasaegsed artiklid) info hankimine, kriitiliste küsimuste küsimine (mida sain allikast teada, mille kohta tahaks küsida küsimusi, milline on allika usaldusväärsus, (vastukäivate) allikate analüüs mitmeperspektiivilisuse aspektist jne).</p><p>Nii esmaste kui ka teiseste allikate võrdlev analüüs (infokorje ülesanded - mida allikad räägivad; kuidas allikad üksteist toetavad või kuidas üksteisele vastu räägivad jne.; järelduste tegemiste ülesanded - mida võib allikate põhjal ühe või teise sündmuse kohta arvata).</p><p>Diferentseerimise võimalus:</p><ul><li>vajadusel teha õpilaste erivajadusest lähtuvalt erisused narratiivi loomise mahus ja allikate keerukuses</li><li>LAK-õppe tugi: võimalusel lisada visuaalsetele allikatele (fotod, plakatid, kunstiteosed jms) kujutatud objektidele juurde sõnad; kirjalike allikate puhul lisada vajadusel juurde oluline sõnavara, mis on kõige asjakohasem konkreetse allika kohta järelduste tegemisel (või lubada õpilastel kasutada Sõnaveebi)</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming, üldpädevused ja läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Lõiming geograafiaga:</strong></p><ul><li>ülesanded (võrdlus ja analüüs) statistiliste andmetega (majandusnäitajad, rahvastikuandmed jne) Saksamaa, Prantsusmaa, Suurbritannia ja Venemaa kohta</li><li>geograafiliste andmete (maavarad, looduslikud olud jms) analüüs seostatuna majanduse (sh tööstuse) arenguga</li><li>andmekorje kaasaja geograafilistelt kaartidelt võrreldes tänapäevaga - kestvate mõjude kohta hüpoteeside loomine ning vajadusel hüpoteeside kontrollimine miniuurimistöö vormis (piirid Euroopas ning koloniseeritavates piirkondades - keelekasutus, kultuurimõjud jms)</li></ul><p><strong>ÜLDPÄDEVUSED:</strong> sotsiaalne- ja kodanikupädevus: õpilased mõistavad Euroopa suurriikide vahelist dünaamikat, sh ka globaalses poliikas, analüüsides seda tunnustatud ühiskondlikke väärtuspõhimõtete pinnalt nii mineviku kontekstis kui ka tänapäeval</p><p><strong>LÄBIVAD TEEMAD:</strong> kultuurilne identiteet - teema aitab mõtestada kultuuri arengut mõjutava geopoliitilise keskkonna muutust</p><p>tehnoloogia ja innovatsioon - teema aitab mõtestada tehnoloogia arengut 20. saj. alguses ja selle mõju inimeste igapäevaelule</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18836-Maailm-Esimese-maailmasoja-eel",
+              "title": "Maailm Esimese maailmasõja eel"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamine, mis võimaldab teadmiste rakendamist:</p><ul><li>arutluse kirjutamine</li><li>väitlus (Väitlusõpik “Arutlev haridus” - vt Karl Popperi väitlusformaat)</li><li>küsimused allikate kohta</li></ul>"
+            },
+            {
+              "kind": "file",
+              "src": "https://media.voog.com/0000/0041/4838/files/arutlev_haridus_opik-1.pdf",
+              "title": "Väitlusõpik “Arutlev haridus”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Esimene maailmasõda",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "analüüsib Esimese maailmasõja põhjusi ning sõdivate poolte taotlusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib Esimese maailmasõja tagajärgi ja mõju maailma arengule",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib Eesti omariikluse saavutamise eeldusi ja protsessi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab Eesti Vabadussõja sündmusi ning kirjeldab sõja käiku kaardi alusel",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab Vabadussõja ja Tartu rahu tähendust Eesti Vabariigi kindlustumisel",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "seletab ja kasutab kontekstis mõisteid Veebruarirevolutsioon, autonoomia, Asutav Kogu, Landeswehr, Tartu rahu",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab, kes olid Nikolai II, Vladimir Lenin, Jaan Poska, Johan Laidoner ja Konstantin Päts, ning iseloomustab nende tegevust",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esimese maailmasõja põhjused. Sõdivad pooled ja tähtsamad sõjatandrid. Esimese maailmasõja tagajärjed: impeeriumide lagunemine, uute rahvusriikide sünd Euroopas, uus maailmakord ja Rahvasteliit. Eesti iseseisvumine: eeldused, iseseisvumine, Vabadussõda, Tartu rahu.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste seosed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>analüüsib 20.–21. sajandi suurriikide arengujooni ja tähtsuse muutumist rahvusvahelistes suhetes;</strong></p><p><strong>teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus;</strong></p><p><strong>analüüsib erinevatest perspektiividest kolonialismi majanduslikke, poliitilisi ja eetilisi aspekte, tuues välja koloniaalimpeeriumide tekke ja lagunemise põhjused</strong></p><p><strong>seostab Eesti ajalugu Euroopa ja maailma ajalooga, tuues esile erinevate ajalooperioodide eripära;</strong></p><p><strong>mõistab ajaloolise arengu järjepidevust Eestis, sealhulgas kodukoha ajaloo näitel ja Euroopa ajaloo kontekstis;</strong></p><p><strong>tõlgendab ajaloosündmusi allikatele tuginedes erinevast vaatenurgast;</strong></p><p><strong>rekonstrueerib minevikus elanud inimese elu, arvestades ajastu eripära ning inimese sotsiaalset ja kultuuritausta, rakendades empaatiat;</strong></p>"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib Esimese maailmasõja põhjusi ning sõdivate poolte taotlusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "näitab Euroopa kaardil territoriaalseid muutusi pärast Esimest maailmasõda",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib Esimese maailmasõja tagajärgi ja mõju rahvusvaheliste suhete dünaamikale ning Euroopa riikide ühiskonnaelule",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib Eesti omariikluse saavutamise eeldusi ja protsessi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab Eesti Vabadussõja sündmusi ning kirjeldab sõja käiku kaardi alusel",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab Vabadussõja ja Tartu rahu tähendust Eesti Vabariigi kindlustumisel",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "seletab ja kasutab kontekstis mõisteid Veebruarirevolutsioon, autonoomia, Asutav Kogu, Landeswehr, Tartu rahu",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab, kes olid Nikolai II, Vladimir Lenin, Jaan Poska, Johan Laidoner ja Konstantin Päts ning iseloomustab nende tegevust",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esimese maailmasõja põhjused. Sõdivad pooled ja tähtsamad sõjatandrid. Esimese maailmasõja mõju Euroopa ühiskonnaelule, sh kultuuri- ja vaimuelule; impeeriumide lagunemine, uute rahvusriikide sünd Euroopas, uus maailmakord ja Rahvasteliit. Eesti iseseisvumine: eeldused, iseseisvumine, Vabadussõda, Tartu rahu.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Seoste loomine infoelementide vahel",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Infootsing ajalooliselt kaardilt (sõjalised kaardid ajalooatlastest - sõjakäikude taktikaline analüüs võimalusel võrreldes muude allikatega; poliitilised kaardid - võrrelduna mõne teise perioodi kaardiga, territoriaalsete muutuste kirjeldamine ja nende muutuste põhjuste analüüs).</p><p>Kooli piirkonna Vabadussõja aegse looga tutvumine (mälestussambad, inimeste lood vm säilinud maamärgid ja allikad).</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ajaloolise konteksti mõistmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Empaatiaharjutuse mälestustega (nt millistele kogemustele ja väärtushinnangutele tuginevad mälestuste esitaja valikud; mõtestada need valikud läbi rollimängu -nt dialoogid jutustajaga, mille vastaspooleks on Vabadussõjas osaleja sõber, neutraalne isik (nt Ecuadori kohvikasvataja vms) ning vastaspoole esindaja (nt Punaarmee sõduri ema). Analüüsida inimeste valikuid erinevates rollides lähtudes nende taustast ning väärtushinnangutest ajas. <a href=\"https://vikerraadio.err.ee/788223/eesti-lugu-malestused-vabadussojast\">https://vikerraadio.err.ee/788223/eesti-lugu-malestused-vabadussojast</a></p><p>LAK-õppe tugi: võimaldada õpilastel kasutada sõnaveebi <a href=\"https://sonaveeb.ee/\">https://sonaveeb.ee/</a>. Anda õpilasele piisavalt aega lausete moodustamiseks.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Allikate analüüs, ajaloonarratiivi loomine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Rahvusarhiivi dokumendikogu <a href=\"https://www.ra.ee/ilmasoda/index.php/site/documents\">https://www.ra.ee/ilmasoda/index.php/site/documents</a></p><p>Allikate uurimine võib olla individuaalne töö, kus õpetaja on ette valmistanud allikainfot avavad abiküsimused kui ka grupitöö. Nt maailmakohviku formaadis, kus moodustatakse laudkonnad erinevate alateemade kaupa (vt ülal Rahvusarhiivi dokumendikogu alateemasid). Maailmakohviku laudkondades luuakse laudkondades allikate põhjal lugu Esimesest maailmasõjast, mida harjutuse lõpus üksteisele esitletakse ning võimalusel käivitatakse arutelu. Maailmakohviku tutvustus Vikipeedias: <a href=\"https://et.wikipedia.org/wiki/Maailmakohvik\">https://et.wikipedia.org/wiki/Maailmakohvik</a></p><p>LAK-õppe tugi: võimaldada õpilastel kasutada sõnaveebi ning sõltuvalt õpilase keeleoskuse tasemest vähendada tekstiallikate mahtu. Tekstiliste allikate puhul jälgida keele mõistetavust (st vältida murdekeelt või tekste, kus esineb palju vananenud sõnavara või väljendusviisi). Eelistada pildilisi allikaid, kuhu vajadusel lisada sõnu.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming, üldpädevused ja läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Lõiming geograafiaga:</strong> töö geograafiliste ja ajalooliste kaartitega - territoriaalsete muutuste jälgimine ja analüüs.</p><p><strong>Lõiming kirjandusega:</strong> Vabadussõda käsitlevad kirjandusteosed võrrelduna dokumentaalsete allikatega.</p><p><strong>ÜLDPÄDEVUSED:</strong> sotsiaalne- ja kodanikupädevus: õpilased mõistavad kodanike vastutust riigikaitses minevikus ja tänapäeval. Kultuuri- ja väärtuspädevus: õpilased mõistavad sõja katastroofilist olemust nii ühiskonnale, keskkonnale kui ka inimsaatustele.</p><p><strong>LÄBIVAD TEEMAD:</strong> väärtused ja kõlblus: teema aitab mõtestada inimeste moraalseid vastutuse võtmise valikuid sõjaoludes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://www.ra.ee/oppematerjal/keerdkaigud-eesti-iseseisvumine-1917-1920/?filters=age=gumnaasium",
+              "title": "Eesti iseseisvumine, Rahvusarhiivi näitus"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/17303-Samuel-P-Huntingtoni-essee-Tsivilisatsioonide-kokkuporge-Seminar",
+              "title": "Ülevaade Fukuyama ja Huntingtoni teooriatest"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/18841-Esimene-maailmasoda",
+              "title": "Esimene maailmasõda"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19066-Eesti-ja-Esimene-maailmasoda",
+              "title": "Eesti ja esimene maailmasõda"
+            },
+            {
+              "kind": "link",
+              "href": "https://diplomaatia.ee/maailmasoda-soda-mis-muutis-koike/",
+              "title": "Artikkel Esimese maailmasõja põhjustatud ühiskondlikest ja poliitilistest muutustest"
+            },
+            {
+              "kind": "link",
+              "href": "https://keeljakirjandus.ee/ee/archives/25278",
+              "title": "Artikkel Esimese maailmasõja mõjust Eesti kultuurile"
+            },
+            {
+              "kind": "file",
+              "src": "https://dspace.ut.ee/bitstream/handle/10062/51996/esse_liisi.pdf?sequence=1&isAllowed=y",
+              "title": "Väitekiri eesti sõduritest Esimeses maailmasõjas"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.kogumelugu.ee/sites/default/files/2020-08/Vabadussoda_tooleht.pdf",
+              "title": "Allikatöö “Kogu me lugu” Vabadussõjast"
+            },
+            {
+              "kind": "link",
+              "href": "https://esm.ee/ekspositsioon/virtuaalmuuseum/virtuaaltuurid",
+              "title": "Virtuaaltuur “Soomusrong Vabadus”"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ra.ee/ilmasoda/index.php/site/page?view=annotation_long",
+              "title": "Eestlased esimeses maailmasõjas, Rahvusarhiivi ühisloome algatus (eeldab VAUsse sisselogimist)"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisuloome.e-koolikott.ee/node/1968",
+              "title": "Ajarännakud Vabadussõjast ja Tartu rahust"
+            },
+            {
+              "kind": "link",
+              "href": "https://sisuloome.e-koolikott.ee/node/2199",
+              "title": "Ajarännakud Vabadussõjast ja Tartu rahust"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamine, mis võimaldab teadmiste rakendamist:</p><ul><li>arutluse kirjutamine</li><li>etteantud allikate põhjal järelduste tegemine ja nende põhjendamine</li><li>Oluliste isikute teemaline ristsõna (keskkond, kus saab teha ristsõna väljaprintimiseks) <a href=\"https://puzzlemaker.discoveryeducation.com/criss-cross\">https://puzzlemaker.discoveryeducation.com/criss-cross</a></li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Maailmasõdadevaheline aeg: demokraatia ja diktatuurid",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "analüüsib ja võrdleb rahvusvahelisi suhteid 1920. ja 1930. aastail ning teab muutuste põhjusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab ja iseloomustab rahvusvahelisi kriise: Kaug-Ida, Etioopia, Hispaania kodusõda",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab majanduse arengut maailmasõdadevahelisel perioodil ning selgitab majanduskriisi põhjusi ja mõju",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib ning võrdleb demokraatlikku ja diktatuurset ühiskonda",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib Eesti ühiskonna poliitilist arengut 1920. ja 1930. aastail, selgitab autoritarismi kujunemise põhjusi ja mõju ühiskonnale ning iseloomustab vaikivat ajastut",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seletab ja kasutab kontekstis mõisteid demokraatia, diktatuur, autoritarism, totalitarism, kommunism, NSVL, fašism, natsionaalsotsialism, Rahvasteliit, Versailles’ süsteem, vaikiv ajastu, parlamentarism, vabadussõjalased",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab, kes olid Jossif Stalin, Adolf Hitler, Benito Mussolini, Franklin D. Roosevelt, Konstantin Päts ja Jaan Tõnisson, ning iseloomustab nende tegevust.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Euroopa-kesksus ning rahvusvahelised suhted. Demokraatia levik. Demokraatia põhijooned Suurbritannia, Prantsusmaa ja USA näitel: poliitiline süsteem, majandus, ühiskonnaelu. Majanduskriis: põhjused, levik ja mõju, Roosevelti uus kurss. Autoritarism, totalitarism: fašism, natsionaalsotsialism, kommunism. Diktatuuride iseloomulikud jooned, eripärad ja levik: poliitiline süsteem, majandus, ühiskonnaelu. Uute konfliktide kujunemine, kriisikolded. Eesti tee demokraatialt autoritarismile: poliitiline süsteem, majandus, ühiskonnaelu.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste seosed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>toob näiteid suurriikide poliitilisest ja majanduslikust arengust ja koostööst eri ajastutel, selgitades koostöö eesmärke;</strong></p><p><strong>teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus;</strong></p><p><strong>seostab Eesti ajalugu Euroopa ja maailma ajalooga, tuues esile erinevate ajalooperioodide eripära;</strong></p><p><strong>toob näiteid ajaloost, kuidas üksikisiku valikud on muutnud arusaamasid ühiskonnas tervikuna või kitsamas valdkonnas;</strong></p><p><strong>analüüsib, millistest teguritest võisid olla mõjutatud inimeste ideoloogilised valikud;</strong></p><p><strong>toob näiteid demokraatia kujunemisloost;</strong></p><p><strong>võrdleb inimeste õigusi, kohustusi ja vabadusi demokraatlikus ühiskonnas ja diktatuuris ning kujundab oma seisukoha;</strong></p><p><strong>analüüsib demokraatia avaldumist ühiskonnaelus ja poliitikas uusajast tänapäevani;</strong></p><p><strong>analüüsib riikide poliitilist arengut 20. sajandil, kõrvutades demokraatlikku ja diktatuuriühiskonda;</strong></p>"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib allikatele tuginedes rahvusvahelisi suhteid 1920. ja 1930. aastail ning loob esile allikaandmete põhjal muutuste põhjused",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab allikatele tuginedes majanduse arengut maailmasõdadevahelisel perioodil ning selgitab majanduskriisi põhjusi ja mõju",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib ning võrdleb demokraatlikku ja diktatuurset ühiskonda inimeste ühiskondlike eneseteostusvõimaluste kaudu",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib Eesti ühiskonna poliitilist arengut 1920. ja 1930. aastail, selgitab autoritarismi kujunemise põhjusi ja mõju ühiskonnale ning iseloomustab vaikivat ajastut",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seletab ja kasutab kontekstis mõisteid demokraatia, diktatuur, autoritarism, totalitarism, kommunism, NSVL, fašism, natsionaalsotsialism, Rahvasteliit, Versailles’ süsteem, vaikiv ajastu, parlamentarism, vabadussõjalased",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab, kes olid Jossif Stalin, Adolf Hitler, Benito Mussolini, Franklin D. Roosevelt, Konstantin Päts ja Jaan Tõnisson, ning iseloomustab nende tegevust.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Euroopa-kesksus ning rahvusvahelised suhted. Demokraatia levik. Demokraatia põhijooned Suurbritannia, Prantsusmaa ja USA näitel: poliitiline süsteem, majandus, ühiskonnaelu. Majanduskriis: põhjused, levik ja mõju, Roosevelti uus kurss. Autoritarism, totalitarism: fašism, natsionaalsotsialism, kommunism. Diktatuuride iseloomulikud jooned, eripärad ja levik: poliitiline süsteem, majandus, ühiskonnaelu. Uute konfliktide kujunemine, kriisikolded. Eesti tee demokraatialt autoritarismile: poliitiline süsteem, majandus, ühiskonnaelu.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Seoste loomine infoelementide vahel",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Infokorje ajalooliselt kaardilt; infootsing veebist - andmekorje riikide ning rahvusvaheliste suhete kohta kohta 1920. ja 1930. aastatel ning andmepõhise viktoriini tegemine kaasõpilastele (nt Kahoot keskkonnas).</p><p>Temaatiliste mõistekaardite või selgitavate skeemide loomine, nt majanduskriisi põhjused, mõju ühiskonnale ja tagajärjed ning lahenduste otsimine riikides (sh Uus Kurss) või ka diktatuuride tekkimise põhjused Euroopa riikides 1930. aastatel jne. (nt MindMup keskkonnas <a href=\"https://app.mindmup.com/map/new\">https://app.mindmup.com/map/new</a>).</p><p>LAK-õppe tugi: võimaldada õpilastele sõnaveebi kasutamist; mõistekaardi koostamine toetab ka LAK-õppe eesmärke.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ajaloolise konteksti mõistmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Karikatuuride analüüs (nt raamatust Eero Medijainen &quot;Maailm prowintsionu peeglis&quot;; veebis on pildiotsinguga leitav valik Gori või Otto krusteni) karikatuure. Karikaturide analüüsimisel küsida järgnevaid küsimusi:</p><p>Mida märkad esimesena? Kirjelda, mida veel näed?<br>Kirjelda, mis toimub karikatuuril? Milliseid inimesi ja objekte on kujutatud? Kuidas need karikatuuril paiknevad ja kuidas need on teineteisega seotud?</p><p>Milline on karikatuuri füüsiline toimumispaik? Kas see paik on oluline?</p><p>Kas karikatuur on kujutatud realistlikult või groteskselt? Kui groteskselt, siis millega on liialdatud? Kas tunned ära sümbolid, kirjelda neid? Kas on kasutatud teksti? Kas tekstiline osa aitab lahti mõtestada sümboleid? Kas on detaile, mis annavad vihjeid karikatuuri ilmumisaja kohta? Kas karikatuuril on andmeid ilmumisaja kohta?</p><p>MIda veel märkad?</p><p>Kui karikatuuri tehnilised andmed on läbi uuritud, on järgmiseks ülesandeks analüüsida karikatuuri ajalookonteksti mõtestades järgnevate küsimuste abil:</p><p>Millisele sihtgrupile on karikatuur suunatud? Mis oli autori eesmärk karikatuuri luues? Millist perspektiivi karikatuur esindab? Milliseid emotsioone karikatuur tekitab? Kas need emotsioonid võisid olla samad ka karikatuuri kaasaegsel vaatajal? Kas on midagi, mis on jäetud karikatuuril kujutamata, aga mille kohta tahaks rohkem teada?</p><p>LAK-õppe tugi; karikatuuri on oma olemuselt tänuväärne LAK-õppe materjal; õpilase toetamiseks võib karikatuuridele kirjutada sõnu, mida õpilane saab analüüsis kasutada.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Allikate analüüs, ajaloonarratiivi loomine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Lisaks karikatuuridele on muid allikad õppetööks kasutamiseks publitseeritud väljaandes &quot;Tagasivaade minevikku - erinevad vaatenurgad&quot; (vt õppematerjalide loetelu).</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming, üldpädevused ja läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Geograafia:</strong> Euroopa riigid, Euroopa riikide kaart ning rahvastiku ja majandusandmete muutus 20. saj I poolel võrrelduna tänapäevaga.</p><p><strong>Ühiskonnaõpetus:</strong> demokraatia väärtustamine, ohud demokraatiale minevikukogemuse näitel.</p><p><strong>ÜLDPÄDEVUSED:</strong> sotsiaalne- ja kodanikupädevus: õpilased mõistavad kodaniku vastutust demokraatia säilimisel ühiskonnas. Kultuuri- ja väärtuspädevus: õpilane mõistab, kuidas mõjutavad demokraatia ja diktatuur ühiskonna vaimu- ja kultuurielu.</p><p><strong>LÄBIVAD TEEMAD:</strong> väärtused ja kõlblus: teema suunab õpilast mõistma, miks tuleb ühiskonnas hoida demokraatlikke väärtusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/1fsfz29A2u9vTr2TqCgVg1PD3I5IW-mSK/view",
+              "title": "Allikakogumik “Tagasivaade minevikku - erinevad vaatenurgad”"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19069-Maailmasodadevaheline-aeg-autoritarism-ja-totalitarism-diktatuuride-iseloomulikud-jooned",
+              "title": "Maailmasõdade vaheline aeg: demokraatiad ja diktatuurid, iseloomulikud jooned"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19072-Maailmasodadevaheline-aeg-demokraatlikud-riigid",
+              "title": "Maailmasõdade vaheline aeg: demokraatlikud riigid"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/16406-Diktatuuririikide-iseloomulikud-tunnused-ja-moisted",
+              "title": "Maailmasõdade vaheline aeg: diktatuuririigid"
+            },
+            {
+              "kind": "link",
+              "href": "https://arvamus.postimees.ee/4211579/ajaloolane-ka-vapsid-ise-pidasid-end-fasistideks",
+              "title": "Andres Adamsoni artikkel vapsidest"
+            },
+            {
+              "kind": "link",
+              "href": "https://epl.delfi.ee/artikkel/84710189/jaak-valge-rahvaalgatus-ja-vapsid-ei-ole-suudi-patsi-riigipoordes",
+              "title": "Jaak Valge artikkel vapsidest"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamine, mis võimaldab teadmiste rakendamist:</p><ul><li>arutluse kirjutamine</li><li>etteantud allikate põhjal järelduste tegemine ja nende põhjendamine</li><li>teadmiste rakendamist nõudev loovülesanne või/ ja rollimäng. Näiteks: ajastule iseloomuliku ajalehe või sotsiaalmeedia konto loomine vaadeldaval ajal elanud isikule, samuti tutvumis- või töökuulutuse loomine põhjendades selle sisu; -ajastule sobiva propagandapostri loomine põhjendades selle sisu</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Teine maailmasõda",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "analüüsib rahvusvahelisi suhteid Teise maailmasõja eel",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab Teise maailmasõja põhjusi ja tagajärgi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab sõjategevust kaardi järgi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab Hitleri-vastase koalitsiooni kujunemislugu",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib Teise maailmasõja mõju Eesti ajaloole",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab, kes olid Winston Churchil l, Charles de Gaulle, Dwight Eisenhower, Georgi Žukov, Johannes Vares ja Otto Tief, ning iseloomustab nende tegevust",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "seletab ja kasutab kontekstis mõisteid Anšluss, Müncheni konverents, MRP, baaside leping, okupatsioon, suvesõda, Atlandi harta, ÜRO",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teine maailmasõda kui Esimese maailmasõja jätk. Teise maailmasõja põhjused: Saksamaa, Nõukogude Liidu ja Jaapani agressiivne välispoliitika ning demokraatlike Lääneriikide lepituspoliitika nurjumine. Sõdivad pooled: Saksamaa ja tema liitlased. Hitleri-vastane koalitsioon ja selle kujunemine: Atlandi harta, Teherani, Jalta ja Potsdami konverentside tähtsus. Tähtsamad sõjatandrid ja lahingud: rinded, tähtsamaid lahingud (Pearl Harbor, Moskva, Midway, Stalingrad, Kursk, El-Alamein, Normandia dessant). Teise maailmasõja tulemuste vastuolulisus ja selle tagajärjed maailma poliitilisele, majanduslikule ja ideoloogilisele arengule. Eesti Teises maailmasõjas: iseseisvuse kaotamine, okupatsioonid, sõjakaotused ja -kahjud, sõja mõju inimeste elukäikudele. Pagulaskond.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste seosed",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>teab Euroopa ja maailma ajaloo pöördelisi sündmusi ja protsesse, mõistab nende tähtsust ja mõju ühiskonna arengus;</strong></p><p><strong>seostab Eesti ajalugu Euroopa ja maailma ajalooga, tuues esile erinevate ajalooperioodide eripära;</strong></p>"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib allikatele tuginedes rahvusvahelisi suhteid Teise maailmasõja eel",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "iseloomustab Teise maailmasõja põhjusi ja tagajärgi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib allikatele tuginedes Teist maailmasõda kui humanitaarkatastroofi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "analüüsib Teise maailmasõja mõju Eesti ajaloole",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teab, kes olid Winston Churchill, Charles de Gaulle, Dwight Eisenhower, Georgi Žukov, Johannes Vares ja Otto Tief, .kasutab kontekstis mõisteid Anšluss, Müncheni konverents, MRP, baaside leping, okupatsioon, holokaust, suvesõda, Atlandi harta, ÜRO",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja õppetegevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teise maailmasõja põhjused: Saksamaa, Nõukogude Liidu ja Jaapani agressiivne välispoliitika ning demokraatlike Lääneriikide lepituspoliitika nurjumine. Sõdivad pooled: Saksamaa ja tema liitlased. Hitleri-vastane koalitsioon ja selle kujunemine: Atlandi harta, Teherani, Jalta ja Potsdami konverentside tähtsus. Teise maailmasõja tulemuste vastuolulisus ja selle tagajärjed maailma poliitilisele, majanduslikule ja ideoloogilisele arengule. Eesti Teises maailmasõjas: iseseisvuse kaotamine, okupatsioonid, sõjakaotused ja -kahjud, sõja mõju inimeste elukäikudele. Pagulaskond.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Metoodilised soovitused",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Seoste loomine infoelementide vahel",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Töö ajaloolise kaartiga; sündmuste ajajoone tegemine (näiteks veebiprogrammiga <a href=\"http://timelinecurator.org/\">http://timelinecurator.org/</a>), Ajalugu Oskariga animatsioonid (väga detailitihedad ja sobivad ka gümnaasiumile) 1941 ja 1944.</p>"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=1TxtCe6U0Cg"
+                },
+                {
+                  "kind": "video",
+                  "src": "https://www.youtube.com/watch?v=7qw_OKlMP5I"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>LAK-õppe tugi: veebis tekstidega töötades saavad õpilased kasutada sõnaveebi abi. Ajalugu Oskariga videoklippide tekstid on kuni B1 (kaasa arvatud) keeletasemega õpilastele rasked ja siin tuleb varuda rohkem aega - anda õpilastele lühikesed klipid, selekteerida välja tundmatud sõnad (võimalusel panna need kohe kasutusse moodustades lauseid) ning aidata uutel sõnadel luua tähenduslikke seoseid pildilise info abil.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Ajaloolise konteksti mõistmine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Teise maailmasõja ajast on hulgaliselt saadaval mälestusi. Eesti keelde on publitseeritud allikaid holokaustist; &quot;Kogu me lugu&quot; algatuse raames on kogutud mälestusi sõjaaegsetest üleelamistest Eestis (vt viiteid kogumikele õppematerjalide lahtris). Oluline on, et traagilistele sündmustele pööratakse tähelepanu delikaatselt, et need oma raskuses ei traumeeriks õpilast ning ei peletaks inimsusevastaste tegude käsitlemiselt eemale.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Allikate analüüs, ajaloonarratiivi loomine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Peamine fookus II maailmasõja sündmuste käsitlemisel, sh ka allikaanalüüsis on lähtuvalt sotsiaalainevaldkonlikest pädevustest ning Eesti üldhariduskooli alusväärtustest sõjal kui humanitaarkatastroofil ning inimsusevastastel tegudel. Kasutates õppematerjalide loetelus esitletud mälestuste kogumikke on võimalik lisaks ajalooalaste jutustutse loomistele mõtestada lahti ka minevikusündmuste õppetunnid tänastele keerulistele valikutele.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming, üldpädevused ja läbivad teemad",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Ühiskonnaõpetus:</strong> sõda ja rahu - inimkonna valikud inimsusevastaste tegude vältimisel; inimsusevastaste tegude anatoomia.</p><p><strong>Riigikaitseõpetus:</strong> kodanikukaitse ja riigikaitse - inimeste asjatundlikud ja väärikad valikud sõjaolukorras; sõjapidamise viisid.</p><p><strong>ÜLDPÄDEVUSED:</strong> sotsiaalne- ja kodanikupädevus: kodaniku vastutus rahuühiskonna tagamisel.</p><p><strong>LÄBIVAD TEEMAD:</strong> väärtused ja kõlblus: teema aitab õpilasel mõtestada väärtusi, mis aitavad hoida rahuühiskonda ning vältida sõda.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppematerjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/1Wsbd6t4mD62CUuksh937pTRHZTOZGaQg/view",
+              "title": "Allikakogumik holokaustist"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.kogumelugu.ee/et/oppematerjalid",
+              "title": "Holokaustiteemalised õppematerjalid “Kogu me lugu” veebilehel"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppematerjal/19093-Teine-maailmasoda",
+              "title": "Teine maailmasõda"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.ajaloomuuseum.ee/naitused/virtuaalnaitused/videoloeng-ii-maailmasoja-relvastusest",
+              "title": "Ajaloomuuseumi videoloeng Teise maailmasõja relvastusest"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/file/d/1mi32Q-PxMZJMxWFO9wdldioX6EagqjSC/view",
+              "title": "Rollimängud kogumikus lk 127 “Psühhodraamametodid ajaloo- ja ühiskonnaõpetuses”"
+            },
+            {
+              "kind": "file",
+              "src": "https://www.kogumelugu.ee/sites/default/files/2019-12/Kommunistlike_reziimide_kuritegudest.pdf",
+              "title": "NSV Liidu kuriteod II Maailmasõja ajal okupeeritud aladel"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.kogumelugu.ee/et/node/1340",
+              "title": "Kogumik allikaid “Kogu me lugu” veebilehelt eestlaste valikutest II Maailmasõjas"
+            },
+            {
+              "kind": "link",
+              "href": "https://naitused.humanrightsestonia.ee/anne-franki-naitus/",
+              "title": "Tellitav Anne Franki näitus Inimõiguste Instituudist"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hindamine, mis võimaldab teadmiste rakendamist:</p><ul><li>arutluse kirjutamine</li><li>etteantud allikate põhjal järelduste tegemine ja nende põhjendamine</li></ul>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

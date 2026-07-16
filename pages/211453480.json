@@ -1,0 +1,329 @@
+{
+  "content": [
+    {
+      "kind": "topic",
+      "title": "Suuline keelekasutus (kuulamine, kõnelemine)",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "eristab häälikuid (asukoht ja järjekord sõnas), täishääliku pikkusi;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "toimib õpetaja ja kaaslase suulise juhendi järgi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kuulab õpetaja ja kaaslase esituses lühikest eakohast teksti, mõistab kuuldud lause, jutu sisu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et sõnadel on lähedase või vastandtähendusega sõna ja nimetab neist mõningaid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väljendab end suhtlusolukordades arusaadavalt: palub, küsib, tänab, vabandab;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "jutustab suunavate küsimuste toel kuuldust, nähtust, loetust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab õpetaja abiga pildiseeria või küsimuste toel suulise jutu,",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "esitab luuletust peast;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Suuline keelekasutus",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Kuulamine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Helide, häälte ja häälikute eristamine (asukoht ja järjekord sõnas), hääliku pikkuse eristamine, põhirõhk täishääliku pikkusel.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Õpetaja ja kaaslase kuulamine ning suulise juhendi järgi toimimine. Õpetaja ja kaaslase ettelugemise kuulamine. Kuuldu ja nähtu kommenteerimine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kõnelemine",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Hääldus- ja intonatsiooniharjutused. Häälduse harjutamine, hääle tugevuse kohandamine olukorrale.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Töö lähedase tähendusega sõnaga, sõnatähenduse selgitamine ja täpsustamine.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Sobivate kõnetuste (palumine, küsimine, keeldumine, vabandust palumine, tänamine) valik suhtlemisel.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Lihtlauseliste küsimuste moodustamine, küsimuste esitamine ja neile vastamine.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Eri teemadel vestlemine sõnavara rikastamiseks, arutamine paaris ja väikeses rühmas.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Esemete, nähtuste, tegelaste jms võrdlemine, ühe-kahe tunnuse alusel rühmitamine.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Eneseväljendus dramatiseeringus ja rollimängus.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Jutustamine kuulatu, nähtu, läbielatu, loetu, pildi, pildiseeria, etteantud teema põhjal; aheljutustamine.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Klassiga ühiselt kogetud sündmuste vahendamine jutustades: jutustamine eri rollides. Pantomiim-mõistatused tuttavate juttude kohta.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Tuttava luuletuse, dialoogi peast esitamine.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Lugemine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "tunneb häälik-tähelist vastavust, loeb õpitud teksti enam-vähem ladusalt, lausehaaval üksiku peatusega raskema sõna ees oma kõnetempos või sellest aeglasemalt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab häälega või endamisi (vaikse häälega või huuli liigutades) lugedes loetu sisu;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "vastab teksti kohta käivatele küsimustele, mille vastused on palas otsesõnu öeldud;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõtleb jutule alguse või lõpu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "on lugenud mõnda lasteraamatut, nimetab nende pealkirja ja autoreid, annab loetule emotsionaalse hinnangu (lõbus, tõsine, igav …);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Lugemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Raamatu/teksti üldine vaatlus: teksti paigutus, sisukord, õppeülesannete esitus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Trükitähtede (nii suurte kui väikeste) tundma õppimine. Tähtedest sõnade ja sõnadest lausete lugemine. Silpidest sõnade moodustamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Lugemistehnika arendamine õpetaja juhendite järgi (õige hääldus, ladusus, pausid, intonatsioon, tempo, oma lugemisvea parandamine, kui sellele tähelepanu juhitakse). Lugemistehniliselt raskete sõnade ja sõnaühendite lugema õppimine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Oma ja õpetaja käekirjalise teksti lugemine klassitahvlilt ja vihikust.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Jutustava ja kirjeldava teksti ning teabeteksti (õpilaspäevik, kutse, õnnitlus, saatekava, tööjuhend, raamatu sisukord) lugemine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Sõna, lause, teksti sisu mõistmine. Teksti sisu ennustamine pealkirja, piltide, üksiksõnade jm alusel. Loole lõpu mõtlemine. Tegelaste iseloomustamine. Küsimustele vastamine, millele vastus on tekstis otsesõnu kirjas.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Üksikute tingmärkide (õppekirjanduse tingmärgid), skeemide, kaartide lugemine õppekirjanduses, nende tähenduse tabamine.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Luuletuste ilmekas (mõtestatud) lugemine. Riimuvate sõnade leidmine õpetaja abiga.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Tekstiliikide eristamine: jutt, muinasjutt, luuletus, mõistatus.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kirjandustekstid: liisusalm, muinasjutt, mõistatus, luuletus, piltjutt, vanasõna, jutustus, näidend.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Loetud raamatu autori, kunstniku (illustraatori), tegelaste nimetamine, loetust jutustamine. Loetule emotsionaalse hinnangu andmine (lõbus, tõsine, igav jne).</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Huvipakkuva raamatu leidmine kooli või kodukoha raamatukogust täiskasvanu abiga.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Kirjutamine",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab õigeid kirjutamisvõtteid, teab, kuidas väikesi ja suuri kirjatähti kirjutatakse ning sõnas õigesti seostatakse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab tahvlilt ära;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "täidab tahvlinäidise järgi õpetaja abiga õpilaspäevikut, paigutab näidise järgi tööd vihikulehele, varustab töö kuupäevaga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab näidise järgi kutse;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab häälikut, tähte, täis- ja kaashäälikut, sõna, lauset;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab omasõnade algusesse k, p, t;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab õigesti lühemaid (kuni 2-silbilisi) sõnu ja lauseid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et lause lõpeb punktiga;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, et lause alguses, inimeste, loomade, oma kodukoha nimes kasutatakse suurt algustähte;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjutab õigesti oma nime.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Kirjutamine",
+          "children": [
+            {
+              "kind": "section",
+              "title": "Kirjatehnika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Kirja eelharjutused. Kirjutamine pliiatsi ja kriidiga, joonistähtede kirjutamine. Õige pliiatsihoid ja kirjutamisasend istudes ja seistes (tahvli juures). Väikeste kirjatähtede õppimine. Suurte kirjatähtede õppimine (vajadusel 2.klassis). Tähtede seostamine.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Tahvlile, vihikusse ja õpilaspäevikusse kirjutamine. Töö vormistamine näidise järgi, töö puhtus, käekirja loetavus. Teksti ärakiri tahvlilt, õpikust.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Kirjalik tekstiloome",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tarbeteksti kirjutamine näidise järgi: kutse, õnnitlus (kujundamine näidise järgi).</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Jutu kirjutamine pilditäiendusena (pildi allkiri, kahekõne jms). Jutule lõpu kirjutamine. Loovtöö kirjutamine (pildi, pildiseeria, küsimuste järgi). Lünkümberjutustuse kirjutamine.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Õigekeelsus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Häälik, sõna, lause, tekst. Tähed ja tähestik, võõrtähtede vaatlus. Häälikute märkimine kirjas. Sõna ja lause ladumine ja kirjutamine.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Täis- ja kaashäälikud. Täishäälikuühendi vaatlus. Täishääliku pikkuse eristamine ja õigekiri, kaashääliku pikkusega tutvumine. Sulghäälik (k, p, t) omasõnade alguses. <em>i</em> ja <em>j</em> ning <em>h</em> sõna alguses seoses tähtede õppimisega.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Suur algustäht lause alguses, inimese- ja loomanimedes.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Liitsõna vaatlus (moodustamine).</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Sõnade lõpu õigekiri, <em>-d</em> ja <em>-vad</em> (mitmus) ning <em>-b</em> (tegusõna 3. pööre) õigekirjaga tutvumine.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvumine jutustava (väit-), küsi- ja hüüdlausega. Lause lõpumärgid: punkt, (küsi- ja hüüumärgi vaatlemine). Koma lauses (teksti vaatlus).</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Oma kirjutusvea parandamine õpetaja abiga.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Etteütlemise järgi sõnade ja lausete kirjutamine (15–20 sõna lihtlausetena).</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

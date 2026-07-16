@@ -1,0 +1,485 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Informaatika on arvutiteadusel põhinev õppeaine, mis kuulub valikainena põhikooli õppekavas tehnoloogia ainevaldkonda. Põhirõhk on praktilisel tehnoloogia kasutusel. Seda on soovitav pakkuda III kooliastmes õpilastele vähemalt 35 tunni mahus. Informaatika ainekäsitus on tavapäraselt kontsentriline: varem õpitu juurde tullakse igas järgmises kooliastmes laiendatud ja täiendatud kujul tagasi.</p><p>See ainekava on mõeldud õpetajatele, kes soovivad pakkuda informaatikat valikainena III kooliastmes. Ainekava kirjeldab informaatika valikaine eesmärke, sisu, õpiväljundeid, õppeprotsessi korraldamist ja hindamist. Ainekava põhineb riiklikul õppekaval ja arvestab III kooliastme üldpädevuste ning lõiminguvõimalustega teiste ainetega. Rakenduskava on paindlik ja võimaldab õpetajal kohandada informaatika õpetamist vastavalt oma kooli ja õpilaste vajadustele ja huvidele.</p><p>III kooliastmes on informaatika õppimise eesmärgiks õpi- ja töökeskkonna kujundamiseks vajalike info- ja kommunikatsioonivahendite rakendamise oskuste omandamine, mis võimaldaks põhikooli lõpetajal teha samme IKT-valdkonna karjääri suunal või toetaksid innovaatiliste lahenduste leidmist ning rakendamist teistes valdkondades.</p><p>Informaatika õpetamise põhimõtted põhikoolis on:</p><ul><li>elulähedus;</li><li>aktiivõpe ja loovus;</li><li>uuenduslikkus;</li><li>koostöö;</li><li>teadmusloome;</li><li>vaba tarkvara ja avatud sisu, sõltumatus tarkvaratootjast;</li><li>turvalisus;</li><li>lõimitus ja sidusus.</li></ul><p>Põhikooli informaatikaõppe sisu koosneb üldistatult kahest komponendist, mille omavahelist tasakaalustamist ainekavaga taotletakse:</p>"
+        },
+        {
+          "kind": "section",
+          "title": "raalmõtlemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>eluliste ülesannete lahendamise viis, mille puhul kasutatakse algoritmide tundmist ja rakendamist, mustrite tuvastamist, probleemi osadeks jaotamist ja üldistamist;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "disainmõtlemine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>kasutajakeskne, loov ja koostöine eluliste ülesannete lahendamise viis, sh probleemi määratlemine, vajaduste võrdlemine, mõtlemine, ehitamine ja katsetamine.</p><p>III kooliastmes õpetatakse informaatikat valikainena “Infoühiskonna tehnoloogiad” ja/või digiloovtöö formaadis, milles praktilise rühmatöö-projekti käigus õpitakse rakendama informaatika teadmisi elulise probleemi lahendamiseks. Digiloovtöö väljundid on seotud nt animatsiooni, küberturvalisuse, veebidisaini, asjade interneti, robootika, liitreaalsuse või tarkvara prototüübi loomisega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "III kooliastmes informaatika õpet kavandades ja korraldades:",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>lähtutakse õppekava alusväärtustest, üldpädevustest, õppeaine eesmärkidest, õppesisust ja oodatavatest õpitulemustest ning toetatakse lõimingut teiste õppeainete ja läbivate teemadega;</li><li>jälgitakse, et õpilase õpikoormus (sh kodutööde maht) on mõõdukas;</li><li>võimaldatakse õppida üksi ning üheskoos teistega, et toetada õpilaste kujunemist aktiivseteks ning iseseisvateks õppijateks;</li><li>kasutatakse diferentseeritud õppeülesandeid, mille sisu ja raskusaste toetavad individualiseeritud käsitlust ning suurendavad õpimotivatsiooni;</li><li>rakendatakse nüüdisaegseid õpikeskkondi ning õppematerjale ja -vahendeid;</li><li>laiendatakse õpikeskkonda: veebipõhine personaalne õpikeskkond, arvutiklass, kooliõu, muuseumid, näitused, ettevõtted jne;</li><li>tagatakse, et õppe vältel õpitakse headest tavadest lähtuvat veebikäitumist, sealhulgas virtuaalsetes võrgustikes ning ametlikke infosüsteeme (e-kool, e-õppekeskkond, kooli ja omavalitsuse koduleht) kasutades.</li></ol><p>Informaatika õppetegevust kavandades on võimalik kasutada erinevaid lähenemisi:</p><ul><li><strong>õpetada informaatika teemasid eraldi õppeainetena.</strong> Kool valib ühe õppeteema ja õpetab seda ühes klassis täies mahus eraldiseisva 35-tunnise õppeainena (nt üks tund nädalas terve õppeaasta jooksul). Terviklik lähenemine võimaldab põhjalikumat käsitlust ja kõigi taotletavate õpitulemuste saavutamist.</li><li><strong>kombineerida mitme õppeteema osadest oma informaatika õppeaine.</strong> Kool valib õppeteemade hulgast endale sobilikud elemendid, millest kombineeritakse oma loodud õppeaine/kursus. Näiteks I kooliastmes rakendatakse 35-tunnine informaatika valikõppeaine, milles on elemente nii digitaalsest ohutusest, digimeediast kui ka programmeerimisest ja robootikast. Õpilased saavad igast õppeteemast põgusa ülevaate ja saavutavad valitud õpitulemused.</li><li><strong>informaatika õppeteemade lõimimine eri õppeainete tundidesse.</strong> Kool lõimib õppeteemade elemente eri ainete õpetusse (nt kunst, tööõpetus, matemaatika). Selline lahendus suunab aineõpetajaid ja IT-spetsialiste tegema enam koostööd, et saavutada taotletavad õpitulemused.</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamise põhimõtted",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>III kooliastme informaatika tundides õpilasi hinnates lähtutakse vastavatest põhikooli riikliku õppekava üldosa sätetest. Informaatika õpitulemuste saavutatuse kohta antakse õpilasele tagasisidet õppeprotsessi käigus lähtudes õpilase õpiülesannetest. Kokkuvõtvalt hinnatakse kursuse lõpus. Õpiülesanded võivad olla tehtud kas üksi või rühmatööna. Hindamiskriteeriumid kirjeldatakse ära kooli õppekavas.</p><p>Soovitavalt hinnatakse informaatikaõppes:</p><ol><li>õppe plaanipärasust, loomingulisust ja ratsionaalsust;</li><li>õppekavas ettenähtud õpitulemuste saavutamist ning seonduvate pädevuste olemasolu veenvat tõendamist;</li><li>loodud materjalide tehnilist teostust, esteetilisust ja originaalsust;</li><li>õpilasepoolset praktilise tegevuse mõtestamist;</li><li>õpilase isiklikku arengut kursuse jooksul.</li></ol>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "kasutab eesmärgipäraselt kooli, raamatukogu, kohaliku omavalitsuse ja riigi e-teenuseid ning ühismeedia teenuseid, järgides seejuures digiohutuse nõudeid;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujundab personaalse õpikeskkonna, kasutades tasuta veebiplatvorme ja rakendusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab uute tehnoloogiate (nt asjade internet, 3D, liit- ja virtuaalreaalsus) toimimist ja olulisust ühiskonnas;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "panustab meeskonnaliikmena digitaalse loovtöö teostamisse (nt. robootika, asjade interneti, veebisaidi, animatsiooni vmt kujul) kas programmeerija, disaineri, stsenaristi, kunstniku vm rollis;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab digitehnoloogia mõju nii keskkonnale kui ka meie füüsilisele ja vaimsele tervisele;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "haldab ja kaitseb oma digitaalset identiteeti, väldib kübermaailmas valitsevaid riske, kuid ohtude realiseerumisel reageerib neile adekvaatselt.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Infoühiskonna tehnoloogiad",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Teema &quot;Infoühiskonna tehnoloogiad&quot; on oluline osa Eesti põhikooli III astme informaatika uuest õppekavast. Õpilased omandavad mitmekülgseid oskusi ja teadmisi, mis valmistavad neid ette tänapäevase digimaailma väljakutsetega toimetulekuks ning tuleviku IKT-valdkonna karjääriks. Õppekava keskmes on arusaam infoühiskonna toimimisest ja Eesti e-riigi teenustest. Õpilased õpivad kasutama veebipõhiseid koostöö keskkondi turvaliselt ning loovad enda virtuaalse õpikeskkonna, kus reflekteerivad oma õpikogemust. Lisaks arendavad nad sisuloome oskusi, lähtudes intellektuaalomandi kaitsest ning taaskasutamise põhimõtetest. Oluline on ka digitaalse identiteedi kujundamine ja kaitse, samuti teadlikkus turvalisest ja eetilisest internetis käitumisest ning küberohtudest. Õpilased saavad tutvuda tehisintellekti ja asjade interneti rakendustega erinevates valdkondades ning õppida kasutama ava- ja suurandmeid. Karjäärivõimaluste tutvustamine IKT-valdkonnas ning digiloovtöö kaudu praktilise kogemuse saamine on samuti oluline osa õppekavast. Kokkuvõttes valmistab uus õppekava õpilasi ette digimaailma väljakutsetega toimetulekuks, tugevdades nende digioskusi, teadlikkust ning valmisolekut tuleviku IKT-valdkonna karjääriks.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab infoühiskonna ja riiklike e-teenuste toimimist Eestis;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab etteantud või enda valitud veebipõhist koostöökeskkonda sihipäraselt ja turvaliselt: liitub, valib turvalise salasõna, loob kasutaja profiili ning lisab materjale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob veebipõhise personaalse õpikeskkonna (nt e-portfoolio) ja reflekteerib selles oma õpikogemust;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob, kohandab ja avaldab digitaalseid õppematerjale (sh 3D, liit- või virtuaalreaalsuse tehnoloogiate abil) intellektuaalomandi kaitse headest tavadest ja taaskasutatava sisu litsentsi tingimustest lähtudes;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab eesmärgipäraselt kooli, kohaliku omavalitsuse ja riigi pakutavaid infosüsteeme ning ühismeedia platvorme;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab tehisintellekti ja asjade interneti rakendusviise majanduses, avalikus sektoris, hariduses ja sellega kaasnevaid võimalikke ohtusid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab ava- ja suurandmete olulisust ja rakendusviise;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kujundab ja kaitseb enda digitaalset identiteeti, väldib kübermaailmas valitsevaid ohtusid, kuid nende ilmnemisel reageerib adekvaatselt;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab nimetada erinevaid IKT-ameteid, oskab kirjeldada, mida antud ametis tehakse ja teab, missuguseid eeldusi on vaja, et antud ametites töötada.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "LÕIMING TEISTE AINETEGA",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema “Infoühiskonna tehnoloogiad” on kergesti lõimitav kõigi teiste õppeainetega, kuna info- ja kommunikatsioonitehnoloogia moodustab loomuliku osa tänapäevasest õpikeskkonnast. See lõiming toimub mõlemal suunal: ühelt poolt kasutatakse informaatika õppeülesandeid koostades teiste õppeainete teemasid, et luua mõtestatud õppimine, ning teiselt poolt lõimitakse tehnoloogiat ja innovatsiooni läbiva teemana teistesse õppeainetesse. Infoühiskonna tehnoloogiate teemat võib edukalt lõimida erinevate ainetega, näiteks <strong>ühiskonnaõpetuse tundides</strong>, võivad õpilased koos õpetajaga avastada e-teenuste maailma, või tutvuda <strong>inimeseõpetuse ja ühiskonnaõpetuse tundides</strong> IT-valdkonna erinevate ametitega ja karjääri võimalustega. <strong>Matemaatikas</strong> avastada ava- ja suurandmete olemust ning seda, kuidas neid saaks rakendada igapäevaelus otsuste langetamisel.</p><p><strong>Inimeseõpetuse tundides</strong> saab pöörata tähelepanu turvalise ja eetilise interneti-käitumise aluste tutvustamisele ning interneti kasutamisele suhtluskeskkonnana.</p><p><strong>Kunstiõpetuse ja muusika tundides</strong> võibid õpilased õpetaja juhendamisel avastada sisuloomist ja taaskasutamist tehnoloogiliste vahendite abil.</p><p>Personaalse õpikeskkonna loomist võib läbivalt lõimida kõikide ainetega, tutvustades õpilastele aineõpet toetavaid ainespetsiifilisi programme ja rakendusi.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÜLDPÄDEVUSTE KUJUNDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Üldpädevuste kujundamiseks III kooliastme informaatika “Infoühiskonna tehnoloogiate” teema puhul võib leida mitmeid võimalusi nii näiteks <strong>kultuuri- ja väärtuspädevuse</strong> kujundamisel võib rääkida interneti suhtluse kultuurist, väärtustest, käitumisest.</p><p><strong>Sotsiaalse ja kodanikupädevuse</strong> kujundamise fookuses informaatika kaudu on õpilastele e-riigi võimaluste tutvustamine: nt e-hääletamine, e-isikutuvastus vahendid, kodaniku õigused ja kohustused internetis.</p><p><strong>Enesemääratluspädevuse</strong> kujundamisel tuleks tähelepanu pöörata õpilase vastutuse ja sobiva rollivaliku arendamisele, et õpilane suudaks ennast määratleda kas rühma liikmena, kes panustab ühisesse tulemusel või rühma juhina, kes korraldab ja kavandab kaasõpilaste samme ja juhendab neid.</p><p><strong>Matemaatika-, loodusteaduste ja tehnoloogiaalane pädevuse</strong> arendamiseks kõige paremini sobivad erinevad aineülesed, interdistsiplinaarsed tegevused ja võimalused nt: digilabori või digiandurite abil andmete lugemine ja nende analüüs ja interpreteerimine. Erinevate seadmete ühendamine, sünkroonimine nt: digilaborist/andurist andmete ülekanne arvutisse, lihtsamate graafikute tulp- ja ringdiagrammide koostamine arvutil ja nende tõlgendamine.</p><p><strong>Ettevõtlikkuspädevuste</strong> arendamiseks õpilastele võib tutvustada vahendeid ja võtteid, mis aitaksid neid oma ideid ellu viia nt: to-do listide koostamine ja haldamine, Kanban jms.</p><p>Kuna <strong>digipädevus</strong> ja informaatika asuvad üsna lähestiku, siis võib eeldada, et digipädevus areneb koos informaatika alaste teadmiste omandamisega, selleks et võimestada õpilaste digipädevuste arengut informaatika tundides võib rohkem tähelepanu pöörata digiohutusele, usaldusväärse info hankimise võimalustele, sisuloomele jms.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LÄBIVATE TEEMADE KÄSITLUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Elukestva õpe ja karjääriplaneerimise</strong> läbiva teema käsitlemisel võib tähelepanu pöörata “Infoühiskonna tehnoloogiate” teemaga seotud elukutsete tutvustamisele kasutades selleks külalisõpetajaid ja oma ala eksperte või näiteks koostöös teiste asutustega nt Rajaleidjaga korraldada põnevaid koostööprojekte nagu nt: minu IT portfoolio või külaskäike ja tudengivarju päevi kõrgkoolides, kus õpetatakse IT-erialasid ning töövarjutamist erinevates Eesti IT-ettevõtetes.</p><p><strong>Keskkonna ja jätkusuutliku</strong> läbiva teema teadmiste omandamiseks võib õpilastel lasta uurida erinevate IT vahendite eluiga, mis nendega juhtub siis, kui need ei ole enam kasutuskõlblikud või täiesti toimivad, kuid ajale jalgu jäänud. Huvitavaks ettevõtmiseks võib olla erinevate tenhiliste vahendite jätkusuutlikuse tagamise meetodite uurimine nt: viirusetõrje, tulemüür, kõvaketta fragmenteerimine või kõvaketta varukoopia loomine.</p><p><strong>Kodanikualgatuse ja ettevõtlikkuse</strong> läbiva teema käsitlemiseks võib IT-vahendite abil algatada erinevaid kogukonna, kooli või klassi sisese muutuse koostades sotsiaalreklaame, korraldades IT valdkonna start-up ideede ja kontseptsioonide kogumist ja võistlust, mille üheks väljundiks võib olla nt: 7 ja 8.klassi õpilasfirmad või digiloovtööd.</p><p><strong>Kultuurilise identiteedi</strong> käsitlemine “Infoühiskonna tehnoloogiate” teema õpetamisel võib olla õpilastele selgitamine, kui oluline on teha tööd enda imago kujundamisel interneti avarustel varasest ajast, kuidas suhelda internetis järgides ühiskonnas järgitavaid norme ja väärtusi, kuidas hallata enda kontosid sotsiaalmeedias, et võib olla eraldi kontod nt: huvide ja kooli jaoks; teha tuntud IT vaalade sotsiaalmeedia kontode juhtumiuuringut ja hiljem seda klassis ka tutvustada.</p><p><strong>Teabekeskonna</strong> läbiva teema fookuses võib olla õpilase kriitilise suhtumise arendamine esitatud teabesse, mitme teabe allika võrdlemise õpetamine tõe väljaselgitamiseks. Üheks heaks võimaluseks võib olla tehisintellekti teadmiste faktikontroll erinevatel “Infoühiskonna tehnoloogiate” teema aspektidel.</p><p>Läbiva teema <strong>tehnoloogia ja innovatsioon</strong> fooksuses võib olla tehisintellekti jaoks promtide kirjutama õpetamine, mis võib pakkuda õpilastele huvi ja tuge ning tooks paralleele koodi kirjutamise ja programmeerimisega ning soodustaks samas ka raalmõtlemise arengut.</p><p><strong>Tervise ja ohutuse</strong> läbiva teema käsitlemisel informaatika teema “Infoühiskonna tehnoloogiad” raames võib õpilastele rõhutada tervislike harjumuste vajalikkust ja kasulikkust, tutvustada arvutiga töötamise norme ja viise arvuti ja nutisõltuvuse üle saamiseks, tutvustada harjutusi silmadele ekraaniväsimuse leevendamiseks ning harjtusi rühi parandamiseks.</p><p>Läbiva teema <strong>väärtused ja kõlblus</strong> käsitlemisel võib õpilastel lasta koostada internetis suhtlemise hea tava või eetika koodeksi või online mängudes üks-teisega suhtlemise soovitused või reeglid. Tähtis on rõhutada sealjuures, et internetis suhtlemisel peaksid toimima samad väärtused ja kõlblusnormid, mis päriselus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÕPPEMEETODID JA -VÕTTED",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>III kooliastme informaatika teema “Infoühiskonna tehnoloogiad” õpetamisel tuleb harjutada õpilastega rühmatöö tegemist, rollide jaotust rühmas ja enda peale vastutuse võtmist konkreetse ülesande eest kuna see loob tugeva tõhusa alus digiloovtöö sooritamiseks. Rühmatöö kõrvalt võib kasutada paaristööd, üksteise hindamist, individuaalseid ülesandeid ja diferentseeritud lähenemist.</p><p>Üldpädevuste arendamist, ainetevahelist lõimingut ja läbivate teemade käsitlemist toetavad erinevad aktiivõpe ja käed-külge meetodid, tervislikel kaalutlustel võib kasutada ka nn juhtmeteta informaatika õpet, lasta õpilastel teha ettekandeid, meisterdada, jms Teema “Infoühiskonna tehnoloogiad” pakub palju ainet probleemi põhise õpe ja projekti põhise õpe korraldamiseks. Mõnede aspektide õpetamiseks võib kasutada rollimänge või mängustatud õpet.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HINDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>III kooliastme informaatika teema “Infoühiskonna tehnoloogiad” puhul võib õpetaja vastavalt koolis ja PRÕK’is sätestatud hindamisalustele ja -korrale kasutada ühte või mitut võimalust:</p><p><strong>Sõnaline hinnang</strong> – suuliselt antud või kirjalikult vormistatud kujundav tagasiside õpilase edasijõudmisest õppeaines.</p><p><strong>Õppeprotsessi ehk jooksev hinne</strong> – üksikute õpitulemuste hindamine, mis annab ettekujutuse õpilase õppeedukusest õppeperioodi jooksul.</p><p>Õppeprotsessi hindamise vormid on: tunnikontroll, kodutöö kontroll, rühmatöö, paaristöö, individuaalne töö.</p><p><strong>Kujundav hindamine</strong> - mõistetakse õppe kestel toimuvat hindamist, mille käigus analüüsitakse õpilase teadmisi, oskusi, hoiakuid, väärtushinnanguid ja käitumist, antakse tagasisidet õpilase seniste tulemuste ning vajakajäämiste kohta, innustatakse ja suunatakse õpilast edasisel õppimisel ning kavandatakse edasise õppimise eesmärgid ja teed.</p><p><strong>Kontrolltöö või arvestus</strong> – suuremamahuline töö, mida kasutatakse õpilase ainealaste teadmiste ja oskuste võrdlemiseks ainekavas toodud taotletavate õpitulemustega. Kontrolltööna käsitletakse ka muid sama taseme hindamisvõtteid (nt kodulugemine, kodune kontrolltöö, arvutiesitlus, praktiline ülesanne, portfoolio jm).</p><p><strong>Kokkuvõttev hindamine</strong> – annab teavet, kuidas õpitulemused on õppeperioodil omandatud.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LISAMATERJALID",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/informaatika/infoyhiskond/",
+              "title": "Teema“Infoühiskonna tehnoloogiad” õpik (sisaldab teoreetilist materjali, enesekontrollteste, sõnaraamatut)"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1aEDDD7JQnUlTChY5eq-EGuPFq2tfitJ9KTDg9hNPB2k",
+              "title": "Teema “Infoühiskonna tehnoloogiad” lisalugemist õpetajale (sisaldab alateemade õpieesmärke ja metoodilisi soovitusi alateemade läbimiseks)"
+            },
+            {
+              "kind": "file",
+              "src": "https://reaalkool.real.edu.ee/wp-content/uploads/sites/2/2018/06/7klass-15.pdf",
+              "title": "Tallinna Reaalkooli 7.klassi informaatika ainekava näidis"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2017/01/Informaatika_tookava_8_klass.pdf",
+              "title": "Näidis töökava informaatikaõpetamiseks 8.klassis"
+            },
+            {
+              "kind": "link",
+              "href": "http://kompass.harno.ee",
+              "title": "Hariduse tehnoloogiakompass"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Digiloovtöö",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Digiloovtöö sisaldub põhikooli III astme informaatika uues ainekavas kui võimalik alternatiiv tavapärasele loovtöö formaadile, mida paljudes koolides teostatakse individuaalse kirjaliku tööna. Digiloovtöö viiakse läbi rühmatöö projektina, kasutades soovitatud arendusplatvormi (Taiga) ja HITSA Tehnoloogia Kompassi poolt soovitatud uudseid tehnoloogiaid (asjade internet, virtuaal/liitreaalsus, robootika, tehisintellekt, andmeanalüütika, veebiprogrammeerimine jne). Digiloovtöö eesmärgiks on õpetada õpilastele läbi praktilise tegevuse tänapäevase arendustegevuse tööviisi, mis on muutunud igapäevaseks paljudes Eesti tarkvarafirmades. See tööviis kombineerib disain- ja raalmõtlemist, lähtub arendatava teenuse/rakenduse sihtrühma vajaduste analüüsist, projektõppe metoodikast ja tsüklilisest prototüüpimisest. Õpilased valivad enda projekti teema ja tehnoloogia (võib kasutada näidismalle), analüüsivad loodava digilahenduse sihtrühma ja selle vajadusi, koostades persoona (tüüpilist kasutajat iseloomustavad tegelaskujud) ja kasutusstsenaariumid. Seejärel toimub ideede genereerimise ja sarnaste lahenduste analüüsi faas, mille järel koostatakse lahenduse esialgne paberprototüüp. Paberprototüüpi ja kasutusstsenaariumeid katsetatakse sihtrühma esindajatega, saadud tagasiside põhjal koostatakse juba interaktiivne prototüüp (nt Figma, MarvelApp, AppInventor või Uizard abil), mille esitlus ja kaitsmine toimub piloteerimise lõpul liftikõne vormis. Kokkuvõtteks võib öelda, et Digiloovtöö teema võimaldab õpilastel rakendada oma teadmisi ja oskusi rühmatöö projektides, kus arendatakse digilahendusi, lähtudes sihtrühma vajadustest ja analüüsist. See tööviis kombineerib disaini- ja raalmõtlemist ning õpetab õpilastele praktilist lähenemist arendustegevusele, mis on oluline oskus tänapäeva tarkvarafirmades.</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "sõnastab digitaalse loovtöö projekti eesmärgid, väljundid, tegevuskava ja ülesanded;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "planeerib oma tegevusi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "vormistab arvuti abil digiloovtöö ja selle esitluse lähtudes etteantud vormistusnõuetest, mallidest ja formaatidest ning intellektuaalomandi kaitse nõuetest;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "panustab meeskonnaliikmena digitaalse loovtöö teostamisse (nt. robootika, asjade interneti, tarkvaraprojekti, veebisaidi, turvalisust puudutava lahenduse või animatsiooni kujul);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "loob koostöös (ja/või digiloovtöö raames) lihtsama asjade interneti, robootika, turvalisuse või muu infoühiskonna tehnoloogia lahenduse elulises kontekstis (nt mudeli, prototüübi) ja kogub selle kohta tagasiside;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "koostab ja kannab ette (iseseisvalt või koos tiimikaaslastega) digitaalse loovtöö raporti, posterettekande, kaitse- või liftikõne.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "LÕIMING TEISTE AINETEGA",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema “Digiloovtöö” on kergesti lõimitav kõigi teiste õppeainetega ning on iseloomult interdistsiplinaarne ja aineteülene, kuna digiloovtöö on põhikooli õpilaste loovtöö formaat, mis põhineb küll informaatikal, kuid võib toetada erinevaid aineid.</p><p><strong>Matemaatikat</strong> võib digiloovtöö teemaga edukalt lõimida näiteks pakkudes õpilaste rühmale luua arvutus- või geomeetriarakenduse.</p><p><strong>Loodusõpetust</strong> saab lõimida pakkudes õpilastele võimalust luua kas nutipeenar või -kasvuhoone, mis on varustatud anduritega, mis mõõdavad näiteks õhuniiskust, temperatuuri ja valgust ning mootorid saavad avada õhutusluuke või kasta vett. Sellise loovtöö käigus õpilased õpivad ja kinnistavad ka loodusõpetuse ainespetsiifilisi teadmisi.</p><p><strong>Kirjandust ja emakeelt ning võõrkeeli</strong>, saab edukalt lõimida pakkudes õpilastele võimaluse luua kooliraamatukogu jaoks interaktiivseid katalooge või keeleõppe programme.</p><p><strong>Kehalist kasvatust</strong> saab lõimida digiloovtöö teemaga lastes õpilastel luua mitmest osast koosnevat lühikest videokursust kehalie kasvatuse valdkonnas näiteks soojendusharjutuste kohta või kuidas kasutada jõusaali. Samuti saab kasutada erinevaid nutivahendeid tervise jälgimisel. <strong>Muusikat</strong> saab lõimida pakkudes õpilastele võimaluse luua tehnoloogiliste vahendite abil muusikat või luua kaasaegne arranžeering mõnele kuulsale muusikapalale.</p><p><strong>Kunstiõpetuse</strong> üheks võimaluseks on lasta õpilastel luua kooli või enda klassi parimate tööde kunstigalerii veebis või luua digitaalset kunsti.</p><p><strong>Ühiskonna- ja inimeseõpetuses</strong> saab pakkuda digiloovtööks targa maja/-linna kontseptsiooni loomise või sellise roboti ehitamist, mis lahendab konkreetset probleemi ühiskonnas näiteks pääste- või kiirabi robot.</p><p><strong>Füüsikat</strong> lõimides digiloovtööga võivad õpilased ehitada erinevaid roboteid, mis töötavad füüsika seadusi järgides.</p><p><strong>Ajaloo</strong> puhul võib õpilastele pakkuda ajaloolise AR/VR-tuuri tegemise, ajastu või isiku kohta.</p><p><strong>Bioloogias</strong> saab õpilastele pakkuda võimaluse luua inimese tervise näitajaid skänniv ese, mis mõõdaks teatud ajavahemike tagant vastavate andurite abil kehatemperatuuri, pulssi või ka digitaalse lindude vaatlemise või kodulooma jälgimise projekti.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÜLDPÄDEVUSTE KUJUNDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Üldpädevuste kujundamiseks III kooliastme informaatika “Digiloovtöö” teema puhul võib leida mitmeid võimalusi nii näiteks <strong>kultuuri- ja väärtuspädevuse</strong> kujundamisel võib rääkida interneti suhtluse kultuurist, kokkulepetest ja tähtaegadest kinnipidamisest, austusest üksteise vastu.</p><p><strong>Sotsiaalse ja kodanikupädevuse</strong> kujundamise fookuses digiloovtöö teema kaudu enda klassi, kooli või kogukonna probleemidele tähelepanu pööramine ja nendele probleemidele lahenduse otsimine ja projekteerimine (prototüüpimine)</p><p><strong>Enesemääratluse pädevuse</strong> kujundamisel tuleks tähelepanu pöörata õpilase vastutuse ja sobiva rolli valiku arendamisele (disainer, arendaja, tootejuht, analüütik, testija vms), et õpilane suudaks ennast määratleda kas digiloovtöö meeskonna liikmena, kes panustab ühisesse tulemusse või digiloovtöö meeskonnajuhina, kes korraldab ja kavandab kaasõpilaste samme ja juhendab neid.</p><p><strong>Matemaatika-, loodusteaduste ja tehnoloogiaalane pädevuse</strong> arendamiseks digiloovtöö kaudu on mitmeid võimalusi, mis suuresti sõltuvad valitud digiloovtöö teemast. Näiteks matemaatika äpi loomisel kinnistuvad õpilaste teadmised arvutamisest, ning nutipeenra puhul õpilastel tekib tervik pilt sellest kuidas nutiandurid võivad süstematiseerida taimekasvatust ning ka sellest kuidas on võimalik juhtida taimekasvatust tehnoloogiliste vahendite abil.</p><p><strong>Ettevõtlikkuspädevuste</strong> arendamiseks digiloovtöö raames võib õpilastega läbi mõelda nt start-upi või õpilasfirma arenduse, mis põhineb nende ideel nt: biolagunevate (kohvipaksust) taimekasvatuse pottide e-poe loomine ja käivitamine, giidi teenuse pakkumine lähiümbruses vastavalt loodud lähiümbruse AR/VR-tuurile, tänavaid koristava roboti tootmisprotsessi arendus vms</p><p>Kuna <strong>digipädevus</strong> ja informaatika asuvad üsna lähestiku, siis võib eeldada, et digipädevus areneb koos informaatikaalaste teadmiste omandamisega, selleks et võimestada õpilaste digipädevuste arengut informaatika tundides võib rohkem tähelepanu pöörata digiohutusele, usaldusväärse info hankimise võimalustele, sisuloomele jms.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LÄBIVATE TEEMADE KÄSITLUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p><strong>Elukestva õppe ja karjääriplaneerimise</strong> läbiva teema käsitlemisel võib tähelepanu pöörata “Digiloovtöö” teemaga seotud elukutsete tutvustamisele kasutades selleks külalisõpetajaid ja oma ala eksperte või näiteks koostöös teiste asutustega nt Rajaleidjaga korraldada põnevaid koostööprojekte nagu: minu IT portfoolio või külaskäike ja tudengivarju päevi kõrgkoolides, kus õpetatakse IT-erialasid ning töövarjutamist erinevates Eesti IT-ettevõtetes.</p><p><strong>Keskkonna ja jätkusuutliku</strong> läbiva teema teadmiste omandamiseks “Digiloovtöö” kontekstis võib pakkuda õpilastele teemasid, mis on seotud ümbritseva keskkonnaga, loodushoiuga ja säästliku tarbimise ja majandusega, nt vee- ja seebidosaatorite kontseptsiooni välja mõtlemine või kulunud autokummide taaskasutuse kontseptsioon, robottuletõrjuja, nutikasvuhoone või nutipeenar jms. Kui mõelda meeskonnale, siis on oluline jätkusuutliku meeskonna loomine, selle toimimine ning juhtimine, kokkulepped, rollide jaotused ja asendused.</p><p><strong>Kodanikualgatuse ja ettevõtlikkuse</strong> läbiva teemaga võiks “Digiloovtöö” puhul siduda selliste oskuste arendamise nagu näiteks seda on initsiatiivikus, algatusvõime, ümbruskonna probleemide märkamine ja neile lahenduse otsimine “Digiloovtöö” kaudu. Oskus planeerida oma digiloovtöö edasist arengut näiteks start-upiks või õpilasfirmaks.</p><p><strong>Kultuurilise identiteedi</strong> läbiva teema all tuleb rõhk panna koostöökultuuri oskuse arendamisele, julgustada õpilasi üks teisega koostööd tegema, raskuste tekkimisel otsida meeskonnalt tuge ja nõu, olla vastutustundlik, abivalmis, konstruktiivne. Kui vaadata võimalikke teemasid, siis siin oleks teretulnud koostööprojektid erinevate muuseumidega või ka ajaloolise isiku sotsiaalmeedia konto loomine: nt Krusensterni instagrammi konto, või virtuaaltuur ümbruskonnas või muuseumis.</p><p><strong>Teabekeskkonna</strong> läbiva teema fookuses võib “Digiloovtöö” kontekstis arendada õpilaste oskust otsida ja leida vajaliku infot, mis on seotud valitud digiloovtöö teemaga, analüüsida erinevatest allikatest saadud infot, teha enda digiloovtöö idee turuuuring ehk analüüsida, kas keegi on kusagil, midagi taolist juba teinud ning miks see on hea ning mida võiks edasi teha. Teemade vaatevinklist võib olla mitmeid lähenemisi nii kooliraadio või kooliTV kanali kontseptsiooni loomisest kui ka kooli sotsiaalmeedia konto või uudistevoo haldamisest.</p><p>Läbiva teema <strong>tehnoloogia ja innovatsioon</strong> fooksuses võib olla õpilaste ja ka juhendaja tutvumine uute tehnoloogiliste arengutega maailmas ja nende põhjal digiloovtöö teema valimine, kusjuures programmeerimises see võib olla mõni uus programmeerimiskeel ja sellega seotud töö teema, robootika valdkonnas võib olla mingi tegevuse automatiseerimine robotite abil, digitaalne meedia ja selle formaadid arenevad ka üsna kiiresti ja siin leidub väga erinevaid võimalusi, eriti arvestades hetkel tormiliselt arenevad generatiivseid tehisintellekti harusid nt: SORA video generaator CHAT.GPT’lt Leonardo, Midjourney jms. 3D printimise võimalused on ka üsna laiad, nt: kooli hoovi projekteerimine 3D printimise abil, või korduvkasutatava termokindlate toidunõude valmistamine. Oskuste poole pealt läbiva teema “Tehnoloogia ja innovatsioon” puhul on tähtis arendada õpilastel oskust kriitiliselt suhtuda uutesse tehnoloogiatesse, vaatama läbi võimalikud riskid ja ohud, oskust olla avatud uute tehnoloogiate katsetamiseks, ning katsetamisel järgida ohutusnõudeid.</p><p><strong>Tervise ja ohutuse</strong> läbiva teema käsitlemisel informaatika teema “Digiloovtöö” raames võib õpilastele õpetada jälgima nii enda kui ka oma meeskonnaliikmete tervist ja ohutust, planeerida aega nii, et koormus tervisele ja pinge ei oleks liiga kõrge. Tähelepanu tuleks pöörata nii stressi ennetamise, kui stressi taluvuse ja stressi maandamise tehnikate tutvustamisele. Kui vaadata teemade vaatevinklist, siis inspiratsiooni võiks otsida kaasaegse meditsiini valdkonnas, kus on ka päris palju tehnoloogilisi uuendusi.</p><p>Läbiva teema <strong>väärtused ja kõlblus</strong> käsitlemisel tuleb õpilastel arendada teiste meeskonnaliikme töö ja pingutuse väärtustamist, konstruktiivse ja õigeaegse tagasiside andmist, edusammude märkamist ja julgustamist, abistamist ja pingutamist ühise tulemuse nimel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÕPPEMEETODID JA -VÕTTED",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Digiloovtöö teema puhul kasutatakse õpilastega tarkvara arendusest laenatud ja lihtsustatud põhikooli õpilaste jaoks AGILE meetodit, mille puhul on kasutusel järgmised võtted: sprindid, kanban-board, wiki. Samuti on soovitatav digiloovtöö puhul kasutada juhtivat õpiarendusmudelit ADDIE. Ülesannete jaotumine ja protsessi jälgimine toimub tasuta digiloovtöö keskkonnas <a href=\"http://edusrv.htk.tlu.ee\">edusrv.htk.tlu.ee</a></p><p>III kooliastme informaatika teema “Digiloovtöö” õpetamisel võib harjutada järgmisi töövõtteid:</p><ul><li><strong>Ümberpööratud klassiruum</strong>: õpilased õpivad iseseisvalt või koostöös teistega enne tundi kodus uue osa selgeks, kasutades digiõpikus olevaid õppematerjale; tunnis jääb seetõttu rohkem aega uute teadmiste rakendamiseks (nt. rühmatöös teostatud eluliste probleemide lahendamise vormis)</li><li><strong>Uurimuslik õpe</strong>: uued teadmised luuakse õpilaste endi poolt, püstitades koostöös hüpoteese/uurimisküsimusi ning nendele teadlaste kombel vastuseid/selgitusi leides (andmekogumise, andmeanalüüsi, järelduste sõnastamise kaudu)</li><li><strong>Projektõpe</strong>: erinevate oskustega ja rollidega õpilased moodustavad projektirühma, mille eesmärgiks on koostöös uue digitaalse artefakti disainimine ja loomine</li><li><strong>Ülesandekeskne õpe</strong>: õpilased õpivad uut osa järjest kasvava keerukusastmega ülesandeid lahendades, aga lõpuks koostavad nad ise samal teemal ise uusi ülesandeid õpikusse</li><li><strong>Mängupõhine õpe</strong>: õpitakse kas õppemänge mängides või need koos teiste õpilastega disainides.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HINDAMINE",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>III kooliastme informaatika teema Digiloovtöö hindamiseks on oluline arvestada mitmeid mõõdikuid, skaalasid ja protsessi ise, sealhulgas selle rakendamist. Allpool on esitatud juhis õpetajale digiloovtöö hindamiseks, kus on tähelepanu all neli mõõdikut:</p><ol><li><strong>Ainekavast tulenevad</strong> (digiloovtöö õpitulemus) – Hindamisel arvesta, kuivõrd õpilane on saavutanud digiloovtöö ainekavas sätestatud õpitulemuse.</li><li><strong>Üldpädevused</strong> – Hindamisel võta arvesse, kuidas digiloovtöö aitab arendada õpilase üldpädevusi, mis aitavad neil probleemülesannetega paremini toime tulla. See hõlmab ka üldpädevuste hindamist lisaks ainekavast tulenevatele, informaatikaga seotud ja konkreetsete loovtöödega seotud õpitulemustele.</li><li><strong>Informaatikaga seotud</strong> – Hindamisel võta arvesse õpilase teadmisi ja oskusi informaatika valdkonnas, mis on olulised digiloovtöö edukaks sooritamiseks.</li><li><strong>Konkreetse digiloovtöö spetsiifilised õpitulemused</strong> – Hindamisel võta arvesse konkreetse digiloovtööga seotud õpitulemusi, mis on püstitatud projekti alguses ja mida õpilane peab saavutama.</li></ol><p>Digiloovtöö hindamisprotsess hõlmab mitmeid etappe:</p><ul><li>Alguses pannakse paika digiloovtöö tegevuskava, kus määratakse kindlaks ülesanded ja ajakava, mille järgi õpilane tööd teeb.</li><li>Õppeaasta jooksul toimub enese- ja kaaslasehindamine kaks korda, näiteks jaanuar-veebruar ja enne kaitsmist. Selles etapis annavad õpilased ise hinnangu oma tööle ja hindavad ka oma kaaslasi.</li><li>Kujundav hindamine toimub õppeprotsessi käigus, kus õpetaja annab õpilasele tagasisidet ja toetust ülesannete lahendamiseks ning õpilase motiveerimiseks.</li><li>Digiloovtöö lõpus toimub komisjonipoolne hindamine, kus hindamiskomisjon hindab digiloovtööd vastavalt objektiivsetele hindamiskriteeriumitele.</li><li>Viimasena toimub parimate valimine konkursi olukorras.</li></ul><p>Hindamise skaalana võib kasutada erinevaid lähenemisviise:</p><ul><li><strong>Numbriline hindamine</strong>: õpitulemusi hinnatakse viiepallisüsteemis (1-5) või teistes numbrilistes skaalades.</li><li><strong>Tasemete hindamine</strong>: “Suurepärane”, “hea”, “rahuldav”, “puudulik” ja “nõrk”.</li><li><strong>Õpipoiss-sell-meister mudel</strong>: hindamine erinevate tasemete alusel.</li><li><strong>Digitaalsed õpimärgid</strong>: õpilased saavad iga sooritatud ülesande eest õpimärgi, mis avalduvad digiloovtöö kontekstis.</li><li><strong>Enese- ja kaaslase hindamine</strong>: õpilased hindavad ise oma tugevusi ja nõrkusi ning seavad end teatud tasemele.</li><li><strong>Õpetajapoolne hindamine</strong>: õpetaja annab õpilasele konstruktiivset tagasisidet ja juhendamist töö parandamiseks.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LISAMATERJALID",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/informaatika/digiloovtoo/",
+              "title": "III kooliastme teema “Digiloovtöö”õpik"
+            },
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/informaatika/digiloovtoo/part/opetajaraamat/",
+              "title": "Õpetajaraamat"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/login",
+              "title": "Digiloovtöö keskkond"
+            },
+            {
+              "kind": "link",
+              "href": "https://et.wikipedia.org/wiki/Agiilne_arendus",
+              "title": "Agile"
+            },
+            {
+              "kind": "link",
+              "href": "https://digioppevara.wordpress.com/lugemismaterjalid/oppematerjalide-koostamise-protsess-ja-kvaliteet/",
+              "title": "ADDIE mudel"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/taimekasvatamise-automatiseerimine-microbit/timeline",
+              "title": "Näidisprojektid: Taimekasvatamise automatiseerimine (Micro:bit)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/geomeetria-valemite-rakendus-app-inventor/timeline",
+              "title": "Näidisprojektid: Geomeetria valemite rakendus (App Inventor)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/nutikodu-targa-maja-voi-korteri-turvaline-lahendus/timeline",
+              "title": "Näidisprojektid: Nutikodu - targa maja või korteri turvaline lahendus"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/elav-raamatukogu/timeline",
+              "title": "Näidisprojektid: Elav raamatukogu"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/digisobraliku-kooli-virtuaaltuur/timeline",
+              "title": "Näidisprojektid: Digisõbraliku kooli virtuaaltuur (tulemas)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/kuberkaitse-lipuvoistlus/timeline",
+              "title": "Näidisprojektid: Küberkaitse lipuvõistlus (CTFd)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/digiloovtoo-tallinna-laagna-gumnaasium/timeline",
+              "title": "Piloodis osalenud koolide projektid: Digiloovtöö Lamp (Tallinna Laagna Gümnaasium)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/digiloovtoo-projekt-robot-kirjakandja/timeline",
+              "title": "Piloodis osalenud koolide projektid: Digiloovtöö projekt “Robot-kirjakandja” (Tallinna Pae Gümnaasium)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/soojendusprojekt-nutikonspekt-ruhm-1/timeline",
+              "title": "Piloodis osalenud koolide projektid: Soojendusprojekt “Nutikonspekt” (Tallinna Pae Gümnaasium)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/ttrk-ustnyi-schiot/timeline",
+              "title": "Piloodis osalenud koolide projektid: Ttrk - устный счёт (Tallinna Tõnismäe Reaalkool)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/matemaatilised-moistatused-top-10/timeline",
+              "title": "Piloodis osalenud koolide projektid: Matemaatilised mõistatused Top 10 (Tallinna Tõnismäe Reaalkool)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/sozdanie-2d-igry-na-python-cave-explorer/timeline",
+              "title": "Piloodis osalenud koolide projektid: Создание 2Д игры на Python “Cave Explorer” (Valga Põhikool)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/tiktok/timeline",
+              "title": "Piloodis osalenud koolide projektid: TikTok’i kanal uurimistöö põhikooliõpilastele (Pärnu Rääma Põhikool)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/nutipeenar_cpekusy",
+              "title": "Piloodis osalenud koolide projektid: Nutipeenar -1.meeskond (Kohtla-Järve Slaavi Põhikool)"
+            },
+            {
+              "kind": "link",
+              "href": "https://edusrv.htk.tlu.ee/project/nutipeenar_kjsp/",
+              "title": "Piloodis osalenud koolide projektid: Nutipeenar -2 meeskond (Kohtla-Järve Slaavi Põhikool)"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1mK-ZPH0wXGFObev4cdtMbYzaMiMnxhRGX8O0yVf88GA/edit",
+              "title": "Juhendid: Näidisprojekt “Nutikonspekt” tutvumiseks Taiga keskkonnaga"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/drive/folders/1SpwTiXEZaHttaqLJvyfR2NQwHAp0454c?usp=share_link",
+              "title": "Juhendid: Taiga videojuhendid"
+            },
+            {
+              "kind": "link",
+              "href": "https://docs.google.com/document/d/1vBAuuuXahAAe9PjAs_memqZ4eB7HWKgAeZsWoV22-L0/edit",
+              "title": "Juhendid: Õpetaja juhend digiloovtöö pilooteerimiseks"
+            },
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/digitaru/disain/chapter/persoonad-ja-stsenaariumid/",
+              "title": "Juhendid: Persoonad ja stsenaariumid"
+            },
+            {
+              "kind": "link",
+              "href": "https://web.htk.tlu.ee/digitaru/disain/",
+              "title": "Juhendid: Kasutajakeskne Disain Ja Prototüüpimine"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/drive/folders/1-UVsd5w3ARos4ck01Bg991ejKpEH6Ub1?usp=sharing",
+              "title": "Juhendid: Persoonade mallid esitluse põhjal"
+            },
+            {
+              "kind": "link",
+              "href": "https://drive.google.com/drive/folders/1Gtbc-yyEMLNwkm5KwPv5DOVDcXh7XylP?usp=sharing",
+              "title": "Juhendid: Postrite mallid esitluse põhjal"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/M4FwWHa0VJ8?si=MolCqIFk8T82nH5u"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/fvBDeFf-Y8E?si=ep_NAGniFCpr_gcH"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/9eDBIupajLY?si=WLGyMATia3DMrSzH"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/W1_8oqhxbSo?si=eU95UTq3eLuHoO4x"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/cBjz3n_9QgE?si=fM3t8UWokbwTmLqx"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/vVpVVWkRVB0?si=uhzJqzapXnkH6i8w"
+            },
+            {
+              "kind": "video",
+              "src": "https://youtu.be/tFteYmsavuw?si=FjEc98mmTrGaYtbf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

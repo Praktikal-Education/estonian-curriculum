@@ -1,0 +1,32 @@
+name: Data correction
+description: Report an error in the curriculum data
+title: '[correction] '
+labels: ['data-correction']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the data. The data is generated, so fixes are
+        applied via the `corrections/` overlay — see CONTRIBUTING.md.
+  - type: input
+    id: source
+    attributes:
+      label: Source page
+      description: The `ee-curriculum:page:<id>` ref, or the projektid.edu.ee link.
+      placeholder: ee-curriculum:page:211453641
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+      description: What the data currently says, and why it is incorrect.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What it should say
+      description: The corrected content, ideally backed by the source page.
+    validations:
+      required: true

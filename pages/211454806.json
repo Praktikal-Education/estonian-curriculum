@@ -1,0 +1,738 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Õpitavat keelt kasutatakse aktiivselt nii tunnis kui ka väljaspool tundi (nt kirjasõbrad, õppereisid, õpilasvahetused ja kohtumised õpitavat keelt emakeelena kõnelejatega). Õpilasi suunatakse iseseisvalt lugema autentseid ilukirjandus-, teabe-, tarbe- ja meediatekste. Õpetaja valib mitmekesiseid ülesandeid, mis eeldavad loovust. Keeletasemele vastava sõnavara ning keerukamate keelekonstruktsioonide õpetamiseks kasutab õpetaja ülesandeid, kus õpilane saab rakendada suhtlemisoskust erinevates keeleregistrites (nt suhtlemine ametiasutuses, töövestlusel, olmesfääris). Õpetaja suunab õpilasi kõrvutama ja analüüsima keelte ning kultuuride sarnasusi ja erinevusi, nägema seoseid ning jälgima oma keelekasutust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpitulemuste saavutamiseks vajalikud eesmärgid ja tegevused kavandatakse õpetaja ning õpilase koostöös. Õpitulemusi hinnates lähtutakse gümnaasiumi riikliku õppekava üldosa ning teiste hindamist reguleerivate õigusaktide käsitlusest. Õpilasele tuleb selgitada, et hindamine on õppe loomulik osa ning hõlmab nii kujundavat kui ka kokkuvõtvat hindamist. Kursuse õpitulemuste põhjal hinnatakse kõiki osaoskusi kas eraldi või lõimitult, andes õpilasele adekvaatset tagasisidet. Ülesande eesmärgist lähtudes hinnatakse kas ühte kindlat või mitut keeleoskuse aspekti (nt sisu, ülesehitust, sõnavara, kõne ladusust, grammatika õigsust). Õpetaja ning kaasõpilased annavad tagasisidet õpilase tugevate külgede ja vajakajäämiste kohta ning teevad ettepanekuid edaspidiseks õpilase arengut toetavaks tegevuseks (nt vastastikune hindamine). Õpilane märkab oma edusamme ja oskab kasutada saavutatut edasisel õppimisel. Ta seab ise endale õpieesmärke ning annab oma teadmistele ja oskustele hinnanguid. Tal peab olema võimalus selgusele jõuda oma keeleoskustasemes, nt erinevaid osaoskusi hõlmav test õppeaasta algul ja lõpul, mida kasutatakse tagasiside andmiseks ja eesmärkide seadmiseks.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppesisu on ühine kõigile keeltele ja toodud välja <a href=\"https://projektid.edu.ee/display/OKMV/G+Teemavaldkonnad+ja+keeleteadmised\">eraldi alajaotuses</a>. Õppesisu lisana on esitatud soovituslikud keeleteadmiste (grammatika) tabelid keelte kaupa.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "B2 keeletaseme võõrkeelepädevus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Võõrkeeleõppe tulemusena kujuneb õpilastel B2 keeletaseme võõrkeelepädevus, mis tähendab, et õpilane:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab keerukate abstraktsel või konkreetsel teemal tekstide ning erialase mõttevahetuse tuuma.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Vestleb spontaanselt ja ladusalt sihtkeele kasutajatega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Loob paljudel teemadel selget, üksikasjalikku teksti ning selgitab oma vaatenurka, esitades erinevate valikute tugevaid ja nõrku külgi.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemuste saavutamine gümnaasiumis",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Gümnaasiumis on võõrkeeleõpetus tasemepõhine. Õpilase vastutus oma keeleoskuse arengu eest suureneb (nt kursuste valik, iseseisev õpe).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursused võivad ülesehituselt varieeruda (nt teema-, oskusepõhised). Osaoskusi arendatakse võrdselt, kursuseti võivad rõhuasetused erineda. Õpitavat keelt kasutatakse aktiivselt nii tunnis kui ka väljaspool tundi (nt LAK-õpe, veebisuhtlus, õppereisid, õpilasvahetused ja kohtumised õpitavat keelt emakeelena kõnelejatega). Õpilasi suunatakse iseseisvalt lugema autentseid ilukirjandus-, teabe-, tarbe- ja meediatekste. Keeletasemele vastava sõnavara ning keerukamate keelekonstruktsioonide õpetamiseks kasutab õpetaja ülesandeid, kus õpilane saab rakendada suhtlemisoskust erinevate keeleregistritega (nt suhtlemine ametiasutuses, töövestlusel, olmesfääris).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpetaja suunab õpilasi kõrvutama ja analüüsima keelte ning kultuuride sarnasusi ja erinevusi, nägema seoseid ning jälgima oma keelekasutust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpitulemuste saavutamiseks vajalikud eesmärgid ja tegevused kavandatakse õpetaja ning õpilase koostöös. Õpetaja valib mitmekesiseid ülesandeid, mis eeldavad loovust.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Hindamine gümnaasiumis",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse jooksul hinnatakse kõiki keeletoiminguid (kuuldu ja loetu mõistmine, rääkimine, kirjutamine, suhtlemine, keelekasutus) kas eraldi või lõimitult. Ülesande eesmärgist lähtudes hinnatakse kas ühte kindlat või mitut keeleoskuse aspekti (nt sisu, ülesehitust, sõnavara, kõne ladusust, keelekasutuse keerukust).</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õpilane seab endale õpieesmärke ning annab õpetaja suunamisel tagasisidet oma ja kaaslaste teadmistele, oskustele, õppeprotsessile ja edenemisele õpitavas võõrkeeles.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Keeleoskustaseme tabeli kasutamine",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Tabelis olev B2-keeleoskustaseme info on kohaldatav kõigile B2-keeleoskustasemel õpetatavatele võõrkeeltele.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Õppesisu on samuti ühine kõigile keeltele ja toodud välja eraldi alajaotuses. Õppesisu lisana on esitatud soovituslikud keeleteadmiste (grammatika) tabelid keelte kaupa, kus näidatakse millisel keeleoskustasemel / kooliastmel mingit keeleteadmist õppima hakatakse. Keeleteadmiste loetelud ei kajasta keeleteadmiste omandamist ega keelepädevuse kujunemist ning neid tuleb vaadelda lähtudes sellest, milliseid grammatika komponente mingil keeleoskustasemel kirjeldatud keeletoiminguteks võiks vaja minna. Grammatika aspektide esmasest õppimisest nende omandamiseni (õige ja olukohase kasutamise tähenduses) kulub erinevatel õpilastel aega erinevalt, ehkki omandamise kiirus sõltub olulisel määral ka sellest, kui tihti seda aspekti kasutatakse.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Keeleoskustaseme tabel koosneb järgmistest alajaotustest:</p><ol><li>teadmised, oskused, hoiakud - võetud gümnaasiumi riiklikus õppekavas toodud ainekavast (GRÕK Lisa 7 ptk 2.1.2);</li><li>õpitulemused - võetud gümnaaiumis riiklikus õppekavas toodud ainekavast (GRÕK Lisa 7 ptk 2.1.3);</li><li>õpitegevused õpitulemuste saavutamiseks - õpitulemuste saavutamiseks sobivad näidistegevused, mille kirjeldamisel on kasutatud <a href=\"https://hm.ee/sites/default/files/documents/2023-01/S%C3%B5sarv%C3%A4ljaanne_Jaanuar%202023.pdf\">Euroopa keeleõppe raamdokumenti</a> ja selle <a href=\"https://oppekava.ee/euroopa-keeleoppe-raamdokumendi-sosarvaljaanne-2023/\">sõsarväljaannet</a>, <a href=\"https://digipadevus.ee/oppija-digipadevusmudel/\">digipädevuse mudelit</a>, IKAP raamistikku ja mitmeid muid allikaid. Loetelud ei ole kaugeltki ammendavad.</li><li>õpitulemuste hindamine - soovituslikud näidistegevused ja ülesandetüübid, mis võiksid olla õpetajale inspiratsiooniks. Loetelud ei ole kaugeltki ammendavad.</li></ol>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>B2-keeleoskustaseme tabel on liigendatud järgmiselt:</p><ul><li>vastuvõtutoimingud (kuuldu ja loetu mõistmine);</li><li>loome- ja suhtlustoimingud (suulised ja kirjalikud);</li><li>hoiakud, väärtused, käitumine, koostöökultuuri loomine ja mitmekultuurilisus</li><li>keelekasutus;</li><li>info- ja andmekirjaoskus;</li><li>kultuuri tarbimine ja looming;</li><li>õpioskused;</li><li>lõiming ja läbivad teemad.</li></ul>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tabeli algul on välja toodud B2 keeletaseme kõige olulisemad märksõnad: õpilane kasutab erinevaid keeleregistreid vastavalt vajadusele, mõistab oma huvivaldkonna ja erialaga seonduvaid laialdasi, sh abstraktseid teemasid, suhtleb ladusalt ning argumenteerib arvestades nii enda kui teiste arvamusi.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Tabel annab keeleoskustasemest selge ülevaate. Kooli ainekava koostamisel saab lähtuda õpitulemustest ning teadmistest, oskustest ja hoiakutest, samuti saab kooli õppekava tarbeks ideid õppetegevustest ja hindamisest. Õpetajale on oma töö planeerimisel abiks eelkõige õppetegevused ja hindamine.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Võimalikud õpitegevused",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>ainekavas esitatud teadmiste, oskuste, hoiakute kujundamiseks ja õpitulemuste saavutamiseks (koos hindamisvõimalustega)</p><p>B2-keeleoskustaset iseloomustavad: <strong>erinevad keeleregistrid; oma huvivaldkonna ja erialaga seonduvad laialdased, sh abstraktsed teemad, argumenteeriv, nii enda kui teiste arvamusi vahendav keelekasutus.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "VASTUVÕTUTOIMINGUD (kuuldu ja loetu mõistmine)",
+      "children": []
+    },
+    {
+      "kind": "topic",
+      "title": "KUULDU MÕISTMINE: loomuliku tempoga, keeruka sisuga mõttevahetus mitme inimese vahel (nt väitlus), elav suuline kõne ja salvestised nii konkreetsetel kui abstraktsetel teemadel (vestlus, loeng, ettekanne jne) erinevates keeleregistrites (ametlik, poolametlik), mõistmist võivad takistada taustamüra, keelenaljad, idioomid ja keerukad keelekonstruktsioonid.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teadmised, oskused, hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "saab kuulates aru erinevat tüüpi autentsetest tekstidest ja tuleb igapäevases suhtluses edukalt toime.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "mõistab üksikasjalikult, mida talle vestluses öeldakse;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "eristab kirjakeelse loengu või ettekande põhiteemat;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "jälgib keerukat mõttekäiku tuttaval teemal selge hääldusega esitatud loengust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab kõneleja seisukohta ja eristab seda esitatud faktidest;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab isegi mürarikkas keskkonnas normaalse kiirusega edastatud teadaandeid ja sõnumeid.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitegevused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>kuulab autentset pikemat sisu nii otsesel suhtlemisel (ametiasutuses, olmesfääris, töövestlusel, jne) kui ka salvestatuna (ka väljaspool klassitundi) ja mõistab teksti põhisisu, kõneleja seisukohti ja hoiakuid;</li><li>kuulab tuttaval teemal esitatud loengu/ettekande ja audio(visuaalse) teksti ja mõistab põhisõnumit ja keerukamat mõttekäiku;</li><li>kuulates (loengud, filmid, jne) tuvastab kõneleja seisukoha ja eristab seda esitatud faktidest;</li><li>kuulab taustamüraga, normaalse kiirusega edastatud teadaandeid ja sõnumeid (rongijaamas, tänavaintervjuud, podcastid, jne).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste hindamine (võimalikud ülesandetüübid hindamiseks)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>kuuldu põhjal küsimustele vastamine (õige/väär, valikvastused, jne);</li><li>teksti või graafiku täiendamine;</li><li>vestluses, arutelus, väitluses osalemine;</li><li>sobitamisülesanded;</li><li>kokkuvõtte tegemine kuuldu põhjal.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "LOETU MÕISTMINE: loeb pikki ja keerukaid sh abstraktseid tekste, leiab neist asjakohase teabe ning oskab selle põhjal teha üldistusi teksti mõtte ja autori arvamuse kohta. Loeb iseseisvalt, kohandades lugemise viisi ja kiirust sõltuvalt tekstist ja lugemise eesmärgist. Raskusi võib olla idioomide ja kultuurispetsiifiliste vihjete mõistmisega.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teadmised, oskused, hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "mõistab lugedes erinevat liiki faktipõhiseid ja kirjandustekste, ehkki spetsiifilised terminid ja idiomaatilised väljendid võivad tekitada raskusi.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "võrdleb erinevaid teoseid, nende teemasid, tegelasi ja stseene, tuues välja sarnasusi ja erinevusi ning selgitades nendevaheliste seoste tähtsust;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "omab suurt aktiivset lugemissõnavara, kuid raskusi võib olla haruldaste idioomide mõistmisega;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab kaasaegseid probleemartikleid ja ülevaateid, kus autorid väljendavad lahknevaid hoiakuid ja eriarvamusi;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "mõistab, kas tekstis esitatakse fakte või püütakse lugejat milleski veenda;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb erinevaid tekste ajaviiteks suurel määral iseseisvalt, kasutades valikuliselt asjakohaseid teatmeallikaid.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitegevused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>loeb eri liiki autentseid tekste iseseisvalt ja täidab erinevaid ülesandeid (tõlkimine, märkmete tegemine, võrdlus, refereerimine, jutustamine, esitlus, ettekanne, jne), mis eeldavad suurt aktiivset lugemissõnavara;</li><li>loeb häälega eri liiki tekste õige häälduse, intonatsiooni ja rõhuga;</li><li>mõistab aktuaalsel teemal argumenteeriva teksti sisu (tunneb ära lahknevad hoiakud ja eriarvamused, eristab fakte arvamusest, jne.);</li><li>loeb iseseisvalt ja saab aru tänapäevasest ilukirjandusest.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste hindamine (võimalikud ülesandetüübid hindamiseks)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>loetu põhjal küsimustele vastamine (õige/väär, valikvastused, jne);</li><li>teksti või graafiku täiendamine;</li><li>sobitamisülesanded;</li><li>märkmete või mõistekaardi tegemine;</li><li>teksti lausete/lõikude/väidete järjestamine või pealkirjastamine;</li><li>kokkuvõtte tegemine loetu põhjal (kasutades asjakohast laia sõnavara ja erinevaid lausestruktuure);</li><li>õige häälduse ja intonatsiooniga häälega lugemine.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "LOOME- JA SUHTLUSTOIMINGUD",
+      "children": []
+    },
+    {
+      "kind": "topic",
+      "title": "SUULISED TOIMINGUD: esineb pikemate monoloogidega, esitab selgeid, üksikasjalikke kirjeldusi, põhjendab/kaitseb oma seisukohti; suhtleb erinevatel teemadel, juhib vestlust ja annab tagasisidet; jälgib oma keelekasutust, valib sobiva keeleregistri, vajadusel sõnastab öeldu ümber ja parandab enamiku vigadest; kasutab tõhusalt prosoodilisi vahendeid (rõhku, intonatsiooni, rütmi), kõnerütmis ja -tempos võib olla tunda emakeele mõju.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teadmised, oskused, hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "vestleb spontaanselt ja ladusalt; selgitab oma vaatenurka ning kaalub kõnealuste seisukohtade tugevaid ja nõrku külgi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "räägib aktiivselt kaasa vabas mõttevahetuses, kui kõneaine on tuttav;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "esitab, põhjendab ja kaitseb oma arvamust, annab asjakohaseid selgitusi ja kommentaare;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "esitab selgeid, üksikasjalikke kirjeldusi ja ettekandeid mitmesugustel teemadel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "vajaduse korral kaldub ettevalmistatud tekstist spontaanselt kõrvale ja peatub kuulajaskonda huvitavatel küsimustel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "vastab esinemisjärgsetele küsimustele ladusalt, sundimatult ja pingutuseta;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab küllalt tõhusalt. prosoodilisi vahendeid (rõhku, intonatsiooni, rütmi) oma sõnumi edastamiseks, kuigi kõnes võib märgata teiste keelte mõju.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitegevused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>vestleb üsna spontaanselt ja ladusalt (nt intervjuu rühmatöö), nii et regulaarne suhtlemine sihtkeele kasutajaga on võimalik;</li><li>osaleb teemakohastes aruteludes ja väitluses, selgitades seisukohti aktuaalsetel teemadel ja esitades arvamusi argumenteeritult;</li><li>kirjeldab selgelt ja üksikasjalikult sündmusi, olukordi, tundeid, jne;</li><li>annab üksikasjalikult edasi infot ja arutluskäiku (piltide võrdlus, monoloog, jne), sh väljendab oma arvamust (tugevad/nõrgad küljed, muutmise vajadus, jne);</li><li>esitleb teemat, referaati ja/või uurimistööd ning annab asjakohaseid selgitusi ja kommentaare;</li><li>suhtleb mitme kaaslasega, sidudes oma mõtteid teiste arvamustega ja selgitades vääritimõistmisi või eriarvamusi (kui ei kasutata keerulist keelt, on piisavalt aega ja ollakse koostööaltid);</li><li>julgustab teisi osalema (nt arutelus) ja tõstatama küsimusi, et kutsuda rühma liikmeid avaldama oma vaatenurka või palub neil oma ideid täpsemalt selgitada.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste hindamine (võimalikud ülesandetüübid hindamiseks)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>esitlus, kõne, küsimustele vastamine;</li><li>arutelus ja väitluses osalemine,</li><li>kõnelejale teemakohaste küsimuste esitamine;</li><li>ülesande eesmärgist lähtudes hinnatakse kas ühte kindlat või mitut keeleoskuse aspekti (sisu, ülesehitust, sõnavara, kõne ladusust, grammatika õigsust, intonatsiooni, hääldust, jne).</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KIRJALIKUD TOIMINGUD: kirjutab seotud, loogilisi tekste konkreetsetel ja üldisematel teemadel, põhjendab oma seisukohti ja eesmärke. Refereerib nii kirjalikust kui ka suulisest allikast saadud infot. Kasutab erinevaid keeleregistreid sõltuvalt adressaadist, eristades isiklikku ja ametlikku stiili. Varieerib väljendust korduste vältimiseks, ebatäpsused lausestuses (eriti kui teema on võõras) ei sega kirjutatu mõistmist. Kasutab lausesiseseid kirjavahemärke enamasti reeglipäraselt.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teadmised, oskused, hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kirjutab erilaadilisi sidusaid ja loogilisi tekste, vajaduse korral sünteesides ja hinnates mitmest allikast pärit infot ja seisukohti.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemused",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "esitab selgeid, üksikasjalikke kirjeldusi ja ettekandeid mitmesugustel teemadel;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab selgeid, üksikasjalikke kirjeldusi tegelikest või kujuteldavatest sündmustest ja kogemustest, mõttekäik on selgelt jälgitav ja tekst järgib žanrinõudeid;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab arvamuskirjutisi, esitades põhjendatud poolt- või vastuväiteid ning selgitades võimalike seisukohtade eeliseid ja puudusi;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab argumenteeritud ettekandeid vm tekste, sünteesides eri allikatest pärit infot ja arutluskäike;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab vajaduse korral abimaterjale kasutades piisavalt õigesti, et pidada kirjavahetust ametiasutustega.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitegevused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>koostab selgeid, üksikasjalikke kirjeldusi oma huvidega seotud laialdastel teemadel (nii tegelikest või kujuteldavatest sündmustest ja kogemustest) ja argumenteeritud ettekandeid mitmesugustel teemadel;</li><li>koostab selge argumentatsiooniga arvamuskirjutisi, esitades põhjendatud poolt- või vastuväiteid ning selgitades võimalike seisukohtade eeliseid ja puudusi;</li><li>kirjutab tarbetekste (elulookirjeldus, avaldus, motivatsioonikiri, seletuskiri, lugejakiri, raport jne), vajadusel kasutades abimaterjale;</li><li>koostab loovtöid (kirjand, essee, artikkel, retsensioon, kokkuvõte, luuletus, tõlge, blogi jne) ja referaate;</li><li>vahendab kaaslaste arvamust (annab tagasisidet rühmatööle, toetab koostööd, jne), sidudes oma mõtteid teiste arvamustega ja selgitades vääritimõistmisi või eriarvamusi.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste hindamine (võimalikud ülesandetüübid hindamiseks)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>kirjeldused, ettekanded, arvamuskirjutised, tarbetekstid, loovtööd ja referaadid, milles mõttekäik on selgelt jälgitav ja tekst järgib žanrinõudeid;</li><li>ülesande eesmärgist lähtudes hinnatakse kas ühte kindlat või mitut keeleoskuse aspekti nt sisu, ülesehitust, sõnavara, stiili, grammatika õigsust, õigekirja, jne.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "HOIAKUD, VÄÄRTUSED, KÄITUMINE, KOOSTÖÖKULTUURI LOOMINE JA MITEMEKULTUURILISUS",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teadmised, oskused, hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "selgitab oma ja teisele kultuurile omaseid kultuuritavasid ning nende erinevuste tõttu tekkida võivaid arusaamatusi.",
+              "outcomeType": "knowledge"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitegevused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>kasutab kultuuriteadmisi suhtlemisel nii tunnis kui väljaspool õppetööd (kirjasõbrad, õppereisid, õpilasvahetused ja kohtumised õpitavat keelt emakeelena kõnelejatega, jne);</li><li>kõrvutab ja analüüsib keelte ning kultuuride sarnasusi ja erinevusi, tuvastab seoseid ning jälgib oma keelekasutust;</li><li>osaleb diskussioonides/aruteludes ja suhtleb (nii suuliselt kui kirjalikult) kõneleva keele maa kultuurinorme arvestades;</li><li>järgib žanrinõudeid nii kirjalikus kui suulises suhtluses;</li><li>kasutab õpitavat võõrkeelt teiste kultuuridega tutvumiseks ja nende eripärade mõistmiseks.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste hindamine (võimalikud ülesandetüübid hindamiseks)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>žanri- ja kultuurinormidide järgimine tekstides, esinemisel, ettekannetes, kõnedes, esitlustes, suhtlemisel;</li><li>õpitava keele maa ühiskonna, ajaloo, kultuurisündmuste, kunsti, jne kohta käivate teadmiste kasutamine.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KEELEKASUTUS (keerukus, täpsus ja ladusus)",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitegevused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>väljendub selgelt ja mitmekülgselt, kasutades erinevaid registreid vastavalt sihtrühmale;</li><li>kasutab rikkalikku sõnavara (sh sünonüüme ja kollokatsioone) ja lausestruktuure üldiste kõneainete ja oma tegevusala piires, mis võimaldavad mõtet täpselt edastada, kuid sõnavara lüngad võivad siiski põhjustada takerdust või kaudset väljendust;</li><li>kasutab üldiselt korrektset õigekirja ja grammatikat, kuid võib esineda juhuslikke vigu või vääratusi lauseehituses;</li><li>toimetab lihtsamaid kirjalikke tekste, vajadusel kasutades abivahendeid (sõnaraamat, tehisintellekt, jne).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste hindamine (võimalikud ülesandetüübid hindamiseks)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>sõnaloomeharjutused ja lausete ümbersõnastamine;</li><li>oma ja kaaslaste tekstide toimetamine;</li><li>eneseanlüüsiks ja kaaslaste tööde tagasisidestamiseks võib kasutada Euroopa keeleraamistiku skaalasid ja tehisaru abi;</li><li>keelekasutust hinnatakse valdavalt ühe aspektina <a href=\"https://opetaja.edu.ee/hindamismudelid/\">hindamiskriteeriumitest</a> (essee, esitlus, jne).</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "INFO- JA ANDMEKIRJAOSKUS (andmete, info ja digisisu otsing, hindamine ja haldamine) sh suhtlus- ja koostöö digikeskkonnas, digisisu loomine, digiturvalisus, probleemilahendus",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teadmised, oskused, hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kasutab võõrkeelseid teatmeallikaid (seletussõnaraamatut, internetti) vajaliku info otsimiseks ka teistes valdkondades.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitegevused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>otsib infot ja kasutab võõrkeelseid allikaid (digikeskkonnad, raamatud, ajakirjad, jne) infot kriitiliselt hinnates;</li><li>kasutab (digitaalseid) sõnaraamatuid jt allikaid (sünonüümide, antonüümide, kollokatsioonide, idiomaatiliste väljendite, jne kontrollimiseks);</li><li>vajadusel kasutab tehisintellekti lahenduste võimalusi keeleõppe tõhustamiseks (nt ajurünnakuks või oma tööle tagasiside saamiseks);</li><li>sünteesib infot mitme allika põhjal (nt ettekande tarbeks) sh erinevatest võõrkeeltest.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste hindamine (võimalikud ülesandetüübid hindamiseks)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>info sünteesimine mitme allika põhjal (ettekanded, referaadid, esitlused, jne);</li><li>allikatele viitamine;</li><li>autoriõiguse litsentside kasutamine oma töödes;</li><li>lõiminguprojektid teiste ainetega (ajalugu, geograafia, jne).</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "KULTUURI TARBIMINE JA LOOMING",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teadmised, oskused, hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kasutab õpitavat keelt, et tarbida kultuuri (kirjandust, muusikat, filmikunsti, meediat).",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitegevused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>tarbib võõrkeelset ilukirjandust, filme, uudiseid ja publitsistikat;</li><li>osaleb sihtkultuuri alastel üritustel (õpilasvahetus, konkursid, olümpiaadid, jne);</li><li>loob ise võõrkeelset sisu (jutukesed, luuletused, videod, blogid, jne.) ja teeb projektitöid (filmide loomine, teatritükkide etendamine, veebilehtede koostamine, õpilasvahetus, jne).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste hindamine (võimalikud ülesandetüübid hindamiseks)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>kodulugemise kontroll (küsimustele vastamine, kokkuvõtte tegemine, esitlus, jne);</li><li>filmiülevaate kirjutamine;</li><li>väitluses osalemine, ettekande tegemine, omalooming;</li><li>osalemine projekti- ja meeskonnatöös.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "ÕPIOSKUSED",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Teadmised, oskused, hoiakud",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "kasutab võõrkeeleõppes omandatud teadmisi ja oskusi teiste õppeainete omandamisel ja vastupidi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitegevused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>kasutab tõhusaid keeleõppestrateegiaid (vaba meenutamine, vahelduvõpe, mõttemallide muutmine, jne) ja vajadusel muudab oma õpistrateegiaid;</li><li>seab ise endale õpieesmärke ja kavandab õpitegevusi nende saavutamiseks;</li><li>märkab oma edusamme, annab oma teadmistele ja oskustele hinnanguid ja oskab kasutada saavutatut edasisel õppimisel;</li><li>jõuab selgusele oma keeleoskustasemes (erinevaid osaoskusi hõlmav enesehindamine õppeaasta algul ja lõpul, mida kasutatakse oma õppimise tagasisidestamises ja eesmärkide seadmiseks);</li><li>annab kaasõpilastele tagasisidet nende tugevate külgede ja vajakajäämiste kohta ning teeb ettepanekuid arenguks;</li><li>kasutab analüüsi (minu oskused, väärtused, hoiakud) ja kommunikatsiooni (sh refleksioon) oma karjäärivõimaluste planeerimiseks, valmistub elukestvaks õppeks.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õpitulemuste hindamine (võimalikud ülesandetüübid hindamiseks)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>oma arengu analüüsimine ja kaaslaste tagasisidestamine;</li><li>lõiminguprojektid teiste ainetega (ajalugu, geograafia, jne).</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "LÕIMING JA LÄBIVAD TEEMAD",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitegevused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>teeb ainetevahelisi projektitöid (filmide tegemine, teatritükkide etendamine, veebilehtede koostamine, jne);</li><li>otsib infot ja kasutab võõrkeelseid allikaid nt uurimistöö koostamisel;</li><li>mõistab, väljendab ja tõlgendab kontseptsioone, mõtteid, tundeid, fakte ja arvamusi erinevatel (õppekava läbivatel) teemadel nii suuliselt kui ka kirjalikult mitmesugustes ühiskondlikes ja kultuurisituatsioonides, lähtudes enda vajadustest ja soovidest.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitegevused loeteluna",
+      "children": [
+        {
+          "kind": "section",
+          "title": "B2 keeletase",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>erinevad keeleregistrid; oma huvivaldkonna ja erialaga seonduvad laialdased, sh abstraktsed teemad; argumenteeriv, nii enda kui teiste arvamusi vahendav keelekasutus</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "VASTUVÕTUTOIMINGUD (kuuldu ja loetu mõistmine)",
+          "children": [
+            {
+              "kind": "section",
+              "title": "KUULDU MÕISTMINE",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>loomuliku tempoga, keeruka sisuga mõttevahetus mitme inimese vahel (nt väitlus,) elav suuline kõne ja salvestised nii konkreetsetel kui abstraktsetel teemadel (vestlus, loeng, ettekanne) erinevates keeleregistrites (ametlik, poolametlik); mõistmist võivad takistada taustamüra, keelenaljad, idioomid ja keerukad keelekonstruktsioonid.</p><ol><li>kuulab autentset pikemat sisu nii otsesel suhtlemisel (ametiasutuses, olmesfääris, töövestlusel, jne) kui ka salvestatuna (ka väljaspool klassitundi) ja mõistab teksti põhisisu, kõneleja seisukohti ja hoiakuid;</li><li>kuulab tuttaval teemal esitatud loengu/ettekande ja audio(visuaalse) teksti ja mõistab põhisõnumit ja keerukamat mõttekäiku;</li><li>kuulates (loengud, filmid, jne.) tuvastab kõneleja seisukoha ja eristab seda esitatud faktidest;</li><li>kuulab taustamüraga, normaalse kiirusega edastatud teadaandeid ja sõnumeid (rongijaamas, tänavaintervjuud, taskuhääling jne);</li></ol>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "LOETU MÕISTMINE",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>loeb pikki ja keerukaid sh abstraktseid tekste, leiab neist asjakohase teabe ning oskab selle põhjal teha üldistusi teksti mõtte ja autori arvamuse kohta. Loeb iseseisvalt, kohandades lugemise viisi ja kiirust sõltuvalt tekstist ja lugemise eesmärgist. Raskusi võib olla idioomide ja kultuurispetsiifiliste vihjete mõistmisega.</p><ol><li>loeb eri liiki autentseid tekste iseseisvalt ja täidab erinevaid ülesandeid (nt tõlkimine, märkmete tegemine, võrdlus, refereerimine, jutustamine, esitlus, ettekanne), mis eeldavad suurt aktiivset lugemissõnavara;</li><li>loeb häälega eri liiki tekste õige häälduse, intonatsiooni ja rõhuga;</li><li>mõistab aktuaalsel teemal argumenteeriva teksti sisu (tunneb ära lahknevad hoiakud ja eriarvamused, eristab fakte arvamusest, jne.);</li><li>loeb iseseisvalt ja saab aru tänapäevasest ilukirjandusest.</li></ol>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LOOME- JA SUHTLUSTOIMINGUD",
+          "children": [
+            {
+              "kind": "section",
+              "title": "SUULISD TOIMINGUD",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>esineb pikemate monoloogidega, esitab selgeid, üksikasjalikke kirjeldusi, põhjendab/kaitseb oma seisukohti; suhtleb erinevatel teemadel, juhib vestlust ja annab tagasisidet; jälgib oma keelekasutust, valib sobiva keeleregistri, vajadusel sõnastab öeldu ümber ja parandab enamiku vigadest; kasutab tõhusalt prosoodilisi vahendeid (rõhku, intonatsiooni, rütmi), kõnerütmis ja -tempos võib olla tunda emakeele mõju.</p><ol><li>vestleb üsna spontaanselt ja ladusalt (nt intervjuu rühmatöö), nii et regulaarne suhtlemine sihtkeele kasutajaga on võimalik;</li><li>osaleb teemakohastes aruteludes ja väitluses, selgitades seisukohti aktuaalsetel teemadel ja esitades arvamusi argumenteeritult;</li><li>kirjeldab selgelt ja üksikasjalikult sündmusi, olukordi, tundeid, jne;</li><li>annab üksikasjalikult edasi infot ja arutluskäiku (nt piltide võrdlus, monoloog), sh väljendab oma arvamust (nt tugevad/nõrgad küljed, muutmise vajadus).</li><li>esitleb teemat, referaati ja/või uurimistööd ning annab asjakohaseid selgitusi ja kommentaare;</li><li>suhtleb mitme kaaslasega, sidudes oma mõtteid teiste arvamustega ja selgitades vääritimõistmisi või eriarvamusi (kui ei kasutata keerulist keelt, on piisavalt aega ja ollakse koostööaltid).</li><li>julgustab teisi osalema (nt arutelus) ja tõstatama küsimusi, et kutsuda rühma liikmeid avaldama oma vaatenurka või palub neil oma ideid täpsemalt selgitada.</li></ol>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "KIRJALIKUD TOIMINGUD",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>kirjutab seotud, loogilisi tekste konkreetsetel ja üldisematel teemadel, põhjendab oma seisukohti ja eesmärke. Refereerib nii kirjalikust kui ka suulisest allikast saadud infot. Kasutab erinevaid keeleregistreid sõltuvalt adressaadist, eristades isiklikku ja ametlikku stiili. Varieerib väljendust korduste vältimiseks, ebatäpsused lausestuses (eriti kui teema on võõras) ei sega kirjutatu mõistmist. Kasutab lausesiseseid kirjavahemärke enamasti reeglipäraselt.</p><ol><li>koostab selgeid, üksikasjalikke kirjeldusi oma huvidega seotud laialdastel teemadel (nii tegelikest või kujuteldavatest sündmustest ja kogemustest) ja argumenteeritud ettekandeid mitmesugustel teemadel;</li><li>koostab selge argumentatsiooniga arvamuskirjutisi, esitades põhjendatud poolt- või vastuväiteid ning selgitades võimalike seisukohtade eeliseid ja puudusi;</li><li>kirjutab tarbetekste (nt elulookirjeldus, avaldus, motivatsioonikiri, seletuskiri, lugejakiri, raport), vajadusel kasutades abimaterjale;</li><li>koostab loovtöid (nt kirjand, essee, artikkel, retsensioon, kokkuvõte, luuletus, tõlge, blogi) ja referaate;</li><li>vahendab kaaslaste arvamust (nt annab tagasisidet rühmatööle ja toetab koostööd), sidudes oma mõtteid teiste arvamustega ja selgitades vääritimõistmisi või eriarvamusi.</li></ol>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "HOIAKUD, VÄÄRTUSED, KÄITUMINE, KOOSTÖÖKULTUURI LOOMINE JA MITEMEKULTUURILISUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>kasutab kultuuriteadmisi suhtlemisel nii tunnis kui väljaspool õppetööd (nt kirjasõbrad, õppereisid, õpilasvahetused ja kohtumised õpitavat keelt emakeelena kõnelejatega)</li><li>kõrvutab ja analüüsib keelte ning kultuuride sarnasusi ja erinevusi, tuvastab seoseid ning jälgib oma keelekasutust;</li><li>osaleb diskussioonides/aruteludes ja suhtleb (nii suuliselt kui kirjalikult) kõneleva keele maa kultuurinorme arvestades.</li><li>järgib žanrinõudeid nii kirjalikus kui suulises suhtluses;</li><li>kasutab õpitavat võõrkeelt teiste kultuuridega tutvumiseks ja nende eripärade mõistmiseks.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KEELEKASUTUS (keerukus, täpsus ja ladusus)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>väljendub selgelt ja mitmekülgselt, kasutades erinevaid registreid vastavalt sihtrühmale;</li><li>kasutab rikkalikku sõnavara (sh sünonüüme ja kollokatsioone) ja lausestruktuure üldiste kõneainete ja oma tegevusala piires, mis võimaldavad mõtet täpselt edastada, kuid sõnavara lüngad võivad siiski põhjustada takerdust või kaudset väljendust;</li><li>kasutab üldiselt korrektset õigekirja ja grammatikat, kuid võib esineda juhuslikke vigu või vääratusi lauseehituses;</li><li>toimetab lihtsamaid kirjalikke tekste, vajadusel kasutades abivahendeid (nt sõnaraamat, tehisintellekt).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "INFO- JA ANDMEKIRJAOSKUS",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>(andmete, info ja digisisu otsing, hindamine ja haldamine) + suhtlus- ja koostöö digikeskkonnas, digisisu loomine, digiturvalisus, probleemilahendus</p><ol><li>otsib infot ja kasutab võõrkeelseid allikaid (sh, digikeskkonnad ja raamatud/ajakirjad) infot kriitiliselt hinnates;</li><li>kasutab (digitaalseid) sõnaraamatuid jt allikaid (sünonüümide, antonüümide, kollokatsioonide, idiomaatiliste väljendite, jne kontrollimiseks);</li><li>vajadusel kasutab tehisintellekti lahenduste võimalusi keeleõppe tõhustamiseks (nt ajurünnakuks või oma tööle tagasiside saamiseks);</li><li>sünteesib infot mitme allika põhjal (nt ettekande tarbeks) sh erinevatest võõrkeeltest.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "KULTUURI TARBIMINE JA LOOMING",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>tarbib võõrkeelset ilukirjandust, filme, uudiseid ja publitsistikat;</li><li>osaleb sihtkultuuri alastel üritustel (sh õpilasvahetus, konkursid ja olümpiaadid);</li><li>loob ise võõrkeelset sisu (jutukesed, luuletused, videod, blogid, jne.) ja teeb projektitöid (nt filmide loomine, teatritükkide etendamine, veebilehtede koostamine, õpilasvahetus).</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "ÕPIOSKUSED",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>kasutab tõhusaid keeleõppestrateegiaid (vaba meenutamine, vahelduvõpe, mõttemallide muutmine, jne) ja vajadusel muudab oma õpistrateegiaid;</li><li>seab ise endale õpieesmärke ja kavandab õpitegevusi nende saavutamiseks;</li><li>märkab oma edusamme, annab oma teadmistele ja oskustele hinnanguid ja oskab kasutada saavutatut edasisel õppimisel;</li><li>jõuab selgusele oma keeleoskustasemes (nt erinevaid osaoskusi hõlmav enesehindamine õppeaasta algul ja lõpul, mida kasutatakse oma õppimise tagasisidestamises ja eesmärkide seadmiseks);</li><li>annab kaasõpilastele tagasisidet nende tugevate külgede ja vajakajäämiste kohta ning teeb ettepanekuid arenguks;</li><li>kasutab analüüsi (minu oskused, väärtused, hoiakud) ja kommunikatsiooni (sh refleksioon) oma karjäärivõimaluste planeerimiseks, valmistub elukestvaks õppeks.</li></ol>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "LÕIMING JA LÄBIVAD TEEMAD",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ol><li>teeb ainetevahelisi projektitöid (nt filmide tegemine, teatritükkide etendamine, veebilehtede koostamine);</li><li>otsib infot ja kasutab võõrkeelseid allikaid nt uurimistöö koostamisel;</li><li>mõistab, väljendab ja tõlgendab kontseptsioone, mõtteid, tundeid, fakte ja arvamusi erinevatel (õppekava läbivatel) teemadel nii suuliselt kui ka kirjalikult mitmesugustes ühiskondlikes ja kultuurisituatsioonides, lähtudes enda vajadustest ja soovidest.</li></ol>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "B2 keeletaseme õpitegevuste võrdlus teiste keeletasemete õpitegevustega",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>(NB! C1 23.09 parandustega uuendamata)</p>"
+        }
+      ]
+    }
+  ]
+}

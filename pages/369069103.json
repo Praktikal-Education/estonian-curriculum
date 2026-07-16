@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse eesmärk",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse taotluseks on kujundada õppija esmased teadmised ja praktilised oskused lahingvigastusega kannatanule esmaabi andmiseks.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursus tugineb TCCC algoritmile ning õppes kasutatakse Kaitseväe üksikvõitleja meditsiinivarustust.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Hindamine on mitteeristav ja toimub võtete praktilise demonstreerimise kaudu.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppematerjalid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>TCCC juhendmaterjal</li><li>KVA õppematerjal</li><li>Simulatsioonivahendid ja muu meditsiiniline varustus</li></ul>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab lahinguväljal sagedamini esinevaid traumasid ja nende tekkepõhjuseid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab TCCC kontseptsiooni kolme faasi (abi tule all, taktikalise abi faas ja abi evakuatsioonil);",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja kasutab abi andmise algoritmi cABCDE;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab verejooksude peatamise võtteid (žgutt, rõhkside);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab avada hingamisteid (pea kuklasse- kui traumat ei kahtlusta, alalõuatõste, stabiilne küliliasend);",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab akronüümi RISE- oskab mõõta rindkerelt hingamissagedust, oskab otsida vigastusi, oskab vaadata rindkere sümmeetriat ja saab aru, kui kannatanu kasutab abilihaseid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "annab rindkerevigastusega kannatanule sobiva asendi;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "katsub randmelt pulssi, pulsi puudumisel randmelt saab aru, et patsiendil on šokk, ning peab kiirelt kutsuma meediku. mõõdab pulsisagedust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab Kaitseväe üksikvõitleja meditsiinivarustust vastavalt leitud vigastustele ja ettenähtud korrale;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab ja oskab rakendada kannatanu üle andmise NATMIST raportit evakuatsioonile.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "table",
+          "html": "<table><thead><tr><th>Õppesisu</th><th>Kirjeldus</th></tr></thead><tbody><tr><td><strong>Sagedamini esinevad traumad lahinguväljal ja nende tekkemehhanismid.</strong></td><td></td></tr><tr><td><strong>Sissejuhatus ohutusesse ja TCCC põhimõtted.</strong></td><td>TCCC kontseptsiooni tutvustus, ohutuse tagamine, ohu elimineerimine.</td></tr><tr><td><strong>Massiivse verejooksu peatamine.</strong></td><td>Žguti paigaldus, hemostaatiline side, rõhkside.</td></tr><tr><td><strong>Hingamisteede avamine ja säilitamine.</strong></td><td>Pea kuklasse, alalõuatõste, stabiilne küliliasend.</td></tr><tr><td><strong>Rindkere käsitlus.</strong></td><td>Hingamissageduse mõõtmine- norm 12-20. Kui hingamissagedus &lt;10 x’ või &gt;20x’ siis koheselt sellest teavitada meedikut. Pingelise õhkrinna avastamine, lahtise rindkerevigastuse katmine sidemega, asendi andmine.</td></tr><tr><td><strong>Verejooksude kontroll, pulsi katsumine. Šokk.</strong></td><td>Pulsi katsumine randmelt, puudumisel koheselt teavitada meedikut. Pulsi katsumine kaelalt, et saada numbriline väärtus. Šoki definitsioon ja selgitus.</td></tr><tr><td><strong>Neuroloogilise staatuse hindamine.</strong></td><td>AVPU ja pupillid.</td></tr><tr><td><strong>Luumurrud ja lahastamine</strong></td><td>Kolmnurkrätiku abil jäseme fikseerimine.</td></tr><tr><td><strong>Praktiline harjutus I</strong></td><td>Situatsioonid klassis väikestes gruppides</td></tr><tr><td><strong>Praktiline harjutus II</strong></td><td>Väliõpe: harjutuspunktid, evakuatsioon.</td></tr><tr><td><strong>Kokkuvõte</strong></td><td>Praktilised ülesanded, debrief.</td></tr></tbody></table>"
+        }
+      ]
+    }
+  ]
+}

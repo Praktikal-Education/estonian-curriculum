@@ -1,0 +1,214 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Kursuse kirjeldus",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Kursuse eesmärk on kujundada õpilaste <strong>elanikkonnakaitse pädevusi</strong>, mis võimaldab neil iseseisvalt ja vastutustundlikult toime tulla erinevates keskkondades ning kriisiolukordades.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Kursus annab ülevaate kriiside olemusest, elanikkonnakaitse süsteemist ja kriisivalmiduse põhimõtetest. Õpitakse, kuidas kriisiolukordi märgata, kuidas valmistuda ning millised on inimese ja kogukonna võimalused turvalisuse tagamisel. Kursus toetab ohuteadlikkuse kujunemist, praktilist valmisolekut kriisideks, rahulikku ja läbimõeldud käitumist, koostööd ja turvalist tegutsemist.</p>"
+        },
+        {
+          "kind": "text",
+          "html": "<p>Soovitame kombineerida õppeteemade teoreetilist käsitlemist praktiliste ülesannetega, viia läbi õppekäike ja kaasata valdkonna eksperte. Soovitused on lisatud vastavate õppeteemade juurde.</p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "selgitab tsiviil- ja riigikaitseliste kriiside olemust ning teab, kuidas erinevates kriisiolukordades käituda;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "märkab ja hindab kriisiolukorda ning tegutseb olukorrale vastavalt kasutades sobivaid viise info leidmiseks ja edastamiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära valeinfo ja manipulatsiooni ning rakendab kriitilist mõtlemist otsuste tegemiseks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tuleb kriisiolukorras toime, otsib vajadusel abi ja aitab teisi abivajajaid ennast ohtu seadmata;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kuidas valmistuda elutähtsate teenuste katkemiseks ja oskab tegutseda nende puudumisel;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab koduste kriisivarude soetamise ja hoiustamise põhimõtteid;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "selgitab varjumiskoha ja varjendi erinevusi ning muudab vajadusel varjumiskoha varjumiskindlamaks;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Evakueerub tulenevalt ohust ja korraldab oma koduste evakuatsiooni;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb ära lõhkematerjali ja lahingumoona ohu ning teab, kuidas nende leidmisel käituda.",
+          "outcomeType": "skill"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Abistavad õppematerjalid",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Elanikkonnakaitse pädevusmudel (kõik materjalid on leitavad pädevusmudeli vastavate teemade juures):</p>"
+        },
+        {
+          "kind": "link",
+          "href": "https://www.rescue.ee/et/juhend/elanikkonnakaitse-paedevusmudel",
+          "title": "Elanikkonnakaitse pädevusmudel"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õppesisu",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Elanikkonnakaitse",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Elanikkonnakaitse eesmärk ja tegevused ning vastutusvaldkonnad</li><li>Riik: meetmete süsteemi loomine ja koostöö</li><li>Kohalik omavalitsus: kriisiolukorras inimese kõige lähem abistaja</li><li>Kogukond: teineteise hakkamasaamise toetamine</li><li>Elanik: oma kriisivalmiduse ja -varude eest vastutaja</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Riskid ja kriisid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Suuremad viimasel ajal toimunud piirkondlikud, üleriigilised ja üleilmsed kriisid (tsiviil- ja riigikaitselised riskid ja kriisid, inimtekkelised mittekuritegelikud, inimtekkelised kuritegelikud, looduslikud, haiguspuhangud)</li><li>Piirkondlike riskide kaardistamine, võimalikud ennetamise ja lahendamise viisid (detsentraliseeritus, ametkondade ülene koostöö, ülesannete jäävuse põhimõte, lähimuse põhimõte)</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ohuteavitus ja info kriisi ajal",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Riski- ja kriisikommunikatsioon - ohuteavitus ja info enne kriisi ning kriisi ajal</li><li>ohust teavitamise viisid (ohuteavitussüsteem EE-ALARM jm)</li><li>kriisiolukorras info edastamine, valeinfo äratundmine ja reageerimine manipulatsioonile</li></ul>"
+            },
+            {
+              "kind": "section",
+              "title": "Soovitused praktiliseks õppeks ja õppekäikudeks",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Võimalikud vestlusteemad: infosõda, hübriidohud, õnnestunud ja ebaõnnestunud kommunikatsiooni näited.</li><li>Kutsuge külla kohaliku omavalitsuse kriisikomisjoni esindaja ja küsige, kuidas toimub kriisikommunikatsioon teie kogukonnas (sh kerksuskeskused, infopunktid ja -telefonid, teadetetahvlid).</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Kriisiolukorraks ettevalmistus ja käitumine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Isiklik ja oma pere kriisivalmidus ning -plaan (kuidas saan hakkama 12 h, 72 h, 7 päeva ja teadmata aeg).</li><li>Elutähtsad teenused ja toimetulek nende katkemisel kodus ning kogukonnas (ettevalmistus ja tegevusplaan).</li><li>Koostöö kriisi ajal kogukonnas, KOVis ja riigis. Kes mille eest vastutab sinu kogukonnas ja kuidas koostöö kriis ajal toimub?</li><li>Võimalused, kuidas panustada kriisi lahendamisele oma kodus ja kogukonnas ennast ohtu seadmata.</li></ul>"
+            },
+            {
+              "kind": "section",
+              "title": "Soovitused praktiliseks õppeks ja õppekäikudeks.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Õppekäigud võimalikesse kohtadesse kogukonnas, kust saab kriisi ajal infot, nõu ja abi (teavitustahvlid, kerksuskeskused jne)</li><li>Kohtumine kriisi ajal kogukonnas vastutavate ameti esindajatega (Päästeamet, kohalikud vabatahtlikud päästjad, kohalik omavalits, kogukondade, elutähtsate teenuste osutajad jt).</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Varjumine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Varjumiskoha ja varjendi erinevused ning seadusest tulenevad nõuded hoonetele.</li><li>Varjumise vajalikkus, teavitus ja käitumine.</li><li>Varjumise põhimõtted hoones sees ja välikeskkonnas.</li><li>Võimalike varjumiskohtade kaardistus kodus, koolis, kogukonnas ja peamisel liikumistrajektooril.</li><li>Isikliku varjumisplaani koostamine ja analüüs (kodus ja peamisel liikumistrajektooril).</li><li>Võimalusel varjumiskoha kohandamine vastavalt varjumisplaanile (kodus, koolis jne).</li></ul>"
+            },
+            {
+              "kind": "section",
+              "title": "Soovitused praktiliseks õppeks ja õppekäikudeks.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Külastage võimalikke varjumiskohti koolis, kogukonnas ja avalikus ruumis.</li><li>Kutsu külla kohaliku omavalitsuse, Naiskodukaitse, Päästeameti või muu organisatsiooni esindajad, kes oskavad anda infot varjumiskohtade ja nende varjumiskindlaks muutmise kohta.</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Ulatuslik evakuatsioon",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Erinevad evakueerumise võimalused: spontaanne ehk iseeneslik evakuatsioon, soovituslik/kohustuslik evakuatsioon, sunniviisiline evakuatsioon.</li><li>Ulatusliku evakuatsiooni plaan (isiklik, kogukondlik).</li><li>Evakuatsiooni korraldusel sellele eelnev ja järgnev tegevus (isiklik, kogukondlik).</li></ul>"
+            },
+            {
+              "kind": "section",
+              "title": "Soovitused praktiliseks õppeks ja õppekäikudeks.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Kutsuge külla kohaliku omavalitsuse kriisimeeskonna, Naiskodukaitse evakuatsioonirühma, Päästeameti või muu organisatsiooni esindajad, kes teavad, kuidas on vallas/linnas evakuatsioon päriselt planeeritud.</li><li>Külastage mõnda organisatsiooni (Päästeamet, Kaitseliit jne) ja laske neil tutvustada oma varustust ja valmisolekut elanikkonna abistamiseks kriisides.</li></ul>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Plahvatusohutus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Mõisted plahvatus, lõhkematerjalid, lõhkaine ja pürotehnika. Mis ohud nendega kaasnevad (lööklaine, rõhumuutused, killud, temperatuur jne) ja kuidas ennast hoida. Näited: piirkondlikud, eesti ja mujalt maailmast (õnnetusjuhtumid, sõjad, terrorism jne).</li><li>Erinevad lahingumoonad. Märkan - kirjeldan - tegutsen.</li></ul>"
+            },
+            {
+              "kind": "section",
+              "title": "Soovitused praktiliseks õppeks ja õppekäikudeks.",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<ul><li>Piirkonna pommigrupi õppeklassi külastamine.</li><li>Kokkuleppel pommigrupiga piirkonna kinnise lõhkamiskoha külastamine, koos näidislõhkamisega.</li><li>Kõne 112 läbimäng, kus tuleb kirjeldada leitud eset selliselt, et kõne vastuvõtja suudab selle tuvastada etteantud piltidel.</li><li>Lähiajaloo muuseumi (näit Sõjamuuseum, Valga Isamaalise Kasvatuse Püsiekspositsioon, Sinimägede Muuseum, Hiiumaa Militaarmuuseum jne) külastus.</li></ul>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

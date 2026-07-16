@@ -1,0 +1,977 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Oodatavad õpitulemused 7. klassi lõpuks",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "teab naturaalarve 100 000 piires",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "ümardab arvu etteantud järguni 100 000 piires",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab Rooma numbreid I–XXX",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "liidab ja lahutab 100 000 piires",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "korrutab ja jagab 100 000 piires",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab mitmetehtelisi avaldisi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "teisendab harilikke murde",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "taandab harilikke murde",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "korrutab ja jagab harilikke murde",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "leiab terviku tema osa järgi",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "liidab ja lahutab kümnendmurde",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "korrutab ja jagab kümnendmurde",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "kasutab arvutamisel pikkus-, raskus-, mahu-, aja- ja rahaühikute seoseid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab aritmeetilise keskmise",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "arvutab hulknurga ümbermõõdu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "joonestab sümmeetrilisi kujundeid",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "lahendab kolmetehtelisi tekstülesandeid toetudes lahendusplaanile.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Määruses fikseeritud õpitulemused on lähtuvalt käsitletavast õppesisust konkretiseeritud.</strong></p><p><strong>Kohustuslik aine maht 4 tundi nädalas.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik õppevara",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>Veelmaa, R., Värv, E., Madison, I. ja Maila, M. (2015). Matemaatika tööraamat 7. klassile, I-II osa. Studium.</p>"
+        },
+        {
+          "kind": "file",
+          "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/Matemaatika_7_klassile_I_osa_2021_web.pdf",
+          "title": "Matemaatika_7_klassile_I_osa_2021_web.pdf (hev.edu.ee)"
+        },
+        {
+          "kind": "file",
+          "src": "https://test.hev.edu.ee/wp-content/uploads/2023/10/Matemaatika_7_klassile_II_osa_2021_web.pdf",
+          "title": "Matemaatika_7_klassile_II_osa_2021_web.pdf (hev.edu.ee)"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming teiste õppeainetega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Lõiming eesti keelega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Õppetöö käigus selgitab oma seisukohti, vajadusel hangib õpetaja juhendamisel täiendavat teavet erinevatest infoallikatest. Oskab juhendamisel leida ja kasutada ka võõrkeelset teavet veebist (lõiming võõrkeelega). Probleemülesannete lahendamisel taastab sisu vastavalt püstitatud ülesandele ning selgitab erinevaid seoseid (nt ajalisi, põhjuslikke), vajaduse korral kasutab ühiselt koostatud abivahendeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming loodusõpetusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sooritab vajalikke praktilisi mõõtmisi, teeb tulemuste põhjal kokkuvõtteid ning seostab saadud teadmisi igapäevaelus ettetulevate olukordadega. Kasutab õppetöö käigus õpitud mõõtühikuid ning nendevahelisi seoseid. Vajadusel oskab leida etteantud suurus(t)e aritmeetilise keskmise. Tekstülesannete lahendamisel saab korrata ja kinnistada õpitud teemasid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming ajalooga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Mõistab ajalist järgnevust ajateljel, omab üldist ettekujutust muinasajast ja selle perioodidest (inimeste eluviis ja tegevusalad) ning vana- ja keskajast (olulisemad saavutused ja leiutised Euroopas, sündmused Eesti aladel). Tekstülesannete lahendamisel saab korrata ja kinnistada õpitud teemasid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming inimeseõpetusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Selgitab õpetaja suunamisel probleemülesannete lahenduskäiku, mõistab ja oskab kirjeldada töö tähtsust. Kirjeldab ja hindab plaani abil enda ja kaaslaste ülesannete lahendamise strateegiaid ja tulemusi. Planeerib enda aega arvestades oma soovide ja võimalustega. Hangib õpetaja juhendamisel teavet erinevatest infoallikatest ning edastab seda kaaslastele, kasutades vajadusel tänapäevaseid sideteenuseid (e-kirjavahetus, telefon, internet, sotsiaalmeedia). Tekstülesannete lahendamisel saab korrata ja kinnistada õpitud teemasid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming muusikaga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teadmisi erinevatest pillirühmadest saab kasutada eluliste probleemülesannete koostamisel ja lahendamisel.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming kunstiõpetusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Märkab ja kirjeldab õpitud geomeetrilisi kujundeid ning sümmeetriat kujunduselementides ümbritsevas keskkonnas ning väljendab neid temaatilistes töödes kasutades erinevaid vahendeid.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming käsitöö, kodunduse ja tehnoloogiaga",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kasutab õpetaja juhendamisel mõõtenõusid ja kaalu ning teisendab vajadusel mahu- ja massiühikuid. Valmistab iseseisvalt lihtsamaid tervislikke toite järgides retseptis ette antud koguseid ja valmistamiseks kuluvat aega. Kasutab õpitud teadmisi ja oskuseid vajalike mõõtmiste sooritamiseks ja mõõtmistulemuste märkimiseks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lõiming kehalise kasvatusega",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatilistele teadmistele (nt ajaühikud, pikkusühikud) tuginedes hindab õpilane enda ja kaaslaste tulemusi erinevates tegevustes (nt kõrgushüpe, kuulitõuge, pendelteatejooks, võimlemine, sportmängud, talispordialad).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "1. Õpilane teab naturaalarve 100 000 piires.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvud 100 000 piires, moodustamine, lugemine, kirjutamine.</p><p>Arvude nimetamine 10, 100, 1000 ja 10 000 kaupa.</p><p>Üheliste, kümneliste, sajaliste, tuhandeliste ja kümnetuhandeliste arvu määramine antud arvus.</p><p>Arvu esitamine järguühikute summana ja järguühikute summa järgi.</p><p>Arvude võrdlemine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Moodustab, loeb ning kirjutab arve 100 000ni.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Nimetab arve kasvavas ja kahanevas järjekorras 1, 10, 100, 1000 ja 10 000 kaupa.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Määrab üheliste, kümneliste, sajaliste, tuhandeliste ja kümnetuhandeliste arvu antud arvus.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Esitab arvu järguühikute summana ning järguühikute summa järgi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Võrdleb arve, esitab võrdlemise tulemuse märkide < , > , = abil.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema käsitlemise alguses tuleb meelde tuletada kümnetuhandelise kui loendamisühiku tekkimine - järgneva kümnetuhandelise saab, kui liita eelmisele kümnetuhandelisele üks kümnetuhandeline juurde.</p><p>Alguses loendatakse ja kirjutatakse täiskümnetuhandelisi (nt 20 000, 30 000, 40 000), seejärel kümnetuhandelisi koos täistuhandetega (nt 22 000, 23 000) ning lõpuks arve, milles on kümnetuhandelised, tuhandelised, sajalised, kümnelised ja ühelised (nt 47 450, 47 451). Oluline on harjutada loendamist ja arvude kirjutamist nii kasvavas kui kahanevas järjekorras. Lihtsam on lugeda ja kirjutada arve, milles pole ükski järk tähistatud 0-ga.</p><p>Õpilaste tähelepanu tuleb juhtida, et trükitud tekstis (nt tööraamatus) on tuhandeliste ja sajaliste järgu vahel tühik. Vihikusse arve kirjutades tühja ruutu vahele ei jäeta.</p><p>Oluline on, et õpetaja hääldaks arve korrektselt ning nõuaks seda ka õpilastelt (nt <em>viisgend kolm tuhat nelisada kaksgend kaheksa</em> pro <em>viiskümmend kolm tuhat nelisada kakskümmend kaheksa</em>).</p><p>Harjutada tuleks nii arvude kirjutamist järkarvude summana (nt 45 680 = 40 000 + 5000 + 600 + 80) kui järkarvude summa järgi arvu kirjutamist.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "2. Õpilane ümardab arvu etteantud järguni 100 000 piires.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvude ümardamine tuhandelisteni.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Ümardab arve kümnelisteni, sajalisteni või tuhandelisteni.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ümardamise teema käsitlemist tuleks alustada aruteluga, miks ja millal me arve ümardame. Arutelu tuleks illustreerida eluliste näidetega (nt poes kulude kokku arvutamisel).</p><p>Arvude ümardamisel tuhandelisteni võib tuhandeliste järgu kohale märkida T, et õpilasel oleks lihtsam jälgida, milleni tuleb ümardada.</p><p>Täpsemaid soovitusi saab lugeda 6. klassi õpiltulemuste juurest.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "3. Õpilane teab Rooma numbreid I–XXX.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            { "kind": "text", "html": "<p>Rooma numbrid I– XXX.</p>" }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Loeb ja kirjutab Rooma numbreid I–XXX.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Viib kokku araabia ja Rooma numbri.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab Rooma numbreid järgarvude märkimisel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab Rooma numbreid daatumite lugemisel ja kirjutamisel.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Rooma numbrite eristamise ja tundmise kinnistamiseks tuleks teha erinevaid ülesandeid: Rooma numbri ja vastava araabia numbri ühendamine, araabia numbri kirjutamine Rooma numbriga ja vastupidi, arvutamisülesanded Rooma numbritega jms.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "4. Õpilane liidab ja lahutab 100 000 piires.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Täisarvude liitmine ja lahutamine kõikides raskusastmetes.</p><p>Nimega arvude liitmine ja jagamine kõikides raskusastmetes.</p><p>Tulemuse kontrollimine pöördtehtega.</p><p>Puuduva tehtekomponendi leidmine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Liidab ja lahutab kõigis raskusastmetes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Liidab ja lahutab nimega arve kõigis raskusastmetes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kontrollib tulemust pöördtehtega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Leiab puuduva tehtekomponendi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Viiekohaliste arvude liitmisel ja lahutamisel tuleb järgida samu põhimõtteid nagu varasemalt (vt soovitusi 5. ja 6. klassi õpitulemuste juurest). Järjepidevalt tuleb rõhutada õpilastele, et sama järgu ühikud peavad olema kirjutatud kohakuti ning nii liitmisel kui lahutamisel tuleb alustada väikseimast järgust ehk ühelistest. Oluline on ka meelde tuletada, et arvutame alati ülevalt alla. Kui õpilase jaoks on keeruline samade järkude üksteise alla paigutamine, võib järgud märkida eri värvidega.</p><p>Algoritmid nii järguühiku ületamiseta kui järguühiku ületamisega liitmiseks ja lahutamiseks on leitavad soovitusliku õppevara 1. osast (lk 19, 20, 30, 34).</p><p>Nimega arvude liitmise ja lahutamise algoritmid leiab samuti soovitusliku õppevara 1. osast (lk 61, 64).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "5. Õpilane korrutab ja jagab 100 000 piires.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvu suurendamine ja vähendamine 10, 100, 1000 korda.</p><p>Kolme- ja neljakohalise arvu korrutamine ja jagamine kirjalikult ühekohalise arvuga üleminekuta ja üleminekuga.</p><p>Korrutamine ja jagamine täiskümnete, -sadade ja -tuhandetega.</p><p>Nimega arvude korrutamine ja jagamine ühekohalise arvuga.</p><p>Korrutamise ja jagamise kontrollimine pöördtehtega.</p><p>Puuduva tehtekomponendi leidmine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Suurendab ja vähendab arvu 10, 100, 1000 korda.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Korrutab ja jagab täisarve ühekohalise arvuga järgu ületamiseta ja järgu ületamisega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Korrutab ja jagab täisarve täiskümnete, -sadade ja -tuhandetega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Korrutab ja jagab nimega arve ühekohalise arvuga.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kontrollib tulemust pöördtehtega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Leiab puuduva tehtekomponendi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Korrutamisel ja jagamisel 10, 100, 1000 korda kasutatavad algoritmid on leitavad 6. klassi õpitulemustest.</p><p>Korrutamisel ja jagamisel järguühiku ületamiseta võib arvu teha järkarvude summaks. Sel juhul tuleb kõik saadud järkarvud korrutada/jagada eraldi ning seejärel saadud tegurid/jagatised liita.</p><p>Korrutamisel järguühiku ületamisega tuleb kasutada kirjaliku korrutamise võtet ning järgida algoritmi: 1) alustan korrutamist üheliste järgust; 2) korrutise üheliste arvu kirjutan üheliste järgu alla; 3) kümneliste arvu kirjutan meelespeetava arvuna järgmise järgu kohale; 4) liidan meelespeetava arvu järgmise järgu arvude korrutisele.</p><p>Jagamisel järguühiku ületamisega tuleb kasutada kirjaliku jagamise võtet ning järgida algoritmi: 1) alustan jagamist kõige kõrgemast järgust; 2) kui kõige kõrgem järk on väiksem kui jagaja, alustan jagamist siis, kui järkudest moodustuv arv on jagajast suurem või sellega võrdne; 3) jagan esimese jagatava arvu ja kirjutan saadud arvu jagatisse; 4) korrutan selle arvu jagajaga, et saaksin teada, mis arvu ma tegelikult jagasin; 5) lahutan, et saaksin teada, mitu ühikut jäi veel jagada (jääk peab olema väiksem kui jagaja); 6) toon järgmise järgu alla; 7) jätkan jagamist samamoodi kuni lõpuni.</p><p>Korrutades täisarve täiskümnete, -sadade ja -tuhandetega tuleb esmalt jätta nullid tähele panemata ning korrutada ilma nendeta. Saadud korrutisele lisada lõppu nii mitu nulli, kui mitu oli mõlema teguri lõpus kokku.</p><p>Jagamisel täiskümnete, sadade ja tuhandetega tuleb ära jätta nii mitu nulli, kui nii jagataval kui jagajal mõlemal on (jagamisel 10-ga jätan arvu lõpust ära ühe nulli, jagamisel 100-ga kaks nulli jne).</p><p>Nimega arvude korrutamisel ja jagamisel ühekohalise arvuga tuleb alustada mitmenimelise arvu teisendamisest ühenimeliseks. Algoritmid on leitavad soovitusliku õppematerjali 1. osast (lk 83, 85).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "6. Õpilane lahendab mitmetehtelisi avaldisi.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tehete järjekorra määramine kolme- ja neljatehtelistes avaldistes.</p><p>Ümarsulgude kasutamine avaldistes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Määrab avaldises tehete järjekorra (kuni neli aritmeetilist tehet).",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab avaldistes ümarsulge.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Oluline on meelde tuletada ja selgitada tehete järjekorra reeglit: 1) teen sulgudes olevad tehted; 2) teen korrutamis- ja jagamistehted; 3) teen liitmis- ja lahutamistehted. Seejuures on oluline, et samaväärsed tehted (+ ja – ning ∙ ja : ) tehakse nende esinemise järjekorras.</p><p>Tehete järjekord tuleb märkida avaldise peale ning kõik tehted tuleb sooritada ükshaaval.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "7. Õpilane teisendab harilikke murde.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Liigmurru teisendamine segaarvuks ja segaarvu teisendamine liigmurruks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Teisendab liigmurru segaarvuks ja segaarvu liigmurruks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Enne harilike murdude teisendamist tuleb meelde tuletada, mis on lihtmurd, liigmurd ja segaarv. Teisendamise õpetamise algetapil on soovitatav kasutada jooniseid ning ülesande sisu illustreerivat materjali, et õpilastel tekiks parem ettekujutus.</p><p>Teisendades liigmurdu segaarvuks tuleb järgida algoritmi: 1) jaga murru lugeja murru nimetajaga; 2) jagatise täisosa kirjuta segaarvu täisosaks; 3) jääk kirjuta murdosa lugejaks; 4) jagaja kirjuta murdosa nimetajaks.</p><p>Teisendades segaarvu liigmurruks tuleb järgida algoritmi: 1) korruta täisosa murru nimetajaga; 2) korrutisele liida lugeja; 3) tulemus kirjuta murru lugejasse; 4) murru nimetaja jääb samaks.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/89-2/",
+              "title": "Lisamaterjale teema käsitlemiseks"
+            },
+            {
+              "kind": "embed",
+              "src": "https://apps.mathlearningcenter.org/fractions/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "8. Õpilane taandab harilikke murde.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Taandamise olemuse mõistmine.</p><p>Harilike murdude taandamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab taandamise olemust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Taandab harilikke murde.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Murru taandamise õpetamist on soovitatav alustada jooniste vaatlemisega, kus on värvitud osa, mis kujutab nt murde ½ ja ²⁄₄. Joonis aitab õpilastel mõista, et värvitud osad on sama suured. Seejärel peaksid õpilased värvima kujunditest erinevaid etteantud osasid nii, et oleks mõistetav, kuidas erinevad murrud võivad väljendada sama suuri värvitud osasid (nt ⅓ ja ³⁄₉ jms). Seejärel saab selgitada murru taandamist toetudes jagamistabelile (praktiliselt teha läbi nt murru ³⁄₉ taandamine). Nimetatud erinevad tegevused aitavad selgitada, et murru suurus taandamisel ei muutu.</p><p>Seejärel saab õpilastele tutvustada ka taandamise reeglit: Murru lugeja ja nimetaja jagamine ühe ja sama nullist erineva arvuga on murru taandamine. Murru suurus taandamisel ei muutu.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/89-2/",
+              "title": "Lisamaterjale teema käsitlemiseks"
+            },
+            {
+              "kind": "embed",
+              "src": "https://apps.mathlearningcenter.org/fractions/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "9. Õpilane korrutab ja jagab harilikke murde.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hariliku murru korrutamine ja jagamine ühekohalise arvuga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Korrutab ja jagab harilikku murdu ühekohalise arvuga.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Arvestades varasemaid tegevusi liht- ja liigmurdudega ning segaarvudega, saab nüüd uute teemade käsitlemisel rõhutada rohkem algoritmide mõistmise ja kasutamise tähtsust.</p><p>Hariliku murru korrutamisel ja jagamisel täisarvuga saab toetuda järgnevatele algoritmidele.</p><p>Hariliku murru korrutamisel täisarvuga: 1) korrutan murru lugeja täisarvuga, 2) korrutise kirjutan lugejasse, 3) nimetaja jääb endiseks, 4) võimalusel taandan, teisendan.</p><p>Rõhutada tuleb, et kui korrutiseks on liigmurd, siis peab selle teisendama segaarvuks.</p><p>Murru jagamisel täisarvuga: 1) jätan lugeja endiseks, 2) nimetaja korrutan täisarvuga, 3) taandan.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/89-2/",
+              "title": "Lisamaterjale teema käsitlemiseks"
+            },
+            {
+              "kind": "embed",
+              "src": "https://apps.mathlearningcenter.org/fractions/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "10. Õpilane leiab terviku tema osa järgi.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kahe tehte abil tervikust osa leidmine.</p><p>Kahe tehte abil osa järgi terviku leidmine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Leiab kahe tehte abil osa tervikust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Leiab kahe tehte abil terviku tema osa järgi.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esmalt tuleks harjutada tervikust ühe osa leidmist, jagades antud arvu murru nimetajaga. Antud arvust mitme osa leidmiseks kasutatakse algoritmi: 1) leian ühe osa (jagan selle arvu murru nimetajaga); 2) leian nõutud osa suuruse (korrutan tulemuse murru lugejaga).</p><p>Osa järgi terviku leidmine võiks alguses toimuda läbi eluliste ülesannete (nt maksumuse leidmine, lehekülgede arv raamatus). Antud osa järgi terviku leidmiseks kasutatakse algoritmi: 1) leian ühe osa (jagan antud osa murru lugejaga); 2) leian terviku (tulemuse korrutan murru nimetajaga).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/57-2/",
+              "title": "Lisamaterjale teema käsitlemiseks"
+            },
+            {
+              "kind": "embed",
+              "src": "https://apps.mathlearningcenter.org/fractions/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "11. Õpilane liidab ja lahutab kümnendmurde.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kümnendmurdude liitmine ja lahutamine kõikides raskusastmetes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Liidab ja lahutab kümnendmurde kõigis raskusastmetes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kümnendmurdude liitmisel ja lahutamisel tuleb õpilastele rõhutada, et komad peavad olema kohakuti ehk üksteise all. Alguses on soovituslik kirjutada ka täisarvuline tehtekomponent kümnendmurruna, et õpilasel oleks lihtsam järke üksteise alla paigutada ning arvutada. Kui tehtekomponentides on erinev hulk kümnendkohti, võib puuduolevate arvude kohale kirjutada nulli, et arvutamist lihtsustada.</p><p>Algoritm õpilastele on järgmine: Kümnendmurdude liitmisel ja lahutamisel kirjutan: 1) täisosad üksteise alla; 2) komad kohakuti; 3) murdosad üksteise alla (kümnendikud kümnendike alla, sajandikud sajandike alla jne); 4) vajadusel lisan murdosa lõppu nullid nii, et kohtade arv oleks võrdne; 5) vajadusel võtan järgmisest järgust ühe kümne.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/79-2/",
+              "title": "Lisamaterjale teema käsitlemiseks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "12. Õpilane korrutab ja jagab kümnendmurde.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kümnendmurdude suurendamine ja vähendamine 10, 100, 1000 korda.</p><p>Kümnendmurru korrutamine ja jagamine ühekohalise arvuga kõikides raskusastmetes.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Suurendab ja vähendab kümnendmurde 10, 100, 1000 korda.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Korrutab ja jagab kümnendmurde ühekohalise arvuga kõigis raskusastmetes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Teema tutvustamisel on hea kasutada mõõtühikute teisendamise ülesandeid, mille põhjal saab selgitada, et: 1) suurema ühiku teisendamisel väiksemaks korrutan (10, 100, 1000ga), 2) väiksema ühiku teisendamisel suuremaks jagan (10, 100, 1000ga).</p><p>Õpilastele tuleb selgitada kümnendmurdude 10, 100 või 100-ga korrutamise ja jagamise põhimõtet: 1) korrutamisel nihutan koma nii mitu kohta paremale, kui mitu 0 arvus on, 2) jagamisel nihutan koma nii mitu kohta vasakule, kui mitu 0 arvus on.</p><p>Kümnendmurru korrutamisel täisarvuga õpetada järgima algoritmi: 1) korrutan arvud (koma ei vaata); 2) korrutises eraldan komaga paremalt nii mitu kümnendkohta, kui on kümnendmurrus.</p><p>Kümnendmurru jagamisel täisarvuga õpetada lähtuma algoritmist: 1) jagan täisosa; 2) kirjutan vastusesse koma; 3) jagan murdosa.</p><p>Kui jagatava täisosa on väiksem kui jagaja, siis lähtuda algoritmist: 1) kirjutan vastusesse nulli; 2) kirjutan vastusesse koma; 3) jagan täisosa koos murdosaga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Lisamaterjalid",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://hev.edu.ee/79-2/",
+              "title": "Lisamaterjale teema käsitlemiseks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "13. Õpilane kasutab arvutamisel pikkus-, raskus-, mahu-, aja- ja rahaühikute seoseid.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Pikkusühikud <em>kilomeeter</em> (km), <em>meeter</em> (m), <em>detsimeeter</em> (dm), <em>sentimeeter</em> (cm), <em>millimeeter</em> (mm).</p><p>Raskusühikud <em>tonn</em> (t), <em>tsentner</em> (ts), <em>kilogramm</em> (kg), <em>gramm</em> (g).</p><p>Mahuühikud <em>liiter</em> (l), <em>detsiliiter</em> (dl), <em>milliliiter</em> (ml).</p><p>Ajaühikud <em>sajand, aasta, kuu, nädal, ööpäev, tund, minut, sekund.</em></p><p>Rahaühikud <em>euro, sent</em>.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab seoseid 1 l = 10 dl, 1 l = 1000 ml, 1 dl = 100 ml.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Kasutab arvutamisel pikkus-, raskus-, mahu-, aja- ja rahaühikute seoseid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aritmeetiliste tehete sooritamisel nimega arvudega tuleb järgida täisarvudega arvutamise algoritme. Oluline on rõhutada, et nimega arvudega saab arvutada alles siis, kui kõik arvud on teisendatud ühenimelisteks. Seetõttu tuleb enne arvutamise juurde jõudmist tegeleda teisendamisega nii suurema(te)ks kui väiksema(te)ks ühikuteks. Pärast arvutamist tuleb saadud ühenimeline arv teisendada suurimaks võimalikuks ühikuks.</p><p>Teisendades nimega arve ühenimelisteks tuleb meelde tuletada reeglid: 1) nimega arvu teisendan väiksemateks ühikuteks korrutamistehte abil; 2) nimega arvu teisendan suuremateks ühikuteks jagamistehte abil.</p><p>Sooritades tehteid ajaühikutega, on oluline meelde tuletada, et ajaühikute vahelised seosed ei ole 10-, 100- või 1000-kordsed nagu teiste ühikute puhul. Vajalik on enne arvutamisülesannetega tegelema hakkamist teisendada ajaühikuid nii suurema(te)ks kui väiksema(te)ks ühikuteks.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "14. Õpilane arvutab aritmeetilise keskmise.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aritmeetilise keskmise olemuse mõistmine.</p><p>Aritmeetilise keskmise arvutamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Teab aritmeetilise keskmise olemust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Arvutab aritmeetilise keskmise.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Aritmeetilise keskmise õppimist tuleks alustada praktilise tegevusega. Näiteks võib mõõta kõigi klassi õpilaste pikkused. Õpilastele saab selgitada, et kõik on erineva pikkusega, aga on võimalik leida klassi õpilaste keskmine pikkus. Seejärel saab tutvustada ja selgitada õpilastele mõistet aritmeetiline keskmine. Samalaadseid klassi õpilastega seotud aritmeetilise keskmise leidmise ülesandeid saab teha teisigi (nt keskmine vanus).</p><p>Aritmeetilise keskmise arvutamisel on abiks algoritm: 1) liidan antud arvud; 2) jagan saadud summa liidetavate arvuga.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "15. Õpilane arvutab hulknurga ümbermõõdu.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Hulknurga (kolm-, neli-, viis-, kuusnurk) külgede pikkuste mõõtmine.</p><p>Hulknurga ümbermõõdu arvutamine mõõtmisel saadud või ette antud andmetega.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõõdab hulknurga (kolm-, neli-, viis-, kuusnurk) külgede pikkused.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Arvutab hulknurga ümbermõõdu mõõtmisel saadud või etteantud andmetega.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Esmalt tuleks meenutada, mis on murdjoon ning kuidas leida selle pikkust. Seejärel saab meelde tuletada erinevad hulknurgad ning nende nimetused. Erinevate hulknurkade ümbermõõdud tuleks leida sarnaselt murdjoone pikkuse leidmisega, liites kokku kõikide külgede pikkused. Seejärel saab meenutada, kuidas saab ümbermõõdu leida valemi abil (vt 6. klassi õpitulemustest).</p><p>Kui hulknurgal on külgi rohkem kui neli, siis tuleb kõikide külgede pikkused kokku liita. Selgitama peab, et hulknurgale annab nime tema külgede arv. Ümbermõõtu tähistatakse tähega P.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "embed",
+              "src": "https://apps.mathlearningcenter.org/geoboard/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "16. Õpilane joonestab sümmeetrilisi kujundeid.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sümmeetria olemuse mõistmine.</p><p>Telgsümmeetriliste kujundite joonestamine.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Mõistab sümmeetria olemust.",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "Joonestab telgsümmeetrilisi kujundeid.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Sümmeetriliste kujundite õppimist on soovitatav alustada praktilise tegevusega: 1. Murra paberileht keskelt pooleks. 2. Joonista lehele mingi kujund (nt kuusk). 3. Lõika kujund välja paberilehte lahti võtmata. 4. Voldi lõigatud kujund lahti.</p><p>Kujundit vaadates saab teha järelduse, et vasakpoolne kujund on täpselt samasugune kui parempoolne kujund. Siit edasi saab selgitada, mida tähendab sümmeetria - kujundid on murdejoone suhtes sümmeetrilised.</p><p>Sümmeetriliste kujundite joonestamist õpetatakse ruudulisel paberil, et õpilased saaksid ruutude järgi orienteeruda ja õppida sümmeetrilisi kujundeid joonestama. Alustada tuleks võimalikult lihtsatest kujunditest ning liikuda edasi järjest keerulisemate kujundite juurde.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppevara",
+          "children": [
+            {
+              "kind": "embed",
+              "src": "https://apps.mathlearningcenter.org/geoboard/"
+            },
+            { "kind": "embed", "src": "https://www.geogebra.org/classic" }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "17. Õpilane lahendab kolmetehtelisi tekstülesandeid toetudes lahendusplaanile.",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Andmete välja toomine ja skeemina vormistamine vajadusel õpetaja abiga.</p><p>Lahendusplaani koostamine vajadusel õpetaja abiga.</p><p>Kolmetehtelise tekstülesande lahendamine toetudes lahendusplaanile vajadusel õpetaja abiga.</p><p>Ühesuunalise sirgjoonelise liikumise leidmise ülesannete lahedamine õpetaja abiga.</p><p>Ülesannete lahendamisel saadud tulemuste reaalsuse hindamine õpetaja abiga.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "outcome",
+          "text": "Toob välja andmed ja vormistab skeemina vajadusel õpetaja abiga.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Koostab vajadusel õpetaja abiga lahendusplaani.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Lahendab vajadusel õpetaja abiga kolmetehtelise tekstülesande toetudes lahendusplaanile.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Lahendab õpetaja abiga ülesandeid ühesuunalise sirgjoonelise liikumise leidmiseks.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "Hindab õpetaja abiga ülesande lahendamisel saadud tulemuse reaalsust.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovitused õppetöö läbiviimiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Tekstülesannete käsitlemisel on jätkuvalt oluline etapiviisiline tegevus:</p><ul><li>sissejuhatav vestlus</li><li>ülesande esitamine (suuliselt, kirjalikult)</li><li>sisu täpsustavad küsimused</li><li>ülesande teine esitamine</li><li>andmete väljatoomine</li><li>skeemi koostamine</li><li>skeemi analüüs</li><li>lahenduse otsing</li><li>lahenduse vormistamine</li><li>iseseisev töö</li><li>lahenduse kontrollimine</li></ul><p>Tekstülesande lahendusplaani vormistamise näidise leiab 6. klassi õpitulemuste juurest.</p><p>Enne ühesuunalise sirgjoonelise liikumise leidmise ülesannete lahendamist tuleb õpilastele selgitada, et kiirus näitab, kui pikk tee läbitakse ühe ajaühikuga (1 sekundiga, 1 minutiga, 1 tunniga). Samuti tuleb tutvustada kiiruse märkimiseks kasutatavaid lühendeid ning selgitada, mida need tähendavad: m/s – meetrit sekundis, km/min – kilomeetrit minutis, km/h – kilomeetrit tunnis.</p><p>Ülesannete lahendamisel peaks alati koostama joonise (vt soovitusliku õppematerjali I osa, lk 91-94).</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Soovituslik teemade jaotus ja tundide arv",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<ul><li>Arvude moodustamine, lugemine, kirjutamine (1)</li><li>Arvu koht arvureas (2)</li><li>Arvude kümnendkoostis (2)</li><li>Arvude võrdlemine, järjestamine kasvavas ja kahanevas järjekorras (2)</li><li>Arvude ümardamine (2)</li><li>Rooma numbrid XX – XXX (1)</li><li>Kirjalik liitmine ja lahutamine 100 000 piires järgu ületamiseta (2)</li><li>Puuduva tehte-komponendi leidmine liitmisel ja lahutamisel (3)</li><li>Tehete järjekord (2)</li><li>Kirjalik liitmine 100 000 piires järgu ületamisega (10)</li><li>Korrutamine ja jagamine 10, 100 ja 1000-ga (3)</li><li>Nimega arvude teisendamine (4)</li><li>Nimega arvude liitmine ja lahutamine (8)</li><li>Täisarvude korrutamine ja jagamine ühekohalise arvuga järgu ületamiseta (2)</li><li>Täisarvude korrutamine ja jagamine ühekohalise arvuga järgu ületamisega (8)</li><li>Puuduva tehtekomponendi leidmine korrutamisel ja jagamisel (2)</li><li>Nimega arvude korrutamine ja jagamine ühekohalise arvuga (5)</li><li>Aritmeetiline keskmine (mõiste; aritmeetilise keskmise arvutamine) (2)</li><li>Kiirus, aeg ja teepikkus (3)</li><li>Täisarvude korrutamine täiskümnete, -sadade ja –tuhandetega (4)</li><li>Ajaühikute teisendamine (2)</li><li>Aega väljendavate arvude liitmine ja lahutamine (8)</li><li>Aega väljendavate arvude korrutamine ja jagamine (5)</li><li>Harilik murd (2 tundi)</li><li>Segaarv (2)</li><li>Murru taandamine (2)</li><li>Ühenimeliste harilike murdude liitmine ja lahutamine (1)</li><li>Hariliku murru korrutamine täisarvuga (5)</li><li>Hariliku murru jagamine täisarvuga (5)</li><li>Osa leidmine arvust (1)</li><li>Terviku leidmine tema ühe osa järgi (1/2, 1/3 ja 1/4 järgi) (4)</li><li>Terviku leidmine mitme osa järgi (2)</li><li>Kümnendmurru mõiste, lugemine ja kirjutamine (2)</li><li>Kümnendmurdude liitmine ja lahutamine järku ületamata (2)</li><li>Kümnendmurdude liitmine ja lahutamine järgu ületamisega (4)</li><li>Kümnendmurru lahutamine täisarvust ja vastupidi (2)</li><li>Kümnendmurru korrutamine ja jagamine 10-, 100- ja 1000-ga (4)</li><li>Kümnendmurru korrutamine ja jagamine ühekohalise arvuga (4)</li><li>Neli aritmeetilist tehet kümnendmurdudega (2)</li><li>Aritmeetiline keskmine (2)</li><li>Hulknurga mõiste, külgede pikkuse mõõtmine, ümbermõõdu arvutamine (4)</li><li>Sümmeetria (2)</li><li>Kordamine (10)</li></ul>"
+        }
+      ]
+    }
+  ]
+}

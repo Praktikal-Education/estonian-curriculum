@@ -1,0 +1,237 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpilastes kujundatavad üldpädevused inglise keele õppes",
+      "children": [
+        {
+          "kind": "section",
+          "title": "1) kultuuri- ja väärtuspädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane tunneb mõningaid ingliskeelsete riikide tavasid ja käitumisnorme",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "tervitab, palub, tänab ja jätab nägemiseni vastavalt kehtivatele moraalinormidele",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "võrdleb end ja meie tavasid ingliskeelsete maade inimeste ja kommetega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "nimetab meie ja nende tähistatavaid pühasid, leiab ühisosa ja erinevusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab, millised ingliskeelsete riikide tavad talle meeldivad ja millised mitte",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2) sotsiaalne ja kodanikupädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane oskab end inglise keeles tutvustada ja saab hakkama igapäevaeluks vajalike toimingutega",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "ta oskab rääkida endast ja oma kodumaast inglise keeles",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb lihtsamaid ingliskeelsete riikide tavasid ja käitumisnorme ning sätib oma käitumist sellele vastavalt"
+            },
+            {
+              "kind": "outcome",
+              "text": "teeb koostööd klassi- ja rühmakaaslastega võõrkeelsetes situatsioonides",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab oma eelistusi ja aktsepteerib kaaslaste eriarvamusi",
+              "outcomeType": "attitude"
+            },
+            {
+              "kind": "outcome",
+              "text": "argumenteerib oma valikute üle",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "3) enesemääratluspädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane räägib endast inglise keeles, kirjeldades oma tugevusi ja nõrkusi (mida oskab hästi ja mida veel mitte)",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab küsida inglise keeles nõu ja pakkuda abi",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "4) õpipädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane korrastab oma õppekeskkonna",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teostab lihtsamaid ingliskeelseid internetiotsinguid soovitud info leidmiseks",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "koostab õppimiseks kavasid ja järgib neid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "seostab inglise keeles õpitut teistes ainetes omandatuga, lahendab probleeme",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab, mida ta oskab (hästi) ja mida peaks veel omandama",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "5) suhtluspädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane valib situatsioonile sobiliku kõneviisi ja väljendid, arvestades olukordi ja suhtluspartnereid (ametlik ja mitteametlik suhtlus)",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tutvustab ennast ja kirjeldab oma seisukohti",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loeb ja mõistab lihtsamaid teabe- ja tarbetekste ning ilukirjandust",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjutab postkaarte ja sõnumeid",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "6) matemaatika-, loodusteaduste ja tehnoloogiaalane pädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane tunneb väiksemate arvude ingliskeelseid nimetusi, nimetab lihtsamaid kujundeid ja kirjeldab nende omadusi inglise keeles",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "õpilane mõõdab erinevaid näitusid ja kirjeldab tulemusi ingliskeelsete väljendite abil",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kasutab ingliskeelseid rakendusi ja veebilehti eesmärgipäraselt",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "teostab infootsinguid",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "7) ettevõtlikkuspädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane algatab oma teadmistele ja oskustele vastavaid tegevusi",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "lahendab probleeme inglise keele tundides omandatud teadmisi kasutades",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "kirjeldab oma eesmärke ja plaane",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "juhib meeskonnatööd ja lööb teiste algatatud ettevõtmistes kaasa",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "8) digipädevus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "õpilane kasutab internetiotsingut ja veebisõnastikku",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "rakendab tundides vajalikke digivahendeid eesmärgipäraselt",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "loob, muudab, salvestab ja kustutab visuaalset materjali",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "valib endale ja olukorrale sobivad digivahendid ning kasutab neid eesmärgipäraselt",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "oskab kaitsta oma privaatsust ja isikuandmeid",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "suhtleb veebikeskkondades viisakalt",
+              "outcomeType": "attitude"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

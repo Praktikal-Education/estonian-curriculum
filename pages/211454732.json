@@ -1,0 +1,198 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "10. kursus TULETISE RAKENDUSED",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Eesmärgid",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>1) õpilane oskab tuletise järgi uurida funktsioone ning lahendada ekstreemumülesandeid;</p><p>2) funktsioonidega (eeskätt funktsiooni ekstreemumiga) seotud ülesannete lahendamise kaudu õpitakse uurima objekti muutusi, mille on põhjustanud erinevad parameetrid, hindama riske ning otsima optimaalseid lahendusi. Ühele ülesandele erinevate lahendusteede leidmine arendab paindlikku mõtlemist ja ideede genereerimise oskust.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üld- ja ainepädevused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suutlikkus kasutada vastavale alateemale omast keelt, sümboleid ning meetodeid. Selleks nõuda kirjalikus ja suulises eneseväljenduses distsiplineeritult mõistete ning keelesümboolika rakendamist.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Eelduskursused",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>matemaatika lai I–V, VII, VIII ja IX kursus.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "TULETISE RAKENDUSED",
+      "children": [
+        {
+          "kind": "section",
+          "title": "Õpitulemus",
+          "children": [
+            {
+              "kind": "outcome",
+              "text": "koostab funktsiooni graafiku puutuja võrrandi etteantud kohal, kontrollib saadut digivahendite abil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "selgitab funktsiooni kasvamise ja kahanemise seost funktsiooni tuletise märgiga, funktsiooni ekstreemumi mõistet ning ekstreemumi leidmist;",
+              "outcomeType": "knowledge"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab funktsiooni kasvamis- ja kahanemisvahemikud, ekstreemumid, funktsiooni graafiku kumerus- ja nõgususvahemikud ning käänupunkti, kontrollib saadut digivahendite abil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "uurib ainekavas etteantud funktsioone täielikult ja skitseerib funktsiooni leitud omaduste põhjal selle graafiku, kontrollib saadut digivahendite abil;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "leiab funktsiooni suurima ja vähima väärtuse etteantud lõigul;",
+              "outcomeType": "skill"
+            },
+            {
+              "kind": "outcome",
+              "text": "tunneb ära ainealased ja reaalelulised probleemid, mis on kirjeldatavad ja lahendatavad õpitud funktsioonide kui mudelite uurimise abil. Tõlgib need matemaatika keelde, lahendab matemaatiliselt ning tõlgendab, hindab ja esitleb saadud tulemusi.",
+              "outcomeType": "skill"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppesisu ja põhimõisted",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Puutuja tõus. Joone puutuja võrrand.</p><p>Hetkkiirus ja kiirendus.</p><p>Funktsiooni kasvamis- ja kahanemisvahemikud; funktsiooni ekstreemum, ekstreemumkoht, ekstreemumpunkt; ekstreemumi olemasolu tarvilik ja piisav tingimus.</p><p>Funktsiooni suurim ja vähim väärtus lõigul.</p><p>Funktsiooni graafiku kumerus- ja nõgususvahemikud, käänupunkt. Funktsiooni uurimine tuletise abil.</p><p>Funktsiooni graafiku skitseerimine funktsiooni omaduste põhjal ja selle kontrollimine digivahenditega.</p><p>Ainealaste ja reaaleluliste probleemide kirjeldamine ja lahendamine õpitud funktsioonide abil (sh ekstreemumülesanded).</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Oskuste ja teadmiste täpsustused. Metoodilised soovitused õpitulemuse saavutamiseks",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Puutuja võrrandi koostamisel tuleb lähtuda kolmest võimalusest:</p><ol><li>antud on puutepunkti abstsiss;</li><li>antud on puutepunkti ordinaat;</li><li>antud on puutuja tõus otseselt või kaudselt (on mingi sirgega paralleelne või risti).</li></ol><p>Võimekamad õpilased võivad koostada ka puutuja võrrandi läbi punkti, mis ei asu etteantud joonel.</p><p>Funktsiooni uurimine tähendab kohtade ja piirkondade leidmist, s.o määramispiirkonna, nullkohtade, positiivsus- ja negatiivsuspiirkonna, ekstreemumkohtade, kasvamis- ja kahanemisvahemike, käänukohtade, kumerus- ja nõguspiirkonna leidmist. Muutumispiirkonda leitakse graafiku põhjal.</p><p>Õpilastele tuleb selgitada mõistete ekstreemumkoht, ekstreemumpunkt ja ekstreemum erinevust ning nõuda neilt sõnade õiget kasutamist (samuti nullkoht, nullpunkt, käänukoht, käänupunkt).</p><p>Funktsiooni uurimisele lisaks käsitleda ekstreemumkohtade liigi määramist, ekstreemumpunktide ja käänupunktide koordinaatide leidmist. Neid on vaja graafikute skitseerimisel. Graafiku skitseerimiseks võib vahemiku või lõigu ette anda ning kindlasti tasub õpilastel oma lahendust digivahendiga kontrollida.</p><p>Varem on õpitud funktsiooni omadusi graafikult lugema, siis nüüd pannakse analüütiline ja geomeetriline tähendus kokku.</p><p>Õpilane leiab funktsiooni suurima ja vähima väärtuse lõigul nii algebraliselt kui ka graafikut kasutades.</p><p>Alustatakse tuttavate funktsioonide graafikute lugemisest erinevatel lõikudel, nt sirgel (kasvav või kahanev), paraboolil (ainult kasvamispiirkonnas või kahanemispiirkonnas või sellisel lõigul, kuhu jääb ka haripunkt), kuupfunktsiooni graafikul. Pärast graafikute uurimist jõutakse arusaamisele, et kõigepealt tuleb leida need ekstreemumkohad, mis jäävad antud lõiku, ning võtta lisaks vaatluse alla ka lõigu otspunktid. Pärast funktsiooni väärtuste arvutamist nendel kohtadel saame valida vähima või suurima või mõlemad.</p>"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Õpilane omandab ekstreemumülesande lahendamise põhimõtte:</p><ol><li>koostatakse ühe muutuja funktsioon otsitavast lähtudes;</li><li>leitakse funktsiooni ekstreemumkoht (-kohad);</li><li>määratakse ekstreemumkoha liik (kontroll) ja sõnastatakse vastus.</li></ol><p>Õpilaste jaoks on kõige raskem õige ühe muutujaga funktsioonini jõudmine. Selleks peab esmalt välja kirjutama otsitava suuruse valemi nii mitme muutujaga kui parajasti vaja (silindri täispindala, kuubi ruumala, rööpküliku pindala jne), edasi tuleb leida seosed esinevate muutujate vahel kas tekstist või jooniselt ning teha vastavad asendused – saame otsitava funktsiooni (valemi).</p><p>Ekstreemumülesannete temaatika: planimeetria, stereomeetria, majandus jm.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppematerjal",
+          "children": [
+            {
+              "kind": "link",
+              "href": "https://vara.e-koolikott.ee/taxonomy/term/2210",
+              "title": "Funktsiooni uurimine tuletise abil"
+            },
+            {
+              "kind": "link",
+              "href": "https://e-koolikott.ee/et/oppekirjandus?taxon=120&sort=publisher_az",
+              "title": "Õppekirjandus"
+            },
+            {
+              "kind": "text",
+              "html": "<p>Kordamiseks võib kasutada Videoõpsi videosid youtube keskkonnas</p>"
+            },
+            {
+              "kind": "link",
+              "href": "https://www.youtube.com/@Videoops",
+              "title": "Videoõpsi videod youtube keskkonnas"
+            },
+            {
+              "kind": "link",
+              "href": "https://varamu.eu/",
+              "title": "Ettevalmistus olümpiaadideks"
+            },
+            {
+              "kind": "link",
+              "href": "https://harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/riigieksamid#materjalid",
+              "title": "Riigieksamite materjalid"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+            },
+            {
+              "kind": "file",
+              "src": "https://oppekava.ee//wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+              "title": "Õppekava üldosa taotluste realiseerimine gümnaasiumi matemaatikakursuses"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Õppeprotsessi diferentseerimine, hindamine",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Matemaatikaõpetaja peaks kogu õppeprotsessi kestel – nii enne uue teemaga alustamist, selle ajal kui lõpus, kasutama mitmesuguseid info kogumise viise, et saada teada, milline on õppijate tase, kas ja kuivõrd saavad õpilased õpitavast aru, mis tekitab probleeme. Õppimist toetava hindamise kontekstis on aga veelgi olulisem, et õpilased õpiksid ise analüüsima oma matemaatikaõpinguid. Selle analüüsi aluseks on ühine arusaam õppe eesmärkidest – sellest, mida tahetakse saavutada (mida osata, millest aru saada vms). Vaid eesmärke teades saab analüüsida seda, kas ja kuidas eesmärk saavutatud on.</p><p>Õppimist toetavast hindamisest täpsemalt: <a href=\"https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/\">https://6ppimisttoetavhindamine.wordpress.com/2013/02/15/oppimist-toetav-hindamine-matemaatikas/</a></p><p><em>Vt näiteülesandeid lehekülje allosas</em></p><p>Ülesannete raskusaste:</p><ul><li><strong>A</strong> – tüüpilisi algoritme rakendav arvutus- või teisendusülesanne;</li><li><strong>B</strong> – ühe- või kaheetapilise suhteliselt tuntud mudeli koostamise ja rakendamise ülesanne;</li><li><strong>C</strong> – mitmeetapilise mudeli loomise ja rakendamise ülesanne.</li></ul>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Üldpädevuste toetamine, lõiming",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Ressursside säästev kasutamine (optimaalsete lahenduste otsimine ekstreemumülesandeid lahendades); reaalse eluga seotud majandusülesannete lahendamine; ainesisene lõiming planimeetriaga ja stereomeetriaga.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Üldpädevuste toetamine",
+              "children": [
+                {
+                  "kind": "file",
+                  "src": "https://oppekava.ee/wp-content/uploads/2016/10/LLepmann_yldosa.pdf",
+                  "title": "Üldpädevuste toetamine"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Näiteülesanded",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454732/LAI_MATEMAATIKA_10.kursus%20na%CC%88iteu%CC%88lesanded.docx?version=1&modificationDate=1706621739114&api=v2",
+          "title": "LAI_MATEMAATIKA_10.kursus näiteülesanded.docx"
+        },
+        {
+          "kind": "file",
+          "src": "https://projektid.edu.ee/download/attachments/211454732/LAI_MATEMAATIKA_10.kursus%20na%CC%88iteu%CC%88lesanded.pdf?version=1&modificationDate=1706621739103&api=v2",
+          "title": "LAI_MATEMAATIKA_10.kursus näiteülesanded.pdf"
+        }
+      ]
+    }
+  ]
+}

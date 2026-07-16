@@ -1,0 +1,245 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p><strong>1 ainetund nädalas</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Õpitulemused 3. klassis",
+      "children": [
+        {
+          "kind": "file",
+          "src": "https://www.riigiteataja.ee/aktilisa/1080/3202/3004/18m_pohi_liht_lisa1.pdf",
+          "title": "määrusest (4.8.3)"
+        },
+        {
+          "kind": "outcome",
+          "text": "oskab peast 3–4 lastelaulu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "laulab tuttavaid laule ilmekalt ja õige kehahoiuga;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "rakendab keha-, rütmi- ja plaatpille lihtsamates ostinaatodes ja/või kaasmängudes;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb rütmivorme TA, TI-TI, PAUS, TA-A;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "viipab käega kaheosalist taktimõõtu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab kurvakõlalist meloodiat rõõmsakõlalisest;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "kirjeldab kuulatud muusikapala iseloomu (kurb/rõõmus; aeglane/kiire);",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "laulab Eesti hümni vastavalt võimetele kaasa;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "eristab ja iseloomustab rahvakalendri tähtpäevadega seotud traditsioone, osaleb laulmisel;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb õpitud laulumängudes.",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "text",
+          "html": "<p><strong>Määruses fikseeritud õpitulemused on lähtuvalt käsitletavast õppesisust konkretiseeritud.</strong></p>"
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Osaoskus LAULMINE",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "laulab lihtsamate regilaulude kooriosa kaasa;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "laulab peast 3–4 lastelaulu;",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb Eesti hümni, käitub hümni laulmise ajal õigesti, püüab kaasa laulda;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "tunneb rütmivorme TA, TI-TI, TA-A, PAUS;",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Kasutatakse ja kinnistatakse 1. ja 2. klassis omandatud teadmisi.</p>"
+            },
+            {
+              "kind": "section",
+              "title": "Laulmine ja laulutehnika",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Laulmisel kasutatakse loomulikku kehahoidu ja laululist hingamist, pingevaba tooni ja selget diktsiooni. Lauldakse a capella ja saatega kooris (terve klassiga), rühmas (rea kaupa) ja ka üksi. Õpitakse kuulama nii ennast kui ka teisi.</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Repertuaar",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Lauldakse eakohaseid laste-, mängu- ja mudellaule, regilaule, eesti ja teiste rahvaste laule. Repertuaari valikul arvestatakse eesti rahvakalendri tähtpäevadega (mardipäev, kadripäev, jõulud, vastlad, kevadpühad) ja riiklike tähtpäevadega ( Eesti Vabariigi aastapäev jt).</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Õpitakse I kooliastme ühislaule: „Mu isamaa, mu õnn ja rõõm“ (F. Pacius / J. V. Jannsen), „Lapsed, tuppa“ (sõnad E. L. Wöhrmann) „Teele, teele, kurekesed“ (sõnad Fr. Kuhlbars), „Uhti, uhti, uhkesti“ (eesti rahvaviis / A. Piirikivi), „Emakesele“ (M. Härma / A. Oengo-Johanson)</p>"
+                }
+              ]
+            },
+            {
+              "kind": "section",
+              "title": "Muusikaline kirjaoskus",
+              "children": [
+                {
+                  "kind": "text",
+                  "html": "<p>Tutvutakse laulu autoritega (helilooja ja luuletaja/sõnade looja). Loetakse noodist silbitatud laulusõnu ning järgitakse rütmi ja meloodia liikumist. Arvestatakse noodikirja märkidega (kordusmärgid, esimene ja teine volt, fermaat, latern, <em>segno</em>). Kinnistatakse laule õppides mõisteid salm, refrään, eelmäng ja vahemäng.</p>"
+                },
+                {
+                  "kind": "text",
+                  "html": "<p>Kasutatakse ja kinnistatakse õpitud rütmivorme TA, TI-TI, TA-A, PAUS.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd (valik ideid õpetajale)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Hääle- ja hingamisharjutused, arvestades ja arendades lauljate vokaalseid võimeid</li><li>Ea- ja teemakohaste laulude laulmine</li><li>Esinemised kooliüritustel, avaliku esinemise nõuete ja kommetega tutvumine ning nende järgmine</li></ul>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Osaoskus PILLIMÄNG",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "mängib õpitud rütme tuttavate laulude saateks kaasa",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "mängib lihtsamaid kaasmänge keha- ja rütmipillidel",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Harjutatakse kaasmänge keha- ja rütmipillidel.</p><p>Tutvutakse plaatpillidega, kasutatakse põhiastmete (I, IV, V) plaate kaasmängudes.</p><p>Tutvutakse eesti rahvapillidega (väikekannel jt)</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd (valik ideid õpetajale)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Rütmiharjutused keha - ja rütmipillidel.</li><li>Suurte ja väikeste numbrite kasutamine helivältuse märgistamiseks, number ise märgib mängitavat astet helireas.</li><li>Plaatpilli mängu puhul saab tähtede ja numbrite asemel kasutada värvilisi kleepsutäppe. Sama värvi, kui on tähistatud plaat, on ka tähis noodis. Löökide arv=täppide arv taktis. Kaks korda vaja lüüa - 2 täppi vastavas kohas noodis (paarisarvulise taktimõõdu korral, kas 1. ja 2. löögil või siis 1. ja 3. löögil).</li><li>Värviliste täppide abi saab kasutada ka väikekandle õppimisel. Täpid kleebitakse vastavate keelte alla (I astme akordil siis vastavalt 2., 4. ja 6 keele alla, V astme akord 1., 3. ja 6 keele alla ning IV astme akord 2., 3. ja 5. keele alla) ning sama värvi täpp noodirea kohale sinna, kus loos peaks kõlama akord.</li></ul>"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/182781545/Kus%20on%20minu%20koduke%20_t%C3%A4ppidega.jpg?version=1&modificationDate=1711474042701&api=v2",
+              "alt": "Kus on minu koduke täppidega"
+            },
+            {
+              "kind": "image",
+              "src": "https://projektid.edu.ee/download/attachments/182781545/t%C3%A4iskannel.jpg?version=1&modificationDate=1711474043120&api=v2",
+              "alt": "täiskannel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "topic",
+      "title": "Osaoskus MUUSIKALINE LIIKUMINE",
+      "children": [
+        {
+          "kind": "outcome",
+          "text": "väljendab muusika sisu ja karakterit liikumise kaudu",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "outcome",
+          "text": "osaleb õpitud laulumängudes",
+          "outcomeType": "skill"
+        },
+        {
+          "kind": "section",
+          "title": "Soovituslik õppesisu",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>Meetrumi-taktimõõtu tunnetatakse ja väljendatakse liigutuste või liikumistega.</p><p>Rütmi-ostinatod kehapillile.</p><p>Liigutused-liikumised lauludele (teksti alusel/ teksti meelde jätmise hõlbustamiseks).</p><p>Õpitakse erinevaid laulumänge.</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "Praktilised tööd (valik ideid õpetajale)",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<ul><li>Muusika väljendusvahendite (tempo - kiire, aeglane; meloodia - astmeliselt kulgev, hüpetega, lühikesed/pikad helivältused; harmoonia - tihe, hõre) tunnetamine liikumise kaudu. Muusika sisu ja karakteri väljendamine liikumise kaudu üksi või rühmas.</li><li>Eeskuju järgi liikumised - virtuaalsed rütmimängud (body percussion), laste-zumba</li><li>Marssimine erinevates tempodes, liikumissuundade vahetamine.</li><li>Erinevate liikumisimprovisatsioonide loomine.</li><li>Õpetajaga ühise liikumiskompositsiooni loomine.</li><li>Valsi ja polka tantsimine, kasutades põhisamme.</li><li>Eesti laulu- ja ringmängude mängimine.</li></ul>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

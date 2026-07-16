@@ -1,0 +1,135 @@
+{
+  "content": [
+    {
+      "kind": "section",
+      "title": "Õpitulemused III kooliastmes",
+      "children": [
+        {
+          "kind": "text",
+          "html": "<p>9. klassi lõpetaja:</p>"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab, kuidas on läbi ajaloo muutunud eestlaste eluolu ja esemeline keskkond",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab mõningaid Eesti ajalugu mõjutanud sündmusi Euroopa ja maailma ajaloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab uusaja ja lähiajaloo sündmusi Eesti ajaloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab oluliste isikute rolli Eesti, Euroopa ja maailma ajaloos",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "mõistab ajatelje abil sündmuste ajalist järgnevust ja ajaloosündmuste täpset dateerimist",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "teab Eesti Vabariigi valitsemiskorda ja seda, kuidas riik toimib",
+          "outcomeType": "knowledge"
+        },
+        {
+          "kind": "outcome",
+          "text": "väärtustab oma kodumaad ja selle kodanikuks olemist.",
+          "outcomeType": "attitude"
+        }
+      ]
+    },
+    {
+      "kind": "section",
+      "title": "Lõiming üldpädevustega",
+      "children": [
+        {
+          "kind": "section",
+          "title": "1) kultuuri- ja väärtuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>tunnetab end oma rahvuse liikmena ja Eesti kodanikuna, väärtustab maailma eri rahvaste ja kultuuride mitmekesisust, suhtub teistest rahvustest inimestesse eelarvamuste vabalt ja lugupidavalt, tunneb ja austab oma keelt ja kultuuri ning väärtustab eesti keele ja kultuuri säilimist ja arengut; tunneb ja järgib üldtunnustatud väärtusi ja kõlbluspõhimõtteid, ei jää ükskõikseks, kui neid eiratakse, ning sekkub vajaduse korral oma võimaluste piires;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "2) sotsiaalne ja kodanikupädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>on aktiivne ja vastutustundlik kodanik, kes on huvitatud oma kooli, kodukoha ja riigi demokraatlikust arengust; teab oma peamisi õigusi ja kohustusi, oskab nende eest seista, arvestab rühma huvisid ja isiklikku huvi; järgib vastutustundlikult ühiselu reegleid, konflikte lahendades arvestab seadusi ning moraalinorme;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "3) enesemääratluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>mõistab ja väärtustab iseennast ja enda arengut, hindab adekvaatselt oma võimeid ja toimetulekut igapäevaelus, juhib oma käitumist erinevates olukordades; väärtustab tervislikku eluviisi, on füüsiliselt aktiivne;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "4) õpipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>õpib vastavalt oma võimetele, planeerib õppimist, sh enesekontrolli, järgib kavandatut. Täidab korrektselt jõukohaseid ülesandeid individuaalselt ja rühmas, kasutab sobivaid teabevahendeid. On avatud uutele teadmistele ja oskustele;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "5) suhtluspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>suhtleb olukorda ja suhtlemispartnereid arvestades, esitab oma soove, selgitab oma seisukohti, osaleb arutelus; loeb, mõistab, kirjutab ja loob tekste iseseisvaks toimetulekuks vajalikul tasemel, kasutab teabevahendeid; mõistab ja kasutab võõrkeeles lihtsamaid igapäevaseid väljendeid ning fraase, tuginedes vajaduse korral abivahenditele;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "6) matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>lahendab elulisi probleemsituatsioone, kasutades omandatud matemaatilisi, loodusteaduslikke ja/või tehnoloogiaalaseid teadmisi-oskusi ning (abi)vahendeid; mõistab inimese ja keskkonna vahelisi seoseid, suhtub elukeskkonda vastutustundlikult ja hoolivalt, elab ning tegutseb loodust ja keskkonda säästvalt;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "7) ettevõtlikkuspädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>on tegutsemisaldis, väärtustab praktilist tööd ja on valmis kutse- ja elukestvaks õppeks. Hindab adekvaatselt oma võimeid. Püstitab ja täidab endale seatud eesmärke ning võtab vastutuse oma tegude eest;</p>"
+            }
+          ]
+        },
+        {
+          "kind": "section",
+          "title": "8) digipädevus",
+          "children": [
+            {
+              "kind": "text",
+              "html": "<p>orienteerub ja tegutseb infotehnoloogilises maailmas eesmärgipäraselt ja turvaliselt. Otsib ja kasutab infot, tunneb lihtsamaid programme ja keskkondi. Järgib digikeskkonnas üldkehtivaid moraali- ja väärtuspõhimõtteid.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
