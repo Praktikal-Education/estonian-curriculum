@@ -242,6 +242,10 @@ function leafToNode(node: ContentNode, ref: string): CurriculumImportAnyNode | n
       return node.src?.trim()
         ? wrap(CurriculumImportNodeKind.EMBED, { externalSrc: node.src.trim() })
         : null;
+    case 'generalCompetency':
+      return node.title?.trim()
+        ? wrap(CurriculumImportNodeKind.GENERAL_COMPETENCY, { title: node.title.trim() })
+        : null;
     default:
       return null;
   }
