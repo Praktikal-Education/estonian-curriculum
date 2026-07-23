@@ -38,6 +38,15 @@
         },
         {
           "type": "object",
+          "required": ["kind", "title"],
+          "additionalProperties": false,
+          "properties": {
+            "kind": { "const": "generalCompetency" },
+            "title": { "type": "string" }
+          }
+        },
+        {
+          "type": "object",
           "required": ["kind", "html"],
           "additionalProperties": false,
           "properties": {

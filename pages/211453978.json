@@ -5,84 +5,68 @@
       "title": "Õpilastes kujundatavad üldpädevused",
       "children": [
         {
-          "kind": "section",
-          "title": "kultuuri- ja väärtuspädevus",
-          "children": [
-            {
-              "kind": "text",
-              "html": "<p>suutlikkus hinnata inimsuhteid ja tegevusi üldkehtivate moraalinormide ja eetika seisukohast; tajuda, analüüsida ja väärtustada oma seotust teiste inimestega, ühiskonnaga, loodusega, oma ja teiste maade ja rahvaste kultuuripärandiga ning nüüdiskultuuri sündmustega; väärtustada kunsti ja loomingut ning kujundada ilumeelt; hinnata üldinimlikke ja ühiskondlikke väärtusi, väärtustada inimlikku, kultuurilist ja looduslikku mitmekesisust; teadvustada oma väärtushinnanguid ja arvestada nendega otsuste langetamisel; olla salliv ja koostööaldis ning panustada ühiste eesmärkide saavutamisse;</p>"
-            }
-          ]
+          "kind": "generalCompetency",
+          "title": "Kultuuri- ja väärtuspädevus"
         },
         {
-          "kind": "section",
-          "title": "sotsiaalne ja kodanikupädevus",
-          "children": [
-            {
-              "kind": "text",
-              "html": "<p>suutlikkus ennast teostada; toimida aktiivse, teadliku, abivalmi ja vastutustundliku kodanikuna ning toetada ühiskonna demokraatlikku arengut ja Eesti riiklikku iseseisvust; teada ja järgida ühiskondlikke väärtusi ja kõlbluspõhimõtteid; austada erinevate keskkondade, sh suhtluskeskkondade reegleid ja ühiskondlikku mitmekesisust, inimõigusi, religioonide ja rahvuste omapära; teha koostööd teiste inimestega erinevates situatsioonides; aktsepteerida inimeste ja nende väärtushinnangute erinevusi ning arvestada neid suhtlemisel; suutlikkus mõista globaalprobleeme, võtta kaasvastutus nende lahendamise eest; väärtustada ja järgida jätkusuutliku arengu põhimõtteid; tunnetada end dialoogivõimelise ühiskonnaliikmena Eesti, Euroopa ja kogu maailma kontekstis;</p>"
-            }
-          ]
+          "kind": "text",
+          "html": "<p>suutlikkus hinnata inimsuhteid ja tegevusi üldkehtivate moraalinormide ja eetika seisukohast; tajuda, analüüsida ja väärtustada oma seotust teiste inimestega, ühiskonnaga, loodusega, oma ja teiste maade ja rahvaste kultuuripärandiga ning nüüdiskultuuri sündmustega; väärtustada kunsti ja loomingut ning kujundada ilumeelt; hinnata üldinimlikke ja ühiskondlikke väärtusi, väärtustada inimlikku, kultuurilist ja looduslikku mitmekesisust; teadvustada oma väärtushinnanguid ja arvestada nendega otsuste langetamisel; olla salliv ja koostööaldis ning panustada ühiste eesmärkide saavutamisse;</p>"
         },
         {
-          "kind": "section",
-          "title": "enesemääratluspädevus",
-          "children": [
-            {
-              "kind": "text",
-              "html": "<p>suutlikkus mõista ja hinnata adekvaatselt oma nõrku ja tugevaid külgi, arvestada oma võimeid ja võimalusi; analüüsida oma käitumist erinevates olukordades; käituda ohutult ja järgida tervislikke eluviise; lahendada oma vaimse ja füüsilise tervisega seonduvaid probleeme; käituda inimsuhetes sõltumatult; hankida teavet edasiõppimise ja tööleidmise võimaluste kohta, kavandada oma karjääri;</p>"
-            }
-          ]
+          "kind": "generalCompetency",
+          "title": "Sotsiaalne ja kodanikupädevus"
         },
         {
-          "kind": "section",
-          "title": "õpipädevus",
-          "children": [
-            {
-              "kind": "text",
-              "html": "<p>suutlikkus organiseerida õppekeskkonda individuaalselt ja rühmas ning hankida õppimiseks, hobideks, tervisekäitumiseks ja karjäärivalikuteks vajaminevat teavet; leida sobivad teabeallikad ja juhendajad ning kasutada õppimisel nende abi; planeerida õppimist ja seda plaani järgida; kasutada erinevaid õpistrateegiaid ja õpitut erinevates olukordades ja probleeme lahendades; seostada omandatud teadmisi varemõpituga; analüüsida oma teadmisi ja oskusi, motiveeritust ja enesekindlust ning selle põhjal edasiõppimise võimalusi;</p>"
-            }
-          ]
+          "kind": "text",
+          "html": "<p>suutlikkus ennast teostada; toimida aktiivse, teadliku, abivalmi ja vastutustundliku kodanikuna ning toetada ühiskonna demokraatlikku arengut ja Eesti riiklikku iseseisvust; teada ja järgida ühiskondlikke väärtusi ja kõlbluspõhimõtteid; austada erinevate keskkondade, sh suhtluskeskkondade reegleid ja ühiskondlikku mitmekesisust, inimõigusi, religioonide ja rahvuste omapära; teha koostööd teiste inimestega erinevates situatsioonides; aktsepteerida inimeste ja nende väärtushinnangute erinevusi ning arvestada neid suhtlemisel; suutlikkus mõista globaalprobleeme, võtta kaasvastutus nende lahendamise eest; väärtustada ja järgida jätkusuutliku arengu põhimõtteid; tunnetada end dialoogivõimelise ühiskonnaliikmena Eesti, Euroopa ja kogu maailma kontekstis;</p>"
         },
         {
-          "kind": "section",
-          "title": "suhtluspädevus",
-          "children": [
-            {
-              "kind": "text",
-              "html": "<p>suutlikkus ennast selgelt, asjakohaselt ja viisakalt väljendada emakeeles ja iseseisva keelekasutaja tasemel vähemalt kahes võõrkeeles, arvestades olukordi ja mõistes suhtluspartnereid ning suhtlemise turvalisust; ennast esitleda, oma seisukohti esitada ja põhjendada; lugeda ning eristada ja mõista teabe- ja tarbetekste ning ilukirjandust; koostada eri liiki tekste, kasutades korrektset viitamist, kohaseid keelevahendeid ja sobivat stiili; väärtustada õigekeelsust, kasutada korrektset ja väljendusrikast keelt ning kokkuleppel põhinevat suhtlemisviisi;</p>"
-            }
-          ]
+          "kind": "generalCompetency",
+          "title": "Enesemääratluspädevus"
         },
         {
-          "kind": "section",
-          "title": "matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus",
-          "children": [
-            {
-              "kind": "text",
-              "html": "<p>suutlikkus kasutada matemaatikale ja loodusteadustele omast keelt, sümboleid, meetodeid ja mudeleid, lahendades erinevaid ülesandeid kõigis elu- ja tegevusvaldkondades; mõista loodusteaduste ja tehnoloogia tähtsust ning mõju igapäevaelule, loodusele ja ühiskonnale; mõista teaduse ja tehnoloogiaga seotud piiranguid ja riske; teha tõenduspõhiseid otsuseid erinevates eluvaldkondades; kasutada uusi tehnoloogiaid loovalt ja uuendusmeelselt;</p>"
-            }
-          ]
+          "kind": "text",
+          "html": "<p>suutlikkus mõista ja hinnata adekvaatselt oma nõrku ja tugevaid külgi, arvestada oma võimeid ja võimalusi; analüüsida oma käitumist erinevates olukordades; käituda ohutult ja järgida tervislikke eluviise; lahendada oma vaimse ja füüsilise tervisega seonduvaid probleeme; käituda inimsuhetes sõltumatult; hankida teavet edasiõppimise ja tööleidmise võimaluste kohta, kavandada oma karjääri;</p>"
         },
         {
-          "kind": "section",
-          "title": "ettevõtlikkuspädevus",
-          "children": [
-            {
-              "kind": "text",
-              "html": "<p>suutlikkus ideid luua ja ellu viia, kasutades omandatud teadmisi ja oskusi erinevates elu- ja tegevusvaldkondades; näha probleeme ja neis peituvaid võimalusi, aidata kaasa probleemide lahendamisele; seada eesmärke, koostada lühi- ja pikaajalisi plaane, neid tutvustada ja ellu viia; korraldada ühistegevusi ja neist osa võtta, näidata algatusvõimet ja vastutada tulemuste eest; reageerida loovalt, uuendusmeelselt ja paindlikult muutustele ning võtta arukaid riske; mõelda kriitiliselt ja loovalt, arendada ja hinnata oma ja teiste ideid; rakendada finantskirjaoskust</p>"
-            }
-          ]
+          "kind": "generalCompetency",
+          "title": "Õpipädevus"
         },
         {
-          "kind": "section",
-          "title": "digipädevus",
-          "children": [
-            {
-              "kind": "text",
-              "html": "<p>suutlikkus kasutada uuenevat digitehnoloogiat toimetulekuks kiiresti muutuvas ühiskonnas nii õppimisel, kodanikuna tegutsedes kui kogukondades suheldes; leida ja säilitada digivahendite abil infot ning hinnata selle asjakohasust ja usaldusväärsust; osaleda digitaalses sisuloomes, sh tekstide, piltide, multimeediumide loomisel ja kasutamisel; kasutada probleemilahenduseks sobivaid digivahendeid ja võtteid, suhelda ja teha koostööd erinevates digikeskkondades; olla teadlik digikeskkonna ohtudest ning osata kaitsta oma privaatsust, isikuandmeid ja digitaalset identiteeti; järgida digikeskkonnas samu moraali- ja väärtuspõhimõtteid nagu igapäevaelus.</p>"
-            }
-          ]
+          "kind": "text",
+          "html": "<p>suutlikkus organiseerida õppekeskkonda individuaalselt ja rühmas ning hankida õppimiseks, hobideks, tervisekäitumiseks ja karjäärivalikuteks vajaminevat teavet; leida sobivad teabeallikad ja juhendajad ning kasutada õppimisel nende abi; planeerida õppimist ja seda plaani järgida; kasutada erinevaid õpistrateegiaid ja õpitut erinevates olukordades ja probleeme lahendades; seostada omandatud teadmisi varemõpituga; analüüsida oma teadmisi ja oskusi, motiveeritust ja enesekindlust ning selle põhjal edasiõppimise võimalusi;</p>"
+        },
+        {
+          "kind": "generalCompetency",
+          "title": "Suhtluspädevus"
+        },
+        {
+          "kind": "text",
+          "html": "<p>suutlikkus ennast selgelt, asjakohaselt ja viisakalt väljendada emakeeles ja iseseisva keelekasutaja tasemel vähemalt kahes võõrkeeles, arvestades olukordi ja mõistes suhtluspartnereid ning suhtlemise turvalisust; ennast esitleda, oma seisukohti esitada ja põhjendada; lugeda ning eristada ja mõista teabe- ja tarbetekste ning ilukirjandust; koostada eri liiki tekste, kasutades korrektset viitamist, kohaseid keelevahendeid ja sobivat stiili; väärtustada õigekeelsust, kasutada korrektset ja väljendusrikast keelt ning kokkuleppel põhinevat suhtlemisviisi;</p>"
+        },
+        {
+          "kind": "generalCompetency",
+          "title": "Matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus"
+        },
+        {
+          "kind": "text",
+          "html": "<p>suutlikkus kasutada matemaatikale ja loodusteadustele omast keelt, sümboleid, meetodeid ja mudeleid, lahendades erinevaid ülesandeid kõigis elu- ja tegevusvaldkondades; mõista loodusteaduste ja tehnoloogia tähtsust ning mõju igapäevaelule, loodusele ja ühiskonnale; mõista teaduse ja tehnoloogiaga seotud piiranguid ja riske; teha tõenduspõhiseid otsuseid erinevates eluvaldkondades; kasutada uusi tehnoloogiaid loovalt ja uuendusmeelselt;</p>"
+        },
+        {
+          "kind": "generalCompetency",
+          "title": "Ettevõtlikkuspädevus"
+        },
+        {
+          "kind": "text",
+          "html": "<p>suutlikkus ideid luua ja ellu viia, kasutades omandatud teadmisi ja oskusi erinevates elu- ja tegevusvaldkondades; näha probleeme ja neis peituvaid võimalusi, aidata kaasa probleemide lahendamisele; seada eesmärke, koostada lühi- ja pikaajalisi plaane, neid tutvustada ja ellu viia; korraldada ühistegevusi ja neist osa võtta, näidata algatusvõimet ja vastutada tulemuste eest; reageerida loovalt, uuendusmeelselt ja paindlikult muutustele ning võtta arukaid riske; mõelda kriitiliselt ja loovalt, arendada ja hinnata oma ja teiste ideid; rakendada finantskirjaoskust</p>"
+        },
+        {
+          "kind": "generalCompetency",
+          "title": "Digipädevus"
+        },
+        {
+          "kind": "text",
+          "html": "<p>suutlikkus kasutada uuenevat digitehnoloogiat toimetulekuks kiiresti muutuvas ühiskonnas nii õppimisel, kodanikuna tegutsedes kui kogukondades suheldes; leida ja säilitada digivahendite abil infot ning hinnata selle asjakohasust ja usaldusväärsust; osaleda digitaalses sisuloomes, sh tekstide, piltide, multimeediumide loomisel ja kasutamisel; kasutada probleemilahenduseks sobivaid digivahendeid ja võtteid, suhelda ja teha koostööd erinevates digikeskkondades; olla teadlik digikeskkonna ohtudest ning osata kaitsta oma privaatsust, isikuandmeid ja digitaalset identiteeti; järgida digikeskkonnas samu moraali- ja väärtuspõhimõtteid nagu igapäevaelus.</p>"
         }
       ]
     },

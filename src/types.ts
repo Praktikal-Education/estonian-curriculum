@@ -28,6 +28,7 @@ export type ContentNode =
   | { kind: 'topic'; title: string; children: ContentNode[] }
   | { kind: 'section'; title: string; children: ContentNode[] }
   | { kind: 'outcome'; text: string; outcomeType?: OutcomeType }
+  | { kind: 'generalCompetency'; title: string }
   | { kind: 'text'; html: string }
   | { kind: 'table'; html: string }
   | { kind: 'image'; src: string; alt?: string }
@@ -76,6 +77,7 @@ export enum CurriculumImportNodeKind {
   VIDEO = 'video',
   EMBED = 'embed',
   LEARNING_OUTCOME = 'learningOutcome',
+  GENERAL_COMPETENCY = 'generalCompetency',
   BRIDGE = 'bridge',
 }
 
@@ -107,6 +109,7 @@ export const CURRICULUM_IMPORT_ALLOWED_CHILD_KINDS: Record<
     CurriculumImportNodeKind.SUBJECT,
     CurriculumImportNodeKind.TOPIC,
     CurriculumImportNodeKind.SECTION,
+    CurriculumImportNodeKind.GENERAL_COMPETENCY,
     CurriculumImportNodeKind.LEARNING_OUTCOME,
   ]),
   [CurriculumImportNodeKind.SCHOOL_LEVEL]: new Set([
@@ -156,6 +159,7 @@ export const CURRICULUM_IMPORT_ALLOWED_CHILD_KINDS: Record<
   [CurriculumImportNodeKind.SECTION]: new Set([
     CurriculumImportNodeKind.SECTION,
     ...CURRICULUM_IMPORT_CONTENT_LEAF_KINDS,
+    CurriculumImportNodeKind.GENERAL_COMPETENCY,
     CurriculumImportNodeKind.LEARNING_OUTCOME,
   ]),
   [CurriculumImportNodeKind.TEXT]: new Set(),
@@ -166,6 +170,7 @@ export const CURRICULUM_IMPORT_ALLOWED_CHILD_KINDS: Record<
   [CurriculumImportNodeKind.VIDEO]: new Set(),
   [CurriculumImportNodeKind.EMBED]: new Set(),
   [CurriculumImportNodeKind.LEARNING_OUTCOME]: new Set(),
+  [CurriculumImportNodeKind.GENERAL_COMPETENCY]: new Set(),
 };
 
 export interface CurriculumImportExternalRef {
@@ -265,6 +270,10 @@ export interface CurriculumImportLearningOutcomeNode extends CurriculumImportNod
   secondaryParentRefs?: string[];
 }
 
+export interface CurriculumImportGeneralCompetencyNode extends CurriculumImportNodeBase {
+  kind: CurriculumImportNodeKind.GENERAL_COMPETENCY;
+}
+
 export interface CurriculumImportBridgeNode extends CurriculumImportNodeBase {
   kind: CurriculumImportNodeKind.BRIDGE;
   bridgeKind: CurriculumImportBridgeKind;
@@ -289,6 +298,7 @@ export type CurriculumImportAnyNode =
   | CurriculumImportVideoNode
   | CurriculumImportEmbedNode
   | CurriculumImportLearningOutcomeNode
+  | CurriculumImportGeneralCompetencyNode
   | CurriculumImportBridgeNode;
 
 export interface CurriculumImportRequest {
