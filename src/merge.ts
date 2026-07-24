@@ -244,7 +244,10 @@ function leafToNode(node: ContentNode, ref: string): CurriculumImportAnyNode | n
         : null;
     case 'generalCompetency':
       return node.title?.trim()
-        ? wrap(CurriculumImportNodeKind.GENERAL_COMPETENCY, { title: node.title.trim() })
+        ? wrap(CurriculumImportNodeKind.GENERAL_COMPETENCY, {
+            title: node.title.trim(),
+            ...(node.description?.trim() ? { summary: node.description.trim() } : {}),
+          })
         : null;
     default:
       return null;
@@ -278,9 +281,29 @@ function buildChildren(
   nodes: ContentNode[],
   refPrefix: string,
 ): CurriculumImportAnyNode[] {
-  return nodes
-    .map((n, i) => contentNodeToImport(n, `${refPrefix}:${i}`))
-    .filter((n): n is CurriculumImportAnyNode => n != null);
+  const consumed = new Set<number>();
+  const out: CurriculumImportAnyNode[] = [];
+
+  nodes.forEach((n, i) => {
+    if (consumed.has(i)) return;
+
+    // A general competency is authored as a heading followed by a paragraph of
+    // prose; fold that paragraph onto the competency as its description so it
+    // renders as one box, and drop the now-consumed sibling text.
+    let node = n;
+    if (n.kind === 'generalCompetency') {
+      const next = nodes[i + 1];
+      if (next?.kind === 'text' && next.html?.trim()) {
+        node = { ...n, description: next.html.trim() };
+        consumed.add(i + 1);
+      }
+    }
+
+    const mapped = contentNodeToImport(node, `${refPrefix}:${i}`);
+    if (mapped != null) out.push(mapped);
+  });
+
+  return out;
 }
 
 function buildContentNodes(pageId: string): CurriculumImportAnyNode[] {
