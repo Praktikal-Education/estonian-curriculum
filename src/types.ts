@@ -28,7 +28,7 @@ export type ContentNode =
   | { kind: 'topic'; title: string; children: ContentNode[] }
   | { kind: 'section'; title: string; children: ContentNode[] }
   | { kind: 'outcome'; text: string; outcomeType?: OutcomeType }
-  | { kind: 'generalCompetency'; title: string }
+  | { kind: 'generalCompetency'; title: string; description?: string }
   | { kind: 'text'; html: string }
   | { kind: 'table'; html: string }
   | { kind: 'image'; src: string; alt?: string }
